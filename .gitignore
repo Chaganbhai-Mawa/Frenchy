@@ -64,6 +64,9 @@ app.*.map.json
 *.p8
 *.mobileprovision
 *.cer
+*.key
+*.csr
+/ios/Keys/
 
 # Built release artifacts — large binaries don't belong in git history.
 /release/*.aab
