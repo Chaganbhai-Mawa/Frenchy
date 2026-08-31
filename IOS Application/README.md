@@ -118,23 +118,24 @@ You'll also need:
   questions in its own format (no violence, no mature content, does contain
   third-party/ad content).
 
-### 8. Screenshots — these need to be recaptured for iOS, not reused from Play Store
+### 8. Screenshots — done, in `screenshots/`
 
-Apple requires **exact pixel dimensions per device class**, different from the Play Store
-screenshots already captured in `../store-listing/screenshots/`. At minimum you need:
-- **6.9" display** (iPhone 16 Pro Max class): 1320×2868 or 1290×2796
-- If you keep the app **universal** (iPhone + iPad — Flutter's default, not yet
-  restricted): also **13" iPad** (2048×2732 or 2064×2752)
+`screenshots/iphone-6.5-1242x2688/` and `screenshots/iphone-6.7-1284x2778/` each have the
+same 8 screens as the Play Store set, generated (not distorted or cropped — see that
+folder's README for how) from the real app UI at Apple's exact required pixel dimensions
+for those two device classes. Upload whichever size(s) App Store Connect's screenshot
+uploader asks for — both are ready.
 
-Two options:
-- **Restrict to iPhone-only** (simpler): in Xcode project settings (or via Codemagic's
-  build), set `TARGETED_DEVICE_FAMILY = 1` (iPhone only) — then you only need iPhone
-  screenshots.
-- **Keep universal**: capture both iPhone and iPad screenshots.
+If App Store Connect asks for a different size than these (Apple's requirements shift —
+e.g. a newer "6.9" iPhone 16 Pro Max class at 1320×2868"), re-run the generation script in
+`screenshots/README.md` with the new dimensions; it's a couple of minutes of work either
+way.
 
-Capture screenshots by running the app in the iOS Simulator (via Codemagic's build
-artifacts, or Xcode if you ever have access to a Mac) at the exact device sizes above —
-Xcode's Simulator has these device presets built in.
+**iPad**: Flutter's default project is universal (iPhone + iPad — `Info.plist` declares
+both orientations for `~ipad`). If App Store Connect requires iPad screenshots because of
+this, either generate a 13" iPad set the same way, or restrict the app to iPhone-only by
+setting `TARGETED_DEVICE_FAMILY = 1` in the Xcode project to skip iPad screenshots
+entirely — tell me which you'd rather do.
 
 ### 9. Trigger the first Codemagic build
 
