@@ -11,7 +11,9 @@ building). Follow the steps below in order.
   Android; app display name "Bonjourney"; deployment target iOS 13.0).
 - `codemagic.yaml` (repo root — Codemagic auto-detects it there, so don't move it) — the
   `ios-app-store` workflow: installs deps, runs `flutter analyze` + `flutter test`, builds
-  a signed IPA, and uploads it to TestFlight automatically on every push to `main`.
+  a signed IPA, and uploads it to TestFlight automatically on every push to `main`. Code
+  signing is **manual** (a certificate + profile you upload to Codemagic, see step 5 below)
+  — automatic signing failed with "No matching profiles found".
 - AdMob is wired in for iOS with real ad unit ids (see table below) — same 6 formats as
   Android: banner, interstitial, rewarded, rewarded interstitial, native advanced, app open.
 - App Tracking Transparency consent is requested at first launch (`app_tracking_transparency`
@@ -73,7 +75,9 @@ API Key**
 2. **Team settings → Integrations → App Store Connect → Add key** — paste in the `.p8`
    contents, Key ID, and Issuer ID from step 4. Name the integration — if the name doesn't
    match `codemagic_app_store_connection`, either rename it to match or edit that name in
-   `codemagic.yaml`'s `integrations.app_store_connect` field.
+   `codemagic.yaml`'s `integrations.app_store_connect` field. (This key is still needed —
+   it's what uploads the finished build to TestFlight — even though signing itself is
+   manual, see next point.)
 3. Codemagic should auto-detect `codemagic.yaml` at the repo root and list the
    `ios-app-store` workflow.
 4. Edit `codemagic.yaml`, fill in:
@@ -81,6 +85,13 @@ API Key**
    - The `publishing.email.recipients` address — currently a placeholder.
    Commit and push (or edit directly in Codemagic's UI env vars instead, if you'd rather
    not put the Apple ID in git — it's not secret, but your call).
+5. **Code signing (manual)**: automatic signing (having Codemagic generate the
+   certificate/profile itself via the API key) failed with "No matching profiles found" —
+   see [`certificate-and-profile.md`](certificate-and-profile.md) in this folder for the
+   full step-by-step to generate a Distribution certificate and App Store provisioning
+   profile yourself (no Mac needed, just `openssl` and Apple's website) and upload them to
+   Codemagic's Code signing identities section. `codemagic.yaml` is already updated to use
+   whatever you upload there.
 
 ### 6. Fill out App Privacy in App Store Connect
 

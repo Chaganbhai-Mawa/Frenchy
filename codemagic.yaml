@@ -9,6 +9,12 @@ workflows:
       # match whatever you call it there.
       app_store_connect: codemagic_app_store_connection
     environment:
+      # Manual signing: certificate (.p12) and provisioning profile
+      # (.mobileprovision) are uploaded under Codemagic > Team/App settings
+      # > Code signing identities, not generated automatically by the API
+      # key — see "IOS Application/certificate-and-profile.md" for how to
+      # create and upload them. This block just tells Codemagic which
+      # uploaded cert/profile to match and use during the build.
       ios_signing:
         distribution_type: app_store
         bundle_identifier: com.bonjourney.app
@@ -36,9 +42,6 @@ workflows:
       - name: Set up code signing
         script: |
           keychain initialize
-          app-store-connect fetch-signing-files "$BUNDLE_ID" \
-            --type IOS_APP_STORE \
-            --create
           keychain add-certificates
           xcode-project use-profiles
       - name: Build iOS IPA
