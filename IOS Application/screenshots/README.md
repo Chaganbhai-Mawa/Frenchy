@@ -35,8 +35,32 @@ canvas.paste(im2, (0, (target_h - im2.height) // 2))
 |---|---|---|
 | `iphone-6.5-1242x2688/` | 1242×2688 | 6.5" (iPhone 11 Pro Max / XS Max class) |
 | `iphone-6.7-1284x2778/` | 1284×2778 | 6.7" (iPhone 12/13/14 Pro Max class) |
+| `ipad-12.9-2048x2732/` | 2048×2732 | 12.9" iPad Pro |
+| `ipad-13-2064x2752/` | 2064×2752 | 13" iPad Pro |
 
-Same 8 screens as the Play Store set in both folders (`01_home.png` … `08_about.png`).
+Same 8 screens as the Play Store set in every folder (`01_home.png` … `08_about.png`).
+
+### iPad note: pillarboxed, not a real tablet layout
+
+The app has no tablet-specific/adaptive layout (Flutter's default project is universal,
+but every screen uses the same single-column mobile UI regardless of screen size). The
+iPad screenshots are the phone UI scaled up and **pillarboxed** (padded left/right, not
+top/bottom — the opposite of the iPhone sizes, since an iPad canvas is proportionally much
+wider relative to height than a phone) rather than stretched to fill the whole frame,
+which would distort the UI. This is standard and Apple-accepted for apps without a
+distinct iPad layout — the alternative (restricting the app to iPhone-only via
+`TARGETED_DEVICE_FAMILY = 1` in Xcode) removes the need for iPad screenshots entirely if
+you'd rather do that instead.
+
+```python
+# iPad variant of the script above: fit to HEIGHT then pad left/right
+# (iPhone fits to WIDTH then pads top/bottom — the two required device
+# classes have opposite width/height relationships to the phone source).
+scale = target_h / im.height
+im2 = im.resize((round(im.width * scale), target_h), Image.LANCZOS)
+canvas = Image.new('RGB', (target_w, target_h), bg)
+canvas.paste(im2, ((target_w - im2.width) // 2, 0))
+```
 
 ## If App Store Connect asks for a different/larger size
 

@@ -120,22 +120,26 @@ You'll also need:
 
 ### 8. Screenshots — done, in `screenshots/`
 
-`screenshots/iphone-6.5-1242x2688/` and `screenshots/iphone-6.7-1284x2778/` each have the
-same 8 screens as the Play Store set, generated (not distorted or cropped — see that
-folder's README for how) from the real app UI at Apple's exact required pixel dimensions
-for those two device classes. Upload whichever size(s) App Store Connect's screenshot
-uploader asks for — both are ready.
+Four sets, each with the same 8 screens as the Play Store set, generated (not distorted or
+cropped — see that folder's README for how) from the real app UI at Apple's exact required
+pixel dimensions:
+
+| Folder | Size | Device class |
+|---|---|---|
+| `screenshots/iphone-6.5-1242x2688/` | 1242×2688 | 6.5" iPhone |
+| `screenshots/iphone-6.7-1284x2778/` | 1284×2778 | 6.7" iPhone |
+| `screenshots/ipad-12.9-2048x2732/` | 2048×2732 | 12.9" iPad Pro |
+| `screenshots/ipad-13-2064x2752/` | 2064×2752 | 13" iPad Pro |
+
+Upload whichever size(s) App Store Connect's screenshot uploader asks for — all four are
+ready. The iPad ones are pillarboxed (the app has no distinct tablet layout, so it's the
+phone UI scaled up with side padding, not stretched) — see `screenshots/README.md` for why
+that's the right call here.
 
 If App Store Connect asks for a different size than these (Apple's requirements shift —
-e.g. a newer "6.9" iPhone 16 Pro Max class at 1320×2868"), re-run the generation script in
-`screenshots/README.md` with the new dimensions; it's a couple of minutes of work either
-way.
-
-**iPad**: Flutter's default project is universal (iPhone + iPad — `Info.plist` declares
-both orientations for `~ipad`). If App Store Connect requires iPad screenshots because of
-this, either generate a 13" iPad set the same way, or restrict the app to iPhone-only by
-setting `TARGETED_DEVICE_FAMILY = 1` in the Xcode project to skip iPad screenshots
-entirely — tell me which you'd rather do.
+e.g. a newer "6.9" iPhone 16 Pro Max class at 1320×2868), re-run the matching generation
+script in `screenshots/README.md` with the new dimensions; it's a couple of minutes of
+work either way.
 
 ### 9. Trigger the first Codemagic build
 
