@@ -1,0 +1,876 @@
+{
+  "id": "a1_u10",
+  "level": "A1",
+  "unit": 10,
+  "title": "Everyday Conversations",
+  "subtitle": "Real-life French: eating out, directions and small talk",
+  "icon": "💬",
+  "lessons": [
+    {
+      "id": "a1_u10_l01",
+      "level": "A1",
+      "unit": 10,
+      "title": "Au restaurant",
+      "description": "Reserve a table, order your meal and ask for the bill.",
+      "estimatedMinutes": 13,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Getting a table",
+              "body": "To book, say \"Je voudrais réserver une table pour deux personnes\" (I would like to reserve a table for two). When you arrive, simply say \"Une table pour deux, s'il vous plaît.\"",
+              "examples": [
+                { "french": "Je voudrais réserver une table pour deux personnes.", "english": "I would like to reserve a table for two people." },
+                { "french": "Une table pour quatre, s'il vous plaît.", "english": "A table for four, please." },
+                { "french": "Vous avez réservé ?", "english": "Do you have a reservation?" },
+                { "french": "Vous avez une table pour ce soir ?", "english": "Do you have a table for tonight?" },
+                { "french": "Nous sommes trois.", "english": "There are three of us." }
+              ]
+            },
+            {
+              "heading": "Ordering and paying",
+              "body": "The waiter brings \"la carte\" (the menu). Careful: in French, \"le menu\" usually means a fixed-price set of dishes! To order, say \"Je vais prendre...\" (I'll have...). At the end, ask for \"l'addition\" — the bill.",
+              "examples": [
+                { "french": "Je vais prendre le poulet.", "english": "I'll have the chicken." },
+                { "french": "Et comme boisson ?", "english": "And to drink?", "note": "the waiter's question" },
+                { "french": "L'addition, s'il vous plaît !", "english": "The bill, please!" },
+                { "french": "Comme entrée, je vais prendre la salade.", "english": "As a starter, I'll have the salad." },
+                { "french": "Un verre d'eau, s'il vous plaît.", "english": "A glass of water, please." }
+              ],
+              "tip": "Service is included in French restaurants — a tip (un pourboire) is appreciated but never required."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "restaurant", "french": "le restaurant", "english": "restaurant", "partOfSpeech": "noun", "gender": "m", "pronunciation": "res-toh-RAHN", "example": "On va au restaurant ce soir ?", "exampleEnglish": "Shall we go to the restaurant tonight?", "level": "A1", "category": "food" },
+            { "id": "reserver", "french": "réserver", "english": "to reserve / to book", "partOfSpeech": "verb", "pronunciation": "ray-zehr-VAY", "example": "Je voudrais réserver une table.", "exampleEnglish": "I would like to reserve a table.", "level": "A1", "category": "food" },
+            { "id": "table", "french": "la table", "english": "table", "partOfSpeech": "noun", "gender": "f", "pronunciation": "TAH-bluh", "example": "Une table pour deux, s'il vous plaît.", "exampleEnglish": "A table for two, please.", "level": "A1", "category": "food" },
+            { "id": "menu", "french": "le menu", "english": "set menu", "partOfSpeech": "noun", "gender": "m", "pronunciation": "muh-NU", "example": "Le menu du jour, s'il vous plaît.", "exampleEnglish": "Today's set menu, please.", "level": "A1", "category": "food" },
+            { "id": "commander", "french": "commander", "english": "to order", "partOfSpeech": "verb", "pronunciation": "koh-mahn-DAY", "example": "Vous êtes prêts à commander ?", "exampleEnglish": "Are you ready to order?", "level": "A1", "category": "food" },
+            { "id": "plat", "french": "le plat", "english": "dish / main course", "partOfSpeech": "noun", "gender": "m", "pronunciation": "plah", "example": "Le plat du jour est très bon.", "exampleEnglish": "The dish of the day is very good.", "level": "A1", "category": "food" },
+            { "id": "boisson", "french": "la boisson", "english": "drink", "partOfSpeech": "noun", "gender": "f", "pronunciation": "bwah-SOHN", "example": "Et comme boisson ?", "exampleEnglish": "And to drink?", "level": "A1", "category": "food" },
+            { "id": "addition", "french": "l'addition", "english": "bill / check", "partOfSpeech": "noun", "gender": "f", "pronunciation": "ah-dee-SYOHN", "example": "L'addition, s'il vous plaît !", "exampleEnglish": "The bill, please!", "level": "A1", "category": "food" },
+            { "id": "serveur", "french": "le serveur", "english": "waiter", "partOfSpeech": "noun", "gender": "m", "pronunciation": "sehr-VUHR", "example": "Le serveur apporte la carte.", "exampleEnglish": "The waiter brings the menu.", "level": "A1", "category": "food" },
+            { "id": "poulet", "french": "le poulet", "english": "chicken", "partOfSpeech": "noun", "gender": "m", "pronunciation": "poo-LEH", "example": "Je vais prendre le poulet.", "exampleEnglish": "I'll have the chicken.", "level": "A1", "category": "food" },
+            { "id": "salade", "french": "la salade", "english": "salad", "partOfSpeech": "noun", "gender": "f", "pronunciation": "sah-LAHD", "example": "La salade est très fraîche.", "exampleEnglish": "The salad is very fresh.", "level": "A1", "category": "food" },
+            { "id": "entree", "french": "l'entrée", "english": "starter", "partOfSpeech": "noun", "gender": "f", "pronunciation": "ahn-TRAY", "example": "Comme entrée, je prends la soupe.", "exampleEnglish": "As a starter, I'll have the soup.", "level": "A1", "category": "food" },
+            { "id": "dessert", "french": "le dessert", "english": "dessert", "partOfSpeech": "noun", "gender": "m", "pronunciation": "deh-SEHR", "example": "Comme dessert, une glace, s'il vous plaît.", "exampleEnglish": "For dessert, an ice cream, please.", "level": "A1", "category": "food" },
+            { "id": "verre", "french": "le verre", "english": "glass", "partOfSpeech": "noun", "gender": "m", "pronunciation": "vehr", "example": "Un verre d'eau, s'il vous plaît.", "exampleEnglish": "A glass of water, please.", "level": "A1", "category": "food" },
+            { "id": "pourboire", "french": "le pourboire", "english": "tip", "partOfSpeech": "noun", "gender": "m", "pronunciation": "poor-BWAHR", "example": "Il laisse un pourboire au serveur.", "exampleEnglish": "He leaves the waiter a tip.", "level": "A1", "category": "food" }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a1_u10_l01_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What does the customer want?",
+              "french": "Je voudrais réserver une table pour deux personnes.",
+              "options": ["To reserve a table for two", "To order the chicken", "To pay the bill", "To see the menu"],
+              "answer": "To reserve a table for two"
+            },
+            {
+              "id": "a1_u10_l01_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. What is the customer asking for?",
+              "french": "L'addition, s'il vous plaît !",
+              "options": ["The bill", "The menu", "A table", "A drink"],
+              "answer": "The bill"
+            },
+            {
+              "id": "a1_u10_l01_li03",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Je vais prendre le poulet.",
+              "answer": "Je vais prendre le poulet.",
+              "acceptedAnswers": ["je vais prendre le poulet"]
+            },
+            {
+              "id": "a1_u10_l01_li04",
+              "type": "dictation",
+              "prompt": "Dictation: write the sentence you hear.",
+              "french": "Une table pour deux, s'il vous plaît.",
+              "answer": "Une table pour deux, s'il vous plaît.",
+              "acceptedAnswers": ["une table pour deux sil vous plait", "une table pour deux s il vous plait"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a1_u10_l01_sp01",
+              "type": "speak",
+              "prompt": "Ask for a table for two.",
+              "french": "Une table pour deux, s'il vous plaît",
+              "english": "A table for two, please",
+              "tip": "\"Deux\" is duh — the x is completely silent."
+            },
+            {
+              "id": "a1_u10_l01_sp02",
+              "type": "speak",
+              "prompt": "Order the chicken.",
+              "french": "Je vais prendre le poulet",
+              "english": "I'll have the chicken",
+              "tip": "\"Poulet\" is poo-LEH — the final t is silent."
+            },
+            {
+              "id": "a1_u10_l01_sp03",
+              "type": "speak",
+              "prompt": "Ask for the bill.",
+              "french": "L'addition, s'il vous plaît",
+              "english": "The bill, please",
+              "tip": "\"L'addition\" is lah-dee-SYOHN — glide straight from the l into \"addition\"."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Un dîner au restaurant",
+              "french": "— Bonsoir ! Une table pour deux personnes, s'il vous plaît.\n— Bien sûr, suivez-moi. Voici la carte.\n— Merci. Je vais prendre le poulet, et une salade pour madame.\n— Très bien. Et comme boisson ?\n— De l'eau, s'il vous plaît.\nAprès le repas :\n— L'addition, s'il vous plaît !",
+              "english": "— Good evening! A table for two people, please.\n— Of course, follow me. Here is the menu.\n— Thank you. I'll have the chicken, and a salad for the lady.\n— Very good. And to drink?\n— Water, please.\nAfter the meal:\n— The bill, please!",
+              "questions": [
+                {
+                  "id": "a1_u10_l01_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "What does the man order for himself?",
+                  "options": ["The chicken", "A salad", "The fish", "A dessert"],
+                  "answer": "The chicken"
+                },
+                {
+                  "id": "a1_u10_l01_rd02",
+                  "type": "trueFalse",
+                  "prompt": "They order wine to drink.",
+                  "options": ["True", "False"],
+                  "answer": "False",
+                  "tip": "They ask for water — de l'eau."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a1_u10_l01_wr01",
+              "type": "translate",
+              "prompt": "Translate into French: \"The bill, please.\"",
+              "english": "The bill, please.",
+              "answer": "L'addition, s'il vous plaît.",
+              "acceptedAnswers": ["laddition sil vous plait", "l addition s il vous plait", "l'addition s'il vous plait"]
+            },
+            {
+              "id": "a1_u10_l01_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "I would like to reserve a table.",
+              "words": ["une", "réserver", "Je", "table", "voudrais"],
+              "answer": "Je voudrais réserver une table"
+            },
+            {
+              "id": "a1_u10_l01_wr03",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Une table ___ deux personnes, s'il vous plaît.\"",
+              "answer": "pour"
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a1_u10_l01_pr01",
+              "type": "multipleChoice",
+              "prompt": "You want to order the chicken. What do you say?",
+              "options": ["Je vais prendre le poulet.", "L'addition, s'il vous plaît.", "Vous avez réservé ?", "Une table pour deux."],
+              "answer": "Je vais prendre le poulet."
+            },
+            {
+              "id": "a1_u10_l01_pr02",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Comme ___, je vais prendre la salade.\" (starter)",
+              "answer": "entrée",
+              "acceptedAnswers": ["entree"]
+            },
+            {
+              "id": "a1_u10_l01_pr03",
+              "type": "translate",
+              "prompt": "Translate into French: \"A glass of water, please.\"",
+              "english": "A glass of water, please.",
+              "answer": "Un verre d'eau, s'il vous plaît.",
+              "acceptedAnswers": ["un verre deau sil vous plait", "un verre d eau s il vous plait", "un verre d'eau s'il vous plait"]
+            },
+            {
+              "id": "a1_u10_l01_pr04",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "I'll have the chicken and a dessert.",
+              "words": ["le", "vais", "poulet", "Je", "et", "prendre", "dessert", "un"],
+              "answer": "Je vais prendre le poulet et un dessert"
+            },
+            {
+              "id": "a1_u10_l01_pr05",
+              "type": "listenChoose",
+              "prompt": "Listen. What does the customer order?",
+              "french": "Je vais prendre la salade et un verre d'eau.",
+              "options": ["The salad and a glass of water", "The chicken and a dessert", "The soup and a coffee", "The set menu and some wine"],
+              "answer": "The salad and a glass of water"
+            },
+            {
+              "id": "a1_u10_l01_pr06",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "l'entrée", "english": "starter" },
+                { "french": "le plat", "english": "main course" },
+                { "french": "le dessert", "english": "dessert" },
+                { "french": "le pourboire", "english": "tip" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a1_u10_l01_qz01",
+              "type": "multipleChoice",
+              "prompt": "The meal is over and you want to pay. What do you say?",
+              "options": ["L'addition, s'il vous plaît !", "Le menu, s'il vous plaît !", "Une table pour deux !", "Bon appétit !"],
+              "answer": "L'addition, s'il vous plaît !"
+            },
+            {
+              "id": "a1_u10_l01_qz02",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "réserver", "english": "to reserve" },
+                { "french": "commander", "english": "to order" },
+                { "french": "l'addition", "english": "the bill" },
+                { "french": "la boisson", "english": "the drink" }
+              ]
+            },
+            {
+              "id": "a1_u10_l01_qz03",
+              "type": "trueFalse",
+              "prompt": "In a French restaurant, \"le menu\" usually means a fixed-price set of dishes.",
+              "options": ["True", "False"],
+              "answer": "True",
+              "tip": "To read all the dishes, ask for \"la carte\"."
+            },
+            {
+              "id": "a1_u10_l01_qz04",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Je vais ___ le poulet.\" (I'll have the chicken.)",
+              "answer": "prendre"
+            },
+            {
+              "id": "a1_u10_l01_qz05",
+              "type": "multipleChoice",
+              "prompt": "The waiter asks \"Et comme boisson ?\". He wants to know:",
+              "options": ["What you want to drink", "What you want for dessert", "If you want the bill", "If you reserved a table"],
+              "answer": "What you want to drink"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1_u10_l02",
+      "level": "A1",
+      "unit": 10,
+      "title": "Demander son chemin",
+      "description": "Ask where places are and understand simple directions.",
+      "estimatedMinutes": 12,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Asking where something is",
+              "body": "Start politely with \"Excusez-moi\" (excuse me), then ask \"Où est... ?\" (Where is...?). Another very French way: \"Pour aller à la gare, s'il vous plaît ?\" — literally \"to go to the station, please?\"",
+              "examples": [
+                { "french": "Excusez-moi, où est la gare ?", "english": "Excuse me, where is the station?" },
+                { "french": "Pour aller à la gare, s'il vous plaît ?", "english": "How do I get to the station, please?" },
+                { "french": "C'est loin ?", "english": "Is it far?" },
+                { "french": "Excusez-moi, je cherche la poste.", "english": "Excuse me, I am looking for the post office." },
+                { "french": "Où est la pharmacie, s'il vous plaît ?", "english": "Where is the pharmacy, please?" }
+              ]
+            },
+            {
+              "heading": "Understanding the answer",
+              "body": "The key directions: \"à gauche\" (left), \"à droite\" (right), \"tout droit\" (straight ahead). \"Près de\" means near, \"loin de\" means far from.",
+              "examples": [
+                { "french": "Tournez à gauche.", "english": "Turn left." },
+                { "french": "Continuez tout droit.", "english": "Keep going straight ahead." },
+                { "french": "C'est près de la banque.", "english": "It's near the bank." },
+                { "french": "C'est à cinq minutes à pied.", "english": "It's five minutes on foot." },
+                { "french": "La poste est loin d'ici.", "english": "The post office is far from here." }
+              ],
+              "tip": "Don't mix up \"à droite\" (to the right) and \"tout droit\" (straight ahead) — they look similar but mean different things!"
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "ou-question", "french": "où", "english": "where", "partOfSpeech": "adverb", "pronunciation": "oo", "example": "Où est la gare ?", "exampleEnglish": "Where is the station?", "level": "A1", "category": "directions" },
+            { "id": "gare", "french": "la gare", "english": "train station", "partOfSpeech": "noun", "gender": "f", "pronunciation": "gahr", "example": "La gare est près d'ici.", "exampleEnglish": "The station is near here.", "level": "A1", "category": "directions" },
+            { "id": "rue", "french": "la rue", "english": "street", "partOfSpeech": "noun", "gender": "f", "pronunciation": "ru", "example": "J'habite dans cette rue.", "exampleEnglish": "I live on this street.", "level": "A1", "category": "directions" },
+            { "id": "a-gauche", "french": "à gauche", "english": "to the left", "partOfSpeech": "expression", "pronunciation": "ah GOHSH", "example": "Tournez à gauche.", "exampleEnglish": "Turn left.", "level": "A1", "category": "directions" },
+            { "id": "a-droite", "french": "à droite", "english": "to the right", "partOfSpeech": "expression", "pronunciation": "ah DRWAHT", "example": "La banque est à droite.", "exampleEnglish": "The bank is on the right.", "level": "A1", "category": "directions" },
+            { "id": "tout-droit", "french": "tout droit", "english": "straight ahead", "partOfSpeech": "expression", "pronunciation": "too DRWAH", "example": "Continuez tout droit.", "exampleEnglish": "Keep going straight ahead.", "level": "A1", "category": "directions" },
+            { "id": "pres-de", "french": "près de", "english": "near", "partOfSpeech": "expression", "pronunciation": "preh duh", "example": "C'est près de la gare.", "exampleEnglish": "It's near the station.", "level": "A1", "category": "directions" },
+            { "id": "loin-de", "french": "loin de", "english": "far from", "partOfSpeech": "expression", "pronunciation": "lwan duh", "example": "C'est loin du centre.", "exampleEnglish": "It's far from the centre.", "level": "A1", "category": "directions" },
+            { "id": "tourner", "french": "tourner", "english": "to turn", "partOfSpeech": "verb", "pronunciation": "toor-NAY", "example": "Tournez à droite dans la rue.", "exampleEnglish": "Turn right into the street.", "level": "A1", "category": "directions" },
+            { "id": "banque", "french": "la banque", "english": "bank", "partOfSpeech": "noun", "gender": "f", "pronunciation": "bahnk", "example": "La banque est à droite.", "exampleEnglish": "The bank is on the right.", "level": "A1", "category": "directions" },
+            { "id": "pharmacie", "french": "la pharmacie", "english": "pharmacy", "partOfSpeech": "noun", "gender": "f", "pronunciation": "far-mah-SEE", "example": "La pharmacie est près de la banque.", "exampleEnglish": "The pharmacy is near the bank.", "level": "A1", "category": "directions" },
+            { "id": "poste", "french": "la poste", "english": "post office", "partOfSpeech": "noun", "gender": "f", "pronunciation": "post", "example": "Je cherche la poste.", "exampleEnglish": "I am looking for the post office.", "level": "A1", "category": "directions" },
+            { "id": "toilettes", "french": "les toilettes", "english": "toilets", "partOfSpeech": "noun", "gender": "f", "pronunciation": "twah-LET", "example": "Où sont les toilettes ?", "exampleEnglish": "Where are the toilets?", "level": "A1", "category": "directions" },
+            { "id": "continuer", "french": "continuer", "english": "to continue", "partOfSpeech": "verb", "pronunciation": "kohn-tee-nu-AY", "example": "Continuez tout droit.", "exampleEnglish": "Keep going straight ahead.", "level": "A1", "category": "directions" },
+            { "id": "a-pied", "french": "à pied", "english": "on foot", "partOfSpeech": "expression", "pronunciation": "ah PYAY", "example": "C'est à dix minutes à pied.", "exampleEnglish": "It's ten minutes on foot.", "level": "A1", "category": "directions" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Où est... ? / Où sont... ?",
+              "body": "Use \"Où est\" with a singular noun and \"Où sont\" with a plural noun — the verb agrees with what you are looking for.",
+              "examples": [
+                { "french": "Où est la gare ?", "english": "Where is the station?", "note": "singular" },
+                { "french": "Où sont les toilettes ?", "english": "Where are the toilets?", "note": "plural — a very useful question!" },
+                { "french": "Où est la pharmacie ?", "english": "Where is the pharmacy?", "note": "singular" },
+                { "french": "Où sont les magasins ?", "english": "Where are the shops?", "note": "plural" }
+              ],
+              "tip": "\"Les toilettes\" is always plural in French, so it is always \"Où sont les toilettes ?\""
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a1_u10_l02_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. Which way should you go?",
+              "french": "Tournez à gauche.",
+              "options": ["Turn left", "Turn right", "Go straight ahead", "Go back"],
+              "answer": "Turn left"
+            },
+            {
+              "id": "a1_u10_l02_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. What does it mean?",
+              "french": "C'est tout droit.",
+              "options": ["It's straight ahead.", "It's on the right.", "It's far away.", "It's near the bank."],
+              "answer": "It's straight ahead."
+            },
+            {
+              "id": "a1_u10_l02_li03",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Où est la gare ?",
+              "answer": "Où est la gare ?",
+              "acceptedAnswers": ["ou est la gare"]
+            },
+            {
+              "id": "a1_u10_l02_li04",
+              "type": "dictation",
+              "prompt": "Dictation: write the sentence you hear.",
+              "french": "Tournez à droite dans la rue.",
+              "answer": "Tournez à droite dans la rue.",
+              "acceptedAnswers": ["tournez a droite dans la rue"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a1_u10_l02_sp01",
+              "type": "speak",
+              "prompt": "Politely ask where the station is.",
+              "french": "Excusez-moi, où est la gare ?",
+              "english": "Excuse me, where is the station?",
+              "tip": "\"Excusez-moi\" is ex-ku-zay-MWAH — four quick syllables."
+            },
+            {
+              "id": "a1_u10_l02_sp02",
+              "type": "speak",
+              "prompt": "Ask if it is on the left.",
+              "french": "C'est à gauche ?",
+              "english": "Is it on the left?",
+              "tip": "Link \"c'est\" and \"à\": seh-TAH gohsh. Rising intonation makes it a question."
+            },
+            {
+              "id": "a1_u10_l02_sp03",
+              "type": "speak",
+              "prompt": "Ask if it is far from here.",
+              "french": "C'est loin d'ici ?",
+              "english": "Is it far from here?",
+              "tip": "\"Loin\" is a nasal lwan; \"d'ici\" is dee-SEE."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Dans la rue",
+              "french": "— Excusez-moi, madame. Où est la gare, s'il vous plaît ?\n— C'est facile ! Continuez tout droit, puis tournez à gauche.\n— C'est loin ?\n— Non, c'est près d'ici. Cinq minutes à pied.\n— Merci beaucoup !\n— De rien. Bonne journée !",
+              "english": "— Excuse me, ma'am. Where is the station, please?\n— It's easy! Keep going straight ahead, then turn left.\n— Is it far?\n— No, it's near here. Five minutes on foot.\n— Thank you very much!\n— You're welcome. Have a good day!",
+              "questions": [
+                {
+                  "id": "a1_u10_l02_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Which way must the man turn?",
+                  "options": ["Left", "Right", "He must go back", "He must take a bus"],
+                  "answer": "Left"
+                },
+                {
+                  "id": "a1_u10_l02_rd02",
+                  "type": "trueFalse",
+                  "prompt": "The station is far away.",
+                  "options": ["True", "False"],
+                  "answer": "False",
+                  "tip": "It's five minutes on foot — c'est près d'ici."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a1_u10_l02_wr01",
+              "type": "translate",
+              "prompt": "Translate into French: \"Excuse me, where is the station?\"",
+              "english": "Excuse me, where is the station?",
+              "answer": "Excusez-moi, où est la gare ?",
+              "acceptedAnswers": ["excusez moi ou est la gare"]
+            },
+            {
+              "id": "a1_u10_l02_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "The station is near here.",
+              "words": ["près", "La", "d'ici", "est", "gare"],
+              "answer": "La gare est près d'ici"
+            },
+            {
+              "id": "a1_u10_l02_wr03",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Continuez tout ___.\" (straight ahead)",
+              "answer": "droit"
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a1_u10_l02_pr01",
+              "type": "multipleChoice",
+              "prompt": "Complete: \"Où ___ les toilettes ?\"",
+              "options": ["sont", "est", "es", "êtes"],
+              "answer": "sont"
+            },
+            {
+              "id": "a1_u10_l02_pr02",
+              "type": "fillBlank",
+              "prompt": "Complete: \"C'est à dix minutes à ___.\" (on foot)",
+              "answer": "pied"
+            },
+            {
+              "id": "a1_u10_l02_pr03",
+              "type": "translate",
+              "prompt": "Translate into French: \"Turn right.\" (to a stranger)",
+              "english": "Turn right.",
+              "answer": "Tournez à droite.",
+              "acceptedAnswers": ["tournez a droite"]
+            },
+            {
+              "id": "a1_u10_l02_pr04",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "The bank is near the station.",
+              "words": ["est", "gare", "La", "près", "banque", "la", "de"],
+              "answer": "La banque est près de la gare"
+            },
+            {
+              "id": "a1_u10_l02_pr05",
+              "type": "listenChoose",
+              "prompt": "Listen. What are the directions?",
+              "french": "Continuez tout droit, puis tournez à droite.",
+              "options": ["Go straight ahead, then turn right", "Go straight ahead, then turn left", "Turn right, then turn left", "Turn left, then go straight ahead"],
+              "answer": "Go straight ahead, then turn right"
+            },
+            {
+              "id": "a1_u10_l02_pr06",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "la banque", "english": "bank" },
+                { "french": "la pharmacie", "english": "pharmacy" },
+                { "french": "la poste", "english": "post office" },
+                { "french": "à pied", "english": "on foot" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a1_u10_l02_qz01",
+              "type": "multipleChoice",
+              "prompt": "What does \"à droite\" mean?",
+              "options": ["To the right", "To the left", "Straight ahead", "Near"],
+              "answer": "To the right"
+            },
+            {
+              "id": "a1_u10_l02_qz02",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "à gauche", "english": "left" },
+                { "french": "à droite", "english": "right" },
+                { "french": "tout droit", "english": "straight ahead" },
+                { "french": "près de", "english": "near" }
+              ]
+            },
+            {
+              "id": "a1_u10_l02_qz03",
+              "type": "trueFalse",
+              "prompt": "\"Où sont les toilettes ?\" uses \"sont\" because \"les toilettes\" is plural.",
+              "options": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "a1_u10_l02_qz04",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Excusez-moi, ___ est la gare ?\" (where)",
+              "answer": "où",
+              "acceptedAnswers": ["ou"]
+            },
+            {
+              "id": "a1_u10_l02_qz05",
+              "type": "multipleChoice",
+              "prompt": "You want to ask a stranger for directions. How do you start?",
+              "options": ["Excusez-moi...", "Salut...", "Au revoir...", "De rien..."],
+              "answer": "Excusez-moi..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1_u10_l03",
+      "level": "A1",
+      "unit": 10,
+      "title": "Petites conversations",
+      "description": "Make small talk about the weather and survive any conversation.",
+      "estimatedMinutes": 12,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Talking about the weather",
+              "body": "Weather small talk uses \"il fait...\": \"Il fait beau\" (the weather is nice), \"Il fait froid\" (it's cold), \"Il fait chaud\" (it's hot). For rain, say \"Il pleut\" (it's raining). To ask: \"Quel temps fait-il ?\"",
+              "examples": [
+                { "french": "Quel temps fait-il ?", "english": "What's the weather like?" },
+                { "french": "Il fait beau aujourd'hui !", "english": "The weather is nice today!" },
+                { "french": "Il pleut.", "english": "It's raining." },
+                { "french": "Il fait chaud en été.", "english": "It's hot in the summer." },
+                { "french": "Il neige en hiver.", "english": "It snows in winter." }
+              ],
+              "tip": "\"Le temps\" means both \"weather\" and \"time\" — context tells you which one."
+            },
+            {
+              "heading": "Survival phrases",
+              "body": "When you don't understand, don't panic! Say \"Je ne comprends pas\" (I don't understand) and ask \"Pouvez-vous répéter, s'il vous plaît ?\" (Can you repeat, please?). \"Parlez plus lentement\" means \"speak more slowly\".",
+              "examples": [
+                { "french": "Excusez-moi, je ne comprends pas.", "english": "Sorry, I don't understand." },
+                { "french": "Pouvez-vous répéter, s'il vous plaît ?", "english": "Can you repeat, please?" },
+                { "french": "Parlez plus lentement, s'il vous plaît.", "english": "Speak more slowly, please." },
+                { "french": "Vous parlez anglais ?", "english": "Do you speak English?" },
+                { "french": "Merci beaucoup pour votre aide !", "english": "Thank you very much for your help!" }
+              ],
+              "tip": "French speakers love it when you try. One little \"Excusez-moi, je ne parle pas bien français\" and they will slow down for you."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "temps", "french": "le temps", "english": "weather / time", "partOfSpeech": "noun", "gender": "m", "pronunciation": "tahn", "example": "Quel temps fait-il ?", "exampleEnglish": "What's the weather like?", "level": "A1", "category": "weather" },
+            { "id": "il-fait-beau", "french": "il fait beau", "english": "the weather is nice", "partOfSpeech": "expression", "pronunciation": "eel feh BOH", "example": "Il fait beau aujourd'hui !", "exampleEnglish": "The weather is nice today!", "level": "A1", "category": "weather" },
+            { "id": "il-fait-froid", "french": "il fait froid", "english": "it is cold", "partOfSpeech": "expression", "pronunciation": "eel feh FRWAH", "example": "En hiver, il fait froid.", "exampleEnglish": "In winter, it is cold.", "level": "A1", "category": "weather" },
+            { "id": "il-pleut", "french": "il pleut", "english": "it is raining", "partOfSpeech": "expression", "pronunciation": "eel PLUH", "example": "Prends un parapluie, il pleut !", "exampleEnglish": "Take an umbrella, it's raining!", "level": "A1", "category": "weather" },
+            { "id": "comprendre", "french": "comprendre", "english": "to understand", "partOfSpeech": "verb", "pronunciation": "kohm-PRAHN-druh", "example": "Je ne comprends pas.", "exampleEnglish": "I don't understand.", "level": "A1", "category": "conversation" },
+            { "id": "repeter", "french": "répéter", "english": "to repeat", "partOfSpeech": "verb", "pronunciation": "ray-pay-TAY", "example": "Pouvez-vous répéter ?", "exampleEnglish": "Can you repeat?", "level": "A1", "category": "conversation" },
+            { "id": "lentement", "french": "lentement", "english": "slowly", "partOfSpeech": "adverb", "pronunciation": "lahnt-MAHN", "example": "Parlez plus lentement, s'il vous plaît.", "exampleEnglish": "Speak more slowly, please.", "level": "A1", "category": "conversation" },
+            { "id": "pardon", "french": "pardon", "english": "sorry / pardon", "partOfSpeech": "interjection", "pronunciation": "par-DOHN", "example": "Pardon, je n'ai pas compris.", "exampleEnglish": "Sorry, I didn't understand.", "level": "A1", "category": "conversation" },
+            { "id": "excusez-moi", "french": "excusez-moi", "english": "excuse me", "partOfSpeech": "expression", "pronunciation": "ex-ku-zay-MWAH", "example": "Excusez-moi, madame !", "exampleEnglish": "Excuse me, ma'am!", "level": "A1", "category": "conversation" },
+            { "id": "il-fait-chaud", "french": "il fait chaud", "english": "it is hot", "partOfSpeech": "expression", "pronunciation": "eel feh SHOH", "example": "En été, il fait chaud.", "exampleEnglish": "In summer, it is hot.", "level": "A1", "category": "weather" },
+            { "id": "il-neige", "french": "il neige", "english": "it is snowing", "partOfSpeech": "expression", "pronunciation": "eel NEZH", "example": "Regarde, il neige !", "exampleEnglish": "Look, it's snowing!", "level": "A1", "category": "weather" },
+            { "id": "soleil", "french": "le soleil", "english": "sun", "partOfSpeech": "noun", "gender": "m", "pronunciation": "soh-LAY", "example": "Il y a du soleil aujourd'hui.", "exampleEnglish": "It is sunny today.", "level": "A1", "category": "weather" },
+            { "id": "vent", "french": "le vent", "english": "wind", "partOfSpeech": "noun", "gender": "m", "pronunciation": "vahn", "example": "Il y a du vent aujourd'hui.", "exampleEnglish": "It is windy today.", "level": "A1", "category": "weather" },
+            { "id": "parapluie", "french": "le parapluie", "english": "umbrella", "partOfSpeech": "noun", "gender": "m", "pronunciation": "pah-rah-PLWEE", "example": "Prends ton parapluie !", "exampleEnglish": "Take your umbrella!", "level": "A1", "category": "weather" },
+            { "id": "bienvenue", "french": "bienvenue", "english": "welcome", "partOfSpeech": "interjection", "pronunciation": "byan-vuh-NU", "example": "Bienvenue en France !", "exampleEnglish": "Welcome to France!", "level": "A1", "category": "conversation" }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a1_u10_l03_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What is the weather like?",
+              "french": "Il fait beau aujourd'hui !",
+              "options": ["It's nice", "It's raining", "It's cold", "It's windy"],
+              "answer": "It's nice"
+            },
+            {
+              "id": "a1_u10_l03_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. What is the speaker asking?",
+              "french": "Pouvez-vous répéter, s'il vous plaît ?",
+              "options": ["To repeat", "To speak louder", "To leave", "To pay"],
+              "answer": "To repeat"
+            },
+            {
+              "id": "a1_u10_l03_li03",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Je ne comprends pas.",
+              "answer": "Je ne comprends pas.",
+              "acceptedAnswers": ["je ne comprends pas"]
+            },
+            {
+              "id": "a1_u10_l03_li04",
+              "type": "dictation",
+              "prompt": "Dictation: write the sentence you hear.",
+              "french": "Il pleut aujourd'hui.",
+              "answer": "Il pleut aujourd'hui.",
+              "acceptedAnswers": ["il pleut aujourdhui", "il pleut aujourd hui"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a1_u10_l03_sp01",
+              "type": "speak",
+              "prompt": "Say that you don't understand.",
+              "french": "Je ne comprends pas",
+              "english": "I don't understand",
+              "tip": "\"Comprends\" is kohm-PRAHN — the final -ds is silent."
+            },
+            {
+              "id": "a1_u10_l03_sp02",
+              "type": "speak",
+              "prompt": "Ask someone to repeat, politely.",
+              "french": "Pouvez-vous répéter, s'il vous plaît ?",
+              "english": "Can you repeat, please?",
+              "tip": "\"Répéter\" has three clear és: ray-pay-TAY."
+            },
+            {
+              "id": "a1_u10_l03_sp03",
+              "type": "speak",
+              "prompt": "Say that the weather is nice today.",
+              "french": "Il fait beau aujourd'hui",
+              "english": "The weather is nice today",
+              "tip": "\"Beau\" is boh — just one round vowel, no \"ow\" glide."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Une petite conversation",
+              "french": "Dans le parc, un touriste parle avec une dame.\n— Bonjour ! Il fait beau aujourd'hui, non ?\n— Oui, il fait très beau ! Vous êtes en vacances ?\n— Pardon, je ne comprends pas. Pouvez-vous répéter lentement ?\n— Bien sûr ! Vous êtes en vacances ?\n— Ah, oui ! Je suis en vacances à Paris.\n— Bienvenue en France !",
+              "english": "In the park, a tourist talks with a lady.\n— Hello! The weather is nice today, isn't it?\n— Yes, it's very nice! Are you on holiday?\n— Sorry, I don't understand. Can you repeat slowly?\n— Of course! Are you on holiday?\n— Ah, yes! I am on holiday in Paris.\n— Welcome to France!",
+              "questions": [
+                {
+                  "id": "a1_u10_l03_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "What does the tourist say when he doesn't understand?",
+                  "options": ["Je ne comprends pas.", "Il fait beau.", "Bienvenue en France !", "Je suis en vacances."],
+                  "answer": "Je ne comprends pas."
+                },
+                {
+                  "id": "a1_u10_l03_rd02",
+                  "type": "trueFalse",
+                  "prompt": "The weather is nice in the story.",
+                  "options": ["True", "False"],
+                  "answer": "True"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a1_u10_l03_wr01",
+              "type": "translate",
+              "prompt": "Translate into French: \"I don't understand.\"",
+              "english": "I don't understand.",
+              "answer": "Je ne comprends pas.",
+              "acceptedAnswers": ["je ne comprends pas"]
+            },
+            {
+              "id": "a1_u10_l03_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "Can you repeat, please?",
+              "words": ["répéter,", "Pouvez-vous", "plaît", "s'il", "vous"],
+              "answer": "Pouvez-vous répéter, s'il vous plaît"
+            },
+            {
+              "id": "a1_u10_l03_wr03",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Quel temps ___-il ?\" (What's the weather like?)",
+              "answer": "fait"
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a1_u10_l03_pr01",
+              "type": "multipleChoice",
+              "prompt": "\"Il neige\" means:",
+              "options": ["It's snowing", "It's raining", "It's windy", "It's hot"],
+              "answer": "It's snowing"
+            },
+            {
+              "id": "a1_u10_l03_pr02",
+              "type": "fillBlank",
+              "prompt": "Complete: \"En été, il fait ___.\" (hot)",
+              "answer": "chaud"
+            },
+            {
+              "id": "a1_u10_l03_pr03",
+              "type": "translate",
+              "prompt": "Translate into French: \"It is cold today.\"",
+              "english": "It is cold today.",
+              "answer": "Il fait froid aujourd'hui.",
+              "acceptedAnswers": ["il fait froid aujourdhui", "il fait froid aujourd hui", "il fait froid aujourd'hui"]
+            },
+            {
+              "id": "a1_u10_l03_pr04",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "The weather is nice in summer.",
+              "words": ["fait", "été", "Il", "beau", "en"],
+              "answer": "Il fait beau en été"
+            },
+            {
+              "id": "a1_u10_l03_pr05",
+              "type": "listenChoose",
+              "prompt": "Listen. What is the weather like?",
+              "french": "Il y a du vent aujourd'hui.",
+              "options": ["It's windy today", "It's sunny today", "It's snowing today", "It's hot today"],
+              "answer": "It's windy today"
+            },
+            {
+              "id": "a1_u10_l03_pr06",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "le soleil", "english": "sun" },
+                { "french": "le parapluie", "english": "umbrella" },
+                { "french": "il neige", "english": "it's snowing" },
+                { "french": "il fait chaud", "english": "it's hot" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a1_u10_l03_qz01",
+              "type": "multipleChoice",
+              "prompt": "It's raining. What do you say?",
+              "options": ["Il pleut.", "Il fait beau.", "Il fait chaud.", "Il est midi."],
+              "answer": "Il pleut."
+            },
+            {
+              "id": "a1_u10_l03_qz02",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "il fait beau", "english": "the weather is nice" },
+                { "french": "il pleut", "english": "it's raining" },
+                { "french": "répéter", "english": "to repeat" },
+                { "french": "lentement", "english": "slowly" }
+              ]
+            },
+            {
+              "id": "a1_u10_l03_qz03",
+              "type": "trueFalse",
+              "prompt": "\"Excusez-moi\" can be used to politely get someone's attention.",
+              "options": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "a1_u10_l03_qz04",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Je ne ___ pas.\" (understand)",
+              "answer": "comprends"
+            },
+            {
+              "id": "a1_u10_l03_qz05",
+              "type": "multipleChoice",
+              "prompt": "Someone speaks too fast. What do you say?",
+              "options": ["Parlez plus lentement, s'il vous plaît.", "Il fait froid.", "L'addition, s'il vous plaît.", "À demain !"],
+              "answer": "Parlez plus lentement, s'il vous plaît."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1177 @@
+{
+  "id": "c1_u10",
+  "level": "C1",
+  "unit": 10,
+  "title": "Philosophy Basics",
+  "subtitle": "Le vocabulaire et la langue du raisonnement philosophique",
+  "icon": "💡",
+  "lessons": [
+    {
+      "id": "c1_u10_l01",
+      "level": "C1",
+      "unit": 10,
+      "title": "Les grands concepts",
+      "description": "The core conceptual vocabulary of French philosophy — conscience, liberté, devoir, vérité — handled as language, not as doctrine.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Abstract nouns take the definite article",
+              "body": "French philosophical prose names a concept with the definite article, even when English drops it. «Freedom is a burden» becomes «La liberté est un fardeau». The article signals that you are speaking about the concept itself, in its full generality, and not about one instance of it. Losing the article is one of the fastest ways to sound like a translation rather than like French.",
+              "examples": [
+                { "french": "La liberté n'est pas l'absence de contrainte.", "english": "Freedom is not the absence of constraint.", "note": "Both nouns keep the article." },
+                { "french": "La vérité se distingue de la certitude.", "english": "Truth is distinct from certainty." },
+                { "french": "Le devoir oblige indépendamment du désir.", "english": "Duty obliges independently of desire." },
+                { "french": "La conscience accompagne toute perception.", "english": "Consciousness accompanies every perception." },
+                { "french": "Le bonheur n'est pas un droit mais une fin.", "english": "Happiness is not a right but an end." }
+              ],
+              "tip": "Rule of thumb: if you could put «en général» after the noun, keep the article."
+            },
+            {
+              "heading": "Defining, distinguishing, opposing",
+              "body": "Three verbs do most of the conceptual work: définir (to say what a thing is), distinguer (to separate two things that are being confused) and opposer (to set two things against each other). French philosophy prizes the distinction above all: showing that one word covers two different notions is already an argument. Notice the prepositions — distinguer X de Y, opposer X à Y.",
+              "examples": [
+                { "french": "Il faut distinguer la liberté de l'indépendance.", "english": "One must distinguish freedom from independence.", "note": "distinguer X de Y" },
+                { "french": "On oppose souvent la nature à la culture.", "english": "Nature is often set against culture.", "note": "opposer X à Y" },
+                { "french": "Comment définir la conscience sans la réduire à la pensée ?", "english": "How can we define consciousness without reducing it to thought?" },
+                { "french": "Cette distinction est décisive pour la suite.", "english": "This distinction is decisive for what follows." },
+                { "french": "Le mot « bien » recouvre en réalité deux notions.", "english": "The word \"good\" in fact covers two different notions." }
+              ],
+              "tip": "«Réduire X à Y» — to reduce X to Y — is the standard way to name an oversimplification."
+            },
+            {
+              "heading": "Naming a thinker without quoting one",
+              "body": "You will often need to situate an idea historically. French does this with light, neutral formulas: chez Descartes (in Descartes), la tradition cartésienne, dans la lignée de Rousseau. These place an idea without attributing a sentence to anyone. Keep such references brief: in an essay, the concept must do the work, not the name.",
+              "examples": [
+                { "french": "Chez Descartes, le doute est une méthode et non une fin.", "english": "In Descartes, doubt is a method and not an end.", "note": "«chez + author» = in the work of" },
+                { "french": "Cette question traverse toute la tradition moderne.", "english": "This question runs through the whole modern tradition." },
+                { "french": "L'idée remonte au moins au dix-huitième siècle.", "english": "The idea goes back at least to the eighteenth century." },
+                { "french": "On rattache généralement cette thèse au courant rationaliste.", "english": "This claim is generally attached to the rationalist current." },
+                { "french": "Rousseau est souvent invoqué sur ce point.", "english": "Rousseau is often invoked on this point." }
+              ],
+              "tip": "«Chez» + a name is far more idiomatic than «dans la philosophie de…»."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "la-conscience", "french": "la conscience", "english": "consciousness, awareness", "partOfSpeech": "noun", "gender": "f", "plural": "les consciences", "pronunciation": "lah kon-see-AHNSS", "example": "La conscience de soi suppose déjà une distance avec soi-même.", "exampleEnglish": "Self-awareness already presupposes a distance from oneself.", "level": "C1", "category": "philosophy" },
+            { "id": "la-liberte", "french": "la liberté", "english": "freedom, liberty", "partOfSpeech": "noun", "gender": "f", "plural": "les libertés", "pronunciation": "lah lee-bair-TAY", "example": "La liberté ne se confond pas avec la simple absence d'obstacle.", "exampleEnglish": "Freedom is not to be confused with the mere absence of an obstacle.", "level": "C1", "category": "philosophy" },
+            { "id": "devoir-nom", "french": "le devoir", "english": "duty", "partOfSpeech": "noun", "gender": "m", "plural": "les devoirs", "pronunciation": "luh duh-VWAHR", "example": "Le devoir se reconnaît à ce qu'il contrarie parfois l'inclination.", "exampleEnglish": "Duty is recognised by the fact that it sometimes runs counter to inclination.", "level": "C1", "category": "philosophy" },
+            { "id": "la-verite", "french": "la vérité", "english": "truth", "partOfSpeech": "noun", "gender": "f", "plural": "les vérités", "pronunciation": "lah vay-ree-TAY", "example": "La vérité d'un énoncé ne dépend pas de l'assurance de celui qui l'avance.", "exampleEnglish": "The truth of a statement does not depend on the confidence of the person putting it forward.", "level": "C1", "category": "philosophy" },
+            { "id": "l-etre", "french": "l'être", "english": "being", "partOfSpeech": "noun", "gender": "m", "plural": "les êtres", "pronunciation": "lettr", "example": "La question de l'être précède celle de la connaissance.", "exampleEnglish": "The question of being precedes that of knowledge.", "level": "C1", "category": "philosophy" },
+            { "id": "l-existence", "french": "l'existence", "english": "existence", "partOfSpeech": "noun", "gender": "f", "plural": "les existences", "pronunciation": "leg-zees-TAHNSS", "example": "On peut concevoir une essence sans en affirmer l'existence.", "exampleEnglish": "One can conceive an essence without asserting its existence.", "level": "C1", "category": "philosophy" },
+            { "id": "l-essence", "french": "l'essence", "english": "essence", "partOfSpeech": "noun", "gender": "f", "plural": "les essences", "pronunciation": "lay-SAHNSS", "example": "L'essence désigne ce sans quoi une chose cesserait d'être elle-même.", "exampleEnglish": "Essence designates that without which a thing would cease to be itself.", "level": "C1", "category": "philosophy" },
+            { "id": "la-raison", "french": "la raison", "english": "reason", "partOfSpeech": "noun", "gender": "f", "plural": "les raisons", "pronunciation": "lah ray-ZON", "example": "La raison exige des motifs, non des impressions.", "exampleEnglish": "Reason demands grounds, not impressions.", "level": "C1", "category": "philosophy" },
+            { "id": "l-esprit", "french": "l'esprit", "english": "mind, spirit", "partOfSpeech": "noun", "gender": "m", "plural": "les esprits", "pronunciation": "less-PREE", "example": "L'esprit se laisse mal décrire dans le langage des choses.", "exampleEnglish": "The mind is hard to describe in the language of things.", "level": "C1", "category": "philosophy" },
+            { "id": "la-matiere", "french": "la matière", "english": "matter", "partOfSpeech": "noun", "gender": "f", "plural": "les matières", "pronunciation": "lah mah-TYAIR", "example": "Réduire la pensée à la matière, c'est déjà prendre parti.", "exampleEnglish": "To reduce thought to matter is already to take a side.", "level": "C1", "category": "philosophy" },
+            { "id": "l-ame", "french": "l'âme", "english": "the soul", "partOfSpeech": "noun", "gender": "f", "plural": "les âmes", "pronunciation": "lahm", "example": "Le mot « âme » a longtemps désigné le principe de la vie.", "exampleEnglish": "The word \"soul\" long designated the principle of life.", "level": "C1", "category": "philosophy" },
+            { "id": "le-corps", "french": "le corps", "english": "the body", "partOfSpeech": "noun", "gender": "m", "plural": "les corps", "pronunciation": "luh KOR", "example": "Le corps n'est pas un simple instrument de l'esprit.", "exampleEnglish": "The body is not a mere instrument of the mind.", "level": "C1", "category": "philosophy" },
+            { "id": "le-sujet", "french": "le sujet", "english": "the subject (the one who thinks)", "partOfSpeech": "noun", "gender": "m", "plural": "les sujets", "pronunciation": "luh sü-ZHAY", "example": "Le sujet est ce qui dit « je » et se sait dire « je ».", "exampleEnglish": "The subject is what says \"I\" and knows itself to say \"I\".", "level": "C1", "category": "philosophy" },
+            { "id": "l-objet", "french": "l'objet", "english": "the object (what is thought about)", "partOfSpeech": "noun", "gender": "m", "plural": "les objets", "pronunciation": "lob-ZHAY", "example": "Toute conscience est conscience de quelque chose : elle vise un objet.", "exampleEnglish": "All consciousness is consciousness of something: it aims at an object.", "level": "C1", "category": "philosophy" },
+            { "id": "la-connaissance", "french": "la connaissance", "english": "knowledge", "partOfSpeech": "noun", "gender": "f", "plural": "les connaissances", "pronunciation": "lah ko-nay-SAHNSS", "example": "La connaissance suppose que l'on puisse justifier ce que l'on avance.", "exampleEnglish": "Knowledge presupposes that one can justify what one puts forward.", "level": "C1", "category": "philosophy" },
+            { "id": "le-savoir", "french": "le savoir", "english": "knowledge (body of learning)", "partOfSpeech": "noun", "gender": "m", "plural": "les savoirs", "pronunciation": "luh sah-VWAHR", "example": "Un savoir transmis n'est pas encore un savoir compris.", "exampleEnglish": "Knowledge that has been passed on is not yet knowledge that has been understood.", "level": "C1", "category": "philosophy" },
+            { "id": "croyance", "french": "la croyance", "english": "belief", "partOfSpeech": "noun", "gender": "f", "plural": "les croyances", "pronunciation": "lah krwah-YAHNSS", "example": "Une croyance sincère peut être fausse sans cesser d'être sincère.", "exampleEnglish": "A sincere belief can be false without ceasing to be sincere.", "level": "C1", "category": "philosophy" },
+            { "id": "le-doute", "french": "le doute", "english": "doubt", "partOfSpeech": "noun", "gender": "m", "plural": "les doutes", "pronunciation": "luh DOOT", "example": "Chez Descartes, le doute est un instrument et non une résignation.", "exampleEnglish": "In Descartes, doubt is an instrument and not a resignation.", "level": "C1", "category": "philosophy" },
+            { "id": "la-certitude", "french": "la certitude", "english": "certainty", "partOfSpeech": "noun", "gender": "f", "plural": "les certitudes", "pronunciation": "lah sair-tee-TÜD", "example": "La certitude est un état du sujet ; la vérité, une propriété de l'énoncé.", "exampleEnglish": "Certainty is a state of the subject; truth, a property of the statement.", "level": "C1", "category": "philosophy" },
+            { "id": "l-illusion", "french": "l'illusion", "english": "illusion", "partOfSpeech": "noun", "gender": "f", "plural": "les illusions", "pronunciation": "lee-lü-ZYON", "example": "L'illusion persiste souvent alors même qu'on l'a comprise.", "exampleEnglish": "An illusion often persists even once it has been understood.", "level": "C1", "category": "philosophy" },
+            { "id": "l-apparence", "french": "l'apparence", "english": "appearance", "partOfSpeech": "noun", "gender": "f", "plural": "les apparences", "pronunciation": "lah-pah-RAHNSS", "example": "L'apparence n'est pas le contraire du réel : elle en fait partie.", "exampleEnglish": "Appearance is not the opposite of the real: it is part of it.", "level": "C1", "category": "philosophy" },
+            { "id": "la-realite", "french": "la réalité", "english": "reality", "partOfSpeech": "noun", "gender": "f", "plural": "les réalités", "pronunciation": "lah ray-ah-lee-TAY", "example": "Rien ne garantit que la réalité soit à la mesure de nos catégories.", "exampleEnglish": "Nothing guarantees that reality is proportioned to our categories.", "level": "C1", "category": "philosophy" },
+            { "id": "le-sens", "french": "le sens", "english": "meaning, sense", "partOfSpeech": "noun", "gender": "m", "plural": "les sens", "pronunciation": "luh SAHNSS", "example": "Le sens d'un mot se fixe par son usage autant que par sa définition.", "exampleEnglish": "The meaning of a word is fixed by its use as much as by its definition.", "level": "C1", "category": "philosophy" },
+            { "id": "la-valeur", "french": "la valeur", "english": "value", "partOfSpeech": "noun", "gender": "f", "plural": "les valeurs", "pronunciation": "lah vah-LEUR", "example": "Une valeur ne se démontre pas comme un théorème.", "exampleEnglish": "A value cannot be demonstrated the way a theorem can.", "level": "C1", "category": "philosophy" },
+            { "id": "la-morale", "french": "la morale", "english": "morality, ethics (as a set of norms)", "partOfSpeech": "noun", "gender": "f", "plural": "les morales", "pronunciation": "lah mo-RAHL", "example": "La morale prescrit ; la description se contente de constater.", "exampleEnglish": "Morality prescribes; description merely records.", "level": "C1", "category": "philosophy" },
+            { "id": "le-bien", "french": "le bien", "english": "the good", "partOfSpeech": "noun", "gender": "m", "plural": "les biens", "pronunciation": "luh BYAN", "example": "Le bien est-il désirable parce qu'il est bon, ou bon parce qu'il est désiré ?", "exampleEnglish": "Is the good desirable because it is good, or good because it is desired?", "level": "C1", "category": "philosophy" },
+            { "id": "le-mal", "french": "le mal", "english": "evil, harm", "partOfSpeech": "noun", "gender": "m", "plural": "les maux", "pronunciation": "luh MAL", "example": "Le mal désigne tantôt une souffrance, tantôt une faute.", "exampleEnglish": "Evil sometimes designates a suffering, sometimes a wrongdoing.", "level": "C1", "category": "philosophy" },
+            { "id": "la-justice", "french": "la justice", "english": "justice", "partOfSpeech": "noun", "gender": "f", "plural": "les justices", "pronunciation": "lah zhüs-TEESS", "example": "La justice ne se réduit ni à la loi ni à l'égalité arithmétique.", "exampleEnglish": "Justice reduces neither to the law nor to arithmetical equality.", "level": "C1", "category": "philosophy" },
+            { "id": "le-bonheur", "french": "le bonheur", "english": "happiness", "partOfSpeech": "noun", "gender": "m", "plural": "les bonheurs", "pronunciation": "luh bo-NEUR", "example": "Le bonheur est une fin trop vague pour servir de règle d'action.", "exampleEnglish": "Happiness is too vague an end to serve as a rule of action.", "level": "C1", "category": "philosophy" },
+            { "id": "le-desir", "french": "le désir", "english": "desire", "partOfSpeech": "noun", "gender": "m", "plural": "les désirs", "pronunciation": "luh day-ZEER", "example": "Le désir suppose un manque, mais tout manque n'est pas un désir.", "exampleEnglish": "Desire presupposes a lack, but not every lack is a desire.", "level": "C1", "category": "philosophy" },
+            { "id": "la-volonte", "french": "la volonté", "english": "the will", "partOfSpeech": "noun", "gender": "f", "plural": "les volontés", "pronunciation": "lah vo-lon-TAY", "example": "La volonté se distingue du souhait par l'engagement qu'elle implique.", "exampleEnglish": "The will differs from a wish by the commitment it implies.", "level": "C1", "category": "philosophy" },
+            { "id": "le-hasard", "french": "le hasard", "english": "chance", "partOfSpeech": "noun", "gender": "m", "plural": "les hasards", "pronunciation": "luh ah-ZAR", "example": "Le hasard nomme peut-être notre ignorance des causes.", "exampleEnglish": "Chance perhaps names our ignorance of causes.", "level": "C1", "category": "philosophy" },
+            { "id": "la-necessite", "french": "la nécessité", "english": "necessity", "partOfSpeech": "noun", "gender": "f", "plural": "les nécessités", "pronunciation": "lah nay-say-see-TAY", "example": "Ce qui est nécessaire ne pouvait pas ne pas être : telle est la nécessité.", "exampleEnglish": "What is necessary could not have failed to be: such is necessity.", "level": "C1", "category": "philosophy" },
+            { "id": "le-libre-arbitre", "french": "le libre arbitre", "english": "free will", "partOfSpeech": "noun", "gender": "m", "plural": "les libres arbitres", "pronunciation": "luh LEE-brar-BEE-truh", "example": "Le libre arbitre suppose que plusieurs actions étaient également possibles.", "exampleEnglish": "Free will presupposes that several actions were equally possible.", "level": "C1", "category": "philosophy" },
+            { "id": "le-langage", "french": "le langage", "english": "language (as a faculty)", "partOfSpeech": "noun", "gender": "m", "plural": "les langages", "pronunciation": "luh lahn-GAHZH", "example": "Le langage ne fait pas qu'exprimer la pensée : il la façonne.", "exampleEnglish": "Language does not merely express thought: it shapes it.", "level": "C1", "category": "philosophy" },
+            { "id": "la-nature", "french": "la nature", "english": "nature", "partOfSpeech": "noun", "gender": "f", "plural": "les natures", "pronunciation": "lah nah-TÜR", "example": "On oppose volontiers la nature à la culture, sans définir clairement ni l'une ni l'autre.", "exampleEnglish": "Nature is readily set against culture, without either being clearly defined.", "level": "C1", "category": "philosophy" },
+            { "id": "autrui", "french": "autrui", "english": "the other person, others", "partOfSpeech": "pronoun", "pronunciation": "oh-TRÜEE", "example": "Autrui n'est pas un objet parmi d'autres dans mon champ de perception.", "exampleEnglish": "The other is not one object among others in my field of perception.", "level": "C1", "category": "philosophy" },
+            { "id": "la-pensee", "french": "la pensée", "english": "thought", "partOfSpeech": "noun", "gender": "f", "plural": "les pensées", "pronunciation": "lah pahn-SAY", "example": "La pensée se saisit elle-même, ce qu'aucune pierre ne saurait faire.", "exampleEnglish": "Thought grasps itself, which no stone could do.", "level": "C1", "category": "philosophy" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "The impersonal voice: on, il faut, ce qui / ce que",
+              "body": "Philosophical French avoids «je» in the body of an argument. The workhorses are «on» (one, we), «il faut» (one must), «il s'agit de» (it is a question of) and the neuter relatives «ce qui / ce que». These let you state a claim without making it a personal confession. The nominalised «ce qui fait que…» is especially common: it names a condition without naming an agent.",
+              "examples": [
+                { "french": "On ne saurait confondre la liberté et le caprice.", "english": "One could not confuse freedom with whim.", "note": "«ne saurait» = a softened, formal «ne peut»." },
+                { "french": "Il s'agit moins de définir le bonheur que d'en interroger l'usage.", "english": "It is less a question of defining happiness than of questioning how the word is used." },
+                { "french": "Ce qui fait la valeur d'un acte, c'est l'intention qui l'anime.", "english": "What gives an act its value is the intention that animates it." },
+                { "french": "Il faut ici distinguer deux sens du mot « devoir ».", "english": "Here one must distinguish two senses of the word \"duty\"." },
+                { "french": "Ce que nous appelons réalité dépend de nos catégories.", "english": "What we call reality depends on our categories." },
+                { "french": "On admettra, pour commencer, que la conscience n'est pas un objet.", "english": "Let us grant, to begin with, that consciousness is not an object." }
+              ],
+              "tip": "«Ne saurait + infinitive» is the polite, essayistic way of saying «cannot»."
+            },
+            {
+              "heading": "The subjunctive after doubt, negation and concession",
+              "body": "Concepts are rarely asserted flatly. After expressions of doubt, denial and concession, French requires the subjunctive: il n'est pas certain que, on ne peut pas dire que, bien que, quoique, sans que, à moins que. The subjunctive marks the claim as suspended rather than affirmed — exactly what a careful argument needs.",
+              "examples": [
+                { "french": "Il n'est pas certain que la liberté soit une donnée.", "english": "It is not certain that freedom is a given.", "note": "être → soit" },
+                { "french": "Bien que la certitude soit un sentiment, elle prétend à l'objectivité.", "english": "Although certainty is a feeling, it lays claim to objectivity." },
+                { "french": "On ne peut pas dire que le désir ait toujours un objet précis.", "english": "One cannot say that desire always has a precise object.", "note": "avoir → ait" },
+                { "french": "Quoi qu'il en soit, la distinction demeure utile.", "english": "Be that as it may, the distinction remains useful.", "note": "Fixed formula, always subjunctive." },
+                { "french": "Sans que le sujet le sache, ses catégories orientent sa perception.", "english": "Without the subject knowing it, his categories orient his perception.", "note": "savoir → sache" },
+                { "french": "Il se peut que le hasard ne soit qu'un nom donné à notre ignorance.", "english": "It may be that chance is only a name given to our ignorance." }
+              ],
+              "tip": "«Il est certain que» takes the indicative; add a negation and it flips to the subjunctive."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "c1_u10_l01_li01",
+              "type": "listenChoose",
+              "french": "La certitude est un état du sujet, non une propriété de l'énoncé.",
+              "options": [
+                "Certainty is a state of the subject, not a property of the statement.",
+                "Certainty is a property of the statement, not a state of the subject.",
+                "Truth is a state of the subject and a property of the statement.",
+                "The subject states a certainty about a property."
+              ],
+              "answer": "Certainty is a state of the subject, not a property of the statement."
+            },
+            {
+              "id": "c1_u10_l01_li02",
+              "type": "listenType",
+              "french": "Il faut distinguer la liberté de l'indépendance.",
+              "answer": "Il faut distinguer la liberté de l'indépendance.",
+              "acceptedAnswers": [
+                "Il faut distinguer la liberte de l'independance",
+                "il faut distinguer la liberté de l'indépendance",
+                "Il faut distinguer la liberté de l'indépendance"
+              ]
+            },
+            {
+              "id": "c1_u10_l01_li03",
+              "type": "listenChoose",
+              "french": "Chez Descartes, le doute n'est pas une faiblesse mais une méthode.",
+              "options": [
+                "In Descartes, doubt is not a weakness but a method.",
+                "In Descartes, doubt is neither a weakness nor a method.",
+                "Descartes doubts his own method and his weakness.",
+                "In Descartes, method is a weakness rather than a doubt."
+              ],
+              "answer": "In Descartes, doubt is not a weakness but a method."
+            },
+            {
+              "id": "c1_u10_l01_li04",
+              "type": "dictation",
+              "french": "Le désir suppose un manque, mais tout manque n'est pas un désir.",
+              "answer": "Le désir suppose un manque, mais tout manque n'est pas un désir.",
+              "acceptedAnswers": [
+                "Le desir suppose un manque mais tout manque n'est pas un desir",
+                "Le désir suppose un manque mais tout manque n'est pas un désir",
+                "le désir suppose un manque, mais tout manque n'est pas un désir"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "c1_u10_l01_sp01",
+              "type": "speak",
+              "french": "La conscience de soi suppose déjà une distance avec soi-même.",
+              "english": "Self-awareness already presupposes a distance from oneself.",
+              "prompt": "State the claim calmly, as if opening a seminar.",
+              "tip": "«conscience» ends in a nasal -ance: kon-see-AHNSS, with no hard S at the end."
+            },
+            {
+              "id": "c1_u10_l01_sp02",
+              "type": "speak",
+              "french": "On ne saurait réduire la pensée à un simple mouvement de la matière.",
+              "english": "One could not reduce thought to a mere movement of matter.",
+              "prompt": "Mark the objection with a slight lift on « ne saurait ».",
+              "tip": "In «saurait» the -ait ending is an open [ɛ]: soh-RAY, never soh-RAY-tuh."
+            },
+            {
+              "id": "c1_u10_l01_sp03",
+              "type": "speak",
+              "french": "Bien que le bonheur soit universellement recherché, il reste mal défini.",
+              "english": "Although happiness is universally sought, it remains poorly defined.",
+              "prompt": "Keep the concessive clause slightly lower in pitch than the main clause.",
+              "tip": "Link «bien qu(e) le»: the e of «que» disappears — byan-kluh."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Des mots que l'on croit connaître",
+              "french": "Il y a des mots que l'on emploie tous les jours et que l'on croit, pour cette raison, parfaitement comprendre.\nLa liberté, la vérité, le devoir, la conscience : chacun s'en sert sans hésiter, et personne n'en donnerait volontiers la définition.\nC'est là, peut-être, le point de départ de toute réflexion philosophique.\nOn ne commence pas par ignorer ces mots ; on commence par s'apercevoir qu'on les employait sans les interroger.\nPrenons la liberté. Dans l'usage courant, elle désigne l'absence d'obstacle : est libre celui que rien n'empêche.\nMais un homme que rien n'empêche peut n'obéir qu'à ses impulsions ; l'appellera-t-on libre pour autant ?\nIl faut donc distinguer deux sens : la liberté comme absence de contrainte extérieure, et la liberté comme maîtrise de soi.\nLe premier sens concerne la situation, le second concerne le sujet.\nLes confondre, c'est se condamner à discuter longtemps sans jamais parler de la même chose.\nOn en dirait autant du devoir, que l'on ramène trop vite à l'obéissance, ou de la vérité, que l'on confond volontiers avec la certitude.\nOr la certitude est un état de celui qui parle, tandis que la vérité est une propriété de ce qui est dit.\nUn homme peut être absolument certain et absolument dans l'erreur : l'histoire des sciences en fournirait mille exemples.\nCette opération, qui consiste à séparer des sens que l'usage avait fondus ensemble, porte un nom : c'est la distinction.\nElle ne résout pas le problème, mais elle le rend enfin formulable.\nAvant de demander si l'homme est libre, il vaut donc mieux demander ce que l'on entend par « libre ».\nLa philosophie commence rarement par une réponse ; elle commence presque toujours par un mot que l'on cesse de croire clair.",
+              "english": "There are words we use every day and which, for that very reason, we believe we understand perfectly.\nFreedom, truth, duty, consciousness: everyone uses them without hesitation, and no one would willingly offer a definition of them.\nThat, perhaps, is the starting point of all philosophical reflection.\nWe do not begin by being ignorant of these words; we begin by noticing that we were using them without questioning them.\nTake freedom. In ordinary usage, it designates the absence of an obstacle: free is the person whom nothing prevents.\nBut a man whom nothing prevents may obey nothing but his impulses; shall we call him free for all that?\nWe must therefore distinguish two senses: freedom as the absence of external constraint, and freedom as self-mastery.\nThe first sense concerns the situation, the second concerns the subject.\nTo confuse them is to condemn oneself to arguing at length without ever speaking about the same thing.\nOne could say as much of duty, which is too quickly reduced to obedience, or of truth, which is readily confused with certainty.\nYet certainty is a state of the one who speaks, whereas truth is a property of what is said.\nA man may be absolutely certain and absolutely mistaken: the history of the sciences would furnish a thousand examples.\nThis operation, which consists in separating senses that usage had fused together, has a name: it is the distinction.\nIt does not solve the problem, but it finally makes the problem formulable.\nBefore asking whether man is free, it is therefore better to ask what is meant by \"free\".\nPhilosophy rarely begins with an answer; it almost always begins with a word we stop believing to be clear.",
+              "questions": [
+                {
+                  "id": "c1_u10_l01_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "D'après le texte, par quoi commence la réflexion philosophique ?",
+                  "options": [
+                    "Par l'aperçu que des mots familiers n'avaient jamais été interrogés",
+                    "Par l'ignorance complète du vocabulaire courant",
+                    "Par la lecture des auteurs classiques",
+                    "Par le refus d'employer des mots abstraits"
+                  ],
+                  "answer": "Par l'aperçu que des mots familiers n'avaient jamais été interrogés"
+                },
+                {
+                  "id": "c1_u10_l01_rd02",
+                  "type": "multipleChoice",
+                  "prompt": "Quelle distinction le texte établit-il entre la certitude et la vérité ?",
+                  "options": [
+                    "La certitude qualifie celui qui parle, la vérité ce qui est dit",
+                    "La certitude qualifie ce qui est dit, la vérité celui qui parle",
+                    "Les deux qualifient également l'énoncé",
+                    "La certitude est toujours fausse, la vérité toujours vraie"
+                  ],
+                  "answer": "La certitude qualifie celui qui parle, la vérité ce qui est dit"
+                },
+                {
+                  "id": "c1_u10_l01_rd03",
+                  "type": "trueFalse",
+                  "prompt": "Selon le texte, la distinction résout le problème posé.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "c1_u10_l01_wr01",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "One must distinguish truth from certainty.",
+              "answer": "Il faut distinguer la vérité de la certitude.",
+              "acceptedAnswers": [
+                "Il faut distinguer la verite de la certitude",
+                "On doit distinguer la vérité de la certitude.",
+                "Il faut distinguer la vérité de la certitude"
+              ]
+            },
+            {
+              "id": "c1_u10_l01_wr02",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "It is not certain that freedom is a given.",
+              "answer": "Il n'est pas certain que la liberté soit une donnée.",
+              "acceptedAnswers": [
+                "Il n'est pas certain que la liberte soit une donnee",
+                "Il n'est pas certain que la liberté soit une donnée",
+                "Il n'est pas sûr que la liberté soit une donnée."
+              ]
+            },
+            {
+              "id": "c1_u10_l01_wr03",
+              "type": "arrangeWords",
+              "words": ["conscience", "un", "La", "objet", "pas", "n'est"],
+              "answer": "La conscience n'est pas un objet",
+              "english": "Consciousness is not an object."
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "c1_u10_l01_pr01",
+              "type": "fillBlank",
+              "prompt": "Il faut distinguer la liberté ___ l'indépendance.",
+              "answer": "de"
+            },
+            {
+              "id": "c1_u10_l01_pr02",
+              "type": "fillBlank",
+              "prompt": "On oppose souvent la nature ___ la culture.",
+              "answer": "à"
+            },
+            {
+              "id": "c1_u10_l01_pr03",
+              "type": "match",
+              "pairs": [
+                { "french": "l'essence", "english": "essence" },
+                { "french": "le hasard", "english": "chance" },
+                { "french": "l'âme", "english": "the soul" },
+                { "french": "le libre arbitre", "english": "free will" }
+              ]
+            },
+            {
+              "id": "c1_u10_l01_pr04",
+              "type": "multipleChoice",
+              "prompt": "Quelle forme convient ? « Il n'est pas certain que le hasard ___ un nom donné à notre ignorance. »",
+              "options": ["soit", "est", "sera", "était"],
+              "answer": "soit"
+            },
+            {
+              "id": "c1_u10_l01_pr05",
+              "type": "arrangeWords",
+              "words": ["conscience", "vise", "Toute", "objet", "un"],
+              "answer": "Toute conscience vise un objet",
+              "english": "All consciousness aims at an object."
+            },
+            {
+              "id": "c1_u10_l01_pr06",
+              "type": "multipleChoice",
+              "prompt": "« ___ Descartes, le doute est une méthode. » Quel mot manque ?",
+              "options": ["Chez", "Dans", "Sur", "Avec"],
+              "answer": "Chez"
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "c1_u10_l01_qz01",
+              "type": "multipleChoice",
+              "prompt": "Que signifie « la volonté » ?",
+              "options": ["the will", "the wish", "the volume", "the vocation"],
+              "answer": "the will"
+            },
+            {
+              "id": "c1_u10_l01_qz02",
+              "type": "multipleChoice",
+              "prompt": "Quel mot désigne « the other person » en langue philosophique ?",
+              "options": ["autrui", "l'autrement", "l'autre part", "autrefois"],
+              "answer": "autrui"
+            },
+            {
+              "id": "c1_u10_l01_qz03",
+              "type": "fillBlank",
+              "prompt": "L'___ désigne ce sans quoi une chose cesserait d'être elle-même.",
+              "answer": "essence"
+            },
+            {
+              "id": "c1_u10_l01_qz04",
+              "type": "trueFalse",
+              "prompt": "En français philosophique, on dit « Liberté est un fardeau » sans article.",
+              "options": ["True", "False"],
+              "answer": "False"
+            },
+            {
+              "id": "c1_u10_l01_qz05",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "The mind is not a thing among things.",
+              "answer": "L'esprit n'est pas une chose parmi les choses.",
+              "acceptedAnswers": [
+                "L'esprit n'est pas une chose parmi les choses",
+                "L'esprit n'est pas une chose parmi d'autres choses.",
+                "l'esprit n'est pas une chose parmi les choses"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1_u10_l02",
+      "level": "C1",
+      "unit": 10,
+      "title": "Argumenter en philosophie",
+      "description": "Building a philosophical argument in French: stating a thesis, raising an objection, drawing a distinction, and using an example without letting it carry the proof.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Posing a thesis",
+              "body": "A French philosophical thesis is announced, not merely asserted. Standard openings are «On soutient généralement que…», «Une première réponse consiste à dire que…», «Il semble d'abord que…». The verb «poser» is technical here: «posons que X» means let us grant X as a starting point. Note that «une thèse» is a claim you defend, never a dissertation.",
+              "examples": [
+                { "french": "Une première réponse consiste à dire que la liberté est l'absence de contrainte.", "english": "A first answer consists in saying that freedom is the absence of constraint." },
+                { "french": "Posons, pour commencer, que tout jugement peut être discuté.", "english": "Let us grant, to begin with, that every judgment can be discussed.", "note": "«poser» = to lay down as a premise" },
+                { "french": "Il semble d'abord que le devoir s'oppose au désir.", "english": "It seems at first that duty is opposed to desire.", "note": "«d'abord» signals the thesis will later be complicated." },
+                { "french": "Cette thèse repose sur un présupposé qu'il faudra examiner.", "english": "This claim rests on a presupposition that will have to be examined." },
+                { "french": "On soutient généralement que l'expérience suffit à fonder le savoir.", "english": "It is generally maintained that experience suffices to ground knowledge." }
+              ],
+              "tip": "«Il semble d'abord que» quietly promises an objection: French readers expect the «mais» that follows."
+            },
+            {
+              "heading": "Raising an objection — and conceding first",
+              "body": "The French argumentative reflex is to concede before objecting. «Certes… mais…», «Sans doute… toutefois…», «Il est vrai que… néanmoins…» give the opponent their due, then turn. An objection that skips the concession sounds crude. «Objecter que» and «on pourrait objecter que» are the formal verbs; «l'objection» is the noun.",
+              "examples": [
+                { "french": "Certes, l'exemple est frappant ; il ne prouve toutefois rien.", "english": "Admittedly, the example is striking; it nevertheless proves nothing." },
+                { "french": "On pourrait objecter que cette définition est trop large.", "english": "One might object that this definition is too broad." },
+                { "french": "Sans doute la loi protège-t-elle ; elle contraint néanmoins.", "english": "The law no doubt protects; it nevertheless constrains.", "note": "Inversion after «sans doute» is formal and idiomatic." },
+                { "french": "L'objection porte moins sur la conclusion que sur la prémisse.", "english": "The objection bears less on the conclusion than on the premise." },
+                { "french": "Il est vrai que le raisonnement est valide ; encore faut-il que les prémisses soient vraies.", "english": "It is true that the reasoning is valid; the premises still have to be true." }
+              ],
+              "tip": "«Encore faut-il que + subjonctif» is the elegant way to add a necessary condition."
+            },
+            {
+              "heading": "Using an example without proving by it",
+              "body": "In French philosophy an example illustrates; it does not demonstrate. The vocabulary marks this carefully: «à titre d'exemple», «pour illustrer», «on songe ici à». The counter-example, by contrast, does have probative force — a single one refutes a universal claim. Say «un contre-exemple suffit à réfuter» to make that logic explicit.",
+              "examples": [
+                { "french": "À titre d'exemple, on songe au serment que l'on tient malgré soi.", "english": "By way of example, one thinks of a promise kept against one's own inclination." },
+                { "french": "L'exemple illustre la thèse sans l'établir.", "english": "The example illustrates the claim without establishing it." },
+                { "french": "Un seul contre-exemple suffit à réfuter une règle universelle.", "english": "A single counter-example is enough to refute a universal rule." },
+                { "french": "Ce cas n'est pas décisif : il reste particulier.", "english": "This case is not decisive: it remains particular." },
+                { "french": "L'exemple doit être analysé, non simplement mentionné.", "english": "The example must be analysed, not merely mentioned." }
+              ],
+              "tip": "Examiners penalise «l'exemple prouve que…» — prefer «l'exemple donne à voir…»."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "la-these", "french": "la thèse", "english": "the thesis, the claim defended", "partOfSpeech": "noun", "gender": "f", "plural": "les thèses", "pronunciation": "lah TEZ", "example": "La thèse est annoncée dès la première page.", "exampleEnglish": "The claim is announced from the first page.", "level": "C1", "category": "argumentation" },
+            { "id": "l-antithese", "french": "l'antithèse", "english": "the antithesis, the opposing claim", "partOfSpeech": "noun", "gender": "f", "plural": "les antithèses", "pronunciation": "lahn-tee-TEZ", "example": "L'antithèse ne consiste pas à nier, mais à déplacer la question.", "exampleEnglish": "The antithesis does not consist in denying, but in shifting the question.", "level": "C1", "category": "argumentation" },
+            { "id": "l-objection", "french": "l'objection", "english": "the objection", "partOfSpeech": "noun", "gender": "f", "plural": "les objections", "pronunciation": "lob-zhek-SYON", "example": "L'objection vise la prémisse et non la conclusion.", "exampleEnglish": "The objection targets the premise and not the conclusion.", "level": "C1", "category": "argumentation" },
+            { "id": "la-distinction", "french": "la distinction", "english": "the distinction", "partOfSpeech": "noun", "gender": "f", "plural": "les distinctions", "pronunciation": "lah dees-tank-SYON", "example": "Cette distinction rend le problème enfin formulable.", "exampleEnglish": "This distinction finally makes the problem formulable.", "level": "C1", "category": "argumentation" },
+            { "id": "l-exemple", "french": "l'exemple", "english": "the example", "partOfSpeech": "noun", "gender": "m", "plural": "les exemples", "pronunciation": "leg-ZAHM-pluh", "example": "L'exemple illustre la thèse sans jamais la démontrer.", "exampleEnglish": "The example illustrates the claim without ever demonstrating it.", "level": "C1", "category": "argumentation" },
+            { "id": "le-contre-exemple", "french": "le contre-exemple", "english": "the counter-example", "partOfSpeech": "noun", "gender": "m", "plural": "les contre-exemples", "pronunciation": "luh kontr-eg-ZAHM-pluh", "example": "Un seul contre-exemple ruine une règle prétendue universelle.", "exampleEnglish": "A single counter-example ruins a supposedly universal rule.", "level": "C1", "category": "argumentation" },
+            { "id": "l-argument", "french": "l'argument", "english": "the argument", "partOfSpeech": "noun", "gender": "m", "plural": "les arguments", "pronunciation": "lar-gü-MAHN", "example": "L'argument est ingénieux, mais il change de sujet en chemin.", "exampleEnglish": "The argument is ingenious, but it changes the subject along the way.", "level": "C1", "category": "argumentation" },
+            { "id": "le-raisonnement", "french": "le raisonnement", "english": "the reasoning, the line of argument", "partOfSpeech": "noun", "gender": "m", "plural": "les raisonnements", "pronunciation": "luh ray-zon-MAHN", "example": "Le raisonnement est valide, ce qui ne le rend pas concluant.", "exampleEnglish": "The reasoning is valid, which does not make it conclusive.", "level": "C1", "category": "argumentation" },
+            { "id": "la-demonstration", "french": "la démonstration", "english": "the demonstration, the proof", "partOfSpeech": "noun", "gender": "f", "plural": "les démonstrations", "pronunciation": "lah day-mons-trah-SYON", "example": "Une démonstration n'admet aucune étape laissée implicite.", "exampleEnglish": "A demonstration allows no step to be left implicit.", "level": "C1", "category": "argumentation" },
+            { "id": "la-preuve", "french": "la preuve", "english": "the proof", "partOfSpeech": "noun", "gender": "f", "plural": "les preuves", "pronunciation": "lah PREUV", "example": "La preuve incombe à celui qui avance la thèse.", "exampleEnglish": "The burden of proof falls on the one who advances the claim.", "level": "C1", "category": "argumentation" },
+            { "id": "la-premisse", "french": "la prémisse", "english": "the premise", "partOfSpeech": "noun", "gender": "f", "plural": "les prémisses", "pronunciation": "lah pray-MEESS", "example": "Si la prémisse est fausse, la validité de la déduction ne sauve rien.", "exampleEnglish": "If the premise is false, the validity of the deduction saves nothing.", "level": "C1", "category": "argumentation" },
+            { "id": "la-conclusion", "french": "la conclusion", "english": "the conclusion", "partOfSpeech": "noun", "gender": "f", "plural": "les conclusions", "pronunciation": "lah kon-klü-ZYON", "example": "La conclusion excède ce que les prémisses autorisaient.", "exampleEnglish": "The conclusion goes beyond what the premises allowed.", "level": "C1", "category": "argumentation" },
+            { "id": "le-postulat", "french": "le postulat", "english": "the postulate", "partOfSpeech": "noun", "gender": "m", "plural": "les postulats", "pronunciation": "luh pos-tü-LAH", "example": "Ce postulat n'est jamais énoncé, mais il gouverne tout le texte.", "exampleEnglish": "This postulate is never stated, yet it governs the whole text.", "level": "C1", "category": "argumentation" },
+            { "id": "l-hypothese", "french": "l'hypothèse", "english": "the hypothesis", "partOfSpeech": "noun", "gender": "f", "plural": "les hypothèses", "pronunciation": "lee-po-TEZ", "example": "Formulons l'hypothèse inverse et voyons où elle mène.", "exampleEnglish": "Let us formulate the opposite hypothesis and see where it leads.", "level": "C1", "category": "argumentation" },
+            { "id": "le-paradoxe", "french": "le paradoxe", "english": "the paradox", "partOfSpeech": "noun", "gender": "m", "plural": "les paradoxes", "pronunciation": "luh pah-rah-DOKS", "example": "Le paradoxe n'est pas une erreur : c'est une résistance de la pensée.", "exampleEnglish": "A paradox is not an error: it is a resistance within thought.", "level": "C1", "category": "argumentation" },
+            { "id": "la-contradiction", "french": "la contradiction", "english": "the contradiction", "partOfSpeech": "noun", "gender": "f", "plural": "les contradictions", "pronunciation": "lah kon-trah-deek-SYON", "example": "La contradiction n'est pas seulement gênante : elle est disqualifiante.", "exampleEnglish": "A contradiction is not merely awkward: it is disqualifying.", "level": "C1", "category": "argumentation" },
+            { "id": "refutation", "french": "la réfutation", "english": "the refutation", "partOfSpeech": "noun", "gender": "f", "plural": "les réfutations", "pronunciation": "lah ray-fü-tah-SYON", "example": "La réfutation doit reprendre la thèse dans sa version la plus forte.", "exampleEnglish": "A refutation must take up the claim in its strongest version.", "level": "C1", "category": "argumentation" },
+            { "id": "la-deduction", "french": "la déduction", "english": "deduction", "partOfSpeech": "noun", "gender": "f", "plural": "les déductions", "pronunciation": "lah day-dük-SYON", "example": "La déduction va du général au particulier.", "exampleEnglish": "Deduction moves from the general to the particular.", "level": "C1", "category": "argumentation" },
+            { "id": "l-induction", "french": "l'induction", "english": "induction", "partOfSpeech": "noun", "gender": "f", "plural": "les inductions", "pronunciation": "lan-dük-SYON", "example": "L'induction généralise à partir de cas observés, sans jamais les épuiser.", "exampleEnglish": "Induction generalises from observed cases, without ever exhausting them.", "level": "C1", "category": "argumentation" },
+            { "id": "la-definition", "french": "la définition", "english": "the definition", "partOfSpeech": "noun", "gender": "f", "plural": "les définitions", "pronunciation": "lah day-fee-nee-SYON", "example": "Une définition trop large englobe ce qu'elle devait exclure.", "exampleEnglish": "Too broad a definition takes in what it was meant to exclude.", "level": "C1", "category": "argumentation" },
+            { "id": "le-concept", "french": "le concept", "english": "the concept", "partOfSpeech": "noun", "gender": "m", "plural": "les concepts", "pronunciation": "luh kon-SEPT", "example": "Le concept se construit ; le mot, lui, se trouve déjà là.", "exampleEnglish": "A concept is constructed; the word, by contrast, is already there.", "level": "C1", "category": "argumentation" },
+            { "id": "la-notion", "french": "la notion", "english": "the notion", "partOfSpeech": "noun", "gender": "f", "plural": "les notions", "pronunciation": "lah no-SYON", "example": "Cette notion recouvre en réalité deux problèmes distincts.", "exampleEnglish": "This notion in fact covers two distinct problems.", "level": "C1", "category": "argumentation" },
+            { "id": "la-validite", "french": "la validité", "english": "validity", "partOfSpeech": "noun", "gender": "f", "plural": "les validités", "pronunciation": "lah vah-lee-dee-TAY", "example": "La validité concerne la forme, la vérité concerne le contenu.", "exampleEnglish": "Validity concerns form, truth concerns content.", "level": "C1", "category": "argumentation" },
+            { "id": "la-coherence", "french": "la cohérence", "english": "coherence, consistency", "partOfSpeech": "noun", "gender": "f", "plural": "les cohérences", "pronunciation": "lah ko-ay-RAHNSS", "example": "La cohérence d'un système ne garantit pas sa vérité.", "exampleEnglish": "The consistency of a system does not guarantee its truth.", "level": "C1", "category": "argumentation" },
+            { "id": "le-presuppose", "french": "le présupposé", "english": "the presupposition, the unstated assumption", "partOfSpeech": "noun", "gender": "m", "plural": "les présupposés", "pronunciation": "luh pray-sü-po-ZAY", "example": "Toute question porte un présupposé qu'il faut savoir dégager.", "exampleEnglish": "Every question carries a presupposition that one must know how to bring out.", "level": "C1", "category": "argumentation" },
+            { "id": "sophisme", "french": "le sophisme", "english": "the fallacy, the sophism", "partOfSpeech": "noun", "gender": "m", "plural": "les sophismes", "pronunciation": "luh so-FEEZ-muh", "example": "Le sophisme séduit précisément parce qu'il imite la rigueur.", "exampleEnglish": "A fallacy seduces precisely because it imitates rigour.", "level": "C1", "category": "argumentation" },
+            { "id": "petition-de-principe", "french": "la pétition de principe", "english": "begging the question, circular reasoning", "partOfSpeech": "noun", "gender": "f", "plural": "les pétitions de principe", "pronunciation": "lah pay-tee-SYON duh pran-SEEP", "example": "Supposer ce qu'il fallait établir : voilà une pétition de principe.", "exampleEnglish": "To assume what had to be established: that is begging the question.", "level": "C1", "category": "argumentation" },
+            { "id": "le-critere", "french": "le critère", "english": "the criterion", "partOfSpeech": "noun", "gender": "m", "plural": "les critères", "pronunciation": "luh kree-TAIR", "example": "Quel critère permet de trancher entre les deux thèses ?", "exampleEnglish": "What criterion allows us to decide between the two claims?", "level": "C1", "category": "argumentation" },
+            { "id": "le-fondement", "french": "le fondement", "english": "the foundation, the grounding", "partOfSpeech": "noun", "gender": "m", "plural": "les fondements", "pronunciation": "luh fond-MAHN", "example": "Il reste à chercher le fondement de cette obligation.", "exampleEnglish": "It remains to seek the foundation of this obligation.", "level": "C1", "category": "argumentation" },
+            { "id": "la-nuance", "french": "la nuance", "english": "the nuance, the qualification", "partOfSpeech": "noun", "gender": "f", "plural": "les nuances", "pronunciation": "lah nü-AHNSS", "example": "Cette nuance modifie entièrement la portée de la thèse.", "exampleEnglish": "This qualification entirely changes the scope of the claim.", "level": "C1", "category": "argumentation" },
+            { "id": "conceder", "french": "concéder", "english": "to concede, to grant", "partOfSpeech": "verb", "pronunciation": "kon-say-DAY", "example": "Concédons ce point : il ne suffit pas à emporter la conclusion.", "exampleEnglish": "Let us concede this point: it is not enough to carry the conclusion.", "level": "C1", "category": "argumentation" },
+            { "id": "refuter", "french": "réfuter", "english": "to refute", "partOfSpeech": "verb", "pronunciation": "ray-fü-TAY", "example": "Réfuter une thèse suppose d'abord de l'exposer fidèlement.", "exampleEnglish": "Refuting a claim first requires setting it out faithfully.", "level": "C1", "category": "argumentation" },
+            { "id": "nuancer", "french": "nuancer", "english": "to qualify, to add nuance to", "partOfSpeech": "verb", "pronunciation": "nü-ahn-SAY", "example": "Il convient de nuancer une affirmation aussi générale.", "exampleEnglish": "So general an assertion ought to be qualified.", "level": "C1", "category": "argumentation" },
+            { "id": "etayer", "french": "étayer", "english": "to support, to back up (an argument)", "partOfSpeech": "verb", "pronunciation": "ay-tay-YAY", "example": "L'auteur étaye sa thèse par une analyse du langage courant.", "exampleEnglish": "The author supports his claim with an analysis of everyday language.", "level": "C1", "category": "argumentation" },
+            { "id": "objecter", "french": "objecter", "english": "to object (that)", "partOfSpeech": "verb", "pronunciation": "ob-zhek-TAY", "example": "On objectera que la définition proposée reste circulaire.", "exampleEnglish": "It will be objected that the proposed definition remains circular.", "level": "C1", "category": "argumentation" },
+            { "id": "distinguer", "french": "distinguer", "english": "to distinguish (X from Y)", "partOfSpeech": "verb", "pronunciation": "dees-tan-GAY", "example": "Distinguons le fait du droit avant d'aller plus loin.", "exampleEnglish": "Let us distinguish fact from right before going further.", "level": "C1", "category": "argumentation" },
+            { "id": "or", "french": "or", "english": "and yet, now (logical pivot)", "partOfSpeech": "conjunction", "pronunciation": "or", "example": "Or ce que l'on suppose ici est précisément ce qu'il fallait prouver.", "exampleEnglish": "Now what is assumed here is precisely what had to be proved.", "level": "C1", "category": "argumentation" },
+            { "id": "des-lors", "french": "dès lors", "english": "consequently, from that point on", "partOfSpeech": "expression", "pronunciation": "day LOR", "example": "Dès lors, la conclusion s'impose d'elle-même.", "exampleEnglish": "Consequently, the conclusion imposes itself.", "level": "C1", "category": "argumentation" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "The logical connectors of an argument",
+              "body": "French argumentation is signposted with a small, fixed set of connectors, each with a precise job. «En effet» justifies what was just said (never «indeed» as an intensifier). «Or» introduces the decisive fact that will turn the argument. «Ainsi» and «dès lors» draw a consequence. «Toutefois» and «néanmoins» concede-then-restrict. Using the wrong one obscures the shape of the reasoning, which is the one fault a French examiner never forgives.",
+              "examples": [
+                { "french": "La thèse est plausible ; en effet, elle rend compte de l'usage courant.", "english": "The claim is plausible; indeed, it accounts for ordinary usage.", "note": "«en effet» = because, here is the justification" },
+                { "french": "Or aucune expérience ne peut établir une nécessité.", "english": "Now, no experience can establish a necessity.", "note": "«or» = the pivot that breaks the argument open" },
+                { "french": "Ainsi la conclusion ne suit-elle pas des prémisses.", "english": "Thus the conclusion does not follow from the premises.", "note": "Inversion after initial «ainsi» is standard in formal prose." },
+                { "french": "L'argument est séduisant ; il repose néanmoins sur une équivoque.", "english": "The argument is appealing; it nevertheless rests on an ambiguity." },
+                { "french": "Dès lors, il faut renoncer à la première définition.", "english": "From that point on, the first definition must be abandoned." },
+                { "french": "Certes la loi contraint, mais elle rend aussi la liberté possible.", "english": "Admittedly the law constrains, but it also makes freedom possible." }
+              ],
+              "tip": "«En effet» justifies; «en fait» corrects. They are not interchangeable."
+            },
+            {
+              "heading": "Restrictive and comparative structures: ne… que, moins… que, d'autant que",
+              "body": "Nuance in French is often carried by structure rather than by adverbs. «Ne… que» restricts (only). «X n'est pas tant A que B» reweights (not so much A as B). «Moins… que» shifts the emphasis of a claim. «D'autant plus que» adds a reinforcing reason. These let you refine a thesis without abandoning it — the central skill of the second part of a French essay.",
+              "examples": [
+                { "french": "L'exemple ne prouve rien : il ne fait qu'illustrer.", "english": "The example proves nothing: it only illustrates.", "note": "ne faire que + infinitive = to do nothing but" },
+                { "french": "Le problème n'est pas tant théorique que pratique.", "english": "The problem is not so much theoretical as practical." },
+                { "french": "L'objection porte moins sur la conclusion que sur la méthode.", "english": "The objection bears less on the conclusion than on the method." },
+                { "french": "La difficulté est réelle, d'autant que les termes n'ont pas été définis.", "english": "The difficulty is real, all the more so since the terms have not been defined." },
+                { "french": "Il n'y a là qu'une apparence de rigueur.", "english": "There is here only an appearance of rigour." },
+                { "french": "Encore faut-il que les prémisses soient établies.", "english": "The premises still have to be established.", "note": "«encore faut-il que» + subjunctive" }
+              ],
+              "tip": "«Ne… que» is a restriction, not a negation: «il n'y a que cela» means there is only that, not there is nothing."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "c1_u10_l02_li01",
+              "type": "listenChoose",
+              "french": "Un seul contre-exemple suffit à réfuter une règle universelle.",
+              "options": [
+                "A single counter-example is enough to refute a universal rule.",
+                "A single example is enough to prove a universal rule.",
+                "Several counter-examples are needed to refute a rule.",
+                "No counter-example can refute a universal rule."
+              ],
+              "answer": "A single counter-example is enough to refute a universal rule."
+            },
+            {
+              "id": "c1_u10_l02_li02",
+              "type": "listenChoose",
+              "french": "L'objection porte moins sur la conclusion que sur la prémisse.",
+              "options": [
+                "The objection bears less on the conclusion than on the premise.",
+                "The objection bears less on the premise than on the conclusion.",
+                "The objection concerns neither the premise nor the conclusion.",
+                "The conclusion objects to the premise."
+              ],
+              "answer": "The objection bears less on the conclusion than on the premise."
+            },
+            {
+              "id": "c1_u10_l02_li03",
+              "type": "listenType",
+              "french": "Le raisonnement est valide, mais les prémisses sont douteuses.",
+              "answer": "Le raisonnement est valide, mais les prémisses sont douteuses.",
+              "acceptedAnswers": [
+                "Le raisonnement est valide mais les premisses sont douteuses",
+                "Le raisonnement est valide, mais les prémisses sont douteuses",
+                "le raisonnement est valide mais les prémisses sont douteuses"
+              ]
+            },
+            {
+              "id": "c1_u10_l02_li04",
+              "type": "dictation",
+              "french": "Or ce que l'on suppose est précisément ce qu'il fallait prouver.",
+              "answer": "Or ce que l'on suppose est précisément ce qu'il fallait prouver.",
+              "acceptedAnswers": [
+                "Or ce que l'on suppose est precisement ce qu'il fallait prouver",
+                "Or ce que l'on suppose est précisément ce qu'il fallait prouver",
+                "or ce que l'on suppose est précisément ce qu'il fallait prouver"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "c1_u10_l02_sp01",
+              "type": "speak",
+              "french": "Certes, l'argument est séduisant ; il repose néanmoins sur une équivoque.",
+              "english": "Admittedly, the argument is appealing; it nevertheless rests on an ambiguity.",
+              "prompt": "Deliver the concession quickly, then slow down on the objection.",
+              "tip": "«Certes» is one syllable plus a light S: SAIRSS, with no schwa at the end."
+            },
+            {
+              "id": "c1_u10_l02_sp02",
+              "type": "speak",
+              "french": "On pourrait objecter que cette définition est beaucoup trop large.",
+              "english": "One might object that this definition is far too broad.",
+              "prompt": "Use the conditional to sound courteous rather than combative.",
+              "tip": "«pourrait» rhymes with «vrai»: poo-RAY, with a clear French R at the back."
+            },
+            {
+              "id": "c1_u10_l02_sp03",
+              "type": "speak",
+              "french": "Distinguons d'abord le fait du droit ; tout le problème est là.",
+              "english": "Let us first distinguish fact from right; the whole problem lies there.",
+              "prompt": "Land firmly on « là » — it closes the point.",
+              "tip": "In «distinguons», the -gu- is a hard g with a silent u: dees-tan-GON."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "L'art de l'objection",
+              "french": "On imagine volontiers que réfuter consiste à contredire. Rien n'est plus éloigné de la pratique philosophique.\nCelui qui se contente de nier n'a rien montré : il a seulement ajouté une opinion à une autre.\nRéfuter, c'est d'abord reconstruire la thèse adverse dans sa forme la plus forte, plus forte parfois que celle où son auteur l'avait laissée.\nCe travail préalable a un nom modeste : la charité interprétative. Il n'a rien d'une politesse ; il est une condition de la rigueur.\nCar une thèse mal exposée se réfute trop facilement, et l'on n'a alors vaincu qu'une caricature.\nUne fois la thèse solidement établie, l'objection peut viser trois endroits distincts, et il importe de savoir lequel.\nElle peut viser une prémisse : l'argument est bien construit, mais il part d'une affirmation qu'on refuse d'accorder.\nElle peut viser l'enchaînement : les prémisses sont admises, la conclusion pourtant n'en découle pas.\nElle peut enfin viser un présupposé qui n'a jamais été formulé et qui gouverne pourtant tout le raisonnement.\nCes trois objections n'ont pas la même force, ni le même coût. Contester une prémisse engage à en proposer une autre.\nContester l'enchaînement laisse l'adversaire libre de reformuler. Contester le présupposé déplace le terrain tout entier.\nUne quatrième voie existe encore, moins spectaculaire mais souvent plus décisive : la distinction.\nElle consiste à montrer que le mot central de la thèse recouvre deux notions, et que l'argument passe subrepticement de l'une à l'autre.\nOn ne dit alors ni oui ni non ; on dit : cela dépend du sens que l'on donne au terme, et voici les deux sens.\nUn tel geste ne refuse rien ; il divise, et en divisant il éclaire.\nOr c'est précisément ce que l'on attend d'une objection philosophique : non pas d'écarter une thèse, mais de rendre visible ce sur quoi elle repose.\nLa discussion cesse d'être un affrontement dès qu'elle devient une analyse.",
+              "english": "It is readily imagined that refuting consists in contradicting. Nothing is further from philosophical practice.\nWhoever merely denies has shown nothing: he has only added one opinion to another.\nTo refute is first of all to reconstruct the opposing claim in its strongest form, sometimes stronger than the form in which its author had left it.\nThis preliminary work has a modest name: interpretive charity. It has nothing of politeness about it; it is a condition of rigour.\nFor a badly presented claim is refuted too easily, and one has then defeated only a caricature.\nOnce the claim is solidly established, the objection can target three distinct places, and it matters to know which.\nIt may target a premise: the argument is well built, but it starts from an assertion one refuses to grant.\nIt may target the sequence of steps: the premises are accepted, yet the conclusion does not follow from them.\nIt may finally target a presupposition that was never stated and which nonetheless governs the whole line of reasoning.\nThese three objections do not have the same force, nor the same cost. Contesting a premise commits you to proposing another one.\nContesting the sequence leaves the opponent free to reformulate. Contesting the presupposition shifts the entire ground.\nA fourth path also exists, less spectacular but often more decisive: the distinction.\nIt consists in showing that the central word of the claim covers two notions, and that the argument slips surreptitiously from one to the other.\nOne then says neither yes nor no; one says: it depends on the sense given to the term, and here are the two senses.\nSuch a move refuses nothing; it divides, and in dividing it illuminates.\nNow that is precisely what is expected of a philosophical objection: not to set a claim aside, but to make visible what it rests upon.\nDiscussion ceases to be a confrontation as soon as it becomes an analysis.",
+              "questions": [
+                {
+                  "id": "c1_u10_l02_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Pourquoi le texte insiste-t-il sur la reconstruction de la thèse adverse ?",
+                  "options": [
+                    "Parce qu'une thèse mal exposée ne donne lieu qu'à une victoire illusoire",
+                    "Parce que la politesse l'exige dans un débat public",
+                    "Parce qu'il est interdit de contredire un auteur",
+                    "Parce que la thèse adverse est généralement la bonne"
+                  ],
+                  "answer": "Parce qu'une thèse mal exposée ne donne lieu qu'à une victoire illusoire"
+                },
+                {
+                  "id": "c1_u10_l02_rd02",
+                  "type": "multipleChoice",
+                  "prompt": "Selon le texte, quel effet produit la distinction ?",
+                  "options": [
+                    "Elle divise le sens du terme central et éclaire ce sur quoi la thèse repose",
+                    "Elle rejette la thèse adverse sans discussion",
+                    "Elle remplace l'argument par un exemple",
+                    "Elle confirme la thèse adverse dans sa forme initiale"
+                  ],
+                  "answer": "Elle divise le sens du terme central et éclaire ce sur quoi la thèse repose"
+                },
+                {
+                  "id": "c1_u10_l02_rd03",
+                  "type": "trueFalse",
+                  "prompt": "D'après le texte, contester un présupposé déplace le terrain entier de la discussion.",
+                  "options": ["True", "False"],
+                  "answer": "True"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "c1_u10_l02_wr01",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "One might object that this definition is too broad.",
+              "answer": "On pourrait objecter que cette définition est trop large.",
+              "acceptedAnswers": [
+                "On pourrait objecter que cette definition est trop large",
+                "On pourrait objecter que cette définition est trop large",
+                "On peut objecter que cette définition est trop large."
+              ]
+            },
+            {
+              "id": "c1_u10_l02_wr02",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "The example illustrates the claim without establishing it.",
+              "answer": "L'exemple illustre la thèse sans l'établir.",
+              "acceptedAnswers": [
+                "L'exemple illustre la these sans l'etablir",
+                "L'exemple illustre la thèse sans l'établir",
+                "L'exemple illustre la thèse sans l'établir."
+              ]
+            },
+            {
+              "id": "c1_u10_l02_wr03",
+              "type": "arrangeWords",
+              "words": ["prémisse", "L'objection", "la", "vise"],
+              "answer": "L'objection vise la prémisse",
+              "english": "The objection targets the premise."
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "c1_u10_l02_pr01",
+              "type": "multipleChoice",
+              "prompt": "Quel connecteur introduit le fait décisif qui fait basculer l'argument ?",
+              "options": ["Or", "En effet", "Ainsi", "Certes"],
+              "answer": "Or"
+            },
+            {
+              "id": "c1_u10_l02_pr02",
+              "type": "fillBlank",
+              "prompt": "La thèse est plausible ; ___ effet, elle rend compte de l'usage courant.",
+              "answer": "en"
+            },
+            {
+              "id": "c1_u10_l02_pr03",
+              "type": "match",
+              "pairs": [
+                { "french": "la prémisse", "english": "the premise" },
+                { "french": "le sophisme", "english": "the fallacy" },
+                { "french": "étayer", "english": "to back up" },
+                { "french": "concéder", "english": "to concede" }
+              ]
+            },
+            {
+              "id": "c1_u10_l02_pr04",
+              "type": "multipleChoice",
+              "prompt": "« Encore faut-il que les prémisses ___ vraies. » Quelle forme convient ?",
+              "options": ["soient", "sont", "seront", "étaient"],
+              "answer": "soient"
+            },
+            {
+              "id": "c1_u10_l02_pr05",
+              "type": "arrangeWords",
+              "words": ["qu'illustrer", "ne", "fait", "L'exemple"],
+              "answer": "L'exemple ne fait qu'illustrer",
+              "english": "The example only illustrates."
+            },
+            {
+              "id": "c1_u10_l02_pr06",
+              "type": "trueFalse",
+              "prompt": "« En effet » et « en fait » ont exactement le même emploi.",
+              "options": ["True", "False"],
+              "answer": "False"
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "c1_u10_l02_qz01",
+              "type": "multipleChoice",
+              "prompt": "Que désigne « la pétition de principe » ?",
+              "options": [
+                "Supposer dans les prémisses ce qu'il fallait démontrer",
+                "Demander un principe à son adversaire",
+                "Poser une question de principe",
+                "Refuser d'accorder une prémisse"
+              ],
+              "answer": "Supposer dans les prémisses ce qu'il fallait démontrer"
+            },
+            {
+              "id": "c1_u10_l02_qz02",
+              "type": "multipleChoice",
+              "prompt": "Quelle est la traduction de « le présupposé » ?",
+              "options": ["the unstated assumption", "the supposition made aloud", "the prediction", "the prerequisite course"],
+              "answer": "the unstated assumption"
+            },
+            {
+              "id": "c1_u10_l02_qz03",
+              "type": "fillBlank",
+              "prompt": "Un seul ___-exemple suffit à réfuter une règle universelle.",
+              "answer": "contre"
+            },
+            {
+              "id": "c1_u10_l02_qz04",
+              "type": "trueFalse",
+              "prompt": "En français, la validité concerne la forme du raisonnement, non la vérité des prémisses.",
+              "options": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "c1_u10_l02_qz05",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "This qualification changes the scope of the claim.",
+              "answer": "Cette nuance modifie la portée de la thèse.",
+              "acceptedAnswers": [
+                "Cette nuance modifie la portee de la these",
+                "Cette nuance modifie la portée de la thèse",
+                "Cette nuance change la portée de la thèse."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1_u10_l03",
+      "level": "C1",
+      "unit": 10,
+      "title": "Le commentaire de texte philosophique",
+      "description": "Reading a philosophical text in French: identifying the claim, following the move the author makes, and naming what is at stake.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Three questions, three verbs",
+              "body": "The French commentaire de texte answers three questions in order. What does the author claim? — «l'auteur soutient que…». How does he get there? — «l'auteur procède par…». Why does it matter? — «l'enjeu du passage est…». Each question has its own verbs: soutenir and affirmer for the claim, procéder and articuler for the move, engager and impliquer for the stakes. Keeping them apart is what separates a commentary from a paraphrase.",
+              "examples": [
+                { "french": "L'auteur soutient que la certitude ne garantit rien.", "english": "The author maintains that certainty guarantees nothing.", "note": "the claim — la thèse" },
+                { "french": "Il procède par une distinction entre deux sens du mot.", "english": "He proceeds by way of a distinction between two senses of the word.", "note": "the move — le mouvement" },
+                { "french": "L'enjeu est de savoir qui porte la charge de la preuve.", "english": "What is at stake is knowing who bears the burden of proof.", "note": "the stakes — l'enjeu" },
+                { "french": "Le passage articule une définition et un contre-exemple.", "english": "The passage joins a definition to a counter-example." },
+                { "french": "Cette affirmation engage bien plus qu'elle ne semble dire.", "english": "This assertion commits far more than it seems to say." }
+              ],
+              "tip": "Never write «l'auteur nous dit que» — French commentary prefers «l'auteur soutient / affirme / montre»."
+            },
+            {
+              "heading": "Following the movement of the text",
+              "body": "A French commentary is expected to découper the text into moments and to name each one. The standard formulas are «dans un premier temps», «l'auteur en vient ensuite à», «le texte s'achève sur». Say what the author does at each step — il définit, il objecte, il concède, il généralise — rather than repeating what he says. Line references are given as «(l. 4-6)».",
+              "examples": [
+                { "french": "Dans un premier temps, l'auteur écarte une définition courante (l. 1-4).", "english": "In a first moment, the author sets aside a common definition (ll. 1-4)." },
+                { "french": "Il en vient ensuite à distinguer deux usages du mot.", "english": "He then comes to distinguish two uses of the word." },
+                { "french": "Le texte s'achève sur une formule volontairement paradoxale.", "english": "The text ends on a deliberately paradoxical formulation." },
+                { "french": "On peut dégager trois mouvements dans ce passage.", "english": "Three movements can be brought out in this passage.", "note": "«dégager» = to bring out, to extract" },
+                { "french": "La transition est marquée par un simple « or » (l. 9).", "english": "The transition is marked by a single \"or\" (l. 9)." }
+              ],
+              "tip": "«Dans un premier temps… dans un second temps» structures the commentary itself, not only the text."
+            },
+            {
+              "heading": "Explicating a term, not paraphrasing a sentence",
+              "body": "The core operation is «expliciter»: making explicit what the text leaves implicit. You quote a short expression, you unpack the term, you show what it excludes. The verbs are expliciter, préciser, souligner, éclairer. Avoid «autrement dit» followed by the same sentence in easier words — that is paraphrase, the classic failing.",
+              "examples": [
+                { "french": "Le terme « donnée » mérite d'être explicité.", "english": "The term \"given\" deserves to be made explicit." },
+                { "french": "L'auteur souligne que la conscience vise toujours un objet.", "english": "The author stresses that consciousness always aims at an object." },
+                { "french": "Cette formule exclut implicitement toute explication causale.", "english": "This formulation implicitly rules out any causal explanation." },
+                { "french": "Il convient de préciser le sens que l'auteur donne à « liberté ».", "english": "The sense the author gives to \"freedom\" ought to be made precise." },
+                { "french": "Le choix du mot n'est pas indifférent : il oriente toute la suite.", "english": "The choice of word is not neutral: it orients everything that follows." }
+              ],
+              "tip": "Quote sparingly — a commentary that quotes more than it explains is a copy, not a reading."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "le-commentaire", "french": "le commentaire", "english": "the commentary", "partOfSpeech": "noun", "gender": "m", "plural": "les commentaires", "pronunciation": "luh ko-mahn-TAIR", "example": "Un bon commentaire explique le texte au lieu de le répéter.", "exampleEnglish": "A good commentary explains the text instead of repeating it.", "level": "C1", "category": "text-analysis" },
+            { "id": "l-extrait", "french": "l'extrait", "english": "the extract, the excerpt", "partOfSpeech": "noun", "gender": "m", "plural": "les extraits", "pronunciation": "leks-TRAY", "example": "L'extrait proposé compte une quinzaine de lignes.", "exampleEnglish": "The extract given runs to about fifteen lines.", "level": "C1", "category": "text-analysis" },
+            { "id": "le-texte", "french": "le texte", "english": "the text", "partOfSpeech": "noun", "gender": "m", "plural": "les textes", "pronunciation": "luh TEKST", "example": "Le texte pose une question qu'il ne tranche pas.", "exampleEnglish": "The text raises a question that it does not settle.", "level": "C1", "category": "text-analysis" },
+            { "id": "l-auteur", "french": "l'auteur", "english": "the author", "partOfSpeech": "noun", "gender": "m", "plural": "les auteurs", "pronunciation": "loh-TEUR", "example": "L'auteur soutient une thèse plus étroite qu'il n'y paraît.", "exampleEnglish": "The author defends a narrower claim than it appears.", "level": "C1", "category": "text-analysis" },
+            { "id": "le-mouvement", "french": "le mouvement", "english": "the movement, the section of a text", "partOfSpeech": "noun", "gender": "m", "plural": "les mouvements", "pronunciation": "luh moov-MAHN", "example": "On distingue trois mouvements dans cet extrait.", "exampleEnglish": "Three movements can be distinguished in this extract.", "level": "C1", "category": "text-analysis" },
+            { "id": "l-articulation", "french": "l'articulation", "english": "the hinge, the linking point", "partOfSpeech": "noun", "gender": "f", "plural": "les articulations", "pronunciation": "lar-tee-kü-lah-SYON", "example": "L'articulation du texte tient dans un seul « or ».", "exampleEnglish": "The hinge of the text lies in a single \"or\".", "level": "C1", "category": "text-analysis" },
+            { "id": "le-paragraphe", "french": "le paragraphe", "english": "the paragraph", "partOfSpeech": "noun", "gender": "m", "plural": "les paragraphes", "pronunciation": "luh pah-rah-GRAHF", "example": "Le second paragraphe renverse ce que le premier avait admis.", "exampleEnglish": "The second paragraph overturns what the first had granted.", "level": "C1", "category": "text-analysis" },
+            { "id": "la-ligne", "french": "la ligne", "english": "the line (of a text)", "partOfSpeech": "noun", "gender": "f", "plural": "les lignes", "pronunciation": "lah LEEN-yuh", "example": "On renvoie au passage en écrivant « (l. 4-6) ».", "exampleEnglish": "One refers to the passage by writing \"(ll. 4-6)\".", "level": "C1", "category": "text-analysis" },
+            { "id": "l-analyse", "french": "l'analyse", "english": "the analysis", "partOfSpeech": "noun", "gender": "f", "plural": "les analyses", "pronunciation": "lah-nah-LEEZ", "example": "L'analyse doit porter sur les termes, non sur l'impression générale.", "exampleEnglish": "The analysis must bear on the terms, not on the general impression.", "level": "C1", "category": "text-analysis" },
+            { "id": "l-explication", "french": "l'explication", "english": "the explication, the explanation", "partOfSpeech": "noun", "gender": "f", "plural": "les explications", "pronunciation": "leks-plee-kah-SYON", "example": "L'explication d'un texte n'est pas son résumé.", "exampleEnglish": "The explication of a text is not its summary.", "level": "C1", "category": "text-analysis" },
+            { "id": "la-reformulation", "french": "la reformulation", "english": "the rephrasing, the restatement", "partOfSpeech": "noun", "gender": "f", "plural": "les reformulations", "pronunciation": "lah ruh-for-mü-lah-SYON", "example": "Une reformulation utile éclaire ; une reformulation paresseuse répète.", "exampleEnglish": "A useful restatement illuminates; a lazy one repeats.", "level": "C1", "category": "text-analysis" },
+            { "id": "l-interpretation", "french": "l'interprétation", "english": "the interpretation", "partOfSpeech": "noun", "gender": "f", "plural": "les interprétations", "pronunciation": "lan-tair-pray-tah-SYON", "example": "Toute interprétation doit pouvoir se justifier par le texte.", "exampleEnglish": "Every interpretation must be justifiable by the text.", "level": "C1", "category": "text-analysis" },
+            { "id": "l-enjeu", "french": "l'enjeu", "english": "what is at stake, the issue", "partOfSpeech": "noun", "gender": "m", "plural": "les enjeux", "pronunciation": "lahn-ZHEU", "example": "L'enjeu du passage dépasse largement la définition du mot.", "exampleEnglish": "What is at stake in the passage goes well beyond the definition of the word.", "level": "C1", "category": "text-analysis" },
+            { "id": "la-portee", "french": "la portée", "english": "the scope, the significance", "partOfSpeech": "noun", "gender": "f", "plural": "les portées", "pronunciation": "lah por-TAY", "example": "La portée de cette affirmation est plus large qu'il n'y paraît.", "exampleEnglish": "The scope of this assertion is broader than it appears.", "level": "C1", "category": "text-analysis" },
+            { "id": "la-problematique", "french": "la problématique", "english": "the guiding problem", "partOfSpeech": "noun", "gender": "f", "plural": "les problématiques", "pronunciation": "lah pro-blay-mah-TEEK", "example": "La problématique se formule sous la forme d'une tension à résoudre.", "exampleEnglish": "The guiding problem is formulated as a tension to be resolved.", "level": "C1", "category": "text-analysis" },
+            { "id": "la-structure", "french": "la structure", "english": "the structure", "partOfSpeech": "noun", "gender": "f", "plural": "les structures", "pronunciation": "lah strük-TÜR", "example": "La structure du texte apparaît dès qu'on repère les connecteurs.", "exampleEnglish": "The structure of the text appears as soon as one spots the connectors.", "level": "C1", "category": "text-analysis" },
+            { "id": "le-plan-redaction", "french": "le plan", "english": "the outline, the plan (of an essay)", "partOfSpeech": "noun", "gender": "m", "plural": "les plans", "pronunciation": "luh PLAHN", "example": "Le plan suit le mouvement du texte, non l'ordre des idées reçues.", "exampleEnglish": "The outline follows the movement of the text, not the order of received ideas.", "level": "C1", "category": "text-analysis" },
+            { "id": "l-introduction", "french": "l'introduction", "english": "the introduction", "partOfSpeech": "noun", "gender": "f", "plural": "les introductions", "pronunciation": "lan-tro-dük-SYON", "example": "L'introduction énonce la thèse et annonce les mouvements.", "exampleEnglish": "The introduction states the claim and announces the movements.", "level": "C1", "category": "text-analysis" },
+            { "id": "le-developpement", "french": "le développement", "english": "the body, the development", "partOfSpeech": "noun", "gender": "m", "plural": "les développements", "pronunciation": "luh day-veh-lop-MAHN", "example": "Le développement suit pas à pas l'ordre du texte.", "exampleEnglish": "The body follows the order of the text step by step.", "level": "C1", "category": "text-analysis" },
+            { "id": "la-transition", "french": "la transition", "english": "the transition", "partOfSpeech": "noun", "gender": "f", "plural": "les transitions", "pronunciation": "lah trahn-zee-SYON", "example": "La transition doit montrer pourquoi la suite était nécessaire.", "exampleEnglish": "The transition must show why what follows was necessary.", "level": "C1", "category": "text-analysis" },
+            { "id": "l-ouverture", "french": "l'ouverture", "english": "the closing broadening (of a conclusion)", "partOfSpeech": "noun", "gender": "f", "plural": "les ouvertures", "pronunciation": "loo-vair-TÜR", "example": "L'ouverture élargit sans jamais changer de sujet.", "exampleEnglish": "The closing broadening widens the view without ever changing the subject.", "level": "C1", "category": "text-analysis" },
+            { "id": "la-citation", "french": "la citation", "english": "the quotation", "partOfSpeech": "noun", "gender": "f", "plural": "les citations", "pronunciation": "lah see-tah-SYON", "example": "Une citation brève, suivie d'une analyse, vaut mieux qu'un long relevé.", "exampleEnglish": "A short quotation followed by analysis is worth more than a long list.", "level": "C1", "category": "text-analysis" },
+            { "id": "le-passage", "french": "le passage", "english": "the passage", "partOfSpeech": "noun", "gender": "m", "plural": "les passages", "pronunciation": "luh pah-SAHZH", "example": "Ce passage constitue le cœur de l'argumentation.", "exampleEnglish": "This passage constitutes the heart of the argument.", "level": "C1", "category": "text-analysis" },
+            { "id": "la-formule", "french": "la formule", "english": "the phrase, the wording", "partOfSpeech": "noun", "gender": "f", "plural": "les formules", "pronunciation": "lah for-MÜL", "example": "La formule finale est volontairement paradoxale.", "exampleEnglish": "The closing phrase is deliberately paradoxical.", "level": "C1", "category": "text-analysis" },
+            { "id": "le-terme", "french": "le terme", "english": "the term", "partOfSpeech": "noun", "gender": "m", "plural": "les termes", "pronunciation": "luh TAIRM", "example": "Le terme central n'est jamais défini par l'auteur.", "exampleEnglish": "The central term is never defined by the author.", "level": "C1", "category": "text-analysis" },
+            { "id": "l-affirmation", "french": "l'affirmation", "english": "the assertion", "partOfSpeech": "noun", "gender": "f", "plural": "les affirmations", "pronunciation": "lah-feer-mah-SYON", "example": "Cette affirmation appelle immédiatement une restriction.", "exampleEnglish": "This assertion immediately calls for a qualification.", "level": "C1", "category": "text-analysis" },
+            { "id": "la-negation", "french": "la négation", "english": "the negation, the denial", "partOfSpeech": "noun", "gender": "f", "plural": "les négations", "pronunciation": "lah nay-gah-SYON", "example": "La négation ici ne porte pas sur le verbe mais sur l'adverbe.", "exampleEnglish": "The negation here bears not on the verb but on the adverb.", "level": "C1", "category": "text-analysis" },
+            { "id": "l-opposition", "french": "l'opposition", "english": "the opposition, the contrast", "partOfSpeech": "noun", "gender": "f", "plural": "les oppositions", "pronunciation": "lo-po-zee-SYON", "example": "Tout le passage repose sur une opposition entre apparence et réalité.", "exampleEnglish": "The whole passage rests on a contrast between appearance and reality.", "level": "C1", "category": "text-analysis" },
+            { "id": "l-illustration", "french": "l'illustration", "english": "the illustration", "partOfSpeech": "noun", "gender": "f", "plural": "les illustrations", "pronunciation": "lee-lüs-trah-SYON", "example": "L'illustration vient après la thèse et ne la remplace pas.", "exampleEnglish": "The illustration comes after the claim and does not replace it.", "level": "C1", "category": "text-analysis" },
+            { "id": "la-metaphore", "french": "la métaphore", "english": "the metaphor", "partOfSpeech": "noun", "gender": "f", "plural": "les métaphores", "pronunciation": "lah may-tah-FOR", "example": "La métaphore du chemin structure discrètement tout le paragraphe.", "exampleEnglish": "The metaphor of the path quietly structures the whole paragraph.", "level": "C1", "category": "text-analysis" },
+            { "id": "l-analogie", "french": "l'analogie", "english": "the analogy", "partOfSpeech": "noun", "gender": "f", "plural": "les analogies", "pronunciation": "lah-nah-lo-ZHEE", "example": "L'analogie éclaire, mais elle finit par imposer ses propres limites.", "exampleEnglish": "The analogy illuminates, but it ends up imposing its own limits.", "level": "C1", "category": "text-analysis" },
+            { "id": "l-implicite", "french": "l'implicite", "english": "what is implied, the implicit content", "partOfSpeech": "noun", "gender": "m", "plural": "les implicites", "pronunciation": "lan-plee-SEET", "example": "Le commentaire consiste largement à rendre l'implicite visible.", "exampleEnglish": "Commentary consists largely in making the implicit visible.", "level": "C1", "category": "text-analysis" },
+            { "id": "le-champ-lexical", "french": "le champ lexical", "english": "the lexical field", "partOfSpeech": "noun", "gender": "m", "plural": "les champs lexicaux", "pronunciation": "luh SHAHN lek-see-KAL", "example": "Le champ lexical de la vision domine les six premières lignes.", "exampleEnglish": "The lexical field of vision dominates the first six lines.", "level": "C1", "category": "text-analysis" },
+            { "id": "degager", "french": "dégager", "english": "to bring out, to extract (an idea)", "partOfSpeech": "verb", "pronunciation": "day-gah-ZHAY", "example": "Il s'agit de dégager la thèse avant d'en discuter.", "exampleEnglish": "The task is to bring out the claim before discussing it.", "level": "C1", "category": "text-analysis" },
+            { "id": "expliciter", "french": "expliciter", "english": "to make explicit, to spell out", "partOfSpeech": "verb", "pronunciation": "eks-plee-see-TAY", "example": "Expliciter un présupposé, c'est déjà commencer à l'examiner.", "exampleEnglish": "To make a presupposition explicit is already to begin examining it.", "level": "C1", "category": "text-analysis" },
+            { "id": "souligner", "french": "souligner", "english": "to stress, to underline", "partOfSpeech": "verb", "pronunciation": "soo-leen-YAY", "example": "L'auteur souligne la différence entre croire et savoir.", "exampleEnglish": "The author stresses the difference between believing and knowing.", "level": "C1", "category": "text-analysis" },
+            { "id": "articuler", "french": "articuler", "english": "to link, to join together", "partOfSpeech": "verb", "pronunciation": "ar-tee-kü-LAY", "example": "Le texte articule une définition et une objection.", "exampleEnglish": "The text links a definition to an objection.", "level": "C1", "category": "text-analysis" },
+            { "id": "aboutir", "french": "aboutir", "english": "to lead to, to end up at", "partOfSpeech": "verb", "pronunciation": "ah-boo-TEER", "example": "Le raisonnement aboutit à une conclusion volontairement inconfortable.", "exampleEnglish": "The reasoning leads to a deliberately uncomfortable conclusion.", "level": "C1", "category": "text-analysis" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Reporting what a text does: verbs of commentary",
+              "body": "Commentary verbs take fixed constructions. «Soutenir que» and «montrer que» take the indicative: the author is credited with an assertion. «Suggérer que» and «laisser entendre que» soften it. «Il ne s'ensuit pas que» and «rien ne prouve que» take the subjunctive, because the claim is being withheld. Learn the pairs together — the mood tells the reader whether you are reporting or contesting.",
+              "examples": [
+                { "french": "L'auteur montre que la certitude ne suffit pas.", "english": "The author shows that certainty is not enough.", "note": "indicative — the claim is credited" },
+                { "french": "Le texte laisse entendre que la distinction est ancienne.", "english": "The text implies that the distinction is an old one." },
+                { "french": "Il ne s'ensuit pas que toute croyance soit illusoire.", "english": "It does not follow that every belief is illusory.", "note": "subjunctive — the inference is refused" },
+                { "french": "Rien ne prouve que l'auteur vise ici un adversaire précis.", "english": "Nothing proves that the author is targeting a specific opponent here." },
+                { "french": "On peut lire ce passage comme une réponse implicite.", "english": "This passage can be read as an implicit reply." },
+                { "french": "L'auteur se garde d'affirmer ce que le lecteur attendait.", "english": "The author refrains from asserting what the reader expected.", "note": "se garder de + infinitive = to refrain from" }
+              ],
+              "tip": "«Il s'ensuit que» + indicative; «il ne s'ensuit pas que» + subjunctive. The negation flips the mood."
+            },
+            {
+              "heading": "Recognising the passé simple and the literary present",
+              "body": "Philosophical extracts often use the passé simple in narrative asides — «il posa», «il en conclut», «ce fut là son erreur» — which you should recognise without needing to produce. Your own commentary, however, is written in the present: «l'auteur soutient», «le texte s'achève». This présent de commentaire treats the text as permanently available, and switching to the past tense is a common mistake.",
+              "examples": [
+                { "french": "Il posa d'abord le problème, puis il en écarta la solution facile.", "english": "He first posed the problem, then set aside the easy solution.", "note": "passé simple — recognition only" },
+                { "french": "Ce fut là, sans doute, l'origine du malentendu.", "english": "That was, no doubt, the origin of the misunderstanding.", "note": "être → ce fut" },
+                { "french": "L'auteur soutient ici que le langage précède la pensée.", "english": "The author maintains here that language precedes thought.", "note": "présent de commentaire — always present tense" },
+                { "french": "Le texte s'achève sur une question laissée ouverte.", "english": "The text ends on a question left open." },
+                { "french": "Il en vint à distinguer deux formes de nécessité.", "english": "He came to distinguish two forms of necessity.", "note": "venir → il vint" },
+                { "french": "Dans les dernières lignes, l'argument se retourne contre lui-même.", "english": "In the final lines, the argument turns against itself." }
+              ],
+              "tip": "Write your commentary entirely in the present, even about a text written three centuries ago."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "c1_u10_l03_li01",
+              "type": "listenChoose",
+              "french": "L'auteur procède par une distinction entre deux sens du mot.",
+              "options": [
+                "The author proceeds by way of a distinction between two senses of the word.",
+                "The author refuses any distinction between the two senses.",
+                "The author defines the word in two successive sentences.",
+                "The author quotes two authors on the same word."
+              ],
+              "answer": "The author proceeds by way of a distinction between two senses of the word."
+            },
+            {
+              "id": "c1_u10_l03_li02",
+              "type": "listenChoose",
+              "french": "Il ne s'ensuit pas que toute croyance soit illusoire.",
+              "options": [
+                "It does not follow that every belief is illusory.",
+                "It follows that every belief is illusory.",
+                "It does not follow that some beliefs are true.",
+                "Every illusion follows from a belief."
+              ],
+              "answer": "It does not follow that every belief is illusory."
+            },
+            {
+              "id": "c1_u10_l03_li03",
+              "type": "listenType",
+              "french": "On peut dégager trois mouvements dans ce passage.",
+              "answer": "On peut dégager trois mouvements dans ce passage.",
+              "acceptedAnswers": [
+                "On peut degager trois mouvements dans ce passage",
+                "On peut dégager trois mouvements dans ce passage",
+                "on peut dégager trois mouvements dans ce passage"
+              ]
+            },
+            {
+              "id": "c1_u10_l03_li04",
+              "type": "dictation",
+              "french": "L'enjeu du passage est de savoir qui porte la charge de la preuve.",
+              "answer": "L'enjeu du passage est de savoir qui porte la charge de la preuve.",
+              "acceptedAnswers": [
+                "L'enjeu du passage est de savoir qui porte la charge de la preuve",
+                "l'enjeu du passage est de savoir qui porte la charge de la preuve",
+                "L enjeu du passage est de savoir qui porte la charge de la preuve"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "c1_u10_l03_sp01",
+              "type": "speak",
+              "french": "Dans un premier temps, l'auteur écarte une définition courante.",
+              "english": "In a first moment, the author sets aside a common definition.",
+              "prompt": "Open a commentary aloud; keep the pace even and unhurried.",
+              "tip": "Link «dans un»: the final s of «dans» is voiced as a z — dahn-zun."
+            },
+            {
+              "id": "c1_u10_l03_sp02",
+              "type": "speak",
+              "french": "L'enjeu de ce passage dépasse largement la définition du mot.",
+              "english": "What is at stake in this passage goes well beyond the definition of the word.",
+              "prompt": "Stress « dépasse » — it carries the whole point.",
+              "tip": "«enjeu» ends in the rounded [ø] of «peu»: ahn-ZHEU, not ahn-ZHOO."
+            },
+            {
+              "id": "c1_u10_l03_sp03",
+              "type": "speak",
+              "french": "Le texte s'achève sur une formule volontairement paradoxale.",
+              "english": "The text ends on a deliberately paradoxical formulation.",
+              "prompt": "Let the sentence fall at the end, as a conclusion would.",
+              "tip": "«s'achève» has an open è: sah-SHEV, with the stress on the second syllable."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Ce que lire veut dire",
+              "french": "Un texte philosophique ne se lit pas comme un article : il ne communique pas un résultat, il exécute un mouvement.\nLe lecteur pressé cherche la conclusion et la note ; il n'a pourtant retenu qu'un résidu, détaché de ce qui le rendait défendable.\nCar la conclusion d'un texte, isolée de sa démarche, redevient exactement ce qu'elle prétendait dépasser : une opinion.\nLire philosophiquement suppose donc trois gestes, et l'ordre en importe autant que le contenu.\nOn dégage d'abord la thèse : que soutient l'auteur, formulé en une phrase que lui-même signerait sans réserve ?\nCette exigence est plus difficile qu'elle ne paraît, car un texte affirme rarement sa thèse dans la phrase qui semble la contenir.\nOn suit ensuite le mouvement : par quelles étapes passe-t-on, et surtout, à quel endroit le texte bascule-t-il ?\nCe basculement est souvent signalé par un mot minuscule — un « or », un « pourtant » — dont dépend toute l'architecture.\nUn lecteur attentif s'arrête sur ces charnières bien plus longuement que sur les affirmations éclatantes.\nOn nomme enfin l'enjeu : qu'est-ce qui serait perdu si la thèse était fausse ? À quelle question antérieure ce texte répond-il ?\nL'enjeu n'est presque jamais écrit ; il se reconstitue à partir de ce que le texte prend la peine d'écarter.\nRemarquons-le : les trois gestes ne demandent aucune érudition particulière, mais une patience que l'usage de l'écrit a rendue rare.\nIls interdisent surtout la paraphrase, ce vice discret qui consiste à répéter le texte en termes plus pauvres en croyant l'expliquer.\nParaphraser, c'est rester à la surface du langage ; expliciter, c'est descendre jusqu'aux distinctions que le langage recouvrait.\nOn peut résumer ainsi la différence : la paraphrase dit ce que le texte dit, l'explication dit ce que le texte fait.\nCelui qui a compris ce que fait un texte peut le contester ; celui qui n'en a retenu que la conclusion ne peut que l'approuver ou la rejeter.\nEt c'est peut-être là, plus que dans aucune doctrine, que se loge la liberté du lecteur.",
+              "english": "A philosophical text is not read like an article: it does not communicate a result, it carries out a movement.\nThe hurried reader looks for the conclusion and notes it down; yet he has retained only a residue, detached from what made it defensible.\nFor the conclusion of a text, isolated from its procedure, becomes once again exactly what it claimed to surpass: an opinion.\nReading philosophically therefore requires three gestures, and their order matters as much as their content.\nOne first brings out the claim: what does the author maintain, put in a single sentence that he himself would sign without reservation?\nThis requirement is harder than it seems, for a text rarely asserts its claim in the sentence that appears to contain it.\nOne then follows the movement: through what stages does one pass, and above all, at what point does the text tip over?\nThis tipping point is often signalled by a tiny word — an \"or\", a \"pourtant\" — on which the whole architecture depends.\nAn attentive reader dwells on these hinges far longer than on the striking assertions.\nOne finally names what is at stake: what would be lost if the claim were false? To what earlier question is this text a reply?\nWhat is at stake is almost never written down; it is reconstructed from what the text takes the trouble to set aside.\nLet us note it: the three gestures require no particular erudition, but a patience that our use of the written word has made rare.\nAbove all they forbid paraphrase, that discreet vice which consists in repeating the text in poorer terms while believing one is explaining it.\nTo paraphrase is to remain at the surface of language; to make explicit is to descend to the distinctions that language was covering over.\nThe difference can be summed up thus: paraphrase says what the text says, explication says what the text does.\nWhoever has understood what a text does can contest it; whoever has retained only its conclusion can do nothing but approve or reject it.\nAnd it is there, perhaps, more than in any doctrine, that the reader's freedom resides.",
+              "questions": [
+                {
+                  "id": "c1_u10_l03_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Pourquoi la conclusion isolée d'un texte redevient-elle une opinion ?",
+                  "options": [
+                    "Parce qu'elle est séparée de la démarche qui la rendait défendable",
+                    "Parce qu'elle est toujours mal formulée par l'auteur",
+                    "Parce que les opinions sont plus courtes que les thèses",
+                    "Parce qu'aucune conclusion philosophique n'est vraie"
+                  ],
+                  "answer": "Parce qu'elle est séparée de la démarche qui la rendait défendable"
+                },
+                {
+                  "id": "c1_u10_l03_rd02",
+                  "type": "multipleChoice",
+                  "prompt": "Comment le texte distingue-t-il la paraphrase de l'explication ?",
+                  "options": [
+                    "La paraphrase dit ce que le texte dit ; l'explication dit ce que le texte fait",
+                    "La paraphrase est plus longue ; l'explication est plus brève",
+                    "La paraphrase cite le texte ; l'explication le résume",
+                    "La paraphrase concerne le style ; l'explication concerne l'auteur"
+                  ],
+                  "answer": "La paraphrase dit ce que le texte dit ; l'explication dit ce que le texte fait"
+                },
+                {
+                  "id": "c1_u10_l03_rd03",
+                  "type": "trueFalse",
+                  "prompt": "Selon le texte, l'enjeu est presque toujours formulé explicitement par l'auteur.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "c1_u10_l03_wr01",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "The author maintains that certainty guarantees nothing.",
+              "answer": "L'auteur soutient que la certitude ne garantit rien.",
+              "acceptedAnswers": [
+                "L'auteur soutient que la certitude ne garantit rien",
+                "l'auteur soutient que la certitude ne garantit rien",
+                "L'auteur affirme que la certitude ne garantit rien."
+              ]
+            },
+            {
+              "id": "c1_u10_l03_wr02",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "It does not follow that every belief is illusory.",
+              "answer": "Il ne s'ensuit pas que toute croyance soit illusoire.",
+              "acceptedAnswers": [
+                "Il ne s'ensuit pas que toute croyance soit illusoire",
+                "il ne s'ensuit pas que toute croyance soit illusoire",
+                "Il ne s'ensuit pas que toute croyance soit illusoire."
+              ]
+            },
+            {
+              "id": "c1_u10_l03_wr03",
+              "type": "arrangeWords",
+              "words": ["une", "sur", "s'achève", "formule", "texte", "Le", "paradoxale"],
+              "answer": "Le texte s'achève sur une formule paradoxale",
+              "english": "The text ends on a paradoxical formulation."
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "c1_u10_l03_pr01",
+              "type": "multipleChoice",
+              "prompt": "Quel verbe signifie « faire apparaître la thèse d'un texte » ?",
+              "options": ["dégager", "dégourdir", "déranger", "dépasser"],
+              "answer": "dégager"
+            },
+            {
+              "id": "c1_u10_l03_pr02",
+              "type": "fillBlank",
+              "prompt": "Dans un premier ___, l'auteur écarte une définition courante.",
+              "answer": "temps"
+            },
+            {
+              "id": "c1_u10_l03_pr03",
+              "type": "match",
+              "pairs": [
+                { "french": "l'enjeu", "english": "what is at stake" },
+                { "french": "l'extrait", "english": "the excerpt" },
+                { "french": "l'implicite", "english": "what is implied" },
+                { "french": "expliciter", "english": "to spell out" }
+              ]
+            },
+            {
+              "id": "c1_u10_l03_pr04",
+              "type": "multipleChoice",
+              "prompt": "« Il ne s'ensuit pas que la conclusion ___ vraie. » Quelle forme convient ?",
+              "options": ["soit", "est", "sera", "fut"],
+              "answer": "soit"
+            },
+            {
+              "id": "c1_u10_l03_pr05",
+              "type": "arrangeWords",
+              "words": ["thèse", "L'auteur", "une", "soutient", "étroite"],
+              "answer": "L'auteur soutient une thèse étroite",
+              "english": "The author defends a narrow claim."
+            },
+            {
+              "id": "c1_u10_l03_pr06",
+              "type": "trueFalse",
+              "prompt": "Un commentaire de texte se rédige au passé simple.",
+              "options": ["True", "False"],
+              "answer": "False"
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "c1_u10_l03_qz01",
+              "type": "multipleChoice",
+              "prompt": "Que désigne « l'articulation » dans un commentaire ?",
+              "options": [
+                "le point où le texte bascule",
+                "la longueur du paragraphe",
+                "le titre donné à l'extrait",
+                "la citation la plus célèbre"
+              ],
+              "answer": "le point où le texte bascule"
+            },
+            {
+              "id": "c1_u10_l03_qz02",
+              "type": "multipleChoice",
+              "prompt": "Comment traduit-on « the lexical field » ?",
+              "options": ["le champ lexical", "le domaine du lexique", "le terrain lexical", "la zone du vocabulaire"],
+              "answer": "le champ lexical"
+            },
+            {
+              "id": "c1_u10_l03_qz03",
+              "type": "fillBlank",
+              "prompt": "Le raisonnement ___ à une conclusion inconfortable.",
+              "answer": "aboutit"
+            },
+            {
+              "id": "c1_u10_l03_qz04",
+              "type": "trueFalse",
+              "prompt": "Le passé simple s'emploie surtout à l'écrit littéraire et se reconnaît plus qu'il ne se produit.",
+              "options": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "c1_u10_l03_qz05",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "The analysis must bear on the terms.",
+              "answer": "L'analyse doit porter sur les termes.",
+              "acceptedAnswers": [
+                "L'analyse doit porter sur les termes",
+                "l'analyse doit porter sur les termes",
+                "L'analyse doit porter sur les termes."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

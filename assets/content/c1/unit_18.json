@@ -1,0 +1,556 @@
+{
+  "id": "c1_u18",
+  "level": "C1",
+  "unit": 18,
+  "title": "Narrative Technique",
+  "subtitle": "Master point of view, pacing and the art of the ending",
+  "icon": "📕",
+  "lessons": [
+    {
+      "id": "c1_u18_l01",
+      "level": "C1",
+      "unit": 18,
+      "title": "Le point de vue",
+      "description": "Distinguish internal, external and omniscient focalisation, and learn how French marks whose eyes a story is told through.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "La focalisation interne",
+              "body": "In internal focalisation, the narration stays locked inside one character's head: we see, hear and understand only what that character perceives, no more. French marks this restriction through verbs of perception (apercevoir, sentir, deviner) and through gaps the narrator refuses to fill.",
+              "examples": [
+                { "french": "Elle entendit un bruit dans le couloir, sans savoir s'il venait de l'intérieur ou du dehors.", "english": "She heard a noise in the corridor, without knowing whether it came from inside or outside.", "note": "the narrator knows no more than the character at this instant" },
+                { "french": "Marc crut reconnaître une silhouette, mais la pluie brouillait tout.", "english": "Marc thought he recognised a silhouette, but the rain blurred everything.", "note": "\"crut\" (from croire) signals a perception the text never confirms" },
+                { "french": "Pourquoi cette lettre était-elle restée fermée ? Elle n'osait pas se le demander.", "english": "Why had that letter stayed unopened? She did not dare ask herself.", "note": "the free indirect question keeps us inside her hesitation" }
+              ],
+              "tip": "Watch for verbs like sembler, croire, deviner, avoir l'impression que — they are the grammatical fingerprints of internal focalisation."
+            },
+            {
+              "heading": "La focalisation externe",
+              "body": "External focalisation keeps the camera outside every character: the narrator reports actions, words and appearances like a witness, but never enters a mind. Feelings can only be inferred from behaviour, never stated directly — this is the technique behind hard-boiled and behaviourist fiction.",
+              "examples": [
+                { "french": "L'homme s'arrêta devant la vitrine, alluma une cigarette, puis repartit sans se retourner.", "english": "The man stopped in front of the shop window, lit a cigarette, then walked off without looking back.", "note": "pure external observation — no access to what he thinks or feels" },
+                { "french": "Elle ne répondit rien. Ses mains tremblaient légèrement sur la table.", "english": "She said nothing. Her hands trembled slightly on the table.", "note": "emotion is shown through a visible detail, never named" },
+                { "french": "Le juge referma le dossier et regarda longuement par la fenêtre.", "english": "The judge closed the file and looked out of the window for a long time.", "note": "the reader must guess the judge's thoughts from the gesture alone" }
+              ],
+              "tip": "If a sentence could be filmed exactly as written, with no voice-over of inner thought, it is almost certainly externally focalised."
+            },
+            {
+              "heading": "La focalisation zéro (le narrateur omniscient)",
+              "body": "Zero focalisation — the omniscient narrator — knows everything: every character's thoughts, the past and the future, events happening in different places at once. French signals this with sweeping generalisations, simultaneous scenes joined by pendant ce temps, and direct commentary on characters the characters themselves cannot make.",
+              "examples": [
+                { "french": "Pendant que Julien dormait, sa sœur, à trois cents kilomètres de là, préparait déjà sa réponse.", "english": "While Julien slept, his sister, three hundred kilometres away, was already preparing her answer.", "note": "the narrator moves freely between two simultaneous scenes" },
+                { "french": "Il ignorait encore que cette décision allait ruiner sa carrière.", "english": "He did not yet know that this decision would ruin his career.", "note": "the narrator knows the future the character cannot see" },
+                { "french": "Les deux hommes se méfiaient l'un de l'autre, chacun pour des raisons que l'autre ignorait.", "english": "The two men distrusted each other, each for reasons the other did not know.", "note": "the narrator enters both consciousnesses at once" }
+              ],
+              "tip": "Omniscience is rarely announced — spot it by the narrator crossing a boundary no single character could cross: time, distance, or another mind."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "le-point-de-vue", "french": "le point de vue", "english": "the point of view", "partOfSpeech": "noun", "gender": "m", "plural": "les points de vue", "pronunciation": "luh pwan duh VU", "example": "Le point de vue bascule sans prévenir au chapitre trois.", "exampleEnglish": "The point of view shifts without warning in chapter three.", "level": "C1", "category": "narrative-technique" },
+            { "id": "la-focalisation", "french": "la focalisation", "english": "focalisation, narrative point of view", "partOfSpeech": "noun", "gender": "f", "plural": "les focalisations", "pronunciation": "fo-kah-lee-zah-SYON", "example": "La focalisation interne enferme le lecteur dans une seule conscience.", "exampleEnglish": "Internal focalisation locks the reader inside a single consciousness.", "level": "C1", "category": "narrative-technique" },
+            { "id": "le-narrateur", "french": "le narrateur", "english": "the narrator", "partOfSpeech": "noun", "gender": "m", "plural": "les narrateurs", "pronunciation": "luh nah-rah-TUR", "example": "Le narrateur ne quitte jamais le regard de l'enfant.", "exampleEnglish": "The narrator never leaves the child's viewpoint.", "level": "C1", "category": "narrative-technique" },
+            { "id": "la-narratrice", "french": "la narratrice", "english": "the female narrator", "partOfSpeech": "noun", "gender": "f", "plural": "les narratrices", "pronunciation": "lah nah-rah-TREESS", "example": "La narratrice s'adresse directement au lecteur dès la première page.", "exampleEnglish": "The narrator addresses the reader directly from the very first page.", "level": "C1", "category": "narrative-technique" },
+            { "id": "omniscient", "french": "omniscient", "english": "omniscient, all-knowing", "partOfSpeech": "adjective", "pronunciation": "om-nee-SYAHN", "example": "Un narrateur omniscient entre dans toutes les consciences du roman.", "exampleEnglish": "An omniscient narrator enters every consciousness in the novel.", "level": "C1", "category": "narrative-technique" },
+            { "id": "interne", "french": "interne", "english": "internal (of focalisation)", "partOfSpeech": "adjective", "pronunciation": "an-TERN", "example": "La focalisation interne épouse le regard d'un seul personnage.", "exampleEnglish": "Internal focalisation follows a single character's gaze.", "level": "C1", "category": "narrative-technique" },
+            { "id": "externe", "french": "externe", "english": "external (of focalisation)", "partOfSpeech": "adjective", "pronunciation": "eks-TERN", "example": "La focalisation externe se contente de décrire les gestes.", "exampleEnglish": "External focalisation is content to describe gestures.", "level": "C1", "category": "narrative-technique" },
+            { "id": "subjectif", "french": "subjectif", "english": "subjective", "partOfSpeech": "adjective", "pronunciation": "soob-zhek-TEEF", "example": "Le récit reste résolument subjectif, filtré par une seule mémoire.", "exampleEnglish": "The narrative stays resolutely subjective, filtered by a single memory.", "level": "C1", "category": "narrative-technique" },
+            { "id": "impartial", "french": "impartial", "english": "impartial, unbiased", "partOfSpeech": "adjective", "pronunciation": "an-par-SYAL", "example": "Le narrateur adopte un ton impartial, presque journalistique.", "exampleEnglish": "The narrator adopts an impartial, almost journalistic tone.", "level": "C1", "category": "narrative-technique" },
+            { "id": "la-conscience", "french": "la conscience", "english": "consciousness, awareness", "partOfSpeech": "noun", "gender": "f", "plural": "les consciences", "pronunciation": "lah kon-see-AHNSS", "example": "Le roman circule librement d'une conscience à l'autre.", "exampleEnglish": "The novel moves freely from one consciousness to another.", "level": "C1", "category": "narrative-technique" },
+            { "id": "le-regard", "french": "le regard", "english": "the gaze, the viewpoint", "partOfSpeech": "noun", "gender": "m", "plural": "les regards", "pronunciation": "luh ruh-GAR", "example": "Tout passe par le regard fatigué du vieux médecin.", "exampleEnglish": "Everything passes through the old doctor's weary gaze.", "level": "C1", "category": "narrative-technique" },
+            { "id": "la-perspective", "french": "la perspective", "english": "the perspective", "partOfSpeech": "noun", "gender": "f", "plural": "les perspectives", "pronunciation": "lah pehr-spek-TEEV", "example": "Chaque chapitre adopte la perspective d'un personnage différent.", "exampleEnglish": "Each chapter adopts a different character's perspective.", "level": "C1", "category": "narrative-technique" },
+            { "id": "la-narration", "french": "la narration", "english": "narration, the act of telling", "partOfSpeech": "noun", "gender": "f", "plural": "les narrations", "pronunciation": "nah-rah-SYON", "example": "La narration hésite entre deux voix sans jamais trancher.", "exampleEnglish": "The narration hesitates between two voices without ever settling.", "level": "C1", "category": "narrative-technique" },
+            { "id": "percevoir", "french": "percevoir", "english": "to perceive, to make out", "partOfSpeech": "verb", "pronunciation": "pehr-suh-VWAR", "example": "Le personnage ne perçoit que des bribes de la conversation voisine.", "exampleEnglish": "The character only perceives fragments of the nearby conversation.", "level": "C1", "category": "narrative-technique" },
+            { "id": "ignorer", "french": "ignorer", "english": "to not know, to be unaware of", "partOfSpeech": "verb", "pronunciation": "ee-nyoh-RAY", "example": "Elle ignore encore qui a écrit cette lettre.", "exampleEnglish": "She still does not know who wrote that letter.", "level": "C1", "category": "narrative-technique" },
+            { "id": "ressentir", "french": "ressentir", "english": "to feel, to experience (an emotion)", "partOfSpeech": "verb", "pronunciation": "ruh-sahn-TEER", "example": "Le lecteur ressent la peur avant même de la comprendre.", "exampleEnglish": "The reader feels the fear before even understanding it.", "level": "C1", "category": "narrative-technique" },
+            { "id": "le-champ-de-vision", "french": "le champ de vision", "english": "the field of vision", "partOfSpeech": "noun", "gender": "m", "plural": "les champs de vision", "pronunciation": "luh shahn duh vee-ZYON", "example": "Rien n'existe hors du champ de vision du narrateur.", "exampleEnglish": "Nothing exists outside the narrator's field of vision.", "level": "C1", "category": "narrative-technique" },
+            { "id": "restreint", "french": "restreint", "english": "restricted, limited", "partOfSpeech": "adjective", "pronunciation": "res-TRAN", "example": "Le savoir du narrateur reste volontairement restreint.", "exampleEnglish": "The narrator's knowledge stays deliberately restricted.", "level": "C1", "category": "narrative-technique" },
+            { "id": "devoiler", "french": "dévoiler", "english": "to reveal, to unveil", "partOfSpeech": "verb", "pronunciation": "day-vwah-LAY", "example": "Le texte dévoile peu à peu ce que le héros refuse de voir.", "exampleEnglish": "The text gradually reveals what the hero refuses to see.", "level": "C1", "category": "narrative-technique" },
+            { "id": "cacher", "french": "cacher", "english": "to hide, to conceal", "partOfSpeech": "verb", "pronunciation": "kah-SHAY", "example": "Le narrateur cache sciemment l'identité du coupable.", "exampleEnglish": "The narrator deliberately hides the culprit's identity.", "level": "C1", "category": "narrative-technique" },
+            { "id": "l-angle", "french": "l'angle", "english": "the angle (of narration)", "partOfSpeech": "noun", "gender": "m", "plural": "les angles", "pronunciation": "LAHNGL", "example": "Changer d'angle, c'est changer d'histoire.", "exampleEnglish": "Changing the angle means changing the story.", "level": "C1", "category": "narrative-technique" },
+            { "id": "le-filtre", "french": "le filtre", "english": "the filter", "partOfSpeech": "noun", "gender": "m", "plural": "les filtres", "pronunciation": "luh FEELTR", "example": "Tout événement passe par le filtre de sa mémoire d'enfant.", "exampleEnglish": "Every event passes through the filter of her childhood memory.", "level": "C1", "category": "narrative-technique" },
+            { "id": "filtrer", "french": "filtrer", "english": "to filter", "partOfSpeech": "verb", "pronunciation": "feel-TRAY", "example": "Les faits sont filtrés par une conscience naïve et attachante.", "exampleEnglish": "The facts are filtered through a naive, endearing consciousness.", "level": "C1", "category": "narrative-technique" },
+            { "id": "la-premiere-personne", "french": "la première personne", "english": "the first person", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah pruh-MYEHR pehr-SUNN", "example": "Le roman est écrit à la première personne du singulier.", "exampleEnglish": "The novel is written in the first person singular.", "level": "C1", "category": "narrative-technique" },
+            { "id": "la-troisieme-personne", "french": "la troisième personne", "english": "the third person", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah trwah-ZYEM pehr-SUNN", "example": "Passer à la troisième personne crée aussitôt une distance.", "exampleEnglish": "Switching to the third person immediately creates distance.", "level": "C1", "category": "narrative-technique" },
+            { "id": "le-monologue-interieur", "french": "le monologue intérieur", "english": "the interior monologue", "partOfSpeech": "noun", "gender": "m", "plural": "les monologues intérieurs", "pronunciation": "luh moh-noh-LOG an-tay-RYUHR", "example": "Le chapitre entier n'est qu'un long monologue intérieur.", "exampleEnglish": "The whole chapter is nothing but a long interior monologue.", "level": "C1", "category": "narrative-technique" },
+            { "id": "l-interiorite", "french": "l'intériorité", "english": "interiority, inner life", "partOfSpeech": "noun", "gender": "f", "pronunciation": "an-tay-ryoh-ree-TAY", "example": "L'intériorité du personnage envahit chaque phrase du texte.", "exampleEnglish": "The character's inner life invades every sentence of the text.", "level": "C1", "category": "narrative-technique" },
+            { "id": "acceder", "french": "accéder (à)", "english": "to gain access (to), to reach", "partOfSpeech": "verb", "pronunciation": "ak-say-DAY", "example": "Le lecteur accède directement aux pensées de l'héroïne.", "exampleEnglish": "The reader gains direct access to the heroine's thoughts.", "level": "C1", "category": "narrative-technique" },
+            { "id": "le-savoir", "french": "le savoir", "english": "knowledge (what is known)", "partOfSpeech": "noun", "gender": "m", "plural": "les savoirs", "pronunciation": "luh sah-VWAHR", "example": "Le savoir du narrateur dépasse largement celui de ses personnages.", "exampleEnglish": "The narrator's knowledge far exceeds that of the characters.", "level": "C1", "category": "narrative-technique" },
+            { "id": "la-subjectivite", "french": "la subjectivité", "english": "subjectivity", "partOfSpeech": "noun", "gender": "f", "plural": "les subjectivités", "pronunciation": "soob-zhek-tee-vee-TAY", "example": "Toute la force du roman tient à cette subjectivité assumée.", "exampleEnglish": "The whole force of the novel lies in this deliberate subjectivity.", "level": "C1", "category": "narrative-technique" },
+            { "id": "l-objectivite", "french": "l'objectivité", "english": "objectivity", "partOfSpeech": "noun", "gender": "f", "plural": "les objectivités", "pronunciation": "lob-zhek-tee-vee-TAY", "example": "L'auteur simule une objectivité que le lecteur finit par mettre en doute.", "exampleEnglish": "The author simulates an objectivity the reader ends up doubting.", "level": "C1", "category": "narrative-technique" },
+            { "id": "le-narrateur-personnage", "french": "le narrateur-personnage", "english": "the character-narrator", "partOfSpeech": "noun", "gender": "m", "plural": "les narrateurs-personnages", "pronunciation": "luh nah-rah-tuhr pehr-so-NAZH", "example": "Le narrateur-personnage raconte des événements auxquels il a survécu.", "exampleEnglish": "The character-narrator recounts events they survived themselves.", "level": "C1", "category": "narrative-technique" },
+            { "id": "le-narrateur-peu-fiable", "french": "le narrateur peu fiable", "english": "the unreliable narrator", "partOfSpeech": "noun", "gender": "m", "plural": "les narrateurs peu fiables", "pronunciation": "luh nah-rah-tuhr puh fee-AH-bluh", "example": "Un narrateur peu fiable force le lecteur à douter de chaque phrase.", "exampleEnglish": "An unreliable narrator forces the reader to doubt every sentence.", "level": "C1", "category": "narrative-technique" },
+            { "id": "adopter", "french": "adopter", "english": "to adopt (a stance, a viewpoint)", "partOfSpeech": "verb", "pronunciation": "ah-dohp-TAY", "example": "L'auteur adopte le point de vue d'un enfant tout au long du livre.", "exampleEnglish": "The author adopts a child's point of view throughout the book.", "level": "C1", "category": "narrative-technique" },
+            { "id": "le-lecteur", "french": "le lecteur", "english": "the reader", "partOfSpeech": "noun", "gender": "m", "plural": "les lecteurs", "pronunciation": "luh lek-TUR", "example": "Le lecteur en sait davantage que le personnage principal.", "exampleEnglish": "The reader knows more than the main character.", "level": "C1", "category": "narrative-technique" },
+            { "id": "l-auteur", "french": "l'auteur", "english": "the author", "partOfSpeech": "noun", "gender": "m", "plural": "les auteurs", "pronunciation": "loh-TUHR", "example": "L'auteur choisit délibérément un point de vue restreint.", "exampleEnglish": "The author deliberately chooses a restricted point of view.", "level": "C1", "category": "narrative-technique" },
+            { "id": "le-personnage", "french": "le personnage", "english": "the character", "partOfSpeech": "noun", "gender": "m", "plural": "les personnages", "pronunciation": "luh pehr-so-NAZH", "example": "Chaque personnage voit l'histoire à sa façon.", "exampleEnglish": "Each character sees the story their own way.", "level": "C1", "category": "narrative-technique" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Le discours indirect libre",
+              "body": "Free indirect style blends the narrator's voice with a character's thoughts, without a reporting verb (\"il pensa que\") or quotation marks. The tense stays that of narration (imparfait, conditionnel) but the vocabulary, rhythm and exclamations belong to the character — this is the grammatical engine of internal focalisation.",
+              "examples": [
+                { "french": "Il regarda l'heure. Encore deux heures à attendre !", "english": "He looked at the time. Two more hours to wait!", "note": "the exclamation is his, though no verb of thought introduces it" },
+                { "french": "Elle referma la porte. Jamais elle n'accepterait une chose pareille.", "english": "She closed the door. Never would she accept such a thing.", "note": "conditional-style resolve voiced through the narrator's imparfait/plus-que-parfait system" },
+                { "french": "Comparez : « Il pensa qu'il devait partir » (discours indirect) et « Il devait partir » (discours indirect libre).", "english": "Compare: \"He thought he had to leave\" (indirect speech) and \"He had to leave\" (free indirect style).", "note": "removing \"il pensa que\" fuses narrator and character" }
+              ],
+              "tip": "If you can silently insert \"il pensa que\" or \"elle se disait que\" before a sentence without changing its tense, you are likely reading free indirect style."
+            },
+            {
+              "heading": "Les verbes de perception et de savoir",
+              "body": "Verbs like sembler, paraître, croire, deviner, ignorer que, avoir l'impression que grammatically mark the limits of a character's knowledge — the narrator refuses to confirm what only seems true. With ignorer que and douter que, the subjunctive can appear when the doubt is genuine, sharpening the sense of restricted access.",
+              "examples": [
+                { "french": "Il semblait avoir déjà tout compris, mais rien ne le confirmait.", "english": "He seemed to have already understood everything, but nothing confirmed it.", "note": "\"semblait\" keeps the truth outside the narrator's authority" },
+                { "french": "Elle doutait qu'il fût vraiment parti.", "english": "She doubted that he had really left.", "note": "subjunctive after douter que signals genuine uncertainty inside her mind" },
+                { "french": "Il ignorait que sa sœur, à ce moment précis, prenait le train.", "english": "He did not know that his sister, at that very moment, was taking the train.", "note": "ignorer que + indicative: the fact is true, only the character is blind to it" }
+              ],
+              "tip": "Distinguish croire/sembler (the character's uncertain belief) from ignorer que + indicative (a true fact the character simply does not know) — the second is the classic marker of dramatic irony under omniscience."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "c1_u18_l01_li01", "type": "listenChoose", "french": "Le narrateur ignorait encore que sa décision allait tout changer.", "options": ["The narrator already knew everything would change.", "The narrator did not yet know his decision would change everything.", "The narrator refused to make a decision.", "The narrator changed his mind at the last second."], "answer": "The narrator did not yet know his decision would change everything." },
+            { "id": "c1_u18_l01_li02", "type": "listenChoose", "french": "Elle referma la porte. Jamais elle n'accepterait une chose pareille.", "options": ["She opened the door happily.", "She closed the door and would never accept such a thing.", "She asked someone to close the door.", "She accepted the situation calmly."], "answer": "She closed the door and would never accept such a thing." },
+            { "id": "c1_u18_l01_li03", "type": "listenType", "french": "La focalisation interne enferme le lecteur dans une seule conscience.", "answer": "La focalisation interne enferme le lecteur dans une seule conscience.", "acceptedAnswers": ["La focalisation interne enferme le lecteur dans une seule conscience", "la focalisation interne enferme le lecteur dans une seule conscience"] },
+            { "id": "c1_u18_l01_li04", "type": "dictation", "french": "Pendant que Julien dormait, sa sœur préparait déjà sa réponse.", "answer": "Pendant que Julien dormait, sa sœur préparait déjà sa réponse.", "acceptedAnswers": ["Pendant que Julien dormait, sa soeur preparait deja sa reponse", "pendant que julien dormait sa soeur preparait deja sa reponse"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "c1_u18_l01_sp01", "type": "speak", "french": "Le narrateur ne voit que ce que le personnage principal voit lui-même.", "english": "The narrator only sees what the main character sees themselves.", "prompt": "Explain, in your own words, what internal focalisation restricts.", "tip": "Stress \"que\" clearly — it marks the exact limit of what is known." },
+            { "id": "c1_u18_l01_sp02", "type": "speak", "french": "À mon avis, un narrateur omniscient enlève une partie du suspense.", "english": "In my opinion, an omniscient narrator removes some of the suspense.", "prompt": "Give your opinion: does knowing everything as a reader ruin suspense?", "tip": "Let your voice rise slightly on \"suspense\" to signal your own judgement." },
+            { "id": "c1_u18_l01_sp03", "type": "speak", "french": "Si j'écrivais cette histoire, j'adopterais le point de vue du personnage secondaire.", "english": "If I were writing this story, I would adopt the secondary character's point of view.", "prompt": "Propose an alternative point of view for a story you know well.", "tip": "Practise the conditional \"j'adopterais\" smoothly — it should not sound hesitant." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "La Valise (nouvelle inédite d'Aline Rocher)",
+              "french": "Elle posa la valise sur le lit sans savoir pourquoi ses mains tremblaient autant.\nLe train partait dans quarante minutes, et pourtant elle n'arrivait pas à choisir quoi emporter.\nUn bruit, en bas, la fit sursauter : quelqu'un montait l'escalier, lentement, comme s'il hésitait à chaque marche.\nElle retint son souffle, persuadée qu'il s'agissait de son frère venu la convaincre de rester.\nLes pas s'arrêtèrent derrière la porte. Un long silence suivit, plus inquiétant qu'aucun mot n'aurait pu l'être.\nPeut-être n'était-ce qu'un voisin, se dit-elle, sans y croire vraiment.\nElle referma la valise d'un geste sec, comme pour se donner une contenance.\nLa poignée de la porte tourna avec une lenteur presque théâtrale.\nElle ne voyait, dans l'entrebâillement, qu'une ombre qu'elle ne parvenait pas à identifier.\n« C'est toi ? » demanda-t-elle, la voix mal assurée.\nAucune réponse ne vint, seulement un léger raclement, comme celui d'un vêtement contre le mur.\nElle songea, l'espace d'un instant, à toutes les personnes que cette silhouette aurait pu être.\nLe train, elle le savait, n'attendrait pas.\nElle empoigna la valise et avança vers la porte, le cœur battant plus vite que ses pas.\nCe qui se trouvait réellement derrière cette porte, ni elle ni le lecteur ne le sauraient avant la page suivante.\nElle tendit la main vers la poignée, et le récit, à cet instant précis, se tut.",
+              "english": "She put the suitcase on the bed without knowing why her hands were trembling so much.\nThe train left in forty minutes, and yet she could not manage to choose what to take.\nA noise, downstairs, made her jump: someone was climbing the stairs, slowly, as if hesitating on every step.\nShe held her breath, convinced it was her brother come to persuade her to stay.\nThe footsteps stopped behind the door. A long silence followed, more unsettling than any word could have been.\nMaybe it was only a neighbour, she told herself, without really believing it.\nShe snapped the suitcase shut, as if to give herself composure.\nThe door handle turned with an almost theatrical slowness.\nThrough the gap she could see only a shadow she could not identify.\n\"Is that you?\" she asked, her voice unsteady.\nNo answer came, only a faint scraping sound, like fabric brushing the wall.\nFor a moment she thought of everyone that silhouette could possibly be.\nThe train, she knew, would not wait.\nShe grabbed the suitcase and moved towards the door, her heart beating faster than her steps.\nWhat was really behind that door, neither she nor the reader would know before the next page.\nShe reached her hand towards the handle, and the story, at that exact instant, fell silent.",
+              "questions": [
+                { "id": "c1_u18_l01_rd01", "type": "multipleChoice", "prompt": "Quel type de focalisation domine ce passage ?", "options": ["La focalisation zéro (narrateur omniscient)", "La focalisation externe", "La focalisation interne", "Aucune focalisation particulière"], "answer": "La focalisation interne" },
+                { "id": "c1_u18_l01_rd02", "type": "trueFalse", "prompt": "Le lecteur sait qui se trouve réellement derrière la porte.", "options": ["True", "False"], "answer": "False" },
+                { "id": "c1_u18_l01_rd03", "type": "multipleChoice", "prompt": "Quelle phrase montre le mieux que le narrateur ne dépasse jamais la conscience d'Élise ?", "options": ["« Elle ne voyait, dans l'entrebâillement, qu'une ombre qu'elle ne parvenait pas à identifier. »", "« Le train partait dans quarante minutes. »", "« La poignée de la porte tourna. »", "« Elle referma la valise d'un geste sec. »"], "answer": "« Elle ne voyait, dans l'entrebâillement, qu'une ombre qu'elle ne parvenait pas à identifier. »" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "c1_u18_l01_wr01", "type": "translate", "prompt": "Translate into French: \"He did not yet know that this letter would change everything.\"", "english": "He did not yet know that this letter would change everything.", "answer": "Il ne savait pas encore que cette lettre allait tout changer.", "acceptedAnswers": ["Il ne savait pas encore que cette lettre allait tout changer", "Il ignorait encore que cette lettre allait tout changer"] },
+            { "id": "c1_u18_l01_wr02", "type": "translate", "prompt": "Translate into French: \"She seemed to understand everything, but nothing confirmed it.\"", "english": "She seemed to understand everything, but nothing confirmed it.", "answer": "Elle semblait tout comprendre, mais rien ne le confirmait.", "acceptedAnswers": ["Elle semblait tout comprendre, mais rien ne le confirmait", "Elle semblait tout comprendre mais rien ne le confirmait"] },
+            { "id": "c1_u18_l01_wr03", "type": "fillBlank", "prompt": "Réécrivez cette phrase en discours indirect libre : « Il pensa qu'il devait absolument partir. » → Il ___ absolument partir.", "answer": "devait" }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "c1_u18_l01_pr01", "type": "multipleChoice", "prompt": "Un narrateur qui connaît les pensées de tous les personnages et les événements passés et futurs pratique la…", "options": ["focalisation interne", "focalisation externe", "focalisation zéro", "narration objective"], "answer": "focalisation zéro" },
+            { "id": "c1_u18_l01_pr02", "type": "fillBlank", "prompt": "Le narrateur ___ encore que sa décision allait ruiner sa carrière. (ignorer, imparfait)", "answer": "ignorait" },
+            { "id": "c1_u18_l01_pr03", "type": "match", "pairs": [ { "french": "la focalisation interne", "english": "restricted to one character's mind" }, { "french": "la focalisation externe", "english": "outside view only, like a camera" }, { "french": "la focalisation zéro", "english": "the omniscient, all-knowing narrator" }, { "french": "le narrateur peu fiable", "english": "a narrator whose account cannot be trusted" } ] },
+            { "id": "c1_u18_l01_pr04", "type": "trueFalse", "prompt": "En focalisation externe, le narrateur peut décrire directement ce qu'un personnage ressent intérieurement.", "options": ["True", "False"], "answer": "False" },
+            { "id": "c1_u18_l01_pr05", "type": "translate", "prompt": "Translate: \"The reader knows more than the main character.\"", "english": "The reader knows more than the main character.", "answer": "Le lecteur en sait plus que le personnage principal.", "acceptedAnswers": ["Le lecteur en sait plus que le personnage principal", "Le lecteur sait plus que le personnage principal"] },
+            { "id": "c1_u18_l01_pr06", "type": "arrangeWords", "words": ["conscience", "seule", "une", "dans", "lecteur", "le", "enferme", "focalisation", "la", "interne"], "answer": "la focalisation interne enferme le lecteur dans une seule conscience", "english": "Internal focalisation locks the reader inside a single consciousness." }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "c1_u18_l01_qz01", "type": "multipleChoice", "prompt": "« Elle ne voyait, dans l'entrebâillement, qu'une ombre. » Cette phrase illustre…", "options": ["la focalisation zéro", "la focalisation externe", "la focalisation interne", "l'absence de narrateur"], "answer": "la focalisation interne" },
+            { "id": "c1_u18_l01_qz02", "type": "fillBlank", "prompt": "L'homme s'arrêta devant la vitrine, alluma une cigarette, puis repartit sans se retourner. — Ce style, purement gestuel, relève de la focalisation ___.", "answer": "externe" },
+            { "id": "c1_u18_l01_qz03", "type": "trueFalse", "prompt": "Le discours indirect libre supprime le verbe introducteur (« il pensa que ») tout en gardant le temps de la narration.", "options": ["True", "False"], "answer": "True" },
+            { "id": "c1_u18_l01_qz04", "type": "translate", "prompt": "Translate: \"An unreliable narrator forces the reader to doubt every sentence.\"", "english": "An unreliable narrator forces the reader to doubt every sentence.", "answer": "Un narrateur peu fiable force le lecteur à douter de chaque phrase.", "acceptedAnswers": ["Un narrateur peu fiable force le lecteur a douter de chaque phrase"] },
+            { "id": "c1_u18_l01_qz05", "type": "match", "pairs": [ { "french": "le narrateur-personnage", "english": "a narrator who is also a character in the story" }, { "french": "le monologue intérieur", "english": "direct, unmediated access to a character's thoughts" }, { "french": "l'objectivité", "english": "the appearance of neutrality in narration" }, { "french": "dévoiler", "english": "to gradually reveal" } ] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1_u18_l02",
+      "level": "C1",
+      "unit": 18,
+      "title": "Le rythme du récit",
+      "description": "Control narrative pace through ellipsis, scene and summary, and learn the tense system that speeds up or slows down a story.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "La scène et le sommaire",
+              "body": "A scene stretches narrated time to match (or exceed) the time it takes to read it — dialogue, gesture-by-gesture action, sensory detail. A summary compresses months or years into a sentence. Skilled writers alternate the two deliberately: scenes for what matters, summary for what merely connects.",
+              "examples": [
+                { "french": "« Tu pars quand ? » demanda-t-il. « Demain », répondit-elle, sans lever les yeux.", "english": "\"When are you leaving?\" he asked. \"Tomorrow,\" she answered, without looking up.", "note": "a scene: dialogue unfolds almost in real time" },
+                { "french": "Les mois suivants furent occupés à vendre la maison, à ranger les affaires, à dire au revoir.", "english": "The following months were spent selling the house, sorting through belongings, saying goodbye.", "note": "a summary: months compressed into one sentence" },
+                { "french": "Le dîner dura deux heures. Le narrateur n'en raconte que les cinq dernières minutes.", "english": "Dinner lasted two hours. The narrator recounts only the last five minutes of it.", "note": "the ratio between story-time and text-time defines scene vs. summary" }
+              ],
+              "tip": "Ask: does this passage take about as long to read as it took to happen? If yes, it is a scene; if the text is far shorter than the events, it is a summary."
+            },
+            {
+              "heading": "L'ellipse narrative",
+              "body": "An ellipse skips narrated time altogether: nothing is told about the gap, only a marker signals that time has passed. Ellipses can be explicit (a stated duration) or implicit (a mere paragraph break, a chapter change), and they are essential for cutting the story down to what matters.",
+              "examples": [
+                { "french": "Dix ans passèrent. Rien, dans la maison, n'avait changé.", "english": "Ten years passed. Nothing in the house had changed.", "note": "an explicit ellipse: the duration is stated, the content is skipped entirely" },
+                { "french": "*** \nQuand il revint, la ville avait un nouveau maire.", "english": "*** \nWhen he came back, the town had a new mayor.", "note": "a typographic break (implicit ellipse) does the same work with no words at all" },
+                { "french": "Le lendemain matin, tout avait déjà été décidé sans elle.", "english": "The next morning, everything had already been decided without her.", "note": "the plus-que-parfait signals events completed during the skipped interval" }
+              ],
+              "tip": "The plus-que-parfait right after an ellipse is a strong clue: it packs pre-completed action into the gap the narrator chose not to narrate."
+            },
+            {
+              "heading": "Accélérer et ralentir le récit",
+              "body": "Pace is not fixed for a whole book: writers speed up through dense summary and short paragraphs, then slow down through elaborate description, extended dialogue and the historic present, which makes past events feel as if they are happening now, right in front of the reader.",
+              "examples": [
+                { "french": "Il courut, tourna à gauche, sauta par-dessus le muret, disparut.", "english": "He ran, turned left, jumped over the low wall, disappeared.", "note": "short clauses in rapid succession accelerate the rhythm" },
+                { "french": "Elle s'assied, pose ses mains sur la table, ferme les yeux, respire une dernière fois.", "english": "She sits down, places her hands on the table, closes her eyes, breathes one last time.", "note": "the historic present slows the reader down inside a single, suspended instant" },
+                { "french": "Le paysage, lui, ne se pressait pas : la brume s'effilochait lentement au-dessus des toits.", "english": "The landscape, for its part, was in no hurry: the mist slowly frayed above the rooftops.", "note": "extended description stretches text-time far beyond story-time" }
+              ],
+              "tip": "Count the verbs per sentence: many short verbs in a row accelerate the rhythm; one action stretched across a long sentence slows it down."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "le-rythme", "french": "le rythme", "english": "the rhythm, the pace", "partOfSpeech": "noun", "gender": "m", "plural": "les rythmes", "pronunciation": "luh REETM", "example": "Le rythme du récit s'accélère à mesure que le danger approche.", "exampleEnglish": "The narrative's pace speeds up as the danger draws near.", "level": "C1", "category": "narrative-technique" },
+            { "id": "l-ellipse", "french": "l'ellipse", "english": "the ellipsis (a skipped stretch of narrated time)", "partOfSpeech": "noun", "gender": "f", "plural": "les ellipses", "pronunciation": "ay-LEEPS", "example": "L'ellipse fait passer dix années en une seule phrase.", "exampleEnglish": "The ellipsis lets ten years pass in a single sentence.", "level": "C1", "category": "narrative-technique" },
+            { "id": "la-scene", "french": "la scène", "english": "the scene", "partOfSpeech": "noun", "gender": "f", "plural": "les scènes", "pronunciation": "lah SEN", "example": "Cette scène occupe à elle seule tout un chapitre.", "exampleEnglish": "This one scene fills an entire chapter by itself.", "level": "C1", "category": "narrative-technique" },
+            { "id": "le-sommaire", "french": "le sommaire", "english": "the summary (compressed narrated time)", "partOfSpeech": "noun", "gender": "m", "plural": "les sommaires", "pronunciation": "luh so-MEHR", "example": "Le sommaire relie les scènes sans jamais ralentir l'ensemble.", "exampleEnglish": "The summary links the scenes without ever slowing the whole down.", "level": "C1", "category": "narrative-technique" },
+            { "id": "la-pause-descriptive", "french": "la pause descriptive", "english": "the descriptive pause (story time freezes)", "partOfSpeech": "noun", "gender": "f", "plural": "les pauses descriptives", "pronunciation": "lah pohz des-krip-TEEV", "example": "La pause descriptive suspend l'action pour détailler le décor.", "exampleEnglish": "The descriptive pause suspends the action to detail the setting.", "level": "C1", "category": "narrative-technique" },
+            { "id": "accelerer", "french": "accélérer", "english": "to speed up", "partOfSpeech": "verb", "pronunciation": "ak-say-lay-RAY", "example": "Les phrases courtes accélèrent nettement le rythme du passage.", "exampleEnglish": "Short sentences clearly speed up the passage's rhythm.", "level": "C1", "category": "narrative-technique" },
+            { "id": "ralentir", "french": "ralentir", "english": "to slow down", "partOfSpeech": "verb", "pronunciation": "rah-lon-TEER", "example": "La description ralentit le récit juste avant le danger.", "exampleEnglish": "The description slows the narrative right before the danger.", "level": "C1", "category": "narrative-technique" },
+            { "id": "la-duree", "french": "la durée", "english": "duration", "partOfSpeech": "noun", "gender": "f", "plural": "les durées", "pronunciation": "lah doo-RAY", "example": "La durée réelle des événements dépasse largement celle du texte.", "exampleEnglish": "The real duration of the events far exceeds that of the text.", "level": "C1", "category": "narrative-technique" },
+            { "id": "condenser", "french": "condenser", "english": "to condense", "partOfSpeech": "verb", "pronunciation": "kon-dahn-SAY", "example": "Il a fallu condenser cinq années en trois pages.", "exampleEnglish": "Five years had to be condensed into three pages.", "level": "C1", "category": "narrative-technique" },
+            { "id": "resumer", "french": "résumer", "english": "to sum up, to summarise", "partOfSpeech": "verb", "pronunciation": "ray-zue-MAY", "example": "Le narrateur résume en une ligne ce qui a occupé tout un été.", "exampleEnglish": "The narrator sums up in one line what took an entire summer.", "level": "C1", "category": "narrative-technique" },
+            { "id": "l-analepse", "french": "l'analepse", "english": "the analepsis (flashback)", "partOfSpeech": "noun", "gender": "f", "plural": "les analepses", "pronunciation": "ah-nah-LEPS", "example": "Une analepse brève rappelle au lecteur les origines du conflit.", "exampleEnglish": "A brief flashback reminds the reader of the conflict's origins.", "level": "C1", "category": "narrative-technique" },
+            { "id": "la-prolepse", "french": "la prolepse", "english": "the prolepsis (flash-forward)", "partOfSpeech": "noun", "gender": "f", "plural": "les prolepses", "pronunciation": "proh-LEPS", "example": "Une prolepse discrète annonce déjà la fin tragique du roman.", "exampleEnglish": "A discreet flash-forward already hints at the novel's tragic ending.", "level": "C1", "category": "narrative-technique" },
+            { "id": "le-retour-en-arriere", "french": "le retour en arrière", "english": "the flashback", "partOfSpeech": "noun", "gender": "m", "plural": "les retours en arrière", "pronunciation": "luh ruh-TOOR ahn nah-RYEHR", "example": "Le retour en arrière explique enfin l'origine de sa peur.", "exampleEnglish": "The flashback finally explains the origin of her fear.", "level": "C1", "category": "narrative-technique" },
+            { "id": "l-anticipation", "french": "l'anticipation", "english": "anticipation (a narrative preview of the future)", "partOfSpeech": "noun", "gender": "f", "plural": "les anticipations", "pronunciation": "ahn-tee-see-pah-SYON", "example": "Une courte anticipation laisse deviner la fin dès le premier chapitre.", "exampleEnglish": "A short anticipation hints at the ending from the very first chapter.", "level": "C1", "category": "narrative-technique" },
+            { "id": "le-dialogue", "french": "le dialogue", "english": "the dialogue", "partOfSpeech": "noun", "gender": "m", "plural": "les dialogues", "pronunciation": "luh dee-ah-LOG", "example": "Le dialogue ralentit l'action pour laisser place à la tension.", "exampleEnglish": "The dialogue slows the action down to make room for tension.", "level": "C1", "category": "narrative-technique" },
+            { "id": "la-description", "french": "la description", "english": "the description", "partOfSpeech": "noun", "gender": "f", "plural": "les descriptions", "pronunciation": "lah des-krip-SYON", "example": "La description s'étire sur deux pages avant que rien ne se passe.", "exampleEnglish": "The description stretches over two pages before anything happens.", "level": "C1", "category": "narrative-technique" },
+            { "id": "se-derouler", "french": "se dérouler", "english": "to take place, to unfold", "partOfSpeech": "verb", "pronunciation": "suh day-roo-LAY", "example": "L'intrigue se déroule sur une seule nuit, sans aucune ellipse.", "exampleEnglish": "The plot unfolds over a single night, with no ellipsis at all.", "level": "C1", "category": "narrative-technique" },
+            { "id": "s-etendre", "french": "s'étendre", "english": "to stretch out, to extend", "partOfSpeech": "verb", "pronunciation": "say-TAHNDR", "example": "Le récit s'étend sur trois générations en à peine cent pages.", "exampleEnglish": "The narrative stretches over three generations in barely a hundred pages.", "level": "C1", "category": "narrative-technique" },
+            { "id": "sauter-des-annees", "french": "sauter des années", "english": "to skip years (in a narrative)", "partOfSpeech": "expression", "pronunciation": "soh-tay day-zah-NAY", "example": "Le roman saute des années entre chaque partie sans prévenir.", "exampleEnglish": "The novel skips years between each part without warning.", "level": "C1", "category": "narrative-technique" },
+            { "id": "l-evenement", "french": "l'événement", "english": "the event", "partOfSpeech": "noun", "gender": "m", "plural": "les événements", "pronunciation": "lay-vay-neh-MAHN", "example": "Un seul événement occupe tout le sommaire du chapitre suivant.", "exampleEnglish": "A single event occupies the whole summary of the next chapter.", "level": "C1", "category": "narrative-technique" },
+            { "id": "la-tension", "french": "la tension", "english": "the tension", "partOfSpeech": "noun", "gender": "f", "plural": "les tensions", "pronunciation": "lah tahn-SYON", "example": "La tension monte grâce à des phrases de plus en plus courtes.", "exampleEnglish": "The tension rises through increasingly short sentences.", "level": "C1", "category": "narrative-technique" },
+            { "id": "le-suspense", "french": "le suspense", "english": "the suspense", "partOfSpeech": "noun", "gender": "m", "plural": "les suspenses", "pronunciation": "luh soos-PAHNSS", "example": "Le suspense repose entièrement sur le contrôle du rythme.", "exampleEnglish": "The suspense rests entirely on the control of the pace.", "level": "C1", "category": "narrative-technique" },
+            { "id": "le-chapitre", "french": "le chapitre", "english": "the chapter", "partOfSpeech": "noun", "gender": "m", "plural": "les chapitres", "pronunciation": "luh shah-PEETR", "example": "Chaque chapitre couvre une durée de plus en plus courte.", "exampleEnglish": "Each chapter covers a shorter and shorter span of time.", "level": "C1", "category": "narrative-technique" },
+            { "id": "la-temporalite", "french": "la temporalité", "english": "temporality (the handling of time)", "partOfSpeech": "noun", "gender": "f", "plural": "les temporalités", "pronunciation": "tahm-poh-rah-lee-TAY", "example": "La temporalité du roman est déréglée dès la première page.", "exampleEnglish": "The novel's temporality is deranged from the very first page.", "level": "C1", "category": "narrative-technique" },
+            { "id": "le-temps-du-recit", "french": "le temps du récit", "english": "narrative time (the time of the telling)", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh tahn dew ray-SEE", "example": "Le temps du récit ne coïncide jamais avec le temps de l'histoire.", "exampleEnglish": "Narrative time never coincides with story time.", "level": "C1", "category": "narrative-technique" },
+            { "id": "le-temps-de-l-histoire", "french": "le temps de l'histoire", "english": "story time (the time events actually take)", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh tahn duh lee-STWAHR", "example": "Le temps de l'histoire couvre trente ans, le temps du récit à peine deux cents pages.", "exampleEnglish": "Story time spans thirty years, narrative time barely two hundred pages.", "level": "C1", "category": "narrative-technique" },
+            { "id": "avancer", "french": "avancer", "english": "to move forward, to advance", "partOfSpeech": "verb", "pronunciation": "ah-vahn-SAY", "example": "L'intrigue avance par bonds, jamais de façon régulière.", "exampleEnglish": "The plot advances in leaps, never at a steady pace.", "level": "C1", "category": "narrative-technique" },
+            { "id": "ponctuer", "french": "ponctuer", "english": "to punctuate (a story with recurring beats)", "partOfSpeech": "verb", "pronunciation": "pon-ktew-AY", "example": "Des ellipses régulières ponctuent tout le second chapitre.", "exampleEnglish": "Regular ellipses punctuate the whole second chapter.", "level": "C1", "category": "narrative-technique" },
+            { "id": "alterner", "french": "alterner", "english": "to alternate", "partOfSpeech": "verb", "pronunciation": "al-tehr-NAY", "example": "L'auteur alterne scènes rapides et longues pauses descriptives.", "exampleEnglish": "The author alternates fast scenes and long descriptive pauses.", "level": "C1", "category": "narrative-technique" },
+            { "id": "l-intervalle", "french": "l'intervalle", "english": "the interval, the gap", "partOfSpeech": "noun", "gender": "m", "plural": "les intervalles", "pronunciation": "lan-tehr-VAL", "example": "L'intervalle entre deux scènes n'est jamais précisé.", "exampleEnglish": "The interval between two scenes is never specified.", "level": "C1", "category": "narrative-technique" },
+            { "id": "dense", "french": "dense", "english": "dense, tightly packed", "partOfSpeech": "adjective", "pronunciation": "DAHNSS", "example": "Le sommaire final reste très dense, presque essoufflé.", "exampleEnglish": "The final summary stays very dense, almost breathless.", "level": "C1", "category": "narrative-technique" },
+            { "id": "etirer", "french": "étirer", "english": "to stretch out, to draw out", "partOfSpeech": "verb", "pronunciation": "ay-tee-RAY", "example": "L'auteur étire la scène du dîner sur près de trente pages.", "exampleEnglish": "The author stretches the dinner scene over almost thirty pages.", "level": "C1", "category": "narrative-technique" },
+            { "id": "la-respiration", "french": "la respiration", "english": "the breathing, the pacing (of a text)", "partOfSpeech": "noun", "gender": "f", "plural": "les respirations", "pronunciation": "lah res-pee-rah-SYON", "example": "Les pauses descriptives donnent au récit sa respiration propre.", "exampleEnglish": "The descriptive pauses give the narrative its own breathing.", "level": "C1", "category": "narrative-technique" },
+            { "id": "le-blanc-narratif", "french": "le blanc narratif", "english": "the narrative gap (an unmarked silence in the telling)", "partOfSpeech": "noun", "gender": "m", "plural": "les blancs narratifs", "pronunciation": "luh blahn nah-rah-TEEF", "example": "Un blanc narratif sépare les deux parties du roman.", "exampleEnglish": "A narrative gap separates the two parts of the novel.", "level": "C1", "category": "narrative-technique" },
+            { "id": "successif", "french": "successif", "english": "successive, one after another", "partOfSpeech": "adjective", "pronunciation": "sook-say-SEEF", "example": "Trois ellipses successives condensent dix années en un paragraphe.", "exampleEnglish": "Three successive ellipses condense ten years into one paragraph.", "level": "C1", "category": "narrative-technique" },
+            { "id": "simultane", "french": "simultané", "english": "simultaneous", "partOfSpeech": "adjective", "pronunciation": "see-mool-tah-NAY", "example": "Deux actions simultanées sont racontées l'une après l'autre.", "exampleEnglish": "Two simultaneous actions are narrated one after the other.", "level": "C1", "category": "narrative-technique" },
+            { "id": "rapide", "french": "rapide", "english": "fast, quick", "partOfSpeech": "adjective", "pronunciation": "rah-PEED", "example": "Le rythme redevient rapide dès que l'action reprend.", "exampleEnglish": "The pace becomes fast again as soon as the action resumes.", "level": "C1", "category": "narrative-technique" },
+            { "id": "lent", "french": "lent", "english": "slow", "partOfSpeech": "adjective", "pronunciation": "LAHN", "example": "Le récit reste volontairement lent pendant tout le premier chapitre.", "exampleEnglish": "The narrative stays deliberately slow throughout the first chapter.", "level": "C1", "category": "narrative-technique" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Les marqueurs temporels de l'ellipse et du sommaire",
+              "body": "Ellipsis and summary rely on compressed time markers: durations (des années durant, en l'espace de quelques mois), vague adverbs (peu après, bien plus tard), and the plus-que-parfait, which packs completed action into a gap the narrator has chosen not to narrate in full.",
+              "examples": [
+                { "french": "Des années durant, elle avait cru pouvoir oublier ce jour-là.", "english": "For years, she had believed she could forget that day.", "note": "\"des années durant\" compresses a long stretch of story time into a phrase" },
+                { "french": "Peu après, tout était redevenu comme avant.", "english": "Shortly after, everything had gone back to normal.", "note": "\"peu après\" glosses over unnarrated events" },
+                { "french": "Quand elle rouvrit les yeux, la guerre avait déjà commencé.", "english": "When she opened her eyes again, the war had already begun.", "note": "the plus-que-parfait places an entire unnarrated development before the resumed scene" }
+              ],
+              "tip": "Vague time adverbs (bientôt, peu après, quelque temps plus tard) are the surface signal of an ellipse — always ask what the text is choosing not to tell."
+            },
+            {
+              "heading": "L'alternance passé simple / imparfait dans le rythme",
+              "body": "In literary narration, the passé simple carries the punctual, forward-moving actions of a scene, while the imparfait provides background, description and repeated or ongoing states that slow the reader down. Shifting the balance between the two tenses is itself a way of controlling pace.",
+              "examples": [
+                { "french": "Il pleuvait depuis le matin. Elle sortit sans parapluie.", "english": "It had been raining since morning. She went out without an umbrella.", "note": "imparfait sets the slow backdrop, passé simple delivers the single sharp action" },
+                { "french": "La ville dormait encore. Le camion s'arrêta devant l'immeuble.", "english": "The town was still asleep. The truck stopped in front of the building.", "note": "same pattern: static imparfait, then one decisive passé simple verb" },
+                { "french": "Ils marchaient depuis des heures quand ils aperçurent enfin la côte.", "english": "They had been walking for hours when they finally spotted the coast.", "note": "a long imparfait duration is punctuated by a single passé simple event" }
+              ],
+              "tip": "A passage heavy with imparfait and light on passé simple will always read as slower — count the ratio to predict a passage's pace before you even finish it."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "c1_u18_l02_li01", "type": "listenChoose", "french": "Des années durant, elle avait cru pouvoir oublier ce jour-là.", "options": ["She forgot the day within a week.", "For years, she had believed she could forget that day.", "She never thought about that day.", "The day happened only once, briefly."], "answer": "For years, she had believed she could forget that day." },
+            { "id": "c1_u18_l02_li02", "type": "listenChoose", "french": "Quand elle rouvrit les yeux, la guerre avait déjà commencé.", "options": ["The war started while she watched.", "She caused the war to begin.", "When she opened her eyes again, the war had already begun.", "She never learned that a war had started."], "answer": "When she opened her eyes again, the war had already begun." },
+            { "id": "c1_u18_l02_li03", "type": "listenType", "french": "L'auteur alterne scènes rapides et longues pauses descriptives.", "answer": "L'auteur alterne scènes rapides et longues pauses descriptives.", "acceptedAnswers": ["L'auteur alterne scenes rapides et longues pauses descriptives", "l'auteur alterne scenes rapides et longues pauses descriptives"] },
+            { "id": "c1_u18_l02_li04", "type": "dictation", "french": "Le temps du récit ne coïncide jamais avec le temps de l'histoire.", "answer": "Le temps du récit ne coïncide jamais avec le temps de l'histoire.", "acceptedAnswers": ["Le temps du recit ne coincide jamais avec le temps de l'histoire", "le temps du recit ne coincide jamais avec le temps de l'histoire"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "c1_u18_l02_sp01", "type": "speak", "french": "Cette scène est si détaillée que le temps semble s'arrêter.", "english": "This scene is so detailed that time seems to stop.", "prompt": "Describe a scene from a book or film that felt unusually slow and detailed.", "tip": "Draw out the vowel in \"s'arrêter\" slightly — it mimics the slowing pace you are describing." },
+            { "id": "c1_u18_l02_sp02", "type": "speak", "french": "À mon avis, trop d'ellipses rendent une histoire difficile à suivre.", "english": "In my opinion, too many ellipses make a story hard to follow.", "prompt": "Give your opinion: can a story use too many time-skips?", "tip": "Stress \"trop\" firmly — it carries the whole judgement of the sentence." },
+            { "id": "c1_u18_l02_sp03", "type": "speak", "french": "Si je racontais ma journée en sommaire, je dirais simplement : j'ai travaillé, puis je suis rentré.", "english": "If I told my day as a summary, I would simply say: I worked, then I went home.", "prompt": "Summarise your entire day in one sentence, the way a narrative summary would.", "tip": "Keep the sentence short and flat — a real sommaire avoids emotional detail." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Le Café du Matin (nouvelle inédite de Thomas Delrieu)",
+              "french": "Le réveil sonna à six heures précises ; Léa l'éteignit d'un geste sec et resta immobile, les yeux ouverts dans le noir.\nElle se leva, prépara le café, écouta le bruit de la cafetière, regarda par la fenêtre la rue encore déserte.\n« Encore une journée », murmura-t-elle, sans savoir si elle parlait pour elle-même ou pour personne.\nLes semaines suivantes filèrent sans qu'elle s'en aperçoive vraiment : le café, la boutique, les clients, les factures.\nElle avait ouvert le magasin en mars ; en septembre, elle n'avait presque plus le temps de s'asseoir.\n***\nUn matin d'octobre, la porte s'ouvrit sur un homme qu'elle n'avait pas revu depuis des années.\nIl resta un instant sur le seuil, hésitant, puis dit simplement : « Je suis passé par hasard. »\nLéa reposa la tasse qu'elle tenait, lentement, comme si un geste brusque pouvait tout briser.\n« Ça fait longtemps », répondit-elle enfin, la voix plus tremblante qu'elle ne l'aurait voulu.\nIls restèrent là, tous les deux, sans bouger, pendant ce qui parut durer une éternité mais qui ne dura, en réalité, que quelques secondes.\nDehors, un bus passa, puis un autre ; la rue reprenait sa vie ordinaire, indifférente à ce qui se jouait à l'intérieur.\nPersonne, dans la boutique, n'aurait pu deviner que cette rencontre allait tout changer.\nLéa reposa lentement sa tasse sur le comptoir et proposa, d'une voix presque égale : « Un café ? »",
+              "english": "The alarm rang at exactly six o'clock; Léa switched it off sharply and stayed still, eyes open in the dark.\nShe got up, made coffee, listened to the sound of the coffee maker, looked out at the still-empty street.\n\"Another day,\" she murmured, not knowing whether she was speaking to herself or to no one.\nThe following weeks went by without her really noticing: the coffee, the shop, the customers, the bills.\nShe had opened the shop in March; by September, she barely had time to sit down.\n***\nOne October morning, the door opened onto a man she had not seen in years.\nHe stood a moment on the threshold, hesitant, then simply said, \"I was passing by.\"\nLéa set down the cup she was holding, slowly, as if a sudden movement might break something.\n\"It's been a long time,\" she finally replied, her voice shakier than she would have liked.\nThey stood there, the two of them, without moving, for what felt like an eternity but in reality lasted only a few seconds.\nOutside, a bus went by, then another; the street resumed its ordinary life, indifferent to what was unfolding inside.\nNo one in the shop could have guessed that this meeting was about to change everything.\nLéa slowly set her cup down on the counter and offered, in an almost steady voice, \"Coffee?\"",
+              "questions": [
+                { "id": "c1_u18_l02_rd01", "type": "multipleChoice", "prompt": "Quelle technique domine la phrase « Les semaines suivantes filèrent sans qu'elle s'en aperçoive vraiment » ?", "options": ["La scène", "Le sommaire", "L'analepse", "Le dialogue"], "answer": "Le sommaire" },
+                { "id": "c1_u18_l02_rd02", "type": "trueFalse", "prompt": "Le symbole *** marque ici une pause descriptive détaillant le décor.", "options": ["True", "False"], "answer": "False" },
+                { "id": "c1_u18_l02_rd03", "type": "multipleChoice", "prompt": "Pourquoi la phrase sur « quelques secondes » illustre-t-elle bien le rythme du récit ?", "options": ["Elle résume plusieurs mois en une ligne", "Elle allonge le temps du texte bien au-delà de la durée réelle des événements", "Elle saute dix ans sans transition", "Elle annonce un événement futur"], "answer": "Elle allonge le temps du texte bien au-delà de la durée réelle des événements" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "c1_u18_l02_wr01", "type": "translate", "prompt": "Translate into French: \"Ten years passed. Nothing in the house had changed.\"", "english": "Ten years passed. Nothing in the house had changed.", "answer": "Dix ans passèrent. Rien, dans la maison, n'avait changé.", "acceptedAnswers": ["Dix ans passerent. Rien dans la maison n'avait changé", "Dix ans passèrent. Rien dans la maison n'avait changé."] },
+            { "id": "c1_u18_l02_wr02", "type": "translate", "prompt": "Translate into French: \"The description slows the narrative right before the danger.\"", "english": "The description slows the narrative right before the danger.", "answer": "La description ralentit le récit juste avant le danger.", "acceptedAnswers": ["La description ralentit le recit juste avant le danger"] },
+            { "id": "c1_u18_l02_wr03", "type": "fillBlank", "prompt": "Complétez avec le verbe au plus-que-parfait : Quand il revint, la ville ___ (changer) de maire.", "answer": "avait changé" }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "c1_u18_l02_pr01", "type": "multipleChoice", "prompt": "Comprimer plusieurs mois en une seule phrase relève…", "options": ["de la scène", "du sommaire", "de la pause descriptive", "du dialogue"], "answer": "du sommaire" },
+            { "id": "c1_u18_l02_pr02", "type": "fillBlank", "prompt": "___ , tout avait déjà été décidé sans elle. (peu après / bientôt / longtemps)", "answer": "Peu après" },
+            { "id": "c1_u18_l02_pr03", "type": "match", "pairs": [ { "french": "l'ellipse", "english": "a skipped stretch of narrated time" }, { "french": "le sommaire", "english": "months or years compressed into a sentence" }, { "french": "la scène", "english": "narrated time matching real time" }, { "french": "l'analepse", "english": "a flashback to an earlier moment" } ] },
+            { "id": "c1_u18_l02_pr04", "type": "trueFalse", "prompt": "Le passé simple sert surtout à décrire un état durable, jamais une action ponctuelle.", "options": ["True", "False"], "answer": "False" },
+            { "id": "c1_u18_l02_pr05", "type": "translate", "prompt": "Translate: \"The plot advances in leaps, never at a steady pace.\"", "english": "The plot advances in leaps, never at a steady pace.", "answer": "L'intrigue avance par bonds, jamais de façon régulière.", "acceptedAnswers": ["L'intrigue avance par bonds, jamais de facon reguliere"] },
+            { "id": "c1_u18_l02_pr06", "type": "arrangeWords", "words": ["l'histoire", "de", "récit", "coïncide", "temps", "le", "du", "avec", "jamais", "ne", "le", "temps"], "answer": "le temps du récit ne coïncide jamais avec le temps de l'histoire", "english": "Narrative time never coincides with story time." }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "c1_u18_l02_qz01", "type": "multipleChoice", "prompt": "Une phrase couvrant à elle seule dix ans de la vie d'un personnage est un exemple de…", "options": ["scène", "sommaire", "pause descriptive", "dialogue"], "answer": "sommaire" },
+            { "id": "c1_u18_l02_qz02", "type": "fillBlank", "prompt": "Il pleuvait depuis le matin. Elle ___ sans parapluie. (sortir, passé simple)", "answer": "sortit" },
+            { "id": "c1_u18_l02_qz03", "type": "trueFalse", "prompt": "Une analepse renvoie le récit vers un moment antérieur à l'action principale.", "options": ["True", "False"], "answer": "True" },
+            { "id": "c1_u18_l02_qz04", "type": "translate", "prompt": "Translate: \"Regular ellipses punctuate the whole second chapter.\"", "english": "Regular ellipses punctuate the whole second chapter.", "answer": "Des ellipses régulières ponctuent tout le second chapitre.", "acceptedAnswers": ["Des ellipses regulieres ponctuent tout le second chapitre"] },
+            { "id": "c1_u18_l02_qz05", "type": "match", "pairs": [ { "french": "la prolepse", "english": "a flash-forward to a later moment" }, { "french": "le blanc narratif", "english": "an unmarked silence in the telling" }, { "french": "étirer", "english": "to stretch a scene out" }, { "french": "condenser", "english": "to compress events into few words" } ] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1_u18_l03",
+      "level": "C1",
+      "unit": 18,
+      "title": "La chute",
+      "description": "Analyse how French stories close: twist endings, open resolutions, and the grammar that signals an ending is coming.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "La chute : le retournement final",
+              "body": "La chute is the very last beat of a story — the sentence or paragraph the whole text has been building towards. A twist chute reverses what the reader believed to be true; it must be surprising yet, on rereading, inevitable, prepared by details planted earlier without being obvious.",
+              "examples": [
+                { "french": "Ce n'est qu'à la dernière ligne que le lecteur comprend que le narrateur est mort depuis le début.", "english": "Only in the last line does the reader understand that the narrator has been dead from the start.", "note": "a classic retrospective twist: it recontextualises everything read before" },
+                { "french": "La lettre qu'elle attendait tant venait, en réalité, d'elle-même.", "english": "The letter she had waited for so long was, in fact, from herself.", "note": "the reversal exploits a detail the reader assumed was settled" },
+                { "french": "Le vieil homme sourit : il savait, depuis le premier jour, ce que personne d'autre ne savait.", "english": "The old man smiled: he had known, from the very first day, what no one else knew.", "note": "the twist redistributes knowledge retroactively between narrator and reader" }
+              ],
+              "tip": "A good twist chute rewards a second reading — check that earlier details, reread with the ending in mind, now make perfect sense."
+            },
+            {
+              "heading": "Le dénouement : la résolution attendue",
+              "body": "Unlike a twist, a dénouement resolves the central tension the way the story has led the reader to expect: conflicts are settled, questions are answered, characters reach the state their arc was moving towards. A satisfying dénouement still needs precision — vague reassurance reads as weak, not peaceful.",
+              "examples": [
+                { "french": "Ils se turent un long moment, puis elle lui tendit la main : tout était pardonné.", "english": "They were silent for a long moment, then she held out her hand: everything was forgiven.", "note": "a clean dénouement, the conflict named earlier is now resolved" },
+                { "french": "Le procès s'acheva comme chacun l'avait prévu, sans surprise ni soulagement particulier.", "english": "The trial ended as everyone had predicted, without particular surprise or relief.", "note": "resolution does not require drama — expected outcomes can still close a story well" },
+                { "french": "Elle reprit son travail le lundi suivant, comme si rien ne s'était passé — mais tout, en elle, avait changé.", "english": "She went back to work the following Monday, as if nothing had happened — but everything in her had changed.", "note": "an internal resolution can coexist with an unchanged external situation" }
+              ],
+              "tip": "Ask what question the story opened with — a strong dénouement answers exactly that question, not a different one."
+            },
+            {
+              "heading": "La fin ouverte et la fin fermée",
+              "body": "A fin fermée closes every thread definitively: the reader leaves with no unanswered question. A fin ouverte deliberately withholds a final answer, leaving the reader to imagine several possible outcomes — a technique that trusts ambiguity more than certainty.",
+              "examples": [
+                { "french": "Elle monta dans le train. On ne saura jamais si elle est revenue.", "english": "She got on the train. We will never know whether she came back.", "note": "a textbook fin ouverte: the last fact deliberately withheld" },
+                { "french": "Le mariage eut lieu en juin, et les deux familles ne se quittèrent plus.", "english": "The wedding took place in June, and the two families never parted again.", "note": "a fin fermée: every remaining thread is explicitly tied off" },
+                { "french": "La porte resta entrouverte derrière lui. Personne ne sut jamais ce qu'il était allé chercher.", "english": "The door stayed ajar behind him. No one ever knew what he had gone to find.", "note": "an open ending built entirely on a single unresolved detail" }
+              ],
+              "tip": "Look for an explicit \"on ne saura jamais\" / \"personne ne sut\" — French often marks an open ending by naming, out loud, the very thing it refuses to reveal."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "la-chute", "french": "la chute", "english": "the ending, the closing turn (of a story)", "partOfSpeech": "noun", "gender": "f", "plural": "les chutes", "pronunciation": "lah SHUET", "example": "La chute doit surprendre sans jamais trahir ce qui précède.", "exampleEnglish": "The ending must surprise without ever betraying what came before.", "level": "C1", "category": "narrative-technique" },
+            { "id": "le-denouement", "french": "le dénouement", "english": "the resolution, the outcome", "partOfSpeech": "noun", "gender": "m", "plural": "les dénouements", "pronunciation": "day-noo-MAHN", "example": "Le dénouement répond exactement à la question posée au début.", "exampleEnglish": "The resolution answers exactly the question raised at the start.", "level": "C1", "category": "narrative-technique" },
+            { "id": "la-resolution", "french": "la résolution", "english": "the resolution (of the central tension)", "partOfSpeech": "noun", "gender": "f", "plural": "les résolutions", "pronunciation": "ray-zoh-lew-SYON", "example": "La résolution du conflit arrive sans grand éclat, presque discrètement.", "exampleEnglish": "The resolution of the conflict arrives without great fanfare, almost quietly.", "level": "C1", "category": "narrative-technique" },
+            { "id": "le-retournement", "french": "le retournement", "english": "the reversal, the twist", "partOfSpeech": "noun", "gender": "m", "plural": "les retournements", "pronunciation": "ruh-toor-nuh-MAHN", "example": "Le retournement final oblige à relire toute la première page.", "exampleEnglish": "The final reversal forces you to reread the whole first page.", "level": "C1", "category": "narrative-technique" },
+            { "id": "le-rebondissement", "french": "le rebondissement", "english": "the twist, the sudden turn of events", "partOfSpeech": "noun", "gender": "m", "plural": "les rebondissements", "pronunciation": "ruh-bon-deess-MAHN", "example": "Un rebondissement inattendu relance l'histoire juste avant la fin.", "exampleEnglish": "An unexpected twist relaunches the story right before the end.", "level": "C1", "category": "narrative-technique" },
+            { "id": "inattendu", "french": "inattendu", "english": "unexpected", "partOfSpeech": "adjective", "pronunciation": "an-nah-tahn-DUE", "example": "La chute est totalement inattendue, et pourtant parfaitement logique.", "exampleEnglish": "The ending is completely unexpected, and yet perfectly logical.", "level": "C1", "category": "narrative-technique" },
+            { "id": "surprenant", "french": "surprenant", "english": "surprising", "partOfSpeech": "adjective", "pronunciation": "sur-pruh-NAHN", "example": "Une fin surprenante ne doit jamais paraître gratuite.", "exampleEnglish": "A surprising ending must never seem gratuitous.", "level": "C1", "category": "narrative-technique" },
+            { "id": "previsible", "french": "prévisible", "english": "predictable", "partOfSpeech": "adjective", "pronunciation": "pray-vee-ZEE-bluh", "example": "Le dénouement, trop prévisible, déçoit plusieurs lecteurs.", "exampleEnglish": "The ending, too predictable, disappoints several readers.", "level": "C1", "category": "narrative-technique" },
+            { "id": "imprevisible", "french": "imprévisible", "english": "unpredictable", "partOfSpeech": "adjective", "pronunciation": "an-pray-vee-ZEE-bluh", "example": "L'auteure préfère les fins imprévisibles, presque déroutantes.", "exampleEnglish": "The author prefers unpredictable, almost disorienting endings.", "level": "C1", "category": "narrative-technique" },
+            { "id": "clore", "french": "clore", "english": "to close, to bring to a close", "partOfSpeech": "verb", "pronunciation": "KLOHR", "example": "Une dernière phrase brève clôt tout le récit.", "exampleEnglish": "One short final sentence closes the whole narrative.", "level": "C1", "category": "narrative-technique" },
+            { "id": "achever", "french": "achever", "english": "to finish, to complete", "partOfSpeech": "verb", "pronunciation": "ah-shuh-VAY", "example": "L'auteur achève son roman sur une phrase volontairement ambiguë.", "exampleEnglish": "The author finishes his novel on a deliberately ambiguous sentence.", "level": "C1", "category": "narrative-technique" },
+            { "id": "boucler", "french": "boucler", "english": "to bring full circle, to loop back", "partOfSpeech": "verb", "pronunciation": "boo-KLAY", "example": "La dernière phrase boucle exactement sur la première.", "exampleEnglish": "The last sentence loops exactly back to the first.", "level": "C1", "category": "narrative-technique" },
+            { "id": "la-boucle-narrative", "french": "la boucle narrative", "english": "the narrative loop (the ending echoing the opening)", "partOfSpeech": "noun", "gender": "f", "plural": "les boucles narratives", "pronunciation": "lah book nah-rah-TEEV", "example": "La boucle narrative referme le roman sur son image d'ouverture.", "exampleEnglish": "The narrative loop closes the novel on its opening image.", "level": "C1", "category": "narrative-technique" },
+            { "id": "l-epilogue", "french": "l'épilogue", "english": "the epilogue", "partOfSpeech": "noun", "gender": "m", "plural": "les épilogues", "pronunciation": "ay-pee-LOG", "example": "L'épilogue nous ramène vingt ans plus tard, dans la même maison.", "exampleEnglish": "The epilogue takes us back twenty years later, in the same house.", "level": "C1", "category": "narrative-technique" },
+            { "id": "la-fin-ouverte", "french": "la fin ouverte", "english": "the open ending", "partOfSpeech": "noun", "gender": "f", "plural": "les fins ouvertes", "pronunciation": "lah fan oo-VERT", "example": "La fin ouverte a partagé les lecteurs en deux camps.", "exampleEnglish": "The open ending split readers into two camps.", "level": "C1", "category": "narrative-technique" },
+            { "id": "la-fin-fermee", "french": "la fin fermée", "english": "the closed ending", "partOfSpeech": "noun", "gender": "f", "plural": "les fins fermées", "pronunciation": "lah fan fehr-MAY", "example": "La fin fermée ne laisse planer aucun doute sur le sort des personnages.", "exampleEnglish": "The closed ending leaves no doubt about the characters' fate.", "level": "C1", "category": "narrative-technique" },
+            { "id": "le-twist", "french": "le twist", "english": "the twist (a sudden narrative reversal)", "partOfSpeech": "noun", "gender": "m", "plural": "les twists", "pronunciation": "luh tweest", "example": "Le twist final repose sur un détail glissé au tout début.", "exampleEnglish": "The final twist rests on a detail slipped in right at the start.", "level": "C1", "category": "narrative-technique" },
+            { "id": "le-mystere", "french": "le mystère", "english": "the mystery", "partOfSpeech": "noun", "gender": "m", "plural": "les mystères", "pronunciation": "luh mee-STEHR", "example": "Le mystère ne se dissipe qu'à la toute dernière page.", "exampleEnglish": "The mystery only clears up on the very last page.", "level": "C1", "category": "narrative-technique" },
+            { "id": "l-enigme", "french": "l'énigme", "english": "the riddle, the enigma", "partOfSpeech": "noun", "gender": "f", "plural": "les énigmes", "pronunciation": "lay-NEEGM", "example": "L'énigme posée au premier chapitre trouve enfin sa réponse.", "exampleEnglish": "The riddle posed in the first chapter finally finds its answer.", "level": "C1", "category": "narrative-technique" },
+            { "id": "elucider", "french": "élucider", "english": "to solve, to clear up (a mystery)", "partOfSpeech": "verb", "pronunciation": "ay-lew-see-DAY", "example": "La chute élucide enfin le mystère de la lettre disparue.", "exampleEnglish": "The ending finally clears up the mystery of the missing letter.", "level": "C1", "category": "narrative-technique" },
+            { "id": "resoudre", "french": "résoudre", "english": "to resolve, to solve", "partOfSpeech": "verb", "pronunciation": "ray-ZOODR", "example": "Le dénouement résout enfin la question posée dès le début.", "exampleEnglish": "The resolution finally resolves the question raised at the very start.", "level": "C1", "category": "narrative-technique" },
+            { "id": "deviner", "french": "deviner", "english": "to guess", "partOfSpeech": "verb", "pronunciation": "duh-vee-NAY", "example": "Le lecteur attentif devine la chute bien avant la dernière page.", "exampleEnglish": "The attentive reader guesses the ending well before the last page.", "level": "C1", "category": "narrative-technique" },
+            { "id": "soupconner", "french": "soupçonner", "english": "to suspect", "partOfSpeech": "verb", "pronunciation": "soop-so-NAY", "example": "On soupçonnait déjà la vérité sans pouvoir la prouver.", "exampleEnglish": "We already suspected the truth without being able to prove it.", "level": "C1", "category": "narrative-technique" },
+            { "id": "l-attente", "french": "l'attente", "english": "the expectation, the anticipation", "partOfSpeech": "noun", "gender": "f", "plural": "les attentes", "pronunciation": "lah-TAHNT", "example": "Toute la chute repose sur une attente longuement construite.", "exampleEnglish": "The whole ending rests on an expectation built up at length.", "level": "C1", "category": "narrative-technique" },
+            { "id": "la-revelation", "french": "la révélation", "english": "the revelation", "partOfSpeech": "noun", "gender": "f", "plural": "les révélations", "pronunciation": "lah ray-vay-lah-SYON", "example": "La révélation finale change le sens de tout ce qui précède.", "exampleEnglish": "The final revelation changes the meaning of everything before it.", "level": "C1", "category": "narrative-technique" },
+            { "id": "reveler", "french": "révéler", "english": "to reveal", "partOfSpeech": "verb", "pronunciation": "ray-vay-LAY", "example": "La dernière page révèle enfin l'identité du narrateur.", "exampleEnglish": "The last page finally reveals the narrator's identity.", "level": "C1", "category": "narrative-technique" },
+            { "id": "la-cle", "french": "la clé", "english": "the key (to a mystery)", "partOfSpeech": "noun", "gender": "f", "plural": "les clés", "pronunciation": "lah KLAY", "example": "La clé de l'énigme tenait dans une phrase presque anodine.", "exampleEnglish": "The key to the riddle lay in an almost insignificant sentence.", "level": "C1", "category": "narrative-technique" },
+            { "id": "conclure", "french": "conclure", "english": "to conclude, to bring to a close", "partOfSpeech": "verb", "pronunciation": "kohn-KLUER", "example": "L'auteur conclut son roman sans jamais tout expliquer.", "exampleEnglish": "The author concludes his novel without ever explaining everything.", "level": "C1", "category": "narrative-technique" },
+            { "id": "la-conclusion", "french": "la conclusion", "english": "the conclusion", "partOfSpeech": "noun", "gender": "f", "plural": "les conclusions", "pronunciation": "lah kohn-kloo-ZYON", "example": "La conclusion laisse volontairement une question sans réponse.", "exampleEnglish": "The conclusion deliberately leaves one question unanswered.", "level": "C1", "category": "narrative-technique" },
+            { "id": "le-lien", "french": "le lien", "english": "the link, the connection", "partOfSpeech": "noun", "gender": "m", "plural": "les liens", "pronunciation": "luh LYAN", "example": "Le lien entre les deux histoires n'apparaît qu'à la toute fin.", "exampleEnglish": "The link between the two stories only appears at the very end.", "level": "C1", "category": "narrative-technique" },
+            { "id": "l-intrigue", "french": "l'intrigue", "english": "the plot", "partOfSpeech": "noun", "gender": "f", "plural": "les intrigues", "pronunciation": "lan-TREEG", "example": "L'intrigue se referme exactement là où elle avait commencé.", "exampleEnglish": "The plot closes exactly where it had begun.", "level": "C1", "category": "narrative-technique" },
+            { "id": "la-fin", "french": "la fin", "english": "the end", "partOfSpeech": "noun", "gender": "f", "plural": "les fins", "pronunciation": "lah FAN", "example": "La fin surprend tout le monde, sauf ceux qui relisent le début.", "exampleEnglish": "The end surprises everyone, except those who reread the beginning.", "level": "C1", "category": "narrative-technique" },
+            { "id": "l-issue", "french": "l'issue", "english": "the outcome", "partOfSpeech": "noun", "gender": "f", "plural": "les issues", "pronunciation": "LEE-sew", "example": "L'issue du récit reste incertaine jusqu'à la dernière ligne.", "exampleEnglish": "The story's outcome stays uncertain until the very last line.", "level": "C1", "category": "narrative-technique" },
+            { "id": "troublant", "french": "troublant", "english": "unsettling, disturbing", "partOfSpeech": "adjective", "pronunciation": "troo-BLAHN", "example": "La chute laisse un souvenir troublant, difficile à oublier.", "exampleEnglish": "The ending leaves an unsettling memory, hard to forget.", "level": "C1", "category": "narrative-technique" },
+            { "id": "ambigu", "french": "ambigu", "english": "ambiguous", "partOfSpeech": "adjective", "pronunciation": "ahn-bee-GU", "example": "La dernière phrase reste volontairement ambiguë.", "exampleEnglish": "The last sentence remains deliberately ambiguous.", "level": "C1", "category": "narrative-technique" },
+            { "id": "laisser-en-suspens", "french": "laisser en suspens", "english": "to leave hanging, to leave unresolved", "partOfSpeech": "expression", "pronunciation": "leh-say ahn sue-SPAHN", "example": "L'auteur préfère laisser en suspens le sort du personnage principal.", "exampleEnglish": "The author prefers to leave the main character's fate hanging.", "level": "C1", "category": "narrative-technique" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Le conditionnel comme futur dans le passé",
+              "body": "To foreshadow an ending well before it happens, French narration uses the conditionnel as a \"future in the past\": from a past vantage point, it announces what will later occur, letting the reader sense the ending's shadow long before the final page.",
+              "examples": [
+                { "french": "Il ne savait pas encore qu'il ne reviendrait jamais dans cette maison.", "english": "He did not yet know that he would never return to that house.", "note": "the conditionnel \"reviendrait\" foreshadows an outcome from inside the past narration" },
+                { "french": "Elle ignorait que cette rencontre déciderait de tout le reste de sa vie.", "english": "She did not know that this meeting would decide the whole rest of her life.", "note": "the same structure sets up the ending's weight far in advance" },
+                { "french": "Personne, ce soir-là, n'aurait pu deviner ce que cette lettre allait provoquer.", "english": "No one, that evening, could have guessed what that letter was about to trigger.", "note": "the conditionnel passé signals a consequence still to come at the time of narration" }
+              ],
+              "tip": "\"Il ne savait pas encore que + conditionnel\" is a near-formulaic marker of foreshadowing — treat it as a direct signpost pointing toward the chute."
+            },
+            {
+              "heading": "Les phrases nominales et la brièveté de la chute",
+              "body": "Many chutes end on a nominal sentence — a phrase without a conjugated verb — or on an unusually short sentence after longer ones. This grammatical compression mimics finality: the story runs out of words at the exact moment it runs out of things left to say.",
+              "examples": [
+                { "french": "Un silence. Puis, plus rien.", "english": "A silence. Then, nothing more.", "note": "two nominal/minimal sentences close the text on pure brevity" },
+                { "french": "Elle sourit. Fin.", "english": "She smiled. The end.", "note": "the shortest possible closing clause after a longer narrative build-up" },
+                { "french": "La porte, enfin, se referma.", "english": "The door, at last, finally closed.", "note": "a single short independent clause, isolated for maximum weight" }
+              ],
+              "tip": "Compare sentence length across the last paragraph — a sudden drop in length almost always marks the chute itself, not just the sentence before it."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "c1_u18_l03_li01", "type": "listenChoose", "french": "Il ne savait pas encore qu'il ne reviendrait jamais dans cette maison.", "options": ["He knew he would never come back.", "He did not yet know he would never return to that house.", "He decided never to return.", "He returned to the house immediately."], "answer": "He did not yet know he would never return to that house." },
+            { "id": "c1_u18_l03_li02", "type": "listenChoose", "french": "La lettre qu'elle attendait tant venait, en réalité, d'elle-même.", "options": ["The letter never arrived.", "The letter came from a stranger.", "The letter she had waited for so long was, in fact, from herself.", "She never received any letter."], "answer": "The letter she had waited for so long was, in fact, from herself." },
+            { "id": "c1_u18_l03_li03", "type": "listenType", "french": "La chute doit surprendre sans jamais trahir ce qui précède.", "answer": "La chute doit surprendre sans jamais trahir ce qui précède.", "acceptedAnswers": ["La chute doit surprendre sans jamais trahir ce qui precede", "la chute doit surprendre sans jamais trahir ce qui precede"] },
+            { "id": "c1_u18_l03_li04", "type": "dictation", "french": "Elle monta dans le train. On ne saura jamais si elle est revenue.", "answer": "Elle monta dans le train. On ne saura jamais si elle est revenue.", "acceptedAnswers": ["Elle monta dans le train. On ne saura jamais si elle est revenue", "elle monta dans le train on ne saura jamais si elle est revenue"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "c1_u18_l03_sp01", "type": "speak", "french": "Cette fin ouverte laisse chacun imaginer sa propre suite.", "english": "This open ending lets everyone imagine their own continuation.", "prompt": "Describe an open-ended story or film you have seen and what you imagine happened next.", "tip": "Pause slightly before \"sa propre suite\" — the pause itself performs the open ending." },
+            { "id": "c1_u18_l03_sp02", "type": "speak", "french": "À mon avis, une chute trop prévisible ruine tout le récit.", "english": "In my opinion, a too-predictable ending ruins the whole story.", "prompt": "Give your opinion: does a predictable ending ruin an otherwise good story?", "tip": "Emphasise \"trop\" — it is the hinge word that carries your judgement." },
+            { "id": "c1_u18_l03_sp03", "type": "speak", "french": "Si j'écrivais la fin, je préférerais boucler l'histoire sur son image d'ouverture.", "english": "If I were writing the ending, I would prefer to close the story on its opening image.", "prompt": "Propose how you would end a story you know well.", "tip": "Practise the conditional \"je préférerais\" so it sounds like a genuine, considered choice." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Le Dernier Client (nouvelle inédite de Sophie Anctil)",
+              "french": "Le magasin allait fermer dans dix minutes lorsque la clochette de la porte retentit une dernière fois.\nBernard leva les yeux sans grand enthousiasme : encore un client, à cette heure-ci.\nUn homme âgé s'avança vers le comptoir, une petite boîte en bois entre les mains.\n« Je voudrais que vous l'ouvriez », dit-il simplement, en posant la boîte devant Bernard.\n« Elle est verrouillée depuis si longtemps que j'en ai oublié la raison. »\nBernard examina la serrure, minuscule et rouillée, avec l'œil d'un homme qui en avait vu des centaines.\n« Ça prendra quelques minutes », annonça-t-il, sortant ses outils avec une précision presque machinale.\nLe vieil homme attendit en silence, les mains croisées, le regard perdu quelque part au-delà du magasin.\nAprès un dernier déclic, le couvercle céda enfin, révélant une pile de lettres jaunies par le temps.\nBernard reconnut, sur l'enveloppe du dessus, une écriture qu'il croyait avoir oubliée depuis des années.\nC'était la sienne.\nLe vieil homme sourit doucement : « Tu ne te souviens vraiment de rien, n'est-ce pas ? »\nBernard resta sans voix, la boîte tremblant légèrement entre ses propres mains.\nDehors, la nuit était tombée, et le magasin, pour la première fois depuis quarante ans, resta ouvert plus longtemps que prévu.",
+              "english": "The shop was closing in ten minutes when the door bell rang one last time.\nBernard looked up without much enthusiasm: another customer, at this hour.\nAn elderly man walked up to the counter, a small wooden box in his hands.\n\"I'd like you to open it,\" he said simply, setting the box down in front of Bernard.\n\"It's been locked for so long that I've forgotten why.\"\nBernard examined the lock, tiny and rusted, with the eye of a man who had seen hundreds of them.\n\"It'll take a few minutes,\" he announced, taking out his tools with an almost mechanical precision.\nThe old man waited in silence, hands crossed, his gaze lost somewhere beyond the shop.\nAfter one final click, the lid finally gave way, revealing a stack of letters yellowed with time.\nBernard recognised, on the top envelope, handwriting he thought he had forgotten years ago.\nIt was his own.\nThe old man smiled gently: \"You really don't remember anything, do you?\"\nBernard stood speechless, the box trembling slightly between his own hands.\nOutside, night had fallen, and the shop, for the first time in forty years, stayed open longer than planned.",
+              "questions": [
+                { "id": "c1_u18_l03_rd01", "type": "multipleChoice", "prompt": "Quel type de chute illustre le mieux ce texte ?", "options": ["Un dénouement calme et attendu", "Un retournement (twist)", "Une fin fermée sans mystère", "Un simple sommaire final"], "answer": "Un retournement (twist)" },
+                { "id": "c1_u18_l03_rd02", "type": "trueFalse", "prompt": "La phrase « C'était la sienne. » est une phrase nominale/brève qui accentue la révélation.", "options": ["True", "False"], "answer": "True" },
+                { "id": "c1_u18_l03_rd03", "type": "multipleChoice", "prompt": "Quel détail, relu après la chute, prend un sens totalement nouveau ?", "options": ["La clochette de la porte", "L'écriture que Bernard croyait avoir oubliée", "Les dix minutes avant la fermeture", "Les outils de Bernard"], "answer": "L'écriture que Bernard croyait avoir oubliée" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "c1_u18_l03_wr01", "type": "translate", "prompt": "Translate into French: \"No one could have guessed what that letter was about to trigger.\"", "english": "No one could have guessed what that letter was about to trigger.", "answer": "Personne n'aurait pu deviner ce que cette lettre allait provoquer.", "acceptedAnswers": ["Personne n'aurait pu deviner ce que cette lettre allait provoquer"] },
+            { "id": "c1_u18_l03_wr02", "type": "translate", "prompt": "Translate into French: \"The ending must surprise without ever betraying what came before.\"", "english": "The ending must surprise without ever betraying what came before.", "answer": "La chute doit surprendre sans jamais trahir ce qui précède.", "acceptedAnswers": ["La chute doit surprendre sans jamais trahir ce qui precede"] },
+            { "id": "c1_u18_l03_wr03", "type": "fillBlank", "prompt": "Il ne savait pas encore qu'il ne ___ (revenir, conditionnel) jamais dans cette maison.", "answer": "reviendrait" }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "c1_u18_l03_pr01", "type": "multipleChoice", "prompt": "Une fin qui répond exactement à la question posée au début du récit est un…", "options": ["twist", "dénouement", "blanc narratif", "sommaire"], "answer": "dénouement" },
+            { "id": "c1_u18_l03_pr02", "type": "fillBlank", "prompt": "Elle monta dans le train. On ne ___ jamais si elle est revenue. (savoir, futur)", "answer": "saura" },
+            { "id": "c1_u18_l03_pr03", "type": "match", "pairs": [ { "french": "la fin ouverte", "english": "an ending that withholds a final answer" }, { "french": "la fin fermée", "english": "an ending that ties off every thread" }, { "french": "le retournement", "english": "a reversal of what the reader believed" }, { "french": "l'épilogue", "english": "a closing section set after the main action" } ] },
+            { "id": "c1_u18_l03_pr04", "type": "trueFalse", "prompt": "Une chute réussie doit toujours paraître totalement imprévisible, même après relecture.", "options": ["True", "False"], "answer": "False" },
+            { "id": "c1_u18_l03_pr05", "type": "translate", "prompt": "Translate: \"The key to the riddle lay in an almost insignificant sentence.\"", "english": "The key to the riddle lay in an almost insignificant sentence.", "answer": "La clé de l'énigme tenait dans une phrase presque anodine.", "acceptedAnswers": ["La cle de l'enigme tenait dans une phrase presque anodine"] },
+            { "id": "c1_u18_l03_pr06", "type": "arrangeWords", "words": ["précède", "jamais", "trahir", "sans", "surprendre", "chute", "ce", "doit", "qui", "la"], "answer": "la chute doit surprendre sans jamais trahir ce qui précède", "english": "The ending must surprise without ever betraying what came before." }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "c1_u18_l03_qz01", "type": "multipleChoice", "prompt": "« C'était la sienne. » — cette phrase nominale et brève est typique de…", "options": ["une pause descriptive", "la chute d'un récit", "un sommaire", "une analepse"], "answer": "la chute d'un récit" },
+            { "id": "c1_u18_l03_qz02", "type": "fillBlank", "prompt": "Un silence. Puis, plus ___. (rien / jamais / tout)", "answer": "rien" },
+            { "id": "c1_u18_l03_qz03", "type": "trueFalse", "prompt": "Une fin ouverte répond clairement à toutes les questions posées par le récit.", "options": ["True", "False"], "answer": "False" },
+            { "id": "c1_u18_l03_qz04", "type": "translate", "prompt": "Translate: \"The final revelation changes the meaning of everything before it.\"", "english": "The final revelation changes the meaning of everything before it.", "answer": "La révélation finale change le sens de tout ce qui précède.", "acceptedAnswers": ["La revelation finale change le sens de tout ce qui precede"] },
+            { "id": "c1_u18_l03_qz05", "type": "match", "pairs": [ { "french": "boucler", "english": "to bring a story full circle" }, { "french": "élucider", "english": "to clear up a mystery" }, { "french": "imprévisible", "english": "unpredictable" }, { "french": "l'issue", "english": "the outcome of a story" } ] }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+workflows:
+  ios-app-store:
+    name: Bonjourney — iOS App Store build
+    max_build_duration: 60
+    instance_type: mac_mini_m2
+    integrations:
+      # Name of the App Store Connect API key you add under Codemagic >
+      # Team settings > Integrations > App Store Connect. Rename this to
+      # match whatever you call it there.
+      app_store_connect: codemagic_app_store_connection
+    environment:
+      ios_signing:
+        distribution_type: app_store
+        bundle_identifier: com.bonjourney.app
+      vars:
+        # TODO: replace with the numeric Apple ID shown in App Store
+        # Connect > App Information, once the app record exists (see the
+        # setup checklist).
+        APP_STORE_APPLE_ID: 0000000000
+      flutter: stable
+      xcode: latest
+      cocoapods: default
+    triggering:
+      events:
+        - push
+      branch_patterns:
+        - pattern: main
+          include: true
+    scripts:
+      - name: Get Flutter packages
+        script: flutter pub get
+      - name: Static analysis
+        script: flutter analyze
+      - name: Run tests
+        script: flutter test
+      - name: Set up code signing
+        script: |
+          keychain initialize
+          app-store-connect fetch-signing-files "$BUNDLE_ID" \
+            --type IOS_APP_STORE \
+            --create
+          keychain add-certificates
+          xcode-project use-profiles
+      - name: Build iOS IPA
+        script: |
+          flutter build ipa --release \
+            --export-options-plist=/Users/builder/export_options.plist
+    artifacts:
+      - build/ios/ipa/*.ipa
+      - /tmp/xcodebuild_logs/*.log
+    publishing:
+      email:
+        recipients:
+          # TODO: replace with your own email address.
+          - you@example.com
+        notify:
+          success: true
+          failure: true
+      app_store_connect:
+        auth: integration
+        # Uploads to TestFlight automatically; leave app-store submission
+        # as a manual step in App Store Connect until you're ready.
+        submit_to_testflight: true
+        submit_to_app_store: false

@@ -1,0 +1,1037 @@
+{
+  "id": "b1_u20",
+  "level": "B1",
+  "unit": 20,
+  "title": "Ecology in Practice",
+  "subtitle": "Sorting waste, getting around gently, and talking about the climate",
+  "icon": "♻️",
+  "lessons": [
+    {
+      "id": "b1_u20_l01",
+      "level": "B1",
+      "unit": 20,
+      "title": "Le tri et le zéro déchet",
+      "description": "Sort your rubbish, cut down on packaging and talk about small daily habits in French.",
+      "estimatedMinutes": 18,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Trier ses déchets",
+              "body": "French households sort their rubbish into several bins, and the colours change from town to town. The verb is trier (to sort), and the noun le tri covers the whole activity. Notice that you sort things dans (into) a bin and that the material usually takes a definite article: le verre, le carton, le plastique.",
+              "examples": [
+                { "french": "Chez nous, on trie le verre, le papier et le plastique.", "english": "At home, we sort glass, paper and plastic." },
+                { "french": "Le carton va dans le bac jaune, mais ça dépend des villes.", "english": "Cardboard goes in the yellow bin, but it depends on the town." },
+                { "french": "Je ne sais jamais où jeter les emballages sales.", "english": "I never know where to throw dirty packaging." },
+                { "french": "Les piles et les ampoules se déposent en magasin.", "english": "Batteries and light bulbs are dropped off in shops." },
+                { "french": "On apporte les gros objets à la déchetterie.", "english": "We take big items to the recycling centre." }
+              ],
+              "tip": "Le tri is the sorting; le recyclage is what happens afterwards at the plant. Saying « je recycle mes bouteilles » is common in speech, but « je trie mes bouteilles » is more precise."
+            },
+            {
+              "heading": "Moins d'emballages, moins de déchets",
+              "body": "The zéro déchet movement is about buying less packaging in the first place. Useful structures are acheter en vrac (to buy loose/unpackaged), une consigne (a deposit you get back), and du réutilisable as opposed to du jetable. French often prefers a noun where English uses a verb: la réduction des déchets, la réparation d'un appareil.",
+              "examples": [
+                { "french": "J'achète les pâtes et le riz en vrac avec mes bocaux.", "english": "I buy pasta and rice loose with my jars." },
+                { "french": "Cette bouteille a une consigne de vingt centimes.", "english": "This bottle has a twenty-cent deposit." },
+                { "french": "J'ai remplacé les sacs jetables par un sac en tissu.", "english": "I replaced disposable bags with a cloth bag." },
+                { "french": "Ma gourde me suit partout depuis deux ans.", "english": "My water bottle has gone everywhere with me for two years." },
+                { "french": "Avant d'acheter du neuf, je regarde d'occasion.", "english": "Before buying new, I look at second-hand." }
+              ],
+              "tip": "Zéro déchet stays invariable as an adjective: une démarche zéro déchet, des courses zéro déchet."
+            },
+            {
+              "heading": "Parler de ses habitudes",
+              "body": "To describe a routine habit, B1 speakers reach for time expressions plus the present tense: depuis (since/for), désormais (from now on), au quotidien (day to day). To say something has changed, use ne… plus (not any more) and commencer à / se mettre à.",
+              "examples": [
+                { "french": "Depuis janvier, je composte mes épluchures.", "english": "Since January, I've been composting my peelings." },
+                { "french": "Je n'achète plus d'eau en bouteille.", "english": "I don't buy bottled water any more." },
+                { "french": "Je me suis mis à réparer mes vêtements au lieu de les jeter.", "english": "I've started mending my clothes instead of throwing them away." },
+                { "french": "Au quotidien, ce sont des petits gestes tout simples.", "english": "Day to day, they are very simple little actions." },
+                { "french": "Ça prend cinq minutes de plus, pas davantage.", "english": "It takes five minutes more, no longer than that." }
+              ],
+              "tip": "Un geste literally means a gesture, but in this context it means a small everyday action: « faire un geste pour la planète »."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "tri", "french": "le tri", "english": "sorting (waste)", "partOfSpeech": "noun", "gender": "m", "plural": "les tris", "pronunciation": "luh tree", "example": "Le tri est obligatoire dans notre immeuble.", "exampleEnglish": "Sorting waste is compulsory in our building.", "level": "B1", "category": "ecology" },
+            { "id": "trier", "french": "trier", "english": "to sort", "partOfSpeech": "verb", "pronunciation": "tree-ay", "example": "Je trie mes déchets tous les soirs.", "exampleEnglish": "I sort my rubbish every evening.", "level": "B1", "category": "ecology" },
+            { "id": "le-dechet", "french": "le déchet", "english": "piece of waste, rubbish", "partOfSpeech": "noun", "gender": "m", "plural": "les déchets", "pronunciation": "luh day-sheh", "example": "Cette famille produit très peu de déchets.", "exampleEnglish": "This family produces very little waste.", "level": "B1", "category": "ecology" },
+            { "id": "la-poubelle", "french": "la poubelle", "english": "bin, rubbish bin", "partOfSpeech": "noun", "gender": "f", "plural": "les poubelles", "pronunciation": "lah poo-bell", "example": "Tu descends la poubelle jaune, s'il te plaît ?", "exampleEnglish": "Could you take down the yellow bin, please?", "level": "B1", "category": "ecology" },
+            { "id": "recyclage", "french": "le recyclage", "english": "recycling", "partOfSpeech": "noun", "gender": "m", "plural": "les recyclages", "pronunciation": "luh ruh-see-klazh", "example": "Le recyclage du verre fonctionne bien en France.", "exampleEnglish": "Glass recycling works well in France.", "level": "B1", "category": "ecology" },
+            { "id": "recycler", "french": "recycler", "english": "to recycle", "partOfSpeech": "verb", "pronunciation": "ruh-see-klay", "example": "On recycle presque tout le carton du bureau.", "exampleEnglish": "We recycle almost all the office cardboard.", "level": "B1", "category": "ecology" },
+            { "id": "l-emballage", "french": "l'emballage", "english": "packaging, wrapping", "partOfSpeech": "noun", "gender": "m", "plural": "les emballages", "pronunciation": "lom-bah-lazh", "example": "Ce biscuit a trois emballages différents.", "exampleEnglish": "This biscuit has three different wrappers.", "level": "B1", "category": "ecology" },
+            { "id": "verre-matiere", "french": "le verre", "english": "glass (material)", "partOfSpeech": "noun", "gender": "m", "plural": "les verres", "pronunciation": "luh vair", "example": "Le verre se recycle à l'infini.", "exampleEnglish": "Glass can be recycled endlessly.", "level": "B1", "category": "materials" },
+            { "id": "le-carton", "french": "le carton", "english": "cardboard, cardboard box", "partOfSpeech": "noun", "gender": "m", "plural": "les cartons", "pronunciation": "luh kar-ton", "example": "Pliez le carton avant de le jeter.", "exampleEnglish": "Flatten the cardboard before throwing it out.", "level": "B1", "category": "materials" },
+            { "id": "plastique", "french": "le plastique", "english": "plastic", "partOfSpeech": "noun", "gender": "m", "plural": "les plastiques", "pronunciation": "luh plas-teek", "example": "J'essaie d'éviter le plastique à usage unique.", "exampleEnglish": "I try to avoid single-use plastic.", "level": "B1", "category": "materials" },
+            { "id": "compost", "french": "le compost", "english": "compost", "partOfSpeech": "noun", "gender": "m", "plural": "les composts", "pronunciation": "luh kom-post", "example": "Il y a un compost partagé dans la cour.", "exampleEnglish": "There is a shared compost bin in the courtyard.", "level": "B1", "category": "ecology" },
+            { "id": "composter", "french": "composter", "english": "to compost", "partOfSpeech": "verb", "pronunciation": "kom-poss-tay", "example": "On composte les épluchures et le marc de café.", "exampleEnglish": "We compost peelings and coffee grounds.", "level": "B1", "category": "ecology" },
+            { "id": "la-dechetterie", "french": "la déchetterie", "english": "recycling centre, waste facility", "partOfSpeech": "noun", "gender": "f", "plural": "les déchetteries", "pronunciation": "lah day-sheh-tree", "example": "La déchetterie ferme à dix-huit heures.", "exampleEnglish": "The recycling centre closes at six p.m.", "level": "B1", "category": "ecology" },
+            { "id": "jeter", "french": "jeter", "english": "to throw away", "partOfSpeech": "verb", "pronunciation": "zhuh-tay", "example": "Ne jetez pas les piles à la poubelle.", "exampleEnglish": "Don't throw batteries in the bin.", "level": "B1", "category": "ecology" },
+            { "id": "gaspillage", "french": "le gaspillage", "english": "waste (of resources)", "partOfSpeech": "noun", "gender": "m", "plural": "les gaspillages", "pronunciation": "luh gas-pee-yazh", "example": "Le gaspillage alimentaire coûte cher aux familles.", "exampleEnglish": "Food waste costs families a lot.", "level": "B1", "category": "ecology" },
+            { "id": "gaspiller", "french": "gaspiller", "english": "to waste", "partOfSpeech": "verb", "pronunciation": "gas-pee-yay", "example": "On gaspille moins depuis qu'on planifie les repas.", "exampleEnglish": "We waste less since we started planning meals.", "level": "B1", "category": "ecology" },
+            { "id": "reduire", "french": "réduire", "english": "to reduce", "partOfSpeech": "verb", "pronunciation": "ray-dweer", "example": "J'ai réduit mes emballages de moitié.", "exampleEnglish": "I've halved my packaging.", "level": "B1", "category": "ecology" },
+            { "id": "reutiliser", "french": "réutiliser", "english": "to reuse", "partOfSpeech": "verb", "pronunciation": "ray-oo-tee-lee-zay", "example": "Je réutilise les bocaux de confiture.", "exampleEnglish": "I reuse jam jars.", "level": "B1", "category": "ecology" },
+            { "id": "reutilisable", "french": "réutilisable", "english": "reusable", "partOfSpeech": "adjective", "pronunciation": "ray-oo-tee-lee-zabl", "example": "Prends plutôt une tasse réutilisable.", "exampleEnglish": "Take a reusable cup instead.", "level": "B1", "category": "ecology" },
+            { "id": "jetable", "french": "jetable", "english": "disposable", "partOfSpeech": "adjective", "pronunciation": "zhuh-tabl", "example": "Les couverts jetables sont interdits ici.", "exampleEnglish": "Disposable cutlery is banned here.", "level": "B1", "category": "ecology" },
+            { "id": "le-vrac", "french": "le vrac", "english": "loose goods, bulk", "partOfSpeech": "noun", "gender": "m", "plural": "les vracs", "pronunciation": "luh vrak", "example": "Le magasin propose du riz en vrac.", "exampleEnglish": "The shop sells loose rice.", "level": "B1", "category": "shopping" },
+            { "id": "la-consigne", "french": "la consigne", "english": "deposit (on a container)", "partOfSpeech": "noun", "gender": "f", "plural": "les consignes", "pronunciation": "lah kon-seenyuh", "example": "Tu récupères la consigne en rapportant la bouteille.", "exampleEnglish": "You get the deposit back by returning the bottle.", "level": "B1", "category": "shopping" },
+            { "id": "le-bocal", "french": "le bocal", "english": "jar", "partOfSpeech": "noun", "gender": "m", "plural": "les bocaux", "pronunciation": "luh bo-kal", "example": "Je remplis mes bocaux au magasin de vrac.", "exampleEnglish": "I fill my jars at the bulk shop.", "level": "B1", "category": "household" },
+            { "id": "gourde", "french": "la gourde", "english": "water bottle, flask", "partOfSpeech": "noun", "gender": "f", "plural": "les gourdes", "pronunciation": "lah goord", "example": "J'emporte ma gourde au bureau.", "exampleEnglish": "I take my water bottle to the office.", "level": "B1", "category": "household" },
+            { "id": "le-sac", "french": "le sac", "english": "bag", "partOfSpeech": "noun", "gender": "m", "plural": "les sacs", "pronunciation": "luh sak", "example": "Je garde un sac en tissu dans mon manteau.", "exampleEnglish": "I keep a cloth bag in my coat.", "level": "B1", "category": "shopping" },
+            { "id": "la-bouteille", "french": "la bouteille", "english": "bottle", "partOfSpeech": "noun", "gender": "f", "plural": "les bouteilles", "pronunciation": "lah boo-tay", "example": "On rapporte les bouteilles vides au supermarché.", "exampleEnglish": "We take the empty bottles back to the supermarket.", "level": "B1", "category": "household" },
+            { "id": "l-etiquette", "french": "l'étiquette", "english": "label", "partOfSpeech": "noun", "gender": "f", "plural": "les étiquettes", "pronunciation": "lay-tee-ket", "example": "L'étiquette indique si l'emballage se recycle.", "exampleEnglish": "The label says whether the packaging can be recycled.", "level": "B1", "category": "shopping" },
+            { "id": "les-restes", "french": "les restes", "english": "leftovers", "partOfSpeech": "noun", "gender": "m", "plural": "les restes", "pronunciation": "lay rest", "example": "Je mange les restes du dîner au déjeuner.", "exampleEnglish": "I eat the dinner leftovers at lunch.", "level": "B1", "category": "food" },
+            { "id": "congeler", "french": "congeler", "english": "to freeze (food)", "partOfSpeech": "verb", "pronunciation": "kon-zhuh-lay", "example": "Je congèle le pain qui reste.", "exampleEnglish": "I freeze the leftover bread.", "level": "B1", "category": "food" },
+            { "id": "reparer", "french": "réparer", "english": "to repair, to mend", "partOfSpeech": "verb", "pronunciation": "ray-pa-ray", "example": "Un voisin a réparé mon grille-pain.", "exampleEnglish": "A neighbour repaired my toaster.", "level": "B1", "category": "household" },
+            { "id": "la-reparation", "french": "la réparation", "english": "repair", "partOfSpeech": "noun", "gender": "f", "plural": "les réparations", "pronunciation": "lah ray-pa-ra-syon", "example": "La réparation coûte moins cher qu'un appareil neuf.", "exampleEnglish": "The repair costs less than a new appliance.", "level": "B1", "category": "household" },
+            { "id": "l-atelier", "french": "l'atelier", "english": "workshop", "partOfSpeech": "noun", "gender": "m", "plural": "les ateliers", "pronunciation": "la-tuh-lyay", "example": "Il y a un atelier de réparation le samedi matin.", "exampleEnglish": "There's a repair workshop on Saturday mornings.", "level": "B1", "category": "community" },
+            { "id": "d-occasion", "french": "d'occasion", "english": "second-hand", "partOfSpeech": "expression", "pronunciation": "do-ka-zyon", "example": "J'ai acheté ce vélo d'occasion.", "exampleEnglish": "I bought this bike second-hand.", "level": "B1", "category": "shopping" },
+            { "id": "geste", "french": "le geste", "english": "action, gesture", "partOfSpeech": "noun", "gender": "m", "plural": "les gestes", "pronunciation": "luh zhest", "example": "Ce sont des petits gestes faciles à prendre.", "exampleEnglish": "These are small actions that are easy to adopt.", "level": "B1", "category": "ecology" },
+            { "id": "habitude", "french": "l'habitude", "english": "habit", "partOfSpeech": "noun", "gender": "f", "plural": "les habitudes", "pronunciation": "la-bee-tood", "example": "Changer ses habitudes prend quelques semaines.", "exampleEnglish": "Changing your habits takes a few weeks.", "level": "B1", "category": "daily life" },
+            { "id": "le-quotidien", "french": "le quotidien", "english": "daily life", "partOfSpeech": "noun", "gender": "m", "plural": "les quotidiens", "pronunciation": "luh ko-tee-dyan", "example": "Au quotidien, je fais surtout attention aux courses.", "exampleEnglish": "Day to day, I mainly pay attention to my shopping.", "level": "B1", "category": "daily life" },
+            { "id": "ecologique", "french": "écologique", "english": "ecological, eco-friendly", "partOfSpeech": "adjective", "pronunciation": "ay-ko-lo-zheek", "example": "Cette lessive est présentée comme plus écologique.", "exampleEnglish": "This detergent is presented as more eco-friendly.", "level": "B1", "category": "ecology" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Le pronom en : replacing de + noun",
+              "body": "En replaces a quantity or a phrase introduced by de. It is essential when you talk about waste, because you constantly repeat des déchets, de l'emballage, du plastique. En goes before the verb, and any number or quantity word stays at the end of the sentence.",
+              "examples": [
+                { "french": "— Tu produis beaucoup de déchets ? — J'en produis très peu.", "english": "— Do you produce a lot of waste? — I produce very little of it." },
+                { "french": "Des bocaux ? J'en ai une dizaine.", "english": "Jars? I have about ten of them." },
+                { "french": "Du plastique, on en trouve partout.", "english": "Plastic — you find it everywhere." },
+                { "french": "Elle en parle souvent à ses collègues.", "english": "She often talks about it to her colleagues." },
+                { "french": "N'en jette pas, ça se répare !", "english": "Don't throw it away, it can be repaired!" }
+              ],
+              "tip": "In the passé composé, en sits before the auxiliary: « J'en ai acheté trois. » The past participle does not agree with en."
+            },
+            {
+              "heading": "Le passif pronominal : ça se recycle",
+              "body": "Instead of a passive with être, French very often uses a reflexive verb to say what is generally done with something. Ça se recycle means it can be recycled / it is recycled. This structure is everywhere on packaging and recycling signs, and it lets you avoid naming who does the action.",
+              "examples": [
+                { "french": "Le verre se recycle indéfiniment.", "english": "Glass is recycled indefinitely." },
+                { "french": "Les piles se déposent en magasin.", "english": "Batteries are dropped off in shops." },
+                { "french": "Ce type de sac ne se trie pas.", "english": "This type of bag is not sorted for recycling." },
+                { "french": "Le compost se fait aussi en appartement.", "english": "Composting can also be done in a flat." },
+                { "french": "Ça se vend très bien d'occasion.", "english": "It sells very well second-hand." }
+              ],
+              "tip": "Compare: « on recycle le verre » (informal, spoken) and « le verre est recyclé » (written, formal). The reflexive version sits comfortably in between."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "b1_u20_l01_li01",
+              "type": "listenChoose",
+              "french": "Le carton se met dans le bac jaune, avec les emballages.",
+              "options": ["Cardboard goes in the yellow bin, with the packaging.", "Cardboard goes in the green bin, with the glass.", "Cardboard is taken to the recycling centre.", "Cardboard is composted with the peelings."],
+              "answer": "Cardboard goes in the yellow bin, with the packaging."
+            },
+            {
+              "id": "b1_u20_l01_li02",
+              "type": "listenChoose",
+              "french": "Depuis six mois, je fais mes courses en vrac avec mes bocaux.",
+              "options": ["For six months, I've been shopping loose with my jars.", "For six weeks, I've been buying jars at the market.", "In six months, I'll do my shopping differently.", "Six times a month, I go to the recycling centre."],
+              "answer": "For six months, I've been shopping loose with my jars."
+            },
+            {
+              "id": "b1_u20_l01_li03",
+              "type": "listenType",
+              "french": "Je ne jette plus les restes du dîner.",
+              "answer": "Je ne jette plus les restes du dîner.",
+              "acceptedAnswers": ["Je ne jette plus les restes du diner", "je ne jette plus les restes du dîner", "Je ne jette plus les restes du dîner"]
+            },
+            {
+              "id": "b1_u20_l01_li04",
+              "type": "dictation",
+              "french": "Cette bouteille a une consigne : tu la rapportes et on te rend vingt centimes.",
+              "answer": "Cette bouteille a une consigne : tu la rapportes et on te rend vingt centimes.",
+              "acceptedAnswers": ["Cette bouteille a une consigne tu la rapportes et on te rend vingt centimes", "cette bouteille a une consigne : tu la rapportes et on te rend vingt centimes"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "b1_u20_l01_sp01",
+              "type": "speak",
+              "french": "Chez moi, on trie le verre, le papier et les emballages.",
+              "english": "At my place, we sort glass, paper and packaging.",
+              "prompt": "Say how sorting works in your home.",
+              "tip": "In « on trie », the -e of trie is silent: say tree, not tree-uh."
+            },
+            {
+              "id": "b1_u20_l01_sp02",
+              "type": "speak",
+              "french": "J'essaie de réduire mes emballages, mais ce n'est pas toujours facile.",
+              "english": "I try to cut down my packaging, but it isn't always easy.",
+              "prompt": "Admit that a good habit is sometimes hard.",
+              "tip": "Réduire has two syllables: ray-DWEER. Keep the u and i glued together in one glide."
+            },
+            {
+              "id": "b1_u20_l01_sp03",
+              "type": "speak",
+              "french": "Avant de jeter un appareil, je regarde s'il se répare.",
+              "english": "Before throwing away a device, I check whether it can be repaired.",
+              "prompt": "Explain your reflex before binning something.",
+              "tip": "Link avant de jeter smoothly; the t of avant stays silent here."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Le carnet de Nadia",
+              "french": "Il y a un an, ma poubelle débordait chaque semaine et je n'y faisais pas attention.\nUn soir, mon fils m'a demandé pourquoi on jetait autant, et je n'ai pas su quoi répondre.\nJ'ai donc essayé de changer une seule chose par mois, sans me compliquer la vie.\nLe premier mois, j'ai acheté deux sacs en tissu que je laisse dans l'entrée.\nLe deuxième, j'ai remplacé les bouteilles d'eau par une gourde et une carafe.\nEnsuite, j'ai commencé à faire les pâtes, le riz et les lentilles en vrac.\nAu début, j'oubliais mes bocaux ; maintenant, ils sont toujours dans le coffre.\nLe changement le plus utile, c'est la liste de courses : je gaspille beaucoup moins.\nJe congèle aussi le pain qui reste, et je cuisine les restes le lundi soir.\nJe ne suis pas devenue zéro déchet, loin de là, et je ne culpabilise pas.\nSelon l'association de quartier, une famille économiserait ainsi plusieurs centaines d'euros par an ;\nje n'ai pas vérifié ce chiffre, mais ma facture de courses a clairement baissé.\nEt franchement, sortir la poubelle une fois par semaine au lieu de trois, c'est agréable.",
+              "english": "A year ago, my bin was overflowing every week and I paid no attention to it.\nOne evening, my son asked me why we threw away so much, and I didn't know what to answer.\nSo I tried to change just one thing a month, without making life complicated.\nThe first month, I bought two cloth bags that I leave by the front door.\nThe second, I replaced bottled water with a flask and a jug.\nThen I started buying pasta, rice and lentils loose.\nAt first I would forget my jars; now they're always in the boot of the car.\nThe most useful change is the shopping list: I waste far less.\nI also freeze leftover bread, and I cook the leftovers on Monday evening.\nI haven't become zero waste, far from it, and I don't feel guilty.\nAccording to the neighbourhood association, a family would save several hundred euros a year this way;\nI haven't checked that figure, but my grocery bill has clearly gone down.\nAnd honestly, taking the bin out once a week instead of three times is nice.",
+              "questions": [
+                {
+                  "id": "b1_u20_l01_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Qu'est-ce qui a poussé Nadia à changer ?",
+                  "options": ["Une question de son fils", "Une amende de la mairie", "Un reportage à la télévision", "Un déménagement"],
+                  "answer": "Une question de son fils"
+                },
+                {
+                  "id": "b1_u20_l01_rd02",
+                  "type": "multipleChoice",
+                  "prompt": "Quel changement lui a permis de gaspiller le moins ?",
+                  "options": ["La liste de courses", "Les sacs en tissu", "Les bocaux dans le coffre", "La carafe d'eau"],
+                  "answer": "La liste de courses"
+                },
+                {
+                  "id": "b1_u20_l01_rd03",
+                  "type": "trueFalse",
+                  "prompt": "Nadia dit qu'elle a vérifié elle-même les économies annoncées par l'association.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "b1_u20_l01_wr01",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "I sort the glass, but I never know where to throw the packaging.",
+              "answer": "Je trie le verre, mais je ne sais jamais où jeter les emballages.",
+              "acceptedAnswers": ["Je trie le verre mais je ne sais jamais ou jeter les emballages", "Je trie le verre, mais je ne sais jamais où jeter les emballages"]
+            },
+            {
+              "id": "b1_u20_l01_wr02",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "Since September, I have been buying rice loose with my jars.",
+              "answer": "Depuis septembre, j'achète du riz en vrac avec mes bocaux.",
+              "acceptedAnswers": ["Depuis septembre j'achete du riz en vrac avec mes bocaux", "Depuis septembre, j'achète du riz en vrac avec mes bocaux"]
+            },
+            {
+              "id": "b1_u20_l01_wr03",
+              "type": "arrangeWords",
+              "words": ["se", "appareil", "encore", "répare", "cet"],
+              "answer": "Cet appareil se répare encore",
+              "english": "This device can still be repaired"
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "b1_u20_l01_pr01",
+              "type": "fillBlank",
+              "prompt": "Des bocaux ? J'___ ai une dizaine à la maison.",
+              "answer": "en"
+            },
+            {
+              "id": "b1_u20_l01_pr02",
+              "type": "multipleChoice",
+              "prompt": "Choisissez la phrase correcte.",
+              "options": ["Le verre se recycle indéfiniment.", "Le verre se recycler indéfiniment.", "Le verre est se recycle indéfiniment.", "Le verre se recyclent indéfiniment."],
+              "answer": "Le verre se recycle indéfiniment."
+            },
+            {
+              "id": "b1_u20_l01_pr03",
+              "type": "match",
+              "pairs": [
+                { "french": "le vrac", "english": "loose goods" },
+                { "french": "la consigne", "english": "deposit on a container" },
+                { "french": "la déchetterie", "english": "recycling centre" },
+                { "french": "jetable", "english": "disposable" }
+              ]
+            },
+            {
+              "id": "b1_u20_l01_pr04",
+              "type": "fillBlank",
+              "prompt": "Je ne ___ plus les restes : je les congèle.",
+              "answer": "jette"
+            },
+            {
+              "id": "b1_u20_l01_pr05",
+              "type": "arrangeWords",
+              "words": ["emballages", "moitié", "réduit", "de", "j'ai", "mes"],
+              "answer": "J'ai réduit mes emballages de moitié",
+              "english": "I have halved my packaging"
+            },
+            {
+              "id": "b1_u20_l01_pr06",
+              "type": "multipleChoice",
+              "prompt": "Un magasin « en vrac » vend surtout des produits…",
+              "options": ["sans emballage individuel", "uniquement congelés", "toujours d'occasion", "réservés aux restaurants"],
+              "answer": "sans emballage individuel"
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "b1_u20_l01_qz01",
+              "type": "multipleChoice",
+              "prompt": "« Le tri » désigne…",
+              "options": ["le fait de séparer ses déchets", "le transport des déchets", "le prix d'une poubelle", "un type d'emballage"],
+              "answer": "le fait de séparer ses déchets"
+            },
+            {
+              "id": "b1_u20_l01_qz02",
+              "type": "fillBlank",
+              "prompt": "Du plastique, on ___ trouve vraiment partout.",
+              "answer": "en"
+            },
+            {
+              "id": "b1_u20_l01_qz03",
+              "type": "multipleChoice",
+              "prompt": "Quel mot est le contraire de « jetable » ?",
+              "options": ["réutilisable", "recyclable", "économe", "écologique"],
+              "answer": "réutilisable"
+            },
+            {
+              "id": "b1_u20_l01_qz04",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "I bought this coat second-hand.",
+              "answer": "J'ai acheté ce manteau d'occasion.",
+              "acceptedAnswers": ["J'ai achete ce manteau d'occasion", "J'ai acheté ce manteau d'occasion"]
+            },
+            {
+              "id": "b1_u20_l01_qz05",
+              "type": "trueFalse",
+              "prompt": "« Une consigne » sur une bouteille signifie qu'on récupère de l'argent en la rapportant.",
+              "options": ["True", "False"],
+              "answer": "True"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1_u20_l02",
+      "level": "B1",
+      "unit": 20,
+      "title": "Les transports doux",
+      "description": "Talk about cycling, car-sharing and public transport, and compare your options.",
+      "estimatedMinutes": 17,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Dire comment on se déplace",
+              "body": "For means of transport, French uses en for enclosed vehicles and à for things you sit on or use with your body: en bus, en train, en voiture, but à vélo, à pied, à trottinette. The everyday verb is se déplacer (to get around); prendre works for a specific vehicle.",
+              "examples": [
+                { "french": "Je me déplace surtout à vélo dans le centre.", "english": "I mostly get around by bike in the centre." },
+                { "french": "Elle prend le tramway jusqu'à la gare.", "english": "She takes the tram as far as the station." },
+                { "french": "On y va à pied, c'est à dix minutes.", "english": "Let's walk there, it's ten minutes away." },
+                { "french": "Le week-end, je prends la voiture pour les grosses courses.", "english": "At the weekend, I take the car for the big shop." },
+                { "french": "En trottinette, je mets un quart d'heure.", "english": "On a scooter, it takes me a quarter of an hour." }
+              ],
+              "tip": "Transports doux (soft mobility) covers walking, cycling and anything without an engine; mobilité douce is the term you see on town-hall posters."
+            },
+            {
+              "heading": "Le trajet quotidien",
+              "body": "Un trajet is a journey from A to B; le trajet domicile-travail is the commute. Use mettre + duration for how long it takes you, and il y a / il faut for general facts. Frequency comes from expressions like deux fois par semaine.",
+              "examples": [
+                { "french": "Je mets vingt minutes pour aller au bureau.", "english": "It takes me twenty minutes to get to the office." },
+                { "french": "Il faut compter une heure aux heures de pointe.", "english": "You have to allow an hour at rush hour." },
+                { "french": "Mon abonnement coûte quarante euros par mois.", "english": "My travel pass costs forty euros a month." },
+                { "french": "Il y a un bus toutes les dix minutes.", "english": "There's a bus every ten minutes." },
+                { "french": "Je fais du covoiturage deux fois par semaine.", "english": "I car-share twice a week." }
+              ],
+              "tip": "Careful: « je mets vingt minutes » (I take twenty minutes) uses mettre, not prendre. Prendre would mean taking the actual vehicle."
+            },
+            {
+              "heading": "Comparer les options",
+              "body": "Comparing is the heart of this lesson. Use plus / moins / aussi + adjective + que, and the irregular forms meilleur (better, adjective) and mieux (better, adverb). For nouns, use plus de / moins de + noun + que.",
+              "examples": [
+                { "french": "Le vélo est plus rapide que la voiture aux heures de pointe.", "english": "The bike is faster than the car at rush hour." },
+                { "french": "Le train est moins souple que la voiture, mais plus reposant.", "english": "The train is less flexible than the car, but more restful." },
+                { "french": "Le covoiturage revient moins cher que le train.", "english": "Car-sharing works out cheaper than the train." },
+                { "french": "C'est la meilleure solution pour nous.", "english": "It's the best solution for us." },
+                { "french": "Je dors mieux depuis que je vais au travail à pied.", "english": "I sleep better since I started walking to work." }
+              ],
+              "tip": "Revenir à / revenir cher is a very natural way to talk about final cost: « ça me revient à cinquante euros par mois »."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "le-velo", "french": "le vélo", "english": "bicycle", "partOfSpeech": "noun", "gender": "m", "plural": "les vélos", "pronunciation": "luh vay-lo", "example": "Mon vélo est garé devant l'immeuble.", "exampleEnglish": "My bike is parked in front of the building.", "level": "B1", "category": "transport" },
+            { "id": "covoiturage", "french": "le covoiturage", "english": "car-sharing, carpooling", "partOfSpeech": "noun", "gender": "m", "plural": "les covoiturages", "pronunciation": "luh ko-vwa-tu-razh", "example": "Le covoiturage me coûte dix euros par trajet.", "exampleEnglish": "Carpooling costs me ten euros per journey.", "level": "B1", "category": "transport" },
+            { "id": "transports-en-commun", "french": "les transports en commun", "english": "public transport", "partOfSpeech": "noun", "gender": "m", "plural": "les transports en commun", "pronunciation": "lay trans-por on ko-mun", "example": "Les transports en commun sont gratuits le dimanche ici.", "exampleEnglish": "Public transport is free on Sundays here.", "level": "B1", "category": "transport" },
+            { "id": "le-bus", "french": "le bus", "english": "bus", "partOfSpeech": "noun", "gender": "m", "plural": "les bus", "pronunciation": "luh boos", "example": "Le bus passe toutes les douze minutes.", "exampleEnglish": "The bus comes every twelve minutes.", "level": "B1", "category": "transport" },
+            { "id": "le-tramway", "french": "le tramway", "english": "tram", "partOfSpeech": "noun", "gender": "m", "plural": "les tramways", "pronunciation": "luh tram-way", "example": "Le tramway dessert tout le quartier nord.", "exampleEnglish": "The tram serves the whole northern district.", "level": "B1", "category": "transport" },
+            { "id": "le-metro", "french": "le métro", "english": "underground, metro", "partOfSpeech": "noun", "gender": "m", "plural": "les métros", "pronunciation": "luh may-tro", "example": "Le métro est bondé à huit heures.", "exampleEnglish": "The metro is packed at eight o'clock.", "level": "B1", "category": "transport" },
+            { "id": "le-train", "french": "le train", "english": "train", "partOfSpeech": "noun", "gender": "m", "plural": "les trains", "pronunciation": "luh tran", "example": "Je prends le train de sept heures dix.", "exampleEnglish": "I take the seven-ten train.", "level": "B1", "category": "transport" },
+            { "id": "la-voiture", "french": "la voiture", "english": "car", "partOfSpeech": "noun", "gender": "f", "plural": "les voitures", "pronunciation": "lah vwa-tur", "example": "On garde la voiture pour les week-ends.", "exampleEnglish": "We keep the car for weekends.", "level": "B1", "category": "transport" },
+            { "id": "trottinette", "french": "la trottinette", "english": "scooter", "partOfSpeech": "noun", "gender": "f", "plural": "les trottinettes", "pronunciation": "lah tro-tee-net", "example": "Il va au lycée en trottinette.", "exampleEnglish": "He goes to school by scooter.", "level": "B1", "category": "transport" },
+            { "id": "trajet", "french": "le trajet", "english": "journey, trip", "partOfSpeech": "noun", "gender": "m", "plural": "les trajets", "pronunciation": "luh tra-zheh", "example": "Le trajet dure quarante minutes.", "exampleEnglish": "The journey lasts forty minutes.", "level": "B1", "category": "transport" },
+            { "id": "se-deplacer", "french": "se déplacer", "english": "to get around, to travel", "partOfSpeech": "verb", "pronunciation": "suh day-pla-say", "example": "Je me déplace rarement en voiture.", "exampleEnglish": "I rarely get around by car.", "level": "B1", "category": "transport" },
+            { "id": "la-piste-cyclable", "french": "la piste cyclable", "english": "cycle path", "partOfSpeech": "noun", "gender": "f", "plural": "les pistes cyclables", "pronunciation": "lah peest see-klabl", "example": "Une nouvelle piste cyclable relie les deux villages.", "exampleEnglish": "A new cycle path links the two villages.", "level": "B1", "category": "transport" },
+            { "id": "le-pieton", "french": "le piéton", "english": "pedestrian", "partOfSpeech": "noun", "gender": "m", "plural": "les piétons", "pronunciation": "luh pyay-ton", "example": "Cette rue est réservée aux piétons le samedi.", "exampleEnglish": "This street is pedestrian-only on Saturdays.", "level": "B1", "category": "transport" },
+            { "id": "le-casque", "french": "le casque", "english": "helmet", "partOfSpeech": "noun", "gender": "m", "plural": "les casques", "pronunciation": "luh kask", "example": "Mets ton casque avant de partir.", "exampleEnglish": "Put your helmet on before you leave.", "level": "B1", "category": "transport" },
+            { "id": "l-abonnement", "french": "l'abonnement", "english": "subscription, travel pass", "partOfSpeech": "noun", "gender": "m", "plural": "les abonnements", "pronunciation": "la-bon-mon", "example": "Mon abonnement est remboursé à moitié par l'employeur.", "exampleEnglish": "Half of my travel pass is reimbursed by my employer.", "level": "B1", "category": "transport" },
+            { "id": "le-billet", "french": "le billet", "english": "ticket", "partOfSpeech": "noun", "gender": "m", "plural": "les billets", "pronunciation": "luh bee-yeh", "example": "J'ai pris un billet aller-retour.", "exampleEnglish": "I bought a return ticket.", "level": "B1", "category": "transport" },
+            { "id": "gare", "french": "la gare", "english": "station", "partOfSpeech": "noun", "gender": "f", "plural": "les gares", "pronunciation": "lah gar", "example": "La gare est à cinq minutes à pied.", "exampleEnglish": "The station is five minutes away on foot.", "level": "B1", "category": "transport" },
+            { "id": "l-arret", "french": "l'arrêt", "english": "stop (bus, tram)", "partOfSpeech": "noun", "gender": "m", "plural": "les arrêts", "pronunciation": "la-reh", "example": "Descends au prochain arrêt.", "exampleEnglish": "Get off at the next stop.", "level": "B1", "category": "transport" },
+            { "id": "le-retard", "french": "le retard", "english": "delay", "partOfSpeech": "noun", "gender": "m", "plural": "les retards", "pronunciation": "luh ruh-tar", "example": "Le train a vingt minutes de retard.", "exampleEnglish": "The train is twenty minutes late.", "level": "B1", "category": "transport" },
+            { "id": "l-embouteillage", "french": "l'embouteillage", "english": "traffic jam", "partOfSpeech": "noun", "gender": "m", "plural": "les embouteillages", "pronunciation": "lom-boo-tay-yazh", "example": "J'ai passé une heure dans les embouteillages.", "exampleEnglish": "I spent an hour in traffic jams.", "level": "B1", "category": "transport" },
+            { "id": "la-circulation", "french": "la circulation", "english": "traffic", "partOfSpeech": "noun", "gender": "f", "plural": "les circulations", "pronunciation": "lah seer-koo-la-syon", "example": "La circulation est dense après dix-sept heures.", "exampleEnglish": "Traffic is heavy after five p.m.", "level": "B1", "category": "transport" },
+            { "id": "l-heure-de-pointe", "french": "l'heure de pointe", "english": "rush hour", "partOfSpeech": "noun", "gender": "f", "plural": "les heures de pointe", "pronunciation": "leur duh pwant", "example": "Aux heures de pointe, le vélo va plus vite.", "exampleEnglish": "At rush hour, the bike is faster.", "level": "B1", "category": "transport" },
+            { "id": "rouler", "french": "rouler", "english": "to drive along, to ride", "partOfSpeech": "verb", "pronunciation": "roo-lay", "example": "On roule doucement dans la zone piétonne.", "exampleEnglish": "We ride slowly in the pedestrian zone.", "level": "B1", "category": "transport" },
+            { "id": "conduire", "french": "conduire", "english": "to drive", "partOfSpeech": "verb", "pronunciation": "kon-dweer", "example": "Je conduis seulement le week-end.", "exampleEnglish": "I only drive at weekends.", "level": "B1", "category": "transport" },
+            { "id": "marcher", "french": "marcher", "english": "to walk", "partOfSpeech": "verb", "pronunciation": "mar-shay", "example": "Je marche vingt minutes chaque matin.", "exampleEnglish": "I walk twenty minutes every morning.", "level": "B1", "category": "transport" },
+            { "id": "l-essence", "french": "l'essence", "english": "petrol", "partOfSpeech": "noun", "gender": "f", "plural": "les essences", "pronunciation": "lay-sonss", "example": "L'essence a encore augmenté cette semaine.", "exampleEnglish": "Petrol went up again this week.", "level": "B1", "category": "transport" },
+            { "id": "electrique", "french": "électrique", "english": "electric", "partOfSpeech": "adjective", "pronunciation": "ay-lek-treek", "example": "Un vélo électrique aide dans les côtes.", "exampleEnglish": "An electric bike helps on hills.", "level": "B1", "category": "transport" },
+            { "id": "partager", "french": "partager", "english": "to share", "partOfSpeech": "verb", "pronunciation": "par-ta-zhay", "example": "On partage les frais d'essence.", "exampleEnglish": "We share the petrol costs.", "level": "B1", "category": "transport" },
+            { "id": "les-frais", "french": "les frais", "english": "costs, expenses", "partOfSpeech": "noun", "gender": "m", "plural": "les frais", "pronunciation": "lay freh", "example": "Les frais sont partagés entre quatre personnes.", "exampleEnglish": "The costs are split between four people.", "level": "B1", "category": "money" },
+            { "id": "couter", "french": "coûter", "english": "to cost", "partOfSpeech": "verb", "pronunciation": "koo-tay", "example": "Ça coûte moins cher que le train.", "exampleEnglish": "It costs less than the train.", "level": "B1", "category": "money" },
+            { "id": "economiser", "french": "économiser", "english": "to save (money, energy)", "partOfSpeech": "verb", "pronunciation": "ay-ko-no-mee-zay", "example": "J'économise soixante euros par mois.", "exampleEnglish": "I save sixty euros a month.", "level": "B1", "category": "money" },
+            { "id": "pratique", "french": "pratique", "english": "practical, convenient", "partOfSpeech": "adjective", "pronunciation": "pra-teek", "example": "Le métro est pratique mais fatigant.", "exampleEnglish": "The metro is convenient but tiring.", "level": "B1", "category": "opinion" },
+            { "id": "rapide", "french": "rapide", "english": "fast", "partOfSpeech": "adjective", "pronunciation": "ra-peed", "example": "Le vélo est plus rapide sur trois kilomètres.", "exampleEnglish": "The bike is faster over three kilometres.", "level": "B1", "category": "opinion" },
+            { "id": "souple", "french": "souple", "english": "flexible", "partOfSpeech": "adjective", "pronunciation": "soopl", "example": "Les horaires du covoiturage sont moins souples.", "exampleEnglish": "Carpooling times are less flexible.", "level": "B1", "category": "opinion" },
+            { "id": "mieux", "french": "mieux", "english": "better (adverb)", "partOfSpeech": "adverb", "pronunciation": "myuh", "example": "Je dors mieux depuis que je marche le matin.", "exampleEnglish": "I sleep better since I started walking in the morning.", "level": "B1", "category": "comparison" },
+            { "id": "meilleur", "french": "meilleur", "english": "better, best (adjective)", "partOfSpeech": "adjective", "pronunciation": "may-yeur", "example": "C'est la meilleure option pour nous.", "exampleEnglish": "It's the best option for us.", "level": "B1", "category": "comparison" },
+            { "id": "la-banlieue", "french": "la banlieue", "english": "suburbs", "partOfSpeech": "noun", "gender": "f", "plural": "les banlieues", "pronunciation": "lah bon-lyuh", "example": "En banlieue, la voiture reste souvent nécessaire.", "exampleEnglish": "In the suburbs, a car is often still necessary.", "level": "B1", "category": "city" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Comparatif et superlatif",
+              "body": "Build comparisons with plus / moins / aussi + adjective + que. For quantities of a noun, use plus de / moins de / autant de + noun + que. The superlative adds the definite article: le plus rapide, la moins chère. Two forms are irregular: bon becomes meilleur, and bien becomes mieux.",
+              "examples": [
+                { "french": "Le tramway est plus régulier que le bus.", "english": "The tram is more regular than the bus." },
+                { "french": "Je fais moins de kilomètres qu'avant.", "english": "I do fewer kilometres than before." },
+                { "french": "C'est le trajet le moins cher de la ville.", "english": "It's the cheapest journey in the city." },
+                { "french": "Ce vélo est meilleur que l'ancien.", "english": "This bike is better than the old one." },
+                { "french": "Elle s'organise mieux que moi le matin.", "english": "She organises herself better than I do in the morning." }
+              ],
+              "tip": "After que, use a stressed pronoun: que moi, que lui, que nous — never que je."
+            },
+            {
+              "heading": "Depuis, pendant, il y a",
+              "body": "These three time markers are constantly confused. Depuis + present tense says how long something has been going on and is still true. Pendant gives a finished duration, usually with the passé composé. Il y a means ago and points to a moment in the past.",
+              "examples": [
+                { "french": "Je prends le bus depuis trois mois.", "english": "I've been taking the bus for three months." },
+                { "french": "J'ai fait du covoiturage pendant deux ans.", "english": "I car-shared for two years." },
+                { "french": "J'ai vendu ma voiture il y a un an.", "english": "I sold my car a year ago." },
+                { "french": "Depuis qu'il y a une piste cyclable, je roule tous les jours.", "english": "Since there's been a cycle path, I ride every day." },
+                { "french": "Pendant les travaux, le tramway ne circule pas.", "english": "During the works, the tram isn't running." }
+              ],
+              "tip": "Depuis que introduces a clause with a verb; depuis alone is followed by a duration or a date."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "b1_u20_l02_li01",
+              "type": "listenChoose",
+              "french": "Aux heures de pointe, le vélo est plus rapide que la voiture.",
+              "options": ["At rush hour, the bike is faster than the car.", "At rush hour, the car is faster than the bike.", "At rush hour, the tram is the fastest.", "At rush hour, walking is quicker than cycling."],
+              "answer": "At rush hour, the bike is faster than the car."
+            },
+            {
+              "id": "b1_u20_l02_li02",
+              "type": "listenChoose",
+              "french": "Mon abonnement coûte quarante-cinq euros, mais l'entreprise en rembourse la moitié.",
+              "options": ["My pass costs forty-five euros, but the company refunds half of it.", "My pass costs fifty-four euros and the company pays it all.", "My pass costs forty-five euros a week.", "The company refuses to pay for my pass."],
+              "answer": "My pass costs forty-five euros, but the company refunds half of it."
+            },
+            {
+              "id": "b1_u20_l02_li03",
+              "type": "listenType",
+              "french": "Je me déplace à vélo depuis deux ans.",
+              "answer": "Je me déplace à vélo depuis deux ans.",
+              "acceptedAnswers": ["Je me deplace a velo depuis deux ans", "je me déplace à vélo depuis deux ans"]
+            },
+            {
+              "id": "b1_u20_l02_li04",
+              "type": "dictation",
+              "french": "Le train a vingt minutes de retard, donc je vais prendre le tramway.",
+              "answer": "Le train a vingt minutes de retard, donc je vais prendre le tramway.",
+              "acceptedAnswers": ["Le train a vingt minutes de retard donc je vais prendre le tramway", "le train a vingt minutes de retard, donc je vais prendre le tramway"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "b1_u20_l02_sp01",
+              "type": "speak",
+              "french": "Je mets vingt minutes à vélo, contre trente-cinq en voiture.",
+              "english": "It takes me twenty minutes by bike, compared with thirty-five by car.",
+              "prompt": "Compare two ways of doing your commute.",
+              "tip": "Contre here means compared with; say it clearly as kontr, without stressing it."
+            },
+            {
+              "id": "b1_u20_l02_sp02",
+              "type": "speak",
+              "french": "Le covoiturage revient moins cher, mais les horaires sont moins souples.",
+              "english": "Car-sharing works out cheaper, but the times are less flexible.",
+              "prompt": "Give one advantage and one drawback of an option.",
+              "tip": "Keep moins nasal (mwan) and don't pronounce the final s of moins before cher."
+            },
+            {
+              "id": "b1_u20_l02_sp03",
+              "type": "speak",
+              "french": "Chez nous, en banlieue, la voiture reste malheureusement nécessaire.",
+              "english": "Where we live, in the suburbs, the car is unfortunately still necessary.",
+              "prompt": "Explain a limit on soft mobility where you live.",
+              "tip": "Malheureusement is five syllables: ma-leu-reuz-uh-mon. Slow down on it."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Trois collègues, trois trajets",
+              "french": "À la pause de midi, Karim, Léa et Bruno comparent leurs trajets du matin.\nKarim habite à trois kilomètres et vient à vélo, sauf quand il pleut vraiment fort.\n« Vingt minutes, dit-il, et je ne cherche jamais de place de parking. »\nLéa vient de la banlieue sud : elle prend le train, puis le tramway jusqu'au bureau.\nSon abonnement lui coûte quarante-cinq euros, dont la moitié est remboursée par l'entreprise.\n« C'est reposant, je lis pendant quarante minutes, mais les retards m'énervent. »\nBruno, lui, fait du covoiturage avec deux voisins depuis la rentrée.\nIls partagent les frais d'essence, ce qui lui revient moins cher que le train.\nEn revanche, il doit partir à sept heures précises, sinon les autres l'attendent.\n« Le vrai problème, ajoute-t-il, c'est que ma commune n'a presque pas de bus. »\nD'après une étude citée par la mairie, la moitié des trajets en ville feraient moins de trois kilomètres ;\nKarim trouve ce chiffre étonnant, Léa pense qu'il dépend beaucoup des quartiers.\nTous les trois sont d'accord sur un point : aucune solution ne marche pour tout le monde.",
+              "english": "At the lunch break, Karim, Léa and Bruno compare their morning journeys.\nKarim lives three kilometres away and comes by bike, except when it's really pouring.\n\"Twenty minutes,\" he says, \"and I never look for a parking space.\"\nLéa comes from the southern suburbs: she takes the train, then the tram to the office.\nHer pass costs her forty-five euros, half of which is reimbursed by the company.\n\"It's restful, I read for forty minutes, but the delays annoy me.\"\nBruno has been car-sharing with two neighbours since September.\nThey share the petrol costs, which works out cheaper for him than the train.\nOn the other hand, he has to leave at seven sharp, otherwise the others wait for him.\n\"The real problem,\" he adds, \"is that my town has almost no buses.\"\nAccording to a study quoted by the town hall, half of city journeys are said to be under three kilometres;\nKarim finds that figure surprising, Léa thinks it depends a lot on the area.\nAll three agree on one point: no single solution works for everybody.",
+              "questions": [
+                {
+                  "id": "b1_u20_l02_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Pourquoi Bruno doit-il partir à sept heures précises ?",
+                  "options": ["Parce que ses covoitureurs l'attendent", "Parce que le train part à cette heure-là", "Parce que le parking ferme", "Parce que son abonnement l'exige"],
+                  "answer": "Parce que ses covoitureurs l'attendent"
+                },
+                {
+                  "id": "b1_u20_l02_rd02",
+                  "type": "multipleChoice",
+                  "prompt": "Quel avantage Léa trouve-t-elle à son trajet ?",
+                  "options": ["Elle peut lire pendant le trajet", "Elle arrive toujours à l'heure", "Elle ne paie rien du tout", "Elle fait de l'exercice"],
+                  "answer": "Elle peut lire pendant le trajet"
+                },
+                {
+                  "id": "b1_u20_l02_rd03",
+                  "type": "trueFalse",
+                  "prompt": "Le chiffre sur les trajets de moins de trois kilomètres est présenté comme une donnée citée, pas comme une certitude.",
+                  "options": ["True", "False"],
+                  "answer": "True"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "b1_u20_l02_wr01",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "I have been getting around by bike for two years.",
+              "answer": "Je me déplace à vélo depuis deux ans.",
+              "acceptedAnswers": ["Je me deplace a velo depuis deux ans", "Je me déplace à vélo depuis deux ans"]
+            },
+            {
+              "id": "b1_u20_l02_wr02",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "The tram is more regular than the bus, but slower.",
+              "answer": "Le tramway est plus régulier que le bus, mais plus lent.",
+              "acceptedAnswers": ["Le tramway est plus regulier que le bus mais plus lent", "Le tramway est plus régulier que le bus, mais plus lent"]
+            },
+            {
+              "id": "b1_u20_l02_wr03",
+              "type": "arrangeWords",
+              "words": ["frais", "les", "partageons", "d'essence", "nous"],
+              "answer": "Nous partageons les frais d'essence",
+              "english": "We share the petrol costs"
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "b1_u20_l02_pr01",
+              "type": "fillBlank",
+              "prompt": "Je vais au bureau ___ vélo tous les matins.",
+              "answer": "à"
+            },
+            {
+              "id": "b1_u20_l02_pr02",
+              "type": "multipleChoice",
+              "prompt": "Complétez : « Ce vélo électrique est ___ que l'ancien. »",
+              "options": ["meilleur", "mieux", "plus bon", "le meilleur"],
+              "answer": "meilleur"
+            },
+            {
+              "id": "b1_u20_l02_pr03",
+              "type": "match",
+              "pairs": [
+                { "french": "l'heure de pointe", "english": "rush hour" },
+                { "french": "l'embouteillage", "english": "traffic jam" },
+                { "french": "l'abonnement", "english": "travel pass" },
+                { "french": "la piste cyclable", "english": "cycle path" }
+              ]
+            },
+            {
+              "id": "b1_u20_l02_pr04",
+              "type": "fillBlank",
+              "prompt": "J'ai vendu ma voiture ___ y a un an.",
+              "answer": "il"
+            },
+            {
+              "id": "b1_u20_l02_pr05",
+              "type": "arrangeWords",
+              "words": ["que", "cher", "revient", "le", "train", "moins", "covoiturage", "le"],
+              "answer": "Le covoiturage revient moins cher que le train",
+              "english": "Car-sharing works out cheaper than the train"
+            },
+            {
+              "id": "b1_u20_l02_pr06",
+              "type": "multipleChoice",
+              "prompt": "Quelle phrase exprime une durée terminée ?",
+              "options": ["J'ai fait du covoiturage pendant deux ans.", "Je fais du covoiturage depuis deux ans.", "Je ferai du covoiturage dans deux ans.", "Je fais du covoiturage tous les deux jours."],
+              "answer": "J'ai fait du covoiturage pendant deux ans."
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "b1_u20_l02_qz01",
+              "type": "multipleChoice",
+              "prompt": "« Les transports doux » désignent surtout…",
+              "options": ["la marche, le vélo et les mobilités sans moteur", "les voitures de luxe", "les vols intérieurs", "les camions de livraison"],
+              "answer": "la marche, le vélo et les mobilités sans moteur"
+            },
+            {
+              "id": "b1_u20_l02_qz02",
+              "type": "fillBlank",
+              "prompt": "Je ___ vingt minutes pour aller au travail.",
+              "answer": "mets"
+            },
+            {
+              "id": "b1_u20_l02_qz03",
+              "type": "multipleChoice",
+              "prompt": "Choisissez la forme correcte.",
+              "options": ["Elle roule mieux que moi.", "Elle roule meilleur que moi.", "Elle roule plus bien que moi.", "Elle roule mieux que je."],
+              "answer": "Elle roule mieux que moi."
+            },
+            {
+              "id": "b1_u20_l02_qz04",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "The train is twenty minutes late.",
+              "answer": "Le train a vingt minutes de retard.",
+              "acceptedAnswers": ["Le train a vingt minutes de retard", "le train a vingt minutes de retard"]
+            },
+            {
+              "id": "b1_u20_l02_qz05",
+              "type": "trueFalse",
+              "prompt": "On dit « en vélo » pour parler d'un déplacement à bicyclette en français standard.",
+              "options": ["True", "False"],
+              "answer": "False"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1_u20_l03",
+      "level": "B1",
+      "unit": 20,
+      "title": "Le climat",
+      "description": "Describe concrete effects of a changing climate and link causes to consequences in French.",
+      "estimatedMinutes": 18,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Le vocabulaire de base",
+              "body": "Le climat is the long-term pattern; le temps is today's weather. The usual phrase in the press is le réchauffement climatique or le changement climatique. Gases are des gaz à effet de serre, and what a person or a product releases is une émission de CO2.",
+              "examples": [
+                { "french": "Ne confonds pas le temps qu'il fait et le climat.", "english": "Don't confuse the weather and the climate." },
+                { "french": "On parle beaucoup du réchauffement climatique à la radio.", "english": "People talk a lot about global warming on the radio." },
+                { "french": "Les gaz à effet de serre retiennent la chaleur.", "english": "Greenhouse gases trap heat." },
+                { "french": "Mon empreinte carbone dépend surtout de mes trajets.", "english": "My carbon footprint depends mainly on my journeys." },
+                { "french": "Les émissions ont baissé cette année-là.", "english": "Emissions fell that year." }
+              ],
+              "tip": "Un climat can also describe an atmosphere between people: « un climat tendu au bureau »."
+            },
+            {
+              "heading": "Des effets concrets",
+              "body": "At B1 you don't need policy vocabulary — you need the concrete words that appear in a weather bulletin or a conversation: la canicule, la sécheresse, l'inondation, la tempête. To say something is becoming more frequent, use de plus en plus + adjective or the verb se multiplier.",
+              "examples": [
+                { "french": "Les canicules sont de plus en plus fréquentes dans la région.", "english": "Heatwaves are more and more frequent in the region." },
+                { "french": "La sécheresse a abîmé une partie de la récolte.", "english": "The drought damaged part of the harvest." },
+                { "french": "Après l'orage, la route a été inondée.", "english": "After the storm, the road was flooded." },
+                { "french": "Les glaciers alpins fondent plus vite qu'avant.", "english": "Alpine glaciers are melting faster than before." },
+                { "french": "L'hiver dernier a été particulièrement doux.", "english": "Last winter was particularly mild." }
+              ],
+              "tip": "Weather bulletins use la vigilance orange / rouge for official alerts — a useful phrase to recognise while travelling."
+            },
+            {
+              "heading": "Attribuer ce qu'on dit",
+              "body": "When you report a figure or a prediction you didn't check yourself, French makes that clear with selon, d'après, or the conditional tense. This keeps you honest and sounds educated. Compare a plain statement with an attributed one.",
+              "examples": [
+                { "french": "Selon les scientifiques, les étés seront plus chauds.", "english": "According to scientists, summers will be hotter." },
+                { "french": "D'après cette étude, le niveau de la mer monterait de trente centimètres.", "english": "According to this study, sea level would rise by thirty centimetres." },
+                { "french": "Les chercheurs estiment que la tendance va continuer.", "english": "Researchers estimate that the trend will continue." },
+                { "french": "Il paraît que la récolte a baissé de moitié.", "english": "Apparently the harvest fell by half." },
+                { "french": "Je ne sais pas si ce chiffre est fiable.", "english": "I don't know whether that figure is reliable." }
+              ],
+              "tip": "The conditional used this way is called le conditionnel journalistique: it signals unverified information, not politeness."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "climat", "french": "le climat", "english": "climate", "partOfSpeech": "noun", "gender": "m", "plural": "les climats", "pronunciation": "luh klee-mah", "example": "Le climat de la région devient plus sec.", "exampleEnglish": "The region's climate is becoming drier.", "level": "B1", "category": "climate" },
+            { "id": "rechauffement-climatique", "french": "le réchauffement climatique", "english": "global warming", "partOfSpeech": "noun", "gender": "m", "plural": "les réchauffements climatiques", "pronunciation": "luh ray-shohf-mon klee-ma-teek", "example": "Le réchauffement climatique revient souvent dans les journaux.", "exampleEnglish": "Global warming comes up often in the papers.", "level": "B1", "category": "climate" },
+            { "id": "climatique", "french": "climatique", "english": "climate (adjective)", "partOfSpeech": "adjective", "pronunciation": "klee-ma-teek", "example": "Le changement climatique touche déjà l'agriculture.", "exampleEnglish": "Climate change already affects farming.", "level": "B1", "category": "climate" },
+            { "id": "effet-de-serre", "french": "l'effet de serre", "english": "the greenhouse effect", "partOfSpeech": "noun", "gender": "m", "plural": "les effets de serre", "pronunciation": "lay-feh duh sair", "example": "L'effet de serre est un phénomène naturel amplifié par l'activité humaine.", "exampleEnglish": "The greenhouse effect is a natural phenomenon amplified by human activity.", "level": "B1", "category": "climate" },
+            { "id": "le-gaz", "french": "le gaz", "english": "gas", "partOfSpeech": "noun", "gender": "m", "plural": "les gaz", "pronunciation": "luh gaz", "example": "Ce gaz reste longtemps dans l'atmosphère.", "exampleEnglish": "This gas stays in the atmosphere for a long time.", "level": "B1", "category": "climate" },
+            { "id": "empreinte-carbone", "french": "l'empreinte carbone", "english": "carbon footprint", "partOfSpeech": "noun", "gender": "f", "plural": "les empreintes carbone", "pronunciation": "lom-prant kar-bon", "example": "J'ai calculé mon empreinte carbone en ligne.", "exampleEnglish": "I calculated my carbon footprint online.", "level": "B1", "category": "climate" },
+            { "id": "l-emission", "french": "l'émission", "english": "emission", "partOfSpeech": "noun", "gender": "f", "plural": "les émissions", "pronunciation": "lay-mee-syon", "example": "Les émissions du secteur ont légèrement baissé.", "exampleEnglish": "The sector's emissions fell slightly.", "level": "B1", "category": "climate" },
+            { "id": "pollution", "french": "la pollution", "english": "pollution", "partOfSpeech": "noun", "gender": "f", "plural": "les pollutions", "pronunciation": "lah po-lu-syon", "example": "La pollution de l'air augmente en hiver.", "exampleEnglish": "Air pollution increases in winter.", "level": "B1", "category": "climate" },
+            { "id": "polluer", "french": "polluer", "english": "to pollute", "partOfSpeech": "verb", "pronunciation": "po-lu-ay", "example": "Cette usine pollue moins qu'il y a dix ans.", "exampleEnglish": "This factory pollutes less than ten years ago.", "level": "B1", "category": "climate" },
+            { "id": "l-energie", "french": "l'énergie", "english": "energy", "partOfSpeech": "noun", "gender": "f", "plural": "les énergies", "pronunciation": "lay-nair-zhee", "example": "L'énergie la moins chère est celle qu'on ne consomme pas.", "exampleEnglish": "The cheapest energy is the energy you don't use.", "level": "B1", "category": "climate" },
+            { "id": "renouvelable", "french": "renouvelable", "english": "renewable", "partOfSpeech": "adjective", "pronunciation": "ruh-noov-labl", "example": "La part des énergies renouvelables a augmenté.", "exampleEnglish": "The share of renewable energy has increased.", "level": "B1", "category": "climate" },
+            { "id": "canicule", "french": "la canicule", "english": "heatwave", "partOfSpeech": "noun", "gender": "f", "plural": "les canicules", "pronunciation": "lah ka-nee-kool", "example": "Pendant la canicule, on ferme les volets la journée.", "exampleEnglish": "During the heatwave, we close the shutters during the day.", "level": "B1", "category": "climate" },
+            { "id": "secheresse", "french": "la sécheresse", "english": "drought", "partOfSpeech": "noun", "gender": "f", "plural": "les sécheresses", "pronunciation": "lah say-shress", "example": "La sécheresse a vidé le lac cet été.", "exampleEnglish": "The drought emptied the lake this summer.", "level": "B1", "category": "climate" },
+            { "id": "inondation", "french": "l'inondation", "english": "flood", "partOfSpeech": "noun", "gender": "f", "plural": "les inondations", "pronunciation": "lee-non-da-syon", "example": "Les inondations ont coupé la départementale.", "exampleEnglish": "The floods cut off the local road.", "level": "B1", "category": "climate" },
+            { "id": "la-tempete", "french": "la tempête", "english": "storm", "partOfSpeech": "noun", "gender": "f", "plural": "les tempêtes", "pronunciation": "lah tom-pet", "example": "La tempête a arraché plusieurs arbres.", "exampleEnglish": "The storm tore down several trees.", "level": "B1", "category": "climate" },
+            { "id": "la-chaleur", "french": "la chaleur", "english": "heat", "partOfSpeech": "noun", "gender": "f", "plural": "les chaleurs", "pronunciation": "lah sha-leur", "example": "La chaleur est difficile à supporter en ville.", "exampleEnglish": "The heat is hard to bear in the city.", "level": "B1", "category": "climate" },
+            { "id": "la-temperature", "french": "la température", "english": "temperature", "partOfSpeech": "noun", "gender": "f", "plural": "les températures", "pronunciation": "lah tom-pay-ra-tur", "example": "Les températures dépassent trente-cinq degrés.", "exampleEnglish": "Temperatures are going above thirty-five degrees.", "level": "B1", "category": "climate" },
+            { "id": "le-niveau-de-la-mer", "french": "le niveau de la mer", "english": "sea level", "partOfSpeech": "noun", "gender": "m", "plural": "les niveaux de la mer", "pronunciation": "luh nee-voh duh lah mair", "example": "Le niveau de la mer monte lentement mais régulièrement.", "exampleEnglish": "Sea level is rising slowly but steadily.", "level": "B1", "category": "climate" },
+            { "id": "le-glacier", "french": "le glacier", "english": "glacier", "partOfSpeech": "noun", "gender": "m", "plural": "les glaciers", "pronunciation": "luh gla-syay", "example": "Ce glacier a beaucoup reculé en trente ans.", "exampleEnglish": "This glacier has retreated a lot in thirty years.", "level": "B1", "category": "climate" },
+            { "id": "fondre", "french": "fondre", "english": "to melt", "partOfSpeech": "verb", "pronunciation": "fondr", "example": "La neige fond plus tôt au printemps.", "exampleEnglish": "The snow melts earlier in spring.", "level": "B1", "category": "climate" },
+            { "id": "espece", "french": "l'espèce", "english": "species", "partOfSpeech": "noun", "gender": "f", "plural": "les espèces", "pronunciation": "less-pess", "example": "Certaines espèces d'oiseaux arrivent plus tôt.", "exampleEnglish": "Some bird species arrive earlier.", "level": "B1", "category": "nature" },
+            { "id": "l-agriculteur", "french": "l'agriculteur", "english": "farmer", "partOfSpeech": "noun", "gender": "m", "plural": "les agriculteurs", "pronunciation": "la-gree-kul-teur", "example": "Les agriculteurs changent de variétés de blé.", "exampleEnglish": "Farmers are changing wheat varieties.", "level": "B1", "category": "nature" },
+            { "id": "la-recolte", "french": "la récolte", "english": "harvest, crop", "partOfSpeech": "noun", "gender": "f", "plural": "les récoltes", "pronunciation": "lah ray-kolt", "example": "La récolte a été mauvaise à cause de la grêle.", "exampleEnglish": "The harvest was poor because of the hail.", "level": "B1", "category": "nature" },
+            { "id": "planete", "french": "la planète", "english": "planet", "partOfSpeech": "noun", "gender": "f", "plural": "les planètes", "pronunciation": "lah pla-net", "example": "Un petit geste pour la planète, ça compte aussi.", "exampleEnglish": "A small action for the planet counts too.", "level": "B1", "category": "nature" },
+            { "id": "la-cause", "french": "la cause", "english": "cause", "partOfSpeech": "noun", "gender": "f", "plural": "les causes", "pronunciation": "lah kohz", "example": "Les causes sont multiples et liées entre elles.", "exampleEnglish": "The causes are multiple and linked together.", "level": "B1", "category": "reasoning" },
+            { "id": "consequence", "french": "la conséquence", "english": "consequence", "partOfSpeech": "noun", "gender": "f", "plural": "les conséquences", "pronunciation": "lah kon-say-konss", "example": "La première conséquence est visible sur les rivières.", "exampleEnglish": "The first consequence is visible on the rivers.", "level": "B1", "category": "reasoning" },
+            { "id": "provoquer", "french": "provoquer", "english": "to cause, to bring about", "partOfSpeech": "verb", "pronunciation": "pro-vo-kay", "example": "La chaleur provoque des orages violents.", "exampleEnglish": "The heat causes violent storms.", "level": "B1", "category": "reasoning" },
+            { "id": "entrainer-consequence", "french": "entraîner", "english": "to lead to, to bring about", "partOfSpeech": "verb", "pronunciation": "on-treh-nay", "example": "La sécheresse entraîne des restrictions d'eau.", "exampleEnglish": "The drought leads to water restrictions.", "level": "B1", "category": "reasoning" },
+            { "id": "a-cause-de", "french": "à cause de", "english": "because of (negative)", "partOfSpeech": "expression", "pronunciation": "ah kohz duh", "example": "Le match est annulé à cause de la tempête.", "exampleEnglish": "The match is cancelled because of the storm.", "level": "B1", "category": "reasoning" },
+            { "id": "grace-a", "french": "grâce à", "english": "thanks to", "partOfSpeech": "expression", "pronunciation": "grass ah", "example": "Grâce à l'isolation, la maison reste fraîche.", "exampleEnglish": "Thanks to the insulation, the house stays cool.", "level": "B1", "category": "reasoning" },
+            { "id": "par-consequent", "french": "par conséquent", "english": "consequently", "partOfSpeech": "expression", "pronunciation": "par kon-say-kon", "example": "Il a moins plu ; par conséquent, la rivière est basse.", "exampleEnglish": "It rained less; consequently, the river is low.", "level": "B1", "category": "reasoning" },
+            { "id": "augmenter", "french": "augmenter", "english": "to increase", "partOfSpeech": "verb", "pronunciation": "og-mon-tay", "example": "Le nombre de jours très chauds augmente.", "exampleEnglish": "The number of very hot days is increasing.", "level": "B1", "category": "reasoning" },
+            { "id": "diminuer", "french": "diminuer", "english": "to decrease", "partOfSpeech": "verb", "pronunciation": "dee-mee-nu-ay", "example": "Les jours de gel diminuent depuis trente ans.", "exampleEnglish": "Frost days have been decreasing for thirty years.", "level": "B1", "category": "reasoning" },
+            { "id": "le-chercheur", "french": "le chercheur", "english": "researcher", "partOfSpeech": "noun", "gender": "m", "plural": "les chercheurs", "pronunciation": "luh shair-sheur", "example": "Les chercheurs suivent ce glacier depuis 1970.", "exampleEnglish": "Researchers have been monitoring this glacier since 1970.", "level": "B1", "category": "science" },
+            { "id": "l-etude", "french": "l'étude", "english": "study", "partOfSpeech": "noun", "gender": "f", "plural": "les études", "pronunciation": "lay-tud", "example": "Cette étude porte sur vingt communes.", "exampleEnglish": "This study covers twenty towns.", "level": "B1", "category": "science" },
+            { "id": "selon", "french": "selon", "english": "according to", "partOfSpeech": "expression", "pronunciation": "suh-lon", "example": "Selon Météo-France, l'été sera plus sec.", "exampleEnglish": "According to Météo-France, the summer will be drier.", "level": "B1", "category": "science" },
+            { "id": "s-adapter", "french": "s'adapter", "english": "to adapt", "partOfSpeech": "verb", "pronunciation": "sa-dap-tay", "example": "La ville s'adapte en plantant des arbres.", "exampleEnglish": "The city is adapting by planting trees.", "level": "B1", "category": "climate" },
+            { "id": "durable", "french": "durable", "english": "sustainable, lasting", "partOfSpeech": "adjective", "pronunciation": "du-rabl", "example": "Ils cherchent une solution durable, pas un bricolage.", "exampleEnglish": "They're looking for a lasting solution, not a quick fix.", "level": "B1", "category": "climate" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Exprimer la cause et la conséquence",
+              "body": "French separates cause markers from consequence markers. For cause: parce que + clause, à cause de + noun (negative), grâce à + noun (positive), en raison de + noun (neutral, formal). For consequence: donc, par conséquent, c'est pourquoi, alors. Remember that à cause de and grâce à are followed by a noun, never by a full clause.",
+              "examples": [
+                { "french": "La rivière est basse à cause de la sécheresse.", "english": "The river is low because of the drought." },
+                { "french": "Grâce aux arbres, la place reste supportable en été.", "english": "Thanks to the trees, the square stays bearable in summer." },
+                { "french": "En raison de la canicule, l'école ferme plus tôt.", "english": "Because of the heatwave, the school closes earlier." },
+                { "french": "Il a moins plu, donc la récolte est plus faible.", "english": "It rained less, so the harvest is smaller." },
+                { "french": "Les nuits restent chaudes ; c'est pourquoi on dort mal.", "english": "Nights stay hot; that's why people sleep badly." }
+              ],
+              "tip": "Careful with parce que and car: both mean because, but car is slightly more written and never starts a sentence."
+            },
+            {
+              "heading": "Le conditionnel pour l'information non vérifiée",
+              "body": "Journalists use the conditional to report something they cannot guarantee: le niveau monterait de trente centimètres. You can use it the same way when you repeat a figure you read somewhere. Form it from the future stem plus the imparfait endings: monter → il monterait, être → ce serait, avoir → il y aurait.",
+              "examples": [
+                { "french": "Selon cette étude, la région perdrait deux semaines de neige.", "english": "According to this study, the region would lose two weeks of snow." },
+                { "french": "Il y aurait davantage d'orages en automne.", "english": "There would apparently be more storms in autumn." },
+                { "french": "Ce serait la troisième année sèche de suite.", "english": "It would be the third dry year in a row." },
+                { "french": "D'après le maire, les travaux coûteraient un million.", "english": "According to the mayor, the works would cost a million." },
+                { "french": "Les récoltes baisseraient dans plusieurs départements.", "english": "Harvests would apparently fall in several départements." }
+              ],
+              "tip": "Pair the conditional with selon or d'après for maximum clarity: your listener then knows exactly whose claim it is."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "b1_u20_l03_li01",
+              "type": "listenChoose",
+              "french": "La sécheresse a entraîné des restrictions d'eau dans tout le département.",
+              "options": ["The drought led to water restrictions across the whole département.", "The floods led to road closures across the département.", "The heatwave led to school closures in the town.", "The storm caused power cuts in the village."],
+              "answer": "The drought led to water restrictions across the whole département."
+            },
+            {
+              "id": "b1_u20_l03_li02",
+              "type": "listenChoose",
+              "french": "Selon les chercheurs, ce glacier aurait perdu un tiers de sa surface.",
+              "options": ["According to researchers, this glacier has reportedly lost a third of its surface.", "Researchers have proved the glacier lost a third of its height.", "According to researchers, the glacier gained a third of its surface.", "Researchers will measure the glacier in a third of the region."],
+              "answer": "According to researchers, this glacier has reportedly lost a third of its surface."
+            },
+            {
+              "id": "b1_u20_l03_li03",
+              "type": "listenType",
+              "french": "Les canicules sont de plus en plus fréquentes.",
+              "answer": "Les canicules sont de plus en plus fréquentes.",
+              "acceptedAnswers": ["Les canicules sont de plus en plus frequentes", "les canicules sont de plus en plus fréquentes"]
+            },
+            {
+              "id": "b1_u20_l03_li04",
+              "type": "dictation",
+              "french": "Il a moins plu cette année, donc la récolte sera plus faible.",
+              "answer": "Il a moins plu cette année, donc la récolte sera plus faible.",
+              "acceptedAnswers": ["Il a moins plu cette annee donc la recolte sera plus faible", "il a moins plu cette année, donc la récolte sera plus faible"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "b1_u20_l03_sp01",
+              "type": "speak",
+              "french": "Chez nous, les étés sont plus secs qu'il y a vingt ans.",
+              "english": "Where I live, summers are drier than twenty years ago.",
+              "prompt": "Describe a change you have noticed locally.",
+              "tip": "Secs ends in a hard k sound: say sek, and link it lightly to the following word."
+            },
+            {
+              "id": "b1_u20_l03_sp02",
+              "type": "speak",
+              "french": "Selon Météo-France, les vagues de chaleur seraient plus longues.",
+              "english": "According to Météo-France, heatwaves would be longer.",
+              "prompt": "Report a forecast without claiming it as your own.",
+              "tip": "Seraient sounds like suh-reh — one syllable for the ending, no d sound."
+            },
+            {
+              "id": "b1_u20_l03_sp03",
+              "type": "speak",
+              "french": "La ville plante des arbres pour rafraîchir les rues.",
+              "english": "The city is planting trees to cool the streets down.",
+              "prompt": "Name one concrete thing your town does to adapt.",
+              "tip": "Rafraîchir has the sh sound in the middle: ra-freh-SHEER."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Une place, deux étés",
+              "french": "Sur la place du marché, l'ombre est devenue un sujet de conversation.\nIl y a dix ans, personne ne parlait de la température au mois de juin.\nAujourd'hui, les commerçants installent des parasols dès la mi-mai.\n« Les clients viennent tôt le matin, puis la place se vide », explique la fleuriste.\nLa mairie a fait abattre le vieux platane malade et en a planté six autres.\nSelon les services techniques, ces arbres feraient baisser la température de plusieurs degrés ;\nle chiffre exact varie beaucoup selon les études, et personne ici ne le vérifie vraiment.\nCe qui est certain, c'est que le sol en pierre claire chauffe moins que l'ancien bitume.\nUn agriculteur du marché raconte, lui, une autre conséquence : ses récoltes avancent.\n« Je vends mes abricots deux semaines plus tôt qu'à l'époque de mon père. »\nIl ajoute qu'une seule année ne prouve rien, mais que la tendance dure depuis longtemps.\nÀ la fin du marché, la conversation revient toujours au même point pratique :\nfaut-il déplacer les étals à l'ombre, ou changer les horaires du marché ?",
+              "english": "In the market square, shade has become a topic of conversation.\nTen years ago, nobody talked about the temperature in June.\nToday, the stallholders put up parasols from mid-May onwards.\n\"Customers come early in the morning, then the square empties,\" the florist explains.\nThe town hall had the old diseased plane tree cut down and planted six others.\nAccording to the technical department, these trees reportedly lower the temperature by several degrees;\nthe exact figure varies a lot depending on the study, and nobody here really checks it.\nWhat is certain is that the pale stone ground heats up less than the old asphalt.\nA farmer at the market tells of another consequence: his harvests are getting earlier.\n\"I sell my apricots two weeks earlier than in my father's day.\"\nHe adds that a single year proves nothing, but that the trend has lasted a long time.\nAt the end of the market, the conversation always comes back to the same practical point:\nshould the stalls be moved into the shade, or should the market's hours be changed?",
+              "questions": [
+                {
+                  "id": "b1_u20_l03_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Qu'a fait la mairie sur la place ?",
+                  "options": ["Elle a planté six arbres après en avoir abattu un", "Elle a supprimé tous les arbres", "Elle a installé des climatiseurs", "Elle a déplacé le marché dans une autre rue"],
+                  "answer": "Elle a planté six arbres après en avoir abattu un"
+                },
+                {
+                  "id": "b1_u20_l03_rd02",
+                  "type": "multipleChoice",
+                  "prompt": "Quelle conséquence l'agriculteur décrit-il ?",
+                  "options": ["Ses récoltes arrivent plus tôt qu'avant", "Ses abricots ont disparu", "Il vend seulement le matin", "Il a changé de métier"],
+                  "answer": "Ses récoltes arrivent plus tôt qu'avant"
+                },
+                {
+                  "id": "b1_u20_l03_rd03",
+                  "type": "trueFalse",
+                  "prompt": "Le texte présente l'effet des arbres sur la température comme un chiffre discuté, pas comme une certitude.",
+                  "options": ["True", "False"],
+                  "answer": "True"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "b1_u20_l03_wr01",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "The river is low because of the drought.",
+              "answer": "La rivière est basse à cause de la sécheresse.",
+              "acceptedAnswers": ["La riviere est basse a cause de la secheresse", "La rivière est basse à cause de la sécheresse"]
+            },
+            {
+              "id": "b1_u20_l03_wr02",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "According to this study, temperatures would rise by two degrees.",
+              "answer": "Selon cette étude, les températures augmenteraient de deux degrés.",
+              "acceptedAnswers": ["Selon cette etude les temperatures augmenteraient de deux degres", "Selon cette étude, les températures augmenteraient de deux degrés", "D'après cette étude, les températures augmenteraient de deux degrés"]
+            },
+            {
+              "id": "b1_u20_l03_wr03",
+              "type": "arrangeWords",
+              "words": ["arbres", "aux", "reste", "la", "fraîche", "grâce", "place"],
+              "answer": "Grâce aux arbres la place reste fraîche",
+              "english": "Thanks to the trees the square stays cool"
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "b1_u20_l03_pr01",
+              "type": "fillBlank",
+              "prompt": "Le match est annulé ___ cause de la tempête.",
+              "answer": "à"
+            },
+            {
+              "id": "b1_u20_l03_pr02",
+              "type": "multipleChoice",
+              "prompt": "Complétez : « ___ à l'isolation, la maison reste fraîche. »",
+              "options": ["Grâce", "À cause", "Par conséquent", "Parce que"],
+              "answer": "Grâce"
+            },
+            {
+              "id": "b1_u20_l03_pr03",
+              "type": "match",
+              "pairs": [
+                { "french": "la sécheresse", "english": "drought" },
+                { "french": "la canicule", "english": "heatwave" },
+                { "french": "l'inondation", "english": "flood" },
+                { "french": "la récolte", "english": "harvest" }
+              ]
+            },
+            {
+              "id": "b1_u20_l03_pr04",
+              "type": "fillBlank",
+              "prompt": "Selon l'étude, le niveau de la mer ___ de trente centimètres. (monter, conditionnel)",
+              "answer": "monterait"
+            },
+            {
+              "id": "b1_u20_l03_pr05",
+              "type": "arrangeWords",
+              "words": ["entraîne", "d'eau", "des", "la", "restrictions", "sécheresse"],
+              "answer": "La sécheresse entraîne des restrictions d'eau",
+              "english": "The drought leads to water restrictions"
+            },
+            {
+              "id": "b1_u20_l03_pr06",
+              "type": "multipleChoice",
+              "prompt": "Quelle phrase signale clairement une information non vérifiée ?",
+              "options": ["D'après le maire, les travaux coûteraient un million.", "Le maire a payé un million de travaux.", "Les travaux coûtent un million.", "Le maire veut un million pour les travaux."],
+              "answer": "D'après le maire, les travaux coûteraient un million."
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "b1_u20_l03_qz01",
+              "type": "multipleChoice",
+              "prompt": "Quelle est la différence entre « le temps » et « le climat » ?",
+              "options": ["Le temps, c'est aujourd'hui ; le climat, c'est la tendance longue", "Ce sont deux synonymes exacts", "Le climat concerne seulement la mer", "Le temps concerne seulement l'hiver"],
+              "answer": "Le temps, c'est aujourd'hui ; le climat, c'est la tendance longue"
+            },
+            {
+              "id": "b1_u20_l03_qz02",
+              "type": "fillBlank",
+              "prompt": "Il a moins plu ; ___ conséquent, la rivière est basse.",
+              "answer": "par"
+            },
+            {
+              "id": "b1_u20_l03_qz03",
+              "type": "multipleChoice",
+              "prompt": "Quel mot suit forcément un nom, et non une proposition complète ?",
+              "options": ["à cause de", "parce que", "donc", "c'est pourquoi"],
+              "answer": "à cause de"
+            },
+            {
+              "id": "b1_u20_l03_qz04",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "Heatwaves are more and more frequent here.",
+              "answer": "Les canicules sont de plus en plus fréquentes ici.",
+              "acceptedAnswers": ["Les canicules sont de plus en plus frequentes ici", "Les canicules sont de plus en plus fréquentes ici"]
+            },
+            {
+              "id": "b1_u20_l03_qz05",
+              "type": "trueFalse",
+              "prompt": "« L'empreinte carbone » mesure la quantité de gaz à effet de serre liée à une activité.",
+              "options": ["True", "False"],
+              "answer": "True"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

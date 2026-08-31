@@ -1,0 +1,1214 @@
+{
+  "id": "b2_u10",
+  "level": "B2",
+  "unit": 10,
+  "title": "Health Systems",
+  "subtitle": "Navigate French healthcare, weigh bioethical arguments and talk about mental health with care",
+  "icon": "🏥",
+  "lessons": [
+    {
+      "id": "b2_u10_l01",
+      "level": "B2",
+      "unit": 10,
+      "title": "La Sécurité sociale",
+      "description": "How French healthcare actually works day to day: the carte Vitale, your médecin traitant, what gets reimbursed and what your mutuelle picks up.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "\"La Sécu\" — one system, two layers",
+              "body": "French healthcare runs on two layers stacked on top of each other. The first is l'Assurance maladie, the public branch of la Sécurité sociale, funded by cotisations taken from salaries and by tax. It reimburses a fixed share of each consultation or medicine — typically 70 % of the official tariff for a GP visit. The remainder, called le ticket modérateur, is what your private top-up insurance, la mutuelle, is there to cover. Almost everyone talks about \"la Sécu\" in conversation; \"la Sécurité sociale\" is the written, administrative form.",
+              "examples": [
+                { "french": "La Sécu rembourse soixante-dix pour cent du tarif conventionné.", "english": "The state health insurance reimburses seventy percent of the agreed tariff.", "note": "\"tarif conventionné\" = the official agreed rate" },
+                { "french": "Le reste à charge est pris en charge par ma mutuelle.", "english": "The remaining cost is covered by my top-up insurance." },
+                { "french": "Je cotise depuis que je travaille en France.", "english": "I have been paying contributions since I started working in France." },
+                { "french": "Sans mutuelle, une paire de lunettes revient très cher.", "english": "Without a top-up policy, a pair of glasses ends up being very expensive." },
+                { "french": "On dit \"la Sécu\" à l'oral, mais \"la Sécurité sociale\" dans un courrier officiel.", "english": "People say \"la Sécu\" when speaking, but \"la Sécurité sociale\" in an official letter.", "note": "register contrast worth remembering" }
+              ],
+              "tip": "\"Le reste à charge\" — literally \"the remainder to be borne\" — is the single most useful phrase in any French discussion about health costs."
+            },
+            {
+              "heading": "La carte Vitale and le tiers payant",
+              "body": "The carte Vitale is a green chip card holding your insurance rights. You hand it over at the pharmacy or the surgery, it is read by a small terminal, and the reimbursement is triggered automatically — no paperwork, money back in your account within days. Where le tiers payant applies, you do not even advance the money: the pharmacist or doctor bills l'Assurance maladie directly. When the card cannot be read, the practitioner gives you une feuille de soins on paper, which you post to your caisse yourself.",
+              "examples": [
+                { "french": "Vous avez votre carte Vitale, s'il vous plaît ?", "english": "Do you have your health insurance card, please?", "note": "the standard question at any French reception desk" },
+                { "french": "Avec le tiers payant, vous n'avancez rien.", "english": "With direct billing, you don't pay anything up front." },
+                { "french": "Ma carte n'est plus à jour, je dois la mettre à jour en pharmacie.", "english": "My card is no longer up to date; I have to update it at a pharmacy." },
+                { "french": "Le médecin m'a remis une feuille de soins à envoyer à ma caisse.", "english": "The doctor gave me a paper claim form to send to my health insurance fund." },
+                { "french": "Le remboursement arrive généralement sous cinq jours.", "english": "The reimbursement usually arrives within five days." }
+              ],
+              "tip": "Update the card free of charge at the small green terminal in most pharmacies — after a move, a birth or a change of job."
+            },
+            {
+              "heading": "Le médecin traitant and le parcours de soins",
+              "body": "Every adult is expected to declare a médecin traitant, a named GP who coordinates their care. Going through this declared doctor is called respecting le parcours de soins coordonné. Consult a specialist directly, without a referral, and you are still seen — but reimbursed at a much lower rate. A handful of specialities are hors parcours by law and can be consulted freely, among them gynaecology, ophthalmology and psychiatry for younger patients.",
+              "examples": [
+                { "french": "Avez-vous déclaré un médecin traitant ?", "english": "Have you declared a family doctor?" },
+                { "french": "Hors parcours de soins, vous serez remboursé à trente pour cent seulement.", "english": "Outside the coordinated care pathway, you will only be reimbursed at thirty percent." },
+                { "french": "Il m'a adressé à un spécialiste.", "english": "He referred me to a specialist.", "note": "\"adresser à\" is the standard verb for a medical referral" },
+                { "french": "Certains praticiens pratiquent des dépassements d'honoraires.", "english": "Some practitioners charge fees above the agreed rate." },
+                { "french": "Le secteur 1 applique les tarifs de la Sécurité sociale.", "english": "Sector 1 applies the official social security rates." }
+              ],
+              "tip": "\"Être adressé par son médecin traitant\" is the phrase on every specialist's form — worth recognising instantly."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "la-securite-sociale", "french": "la Sécurité sociale", "english": "the (French) social security system", "partOfSpeech": "noun", "gender": "f", "plural": "les Sécurités sociales", "pronunciation": "lah say-kew-ree-tay so-see-AL", "example": "La Sécurité sociale prend en charge une grande partie des dépenses de santé.", "exampleEnglish": "Social security covers a large share of health expenditure.", "level": "B2", "category": "health-system" },
+            { "id": "la-carte-vitale", "french": "la carte Vitale", "english": "the French health insurance card", "partOfSpeech": "noun", "gender": "f", "plural": "les cartes Vitale", "pronunciation": "lah kart vee-TAL", "example": "Présentez votre carte Vitale à l'accueil.", "exampleEnglish": "Show your health insurance card at reception.", "level": "B2", "category": "health-system" },
+            { "id": "la-mutuelle", "french": "la mutuelle", "english": "top-up health insurance", "partOfSpeech": "noun", "gender": "f", "plural": "les mutuelles", "pronunciation": "lah mew-TWEL", "example": "Ma mutuelle rembourse le reste à charge.", "exampleEnglish": "My top-up insurance reimburses the remaining cost.", "level": "B2", "category": "health-system" },
+            { "id": "le-remboursement", "french": "le remboursement", "english": "reimbursement", "partOfSpeech": "noun", "gender": "m", "plural": "les remboursements", "pronunciation": "luh rahn-boors-MAHN", "example": "Le remboursement a été versé sur mon compte.", "exampleEnglish": "The reimbursement was paid into my account.", "level": "B2", "category": "health-system" },
+            { "id": "rembourser", "french": "rembourser", "english": "to reimburse, to pay back", "partOfSpeech": "verb", "pronunciation": "rahn-boor-SAY", "example": "L'Assurance maladie rembourse la consultation à soixante-dix pour cent.", "exampleEnglish": "The health insurance fund reimburses the consultation at seventy percent.", "level": "B2", "category": "health-system" },
+            { "id": "le-medecin-traitant", "french": "le médecin traitant", "english": "the declared family doctor", "partOfSpeech": "noun", "gender": "m", "plural": "les médecins traitants", "pronunciation": "luh mayd-SAN treh-TAHN", "example": "Il faut déclarer un médecin traitant pour être bien remboursé.", "exampleEnglish": "You have to declare a family doctor to be properly reimbursed.", "level": "B2", "category": "health-system" },
+            { "id": "la-feuille-de-soins", "french": "la feuille de soins", "english": "paper claim form", "partOfSpeech": "noun", "gender": "f", "plural": "les feuilles de soins", "pronunciation": "lah fuhy duh SWAN", "example": "Envoyez la feuille de soins à votre caisse.", "exampleEnglish": "Send the claim form to your health insurance fund.", "level": "B2", "category": "health-system" },
+            { "id": "le-tiers-payant", "french": "le tiers payant", "english": "direct billing (no upfront payment)", "partOfSpeech": "noun", "gender": "m", "plural": "les tiers payants", "pronunciation": "luh tyair pay-YAHN", "example": "Grâce au tiers payant, je n'avance pas les frais.", "exampleEnglish": "Thanks to direct billing, I don't pay the costs up front.", "level": "B2", "category": "health-system" },
+            { "id": "cotisation", "french": "la cotisation", "english": "contribution (payroll)", "partOfSpeech": "noun", "gender": "f", "plural": "les cotisations", "pronunciation": "lah ko-tee-za-SYON", "example": "Les cotisations sociales financent le système.", "exampleEnglish": "Social contributions fund the system.", "level": "B2", "category": "health-system" },
+            { "id": "cotiser", "french": "cotiser", "english": "to pay contributions", "partOfSpeech": "verb", "pronunciation": "ko-tee-ZAY", "example": "On cotise dès le premier emploi.", "exampleEnglish": "You start paying contributions from your first job.", "level": "B2", "category": "health-system" },
+            { "id": "l-assure", "french": "l'assuré", "english": "the insured person", "partOfSpeech": "noun", "gender": "m", "plural": "les assurés", "pronunciation": "lah-sew-RAY", "example": "L'assuré doit signaler tout changement d'adresse.", "exampleEnglish": "The insured person must report any change of address.", "level": "B2", "category": "health-system" },
+            { "id": "l-ordonnance", "french": "l'ordonnance", "english": "prescription", "partOfSpeech": "noun", "gender": "f", "plural": "les ordonnances", "pronunciation": "lor-do-NAHNSS", "example": "Le pharmacien m'a demandé mon ordonnance.", "exampleEnglish": "The pharmacist asked me for my prescription.", "level": "B2", "category": "health-system" },
+            { "id": "la-consultation", "french": "la consultation", "english": "appointment, consultation", "partOfSpeech": "noun", "gender": "f", "plural": "les consultations", "pronunciation": "lah kon-sewl-ta-SYON", "example": "La consultation coûte vingt-six euros en secteur 1.", "exampleEnglish": "The consultation costs twenty-six euros in sector 1.", "level": "B2", "category": "health-system" },
+            { "id": "le-ticket-moderateur", "french": "le ticket modérateur", "english": "the share left to the patient", "partOfSpeech": "noun", "gender": "m", "plural": "les tickets modérateurs", "pronunciation": "luh tee-KAY mo-day-ra-TUHR", "example": "Le ticket modérateur reste à la charge du patient.", "exampleEnglish": "The remaining share is left for the patient to pay.", "level": "B2", "category": "health-system" },
+            { "id": "le-parcours-de-soins", "french": "le parcours de soins", "english": "the coordinated care pathway", "partOfSpeech": "noun", "gender": "m", "plural": "les parcours de soins", "pronunciation": "luh par-KOOR duh SWAN", "example": "Respecter le parcours de soins améliore le remboursement.", "exampleEnglish": "Following the care pathway improves your reimbursement.", "level": "B2", "category": "health-system" },
+            { "id": "le-depassement-d-honoraires", "french": "le dépassement d'honoraires", "english": "fee above the agreed rate", "partOfSpeech": "noun", "gender": "m", "plural": "les dépassements d'honoraires", "pronunciation": "luh day-pass-MAHN do-no-RAIR", "example": "Ce chirurgien pratique des dépassements d'honoraires importants.", "exampleEnglish": "This surgeon charges substantial fees above the agreed rate.", "level": "B2", "category": "health-system" },
+            { "id": "les-honoraires", "french": "les honoraires", "english": "professional fees", "partOfSpeech": "noun", "gender": "m", "plural": "les honoraires", "pronunciation": "lay zo-no-RAIR", "example": "Les honoraires sont affichés en salle d'attente.", "exampleEnglish": "The fees are displayed in the waiting room.", "level": "B2", "category": "health-system" },
+            { "id": "le-praticien", "french": "le praticien", "english": "practitioner", "partOfSpeech": "noun", "gender": "m", "plural": "les praticiens", "pronunciation": "luh pra-tee-SYAN", "example": "Le praticien est conventionné secteur 1.", "exampleEnglish": "The practitioner works under sector 1 agreed rates.", "level": "B2", "category": "health-system" },
+            { "id": "le-generaliste", "french": "le généraliste", "english": "general practitioner", "partOfSpeech": "noun", "gender": "m", "plural": "les généralistes", "pronunciation": "luh zhay-nay-ra-LEEST", "example": "Mon généraliste consulte sans rendez-vous le samedi.", "exampleEnglish": "My GP sees patients without an appointment on Saturdays.", "level": "B2", "category": "health-system" },
+            { "id": "le-specialiste", "french": "le spécialiste", "english": "specialist", "partOfSpeech": "noun", "gender": "m", "plural": "les spécialistes", "pronunciation": "luh spay-sya-LEEST", "example": "Il faut trois mois pour voir un spécialiste ici.", "exampleEnglish": "It takes three months to see a specialist here.", "level": "B2", "category": "health-system" },
+            { "id": "la-prise-en-charge", "french": "la prise en charge", "english": "coverage, taking care of costs", "partOfSpeech": "noun", "gender": "f", "plural": "les prises en charge", "pronunciation": "lah preez ahn SHARZH", "example": "La prise en charge est totale pour les affections longue durée.", "exampleEnglish": "Coverage is total for long-term conditions.", "level": "B2", "category": "health-system" },
+            { "id": "prendre-en-charge", "french": "prendre en charge", "english": "to cover, to take responsibility for", "partOfSpeech": "expression", "pronunciation": "PRAHN-druh ahn SHARZH", "example": "La Sécu prend en charge une partie des frais.", "exampleEnglish": "The state insurance covers part of the costs.", "level": "B2", "category": "health-system" },
+            { "id": "l-affiliation", "french": "l'affiliation", "english": "registration with a scheme", "partOfSpeech": "noun", "gender": "f", "plural": "les affiliations", "pronunciation": "lah-fee-lya-SYON", "example": "Votre affiliation au régime général prend effet en janvier.", "exampleEnglish": "Your registration with the general scheme takes effect in January.", "level": "B2", "category": "health-system" },
+            { "id": "adherer", "french": "adhérer", "english": "to join, to sign up to", "partOfSpeech": "verb", "pronunciation": "a-day-RAY", "example": "J'ai adhéré à la mutuelle de mon entreprise.", "exampleEnglish": "I signed up to my company's top-up insurance.", "level": "B2", "category": "health-system" },
+            { "id": "le-prelevement", "french": "le prélèvement", "english": "deduction, direct debit", "partOfSpeech": "noun", "gender": "m", "plural": "les prélèvements", "pronunciation": "luh pray-lev-MAHN", "example": "Le prélèvement de la mutuelle a lieu le cinq du mois.", "exampleEnglish": "The top-up insurance is debited on the fifth of the month.", "level": "B2", "category": "health-system" },
+            { "id": "le-justificatif", "french": "le justificatif", "english": "supporting document", "partOfSpeech": "noun", "gender": "m", "plural": "les justificatifs", "pronunciation": "luh zhews-tee-fee-ka-TEEF", "example": "Joignez un justificatif de domicile à votre dossier.", "exampleEnglish": "Attach proof of address to your file.", "level": "B2", "category": "administration" },
+            { "id": "l-attestation", "french": "l'attestation", "english": "official certificate, statement", "partOfSpeech": "noun", "gender": "f", "plural": "les attestations", "pronunciation": "la-tes-ta-SYON", "example": "Téléchargez votre attestation de droits sur le site.", "exampleEnglish": "Download your statement of entitlements from the website.", "level": "B2", "category": "administration" },
+            { "id": "le-dossier-medical", "french": "le dossier médical", "english": "medical record", "partOfSpeech": "noun", "gender": "m", "plural": "les dossiers médicaux", "pronunciation": "luh do-SYAY may-dee-KAL", "example": "Mon dossier médical est accessible en ligne.", "exampleEnglish": "My medical record is accessible online.", "level": "B2", "category": "health-system" },
+            { "id": "la-caisse-d-assurance-maladie", "french": "la caisse d'assurance maladie", "english": "health insurance fund (local office)", "partOfSpeech": "noun", "gender": "f", "plural": "les caisses d'assurance maladie", "pronunciation": "lah kess da-sew-RAHNSS ma-la-DEE", "example": "Ma caisse d'assurance maladie m'a répondu en trois jours.", "exampleEnglish": "My health insurance fund replied within three days.", "level": "B2", "category": "health-system" },
+            { "id": "la-couverture", "french": "la couverture", "english": "coverage (insurance)", "partOfSpeech": "noun", "gender": "f", "plural": "les couvertures", "pronunciation": "lah koo-vair-TEWR", "example": "Sa couverture santé est plutôt complète.", "exampleEnglish": "His health coverage is fairly comprehensive.", "level": "B2", "category": "health-system" },
+            { "id": "la-franchise", "french": "la franchise", "english": "fixed deductible amount", "partOfSpeech": "noun", "gender": "f", "plural": "les franchises", "pronunciation": "lah frahn-SHEEZ", "example": "Une franchise d'un euro est retenue sur chaque boîte de médicaments.", "exampleEnglish": "A one-euro deductible is withheld on each box of medicine.", "level": "B2", "category": "health-system" },
+            { "id": "le-beneficiaire", "french": "le bénéficiaire", "english": "beneficiary", "partOfSpeech": "noun", "gender": "m", "plural": "les bénéficiaires", "pronunciation": "luh bay-nay-fee-SYAIR", "example": "Les enfants sont bénéficiaires des droits de leurs parents.", "exampleEnglish": "Children are beneficiaries of their parents' entitlements.", "level": "B2", "category": "health-system" },
+            { "id": "le-cabinet-medical", "french": "le cabinet médical", "english": "doctor's surgery", "partOfSpeech": "noun", "gender": "m", "plural": "les cabinets médicaux", "pronunciation": "luh ka-bee-NAY may-dee-KAL", "example": "Le cabinet médical ouvre à huit heures.", "exampleEnglish": "The surgery opens at eight o'clock.", "level": "B2", "category": "health-system" },
+            { "id": "l-arret-de-travail", "french": "l'arrêt de travail", "english": "sick leave certificate", "partOfSpeech": "noun", "gender": "m", "plural": "les arrêts de travail", "pronunciation": "la-RAY duh tra-VYE", "example": "Le médecin lui a prescrit un arrêt de travail de huit jours.", "exampleEnglish": "The doctor signed him off work for eight days.", "level": "B2", "category": "health-system" },
+            { "id": "l-indemnite-journaliere", "french": "l'indemnité journalière", "english": "daily sickness benefit", "partOfSpeech": "noun", "gender": "f", "plural": "les indemnités journalières", "pronunciation": "lan-dem-nee-TAY zhoor-na-LYAIR", "example": "Les indemnités journalières compensent une partie du salaire.", "exampleEnglish": "Daily sickness benefits make up part of the salary.", "level": "B2", "category": "health-system" },
+            { "id": "renouveler", "french": "renouveler", "english": "to renew", "partOfSpeech": "verb", "pronunciation": "ruh-noo-VLAY", "example": "Il faut renouveler l'ordonnance tous les trois mois.", "exampleEnglish": "The prescription has to be renewed every three months.", "level": "B2", "category": "health-system" },
+            { "id": "le-delai-de-carence", "french": "le délai de carence", "english": "waiting period before benefits", "partOfSpeech": "noun", "gender": "m", "plural": "les délais de carence", "pronunciation": "luh day-LAY duh ka-RAHNSS", "example": "Il y a un délai de carence de trois jours avant l'indemnisation.", "exampleEnglish": "There is a three-day waiting period before compensation starts.", "level": "B2", "category": "health-system" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "The administrative passive — and how to dodge it",
+              "body": "French officialese loves the passive: \"vous serez remboursé\", \"les frais sont pris en charge\", \"votre demande a été enregistrée\". Learn to read it fluently, because every letter from your caisse is written that way. In speech, though, French prefers two lighter constructions: \"on\" plus an active verb, and se faire / se voir plus an infinitive. \"Je me suis fait rembourser\" and \"il s'est vu refuser la prise en charge\" both keep the subject in place while the action is done to them.",
+              "examples": [
+                { "french": "Votre dossier a été transmis au service médical.", "english": "Your file has been forwarded to the medical department.", "note": "written register — typical of an official letter" },
+                { "french": "On vous remboursera sous cinq jours.", "english": "You'll be reimbursed within five days.", "note": "spoken equivalent with \"on\"" },
+                { "french": "Je me suis fait rembourser sans problème.", "english": "I got reimbursed without any trouble.", "note": "se faire + infinitive — the speaker triggered the action" },
+                { "french": "Elle s'est vu refuser le tiers payant.", "english": "She was refused direct billing.", "note": "se voir + infinitive — the past participle \"vu\" stays invariable here" },
+                { "french": "Les remboursements sont effectués par virement.", "english": "Reimbursements are made by bank transfer." },
+                { "french": "Le patient s'est fait adresser à un cardiologue.", "english": "The patient was referred to a cardiologist." }
+              ],
+              "tip": "Rule of thumb: read the passive, speak with \"on\" or \"se faire\". Using officialese out loud sounds like you are quoting a form."
+            },
+            {
+              "heading": "Conditions: sous réserve de, à condition que, en cas de",
+              "body": "Entitlements always come with conditions attached, and French has a precise toolkit for them. Before a noun, use en cas de and sous réserve de — no verb needed. Before a clause, à condition que and pourvu que take the subjunctive, while si takes the indicative. If both clauses share a subject, prefer the lighter à condition de plus an infinitive.",
+              "examples": [
+                { "french": "En cas d'hospitalisation, prévenez votre mutuelle.", "english": "In the event of hospitalisation, notify your top-up insurer." },
+                { "french": "Sous réserve d'acceptation du dossier, la prise en charge est totale.", "english": "Subject to the file being accepted, coverage is total." },
+                { "french": "Vous serez remboursé à condition que vous ayez déclaré un médecin traitant.", "english": "You will be reimbursed provided that you have declared a family doctor.", "note": "à condition que + subjunctive" },
+                { "french": "À condition d'envoyer la feuille de soins, tout se règle en une semaine.", "english": "Provided you send the claim form, everything is settled within a week.", "note": "same subject → à condition de + infinitive" },
+                { "french": "Si vous consultez hors parcours, le taux baisse.", "english": "If you consult outside the pathway, the rate drops.", "note": "si + present indicative, never the subjunctive" },
+                { "french": "Pourvu que le délai soit respecté, la demande sera traitée.", "english": "As long as the deadline is respected, the request will be processed." }
+              ],
+              "tip": "\"Sous réserve de\" is the polite administrative hedge par excellence — it lets an official promise nothing while sounding helpful."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "b2_u10_l01_li01",
+              "type": "listenChoose",
+              "french": "Avec le tiers payant, vous n'avancez pas les frais.",
+              "options": [
+                "With direct billing, you don't pay the costs up front.",
+                "With direct billing, you pay double the costs.",
+                "Without direct billing, the costs disappear.",
+                "With direct billing, you must pay in cash."
+              ],
+              "answer": "With direct billing, you don't pay the costs up front."
+            },
+            {
+              "id": "b2_u10_l01_li02",
+              "type": "listenType",
+              "french": "Le remboursement sera versé sous cinq jours.",
+              "answer": "Le remboursement sera versé sous cinq jours.",
+              "acceptedAnswers": [
+                "Le remboursement sera verse sous cinq jours",
+                "le remboursement sera versé sous cinq jours",
+                "Le remboursement sera versé sous cinq jours"
+              ]
+            },
+            {
+              "id": "b2_u10_l01_li03",
+              "type": "listenChoose",
+              "french": "Vous serez remboursé à condition que vous ayez déclaré un médecin traitant.",
+              "options": [
+                "Reimbursement depends on having declared a family doctor.",
+                "Reimbursement is automatic for everyone.",
+                "You must declare three doctors to be reimbursed.",
+                "Only specialists reimburse the consultation."
+              ],
+              "answer": "Reimbursement depends on having declared a family doctor."
+            },
+            {
+              "id": "b2_u10_l01_li04",
+              "type": "dictation",
+              "french": "Ma mutuelle prend en charge le ticket modérateur.",
+              "answer": "Ma mutuelle prend en charge le ticket modérateur.",
+              "acceptedAnswers": [
+                "Ma mutuelle prend en charge le ticket moderateur",
+                "ma mutuelle prend en charge le ticket modérateur",
+                "Ma mutuelle prend en charge le ticket modérateur"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "b2_u10_l01_sp01",
+              "type": "speak",
+              "french": "J'aimerais déclarer un médecin traitant, s'il vous plaît.",
+              "english": "I would like to declare a family doctor, please.",
+              "prompt": "Say it at a surgery reception desk, politely.",
+              "tip": "\"médecin\" is two syllables in speech: mayd-SAN — the middle e disappears entirely."
+            },
+            {
+              "id": "b2_u10_l01_sp02",
+              "type": "speak",
+              "french": "Est-ce que ce praticien pratique des dépassements d'honoraires ?",
+              "english": "Does this practitioner charge fees above the agreed rate?",
+              "prompt": "Ask before booking an expensive appointment.",
+              "tip": "Link \"des dépassements\" as day-day-pass-MAHN and keep the final -ts silent."
+            },
+            {
+              "id": "b2_u10_l01_sp03",
+              "type": "speak",
+              "french": "Je me suis fait rembourser en moins d'une semaine.",
+              "english": "I got reimbursed in less than a week.",
+              "prompt": "Reassure a friend who thinks the paperwork is endless.",
+              "tip": "\"je me suis fait\" flattens to zhuh-muh-swee-FAY in normal speech — don't over-articulate it."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Première visite chez le médecin",
+              "french": "Installée en France depuis six semaines, Rana s'assoit dans la salle d'attente d'un cabinet médical de quartier.\nLa secrétaire lui demande sa carte Vitale ; Rana n'en a pas encore, seulement une attestation provisoire de droits.\n« Ce n'est pas grave, la rassure-t-elle. Vous réglez la consultation aujourd'hui et le docteur vous remettra une feuille de soins. »\nLe généraliste la reçoit vingt minutes plus tard. Il l'écoute, l'examine, puis lui explique le système en deux phrases.\n« Ici, tout passe par le médecin traitant. Si vous me déclarez comme tel, vous serez remboursée à soixante-dix pour cent. »\nRana hésite : elle a entendu dire qu'il fallait attendre des mois pour voir un spécialiste.\n« C'est vrai dans certaines spécialités, reconnaît-il, mais je peux vous adresser directement à un confrère si nécessaire. »\nIl remplit le formulaire de déclaration, qu'elle signe, et lui tend une ordonnance ainsi que la feuille de soins.\n« Envoyez-la à votre caisse d'assurance maladie. Sous réserve que le dossier soit complet, le remboursement arrivera vite. »\nÀ la pharmacie, on lui demande de nouveau sa carte. Elle explique, on lui sourit : la situation est banale.\nUne franchise d'un euro par boîte est retenue, précise le pharmacien, et le reste sera couvert dès qu'elle aura une mutuelle.\nTrois semaines plus tard, Rana reçoit sa carte Vitale par courrier, avec une lettre entièrement rédigée au passif.\nElle n'en comprend pas chaque mot, mais elle reconnaît l'essentiel : « vos droits ont été ouverts ».\nEt, pour la première fois depuis son arrivée, l'administration française lui paraît presque accueillante.",
+              "english": "Living in France for six weeks, Rana sits down in the waiting room of a neighbourhood surgery.\nThe receptionist asks for her carte Vitale; Rana doesn't have one yet, only a temporary statement of entitlements.\n\"That's not a problem,\" she reassures her. \"You pay for the consultation today and the doctor will give you a paper claim form.\"\nThe GP sees her twenty minutes later. He listens to her, examines her, then explains the system in two sentences.\n\"Here, everything goes through the family doctor. If you declare me as yours, you'll be reimbursed at seventy percent.\"\nRana hesitates: she has heard that you have to wait months to see a specialist.\n\"That's true in certain specialities,\" he admits, \"but I can refer you directly to a colleague if necessary.\"\nHe fills in the declaration form, which she signs, and hands her a prescription along with the claim form.\n\"Send it to your health insurance fund. Provided the file is complete, the reimbursement will arrive quickly.\"\nAt the pharmacy, she is asked for her card again. She explains, they smile at her: the situation is entirely ordinary.\nA one-euro deductible per box is withheld, the pharmacist points out, and the rest will be covered once she has top-up insurance.\nThree weeks later, Rana receives her carte Vitale in the post, with a letter written entirely in the passive.\nShe doesn't understand every word, but she recognises the essential part: \"your entitlements have been opened\".\nAnd, for the first time since she arrived, French administration strikes her as almost welcoming.",
+              "questions": [
+                {
+                  "id": "b2_u10_l01_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Pourquoi Rana doit-elle payer la consultation le jour même ?",
+                  "options": [
+                    "Parce qu'elle n'a pas encore de carte Vitale.",
+                    "Parce que le médecin refuse le tiers payant par principe.",
+                    "Parce qu'elle a choisi un spécialiste hors parcours.",
+                    "Parce que sa mutuelle a refusé le dossier."
+                  ],
+                  "answer": "Parce qu'elle n'a pas encore de carte Vitale."
+                },
+                {
+                  "id": "b2_u10_l01_rd02",
+                  "type": "trueFalse",
+                  "prompt": "Le médecin affirme qu'il ne pourra jamais l'adresser à un spécialiste.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                },
+                {
+                  "id": "b2_u10_l01_rd03",
+                  "type": "multipleChoice",
+                  "prompt": "Que remarque Rana en lisant la lettre reçue avec sa carte ?",
+                  "options": [
+                    "Qu'elle est écrite au passif et difficile à décoder entièrement.",
+                    "Qu'elle est rédigée dans un français très familier.",
+                    "Qu'elle ne mentionne aucun de ses droits.",
+                    "Qu'elle lui demande de payer une cotisation supplémentaire."
+                  ],
+                  "answer": "Qu'elle est écrite au passif et difficile à décoder entièrement."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "b2_u10_l01_wr01",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "My top-up insurance covers the remaining cost.",
+              "answer": "Ma mutuelle prend en charge le reste à charge.",
+              "acceptedAnswers": [
+                "Ma mutuelle prend en charge le reste a charge",
+                "Ma mutuelle couvre le reste à charge",
+                "ma mutuelle prend en charge le reste à charge"
+              ]
+            },
+            {
+              "id": "b2_u10_l01_wr02",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "You will be reimbursed provided that the file is complete.",
+              "answer": "Vous serez remboursé à condition que le dossier soit complet.",
+              "acceptedAnswers": [
+                "Vous serez rembourse a condition que le dossier soit complet",
+                "Vous serez remboursée à condition que le dossier soit complet",
+                "vous serez remboursé à condition que le dossier soit complet"
+              ]
+            },
+            {
+              "id": "b2_u10_l01_wr03",
+              "type": "arrangeWords",
+              "words": ["traitant", "un", "déclarer", "faut", "Il", "médecin"],
+              "answer": "Il faut déclarer un médecin traitant",
+              "english": "You have to declare a family doctor"
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "b2_u10_l01_pr01",
+              "type": "fillBlank",
+              "prompt": "En ___ d'hospitalisation, prévenez votre mutuelle.",
+              "answer": "cas"
+            },
+            {
+              "id": "b2_u10_l01_pr02",
+              "type": "match",
+              "pairs": [
+                { "french": "le tiers payant", "english": "direct billing" },
+                { "french": "le ticket modérateur", "english": "the share left to the patient" },
+                { "french": "la feuille de soins", "english": "paper claim form" },
+                { "french": "l'arrêt de travail", "english": "sick leave certificate" }
+              ]
+            },
+            {
+              "id": "b2_u10_l01_pr03",
+              "type": "multipleChoice",
+              "prompt": "Choisissez la forme correcte : « à condition que le dossier ___ complet ».",
+              "options": ["soit", "est", "sera", "serait"],
+              "answer": "soit"
+            },
+            {
+              "id": "b2_u10_l01_pr04",
+              "type": "fillBlank",
+              "prompt": "Elle s'est ___ refuser la prise en charge par sa mutuelle.",
+              "answer": "vu"
+            },
+            {
+              "id": "b2_u10_l01_pr05",
+              "type": "arrangeWords",
+              "words": ["carte", "à", "n'est", "jour", "Ma", "plus", "Vitale"],
+              "answer": "Ma carte Vitale n'est plus à jour",
+              "english": "My health insurance card is no longer up to date"
+            },
+            {
+              "id": "b2_u10_l01_pr06",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "Some practitioners charge fees above the agreed rate.",
+              "answer": "Certains praticiens pratiquent des dépassements d'honoraires.",
+              "acceptedAnswers": [
+                "Certains praticiens pratiquent des depassements d'honoraires",
+                "Certains praticiens font des dépassements d'honoraires",
+                "certains praticiens pratiquent des dépassements d'honoraires"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "b2_u10_l01_qz01",
+              "type": "multipleChoice",
+              "prompt": "Que couvre normalement la mutuelle ?",
+              "options": [
+                "Le ticket modérateur laissé par l'Assurance maladie",
+                "La totalité des cotisations sociales",
+                "Le salaire pendant les congés payés",
+                "Les impôts sur le revenu du patient"
+              ],
+              "answer": "Le ticket modérateur laissé par l'Assurance maladie"
+            },
+            {
+              "id": "b2_u10_l01_qz02",
+              "type": "fillBlank",
+              "prompt": "Sous ___ d'acceptation du dossier, la prise en charge est totale.",
+              "answer": "réserve"
+            },
+            {
+              "id": "b2_u10_l01_qz03",
+              "type": "trueFalse",
+              "prompt": "Consulter un spécialiste hors parcours de soins réduit le remboursement.",
+              "options": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "b2_u10_l01_qz04",
+              "type": "multipleChoice",
+              "prompt": "Quelle phrase relève du registre parlé plutôt qu'administratif ?",
+              "options": [
+                "On vous remboursera sous cinq jours.",
+                "Votre demande a été enregistrée.",
+                "Les remboursements sont effectués par virement.",
+                "Votre dossier a été transmis au service médical."
+              ],
+              "answer": "On vous remboursera sous cinq jours."
+            },
+            {
+              "id": "b2_u10_l01_qz05",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "I would like to declare a family doctor.",
+              "answer": "J'aimerais déclarer un médecin traitant.",
+              "acceptedAnswers": [
+                "J'aimerais declarer un medecin traitant",
+                "Je voudrais déclarer un médecin traitant",
+                "j'aimerais déclarer un médecin traitant"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2_u10_l02",
+      "level": "B2",
+      "unit": 10,
+      "title": "Éthique médicale",
+      "description": "The vocabulary and argumentative moves of French bioethics debates: consent, end of life and organ donation — presented from several sides.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Le consentement éclairé",
+              "body": "The cornerstone of French medical law is consent: no procedure without the patient's informed agreement. \"Éclairé\" means the patient has been given the information needed to decide — risks, alternatives, likely outcomes. The same law lets a patient refuse treatment, and lets them appoint une personne de confiance to speak for them if they can no longer speak for themselves. In debate, the recurring tension is between autonomie (the patient decides) and the doctor's duty of care.",
+              "examples": [
+                { "french": "Aucun acte médical ne peut être pratiqué sans consentement.", "english": "No medical procedure may be carried out without consent." },
+                { "french": "Le consentement doit être libre et éclairé.", "english": "Consent must be free and informed.", "note": "the fixed legal formula" },
+                { "french": "Le patient peut désigner une personne de confiance.", "english": "The patient may appoint a trusted representative." },
+                { "french": "Il a exprimé son refus par écrit.", "english": "He expressed his refusal in writing." },
+                { "french": "L'autonomie du patient prime sur l'avis du médecin.", "english": "The patient's autonomy takes precedence over the doctor's opinion.", "note": "\"primer sur\" = to take precedence over" }
+              ],
+              "tip": "\"Éclairé\" is worth its own note: it describes the decision, not the person. Never translate it as \"clever\"."
+            },
+            {
+              "heading": "La fin de vie — a debate, not a verdict",
+              "body": "France distinguishes carefully between several notions, and the vocabulary matters more than the opinions. Soins palliatifs relieve suffering without hastening death. Directives anticipées record in advance what treatment you would accept. Acharnement thérapeutique — now called obstination déraisonnable in law — means continuing treatment beyond any benefit. Euthanasie and suicide assisté designate acts that remain prohibited in France, and are precisely what successive parliamentary debates are about. Positions differ sharply and reasonable people land in different places.",
+              "examples": [
+                { "french": "Les soins palliatifs visent à soulager, non à guérir.", "english": "Palliative care aims to relieve, not to cure." },
+                { "french": "Ses directives anticipées étaient très claires.", "english": "Her advance directives were very clear." },
+                { "french": "Certains dénoncent l'acharnement thérapeutique ; d'autres y voient un devoir de soigner.", "english": "Some denounce unreasonable persistence in treatment; others see in it a duty to treat.", "note": "a balanced two-sided sentence — a useful model" },
+                { "french": "Le débat sur la fin de vie divise depuis des décennies.", "english": "The end-of-life debate has been divisive for decades." },
+                { "french": "Les partisans d'une évolution de la loi invoquent la dignité.", "english": "Those in favour of changing the law invoke dignity." },
+                { "french": "Ses opposants craignent des dérives.", "english": "Its opponents fear abuses.", "note": "\"une dérive\" = a slide into misuse — a very common word in these debates" }
+              ],
+              "tip": "In an exam or a discussion, attribute positions rather than asserting them: \"selon ses partisans\", \"pour ses détracteurs\"."
+            },
+            {
+              "heading": "Le don d'organes and le consentement présumé",
+              "body": "French law works on présomption de consentement: everyone is deemed a donor unless they registered a refusal on the registre national des refus. The principles taught alongside it are gratuité (no payment for organs) and anonymat (donor and recipient are not told each other's identity). Even so, families are consulted, and the gap between the legal rule and daily practice is itself a classic debate topic.",
+              "examples": [
+                { "french": "En France, le consentement au don d'organes est présumé.", "english": "In France, consent to organ donation is presumed." },
+                { "french": "On peut s'inscrire sur le registre national des refus.", "english": "You can register on the national refusal register." },
+                { "french": "Le don repose sur la gratuité et l'anonymat.", "english": "Donation rests on the principles of no payment and anonymity." },
+                { "french": "La greffe a été réalisée dans la nuit.", "english": "The transplant was carried out during the night." },
+                { "french": "L'équipe médicale consulte toujours les proches.", "english": "The medical team always consults the family." }
+              ],
+              "tip": "\"Un don\" is the gift, \"un donneur\" the person giving, \"un receveur\" the person receiving — three words that recur in every article on the subject."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "la-bioethique", "french": "la bioéthique", "english": "bioethics", "partOfSpeech": "noun", "gender": "f", "plural": "les bioéthiques", "pronunciation": "lah byo-ay-TEEK", "example": "La loi de bioéthique est révisée régulièrement.", "exampleEnglish": "The bioethics law is revised regularly.", "level": "B2", "category": "ethics" },
+            { "id": "la-deontologie", "french": "la déontologie", "english": "professional code of ethics", "partOfSpeech": "noun", "gender": "f", "plural": "les déontologies", "pronunciation": "lah day-on-to-lo-ZHEE", "example": "La déontologie médicale encadre la relation au patient.", "exampleEnglish": "Medical professional ethics frame the relationship with the patient.", "level": "B2", "category": "ethics" },
+            { "id": "le-consentement", "french": "le consentement", "english": "consent", "partOfSpeech": "noun", "gender": "m", "plural": "les consentements", "pronunciation": "luh kon-sahnt-MAHN", "example": "Le consentement doit être libre et éclairé.", "exampleEnglish": "Consent must be free and informed.", "level": "B2", "category": "ethics" },
+            { "id": "consentir", "french": "consentir", "english": "to consent, to agree to", "partOfSpeech": "verb", "pronunciation": "kon-sahn-TEER", "example": "Elle a consenti à l'opération après réflexion.", "exampleEnglish": "She consented to the operation after thinking it over.", "level": "B2", "category": "ethics" },
+            { "id": "eclaire", "french": "éclairé", "english": "informed (decision)", "partOfSpeech": "adjective", "pronunciation": "ay-kleh-RAY", "example": "Un choix éclairé suppose une information complète.", "exampleEnglish": "An informed choice presupposes complete information.", "level": "B2", "category": "ethics" },
+            { "id": "la-fin-de-vie", "french": "la fin de vie", "english": "end of life", "partOfSpeech": "noun", "gender": "f", "plural": "les fins de vie", "pronunciation": "lah fan duh VEE", "example": "Le débat sur la fin de vie revient régulièrement au Parlement.", "exampleEnglish": "The end-of-life debate returns to Parliament regularly.", "level": "B2", "category": "ethics" },
+            { "id": "le-don-d-organes", "french": "le don d'organes", "english": "organ donation", "partOfSpeech": "noun", "gender": "m", "plural": "les dons d'organes", "pronunciation": "luh don dor-GAN", "example": "Le don d'organes sauve des milliers de vies chaque année.", "exampleEnglish": "Organ donation saves thousands of lives each year.", "level": "B2", "category": "ethics" },
+            { "id": "le-donneur", "french": "le donneur", "english": "donor", "partOfSpeech": "noun", "gender": "m", "plural": "les donneurs", "pronunciation": "luh do-NUHR", "example": "L'identité du donneur reste confidentielle.", "exampleEnglish": "The donor's identity remains confidential.", "level": "B2", "category": "ethics" },
+            { "id": "le-receveur", "french": "le receveur", "english": "recipient", "partOfSpeech": "noun", "gender": "m", "plural": "les receveurs", "pronunciation": "luh ruh-suh-VUHR", "example": "Le receveur attendait une greffe depuis deux ans.", "exampleEnglish": "The recipient had been waiting for a transplant for two years.", "level": "B2", "category": "ethics" },
+            { "id": "la-greffe", "french": "la greffe", "english": "transplant", "partOfSpeech": "noun", "gender": "f", "plural": "les greffes", "pronunciation": "lah GREF", "example": "La greffe s'est déroulée sans complication.", "exampleEnglish": "The transplant went ahead without complications.", "level": "B2", "category": "ethics" },
+            { "id": "la-transplantation", "french": "la transplantation", "english": "transplantation", "partOfSpeech": "noun", "gender": "f", "plural": "les transplantations", "pronunciation": "lah trahns-plahn-ta-SYON", "example": "La transplantation reste une opération lourde.", "exampleEnglish": "Transplantation remains a major operation.", "level": "B2", "category": "ethics" },
+            { "id": "la-dignite", "french": "la dignité", "english": "dignity", "partOfSpeech": "noun", "gender": "f", "plural": "les dignités", "pronunciation": "lah dee-nyee-TAY", "example": "Les deux camps invoquent la dignité de la personne.", "exampleEnglish": "Both camps invoke the dignity of the person.", "level": "B2", "category": "ethics" },
+            { "id": "l-autonomie", "french": "l'autonomie", "english": "autonomy", "partOfSpeech": "noun", "gender": "f", "plural": "les autonomies", "pronunciation": "lo-to-no-MEE", "example": "L'autonomie du patient est un principe fondamental.", "exampleEnglish": "Patient autonomy is a fundamental principle.", "level": "B2", "category": "ethics" },
+            { "id": "les-directives-anticipees", "french": "les directives anticipées", "english": "advance directives", "partOfSpeech": "noun", "gender": "f", "plural": "les directives anticipées", "pronunciation": "lay dee-rek-TEEV ahn-tee-see-PAY", "example": "Ses directives anticipées ont été respectées à la lettre.", "exampleEnglish": "Her advance directives were followed to the letter.", "level": "B2", "category": "ethics" },
+            { "id": "la-personne-de-confiance", "french": "la personne de confiance", "english": "appointed trusted representative", "partOfSpeech": "noun", "gender": "f", "plural": "les personnes de confiance", "pronunciation": "lah pair-SON duh kon-FYAHNSS", "example": "Il a désigné son frère comme personne de confiance.", "exampleEnglish": "He appointed his brother as his trusted representative.", "level": "B2", "category": "ethics" },
+            { "id": "les-soins-palliatifs", "french": "les soins palliatifs", "english": "palliative care", "partOfSpeech": "noun", "gender": "m", "plural": "les soins palliatifs", "pronunciation": "lay swan pa-lya-TEEF", "example": "L'accès aux soins palliatifs reste inégal selon les régions.", "exampleEnglish": "Access to palliative care remains uneven across regions.", "level": "B2", "category": "ethics" },
+            { "id": "la-sedation", "french": "la sédation", "english": "sedation", "partOfSpeech": "noun", "gender": "f", "plural": "les sédations", "pronunciation": "lah say-da-SYON", "example": "La loi encadre strictement la sédation profonde.", "exampleEnglish": "The law strictly regulates deep sedation.", "level": "B2", "category": "ethics" },
+            { "id": "l-euthanasie", "french": "l'euthanasie", "english": "euthanasia", "partOfSpeech": "noun", "gender": "f", "plural": "les euthanasies", "pronunciation": "luh-ta-na-ZEE", "example": "L'euthanasie n'est pas autorisée par le droit français actuel.", "exampleEnglish": "Euthanasia is not permitted under current French law.", "level": "B2", "category": "ethics" },
+            { "id": "l-acharnement-therapeutique", "french": "l'acharnement thérapeutique", "english": "unreasonable persistence in treatment", "partOfSpeech": "noun", "gender": "m", "plural": "les acharnements thérapeutiques", "pronunciation": "la-shar-nuh-MAHN tay-ra-puh-TEEK", "example": "La loi interdit l'acharnement thérapeutique.", "exampleEnglish": "The law prohibits unreasonable persistence in treatment.", "level": "B2", "category": "ethics" },
+            { "id": "encadrer", "french": "encadrer", "english": "to regulate, to set a framework for", "partOfSpeech": "verb", "pronunciation": "ahn-ka-DRAY", "example": "Une loi encadre désormais ces pratiques.", "exampleEnglish": "A law now regulates these practices.", "level": "B2", "category": "ethics" },
+            { "id": "legiferer", "french": "légiférer", "english": "to legislate", "partOfSpeech": "verb", "pronunciation": "lay-zhee-fay-RAY", "example": "Faut-il légiférer sur cette question ?", "exampleEnglish": "Should we legislate on this question?", "level": "B2", "category": "ethics" },
+            { "id": "loi", "french": "la loi", "english": "law, act", "partOfSpeech": "noun", "gender": "f", "plural": "les lois", "pronunciation": "lah LWAH", "example": "La loi de 2016 a modifié les règles sur la fin de vie.", "exampleEnglish": "The 2016 act changed the rules on end of life.", "level": "B2", "category": "ethics" },
+            { "id": "le-dilemme", "french": "le dilemme", "english": "dilemma", "partOfSpeech": "noun", "gender": "m", "plural": "les dilemmes", "pronunciation": "luh dee-LEM", "example": "Les soignants affrontent des dilemmes quotidiens.", "exampleEnglish": "Care workers face daily dilemmas.", "level": "B2", "category": "ethics" },
+            { "id": "la-clause-de-conscience", "french": "la clause de conscience", "english": "conscience clause", "partOfSpeech": "noun", "gender": "f", "plural": "les clauses de conscience", "pronunciation": "lah klohz duh kon-SYAHNSS", "example": "Un médecin peut invoquer la clause de conscience.", "exampleEnglish": "A doctor may invoke the conscience clause.", "level": "B2", "category": "ethics" },
+            { "id": "le-secret-medical", "french": "le secret médical", "english": "medical confidentiality", "partOfSpeech": "noun", "gender": "m", "plural": "les secrets médicaux", "pronunciation": "luh suh-KRAY may-dee-KAL", "example": "Le secret médical protège la vie privée du patient.", "exampleEnglish": "Medical confidentiality protects the patient's privacy.", "level": "B2", "category": "ethics" },
+            { "id": "la-confidentialite", "french": "la confidentialité", "english": "confidentiality", "partOfSpeech": "noun", "gender": "f", "plural": "les confidentialités", "pronunciation": "lah kon-fee-dahn-sya-lee-TAY", "example": "La confidentialité des données de santé est strictement protégée.", "exampleEnglish": "The confidentiality of health data is strictly protected.", "level": "B2", "category": "ethics" },
+            { "id": "l-anonymat", "french": "l'anonymat", "english": "anonymity", "partOfSpeech": "noun", "gender": "m", "plural": "les anonymats", "pronunciation": "la-no-nee-MAH", "example": "L'anonymat du don est un principe légal.", "exampleEnglish": "The anonymity of donation is a legal principle.", "level": "B2", "category": "ethics" },
+            { "id": "la-gratuite", "french": "la gratuité", "english": "the principle of no payment", "partOfSpeech": "noun", "gender": "f", "plural": "les gratuités", "pronunciation": "lah gra-tew-ee-TAY", "example": "La gratuité interdit toute rémunération du donneur.", "exampleEnglish": "The no-payment principle forbids any remuneration of the donor.", "level": "B2", "category": "ethics" },
+            { "id": "la-presomption", "french": "la présomption", "english": "presumption", "partOfSpeech": "noun", "gender": "f", "plural": "les présomptions", "pronunciation": "lah pray-zonp-SYON", "example": "La présomption de consentement s'applique à tous les majeurs.", "exampleEnglish": "The presumption of consent applies to all adults.", "level": "B2", "category": "ethics" },
+            { "id": "presume", "french": "présumé", "english": "presumed", "partOfSpeech": "adjective", "pronunciation": "pray-zew-MAY", "example": "Le consentement est présumé sauf refus enregistré.", "exampleEnglish": "Consent is presumed unless a refusal has been registered.", "level": "B2", "category": "ethics" },
+            { "id": "le-comite-d-ethique", "french": "le comité d'éthique", "english": "ethics committee", "partOfSpeech": "noun", "gender": "m", "plural": "les comités d'éthique", "pronunciation": "luh ko-mee-TAY day-TEEK", "example": "Le comité d'éthique a rendu un avis nuancé.", "exampleEnglish": "The ethics committee issued a nuanced opinion.", "level": "B2", "category": "ethics" },
+            { "id": "la-deliberation", "french": "la délibération", "english": "deliberation", "partOfSpeech": "noun", "gender": "f", "plural": "les délibérations", "pronunciation": "lah day-lee-bay-ra-SYON", "example": "La délibération a duré plusieurs heures.", "exampleEnglish": "The deliberation lasted several hours.", "level": "B2", "category": "ethics" },
+            { "id": "la-controverse", "french": "la controverse", "english": "controversy", "partOfSpeech": "noun", "gender": "f", "plural": "les controverses", "pronunciation": "lah kon-tro-VAIRSS", "example": "Cette proposition a relancé la controverse.", "exampleEnglish": "This proposal reignited the controversy.", "level": "B2", "category": "ethics" },
+            { "id": "la-derive", "french": "la dérive", "english": "drift into abuse, slippery slope", "partOfSpeech": "noun", "gender": "f", "plural": "les dérives", "pronunciation": "lah day-REEV", "example": "Ses opposants redoutent des dérives.", "exampleEnglish": "Its opponents fear abuses.", "level": "B2", "category": "ethics" },
+            { "id": "le-partisan", "french": "le partisan", "english": "supporter, advocate", "partOfSpeech": "noun", "gender": "m", "plural": "les partisans", "pronunciation": "luh par-tee-ZAHN", "example": "Les partisans du texte évoquent la liberté de choisir.", "exampleEnglish": "The bill's supporters point to freedom of choice.", "level": "B2", "category": "ethics" },
+            { "id": "le-detracteur", "french": "le détracteur", "english": "critic, detractor", "partOfSpeech": "noun", "gender": "m", "plural": "les détracteurs", "pronunciation": "luh day-trak-TUHR", "example": "Ses détracteurs jugent la loi prématurée.", "exampleEnglish": "Its critics consider the law premature.", "level": "B2", "category": "ethics" },
+            { "id": "le-debat", "french": "le débat", "english": "debate", "partOfSpeech": "noun", "gender": "m", "plural": "les débats", "pronunciation": "luh day-BAH", "example": "Le débat public a été largement relayé par la presse.", "exampleEnglish": "The public debate was widely covered by the press.", "level": "B2", "category": "ethics" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Conceding a point: bien que, quoique, même si",
+              "body": "A balanced argument concedes before it objects, and French marks the concession explicitly. Bien que and quoique take the subjunctive; même si and alors que take the indicative — a distinction that trips up almost every learner. When the two clauses share a subject, bien que plus a bare adjective or participle is idiomatic and elegant: \"bien que favorable au texte, il reste prudent\". Sans que also takes the subjunctive and often replaces an English \"without\".",
+              "examples": [
+                { "french": "Bien que la loi soit claire, son application varie.", "english": "Although the law is clear, its application varies.", "note": "bien que + subjunctive" },
+                { "french": "Quoiqu'il ait consenti, il pouvait revenir sur sa décision.", "english": "Although he had consented, he could go back on his decision.", "note": "elision: quoique → quoiqu'il" },
+                { "french": "Même si le débat est vif, il reste respectueux.", "english": "Even though the debate is heated, it remains respectful.", "note": "même si + indicative" },
+                { "french": "Bien que favorable au don, elle s'interroge sur la présomption.", "english": "Although in favour of donation, she has questions about the presumption.", "note": "shared subject, no verb needed" },
+                { "french": "La greffe a eu lieu sans que la famille soit prévenue.", "english": "The transplant took place without the family being informed." },
+                { "french": "Il défend l'autonomie, alors que son confrère insiste sur la protection.", "english": "He defends autonomy, whereas his colleague insists on protection." }
+              ],
+              "tip": "Memorise the pair: bien que → subjunctive, même si → indicative. Getting it right instantly marks you as a B2 speaker."
+            },
+            {
+              "heading": "Attributing an opinion instead of asserting it",
+              "body": "In a bioethics discussion you constantly report positions you do not necessarily hold. French gives you three tools. Selon plus a noun attributes cleanly. The conditional — often called the conditionnel journalistique — signals that a claim is not verified. And a set of verbs of opinion put the subjunctive under negation or interrogation: \"je ne pense pas que ce soit\", but \"je pense que c'est\".",
+              "examples": [
+                { "french": "Selon ses partisans, la loi comblerait un vide juridique.", "english": "According to its supporters, the law would fill a legal gap.", "note": "selon + conditional: reported, not endorsed" },
+                { "french": "Le texte serait examiné à l'automne.", "english": "The bill is reportedly to be examined in the autumn." },
+                { "french": "Je ne pense pas que la question soit tranchée.", "english": "I don't think the question is settled.", "note": "negated opinion → subjunctive" },
+                { "french": "Pensez-vous que ce soit à la loi de décider ?", "english": "Do you think it is for the law to decide?" },
+                { "french": "Il est possible que les avis divergent longtemps encore.", "english": "It is possible that opinions will differ for a long time yet." },
+                { "french": "Pour ses détracteurs, le risque de dérive n'est pas écarté.", "english": "For its critics, the risk of abuse has not been ruled out." }
+              ],
+              "tip": "\"Il n'est pas certain que…\" plus subjunctive is the safest opening in a debate: it argues without committing you."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "b2_u10_l02_li01",
+              "type": "listenChoose",
+              "french": "Bien que la loi soit claire, son application varie selon les hôpitaux.",
+              "options": [
+                "Although the law is clear, its application varies between hospitals.",
+                "Because the law is unclear, hospitals ignore it.",
+                "The law will be clarified by hospitals next year.",
+                "Hospitals apply the law identically everywhere."
+              ],
+              "answer": "Although the law is clear, its application varies between hospitals."
+            },
+            {
+              "id": "b2_u10_l02_li02",
+              "type": "listenType",
+              "french": "Le consentement doit être libre et éclairé.",
+              "answer": "Le consentement doit être libre et éclairé.",
+              "acceptedAnswers": [
+                "Le consentement doit etre libre et eclaire",
+                "le consentement doit être libre et éclairé",
+                "Le consentement doit être libre et éclairé"
+              ]
+            },
+            {
+              "id": "b2_u10_l02_li03",
+              "type": "listenChoose",
+              "french": "Selon ses partisans, le texte comblerait un vide juridique.",
+              "options": [
+                "The speaker reports the supporters' claim without endorsing it.",
+                "The speaker states as a fact that the gap is filled.",
+                "The supporters have withdrawn the bill.",
+                "The bill has already been voted into law."
+              ],
+              "answer": "The speaker reports the supporters' claim without endorsing it."
+            },
+            {
+              "id": "b2_u10_l02_li04",
+              "type": "dictation",
+              "french": "En France, le consentement au don d'organes est présumé.",
+              "answer": "En France, le consentement au don d'organes est présumé.",
+              "acceptedAnswers": [
+                "En France le consentement au don d'organes est presume",
+                "En France, le consentement au don d'organes est presume",
+                "en france, le consentement au don d'organes est présumé"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "b2_u10_l02_sp01",
+              "type": "speak",
+              "french": "Je ne pense pas que la question soit tranchée.",
+              "english": "I don't think the question is settled.",
+              "prompt": "Take a cautious position in a seminar discussion.",
+              "tip": "\"soit\" rhymes with \"quoi\" — swah, one crisp syllable, no final t."
+            },
+            {
+              "id": "b2_u10_l02_sp02",
+              "type": "speak",
+              "french": "Les uns invoquent la dignité, les autres redoutent des dérives.",
+              "english": "Some invoke dignity, others fear abuses.",
+              "prompt": "Summarise both sides in one balanced sentence.",
+              "tip": "Pause slightly at the comma so the two halves sound symmetrical."
+            },
+            {
+              "id": "b2_u10_l02_sp03",
+              "type": "speak",
+              "french": "Bien que favorable au don, je m'interroge sur le consentement présumé.",
+              "english": "Although I'm in favour of donation, I have questions about presumed consent.",
+              "prompt": "Concede a point, then raise your reservation.",
+              "tip": "\"bien que\" runs together as byan-kuh; don't stress the two words equally."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Une séance du comité d'éthique",
+              "french": "La salle est petite, la table ovale, et personne ne hausse la voix : un comité d'éthique ne ressemble pas à un plateau de télévision.\nÀ l'ordre du jour, une question que le comité examine pour la quatrième fois en dix ans : faut-il modifier la loi sur la fin de vie ?\nUne juriste ouvre la séance en rappelant l'état du droit, sans donner son avis personnel.\n« La loi actuelle interdit l'obstination déraisonnable et autorise une sédation profonde dans des cas strictement définis. »\nUn médecin de soins palliatifs prend la parole. Selon lui, l'urgence serait ailleurs : dans l'inégalité d'accès aux services existants.\n« Vingt-six départements n'ont pas d'unité dédiée. Bien que le débat porte sur la loi, la réalité se joue dans les moyens. »\nUne philosophe lui répond que l'argument des moyens ne clôt pas la discussion de principe.\n« On peut améliorer l'accompagnement et continuer de s'interroger sur l'autonomie de la personne. Les deux ne s'excluent pas. »\nUn infirmier rappelle que les équipes vivent ces dilemmes chaque semaine, et qu'aucun texte ne les supprimera.\nUne représentante d'association insiste, elle, sur les directives anticipées, encore rédigées par une minorité de patients.\n« Tant que les gens n'écrivent pas leurs volontés, ce sont les familles qui portent le poids de la décision. »\nPersonne ne conclut. Le comité rendra un avis, prudent, assorti d'opinions divergentes annexées au texte.\nC'est peut-être la seule chose sur laquelle tout le monde s'accorde ce matin-là : la nuance n'est pas une faiblesse.\nEt le désaccord, correctement formulé, reste la manière la plus honnête d'avancer.",
+              "english": "The room is small, the table oval, and nobody raises their voice: an ethics committee looks nothing like a television panel.\nOn the agenda, a question the committee is examining for the fourth time in ten years: should the end-of-life law be changed?\nA lawyer opens the session by setting out the state of the law, without giving her personal opinion.\n\"The current law prohibits unreasonable persistence in treatment and permits deep sedation in strictly defined cases.\"\nA palliative care doctor speaks. In his view, the urgency lies elsewhere: in unequal access to the services that already exist.\n\"Twenty-six départements have no dedicated unit. Although the debate is about the law, reality is decided by resources.\"\nA philosopher replies that the resources argument does not close the discussion of principle.\n\"We can improve support and go on questioning the person's autonomy. The two are not mutually exclusive.\"\nA nurse points out that teams live these dilemmas every week, and that no legal text will abolish them.\nA representative of a patients' association stresses advance directives, still written by only a minority of patients.\n\"As long as people don't write down their wishes, it is families who carry the weight of the decision.\"\nNobody concludes. The committee will issue an opinion, a cautious one, with dissenting views appended to the text.\nThat is perhaps the only thing everyone agrees on that morning: nuance is not a weakness.\nAnd disagreement, properly expressed, remains the most honest way of moving forward.",
+              "questions": [
+                {
+                  "id": "b2_u10_l02_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Quel est l'argument principal du médecin de soins palliatifs ?",
+                  "options": [
+                    "L'inégalité d'accès aux services compte autant que le texte de loi.",
+                    "La loi actuelle devrait être abrogée immédiatement.",
+                    "Les comités d'éthique n'ont aucune utilité.",
+                    "Les directives anticipées devraient être interdites."
+                  ],
+                  "answer": "L'inégalité d'accès aux services compte autant que le texte de loi."
+                },
+                {
+                  "id": "b2_u10_l02_rd02",
+                  "type": "trueFalse",
+                  "prompt": "Le comité tranche la question à la fin de la séance.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                },
+                {
+                  "id": "b2_u10_l02_rd03",
+                  "type": "multipleChoice",
+                  "prompt": "Selon la représentante d'association, quelle est la conséquence de l'absence de directives anticipées ?",
+                  "options": [
+                    "Ce sont les familles qui doivent porter la décision.",
+                    "Les hôpitaux refusent d'admettre les patients.",
+                    "La loi devient automatiquement caduque.",
+                    "Les médecins perdent leur clause de conscience."
+                  ],
+                  "answer": "Ce sont les familles qui doivent porter la décision."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "b2_u10_l02_wr01",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "Although the law is clear, its application varies.",
+              "answer": "Bien que la loi soit claire, son application varie.",
+              "acceptedAnswers": [
+                "Bien que la loi soit claire son application varie",
+                "Quoique la loi soit claire, son application varie",
+                "bien que la loi soit claire, son application varie"
+              ]
+            },
+            {
+              "id": "b2_u10_l02_wr02",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "According to its critics, the risk of abuse has not been ruled out.",
+              "answer": "Selon ses détracteurs, le risque de dérive n'est pas écarté.",
+              "acceptedAnswers": [
+                "Selon ses detracteurs, le risque de derive n'est pas ecarte",
+                "Pour ses détracteurs, le risque de dérive n'est pas écarté",
+                "selon ses détracteurs, le risque de dérive n'est pas écarté"
+              ]
+            },
+            {
+              "id": "b2_u10_l02_wr03",
+              "type": "arrangeWords",
+              "words": ["présumé", "consentement", "est", "le", "France", "En"],
+              "answer": "En France le consentement est présumé",
+              "english": "In France consent is presumed"
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "b2_u10_l02_pr01",
+              "type": "multipleChoice",
+              "prompt": "Complétez : « Même si le débat ___ vif, il reste respectueux. »",
+              "options": ["est", "soit", "fût", "ait été"],
+              "answer": "est"
+            },
+            {
+              "id": "b2_u10_l02_pr02",
+              "type": "match",
+              "pairs": [
+                { "french": "les directives anticipées", "english": "advance directives" },
+                { "french": "la personne de confiance", "english": "appointed trusted representative" },
+                { "french": "les soins palliatifs", "english": "palliative care" },
+                { "french": "la clause de conscience", "english": "conscience clause" }
+              ]
+            },
+            {
+              "id": "b2_u10_l02_pr03",
+              "type": "fillBlank",
+              "prompt": "Je ne pense pas que la question ___ tranchée.",
+              "answer": "soit"
+            },
+            {
+              "id": "b2_u10_l02_pr04",
+              "type": "fillBlank",
+              "prompt": "Le don d'organes repose sur la gratuité et l'___.",
+              "answer": "anonymat"
+            },
+            {
+              "id": "b2_u10_l02_pr05",
+              "type": "arrangeWords",
+              "words": ["dignité", "camps", "invoquent", "la", "deux", "Les"],
+              "answer": "Les deux camps invoquent la dignité",
+              "english": "Both camps invoke dignity"
+            },
+            {
+              "id": "b2_u10_l02_pr06",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "The transplant took place without the family being informed.",
+              "answer": "La greffe a eu lieu sans que la famille soit prévenue.",
+              "acceptedAnswers": [
+                "La greffe a eu lieu sans que la famille soit prevenue",
+                "La transplantation a eu lieu sans que la famille soit prévenue",
+                "la greffe a eu lieu sans que la famille soit prévenue"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "b2_u10_l02_qz01",
+              "type": "multipleChoice",
+              "prompt": "Que signifie « le consentement éclairé » ?",
+              "options": [
+                "Un accord donné après une information complète",
+                "Un accord donné par la famille à la place du patient",
+                "Un accord verbal jamais consigné par écrit",
+                "Un accord automatique prévu par la loi"
+              ],
+              "answer": "Un accord donné après une information complète"
+            },
+            {
+              "id": "b2_u10_l02_qz02",
+              "type": "trueFalse",
+              "prompt": "« Bien que » est suivi du subjonctif.",
+              "options": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "b2_u10_l02_qz03",
+              "type": "fillBlank",
+              "prompt": "___ ses partisans, la loi comblerait un vide juridique.",
+              "answer": "Selon"
+            },
+            {
+              "id": "b2_u10_l02_qz04",
+              "type": "multipleChoice",
+              "prompt": "Quelle formulation attribue une opinion sans l'endosser ?",
+              "options": [
+                "Pour ses détracteurs, le risque n'est pas écarté.",
+                "Le risque n'est pas écarté, c'est une évidence.",
+                "Je vous garantis que le risque est nul.",
+                "Le risque a été supprimé par la loi."
+              ],
+              "answer": "Pour ses détracteurs, le risque n'est pas écarté."
+            },
+            {
+              "id": "b2_u10_l02_qz05",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "Palliative care aims to relieve, not to cure.",
+              "answer": "Les soins palliatifs visent à soulager, non à guérir.",
+              "acceptedAnswers": [
+                "Les soins palliatifs visent a soulager, non a guerir",
+                "Les soins palliatifs cherchent à soulager, non à guérir",
+                "les soins palliatifs visent à soulager, non à guérir"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2_u10_l03",
+      "level": "B2",
+      "unit": 10,
+      "title": "Santé mentale",
+      "description": "How to talk about mental health in French with the care the subject deserves: person-first phrasing, useful nuance, and the words that open a conversation rather than close it.",
+      "estimatedMinutes": 19,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Person first: the phrasing that respects people",
+              "body": "French, like English, has moved towards person-first language. You say \"une personne qui vit avec un trouble anxieux\", not a label that reduces someone to a diagnosis. Older nouns used as identities are best avoided entirely; \"une personne concernée\" or \"une personne suivie pour…\" are the neutral, current forms. The same care applies to verbs: \"elle est suivie par un psychologue\" is factual and respectful, where colloquial expressions about being \"crazy\" are not — and are not taught here.",
+              "examples": [
+                { "french": "C'est une personne qui vit avec un trouble anxieux.", "english": "This is a person living with an anxiety disorder.", "note": "person first, diagnosis second" },
+                { "french": "Il est suivi par une psychologue depuis six mois.", "english": "He has been seeing a psychologist for six months.", "note": "\"être suivi par\" — the standard, neutral phrase" },
+                { "french": "Elle traverse une période difficile.", "english": "She is going through a difficult period." },
+                { "french": "On parle de personnes concernées, pas de cas.", "english": "We talk about people affected, not about cases." },
+                { "french": "Le vocabulaire employé peut soigner ou blesser.", "english": "The vocabulary used can heal or hurt." }
+              ],
+              "tip": "If a French phrase would make you wince in English, it will land the same way in French. When unsure, describe the situation, not the person."
+            },
+            {
+              "heading": "Naming what is going on, precisely",
+              "body": "Precision is part of respect. Le stress is a reaction to a demand; l'anxiété lasts beyond it. Le surmenage is overwork; l'épuisement professionnel — the official French for burnout — is what overwork can lead to. La charge mentale describes the invisible planning load carried at home or at work. Distinguishing these lets you describe an experience accurately instead of reaching for a single dramatic word.",
+              "examples": [
+                { "french": "Le stress ponctuel n'est pas de l'anxiété chronique.", "english": "Occasional stress is not chronic anxiety." },
+                { "french": "L'épuisement professionnel se reconnaît à plusieurs signes.", "english": "Professional burnout can be recognised by several signs." },
+                { "french": "La charge mentale pèse souvent sur les mêmes personnes.", "english": "The mental load often weighs on the same people." },
+                { "french": "Elle a demandé un aménagement de son poste.", "english": "She asked for an adjustment to her role." },
+                { "french": "Le sommeil est l'un des premiers indicateurs.", "english": "Sleep is one of the first indicators." },
+                { "french": "Un mal-être prolongé mérite qu'on en parle à un professionnel.", "english": "A prolonged sense of unease deserves being discussed with a professional.", "note": "\"le mal-être\" is broad and non-clinical — useful in ordinary conversation" }
+              ],
+              "tip": "This lesson teaches vocabulary, not diagnosis. Anything that concerns you personally belongs in a conversation with a health professional."
+            },
+            {
+              "heading": "Opening the conversation, not closing it",
+              "body": "The hardest part is often the first sentence. French has a stock of gentle openers that invite without pressing: \"comment tu te sens en ce moment ?\", \"je suis là si tu veux en parler\", \"tu n'es pas obligé d'en parler maintenant\". Notice the pattern — an open question, an offer, and an explicit exit. Avoid the well-meant imperatives (\"détends-toi\", \"pense à autre chose\") that shut the subject down. And note the register: this is one of the few areas where even formal French drops into a warmer, simpler tone.",
+              "examples": [
+                { "french": "Comment tu te sens en ce moment ?", "english": "How are you feeling at the moment?", "note": "open question, no assumption" },
+                { "french": "Je suis là si tu veux en parler.", "english": "I'm here if you want to talk about it." },
+                { "french": "Tu n'es pas obligé d'en parler maintenant.", "english": "You don't have to talk about it now.", "note": "the explicit exit matters as much as the offer" },
+                { "french": "Est-ce que tu es entouré en ce moment ?", "english": "Do you have people around you at the moment?" },
+                { "french": "Parler à un professionnel n'a rien d'un aveu de faiblesse.", "english": "Talking to a professional is in no way an admission of weakness." },
+                { "french": "Merci de m'en avoir parlé.", "english": "Thank you for telling me.", "note": "a short sentence that does a great deal of work" }
+              ],
+              "tip": "\"Je suis là\" — two of the most useful words in the language. Delivered plainly, without advice attached, it is usually enough."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "la-sante-mentale", "french": "la santé mentale", "english": "mental health", "partOfSpeech": "noun", "gender": "f", "plural": "les santés mentales", "pronunciation": "lah sahn-TAY mahn-TAL", "example": "La santé mentale fait enfin partie du débat public.", "exampleEnglish": "Mental health is finally part of the public conversation.", "level": "B2", "category": "mental-health" },
+            { "id": "le-bien-etre", "french": "le bien-être", "english": "wellbeing", "partOfSpeech": "noun", "gender": "m", "plural": "les biens-être", "pronunciation": "luh byan-NEH-truh", "example": "L'entreprise a lancé un programme de bien-être au travail.", "exampleEnglish": "The company has launched a workplace wellbeing programme.", "level": "B2", "category": "mental-health" },
+            { "id": "le-mal-etre", "french": "le mal-être", "english": "a sense of unease, feeling unwell in oneself", "partOfSpeech": "noun", "gender": "m", "plural": "les mal-êtres", "pronunciation": "luh mal-EH-truh", "example": "Un mal-être prolongé mérite d'être écouté.", "exampleEnglish": "A prolonged sense of unease deserves to be listened to.", "level": "B2", "category": "mental-health" },
+            { "id": "la-stigmatisation", "french": "la stigmatisation", "english": "stigmatisation", "partOfSpeech": "noun", "gender": "f", "plural": "les stigmatisations", "pronunciation": "lah steeg-ma-tee-za-SYON", "example": "La stigmatisation dissuade beaucoup de gens de consulter.", "exampleEnglish": "Stigma discourages many people from seeking help.", "level": "B2", "category": "mental-health" },
+            { "id": "destigmatiser", "french": "déstigmatiser", "english": "to destigmatise", "partOfSpeech": "verb", "pronunciation": "day-steeg-ma-tee-ZAY", "example": "Ces campagnes cherchent à déstigmatiser la santé mentale.", "exampleEnglish": "These campaigns aim to destigmatise mental health.", "level": "B2", "category": "mental-health" },
+            { "id": "prejuge", "french": "le préjugé", "english": "prejudice, preconception", "partOfSpeech": "noun", "gender": "m", "plural": "les préjugés", "pronunciation": "luh pray-zhew-ZHAY", "example": "Les préjugés reculent, lentement mais réellement.", "exampleEnglish": "Prejudices are receding, slowly but genuinely.", "level": "B2", "category": "mental-health" },
+            { "id": "le-tabou", "french": "le tabou", "english": "taboo", "partOfSpeech": "noun", "gender": "m", "plural": "les tabous", "pronunciation": "luh ta-BOO", "example": "Le sujet reste un tabou dans beaucoup de familles.", "exampleEnglish": "The subject remains taboo in many families.", "level": "B2", "category": "mental-health" },
+            { "id": "l-anxiete", "french": "l'anxiété", "english": "anxiety", "partOfSpeech": "noun", "gender": "f", "plural": "les anxiétés", "pronunciation": "lahnk-syay-TAY", "example": "L'anxiété se distingue d'un stress passager.", "exampleEnglish": "Anxiety is different from passing stress.", "level": "B2", "category": "mental-health" },
+            { "id": "le-stress", "french": "le stress", "english": "stress", "partOfSpeech": "noun", "gender": "m", "plural": "les stress", "pronunciation": "luh STRESS", "example": "Un stress ponctuel avant un examen est normal.", "exampleEnglish": "Occasional stress before an exam is normal.", "level": "B2", "category": "mental-health" },
+            { "id": "l-epuisement-professionnel", "french": "l'épuisement professionnel", "english": "burnout", "partOfSpeech": "noun", "gender": "m", "plural": "les épuisements professionnels", "pronunciation": "lay-pweez-MAHN pro-fes-yo-NEL", "example": "L'épuisement professionnel s'installe progressivement.", "exampleEnglish": "Burnout sets in gradually.", "level": "B2", "category": "mental-health" },
+            { "id": "le-surmenage", "french": "le surmenage", "english": "overwork", "partOfSpeech": "noun", "gender": "m", "plural": "les surmenages", "pronunciation": "luh sewr-muh-NAZH", "example": "Le surmenage n'est pas une preuve de sérieux.", "exampleEnglish": "Overwork is not proof of seriousness.", "level": "B2", "category": "mental-health" },
+            { "id": "la-charge-mentale", "french": "la charge mentale", "english": "mental load", "partOfSpeech": "noun", "gender": "f", "plural": "les charges mentales", "pronunciation": "lah SHARZH mahn-TAL", "example": "La charge mentale est rarement répartie équitablement.", "exampleEnglish": "The mental load is rarely shared fairly.", "level": "B2", "category": "mental-health" },
+            { "id": "le-sommeil", "french": "le sommeil", "english": "sleep", "partOfSpeech": "noun", "gender": "m", "plural": "les sommeils", "pronunciation": "luh so-MAY", "example": "Son sommeil s'est amélioré depuis qu'elle en parle.", "exampleEnglish": "Her sleep has improved since she started talking about it.", "level": "B2", "category": "mental-health" },
+            { "id": "l-accompagnement", "french": "l'accompagnement", "english": "support, guidance", "partOfSpeech": "noun", "gender": "m", "plural": "les accompagnements", "pronunciation": "la-kom-pa-nyuh-MAHN", "example": "L'accompagnement peut prendre des formes très différentes.", "exampleEnglish": "Support can take very different forms.", "level": "B2", "category": "mental-health" },
+            { "id": "accompagner", "french": "accompagner", "english": "to support, to walk alongside", "partOfSpeech": "verb", "pronunciation": "a-kom-pa-NYAY", "example": "Ses collègues l'ont accompagné sans le brusquer.", "exampleEnglish": "His colleagues supported him without rushing him.", "level": "B2", "category": "mental-health" },
+            { "id": "le-psychologue", "french": "le psychologue", "english": "psychologist", "partOfSpeech": "noun", "gender": "m", "plural": "les psychologues", "pronunciation": "luh psee-ko-LOG", "example": "Certaines séances chez le psychologue sont remboursées.", "exampleEnglish": "Some sessions with a psychologist are reimbursed.", "level": "B2", "category": "mental-health" },
+            { "id": "le-psychiatre", "french": "le psychiatre", "english": "psychiatrist", "partOfSpeech": "noun", "gender": "m", "plural": "les psychiatres", "pronunciation": "luh psee-KYA-truh", "example": "Le psychiatre est un médecin, contrairement au psychologue.", "exampleEnglish": "A psychiatrist is a doctor, unlike a psychologist.", "level": "B2", "category": "mental-health" },
+            { "id": "la-therapie", "french": "la thérapie", "english": "therapy", "partOfSpeech": "noun", "gender": "f", "plural": "les thérapies", "pronunciation": "lah tay-ra-PEE", "example": "Il n'existe pas une seule forme de thérapie.", "exampleEnglish": "There is no single form of therapy.", "level": "B2", "category": "mental-health" },
+            { "id": "le-suivi", "french": "le suivi", "english": "ongoing follow-up care", "partOfSpeech": "noun", "gender": "m", "plural": "les suivis", "pronunciation": "luh swee-VEE", "example": "Elle bénéficie d'un suivi régulier depuis l'automne.", "exampleEnglish": "She has had regular follow-up care since the autumn.", "level": "B2", "category": "mental-health" },
+            { "id": "l-ecoute", "french": "l'écoute", "english": "listening, being available to listen", "partOfSpeech": "noun", "gender": "f", "plural": "les écoutes", "pronunciation": "lay-KOOT", "example": "Une ligne d'écoute gratuite existe dans chaque région.", "exampleEnglish": "A free listening line exists in every region.", "level": "B2", "category": "mental-health" },
+            { "id": "le-soutien", "french": "le soutien", "english": "support", "partOfSpeech": "noun", "gender": "m", "plural": "les soutiens", "pronunciation": "luh soo-TYAN", "example": "Le soutien des proches change beaucoup de choses.", "exampleEnglish": "Support from those close to you makes a real difference.", "level": "B2", "category": "mental-health" },
+            { "id": "soutenir", "french": "soutenir", "english": "to support", "partOfSpeech": "verb", "pronunciation": "soot-NEER", "example": "On peut soutenir quelqu'un sans avoir de solution.", "exampleEnglish": "You can support someone without having a solution.", "level": "B2", "category": "mental-health" },
+            { "id": "la-bienveillance", "french": "la bienveillance", "english": "kindness, benevolence", "partOfSpeech": "noun", "gender": "f", "plural": "les bienveillances", "pronunciation": "lah byan-vay-YAHNSS", "example": "La bienveillance ne coûte rien et change tout.", "exampleEnglish": "Kindness costs nothing and changes everything.", "level": "B2", "category": "mental-health" },
+            { "id": "bienveillant", "french": "bienveillant", "english": "kind, caring", "partOfSpeech": "adjective", "pronunciation": "byan-vay-YAHN", "example": "Un environnement bienveillant facilite la parole.", "exampleEnglish": "A caring environment makes it easier to speak up.", "level": "B2", "category": "mental-health" },
+            { "id": "la-vulnerabilite", "french": "la vulnérabilité", "english": "vulnerability", "partOfSpeech": "noun", "gender": "f", "plural": "les vulnérabilités", "pronunciation": "lah vewl-nay-ra-bee-lee-TAY", "example": "Reconnaître sa vulnérabilité demande du courage.", "exampleEnglish": "Acknowledging your vulnerability takes courage.", "level": "B2", "category": "mental-health" },
+            { "id": "la-resilience", "french": "la résilience", "english": "resilience", "partOfSpeech": "noun", "gender": "f", "plural": "les résiliences", "pronunciation": "lah ray-zee-LYAHNSS", "example": "La résilience n'est pas une obligation de guérir vite.", "exampleEnglish": "Resilience is not an obligation to recover quickly.", "level": "B2", "category": "mental-health" },
+            { "id": "le-retablissement", "french": "le rétablissement", "english": "recovery", "partOfSpeech": "noun", "gender": "m", "plural": "les rétablissements", "pronunciation": "luh ray-ta-bleess-MAHN", "example": "Le rétablissement suit rarement une ligne droite.", "exampleEnglish": "Recovery rarely follows a straight line.", "level": "B2", "category": "mental-health" },
+            { "id": "l-estime-de-soi", "french": "l'estime de soi", "english": "self-esteem", "partOfSpeech": "noun", "gender": "f", "plural": "les estimes de soi", "pronunciation": "les-TEEM duh SWAH", "example": "L'estime de soi n'a rien à voir avec l'arrogance.", "exampleEnglish": "Self-esteem has nothing to do with arrogance.", "level": "B2", "category": "mental-health" },
+            { "id": "l-isolement", "french": "l'isolement", "english": "isolation", "partOfSpeech": "noun", "gender": "m", "plural": "les isolements", "pronunciation": "lee-zol-MAHN", "example": "L'isolement aggrave souvent la situation.", "exampleEnglish": "Isolation often makes the situation worse.", "level": "B2", "category": "mental-health" },
+            { "id": "s-isoler", "french": "s'isoler", "english": "to withdraw, to cut oneself off", "partOfSpeech": "verb", "pronunciation": "see-zo-LAY", "example": "Quand on va mal, on a parfois tendance à s'isoler.", "exampleEnglish": "When things are hard, people sometimes tend to withdraw.", "level": "B2", "category": "mental-health" },
+            { "id": "l-entourage", "french": "l'entourage", "english": "the people around someone", "partOfSpeech": "noun", "gender": "m", "plural": "les entourages", "pronunciation": "lahn-too-RAZH", "example": "Son entourage a su rester présent sans insister.", "exampleEnglish": "The people around her managed to stay present without pushing.", "level": "B2", "category": "mental-health" },
+            { "id": "le-proche", "french": "le proche", "english": "a close friend or relative", "partOfSpeech": "noun", "gender": "m", "plural": "les proches", "pronunciation": "luh PROSH", "example": "Les proches aussi ont besoin d'être écoutés.", "exampleEnglish": "Those close to the person also need to be heard.", "level": "B2", "category": "mental-health" },
+            { "id": "aborder", "french": "aborder", "english": "to broach, to bring up (a topic)", "partOfSpeech": "verb", "pronunciation": "a-bor-DAY", "example": "Aborder le sujet demande du tact.", "exampleEnglish": "Bringing up the subject requires tact.", "level": "B2", "category": "mental-health" },
+            { "id": "dedramatiser", "french": "dédramatiser", "english": "to take the drama out of, to defuse", "partOfSpeech": "verb", "pronunciation": "day-dra-ma-tee-ZAY", "example": "Dédramatiser ne signifie pas minimiser.", "exampleEnglish": "Defusing something does not mean playing it down.", "level": "B2", "category": "mental-health" },
+            { "id": "le-ressenti", "french": "le ressenti", "english": "how someone feels, felt experience", "partOfSpeech": "noun", "gender": "m", "plural": "les ressentis", "pronunciation": "luh ruh-sahn-TEE", "example": "Son ressenti compte autant que les faits.", "exampleEnglish": "How she feels matters as much as the facts.", "level": "B2", "category": "mental-health" },
+            { "id": "se-confier", "french": "se confier", "english": "to confide", "partOfSpeech": "verb", "pronunciation": "suh kon-FYAY", "example": "Il a fini par se confier à un collègue.", "exampleEnglish": "He ended up confiding in a colleague.", "level": "B2", "category": "mental-health" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Softening: the conditional and other cushions",
+              "body": "French softens a sensitive question the way English does, but mainly through the conditional. \"Tu voudrais en parler ?\" is gentler than \"tu veux en parler ?\", and \"il serait peut-être utile de…\" suggests without prescribing. Add the standard cushions — peut-être, si tu veux, quand tu te sentiras prêt — and you have a sentence that offers without cornering anyone. The same conditional lets you hedge an observation: \"j'ai l'impression que tu es fatigué en ce moment\" rather than a flat assertion.",
+              "examples": [
+                { "french": "Tu voudrais en parler ?", "english": "Would you like to talk about it?", "note": "conditional = an offer, not a demand" },
+                { "french": "Il serait peut-être utile d'en parler à un professionnel.", "english": "It might perhaps be useful to talk to a professional about it." },
+                { "french": "J'ai l'impression que tu es fatigué en ce moment.", "english": "I get the feeling you're tired at the moment.", "note": "\"j'ai l'impression que\" softens without diminishing" },
+                { "french": "On pourrait en reparler quand tu te sentiras prêt.", "english": "We could talk about it again when you feel ready.", "note": "quand + future in French where English uses the present" },
+                { "french": "Si tu veux, je t'accompagne au rendez-vous.", "english": "If you like, I'll come with you to the appointment." },
+                { "french": "Je ne veux surtout pas insister.", "english": "I really don't want to push." }
+              ],
+              "tip": "The conditional is the politeness engine of French. In this context it does more work than any single vocabulary item."
+            },
+            {
+              "heading": "Person-first structures: qui, dont, and avoiding labels",
+              "body": "Relative clauses are what let you put the person before the condition. \"Une personne qui vit avec un trouble anxieux\" and \"les personnes dont la santé mentale est fragilisée\" both keep \"personne\" as the head noun. Use qui when the person is the subject of the following verb, and dont when the clause would otherwise need de: on parle de sa santé → \"une personne dont on parle de la santé\" becomes simply \"une personne dont la santé…\". Note too that the passive être suivi par and the reflexive se sentir describe a situation rather than defining an identity.",
+              "examples": [
+                { "french": "Une personne qui traverse une période difficile n'est pas définie par elle.", "english": "A person going through a difficult period is not defined by it." },
+                { "french": "Les personnes dont la santé mentale est fragilisée ont besoin d'écoute.", "english": "People whose mental health is fragile need to be listened to.", "note": "dont = whose" },
+                { "french": "C'est une collègue dont je me sens proche.", "english": "She is a colleague I feel close to.", "note": "se sentir proche de → dont" },
+                { "french": "Elle est suivie par une psychologue.", "english": "She sees a psychologist.", "note": "être suivi par — factual, neutral, current" },
+                { "french": "Je me sens mieux qu'il y a six mois.", "english": "I feel better than I did six months ago." },
+                { "french": "Ce sont des personnes concernées, pas des étiquettes.", "english": "They are people affected, not labels." }
+              ],
+              "tip": "Test any sentence by removing the diagnosis: if what remains still describes a whole person, the phrasing is right."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "b2_u10_l03_li01",
+              "type": "listenChoose",
+              "french": "Je suis là si tu veux en parler, mais tu n'es pas obligé.",
+              "options": [
+                "An offer to listen, with no obligation attached.",
+                "An instruction to explain everything immediately.",
+                "A refusal to discuss the subject.",
+                "A promise to tell someone else about it."
+              ],
+              "answer": "An offer to listen, with no obligation attached."
+            },
+            {
+              "id": "b2_u10_l03_li02",
+              "type": "listenType",
+              "french": "Comment tu te sens en ce moment ?",
+              "answer": "Comment tu te sens en ce moment ?",
+              "acceptedAnswers": [
+                "Comment tu te sens en ce moment",
+                "comment tu te sens en ce moment ?",
+                "Comment tu te sens en ce moment?"
+              ]
+            },
+            {
+              "id": "b2_u10_l03_li03",
+              "type": "listenChoose",
+              "french": "L'épuisement professionnel s'installe progressivement, il ne surgit pas du jour au lendemain.",
+              "options": [
+                "Burnout builds up gradually rather than appearing overnight.",
+                "Burnout always appears suddenly, in a single day.",
+                "Burnout only affects people who dislike their job.",
+                "Burnout disappears as soon as you take a holiday."
+              ],
+              "answer": "Burnout builds up gradually rather than appearing overnight."
+            },
+            {
+              "id": "b2_u10_l03_li04",
+              "type": "dictation",
+              "french": "La bienveillance ne coûte rien et change beaucoup.",
+              "answer": "La bienveillance ne coûte rien et change beaucoup.",
+              "acceptedAnswers": [
+                "La bienveillance ne coute rien et change beaucoup",
+                "la bienveillance ne coûte rien et change beaucoup",
+                "La bienveillance ne coûte rien et change beaucoup"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "b2_u10_l03_sp01",
+              "type": "speak",
+              "french": "Je suis là si tu veux en parler.",
+              "english": "I'm here if you want to talk about it.",
+              "prompt": "Say it calmly to a friend, without pressing.",
+              "tip": "Keep the intonation flat and low at the end — a rising tone turns the offer into a question."
+            },
+            {
+              "id": "b2_u10_l03_sp02",
+              "type": "speak",
+              "french": "On pourrait en reparler quand tu te sentiras prêt.",
+              "english": "We could talk about it again when you feel ready.",
+              "prompt": "Leave the door open at the end of a conversation.",
+              "tip": "\"sentiras\" is the future: sahn-tee-RA, with the stress on the last syllable."
+            },
+            {
+              "id": "b2_u10_l03_sp03",
+              "type": "speak",
+              "french": "Parler à un professionnel n'a rien d'un aveu de faiblesse.",
+              "english": "Talking to a professional is in no way an admission of weakness.",
+              "prompt": "Push back gently on a stigmatising remark.",
+              "tip": "Link \"n'a rien d'un\" smoothly: na-ryan-DUHN, all one breath."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "La conversation du mardi",
+              "french": "Depuis quelques semaines, Malik arrivait au bureau plus tôt et repartait plus tard, sans que son travail avance davantage.\nSa collègue Inès l'avait remarqué, sans savoir quoi en faire : elle ne voulait ni l'ignorer, ni jouer les experts.\nLe mardi, en salle de pause, elle a simplement dit : « J'ai l'impression que tu es fatigué en ce moment. »\nMalik a haussé les épaules. « Ça va. C'est la période, c'est tout. »\nElle n'a pas insisté. Elle a ajouté une phrase, puis elle s'est tue : « Je suis là si tu veux en parler, et sinon c'est très bien aussi. »\nTrois jours plus tard, il est revenu vers elle de lui-même, avec une tasse de café dans chaque main.\nIl a parlé du sommeil qui se dérobait, de la charge mentale qui ne s'arrêtait plus le soir, de l'impression de courir sans avancer.\nInès n'a proposé aucune solution. Elle a posé des questions ouvertes et elle a écouté jusqu'au bout.\nÀ un moment, elle a dit : « Tu sais, en parler à un professionnel n'a rien d'un aveu de faiblesse. »\nMalik a souri : « C'est étrange, je conseillerais exactement ça à quelqu'un d'autre. »\nIl a fini par prendre rendez-vous, non pas à cause de cette conversation, mais peut-être un peu grâce à elle.\nSix mois plus tard, il en parle sans détour, avec le recul de quelqu'un qui va mieux et qui le sait.\nCe qui l'a aidé, dit-il, ce n'est pas un conseil brillant, c'est une collègue qui a laissé une porte entrouverte.\nEt une phrase, très banale, qu'il n'avait pas entendue depuis longtemps : « Merci de m'en avoir parlé. »",
+              "english": "For a few weeks, Malik had been arriving at the office earlier and leaving later, without his work moving on any faster.\nHis colleague Inès had noticed, without knowing what to do about it: she wanted neither to ignore it nor to play the expert.\nOn the Tuesday, in the break room, she simply said: \"I get the feeling you're tired at the moment.\"\nMalik shrugged. \"I'm fine. It's just this time of year, that's all.\"\nShe didn't push. She added one sentence, then stopped talking: \"I'm here if you want to talk about it, and if not, that's absolutely fine too.\"\nThree days later, he came back to her of his own accord, with a cup of coffee in each hand.\nHe talked about the sleep that kept slipping away, the mental load that no longer stopped in the evening, the feeling of running without moving forward.\nInès offered no solutions. She asked open questions and listened right to the end.\nAt one point she said: \"You know, talking to a professional is in no way an admission of weakness.\"\nMalik smiled: \"It's strange — that's exactly what I'd advise someone else to do.\"\nHe eventually made an appointment, not because of that conversation, but perhaps a little thanks to it.\nSix months later, he talks about it straightforwardly, with the perspective of someone who is doing better and knows it.\nWhat helped him, he says, was not a brilliant piece of advice; it was a colleague who left a door slightly open.\nAnd one very ordinary sentence he hadn't heard in a long time: \"Thank you for telling me.\"",
+              "questions": [
+                {
+                  "id": "b2_u10_l03_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Comment Inès aborde-t-elle le sujet la première fois ?",
+                  "options": [
+                    "Par une observation nuancée, sans poser de diagnostic.",
+                    "En affirmant que Malik est malade.",
+                    "En lui donnant une liste de conseils précis.",
+                    "En prévenant leur responsable avant de lui parler."
+                  ],
+                  "answer": "Par une observation nuancée, sans poser de diagnostic."
+                },
+                {
+                  "id": "b2_u10_l03_rd02",
+                  "type": "trueFalse",
+                  "prompt": "Inès propose immédiatement des solutions à Malik.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                },
+                {
+                  "id": "b2_u10_l03_rd03",
+                  "type": "multipleChoice",
+                  "prompt": "Selon Malik, qu'est-ce qui l'a réellement aidé ?",
+                  "options": [
+                    "Une collègue qui a laissé une porte entrouverte.",
+                    "Un conseil très technique donné par un expert.",
+                    "Un changement complet de poste dans l'entreprise.",
+                    "Le fait que personne ne lui parle du sujet."
+                  ],
+                  "answer": "Une collègue qui a laissé une porte entrouverte."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "b2_u10_l03_wr01",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "I'm here if you want to talk about it.",
+              "answer": "Je suis là si tu veux en parler.",
+              "acceptedAnswers": [
+                "Je suis la si tu veux en parler",
+                "Je suis là si vous voulez en parler",
+                "je suis là si tu veux en parler"
+              ]
+            },
+            {
+              "id": "b2_u10_l03_wr02",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "People whose mental health is fragile need to be listened to.",
+              "answer": "Les personnes dont la santé mentale est fragilisée ont besoin d'écoute.",
+              "acceptedAnswers": [
+                "Les personnes dont la sante mentale est fragilisee ont besoin d'ecoute",
+                "Les personnes dont la santé mentale est fragile ont besoin d'écoute",
+                "les personnes dont la santé mentale est fragilisée ont besoin d'écoute"
+              ]
+            },
+            {
+              "id": "b2_u10_l03_wr03",
+              "type": "arrangeWords",
+              "words": ["minimiser", "pas", "ne", "Dédramatiser", "signifie"],
+              "answer": "Dédramatiser ne signifie pas minimiser",
+              "english": "Defusing something does not mean playing it down"
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "b2_u10_l03_pr01",
+              "type": "multipleChoice",
+              "prompt": "Quelle formulation place la personne avant le diagnostic ?",
+              "options": [
+                "une personne qui vit avec un trouble anxieux",
+                "un anxieux",
+                "le cas numéro trois",
+                "un dossier compliqué"
+              ],
+              "answer": "une personne qui vit avec un trouble anxieux"
+            },
+            {
+              "id": "b2_u10_l03_pr02",
+              "type": "match",
+              "pairs": [
+                { "french": "l'épuisement professionnel", "english": "burnout" },
+                { "french": "la charge mentale", "english": "mental load" },
+                { "french": "le mal-être", "english": "a sense of unease" },
+                { "french": "l'entourage", "english": "the people around someone" }
+              ]
+            },
+            {
+              "id": "b2_u10_l03_pr03",
+              "type": "fillBlank",
+              "prompt": "Les personnes ___ la santé mentale est fragilisée ont besoin d'écoute.",
+              "answer": "dont"
+            },
+            {
+              "id": "b2_u10_l03_pr04",
+              "type": "fillBlank",
+              "prompt": "On pourrait en reparler quand tu te ___ prêt.",
+              "answer": "sentiras"
+            },
+            {
+              "id": "b2_u10_l03_pr05",
+              "type": "arrangeWords",
+              "words": ["consulter", "dissuade", "de", "La", "stigmatisation"],
+              "answer": "La stigmatisation dissuade de consulter",
+              "english": "Stigma discourages people from seeking help"
+            },
+            {
+              "id": "b2_u10_l03_pr06",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "You can support someone without having a solution.",
+              "answer": "On peut soutenir quelqu'un sans avoir de solution.",
+              "acceptedAnswers": [
+                "On peut soutenir quelqu'un sans avoir de solution",
+                "On peut accompagner quelqu'un sans avoir de solution",
+                "on peut soutenir quelqu'un sans avoir de solution"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "b2_u10_l03_qz01",
+              "type": "multipleChoice",
+              "prompt": "Quelle phrase ouvre le mieux la conversation sans mettre la pression ?",
+              "options": [
+                "Comment tu te sens en ce moment ?",
+                "Détends-toi, ce n'est rien.",
+                "Pense à autre chose et ça passera.",
+                "Tu exagères, tout le monde est fatigué."
+              ],
+              "answer": "Comment tu te sens en ce moment ?"
+            },
+            {
+              "id": "b2_u10_l03_qz02",
+              "type": "trueFalse",
+              "prompt": "« Le surmenage » et « l'épuisement professionnel » désignent exactement la même chose.",
+              "options": ["True", "False"],
+              "answer": "False"
+            },
+            {
+              "id": "b2_u10_l03_qz03",
+              "type": "fillBlank",
+              "prompt": "Il serait peut-être ___ d'en parler à un professionnel.",
+              "answer": "utile"
+            },
+            {
+              "id": "b2_u10_l03_qz04",
+              "type": "multipleChoice",
+              "prompt": "Que veut dire « être suivi par une psychologue » ?",
+              "options": [
+                "Consulter régulièrement une psychologue",
+                "Être surveillé de loin par une psychologue",
+                "Remplacer une psychologue au travail",
+                "Refuser tout accompagnement professionnel"
+              ],
+              "answer": "Consulter régulièrement une psychologue"
+            },
+            {
+              "id": "b2_u10_l03_qz05",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "Thank you for telling me.",
+              "answer": "Merci de m'en avoir parlé.",
+              "acceptedAnswers": [
+                "Merci de m'en avoir parle",
+                "Merci de m'en avoir parlé",
+                "merci de m'en avoir parlé"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

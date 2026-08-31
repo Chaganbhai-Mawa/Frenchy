@@ -1,0 +1,886 @@
+{
+  "id": "a1_u07",
+  "level": "A1",
+  "unit": 7,
+  "title": "Daily Routine",
+  "subtitle": "Describe your day from morning to night",
+  "icon": "⏰",
+  "lessons": [
+    {
+      "id": "a1_u07_l01",
+      "level": "A1",
+      "unit": 7,
+      "title": "Le matin",
+      "description": "Talk about your morning routine with reflexive verbs.",
+      "estimatedMinutes": 13,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Morning actions",
+              "body": "Many morning actions are things you do to yourself: wake (yourself) up, wash (yourself), dress (yourself). French shows this with a small extra word: se réveiller (to wake up), se lever (to get up), se doucher (to shower), s'habiller (to get dressed).",
+              "examples": [
+                { "french": "Je me réveille à sept heures.", "english": "I wake up at seven o'clock." },
+                { "french": "Je me lève.", "english": "I get up." },
+                { "french": "Je me douche et je m'habille.", "english": "I shower and I get dressed." },
+                { "french": "Je me lave dans la salle de bains.", "english": "I wash in the bathroom." },
+                { "french": "Ensuite, je me coiffe.", "english": "Then, I do my hair." }
+              ],
+              "tip": "\"Le matin\" (in the morning) usually goes at the start or the end of the sentence: Le matin, je me lève tôt."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "se-reveiller", "french": "se réveiller", "english": "to wake up", "partOfSpeech": "verb", "pronunciation": "suh ray-vay-YAY", "example": "Je me réveille à sept heures.", "exampleEnglish": "I wake up at seven o'clock.", "level": "A1", "category": "daily-routine" },
+            { "id": "se-lever", "french": "se lever", "english": "to get up", "partOfSpeech": "verb", "pronunciation": "suh luh-VAY", "example": "Je me lève tôt.", "exampleEnglish": "I get up early.", "level": "A1", "category": "daily-routine" },
+            { "id": "se-doucher", "french": "se doucher", "english": "to take a shower", "partOfSpeech": "verb", "pronunciation": "suh doo-SHAY", "example": "Il se douche le matin.", "exampleEnglish": "He showers in the morning.", "level": "A1", "category": "daily-routine" },
+            { "id": "s-habiller", "french": "s'habiller", "english": "to get dressed", "partOfSpeech": "verb", "pronunciation": "sah-bee-YAY", "example": "Je m'habille vite.", "exampleEnglish": "I get dressed quickly.", "level": "A1", "category": "daily-routine" },
+            { "id": "se-brosser-les-dents", "french": "se brosser les dents", "english": "to brush one's teeth", "partOfSpeech": "verb", "pronunciation": "suh broh-SAY lay DAHN", "example": "Je me brosse les dents.", "exampleEnglish": "I brush my teeth.", "level": "A1", "category": "daily-routine" },
+            { "id": "matin", "french": "le matin", "english": "the morning", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh mah-TAHN", "example": "Le matin, je bois un café.", "exampleEnglish": "In the morning, I drink a coffee.", "level": "A1", "category": "daily-routine" },
+            { "id": "tot", "french": "tôt", "english": "early", "partOfSpeech": "adverb", "pronunciation": "TOH", "example": "Il se réveille tôt.", "exampleEnglish": "He wakes up early.", "level": "A1", "category": "daily-routine" },
+            { "id": "ensuite", "french": "ensuite", "english": "then / next", "partOfSpeech": "adverb", "pronunciation": "ahn-SWEET", "example": "Ensuite, je me brosse les dents.", "exampleEnglish": "Then, I brush my teeth.", "level": "A1", "category": "daily-routine" },
+            { "id": "se-laver", "french": "se laver", "english": "to wash (oneself)", "partOfSpeech": "verb", "pronunciation": "suh lah-VAY", "example": "Je me lave le matin.", "exampleEnglish": "I wash in the morning.", "level": "A1", "category": "daily-routine" },
+            { "id": "se-coiffer", "french": "se coiffer", "english": "to do one's hair", "partOfSpeech": "verb", "pronunciation": "suh kwah-FAY", "example": "Elle se coiffe devant le miroir.", "exampleEnglish": "She does her hair in front of the mirror.", "level": "A1", "category": "daily-routine" },
+            { "id": "se-preparer", "french": "se préparer", "english": "to get ready", "partOfSpeech": "verb", "pronunciation": "suh pray-pah-RAY", "example": "Je me prépare vite.", "exampleEnglish": "I get ready quickly.", "level": "A1", "category": "daily-routine" },
+            { "id": "salle-de-bains", "french": "la salle de bains", "english": "the bathroom", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah sahl duh BAHN", "example": "Je me lave dans la salle de bains.", "exampleEnglish": "I wash in the bathroom.", "level": "A1", "category": "daily-routine" },
+            { "id": "reveil", "french": "le réveil", "english": "the alarm clock", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh ray-VAY", "example": "Le réveil sonne à six heures.", "exampleEnglish": "The alarm clock rings at six o'clock.", "level": "A1", "category": "daily-routine" },
+            { "id": "vite", "french": "vite", "english": "quickly / fast", "partOfSpeech": "adverb", "pronunciation": "VEET", "example": "Il s'habille vite.", "exampleEnglish": "He gets dressed quickly.", "level": "A1", "category": "daily-routine" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Reflexive verbs: je me lève",
+              "body": "Reflexive verbs carry a little pronoun that matches the subject: je ME lève, tu TE lèves, il/elle SE lève. It always sits right before the verb. Before a vowel, me, te and se become m', t' and s': je m'habille, il s'habille.",
+              "examples": [
+                { "french": "Je me lève à sept heures.", "english": "I get up at seven o'clock." },
+                { "french": "Tu te lèves tôt ?", "english": "Do you get up early?" },
+                { "french": "Elle se douche.", "english": "She takes a shower." },
+                { "french": "Je m'habille.", "english": "I get dressed.", "note": "m' before a vowel sound" },
+                { "french": "Nous nous levons à sept heures.", "english": "We get up at seven o'clock.", "note": "nous NOUS levons" },
+                { "french": "Ils se préparent vite.", "english": "They get ready quickly." }
+              ],
+              "tip": "Compare: \"je lave la voiture\" (I wash the car) but \"je me lave\" (I wash myself). The pronoun shows the action comes back to you."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a1_u07_l01_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What does it mean?",
+              "french": "Je me lève à sept heures.",
+              "options": ["I get up at seven o'clock.", "I go to bed at seven o'clock.", "I wake up at six o'clock.", "I shower at seven o'clock."],
+              "answer": "I get up at seven o'clock."
+            },
+            {
+              "id": "a1_u07_l01_li02",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Je me douche.",
+              "answer": "Je me douche.",
+              "acceptedAnswers": ["je me douche"]
+            },
+            {
+              "id": "a1_u07_l01_li03",
+              "type": "listenChoose",
+              "prompt": "Listen. When does he wake up?",
+              "french": "Il se réveille tôt.",
+              "options": ["Early", "Late", "At noon", "In the evening"],
+              "answer": "Early"
+            },
+            {
+              "id": "a1_u07_l01_li04",
+              "type": "dictation",
+              "prompt": "Dictation: write the sentence you hear.",
+              "french": "Le matin, je m'habille.",
+              "answer": "Le matin, je m'habille.",
+              "acceptedAnswers": ["le matin je m'habille", "le matin je mhabille"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a1_u07_l01_sp01",
+              "type": "speak",
+              "prompt": "Say that you get up at seven o'clock.",
+              "french": "Je me lève à sept heures",
+              "english": "I get up at seven o'clock",
+              "tip": "Link \"sept heures\": seh-TUHR — the t carries over."
+            },
+            {
+              "id": "a1_u07_l01_sp02",
+              "type": "speak",
+              "prompt": "Say that you take a shower.",
+              "french": "Je me douche",
+              "english": "I take a shower",
+              "tip": "\"Douche\" sounds like \"doosh\"."
+            },
+            {
+              "id": "a1_u07_l01_sp03",
+              "type": "speak",
+              "prompt": "Say that you get dressed.",
+              "french": "Je m'habille",
+              "english": "I get dressed",
+              "tip": "The h is silent: zhuh mah-BEE-yuh."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Le matin de Julien",
+              "french": "Le matin, Julien se réveille à six heures et demie.\nIl se lève, il se douche et il s'habille.\nEnsuite, il se brosse les dents.\nÀ sept heures, il mange du pain et il boit un café.",
+              "english": "In the morning, Julien wakes up at half past six.\nHe gets up, showers and gets dressed.\nThen he brushes his teeth.\nAt seven o'clock, he eats bread and drinks a coffee.",
+              "questions": [
+                {
+                  "id": "a1_u07_l01_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "When does Julien wake up?",
+                  "options": ["At 6:30", "At 7:00", "At 6:00", "At 7:30"],
+                  "answer": "At 6:30"
+                },
+                {
+                  "id": "a1_u07_l01_rd02",
+                  "type": "trueFalse",
+                  "prompt": "Julien showers before getting dressed.",
+                  "options": ["True", "False"],
+                  "answer": "True"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a1_u07_l01_wr01",
+              "type": "translate",
+              "prompt": "Translate into French: \"I get up at seven o'clock.\"",
+              "english": "I get up at seven o'clock.",
+              "answer": "Je me lève à sept heures.",
+              "acceptedAnswers": ["je me leve a sept heures"]
+            },
+            {
+              "id": "a1_u07_l01_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "He wakes up early.",
+              "words": ["se", "tôt", "Il", "réveille"],
+              "answer": "Il se réveille tôt"
+            },
+            {
+              "id": "a1_u07_l01_wr03",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Je ___ douche le matin.\"",
+              "answer": "me"
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a1_u07_l01_pr01",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Tu ___ lèves à quelle heure ?\"",
+              "answer": "te",
+              "hint": "With \"tu\", the reflexive pronoun is \"te\"."
+            },
+            {
+              "id": "a1_u07_l01_pr02",
+              "type": "multipleChoice",
+              "prompt": "Choose the correct sentence.",
+              "options": ["Il s'habille vite.", "Il se habille vite.", "Il s'habiller vite.", "Il me habille vite."],
+              "answer": "Il s'habille vite.",
+              "tip": "Before a vowel sound, \"se\" becomes \"s'\"."
+            },
+            {
+              "id": "a1_u07_l01_pr03",
+              "type": "translate",
+              "prompt": "Translate into French: \"I wake up at six o'clock.\"",
+              "english": "I wake up at six o'clock.",
+              "answer": "Je me réveille à six heures.",
+              "acceptedAnswers": ["je me reveille a six heures"]
+            },
+            {
+              "id": "a1_u07_l01_pr04",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "She washes in the bathroom.",
+              "words": ["salle", "se", "la", "Elle", "dans", "lave", "bains", "de"],
+              "answer": "Elle se lave dans la salle de bains"
+            },
+            {
+              "id": "a1_u07_l01_pr05",
+              "type": "listenChoose",
+              "prompt": "Listen. What does it mean?",
+              "french": "Je me prépare vite.",
+              "options": ["I get ready quickly.", "I get up early.", "I do my hair slowly.", "I wash in the evening."],
+              "answer": "I get ready quickly."
+            },
+            {
+              "id": "a1_u07_l01_pr06",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "se laver", "english": "to wash (oneself)" },
+                { "french": "se coiffer", "english": "to do one's hair" },
+                { "french": "le réveil", "english": "the alarm clock" },
+                { "french": "vite", "english": "quickly" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a1_u07_l01_qz01",
+              "type": "multipleChoice",
+              "prompt": "Which sentence is correct?",
+              "options": ["Je me lève.", "Je se lève.", "Je te lève.", "Me je lève."],
+              "answer": "Je me lève."
+            },
+            {
+              "id": "a1_u07_l01_qz02",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Il ___ réveille à sept heures.\"",
+              "answer": "se"
+            },
+            {
+              "id": "a1_u07_l01_qz03",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "se lever", "english": "to get up" },
+                { "french": "se doucher", "english": "to take a shower" },
+                { "french": "s'habiller", "english": "to get dressed" },
+                { "french": "se réveiller", "english": "to wake up" }
+              ]
+            },
+            {
+              "id": "a1_u07_l01_qz04",
+              "type": "trueFalse",
+              "prompt": "Before a vowel, \"me\" becomes \"m'\": je m'habille.",
+              "options": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "a1_u07_l01_qz05",
+              "type": "multipleChoice",
+              "prompt": "How do you say \"I brush my teeth\"?",
+              "options": ["Je me brosse les dents.", "Je brosse les dents.", "Je me brosse les mains.", "Je se brosse les dents."],
+              "answer": "Je me brosse les dents."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1_u07_l02",
+      "level": "A1",
+      "unit": 7,
+      "title": "Ma journée",
+      "description": "Describe your day with common -er verbs in the present tense.",
+      "estimatedMinutes": 12,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Talking about your day",
+              "body": "Most French verbs end in -er: travailler (to work), manger (to eat), regarder (to watch), écouter (to listen to). With a few time words — le matin, à midi, l'après-midi — you can describe your whole day.",
+              "examples": [
+                { "french": "Le matin, je travaille.", "english": "In the morning, I work." },
+                { "french": "À midi, je mange avec une collègue.", "english": "At noon, I eat with a colleague." },
+                { "french": "L'après-midi, j'étudie le français.", "english": "In the afternoon, I study French." },
+                { "french": "Je téléphone à ma mère le soir.", "english": "I phone my mother in the evening." },
+                { "french": "Elle travaille dans un bureau.", "english": "She works in an office." }
+              ],
+              "tip": "\"Déjeuner\" is both a noun (le déjeuner, lunch) and a verb (déjeuner, to have lunch): Je déjeune à midi."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "travailler", "french": "travailler", "english": "to work", "partOfSpeech": "verb", "pronunciation": "trah-vah-YAY", "example": "Je travaille à Paris.", "exampleEnglish": "I work in Paris.", "level": "A1", "category": "daily-routine" },
+            { "id": "manger", "french": "manger", "english": "to eat", "partOfSpeech": "verb", "pronunciation": "mahn-ZHAY", "example": "Tu manges à midi ?", "exampleEnglish": "Do you eat at noon?", "level": "A1", "category": "food" },
+            { "id": "regarder", "french": "regarder", "english": "to watch / to look at", "partOfSpeech": "verb", "pronunciation": "ruh-gar-DAY", "example": "Il regarde la télévision.", "exampleEnglish": "He watches television.", "level": "A1", "category": "daily-routine" },
+            { "id": "ecouter", "french": "écouter", "english": "to listen to", "partOfSpeech": "verb", "pronunciation": "ay-koo-TAY", "example": "Elle écoute de la musique.", "exampleEnglish": "She listens to music.", "level": "A1", "category": "daily-routine" },
+            { "id": "etudier", "french": "étudier", "english": "to study", "partOfSpeech": "verb", "pronunciation": "ay-too-DYAY", "example": "J'étudie le français.", "exampleEnglish": "I study French.", "level": "A1", "category": "daily-routine" },
+            { "id": "rentrer", "french": "rentrer", "english": "to go home", "partOfSpeech": "verb", "pronunciation": "rahn-TRAY", "example": "Je rentre à six heures.", "exampleEnglish": "I go home at six o'clock.", "level": "A1", "category": "daily-routine" },
+            { "id": "dejeuner", "french": "déjeuner", "english": "to have lunch", "partOfSpeech": "verb", "pronunciation": "day-zhuh-NAY", "example": "Nous déjeunons à midi.", "exampleEnglish": "We have lunch at noon.", "level": "A1", "category": "daily-routine" },
+            { "id": "apres-midi", "french": "l'après-midi", "english": "the afternoon", "partOfSpeech": "noun", "gender": "m", "pronunciation": "lah-preh-mee-DEE", "example": "L'après-midi, je travaille.", "exampleEnglish": "In the afternoon, I work.", "level": "A1", "category": "daily-routine" },
+            { "id": "musique", "french": "la musique", "english": "music", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah moo-ZEEK", "example": "J'écoute de la musique.", "exampleEnglish": "I listen to music.", "level": "A1", "category": "daily-routine" },
+            { "id": "bureau", "french": "le bureau", "english": "the office / the desk", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh boo-ROH", "example": "Elle travaille dans un bureau.", "exampleEnglish": "She works in an office.", "level": "A1", "category": "daily-routine" },
+            { "id": "collegue", "french": "un collègue / une collègue", "english": "a colleague", "partOfSpeech": "noun", "gender": "m", "pronunciation": "koh-LEG", "example": "Je déjeune avec un collègue.", "exampleEnglish": "I have lunch with a colleague.", "level": "A1", "category": "daily-routine" },
+            { "id": "pause", "french": "une pause", "english": "a break", "partOfSpeech": "noun", "gender": "f", "pronunciation": "oon POHZ", "example": "Nous faisons une pause à dix heures.", "exampleEnglish": "We take a break at ten o'clock.", "level": "A1", "category": "daily-routine" },
+            { "id": "jouer", "french": "jouer", "english": "to play", "partOfSpeech": "verb", "pronunciation": "zhoo-AY", "example": "Les enfants jouent l'après-midi.", "exampleEnglish": "The children play in the afternoon.", "level": "A1", "category": "daily-routine" },
+            { "id": "telephoner", "french": "téléphoner", "english": "to phone / to call", "partOfSpeech": "verb", "pronunciation": "tay-lay-foh-NAY", "example": "Je téléphone à ma mère le soir.", "exampleEnglish": "I phone my mother in the evening.", "level": "A1", "category": "daily-routine" },
+            { "id": "journee", "french": "la journée", "english": "the day (daytime)", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah zhoor-NAY", "example": "Bonne journée !", "exampleEnglish": "Have a nice day!", "level": "A1", "category": "daily-routine" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "-er verbs in the present",
+              "body": "Regular -er verbs all follow the same pattern. Take off -er and add the ending: je travaille (-e), tu travailles (-es), il/elle travaille (-e). The three forms are spelled differently but pronounced exactly the same.",
+              "examples": [
+                { "french": "Je travaille à Lyon.", "english": "I work in Lyon.", "note": "je + -e" },
+                { "french": "Tu travailles beaucoup !", "english": "You work a lot!", "note": "tu + -es" },
+                { "french": "Elle travaille le matin.", "english": "She works in the morning.", "note": "il/elle + -e" },
+                { "french": "Vous travaillez ici ?", "english": "Do you work here?", "note": "vous + -ez" },
+                { "french": "Nous mangeons à midi.", "english": "We eat at noon.", "note": "nous + -ons; manger keeps an e: mangeons" },
+                { "french": "Elles écoutent de la musique.", "english": "They listen to music.", "note": "-ent is silent" }
+              ],
+              "tip": "This pattern works for thousands of verbs: manger, regarder, écouter, étudier... Learn it once, use it everywhere!"
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a1_u07_l02_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What does it mean?",
+              "french": "Je travaille à Paris.",
+              "options": ["I work in Paris.", "I study in Paris.", "I live in Paris.", "I eat in Paris."],
+              "answer": "I work in Paris."
+            },
+            {
+              "id": "a1_u07_l02_li02",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Il écoute de la musique.",
+              "answer": "Il écoute de la musique.",
+              "acceptedAnswers": ["il ecoute de la musique"]
+            },
+            {
+              "id": "a1_u07_l02_li03",
+              "type": "listenChoose",
+              "prompt": "Listen. What does she study?",
+              "french": "Elle étudie le français.",
+              "options": ["French", "English", "Music", "Spanish"],
+              "answer": "French"
+            },
+            {
+              "id": "a1_u07_l02_li04",
+              "type": "dictation",
+              "prompt": "Dictation: write the sentence you hear.",
+              "french": "Je rentre à six heures.",
+              "answer": "Je rentre à six heures.",
+              "acceptedAnswers": ["je rentre a six heures"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a1_u07_l02_sp01",
+              "type": "speak",
+              "prompt": "Say that you work in the morning.",
+              "french": "Le matin, je travaille",
+              "english": "In the morning, I work",
+              "tip": "\"Travaille\" ends in a y-sound: trah-VAH-yuh."
+            },
+            {
+              "id": "a1_u07_l02_sp02",
+              "type": "speak",
+              "prompt": "Ask a friend if they eat at noon.",
+              "french": "Tu manges à midi ?",
+              "english": "Do you eat at noon?",
+              "tip": "The -es of \"manges\" is silent: mahnzh. Let your voice rise at the end."
+            },
+            {
+              "id": "a1_u07_l02_sp03",
+              "type": "speak",
+              "prompt": "Say that he listens to music.",
+              "french": "Il écoute de la musique",
+              "english": "He listens to music",
+              "tip": "Link \"il\" and \"écoute\": ee-lay-KOOT."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "La journée de Sarah",
+              "french": "Le matin, Sarah travaille dans un bureau.\nÀ midi, elle déjeune avec une collègue.\nL'après-midi, elle étudie le français.\nLe soir, elle rentre à la maison et elle écoute de la musique.",
+              "english": "In the morning, Sarah works in an office.\nAt noon, she has lunch with a colleague.\nIn the afternoon, she studies French.\nIn the evening, she goes home and listens to music.",
+              "questions": [
+                {
+                  "id": "a1_u07_l02_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "What does Sarah do in the afternoon?",
+                  "options": ["She studies French", "She works in an office", "She listens to music", "She has lunch"],
+                  "answer": "She studies French"
+                },
+                {
+                  "id": "a1_u07_l02_rd02",
+                  "type": "trueFalse",
+                  "prompt": "Sarah has lunch alone.",
+                  "options": ["True", "False"],
+                  "answer": "False",
+                  "tip": "She has lunch with a colleague."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a1_u07_l02_wr01",
+              "type": "translate",
+              "prompt": "Translate into French: \"I work in Paris.\"",
+              "english": "I work in Paris.",
+              "answer": "Je travaille à Paris.",
+              "acceptedAnswers": ["je travaille a paris"]
+            },
+            {
+              "id": "a1_u07_l02_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "He watches television.",
+              "words": ["la", "regarde", "Il", "télévision"],
+              "answer": "Il regarde la télévision"
+            },
+            {
+              "id": "a1_u07_l02_wr03",
+              "type": "fillBlank",
+              "prompt": "Complete with the correct form of \"étudier\": \"Tu ___ le français ?\"",
+              "answer": "étudies",
+              "acceptedAnswers": ["etudies"]
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a1_u07_l02_pr01",
+              "type": "fillBlank",
+              "prompt": "Complete with the correct form of \"déjeuner\": \"Nous ___ à midi.\"",
+              "answer": "déjeunons",
+              "acceptedAnswers": ["dejeunons"],
+              "hint": "With \"nous\", the verb ends in -ons."
+            },
+            {
+              "id": "a1_u07_l02_pr02",
+              "type": "multipleChoice",
+              "prompt": "Choose the correct form: \"Vous ___ le samedi ?\"",
+              "options": ["travaillez", "travailles", "travaille", "travaillons"],
+              "answer": "travaillez",
+              "tip": "Vous takes -ez."
+            },
+            {
+              "id": "a1_u07_l02_pr03",
+              "type": "translate",
+              "prompt": "Translate into French: \"She works in an office.\"",
+              "english": "She works in an office.",
+              "answer": "Elle travaille dans un bureau.",
+              "acceptedAnswers": ["elle travaille dans un bureau"]
+            },
+            {
+              "id": "a1_u07_l02_pr04",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "I phone a colleague.",
+              "words": ["collègue", "Je", "à", "téléphone", "un"],
+              "answer": "Je téléphone à un collègue"
+            },
+            {
+              "id": "a1_u07_l02_pr05",
+              "type": "listenChoose",
+              "prompt": "Listen. What does it mean?",
+              "french": "Je regarde la télévision le soir.",
+              "options": ["I watch television in the evening.", "I listen to music in the evening.", "I watch television in the morning.", "I work in the evening."],
+              "answer": "I watch television in the evening."
+            },
+            {
+              "id": "a1_u07_l02_pr06",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "le bureau", "english": "the office" },
+                { "french": "une pause", "english": "a break" },
+                { "french": "jouer", "english": "to play" },
+                { "french": "téléphoner", "english": "to phone" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a1_u07_l02_qz01",
+              "type": "multipleChoice",
+              "prompt": "Choose the correct form: \"Il ___ à Lyon.\"",
+              "options": ["travaille", "travailles", "travaillez", "travailler"],
+              "answer": "travaille"
+            },
+            {
+              "id": "a1_u07_l02_qz02",
+              "type": "multipleChoice",
+              "prompt": "Which ending goes with \"tu\" for -er verbs?",
+              "options": ["-es", "-e", "-ez", "-ons"],
+              "answer": "-es"
+            },
+            {
+              "id": "a1_u07_l02_qz03",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "travailler", "english": "to work" },
+                { "french": "manger", "english": "to eat" },
+                { "french": "regarder", "english": "to watch" },
+                { "french": "écouter", "english": "to listen to" }
+              ]
+            },
+            {
+              "id": "a1_u07_l02_qz04",
+              "type": "trueFalse",
+              "prompt": "\"Je travaille\", \"tu travailles\" and \"il travaille\" are all pronounced the same.",
+              "options": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "a1_u07_l02_qz05",
+              "type": "fillBlank",
+              "prompt": "Complete with the correct form of \"manger\": \"Je ___ à midi.\"",
+              "answer": "mange"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1_u07_l03",
+      "level": "A1",
+      "unit": 7,
+      "title": "Le soir",
+      "description": "Talk about your evening and learn to say what you don't do.",
+      "estimatedMinutes": 12,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Evening activities",
+              "body": "In the evening — le soir — you have dinner (dîner), watch television, read a book (lire un livre) and finally go to bed (se coucher). \"Tard\" means late; its opposite is \"tôt\" (early).",
+              "examples": [
+                { "french": "Le soir, je dîne à huit heures.", "english": "In the evening, I have dinner at eight o'clock." },
+                { "french": "Je regarde la télévision.", "english": "I watch television." },
+                { "french": "Je me couche à dix heures.", "english": "I go to bed at ten o'clock." },
+                { "french": "Après le dîner, je lis un livre.", "english": "After dinner, I read a book." },
+                { "french": "Nous regardons un film.", "english": "We are watching a film." }
+              ],
+              "tip": "In France, dinner is often late — eight o'clock or even later is completely normal."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "soir", "french": "le soir", "english": "the evening", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh SWAHR", "example": "Le soir, je lis.", "exampleEnglish": "In the evening, I read.", "level": "A1", "category": "daily-routine" },
+            { "id": "diner-verbe", "french": "dîner", "english": "to have dinner", "partOfSpeech": "verb", "pronunciation": "dee-NAY", "example": "Nous dînons à huit heures.", "exampleEnglish": "We have dinner at eight o'clock.", "level": "A1", "category": "daily-routine" },
+            { "id": "television", "french": "la télévision", "english": "television", "partOfSpeech": "noun", "gender": "f", "pronunciation": "tay-lay-vee-ZYOHN", "example": "Il regarde la télévision.", "exampleEnglish": "He watches television.", "level": "A1", "category": "daily-routine" },
+            { "id": "livre", "french": "un livre", "english": "a book", "partOfSpeech": "noun", "gender": "m", "pronunciation": "uhn LEE-vruh", "example": "Je lis un livre.", "exampleEnglish": "I read a book.", "level": "A1", "category": "daily-routine" },
+            { "id": "lire", "french": "lire", "english": "to read", "partOfSpeech": "verb", "pronunciation": "LEER", "example": "Elle aime lire le soir.", "exampleEnglish": "She likes reading in the evening.", "level": "A1", "category": "daily-routine" },
+            { "id": "se-coucher", "french": "se coucher", "english": "to go to bed", "partOfSpeech": "verb", "pronunciation": "suh koo-SHAY", "example": "Je me couche à dix heures.", "exampleEnglish": "I go to bed at ten o'clock.", "level": "A1", "category": "daily-routine" },
+            { "id": "tard", "french": "tard", "english": "late", "partOfSpeech": "adverb", "pronunciation": "TAR", "example": "Il se couche tard.", "exampleEnglish": "He goes to bed late.", "level": "A1", "category": "daily-routine" },
+            { "id": "nuit", "french": "la nuit", "english": "the night", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah NWEE", "example": "Bonne nuit !", "exampleEnglish": "Good night!", "level": "A1", "category": "daily-routine" },
+            { "id": "cuisiner", "french": "cuisiner", "english": "to cook", "partOfSpeech": "verb", "pronunciation": "kwee-zee-NAY", "example": "Le soir, elle cuisine pour sa famille.", "exampleEnglish": "In the evening, she cooks for her family.", "level": "A1", "category": "daily-routine" },
+            { "id": "film", "french": "un film", "english": "a film / a movie", "partOfSpeech": "noun", "gender": "m", "pronunciation": "uhn FEELM", "example": "Nous regardons un film.", "exampleEnglish": "We are watching a film.", "level": "A1", "category": "daily-routine" },
+            { "id": "dormir", "french": "dormir", "english": "to sleep", "partOfSpeech": "verb", "pronunciation": "dor-MEER", "example": "Je dors huit heures par nuit.", "exampleEnglish": "I sleep eight hours a night.", "level": "A1", "category": "daily-routine" },
+            { "id": "se-promener", "french": "se promener", "english": "to go for a walk", "partOfSpeech": "verb", "pronunciation": "suh prohm-NAY", "example": "Ils se promènent après le dîner.", "exampleEnglish": "They go for a walk after dinner.", "level": "A1", "category": "daily-routine" },
+            { "id": "ne-jamais", "french": "ne... jamais", "english": "never", "partOfSpeech": "expression", "pronunciation": "nuh zhah-MEH", "example": "Il ne regarde jamais la télévision.", "exampleEnglish": "He never watches television.", "level": "A1", "category": "daily-routine" },
+            { "id": "apres", "french": "après", "english": "after", "partOfSpeech": "adverb", "pronunciation": "ah-PREH", "example": "Après le dîner, je lis un livre.", "exampleEnglish": "After dinner, I read a book.", "level": "A1", "category": "daily-routine" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Saying no: ne... pas",
+              "body": "To make a sentence negative, French wraps the verb in two little words: \"ne\" before the verb, \"pas\" after it. Je travaille → Je ne travaille pas. Before a vowel sound, \"ne\" becomes \"n'\": Je n'aime pas le café.",
+              "examples": [
+                { "french": "Je ne travaille pas le soir.", "english": "I don't work in the evening." },
+                { "french": "Il ne regarde pas la télévision.", "english": "He doesn't watch television." },
+                { "french": "Je n'aime pas le café.", "english": "I don't like coffee.", "note": "n' before a vowel" },
+                { "french": "Nous ne dînons pas tard.", "english": "We don't have dinner late." },
+                { "french": "Ils ne regardent jamais la télévision.", "english": "They never watch television.", "note": "ne... jamais = never" }
+              ],
+              "tip": "With reflexive verbs, the pronoun stays glued to the verb: Je ne me couche pas tard."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a1_u07_l03_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What does it mean?",
+              "french": "Je ne travaille pas le soir.",
+              "options": ["I don't work in the evening.", "I work in the evening.", "I don't work in the morning.", "I go to bed early."],
+              "answer": "I don't work in the evening."
+            },
+            {
+              "id": "a1_u07_l03_li02",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Il ne regarde pas la télévision.",
+              "answer": "Il ne regarde pas la télévision.",
+              "acceptedAnswers": ["il ne regarde pas la television"]
+            },
+            {
+              "id": "a1_u07_l03_li03",
+              "type": "listenChoose",
+              "prompt": "Listen. When does she go to bed?",
+              "french": "Elle se couche tard.",
+              "options": ["Late", "Early", "At noon", "In the morning"],
+              "answer": "Late"
+            },
+            {
+              "id": "a1_u07_l03_li04",
+              "type": "dictation",
+              "prompt": "Dictation: write the sentence you hear.",
+              "french": "Le soir, je dîne à huit heures.",
+              "answer": "Le soir, je dîne à huit heures.",
+              "acceptedAnswers": ["le soir je dine a huit heures"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a1_u07_l03_sp01",
+              "type": "speak",
+              "prompt": "Say that you don't work in the evening.",
+              "french": "Je ne travaille pas le soir",
+              "english": "I don't work in the evening",
+              "tip": "In fast speech the \"ne\" almost disappears, but pronounce it clearly for now: zhuh nuh."
+            },
+            {
+              "id": "a1_u07_l03_sp02",
+              "type": "speak",
+              "prompt": "Say that you watch television.",
+              "french": "Je regarde la télévision",
+              "english": "I watch television",
+              "tip": "Every é is \"ay\": tay-lay-vee-ZYOHN."
+            },
+            {
+              "id": "a1_u07_l03_sp03",
+              "type": "speak",
+              "prompt": "Say that you go to bed at ten o'clock.",
+              "french": "Je me couche à dix heures",
+              "english": "I go to bed at ten o'clock",
+              "tip": "Link \"dix heures\": dee-ZUHR — the x becomes a z sound."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Le soir chez Léo",
+              "french": "Le soir, Léo ne travaille pas.\nIl dîne à sept heures et demie avec sa famille.\nAprès le dîner, il lit un livre ou il regarde la télévision.\nIl ne se couche pas tard : à dix heures, bonne nuit !",
+              "english": "In the evening, Léo doesn't work.\nHe has dinner at half past seven with his family.\nAfter dinner, he reads a book or watches television.\nHe doesn't go to bed late: at ten o'clock, good night!",
+              "questions": [
+                {
+                  "id": "a1_u07_l03_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "What does Léo do after dinner?",
+                  "options": ["He reads or watches television", "He works", "He goes out with friends", "He takes a shower"],
+                  "answer": "He reads or watches television"
+                },
+                {
+                  "id": "a1_u07_l03_rd02",
+                  "type": "trueFalse",
+                  "prompt": "Léo goes to bed late.",
+                  "options": ["True", "False"],
+                  "answer": "False",
+                  "tip": "He goes to bed at ten o'clock — not late."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a1_u07_l03_wr01",
+              "type": "translate",
+              "prompt": "Translate into French: \"I don't work in the evening.\"",
+              "english": "I don't work in the evening.",
+              "answer": "Je ne travaille pas le soir.",
+              "acceptedAnswers": ["je ne travaille pas le soir"]
+            },
+            {
+              "id": "a1_u07_l03_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "She does not watch television.",
+              "words": ["regarde", "ne", "Elle", "pas", "télévision", "la"],
+              "answer": "Elle ne regarde pas la télévision"
+            },
+            {
+              "id": "a1_u07_l03_wr03",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Je ne mange ___ tard.\"",
+              "answer": "pas"
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a1_u07_l03_pr01",
+              "type": "multipleChoice",
+              "prompt": "Make the sentence negative: \"Je regarde la télévision.\"",
+              "options": ["Je ne regarde pas la télévision.", "Je regarde ne pas la télévision.", "Ne je regarde pas la télévision.", "Je pas regarde la télévision."],
+              "answer": "Je ne regarde pas la télévision."
+            },
+            {
+              "id": "a1_u07_l03_pr02",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Elle ___ dîne pas tard.\"",
+              "answer": "ne",
+              "hint": "\"Ne\" goes before the verb, \"pas\" after it."
+            },
+            {
+              "id": "a1_u07_l03_pr03",
+              "type": "translate",
+              "prompt": "Translate into French: \"We are watching a film.\"",
+              "english": "We are watching a film.",
+              "answer": "Nous regardons un film.",
+              "acceptedAnswers": ["nous regardons un film"]
+            },
+            {
+              "id": "a1_u07_l03_pr04",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "He never watches television.",
+              "words": ["jamais", "télévision", "Il", "regarde", "ne", "la"],
+              "answer": "Il ne regarde jamais la télévision"
+            },
+            {
+              "id": "a1_u07_l03_pr05",
+              "type": "listenChoose",
+              "prompt": "Listen. What does it mean?",
+              "french": "Le soir, elle cuisine pour sa famille.",
+              "options": ["In the evening, she cooks for her family.", "In the evening, she eats with her family.", "In the morning, she cooks for her family.", "In the evening, she reads to her family."],
+              "answer": "In the evening, she cooks for her family."
+            },
+            {
+              "id": "a1_u07_l03_pr06",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "cuisiner", "english": "to cook" },
+                { "french": "dormir", "english": "to sleep" },
+                { "french": "un film", "english": "a film" },
+                { "french": "après", "english": "after" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a1_u07_l03_qz01",
+              "type": "multipleChoice",
+              "prompt": "Make the sentence negative: \"Je travaille.\"",
+              "options": ["Je ne travaille pas.", "Je pas travaille.", "Ne je travaille pas.", "Je travaille ne pas."],
+              "answer": "Je ne travaille pas."
+            },
+            {
+              "id": "a1_u07_l03_qz02",
+              "type": "multipleChoice",
+              "prompt": "Choose the correct sentence.",
+              "options": ["Je n'aime pas le café.", "Je ne aime pas le café.", "Je n'aime pas pas le café.", "Je ne pas aime le café."],
+              "answer": "Je n'aime pas le café.",
+              "tip": "Before a vowel, \"ne\" becomes \"n'\"."
+            },
+            {
+              "id": "a1_u07_l03_qz03",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "le soir", "english": "the evening" },
+                { "french": "la nuit", "english": "the night" },
+                { "french": "tard", "english": "late" },
+                { "french": "un livre", "english": "a book" }
+              ]
+            },
+            {
+              "id": "a1_u07_l03_qz04",
+              "type": "trueFalse",
+              "prompt": "In negation, \"ne\" comes before the verb and \"pas\" after it.",
+              "options": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "a1_u07_l03_qz05",
+              "type": "translate",
+              "prompt": "Translate into French: \"I go to bed at ten o'clock.\"",
+              "english": "I go to bed at ten o'clock.",
+              "answer": "Je me couche à dix heures.",
+              "acceptedAnswers": ["je me couche a dix heures"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

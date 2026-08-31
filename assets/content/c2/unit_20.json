@@ -1,0 +1,589 @@
+{
+  "id": "c2_u20",
+  "level": "C2",
+  "unit": 20,
+  "title": "Poetry Mastery",
+  "subtitle": "Master fixed forms, free verse, and the craft of writing an original poem",
+  "icon": "🌌",
+  "lessons": [
+    {
+      "id": "c2_u20_l01",
+      "level": "C2",
+      "unit": 20,
+      "title": "Les formes fixes",
+      "description": "The architecture of the classical French poem: the sonnet's quatrains and tercets, the ballade's refrain and envoi, and the metrics that hold both together.",
+      "estimatedMinutes": 19,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Le sonnet : deux quatrains, deux tercets",
+              "body": "The sonnet is fourteen lines built as two quatrains followed by two tercets. The French sonnet rhymes its quatrains ABBA ABBA (rimes embrassées) and its tercets CCD EED; the Italian, or Petrarchan, sonnet groups the same fourteen lines into an octave (ABBAABBA) and a sestet (CDECDE or CDCDCD). Somewhere between the octave and the sestet, or in the final couplet, the poem turns: this turn is the volta, and the very last line, sharpened to land hardest, is the chute.",
+              "examples": [
+                { "french": "Le sonnet compte toujours quatorze vers, jamais un de plus.", "english": "The sonnet always counts fourteen lines, never one more." },
+                { "french": "Le sonnet français referme chaque quatrain sur une rime embrassée.", "english": "The French sonnet closes each quatrain on an enclosed rhyme.", "note": "ABBA ABBA" },
+                { "french": "Le sonnet italien organise ses quatorze vers en une octave, puis un sizain.", "english": "The Italian sonnet organises its fourteen lines into an octave, then a sestet." },
+                { "french": "La volta fait basculer le poème d'une idée vers son contraire, ou vers sa conséquence.", "english": "The volta tips the poem from one idea toward its opposite, or toward its consequence." },
+                { "french": "La chute doit surprendre sans jamais trahir ce que les quatrains ont installé.", "english": "The chute must surprise without ever betraying what the quatrains set up." }
+              ],
+              "tip": "Read the last line of a sonnet on its own, out loud: if it lands like a small verdict, the chute is working."
+            },
+            {
+              "heading": "La ballade : strophes identiques, refrain et envoi",
+              "body": "The ballade is built from three main stanzas of identical length and rhyme scheme — most often huitains (eight lines) or dizains (ten lines) — each closing on the same repeated line, the refrain. A shorter final stanza, the envoi, addresses a dedicatee directly (traditionally 'Prince') and repeats the refrain one last time, summarising the whole poem's argument in miniature.",
+              "examples": [
+                { "french": "La ballade classique aligne trois strophes, toutes bâties sur le même schéma de rimes.", "english": "The classical ballade lines up three stanzas, all built on the same rhyme scheme." },
+                { "french": "Le refrain revient identique à la fin de chaque strophe, comme un vers qui refuse de changer.", "english": "The refrain returns identical at the end of every stanza, like a line that refuses to change." },
+                { "french": "L'envoi, plus court, s'adresse directement à un destinataire, souvent nommé « Prince ».", "english": "The envoi, shorter, addresses a recipient directly, often named 'Prince'." },
+                { "french": "L'envoi condense en quelques vers ce que les trois strophes ont longuement démontré.", "english": "The envoi condenses in a few lines what the three stanzas demonstrated at length." },
+                { "french": "Une ballade sans refrain n'est plus une ballade : elle a perdu son squelette.", "english": "A ballade without a refrain is no longer a ballade: it has lost its skeleton." }
+              ],
+              "tip": "Draft the refrain line first — everything else in a ballade is written to make that one line land differently each time."
+            },
+            {
+              "heading": "Compter les syllabes : mètre et rime en poésie classique",
+              "body": "French classical metrics counts syllables, not stressed beats. The alexandrin holds twelve syllables split by a caesura into two hemistiches of six; the mute e counts as a syllable before a consonant but disappears before a vowel. Rhymes are graded by how many identical sounds they share: rime pauvre shares only the final vowel, rime suffisante adds one more matching sound, and rime riche matches three sounds or more.",
+              "examples": [
+                { "french": "L'alexandrin se coupe toujours après la sixième syllabe : c'est la césure.", "english": "The alexandrine always breaks after the sixth syllable: that is the caesura." },
+                { "french": "Un e muet compte pour une syllabe devant une consonne, mais s'efface devant une voyelle.", "english": "A mute e counts as one syllable before a consonant, but disappears before a vowel." },
+                { "french": "« Jour » et « amour » ne partagent qu'un son : c'est une rime pauvre.", "english": "'Jour' and 'amour' share only one sound: that is a poor rhyme." },
+                { "french": "« Lumière » et « prière » partagent trois sons : c'est déjà une rime riche.", "english": "'Lumière' and 'prière' share three sounds: that already counts as a rich rhyme." },
+                { "french": "Le décasyllabe et l'octosyllabe imposent chacun leur propre respiration au vers.", "english": "The decasyllable and the octosyllable each impose their own breathing pattern on the line." }
+              ],
+              "tip": "Count on your fingers, syllable by syllable, out loud — French metrics is a spoken discipline before it is a written one."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "le-sonnet", "french": "le sonnet", "english": "the sonnet", "partOfSpeech": "noun", "gender": "m", "plural": "les sonnets", "pronunciation": "luh soh-NEH", "example": "Le sonnet impose quatorze vers répartis en deux quatrains et deux tercets.", "exampleEnglish": "The sonnet imposes fourteen lines split into two quatrains and two tercets.", "level": "C2", "category": "poetry-forms" },
+            { "id": "la-ballade", "french": "la ballade", "english": "the ballade (fixed poetic form)", "partOfSpeech": "noun", "gender": "f", "plural": "les ballades", "pronunciation": "lah bah-LAHD", "example": "La ballade se reconnaît à son refrain, répété à la fin de chaque strophe.", "exampleEnglish": "The ballade is recognised by its refrain, repeated at the end of every stanza.", "level": "C2", "category": "poetry-forms" },
+            { "id": "le-quatrain", "french": "le quatrain", "english": "the quatrain (four-line stanza)", "partOfSpeech": "noun", "gender": "m", "plural": "les quatrains", "pronunciation": "luh kah-TRAN", "example": "Le sonnet s'ouvre toujours par deux quatrains.", "exampleEnglish": "The sonnet always opens with two quatrains.", "level": "C2", "category": "poetry-forms" },
+            { "id": "le-tercet", "french": "le tercet", "english": "the tercet (three-line stanza)", "partOfSpeech": "noun", "gender": "m", "plural": "les tercets", "pronunciation": "luh tair-SEH", "example": "Les deux tercets ferment le sonnet après les quatrains.", "exampleEnglish": "The two tercets close the sonnet after the quatrains.", "level": "C2", "category": "poetry-forms" },
+            { "id": "le-distique", "french": "le distique", "english": "the couplet (two-line unit)", "partOfSpeech": "noun", "gender": "m", "plural": "les distiques", "pronunciation": "luh dees-TEEK", "example": "Un distique final referme parfois le sonnet comme une porte.", "exampleEnglish": "A final couplet sometimes closes the sonnet like a door.", "level": "C2", "category": "poetry-forms" },
+            { "id": "la-strophe", "french": "la strophe", "english": "the stanza", "partOfSpeech": "noun", "gender": "f", "plural": "les strophes", "pronunciation": "lah STROHF", "example": "Chaque strophe de la ballade suit exactement le même schéma de rimes.", "exampleEnglish": "Every stanza of the ballade follows exactly the same rhyme scheme.", "level": "C2", "category": "poetry-forms" },
+            { "id": "le-vers", "french": "le vers", "english": "the line of verse", "partOfSpeech": "noun", "gender": "m", "plural": "les vers", "pronunciation": "luh VAIR", "example": "Chaque vers du sonnet compte exactement douze syllabes.", "exampleEnglish": "Every line of the sonnet counts exactly twelve syllables.", "level": "C2", "category": "poetry-forms" },
+            { "id": "la-rime", "french": "la rime", "english": "the rhyme", "partOfSpeech": "noun", "gender": "f", "plural": "les rimes", "pronunciation": "lah REEM", "example": "La rime organise le sonnet aussi sûrement que sa syntaxe.", "exampleEnglish": "The rhyme organises the sonnet as surely as its syntax does.", "level": "C2", "category": "poetry-forms" },
+            { "id": "la-rime-embrassee", "french": "la rime embrassée", "english": "the enclosed rhyme (ABBA)", "partOfSpeech": "noun", "gender": "f", "plural": "les rimes embrassées", "pronunciation": "lah reem ahn-brah-SAY", "example": "La rime embrassée referme chaque quatrain du sonnet français sur lui-même.", "exampleEnglish": "The enclosed rhyme closes each quatrain of the French sonnet in on itself.", "level": "C2", "category": "poetry-forms" },
+            { "id": "la-rime-croisee", "french": "la rime croisée", "english": "the crossed rhyme (ABAB)", "partOfSpeech": "noun", "gender": "f", "plural": "les rimes croisées", "pronunciation": "lah reem krwah-ZAY", "example": "La rime croisée alterne les deux sons d'un vers à l'autre.", "exampleEnglish": "The crossed rhyme alternates the two sounds from one line to the next.", "level": "C2", "category": "poetry-forms" },
+            { "id": "la-rime-plate", "french": "la rime plate", "english": "the flat rhyme, couplet rhyme (AABB)", "partOfSpeech": "noun", "gender": "f", "plural": "les rimes plates", "pronunciation": "lah reem PLAHT", "example": "La rime plate rapproche les vers deux par deux, sans les croiser.", "exampleEnglish": "The flat rhyme pairs the lines two by two, without crossing them.", "level": "C2", "category": "poetry-forms" },
+            { "id": "la-rime-riche", "french": "la rime riche", "english": "the rich rhyme (three or more shared sounds)", "partOfSpeech": "noun", "gender": "f", "plural": "les rimes riches", "pronunciation": "lah reem REESH", "example": "Une rime riche demande au moins trois sons identiques entre les deux mots.", "exampleEnglish": "A rich rhyme requires at least three identical sounds between the two words.", "level": "C2", "category": "poetry-forms" },
+            { "id": "la-rime-pauvre", "french": "la rime pauvre", "english": "the poor rhyme (only one shared sound)", "partOfSpeech": "noun", "gender": "f", "plural": "les rimes pauvres", "pronunciation": "lah reem POH-vruh", "example": "Une rime pauvre suffit techniquement, mais elle ne surprend jamais l'oreille.", "exampleEnglish": "A poor rhyme is technically enough, but it never surprises the ear.", "level": "C2", "category": "poetry-forms" },
+            { "id": "la-rime-suffisante", "french": "la rime suffisante", "english": "the sufficient rhyme (two shared sounds)", "partOfSpeech": "noun", "gender": "f", "plural": "les rimes suffisantes", "pronunciation": "lah reem sue-fee-ZAHNT", "example": "La rime suffisante reste la norme dans la majorité des sonnets classiques.", "exampleEnglish": "The sufficient rhyme remains the norm in most classical sonnets.", "level": "C2", "category": "poetry-forms" },
+            { "id": "l-alexandrin", "french": "l'alexandrin", "english": "the alexandrine (12-syllable line)", "partOfSpeech": "noun", "gender": "m", "plural": "les alexandrins", "pronunciation": "lah-lek-sahn-DRAN", "example": "L'alexandrin reste le vers noble par excellence de la poésie française.", "exampleEnglish": "The alexandrine remains the noble line par excellence of French poetry.", "level": "C2", "category": "poetry-forms" },
+            { "id": "le-decasyllabe", "french": "le décasyllabe", "english": "the decasyllable (10-syllable line)", "partOfSpeech": "noun", "gender": "m", "plural": "les décasyllabes", "pronunciation": "day-kah-see-LAHB", "example": "Le décasyllabe précède l'alexandrin dans l'histoire du vers français.", "exampleEnglish": "The decasyllable precedes the alexandrine in the history of French verse.", "level": "C2", "category": "poetry-forms" },
+            { "id": "l-octosyllabe", "french": "l'octosyllabe", "english": "the octosyllable (8-syllable line)", "partOfSpeech": "noun", "gender": "m", "plural": "les octosyllabes", "pronunciation": "lok-toh-see-LAHB", "example": "L'octosyllabe donne à la ballade son pas rapide et léger.", "exampleEnglish": "The octosyllable gives the ballade its quick, light step.", "level": "C2", "category": "poetry-forms" },
+            { "id": "la-syllabe", "french": "la syllabe", "english": "the syllable", "partOfSpeech": "noun", "gender": "f", "plural": "les syllabes", "pronunciation": "lah see-LAHB", "example": "On vérifie un vers en comptant ses syllabes une à une.", "exampleEnglish": "You check a line by counting its syllables one by one.", "level": "C2", "category": "poetry-forms" },
+            { "id": "l-hemistiche", "french": "l'hémistiche", "english": "the hemistich (half-line)", "partOfSpeech": "noun", "gender": "m", "plural": "les hémistiches", "pronunciation": "lay-mee-STEESH", "example": "Chaque hémistiche de l'alexandrin compte exactement six syllabes.", "exampleEnglish": "Each hemistich of the alexandrine counts exactly six syllables.", "level": "C2", "category": "poetry-forms" },
+            { "id": "la-cesure", "french": "la césure", "english": "the caesura (the mid-line pause)", "partOfSpeech": "noun", "gender": "f", "plural": "les césures", "pronunciation": "lah say-ZUR", "example": "La césure de l'alexandrin tombe toujours après la sixième syllabe.", "exampleEnglish": "The caesura of the alexandrine always falls after the sixth syllable.", "level": "C2", "category": "poetry-forms" },
+            { "id": "le-metre", "french": "le mètre", "english": "the metre (the syllable count of a line)", "partOfSpeech": "noun", "gender": "m", "plural": "les mètres", "pronunciation": "luh MET-truh", "example": "Le poète a choisi un mètre unique pour tout le sonnet.", "exampleEnglish": "The poet chose a single metre for the whole sonnet.", "level": "C2", "category": "poetry-forms" },
+            { "id": "la-metrique", "french": "la métrique", "english": "metrics (the study of poetic form)", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah may-TREEK", "example": "La métrique classique impose des règles précises, presque mathématiques.", "exampleEnglish": "Classical metrics imposes precise, almost mathematical rules.", "level": "C2", "category": "poetry-forms" },
+            { "id": "le-e-muet", "french": "le e muet", "english": "the mute e (counted in classical verse)", "partOfSpeech": "noun", "gender": "m", "plural": "les e muets", "pronunciation": "luh uh mweh", "example": "Le e muet se prononce devant une consonne, jamais devant une voyelle.", "exampleEnglish": "The mute e is pronounced before a consonant, never before a vowel.", "level": "C2", "category": "poetry-forms" },
+            { "id": "le-refrain", "french": "le refrain", "english": "the refrain", "partOfSpeech": "noun", "gender": "m", "plural": "les refrains", "pronunciation": "luh ruh-FRAN", "example": "Le refrain de la ballade revient, mot pour mot, à la fin de chaque strophe.", "exampleEnglish": "The ballade's refrain returns, word for word, at the end of every stanza.", "level": "C2", "category": "poetry-forms" },
+            { "id": "l-envoi", "french": "l'envoi", "english": "the envoi (the ballade's shorter closing stanza)", "partOfSpeech": "noun", "gender": "m", "plural": "les envois", "pronunciation": "lahn-VWAH", "example": "L'envoi s'adresse directement au destinataire du poème.", "exampleEnglish": "The envoi addresses the poem's dedicatee directly.", "level": "C2", "category": "poetry-forms" },
+            { "id": "la-chute", "french": "la chute", "english": "the closing line, the final twist", "partOfSpeech": "noun", "gender": "f", "plural": "les chutes", "pronunciation": "lah SHUET", "example": "La chute du sonnet doit tomber exactement sur le dernier mot.", "exampleEnglish": "The sonnet's closing line must land exactly on the last word.", "level": "C2", "category": "poetry-forms" },
+            { "id": "la-volta", "french": "la volta", "english": "the volta (the sonnet's turn in argument)", "partOfSpeech": "noun", "gender": "f", "plural": "les voltas", "pronunciation": "lah vol-TAH", "example": "La volta fait basculer le sonnet entre l'octave et le sizain.", "exampleEnglish": "The volta tips the sonnet between the octave and the sestet.", "level": "C2", "category": "poetry-forms" },
+            { "id": "le-sonnet-francais", "french": "le sonnet français", "english": "the French sonnet (two quatrains, two tercets)", "partOfSpeech": "noun", "gender": "m", "plural": "les sonnets français", "pronunciation": "luh soh-neh frahn-SEH", "example": "Le sonnet français referme ses tercets sur un schéma CCD EED.", "exampleEnglish": "The French sonnet closes its tercets on a CCD EED pattern.", "level": "C2", "category": "poetry-forms" },
+            { "id": "le-sonnet-italien", "french": "le sonnet italien", "english": "the Italian, Petrarchan sonnet (octave + sestet)", "partOfSpeech": "noun", "gender": "m", "plural": "les sonnets italiens", "pronunciation": "luh soh-neh ee-tah-LYAN", "example": "Le sonnet italien place sa volta entre l'octave et le sizain.", "exampleEnglish": "The Italian sonnet places its volta between the octave and the sestet.", "level": "C2", "category": "poetry-forms" },
+            { "id": "l-octave", "french": "l'octave", "english": "the octave (eight-line group)", "partOfSpeech": "noun", "gender": "f", "plural": "les octaves", "pronunciation": "lok-TAHV", "example": "L'octave du sonnet italien pose le problème que le sizain va résoudre.", "exampleEnglish": "The Italian sonnet's octave sets out the problem that the sestet will resolve.", "level": "C2", "category": "poetry-forms" },
+            { "id": "le-sizain", "french": "le sizain", "english": "the sestet, six-line stanza", "partOfSpeech": "noun", "gender": "m", "plural": "les sizains", "pronunciation": "luh see-ZAN", "example": "Le sizain final répond, en six vers, à la question posée par l'octave.", "exampleEnglish": "The final sestet answers, in six lines, the question posed by the octave.", "level": "C2", "category": "poetry-forms" },
+            { "id": "le-huitain", "french": "le huitain", "english": "the eight-line stanza (typical ballade stanza)", "partOfSpeech": "noun", "gender": "m", "plural": "les huitains", "pronunciation": "luh wee-TAN", "example": "La ballade classique bâtit souvent ses trois strophes sur le modèle du huitain.", "exampleEnglish": "The classical ballade often builds its three stanzas on the model of the eight-line stanza.", "level": "C2", "category": "poetry-forms" },
+            { "id": "le-rondeau", "french": "le rondeau", "english": "the rondeau (fixed form built on a refrain and two rhymes)", "partOfSpeech": "noun", "gender": "m", "plural": "les rondeaux", "pronunciation": "luh ron-DOH", "example": "Le rondeau ne joue qu'avec deux rimes, mais fait revenir son premier vers en refrain.", "exampleEnglish": "The rondeau plays with only two rhymes, but brings back its first line as a refrain.", "level": "C2", "category": "poetry-forms" },
+            { "id": "l-acrostiche", "french": "l'acrostiche", "english": "the acrostic (initial letters spell a word)", "partOfSpeech": "noun", "gender": "m", "plural": "les acrostiches", "pronunciation": "lah-kro-STEESH", "example": "L'acrostiche cache un nom dans la première lettre de chaque vers.", "exampleEnglish": "The acrostic hides a name in the first letter of each line.", "level": "C2", "category": "poetry-forms" },
+            { "id": "une-forme-fixe", "french": "une forme fixe", "english": "a fixed form", "partOfSpeech": "noun", "gender": "f", "plural": "des formes fixes", "pronunciation": "uen form FEEKS", "example": "Le sonnet et la ballade comptent parmi les formes fixes les plus codifiées.", "exampleEnglish": "The sonnet and the ballade are among the most codified fixed forms.", "level": "C2", "category": "poetry-forms" },
+            { "id": "rimer", "french": "rimer", "english": "to rhyme", "partOfSpeech": "verb", "pronunciation": "ree-MAY", "example": "« Lumière » rime avec « prière » sur trois sons entiers.", "exampleEnglish": "'Lumière' rhymes with 'prière' on three whole sounds.", "level": "C2", "category": "poetry-forms" },
+            { "id": "versifier", "french": "versifier", "english": "to versify, to put into verse", "partOfSpeech": "verb", "pronunciation": "vair-see-fee-AY", "example": "Versifier un souvenir simple demande souvent plus d'effort qu'un sujet grandiose.", "exampleEnglish": "Versifying a simple memory often takes more effort than a grand subject.", "level": "C2", "category": "poetry-forms" },
+            { "id": "codifie", "french": "codifié", "english": "codified, governed by fixed rules", "partOfSpeech": "adjective", "pronunciation": "koh-dee-fee-AY", "example": "Peu de formes littéraires sont aussi codifiées que le sonnet classique.", "exampleEnglish": "Few literary forms are as codified as the classical sonnet.", "level": "C2", "category": "poetry-forms" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "L'inversion et l'apostrophe lyrique",
+              "body": "Classical French verse regularly inverts the normal subject-verb order to satisfy the meter or to throw weight onto a word at the rhyme. Poets also address abstract entities or absent listeners directly — the sun, the night, a dead lover — using the vocative 'ô', a construction almost extinct in ordinary speech but still alive in verse.",
+              "examples": [
+                { "french": "Ô nuit, garde en ton sein le secret que je te confie.", "english": "O night, keep in your bosom the secret I entrust to you.", "note": "vocative ô + direct address" },
+                { "french": "Ainsi passent les jours, ainsi s'effacent les visages.", "english": "Thus pass the days, thus fade the faces.", "note": "ainsi + inversion for balance" },
+                { "french": "Grande est la nuit, et pourtant je ne crains rien.", "english": "Great is the night, and yet I fear nothing.", "note": "adjective-verb-subject inversion" },
+                { "french": "Peut-être reviendra-t-il, ce temps que l'on croyait perdu.", "english": "Perhaps it will return, that time we thought lost.", "note": "peut-être + inversion" },
+                { "french": "Telle est la loi du vers : ployer le mot sans jamais le briser.", "english": "Such is the law of verse: to bend the word without ever breaking it.", "note": "telle + inversion" }
+              ],
+              "tip": "Inversion is a tool for emphasis, not decoration — use it to push the important word toward the rhyme, never at random."
+            },
+            {
+              "heading": "Les licences poétiques : apocope, élision, diérèse",
+              "body": "To fit the syllable count exactly, classical poets shorten words (encor for encore), elide a final vowel before another vowel (l'âme, jusqu'à), and can split a diphthong into two syllables — diérèse — or fuse two vowels into one — synérèse — depending on what the line needs. These are not errors: they are the poet's oldest tools for controlling the count.",
+              "examples": [
+                { "french": "Encor un jour, encor une nuit, et puis la mer nous séparera.", "english": "One more day, one more night, and then the sea will part us.", "note": "encor = encore, apocope" },
+                { "french": "L'âme s'attarde où le cœur ne veut plus la suivre.", "english": "The soul lingers where the heart no longer wishes to follow.", "note": "élision: la âme → l'âme" },
+                { "french": "Par diérèse, « li-on » compte pour deux syllabes, non pour une.", "english": "By diaeresis, 'li-on' counts as two syllables, not one.", "note": "diérèse example" },
+                { "french": "Par synérèse, ce même mot se resserre en une seule syllabe.", "english": "By synaeresis, that same word tightens into a single syllable.", "note": "synérèse example" },
+                { "french": "Le poète choisit la diérèse ou la synérèse selon ce que le mètre exige.", "english": "The poet chooses diaeresis or synaeresis according to what the metre requires." }
+              ],
+              "tip": "When a line seems one syllable too long or too short, check first for an elidable vowel or a diérèse/synérèse choice before rewriting the whole line."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "c2_u20_l01_li01", "type": "listenChoose", "prompt": "Listen. Which term is being described?", "french": "Cette rime partage au moins trois sons identiques entre les deux mots.", "options": ["La rime riche", "La rime pauvre", "La rime suffisante", "La rime plate"], "answer": "La rime riche" },
+            { "id": "c2_u20_l01_li02", "type": "listenChoose", "prompt": "Listen. Which part of the ballade is being described?", "french": "Cette strophe plus courte s'adresse directement à un destinataire.", "options": ["L'envoi", "Le refrain", "Le tercet", "L'octave"], "answer": "L'envoi" },
+            { "id": "c2_u20_l01_li03", "type": "listenType", "prompt": "Listen and type this sentence exactly.", "french": "La chute du sonnet doit tomber exactement sur le dernier mot.", "answer": "La chute du sonnet doit tomber exactement sur le dernier mot.", "acceptedAnswers": ["la chute du sonnet doit tomber exactement sur le dernier mot"] },
+            { "id": "c2_u20_l01_li04", "type": "dictation", "prompt": "Dictation: write down this sentence exactly.", "french": "L'alexandrin se coupe toujours après la sixième syllabe.", "answer": "L'alexandrin se coupe toujours après la sixième syllabe.", "acceptedAnswers": ["l'alexandrin se coupe toujours apres la sixieme syllabe", "lalexandrin se coupe toujours apres la sixieme syllabe"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "c2_u20_l01_sp01", "type": "speak", "prompt": "Recite this line the way a sonnet's chute should land: precise, unhurried, final.", "french": "La chute doit surprendre sans jamais trahir ce que les quatrains ont installé.", "english": "The chute must surprise without ever betraying what the quatrains set up.", "tip": "Slow down on the last three words — a chute that is rushed loses its snap." },
+            { "id": "c2_u20_l01_sp02", "type": "speak", "prompt": "Say this definition as if teaching a student to scan an alexandrine for the first time.", "french": "L'hémistiche de l'alexandrin compte exactement six syllabes.", "english": "The hemistich of the alexandrine counts exactly six syllables.", "tip": "Pause very slightly at the caesura itself, right after 'alexandrin' in your own reading rhythm." },
+            { "id": "c2_u20_l01_sp03", "type": "speak", "prompt": "Deliver this line about the envoi as a closing address to a listener.", "french": "L'envoi condense en quelques vers ce que les trois strophes ont longuement démontré.", "english": "The envoi condenses in a few lines what the three stanzas demonstrated at length.", "tip": "Stress 'condense' — the whole point of an envoi is compression." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Sonnet des constellations",
+              "french": "Le ciel déploie sa carte immense de lumière,\nEt sur nos fronts en feu retombe une lueur ;\nChaque étoile a gardé sa très ancienne chaleur,\nVoyageuse figée dans la nuit tout entière.\n\nNous nommons Cassiopée une reine légère,\nLa Grande Ourse un chariot qui roule avec lenteur ;\nNous prêtons un visage à toute profondeur\nPour apprivoiser notre propre poussière.\n\nDans l'obscurité pure où s'efface notre ombre,\nNous cherchons dans le ciel un signe sans nombre,\nEt le silence semble un gigantesque soir.\n\nChaque constellation est un conte très vieux,\nQue les bergers d'antan lisaient avec les yeux,\nEt que la nuit nous rend, avant le premier espoir.",
+              "english": "The sky unfurls its immense map of light,\nAnd upon our upturned faces falls a glow;\nEvery star has kept its ancient warmth,\nA traveller frozen in the whole of night.\n\nWe call Cassiopeia a light-footed queen,\nThe Great Bear a chariot that rolls unhurried;\nWe lend a face to every depth,\nTo tame our own scattered dust.\n\nIn the pure darkness where our shadow fades,\nWe search the sky for a sign beyond counting,\nAnd the silence seems one vast evening.\n\nEvery constellation is a very old tale,\nThat shepherds long ago read with their eyes,\nAnd that the night returns to us, before the first hope.",
+              "questions": [
+                { "id": "c2_u20_l01_rd01", "type": "multipleChoice", "prompt": "In the second quatrain, what does the poem ask us to do with the constellations?", "options": ["Give them a human face and shape", "Erase them from memory", "Measure their exact distance", "Ignore their old names"], "answer": "Give them a human face and shape" },
+                { "id": "c2_u20_l01_rd02", "type": "multipleChoice", "prompt": "According to the final tercet, who used to 'read' the constellations like an old tale?", "options": ["Shepherds of long ago", "Modern astronomers", "Sailors lost at sea", "The poet's own family"], "answer": "Shepherds of long ago" },
+                { "id": "c2_u20_l01_rd03", "type": "trueFalse", "prompt": "This sonnet abandons rhyme entirely, in the manner of vers libre.", "options": ["True", "False"], "answer": "False" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "c2_u20_l01_wr01", "type": "translate", "prompt": "Translate into French.", "english": "The chute must surprise without ever betraying what the quatrains set up.", "answer": "La chute doit surprendre sans jamais trahir ce que les quatrains ont installé.", "acceptedAnswers": ["la chute doit surprendre sans jamais trahir ce que les quatrains ont installe"] },
+            { "id": "c2_u20_l01_wr02", "type": "arrangeWords", "prompt": "Rebuild this line from the sonnet.", "words": ["carte", "Le", "immense", "déploie", "ciel", "sa", "de", "lumière"], "answer": "Le ciel déploie sa carte immense de lumière", "english": "The sky unfurls its immense map of light." },
+            { "id": "c2_u20_l01_wr03", "type": "fillBlank", "prompt": "L'envoi s'adresse directement à un ___, souvent nommé « Prince ».", "answer": "destinataire", "tip": "This word simply means the person a message or poem is addressed to." }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "c2_u20_l01_pr01", "type": "multipleChoice", "prompt": "Combien de vers compte un sonnet ?", "options": ["Quatorze", "Douze", "Seize", "Dix"], "answer": "Quatorze" },
+            { "id": "c2_u20_l01_pr02", "type": "match", "prompt": "Match each term with its meaning.", "pairs": [ { "french": "la volta", "english": "the sonnet's turn in argument" }, { "french": "l'envoi", "english": "the ballade's short closing stanza" }, { "french": "la césure", "english": "the mid-line pause" }, { "french": "le refrain", "english": "the repeated closing line" } ] },
+            { "id": "c2_u20_l01_pr03", "type": "fillBlank", "prompt": "L'alexandrin se divise en deux ___ de six syllabes chacun.", "answer": "hémistiches" },
+            { "id": "c2_u20_l01_pr04", "type": "multipleChoice", "prompt": "Quel schéma de rimes correspond au sonnet français dans ses quatrains ?", "options": ["ABBA ABBA", "ABAB ABAB", "AABB AABB", "ABCB ABCB"], "answer": "ABBA ABBA" },
+            { "id": "c2_u20_l01_pr05", "type": "translate", "prompt": "Translate: The refrain returns identical at the end of every stanza.", "english": "The refrain returns identical at the end of every stanza.", "answer": "Le refrain revient identique à la fin de chaque strophe.", "acceptedAnswers": ["le refrain revient identique a la fin de chaque strophe"] },
+            { "id": "c2_u20_l01_pr06", "type": "trueFalse", "prompt": "In the Italian sonnet, the volta always falls between the octave and the sestet.", "options": ["True", "False"], "answer": "True", "tip": "This is the classic placement, though a few Italian sonnets delay the turn slightly." }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "c2_u20_l01_qz01", "type": "multipleChoice", "prompt": "Qu'est-ce que la chute d'un sonnet ?", "options": ["Le vers final, qui doit surprendre", "Le premier vers du premier quatrain", "La strophe centrale de la ballade", "Le titre du recueil"], "answer": "Le vers final, qui doit surprendre" },
+            { "id": "c2_u20_l01_qz02", "type": "fillBlank", "prompt": "Une rime ___ partage au moins trois sons identiques.", "answer": "riche" },
+            { "id": "c2_u20_l01_qz03", "type": "multipleChoice", "prompt": "What structure does the Italian sonnet use?", "options": ["An octave followed by a sestet", "Three huitains and an envoi", "Four tercets in a row", "A single unbroken stanza of fourteen lines"], "answer": "An octave followed by a sestet" },
+            { "id": "c2_u20_l01_qz04", "type": "trueFalse", "prompt": "Le e muet compte toujours pour une syllabe, même devant une voyelle.", "options": ["True", "False"], "answer": "False" },
+            { "id": "c2_u20_l01_qz05", "type": "multipleChoice", "prompt": "Quelle strophe plus courte referme traditionnellement la ballade ?", "options": ["L'envoi", "Le sizain", "L'octave", "Le distique"], "answer": "L'envoi" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c2_u20_l02",
+      "level": "C2",
+      "unit": 20,
+      "title": "Le vers libre",
+      "description": "Free verse and what it frees itself from: rhyme, fixed meter, and regular punctuation — replaced by enjambment, breath, and the poem's own visual shape on the page.",
+      "estimatedMinutes": 19,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Le vers libre : ce qu'il abandonne, ce qu'il gagne",
+              "body": "Vers libre abandons the fixed syllable count and the obligatory rhyme of classical verse; the line length is decided by breath and sense, not by a preset mètre. What is lost in external scaffolding is meant to be recovered elsewhere: in a rhythm built from repetition and syntax, in imagery that carries the weight rhyme used to carry, and in a line break that becomes, itself, a meaningful decision.",
+              "examples": [
+                { "french": "Le vers libre ne compte plus les syllabes ; il écoute le souffle de la phrase.", "english": "Free verse no longer counts syllables; it listens to the breath of the sentence." },
+                { "french": "Abandonner la rime n'allège pas le travail du poète, il se déplace ailleurs.", "english": "Abandoning rhyme does not lighten the poet's work, it merely moves elsewhere." },
+                { "french": "Chaque retour à la ligne, en vers libre, doit se justifier par lui-même.", "english": "Every line break, in free verse, must justify itself on its own terms." },
+                { "french": "Sans mètre fixe, c'est l'image et la syntaxe qui portent le rythme du poème.", "english": "Without a fixed metre, it is image and syntax that carry the poem's rhythm." },
+                { "french": "Le vers libre reste un vers : il n'est jamais simplement de la prose découpée au hasard.", "english": "Free verse remains verse: it is never simply prose chopped up at random." }
+              ],
+              "tip": "Before cutting a line, ask what the break itself adds — suspense, emphasis, a held breath. If the answer is nothing, the line is prose in disguise."
+            },
+            {
+              "heading": "L'enjambement, le rejet, le contre-rejet",
+              "body": "Enjambement lets a sentence run past the end of a line without pause, creating tension between the line's visual stop and the sentence's real continuation. When only a short fragment spills over onto the next line, that fragment is called a rejet; when a short fragment is instead held back at the end of one line before the sentence properly begins on the next, that is a contre-rejet. Both devices let a poet isolate a single word for maximum weight.",
+              "examples": [
+                { "french": "L'enjambement crée une tension entre la fin du vers et la fin de la phrase.", "english": "Enjambment creates a tension between the end of the line and the end of the sentence." },
+                { "french": "Le rejet isole un mot bref, rejeté seul au début du vers suivant.", "english": "The rejet isolates a brief word, thrown alone to the start of the next line." },
+                { "french": "Le contre-rejet retient un mot en fin de vers, juste avant que la phrase ne commence vraiment.", "english": "The contre-rejet holds a word back at the end of the line, just before the sentence truly begins." },
+                { "french": "Un enjambement bien placé fait attendre le lecteur une fraction de seconde de trop.", "english": "A well-placed enjambment makes the reader wait a fraction of a second too long." },
+                { "french": "Sans enjambement, le vers libre perdrait l'un de ses effets les plus précis.", "english": "Without enjambment, free verse would lose one of its most precise effects." }
+              ],
+              "tip": "Read a suspected enjambment aloud without stopping at the line break — if the sentence needs that pause to make sense, it is not a true enjambment."
+            },
+            {
+              "heading": "La disposition sur la page : blancs, ponctuation, forme",
+              "body": "Modern free verse often treats the blank space of the page itself as expressive: irregular indentation, a typographic gap standing in for a pause no punctuation mark could render, or — in the extreme case of the calligramme — words arranged to draw the very shape they describe. Many free-verse poets also drop capital letters and end punctuation altogether, letting the line break alone carry what a comma or a full stop used to carry.",
+              "examples": [
+                { "french": "Le blanc typographique tient parfois lieu de silence, là où la ponctuation serait trop lourde.", "english": "Typographic white space sometimes stands in for silence, where punctuation would be too heavy." },
+                { "french": "Le calligramme dispose les mots de façon à dessiner ce qu'ils racontent.", "english": "The calligram arranges words so as to draw what they describe." },
+                { "french": "Sans majuscule ni point final, la phrase semble ne jamais vraiment commencer ni finir.", "english": "Without a capital letter or a full stop, the sentence seems never quite to begin or end." },
+                { "french": "La mise en page d'un poème en vers libre fait déjà partie du sens.", "english": "The layout of a free-verse poem is already part of its meaning." },
+                { "french": "Une phrase nominale, sans verbe, suffit parfois à fixer une image entière.", "english": "A nominal sentence, without a verb, is sometimes enough to fix an entire image." }
+              ],
+              "tip": "Try reading a free-verse poem with all punctuation restored in your head — if the ambiguity disappears, the poet removed it on purpose."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "le-vers-libre", "french": "le vers libre", "english": "free verse", "partOfSpeech": "noun", "gender": "m", "plural": "les vers libres", "pronunciation": "luh vair LEE-bruh", "example": "Le vers libre abandonne la rime et le compte fixe de syllabes.", "exampleEnglish": "Free verse abandons rhyme and the fixed syllable count.", "level": "C2", "category": "free-verse" },
+            { "id": "le-rejet", "french": "le rejet", "english": "the rejet (a short fragment spilling onto the next line)", "partOfSpeech": "noun", "gender": "m", "plural": "les rejets", "pronunciation": "luh ruh-ZHEH", "example": "Le rejet isole un seul mot, rejeté au tout début du vers suivant.", "exampleEnglish": "The rejet isolates a single word, thrown to the very start of the next line.", "level": "C2", "category": "free-verse" },
+            { "id": "le-contre-rejet", "french": "le contre-rejet", "english": "the contre-rejet (a short fragment held at the end of the line before it)", "partOfSpeech": "noun", "gender": "m", "plural": "les contre-rejets", "pronunciation": "luh kohn-truh ruh-ZHEH", "example": "Le contre-rejet retient un mot en fin de vers, juste avant que la phrase ne s'ouvre vraiment.", "exampleEnglish": "The contre-rejet holds a word at the end of the line, just before the sentence truly opens.", "level": "C2", "category": "free-verse" },
+            { "id": "l-enjambement", "french": "l'enjambement", "english": "the enjambment (a sentence spilling onto the next line)", "partOfSpeech": "noun", "gender": "m", "plural": "les enjambements", "pronunciation": "lahn-zhahmb-MAHN", "example": "L'enjambement crée une tension entre le sens et la fin du vers.", "exampleEnglish": "The enjambment creates a tension between meaning and the end of the line.", "level": "C2", "category": "free-verse" },
+            { "id": "le-verset", "french": "le verset", "english": "the verset (a long, breath-length free-verse line)", "partOfSpeech": "noun", "gender": "m", "plural": "les versets", "pronunciation": "luh vair-SEH", "example": "Le verset s'étire sur une respiration entière, sans se soucier du compte des syllabes.", "exampleEnglish": "The verset stretches over one whole breath, unconcerned with the syllable count.", "level": "C2", "category": "free-verse" },
+            { "id": "le-poeme-en-prose", "french": "le poème en prose", "english": "the prose poem", "partOfSpeech": "noun", "gender": "m", "plural": "les poèmes en prose", "pronunciation": "luh poh-em ahn PROHZ", "example": "Le poème en prose renonce même à la ligne courte, mais garde l'image et le rythme.", "exampleEnglish": "The prose poem gives up even the short line, but keeps the image and the rhythm.", "level": "C2", "category": "free-verse" },
+            { "id": "la-strophe-libre", "french": "la strophe libre", "english": "the free-form stanza (irregular length)", "partOfSpeech": "noun", "gender": "f", "plural": "les strophes libres", "pronunciation": "lah strohf LEE-bruh", "example": "Chaque strophe libre du poème s'arrête là où le souffle s'arrête, non là où la règle l'exige.", "exampleEnglish": "Each free-form stanza of the poem stops where the breath stops, not where the rule demands.", "level": "C2", "category": "free-verse" },
+            { "id": "le-souffle", "french": "le souffle", "english": "the breath, the breathing pace (of a line)", "partOfSpeech": "noun", "gender": "m", "plural": "les souffles", "pronunciation": "luh SOO-fluh", "example": "En vers libre, c'est le souffle qui décide où finit le vers, non le compte des syllabes.", "exampleEnglish": "In free verse, it is the breath that decides where the line ends, not the syllable count.", "level": "C2", "category": "free-verse" },
+            { "id": "l-anaphore", "french": "l'anaphore", "english": "the anaphora (repeating a word or phrase at the start of successive lines)", "partOfSpeech": "noun", "gender": "f", "plural": "les anaphores", "pronunciation": "lah-nah-FOR", "example": "L'anaphore martèle le même mot au début de chaque verset.", "exampleEnglish": "The anaphora hammers the same word at the start of every verset.", "level": "C2", "category": "free-verse" },
+            { "id": "l-alliteration", "french": "l'allitération", "english": "alliteration", "partOfSpeech": "noun", "gender": "f", "plural": "les allitérations", "pronunciation": "ah-lee-tay-rah-SYON", "example": "L'allitération en « s » fait presque siffler le vers libre.", "exampleEnglish": "The alliteration in 's' makes the free-verse line almost hiss.", "level": "C2", "category": "free-verse" },
+            { "id": "l-assonance", "french": "l'assonance", "english": "assonance (repeated vowel sound)", "partOfSpeech": "noun", "gender": "f", "plural": "les assonances", "pronunciation": "lah-so-NAHNSS", "example": "Sans rime, l'assonance suffit parfois à lier deux vers entre eux.", "exampleEnglish": "Without rhyme, assonance is sometimes enough to link two lines together.", "level": "C2", "category": "free-verse" },
+            { "id": "la-repetition", "french": "la répétition", "english": "the repetition (as a poetic device)", "partOfSpeech": "noun", "gender": "f", "plural": "les répétitions", "pronunciation": "lah ray-pay-tee-SYON", "example": "La répétition remplace ici la rime comme principe d'unité.", "exampleEnglish": "Repetition here replaces rhyme as a principle of unity.", "level": "C2", "category": "free-verse" },
+            { "id": "la-litanie", "french": "la litanie", "english": "the litany (a poetic device of insistent repetition)", "partOfSpeech": "noun", "gender": "f", "plural": "les litanies", "pronunciation": "lah lee-tah-NEE", "example": "Le poème se referme sur une litanie de nom en nom, sans jamais conclure.", "exampleEnglish": "The poem closes on a litany of name after name, never quite concluding.", "level": "C2", "category": "free-verse" },
+            { "id": "l-image-poetique", "french": "l'image poétique", "english": "the poetic image", "partOfSpeech": "noun", "gender": "f", "plural": "les images poétiques", "pronunciation": "lee-mahzh poh-ay-TEEK", "example": "Sans rime pour les tenir, les images poétiques doivent se répondre entre elles.", "exampleEnglish": "With no rhyme to hold them together, the poetic images must answer one another.", "level": "C2", "category": "free-verse" },
+            { "id": "l-image-insolite", "french": "l'image insolite", "english": "the unusual, striking image", "partOfSpeech": "noun", "gender": "f", "plural": "les images insolites", "pronunciation": "lee-mahzh an-so-LEET", "example": "Une image insolite frappe précisément parce qu'elle n'était pas attendue.", "exampleEnglish": "A striking image lands precisely because it was not expected.", "level": "C2", "category": "free-verse" },
+            { "id": "la-metaphore-filee", "french": "la métaphore filée", "english": "the extended metaphor", "partOfSpeech": "noun", "gender": "f", "plural": "les métaphores filées", "pronunciation": "may-tah-for fee-LAY", "example": "Une métaphore filée traverse tout le poème sans jamais se répéter deux fois de la même façon.", "exampleEnglish": "An extended metaphor runs through the whole poem without ever repeating itself the same way twice.", "level": "C2", "category": "free-verse" },
+            { "id": "la-syntaxe-eclatee", "french": "la syntaxe éclatée", "english": "the fragmented, broken-open syntax", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah san-tahks ay-klah-TAY", "example": "La syntaxe éclatée imite le désordre réel de la pensée.", "exampleEnglish": "The fragmented syntax imitates the real disorder of thought.", "level": "C2", "category": "free-verse" },
+            { "id": "la-rupture", "french": "la rupture", "english": "the break, the rupture (in rhythm or syntax)", "partOfSpeech": "noun", "gender": "f", "plural": "les ruptures", "pronunciation": "lah rewp-TEWR", "example": "Une rupture soudaine de rythme signale souvent le tournant du poème.", "exampleEnglish": "A sudden break in rhythm often signals the poem's turning point.", "level": "C2", "category": "free-verse" },
+            { "id": "l-ellipse", "french": "l'ellipse", "english": "the ellipsis (a deliberately omitted word or link)", "partOfSpeech": "noun", "gender": "f", "plural": "les ellipses", "pronunciation": "ay-LEEPS", "example": "L'ellipse du verbe resserre le vers jusqu'à l'os.", "exampleEnglish": "The ellipsis of the verb tightens the line down to the bone.", "level": "C2", "category": "free-verse" },
+            { "id": "la-phrase-nominale", "french": "la phrase nominale", "english": "the nominal sentence (no verb)", "partOfSpeech": "noun", "gender": "f", "plural": "les phrases nominales", "pronunciation": "lah frahz noh-mee-NAHL", "example": "Une phrase nominale isolée peut fixer une image mieux qu'une longue description.", "exampleEnglish": "An isolated nominal sentence can fix an image better than a long description.", "level": "C2", "category": "free-verse" },
+            { "id": "l-absence-de-ponctuation", "french": "l'absence de ponctuation", "english": "the absence of punctuation", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lahb-sahnss duh ponk-tway-syohn", "example": "L'absence de ponctuation laisse au lecteur le soin de placer ses propres pauses.", "exampleEnglish": "The absence of punctuation leaves the reader to place their own pauses.", "level": "C2", "category": "free-verse" },
+            { "id": "la-ponctuation", "french": "la ponctuation", "english": "the punctuation", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah ponk-tway-SYON", "example": "Certains poètes suppriment toute ponctuation pour laisser le vers respirer seul.", "exampleEnglish": "Some poets remove all punctuation to let the line breathe on its own.", "level": "C2", "category": "free-verse" },
+            { "id": "le-blanc-typographique", "french": "le blanc typographique", "english": "the typographic white space", "partOfSpeech": "noun", "gender": "m", "plural": "les blancs typographiques", "pronunciation": "luh blahn tee-poh-grah-FEEK", "example": "Le blanc typographique tient parfois lieu de silence sur la page.", "exampleEnglish": "The typographic white space sometimes stands in for silence on the page.", "level": "C2", "category": "free-verse" },
+            { "id": "la-disposition-visuelle", "french": "la disposition visuelle", "english": "the visual arrangement, layout (of a poem on the page)", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah dees-poh-zee-syon vee-zoo-EL", "example": "La disposition visuelle du poème fait déjà partie de son sens.", "exampleEnglish": "The visual arrangement of the poem is already part of its meaning.", "level": "C2", "category": "free-verse" },
+            { "id": "la-mise-en-page", "french": "la mise en page", "english": "the page layout", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah meez ahn PAHZH", "example": "La mise en page du calligramme dessine littéralement ce que le texte raconte.", "exampleEnglish": "The calligram's page layout literally draws what the text tells.", "level": "C2", "category": "free-verse" },
+            { "id": "le-calligramme", "french": "le calligramme", "english": "the calligram (words arranged into a picture)", "partOfSpeech": "noun", "gender": "m", "plural": "les calligrammes", "pronunciation": "luh kah-lee-GRAHM", "example": "Le calligramme dispose les mots de façon à dessiner ce qu'ils racontent.", "exampleEnglish": "The calligram arranges words so as to draw what they describe.", "level": "C2", "category": "free-verse" },
+            { "id": "le-vers-blanc", "french": "le vers blanc", "english": "blank verse (metrical, but unrhymed)", "partOfSpeech": "noun", "gender": "m", "plural": "les vers blancs", "pronunciation": "luh vair BLAHN", "example": "Le vers blanc garde le compte des syllabes mais abandonne la rime.", "exampleEnglish": "Blank verse keeps the syllable count but abandons rhyme.", "level": "C2", "category": "free-verse" },
+            { "id": "la-cadence", "french": "la cadence", "english": "the cadence, the pacing", "partOfSpeech": "noun", "gender": "f", "plural": "les cadences", "pronunciation": "lah kah-DAHNSS", "example": "Sans mètre fixe, la cadence du vers libre dépend entièrement de la syntaxe.", "exampleEnglish": "Without a fixed metre, free verse's cadence depends entirely on syntax.", "level": "C2", "category": "free-verse" },
+            { "id": "la-scansion", "french": "la scansion", "english": "the scansion, the marked beat of a line", "partOfSpeech": "noun", "gender": "f", "plural": "les scansions", "pronunciation": "lah skahn-SYON", "example": "Même en vers libre, une scansion intérieure guide encore la lecture à voix haute.", "exampleEnglish": "Even in free verse, an inner scansion still guides the reading aloud.", "level": "C2", "category": "free-verse" },
+            { "id": "le-rythme-interieur", "french": "le rythme intérieur", "english": "the inner rhythm (independent of fixed metre)", "partOfSpeech": "noun", "gender": "m", "plural": "les rythmes intérieurs", "pronunciation": "luh reetm an-tay-RYUR", "example": "Le rythme intérieur du poème naît de la syntaxe, non du compte des syllabes.", "exampleEnglish": "The poem's inner rhythm is born of syntax, not of syllable count.", "level": "C2", "category": "free-verse" },
+            { "id": "liberer", "french": "libérer", "english": "to free, to liberate", "partOfSpeech": "verb", "pronunciation": "lee-bay-RAY", "example": "Le vers libre s'est libéré de la rime sans renoncer au rythme.", "exampleEnglish": "Free verse freed itself from rhyme without giving up rhythm.", "level": "C2", "category": "free-verse" },
+            { "id": "evoquer", "french": "évoquer", "english": "to evoke", "partOfSpeech": "verb", "pronunciation": "ay-vo-KAY", "example": "Trois mots suffisent parfois à évoquer toute une nuit d'insomnie.", "exampleEnglish": "Three words are sometimes enough to evoke a whole sleepless night.", "level": "C2", "category": "free-verse" },
+            { "id": "suggerer", "french": "suggérer", "english": "to suggest, to hint at", "partOfSpeech": "verb", "pronunciation": "sew-zhay-RAY", "example": "Le vers libre suggère plus volontiers qu'il n'explique.", "exampleEnglish": "Free verse tends to suggest rather than explain.", "level": "C2", "category": "free-verse" },
+            { "id": "la-suggestion", "french": "la suggestion", "english": "the suggestion, the implication", "partOfSpeech": "noun", "gender": "f", "plural": "les suggestions", "pronunciation": "lah sug-jes-TYON", "example": "Toute la force du poème tient dans la suggestion, jamais dans l'explication.", "exampleEnglish": "The whole force of the poem lies in suggestion, never in explanation.", "level": "C2", "category": "free-verse" },
+            { "id": "elliptique", "french": "elliptique", "english": "elliptical, deliberately incomplete", "partOfSpeech": "adjective", "pronunciation": "eh-leep-TEEK", "example": "Le style elliptique du poème force le lecteur à combler les vides.", "exampleEnglish": "The poem's elliptical style forces the reader to fill in the gaps.", "level": "C2", "category": "free-verse" },
+            { "id": "fragmentaire", "french": "fragmentaire", "english": "fragmentary, broken into pieces", "partOfSpeech": "adjective", "pronunciation": "frag-mahn-TAIR", "example": "La forme fragmentaire du poème imite le désordre d'une pensée nocturne.", "exampleEnglish": "The poem's fragmentary form imitates the disorder of a nighttime thought.", "level": "C2", "category": "free-verse" },
+            { "id": "libre", "french": "libre", "english": "free", "partOfSpeech": "adjective", "pronunciation": "LEE-bruh", "example": "Un vers libre reste un vers, même sans rime ni mètre fixe.", "exampleEnglish": "A free verse line remains a line of verse, even without rhyme or fixed metre.", "level": "C2", "category": "free-verse" },
+            { "id": "moderne", "french": "moderne", "english": "modern", "partOfSpeech": "adjective", "pronunciation": "moh-DAIRN", "example": "Le vers libre est né d'un geste résolument moderne : rompre avec la tradition.", "exampleEnglish": "Free verse was born of a resolutely modern gesture: breaking with tradition.", "level": "C2", "category": "free-verse" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "La phrase nominale et l'ellipse du verbe",
+              "body": "Free verse frequently drops the verb altogether, presenting a bare noun phrase as a complete poetic unit. This nominal sentence works because a line of poetry does not need to be a grammatical sentence to be understood; it needs only to land as a complete thought. The same economy governs ellipsis more broadly: a poet may omit a connector, an article, even a whole clause, trusting the line break to supply the missing logic.",
+              "examples": [
+                { "french": "Une fenêtre allumée. Une ville qui ne dort jamais tout à fait.", "english": "A lit window. A city that never quite sleeps.", "note": "nominal sentences, no verb" },
+                { "french": "Le vent, encore. Et rien d'autre à dire.", "english": "The wind, again. And nothing else to say.", "note": "ellipsis of verb after 'le vent'" },
+                { "french": "Trop de silence pour un seul cœur.", "english": "Too much silence for a single heart.", "note": "nominal sentence, no main verb" },
+                { "french": "Des rues, des chats, des volets qui claquent — et moi qui compte.", "english": "Streets, cats, shutters slamming — and me, counting.", "note": "listing without connecting verbs" },
+                { "french": "Pas un mot. Juste la lumière, tenace, au sixième étage.", "english": "Not a word. Just the light, stubborn, on the sixth floor.", "note": "elliptical negation + nominal sentence" }
+              ],
+              "tip": "A nominal sentence works only if the missing verb is genuinely recoverable from context — remove too much and the line becomes merely unclear, not evocative."
+            },
+            {
+              "heading": "La ponctuation libérée : minuscule et absence de point",
+              "body": "Many free-verse poets abandon the capital letter at the start of a line and the full stop at the end of a sentence, letting the line break alone signal a pause. This is a deliberate choice, not carelessness: it keeps a phrase open to more than one reading, and it lets one clause bleed into the next without the visual interruption a period would create.",
+              "examples": [
+                { "french": "je marche sans bruit dans les rues qui ne dorment jamais tout à fait", "english": "i walk without a sound through streets that never quite sleep", "note": "lowercase start, no final stop" },
+                { "french": "des chats traversent des volets claquent une lumière reste allumée", "english": "cats dart across shutters slam a light stays on", "note": "no punctuation between clauses" },
+                { "french": "je ne le saurai jamais et la ville respire par tous ses trous", "english": "i will never know and the city breathes through every gap", "note": "conjunction replaces punctuation" },
+                { "french": "compter les fenêtres comme on compte les moutons qui ne viennent pas", "english": "counting the windows the way one counts sheep that never come", "note": "unpunctuated comparison" },
+                { "french": "un poème sans majuscule ni point ne s'arrête jamais tout à fait", "english": "a poem without a capital letter or a full stop never quite stops", "note": "meta-comment on the device itself" }
+              ],
+              "tip": "Removed punctuation must still be readable aloud without confusion — if a listener genuinely cannot follow the sentence, restore at least the commas."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "c2_u20_l02_li01", "type": "listenChoose", "prompt": "Listen. Which device is being described?", "french": "Une phrase sans verbe, qui fixe une image en quelques mots.", "options": ["La phrase nominale", "L'enjambement", "La rime plate", "Le refrain"], "answer": "La phrase nominale" },
+            { "id": "c2_u20_l02_li02", "type": "listenChoose", "prompt": "Listen. Which term is being described?", "french": "Ce court fragment de sens est rejeté seul au début du vers suivant.", "options": ["Le rejet", "Le contre-rejet", "L'envoi", "La césure"], "answer": "Le rejet" },
+            { "id": "c2_u20_l02_li03", "type": "listenType", "prompt": "Listen and type this sentence exactly.", "french": "Sans mètre fixe, c'est l'image et la syntaxe qui portent le rythme du poème.", "answer": "Sans mètre fixe, c'est l'image et la syntaxe qui portent le rythme du poème.", "acceptedAnswers": ["sans metre fixe c'est l'image et la syntaxe qui portent le rythme du poeme", "sans metre fixe cest limage et la syntaxe qui portent le rythme du poeme"] },
+            { "id": "c2_u20_l02_li04", "type": "dictation", "prompt": "Dictation: write down this sentence exactly.", "french": "Le calligramme dispose les mots de façon à dessiner ce qu'ils racontent.", "answer": "Le calligramme dispose les mots de façon à dessiner ce qu'ils racontent.", "acceptedAnswers": ["le calligramme dispose les mots de facon a dessiner ce qu'ils racontent", "le calligramme dispose les mots de facon a dessiner ce quils racontent"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "c2_u20_l02_sp01", "type": "speak", "prompt": "Say this line letting your voice fall exactly where the enjambment would break it.", "french": "Un enjambement bien placé fait attendre le lecteur une fraction de seconde de trop.", "english": "A well-placed enjambment makes the reader wait a fraction of a second too long.", "tip": "Speed up very slightly right before the imagined line break, then land hard on the next stressed word." },
+            { "id": "c2_u20_l02_sp02", "type": "speak", "prompt": "Read this definition the way you would explain a modern poem to a classical-verse purist.", "french": "Le vers libre reste un vers : il n'est jamais simplement de la prose découpée au hasard.", "english": "Free verse remains verse: it is never simply prose chopped up at random.", "tip": "Give equal, calm weight to both halves of the sentence — this is a defence, not an apology." },
+            { "id": "c2_u20_l02_sp03", "type": "speak", "prompt": "Deliver this line about page layout as if you were looking at the poem while you say it.", "french": "La disposition visuelle du poème fait déjà partie de son sens.", "english": "The visual arrangement of the poem is already part of its meaning.", "tip": "Slow down on 'déjà' — it is the word doing the real argumentative work in this sentence." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Insomnie",
+              "french": "je marche sans bruit dans les rues qui ne dorment jamais tout à fait,\ndes chats traversent, des volets claquent,\nune lumière reste allumée au sixième étage — pourquoi,\nje ne le saurai jamais.\nla ville respire par tous ses trous,\net moi je compte les fenêtres comme on compte les moutons qui ne viennent pas.",
+              "english": "i walk without a sound through streets that never quite sleep,\ncats dart across, shutters slam,\na light stays on on the sixth floor — why,\ni will never know.\nthe city breathes through every gap,\nand i count the windows the way one counts sheep that never come.",
+              "questions": [
+                { "id": "c2_u20_l02_rd01", "type": "multipleChoice", "prompt": "What poetic device is most evident in the line break between 'ne dorment jamais tout à fait,' and 'des chats traversent'?", "options": ["Enjambment", "A regular rhyme", "An alexandrine", "A refrain"], "answer": "Enjambment" },
+                { "id": "c2_u20_l02_rd02", "type": "multipleChoice", "prompt": "What does the poem compare counting windows to?", "options": ["Counting sheep that never come", "Counting syllables in a line", "Counting stars in the sky", "Counting stanzas in a sonnet"], "answer": "Counting sheep that never come" },
+                { "id": "c2_u20_l02_rd03", "type": "trueFalse", "prompt": "This poem follows a fixed syllable count in every line, like an alexandrin.", "options": ["True", "False"], "answer": "False" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "c2_u20_l02_wr01", "type": "translate", "prompt": "Translate into French.", "english": "Free verse remains verse: it is never simply prose chopped up at random.", "answer": "Le vers libre reste un vers : il n'est jamais simplement de la prose découpée au hasard.", "acceptedAnswers": ["le vers libre reste un vers il n'est jamais simplement de la prose decoupee au hasard", "le vers libre reste un vers il nest jamais simplement de la prose decoupee au hasard"] },
+            { "id": "c2_u20_l02_wr02", "type": "arrangeWords", "prompt": "Rebuild this line from the reading passage.", "words": ["respire", "trous", "ville", "par", "tous", "ses", "La"], "answer": "La ville respire par tous ses trous", "english": "The city breathes through every gap." },
+            { "id": "c2_u20_l02_wr03", "type": "fillBlank", "prompt": "Le blanc typographique tient parfois lieu de ___ sur la page.", "answer": "silence", "tip": "This is what a gap on the page sometimes replaces, in place of a comma or a full stop." }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "c2_u20_l02_pr01", "type": "multipleChoice", "prompt": "Qu'abandonne le vers libre par rapport au vers classique ?", "options": ["Le compte fixe de syllabes et la rime obligatoire", "Toute forme d'image poétique", "L'usage de la langue française", "La possibilité d'un titre"], "answer": "Le compte fixe de syllabes et la rime obligatoire" },
+            { "id": "c2_u20_l02_pr02", "type": "match", "prompt": "Match each term with its meaning.", "pairs": [ { "french": "l'enjambement", "english": "a sentence spilling onto the next line" }, { "french": "la phrase nominale", "english": "a sentence with no verb" }, { "french": "l'anaphore", "english": "repeating a word at the start of successive lines" }, { "french": "le calligramme", "english": "words arranged into a picture" } ] },
+            { "id": "c2_u20_l02_pr03", "type": "fillBlank", "prompt": "Le ___ isole un mot bref, rejeté seul au début du vers suivant.", "answer": "rejet" },
+            { "id": "c2_u20_l02_pr04", "type": "multipleChoice", "prompt": "Que remplace souvent la ponctuation absente, en vers libre ?", "options": ["Le retour à la ligne lui-même", "Une rime supplémentaire", "Un refrain caché", "Une strophe entière"], "answer": "Le retour à la ligne lui-même" },
+            { "id": "c2_u20_l02_pr05", "type": "translate", "prompt": "Translate: The visual arrangement of the poem is already part of its meaning.", "english": "The visual arrangement of the poem is already part of its meaning.", "answer": "La disposition visuelle du poème fait déjà partie de son sens.", "acceptedAnswers": ["la disposition visuelle du poeme fait deja partie de son sens"] },
+            { "id": "c2_u20_l02_pr06", "type": "trueFalse", "prompt": "Free verse can never use repetition or alliteration, since it has already given up rhyme.", "options": ["True", "False"], "answer": "False", "tip": "Free verse often leans harder on repetition and sound devices precisely because it has given up rhyme." }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "c2_u20_l02_qz01", "type": "multipleChoice", "prompt": "Qu'est-ce qui décide de la longueur d'un vers, en poésie libre ?", "options": ["Le souffle et le sens, non un mètre préétabli", "Le nombre exact de douze syllabes", "La rime imposée à la fin de chaque ligne", "Le nombre de strophes du poème"], "answer": "Le souffle et le sens, non un mètre préétabli" },
+            { "id": "c2_u20_l02_qz02", "type": "fillBlank", "prompt": "Une phrase ___ n'a pas de verbe, mais peut fixer une image entière.", "answer": "nominale" },
+            { "id": "c2_u20_l02_qz03", "type": "multipleChoice", "prompt": "What is a calligramme?", "options": ["A poem whose words are arranged to draw a picture", "A fourteen-line fixed form", "A stanza with an identical refrain", "A rule for counting mute e's"], "answer": "A poem whose words are arranged to draw a picture" },
+            { "id": "c2_u20_l02_qz04", "type": "trueFalse", "prompt": "L'enjambement crée une tension entre la fin du vers et la fin de la phrase.", "options": ["True", "False"], "answer": "True" },
+            { "id": "c2_u20_l02_qz05", "type": "multipleChoice", "prompt": "Quel dispositif consiste à répéter le même mot au début de plusieurs vers ?", "options": ["L'anaphore", "La césure", "L'envoi", "La rime plate"], "answer": "L'anaphore" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c2_u20_l03",
+      "level": "C2",
+      "unit": 20,
+      "title": "Écrire un poème",
+      "description": "From first spark to finished page: drawing on lived experience, drafting, reading aloud to test the sound, and revising until the chute finally lands.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Du vécu à la première image",
+              "body": "A poem rarely begins with a theme; it begins with a precise, concrete detail drawn from lived experience — a smell, a gesture, an overheard sentence — that the poet trusts to carry more than it seems to. The temptation at C2 is to reach immediately for grand abstractions (l'amour, le temps, la mort); resist it, and let one small image do the work those abstractions would only flatten.",
+              "examples": [
+                { "french": "Un poème ne part presque jamais d'une idée abstraite, mais d'un détail précis.", "english": "A poem almost never starts from an abstract idea, but from a precise detail." },
+                { "french": "Le vécu fournit la matière ; le travail du poète est de la transposer, non de la raconter telle quelle.", "english": "Lived experience supplies the material; the poet's job is to transpose it, not simply recount it as it happened." },
+                { "french": "Une seule image bien choisie porte plus qu'un paragraphe entier d'explications.", "english": "One well-chosen image carries more than a whole paragraph of explanations." },
+                { "french": "S'inspirer de sa propre vie n'oblige pas à tout dire : le silence choisit aussi.", "english": "Drawing inspiration from one's own life does not require telling everything: silence also makes choices." },
+                { "french": "L'atelier d'écriture commence souvent par une contrainte simple : décrire un objet, sans le nommer.", "english": "The writing workshop often begins with a simple constraint: describe an object without naming it." }
+              ],
+              "tip": "Write down the concrete detail before you know what the poem is 'about' — the theme usually reveals itself only after several drafts."
+            },
+            {
+              "heading": "Le brouillon, la lecture à voix haute, la réécriture",
+              "body": "A first draft exists to be wrong in interesting ways: write it fast, without judging it, then set it aside. The single most reliable revision tool is reading the poem aloud — the ear catches a clumsy sonority, an accidental rhyme, an overlong line, that the eye alone would miss. Rewriting is not correcting typos; it is often replacing a whole image, cutting a line that only explains what another line already shows, and polishing a line until each word earns its place.",
+              "examples": [
+                { "french": "Le brouillon existe pour se tromper vite : on le corrige après, jamais pendant.", "english": "The draft exists to make mistakes quickly: you correct it afterwards, never during." },
+                { "french": "La lecture à voix haute révèle des maladresses que l'œil seul ne voit jamais.", "english": "Reading aloud reveals clumsy moments that the eye alone never catches." },
+                { "french": "Réécrire, ce n'est pas corriger des fautes : c'est parfois remplacer une image entière.", "english": "Rewriting is not correcting mistakes: it is sometimes replacing a whole image." },
+                { "french": "Polir un vers, mot après mot, jusqu'à ce que chacun mérite sa place.", "english": "Polishing a line, word by word, until each one earns its place." },
+                { "french": "Une bonne relecture supprime plus de vers qu'elle n'en ajoute.", "english": "A good rereading removes more lines than it adds." }
+              ],
+              "tip": "Read the draft aloud to someone else, even once — a listener's silence at the wrong moment tells you more than a week of private rereading."
+            },
+            {
+              "heading": "Trouver la chute, choisir un titre, assembler un recueil",
+              "body": "The final line deserves as much drafting as the first — many poets write several candidate chutes before finding the one that closes the poem without simply summarising it. The title is not a label added at the end; a well-chosen title can reframe every line that follows it, so it is worth drafting and rewriting in parallel with the poem itself. A finished poem, in turn, is rarely published alone: it finds its full meaning inside a recueil, in conversation with the poems placed just before and after it.",
+              "examples": [
+                { "french": "Trouver la chute demande souvent d'écrire cinq fins avant de garder la bonne.", "english": "Finding the chute often means writing five endings before keeping the right one." },
+                { "french": "Un bon titre ne résume pas le poème : il en change discrètement la lecture.", "english": "A good title does not summarise the poem: it discreetly changes how it is read." },
+                { "french": "Une dédicace, en tête de poème, oriente aussi la lecture sans l'imposer.", "english": "A dedication, at the head of a poem, also steers the reading without forcing it." },
+                { "french": "Un poème seul se lit autrement qu'un poème placé dans un recueil.", "english": "A poem read alone reads differently from a poem placed inside a collection." },
+                { "french": "Oser publier, c'est accepter qu'un lecteur inconnu termine le poème à sa manière.", "english": "Daring to publish means accepting that an unknown reader will finish the poem in their own way." }
+              ],
+              "tip": "Draft your title last, but place it first — read the whole poem once more under that exact title before deciding it is finished."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "le-poete", "french": "le poète", "english": "the poet", "partOfSpeech": "noun", "gender": "m", "plural": "les poètes", "pronunciation": "luh poh-ET", "example": "Le poète choisit chaque mot avec un soin extrême, jusque dans le brouillon.", "exampleEnglish": "The poet chooses every word with extreme care, even in the draft.", "level": "C2", "category": "writing-poetry" },
+            { "id": "l-inspiration", "french": "l'inspiration", "english": "the inspiration", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lan-spee-rah-SYON", "example": "L'inspiration ne suffit jamais : il faut ensuite s'asseoir et écrire.", "exampleEnglish": "Inspiration is never enough on its own: you then have to sit down and write.", "level": "C2", "category": "writing-poetry" },
+            { "id": "le-brouillon", "french": "le brouillon", "english": "the rough draft", "partOfSpeech": "noun", "gender": "m", "plural": "les brouillons", "pronunciation": "luh broo-YON", "example": "Le brouillon existe pour se tromper vite, avant toute réécriture.", "exampleEnglish": "The draft exists to make mistakes quickly, before any rewriting.", "level": "C2", "category": "writing-poetry" },
+            { "id": "la-reecriture", "french": "la réécriture", "english": "the rewriting", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah ray-ay-kree-TUR", "example": "La réécriture remplace parfois une image entière, pas seulement un mot.", "exampleEnglish": "Rewriting sometimes replaces a whole image, not just a word.", "level": "C2", "category": "writing-poetry" },
+            { "id": "le-mot-juste", "french": "le mot juste", "english": "the exactly right word", "partOfSpeech": "expression", "pronunciation": "moh ZHUST", "example": "Il raye, recommence, attend le mot juste comme on attend un train.", "exampleEnglish": "He crosses out, starts again, waits for the mot juste as one waits for a train.", "level": "C2", "category": "writing-poetry" },
+            { "id": "la-sonorite", "french": "la sonorité", "english": "the sound quality", "partOfSpeech": "noun", "gender": "f", "plural": "les sonorités", "pronunciation": "lah soh-noh-ree-TAY", "example": "Une lecture à voix haute révèle les sonorités ratées d'un vers.", "exampleEnglish": "Reading aloud reveals a line's failed sound qualities.", "level": "C2", "category": "writing-poetry" },
+            { "id": "la-lecture-a-voix-haute", "french": "la lecture à voix haute", "english": "the reading aloud", "partOfSpeech": "expression", "pronunciation": "lah lek-tur ah vwah OHT", "example": "La lecture à voix haute reste le meilleur outil de révision d'un poème.", "exampleEnglish": "Reading aloud remains the best revision tool for a poem.", "level": "C2", "category": "writing-poetry" },
+            { "id": "l-image", "french": "l'image", "english": "the image, the figurative expression", "partOfSpeech": "noun", "gender": "f", "plural": "les images", "pronunciation": "lee-MAHZH", "example": "Une seule image bien choisie porte plus qu'un long paragraphe d'explications.", "exampleEnglish": "One well-chosen image carries more than a long paragraph of explanations.", "level": "C2", "category": "writing-poetry" },
+            { "id": "la-comparaison", "french": "la comparaison", "english": "the comparison, the simile", "partOfSpeech": "noun", "gender": "f", "plural": "les comparaisons", "pronunciation": "kom-pah-reh-ZON", "example": "Une comparaison trop attendue affaiblit un poème plus qu'elle ne l'aide.", "exampleEnglish": "An overly predictable comparison weakens a poem more than it helps it.", "level": "C2", "category": "writing-poetry" },
+            { "id": "la-personnification", "french": "la personnification", "english": "the personification", "partOfSpeech": "noun", "gender": "f", "plural": "les personnifications", "pronunciation": "pehr-so-nee-fee-kah-SYON", "example": "La personnification de la ville donne une voix à ce qui, autrement, resterait muet.", "exampleEnglish": "The personification of the city gives a voice to what would otherwise stay mute.", "level": "C2", "category": "writing-poetry" },
+            { "id": "le-champ-lexical", "french": "le champ lexical", "english": "the lexical field", "partOfSpeech": "noun", "gender": "m", "plural": "les champs lexicaux", "pronunciation": "luh shahn lek-see-KAL", "example": "Un champ lexical cohérent tient un poème debout même sans rime.", "exampleEnglish": "A coherent lexical field holds a poem together even without rhyme.", "level": "C2", "category": "writing-poetry" },
+            { "id": "la-tonalite", "french": "la tonalité", "english": "the overall tone, mood", "partOfSpeech": "noun", "gender": "f", "plural": "les tonalités", "pronunciation": "lah toh-nah-lee-TAY", "example": "Un seul mot mal choisi peut casser la tonalité de tout un poème.", "exampleEnglish": "A single badly chosen word can break the tone of an entire poem.", "level": "C2", "category": "writing-poetry" },
+            { "id": "l-atelier-d-ecriture", "french": "l'atelier d'écriture", "english": "the writing workshop", "partOfSpeech": "expression", "pronunciation": "lah-tuh-lyay day-kree-TUR", "example": "L'atelier d'écriture commence souvent par une contrainte simple.", "exampleEnglish": "The writing workshop often begins with a simple constraint.", "level": "C2", "category": "writing-poetry" },
+            { "id": "la-contrainte", "french": "la contrainte", "english": "the constraint (a self-imposed writing rule)", "partOfSpeech": "noun", "gender": "f", "plural": "les contraintes", "pronunciation": "lah kohn-TRANT", "example": "Une contrainte bien choisie libère l'imagination plutôt que de la brider.", "exampleEnglish": "A well-chosen constraint frees the imagination rather than restraining it.", "level": "C2", "category": "writing-poetry" },
+            { "id": "la-muse", "french": "la muse", "english": "the muse", "partOfSpeech": "noun", "gender": "f", "plural": "les muses", "pronunciation": "lah MEWZ", "example": "Il attribuait chaque bon vers à sa muse, plutôt qu'à son propre travail.", "exampleEnglish": "He credited every good line to his muse, rather than to his own work.", "level": "C2", "category": "writing-poetry" },
+            { "id": "polir-un-vers", "french": "polir un vers", "english": "to polish a line (of verse)", "partOfSpeech": "expression", "pronunciation": "poh-leer uhn VAIR", "example": "Polir un vers, mot après mot, jusqu'à ce que chacun mérite sa place.", "exampleEnglish": "Polishing a line, word by word, until each one earns its place.", "level": "C2", "category": "writing-poetry" },
+            { "id": "trouver-la-chute", "french": "trouver la chute", "english": "to find the closing line, the twist ending", "partOfSpeech": "expression", "pronunciation": "troo-VAY lah SHUET", "example": "Trouver la chute demande souvent d'écrire cinq fins avant de garder la bonne.", "exampleEnglish": "Finding the chute often means writing five endings before keeping the right one.", "level": "C2", "category": "writing-poetry" },
+            { "id": "le-titre", "french": "le titre", "english": "the title", "partOfSpeech": "noun", "gender": "m", "plural": "les titres", "pronunciation": "luh TEE-truh", "example": "Un bon titre ne résume pas le poème : il en change discrètement la lecture.", "exampleEnglish": "A good title does not summarise the poem: it discreetly changes how it is read.", "level": "C2", "category": "writing-poetry" },
+            { "id": "la-dedicace", "french": "la dédicace", "english": "the dedication (of a poem)", "partOfSpeech": "noun", "gender": "f", "plural": "les dédicaces", "pronunciation": "lah day-dee-KAHSS", "example": "Une dédicace, en tête de poème, oriente la lecture sans l'imposer.", "exampleEnglish": "A dedication, at the head of a poem, steers the reading without forcing it.", "level": "C2", "category": "writing-poetry" },
+            { "id": "l-epigraphe", "french": "l'épigraphe", "english": "the epigraph (a quotation placed before a poem)", "partOfSpeech": "noun", "gender": "f", "plural": "les épigraphes", "pronunciation": "lay-pee-GRAHF", "example": "L'épigraphe emprunte à un autre auteur pour éclairer, d'avance, ce qui va suivre.", "exampleEnglish": "The epigraph borrows from another author to shed light, in advance, on what follows.", "level": "C2", "category": "writing-poetry" },
+            { "id": "publier", "french": "publier", "english": "to publish", "partOfSpeech": "verb", "pronunciation": "pew-blee-AY", "example": "Oser publier, c'est accepter qu'un lecteur inconnu termine le poème à sa manière.", "exampleEnglish": "Daring to publish means accepting that an unknown reader will finish the poem in their own way.", "level": "C2", "category": "writing-poetry" },
+            { "id": "le-recueil", "french": "le recueil", "english": "the collection (of poems)", "partOfSpeech": "noun", "gender": "m", "plural": "les recueils", "pronunciation": "luh ruh-KUH-yuh", "example": "Un poème seul se lit autrement qu'un poème placé dans un recueil.", "exampleEnglish": "A poem read alone reads differently from a poem placed inside a collection.", "level": "C2", "category": "writing-poetry" },
+            { "id": "retravailler", "french": "retravailler", "english": "to rework, to revise further", "partOfSpeech": "verb", "pronunciation": "ruh-trah-vah-YAY", "example": "Elle a retravaillé la même strophe pendant deux semaines entières.", "exampleEnglish": "She reworked the same stanza for two whole weeks.", "level": "C2", "category": "writing-poetry" },
+            { "id": "epurer", "french": "épurer", "english": "to refine, to purify (a style)", "partOfSpeech": "verb", "pronunciation": "ay-pew-RAY", "example": "Épurer un poème consiste souvent à retirer plus qu'à ajouter.", "exampleEnglish": "Refining a poem often means removing more than adding.", "level": "C2", "category": "writing-poetry" },
+            { "id": "la-spontaneite", "french": "la spontanéité", "english": "the spontaneity", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah spon-tah-nay-ee-TAY", "example": "La spontanéité apparente d'un poème cache souvent des dizaines de brouillons.", "exampleEnglish": "A poem's apparent spontaneity often hides dozens of drafts.", "level": "C2", "category": "writing-poetry" },
+            { "id": "la-relecture", "french": "la relecture", "english": "the rereading, the proofreading", "partOfSpeech": "noun", "gender": "f", "plural": "les relectures", "pronunciation": "lah ruh-lek-TUR", "example": "Une bonne relecture supprime plus de vers qu'elle n'en ajoute.", "exampleEnglish": "A good rereading removes more lines than it adds.", "level": "C2", "category": "writing-poetry" },
+            { "id": "s-inspirer-de", "french": "s'inspirer de", "english": "to draw inspiration from", "partOfSpeech": "expression", "pronunciation": "san-spee-ray duh", "example": "S'inspirer de sa propre vie n'oblige pas à tout dire.", "exampleEnglish": "Drawing inspiration from one's own life does not require telling everything.", "level": "C2", "category": "writing-poetry" },
+            { "id": "le-vecu", "french": "le vécu", "english": "lived experience", "partOfSpeech": "noun", "gender": "m", "plural": "les vécus", "pronunciation": "luh vay-KUE", "example": "Le vécu fournit la matière ; le travail du poète est de la transposer.", "exampleEnglish": "Lived experience supplies the material; the poet's job is to transpose it.", "level": "C2", "category": "writing-poetry" },
+            { "id": "l-emotion", "french": "l'émotion", "english": "the emotion", "partOfSpeech": "noun", "gender": "f", "plural": "les émotions", "pronunciation": "lay-moh-SYON", "example": "Un poème transmet une émotion précise qu'aucune explication ne remplacerait.", "exampleEnglish": "A poem conveys a precise emotion that no explanation could replace.", "level": "C2", "category": "writing-poetry" },
+            { "id": "transposer", "french": "transposer", "english": "to transpose, to translate (experience into art)", "partOfSpeech": "verb", "pronunciation": "trahnss-po-ZAY", "example": "Écrire un poème, c'est transposer le vécu, pas simplement le raconter.", "exampleEnglish": "Writing a poem means transposing lived experience, not simply recounting it.", "level": "C2", "category": "writing-poetry" },
+            { "id": "la-voix-poetique", "french": "la voix poétique", "english": "the poetic voice", "partOfSpeech": "expression", "pronunciation": "lah vwah poh-ay-TEEK", "example": "Trouver sa voix poétique prend souvent des années de brouillons.", "exampleEnglish": "Finding one's poetic voice often takes years of drafts.", "level": "C2", "category": "writing-poetry" },
+            { "id": "partager", "french": "partager", "english": "to share", "partOfSpeech": "verb", "pronunciation": "par-tah-ZHAY", "example": "Écrire un poème, c'est déjà vouloir partager une émotion précise.", "exampleEnglish": "Writing a poem is already wanting to share a precise emotion.", "level": "C2", "category": "writing-poetry" },
+            { "id": "oser", "french": "oser", "english": "to dare", "partOfSpeech": "verb", "pronunciation": "oh-ZAY", "example": "Il faut oser montrer un brouillon avant qu'il ne soit parfait.", "exampleEnglish": "You have to dare to show a draft before it is perfect.", "level": "C2", "category": "writing-poetry" },
+            { "id": "l-ebauche", "french": "l'ébauche", "english": "the rough sketch, the first outline", "partOfSpeech": "noun", "gender": "f", "plural": "les ébauches", "pronunciation": "lay-BOHSH", "example": "L'ébauche d'un poème ne ressemble presque jamais à sa version finale.", "exampleEnglish": "A poem's rough sketch almost never resembles its final version.", "level": "C2", "category": "writing-poetry" },
+            { "id": "peaufiner", "french": "peaufiner", "english": "to polish, to fine-tune", "partOfSpeech": "verb", "pronunciation": "poh-fee-NAY", "example": "Elle a peaufiné le dernier vers pendant trois jours entiers.", "exampleEnglish": "She fine-tuned the last line for three whole days.", "level": "C2", "category": "writing-poetry" },
+            { "id": "le-premier-vers", "french": "le premier vers", "english": "the opening line", "partOfSpeech": "expression", "pronunciation": "luh pruh-myay VAIR", "example": "Le premier vers doit donner envie de lire le second.", "exampleEnglish": "The opening line must make you want to read the second one.", "level": "C2", "category": "writing-poetry" },
+            { "id": "la-variante", "french": "la variante", "english": "the variant, the alternate wording", "partOfSpeech": "noun", "gender": "f", "plural": "les variantes", "pronunciation": "lah vah-RYAHNT", "example": "Il gardait chaque variante d'un vers dans un carnet séparé.", "exampleEnglish": "He kept every variant of a line in a separate notebook.", "level": "C2", "category": "writing-poetry" },
+            { "id": "le-carnet-de-poemes", "french": "le carnet de poèmes", "english": "the poetry notebook", "partOfSpeech": "expression", "pronunciation": "luh kar-neh duh poh-EM", "example": "Son carnet de poèmes contient plus de brouillons que de poèmes achevés.", "exampleEnglish": "Her poetry notebook contains more drafts than finished poems.", "level": "C2", "category": "writing-poetry" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "L'impératif et le subjonctif de l'atelier d'écriture",
+              "body": "Writing-workshop advice favours the imperative for concrete instructions (choisis, relis, supprime) and the subjunctive after impersonal expressions like il faut que or il vaut mieux que when the advice is a recommendation rather than an order. This register suggests without dictating — exactly the tone a poet giving feedback to another poet needs.",
+              "examples": [
+                { "french": "Relis ton poème à voix haute avant d'y toucher encore.", "english": "Reread your poem aloud before touching it again.", "note": "imperative" },
+                { "french": "Choisis un seul détail, et laisse tout le reste au silence.", "english": "Choose a single detail, and leave everything else to silence.", "note": "imperative" },
+                { "french": "Il faut que tu supprimes ce vers : il explique ce que l'image montrait déjà.", "english": "You need to cut that line: it explains what the image already showed.", "note": "il faut que + subjunctive" },
+                { "french": "Il vaut mieux que la chute reste ambiguë plutôt qu'elle ne conclue trop nettement.", "english": "It is better for the chute to stay ambiguous than for it to conclude too neatly.", "note": "il vaut mieux que + subjunctive" },
+                { "french": "N'explique jamais une image : fais-lui confiance.", "english": "Never explain an image: trust it.", "note": "negative imperative" }
+              ],
+              "tip": "Save the imperative for concrete, actionable steps; reach for il faut que / il vaut mieux que when you are recommending a judgment call, not a fact."
+            },
+            {
+              "heading": "Le conditionnel de suggestion et les verbes pronominaux de la réécriture",
+              "body": "Gentle workshop suggestions are often phrased in the conditional — on pourrait, il conviendrait de — which softens a critique into an open possibility rather than a verdict. The revision process itself is frequently described with reflexive, pronominal verbs (se relire, se corriger, se reprendre), which frame rewriting as something the poet does to their own text, almost as a private conversation.",
+              "examples": [
+                { "french": "On pourrait peut-être resserrer cette strophe, sans rien lui retirer d'essentiel.", "english": "One could perhaps tighten this stanza, without taking away anything essential." },
+                { "french": "Il conviendrait de retravailler la chute, qui arrive un peu trop tôt.", "english": "It would be worth reworking the chute, which arrives a little too early." },
+                { "french": "Le poète se relit à voix haute, seul, avant de montrer le texte à quiconque.", "english": "The poet rereads themself aloud, alone, before showing the text to anyone." },
+                { "french": "Elle se reprend trois fois sur le même vers, sans jamais se satisfaire.", "english": "She corrects herself three times on the same line, never quite satisfied." },
+                { "french": "On aurait pu garder la première version ; on a préféré la deuxième, plus sobre.", "english": "One could have kept the first version; the second, sparer one was preferred." }
+              ],
+              "tip": "Use the conditional when you want feedback to remain a suggestion the writer can reject — it keeps the poem theirs, not yours."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "c2_u20_l03_li01", "type": "listenChoose", "prompt": "Listen. Which term is being described?", "french": "Cette première version rapide existe pour se tromper vite, avant toute correction.", "options": ["Le brouillon", "Le recueil", "La dédicace", "L'épigraphe"], "answer": "Le brouillon" },
+            { "id": "c2_u20_l03_li02", "type": "listenChoose", "prompt": "Listen. Which step of the writing process is being described?", "french": "Cette étape révèle des maladresses que l'œil seul ne voit jamais.", "options": ["La lecture à voix haute", "La dédicace", "L'épigraphe", "Le titre"], "answer": "La lecture à voix haute" },
+            { "id": "c2_u20_l03_li03", "type": "listenType", "prompt": "Listen and type this sentence exactly.", "french": "Une bonne relecture supprime plus de vers qu'elle n'en ajoute.", "answer": "Une bonne relecture supprime plus de vers qu'elle n'en ajoute.", "acceptedAnswers": ["une bonne relecture supprime plus de vers qu'elle n'en ajoute", "une bonne relecture supprime plus de vers quelle nen ajoute"] },
+            { "id": "c2_u20_l03_li04", "type": "dictation", "prompt": "Dictation: write down this sentence exactly.", "french": "Un bon titre ne résume pas le poème : il en change discrètement la lecture.", "answer": "Un bon titre ne résume pas le poème : il en change discrètement la lecture.", "acceptedAnswers": ["un bon titre ne resume pas le poeme il en change discretement la lecture"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "c2_u20_l03_sp01", "type": "speak", "prompt": "Give this workshop advice as if gently coaching another poet.", "french": "Il vaut mieux que la chute reste ambiguë plutôt qu'elle ne conclue trop nettement.", "english": "It is better for the chute to stay ambiguous than for it to conclude too neatly.", "tip": "Keep your tone suggestive, not corrective — this is advice, not a verdict." },
+            { "id": "c2_u20_l03_sp02", "type": "speak", "prompt": "Read this line as a piece of hard-won, quietly confident advice.", "french": "Le vécu fournit la matière ; le travail du poète est de la transposer.", "english": "Lived experience supplies the material; the poet's job is to transpose it.", "tip": "Give the two halves of this sentence roughly equal weight, with a real pause at the semicolon." },
+            { "id": "c2_u20_l03_sp03", "type": "speak", "prompt": "Deliver this closing thought as though it were the last line of a talk to young poets.", "french": "Oser publier, c'est accepter qu'un lecteur inconnu termine le poème à sa manière.", "english": "Daring to publish means accepting that an unknown reader will finish the poem in their own way.", "tip": "Let 'à sa manière' trail slightly, as an open acceptance rather than a firm conclusion." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Du brouillon au poème",
+              "french": "Un poème ne commence presque jamais par une grande idée.\nIl commence par un détail : une odeur, un geste, une phrase surprise dans la rue.\nLe poète débutant croit qu'il doit d'abord savoir de quoi il va parler.\nLe plus souvent, c'est l'inverse : le sujet se révèle en écrivant, jamais avant.\nLe brouillon accueille toutes les maladresses, sans exception et sans honte.\nOn y jette des images, on en garde une sur dix, parfois moins.\nVient ensuite la lecture à voix haute, seule étape vraiment irremplaçable.\nL'œil pardonne ce que l'oreille refuse net : une sonorité ratée, un vers trop long.\nRéécrire ne consiste pas à corriger des fautes de grammaire.\nC'est souvent remplacer une image entière par une autre, plus juste.\nC'est aussi accepter de supprimer un vers auquel on tenait, parce qu'il explique ce qu'une autre image montrait déjà.\nLa chute, elle, se travaille à part : on écrit parfois cinq fins avant de garder la bonne.\nLe titre vient rarement en premier, même s'il se lit en tête du poème.\nUn bon titre ne raconte pas le poème : il en oriente discrètement la lecture.\nEnfin, publier demande un peu de courage, car le poème cesse alors d'appartenir tout à fait à son auteur.\nUn lecteur inconnu le lira à sa manière, et cette lecture-là comptera autant que la première.",
+              "english": "A poem almost never begins with a grand idea.\nIt begins with a detail: a smell, a gesture, a sentence overheard in the street.\nThe beginning poet believes they must first know what they are going to write about.\nMost often, it is the opposite: the subject reveals itself while writing, never before.\nThe draft welcomes every clumsy attempt, without exception and without shame.\nYou throw in images, keep one in ten, sometimes fewer.\nThen comes reading aloud, the one truly irreplaceable step.\nThe eye forgives what the ear flatly refuses: a failed sonority, an overlong line.\nRewriting does not consist of correcting grammar mistakes.\nIt is often replacing a whole image with another, truer one.\nIt is also accepting the loss of a line you were attached to, because it explained what another image already showed.\nThe chute, for its part, is worked separately: sometimes five endings are written before the right one is kept.\nThe title rarely comes first, even though it is read at the head of the poem.\nA good title does not retell the poem: it discreetly steers how it is read.\nFinally, publishing takes a little courage, because the poem then stops belonging entirely to its author.\nAn unknown reader will read it in their own way, and that reading will matter just as much as the first.",
+              "questions": [
+                { "id": "c2_u20_l03_rd01", "type": "multipleChoice", "prompt": "According to the passage, what does a beginning poet often wrongly believe?", "options": ["That they must know their subject before writing", "That reading aloud is unnecessary", "That a title must come first", "That a draft should have no mistakes"], "answer": "That they must know their subject before writing" },
+                { "id": "c2_u20_l03_rd02", "type": "multipleChoice", "prompt": "According to the passage, what does the ear catch that the eye forgives?", "options": ["A failed sonority, an overlong line", "A missing title", "An unclear dedication", "A grammar mistake alone"], "answer": "A failed sonority, an overlong line" },
+                { "id": "c2_u20_l03_rd03", "type": "trueFalse", "prompt": "According to the passage, rewriting a poem is mainly about correcting grammar mistakes.", "options": ["True", "False"], "answer": "False" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "c2_u20_l03_wr01", "type": "translate", "prompt": "Translate into French.", "english": "A good title does not summarise the poem: it discreetly changes how it is read.", "answer": "Un bon titre ne résume pas le poème : il en change discrètement la lecture.", "acceptedAnswers": ["un bon titre ne resume pas le poeme il en change discretement la lecture"] },
+            { "id": "c2_u20_l03_wr02", "type": "arrangeWords", "prompt": "Rebuild this sentence from the reading passage.", "words": ["consiste", "pas", "ne", "Réécrire", "à", "des", "corriger", "fautes"], "answer": "Réécrire ne consiste pas à corriger des fautes", "english": "Rewriting does not consist of correcting mistakes." },
+            { "id": "c2_u20_l03_wr03", "type": "fillBlank", "prompt": "La lecture à voix haute reste la seule étape vraiment ___.", "answer": "irremplaçable", "tip": "This word describes something with no possible substitute." }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "c2_u20_l03_pr01", "type": "multipleChoice", "prompt": "Que fait le plus souvent un poème, selon le texte, avant même le sujet ?", "options": ["Il part d'un détail précis", "Il part d'une règle de grammaire", "Il part d'un titre déjà choisi", "Il part d'une contrainte imposée par un éditeur"], "answer": "Il part d'un détail précis" },
+            { "id": "c2_u20_l03_pr02", "type": "match", "prompt": "Match each term with its meaning.", "pairs": [ { "french": "l'ébauche", "english": "the rough sketch, the first outline" }, { "french": "peaufiner", "english": "to polish, to fine-tune" }, { "french": "s'inspirer de", "english": "to draw inspiration from" }, { "french": "le carnet de poèmes", "english": "the poetry notebook" } ] },
+            { "id": "c2_u20_l03_pr03", "type": "fillBlank", "prompt": "Il faut que tu ___ ce vers : il explique ce que l'image montrait déjà.", "answer": "supprimes" },
+            { "id": "c2_u20_l03_pr04", "type": "multipleChoice", "prompt": "Que révèle la lecture à voix haute, selon le texte ?", "options": ["Des maladresses que l'œil seul ne voit jamais", "Le titre définitif du poème", "Le nom du destinataire de la dédicace", "Le nombre exact de syllabes du poème"], "answer": "Des maladresses que l'œil seul ne voit jamais" },
+            { "id": "c2_u20_l03_pr05", "type": "translate", "prompt": "Translate: Finding the chute often means writing five endings before keeping the right one.", "english": "Finding the chute often means writing five endings before keeping the right one.", "answer": "Trouver la chute demande souvent d'écrire cinq fins avant de garder la bonne.", "acceptedAnswers": ["trouver la chute demande souvent d'ecrire cinq fins avant de garder la bonne", "trouver la chute demande souvent decrire cinq fins avant de garder la bonne"] },
+            { "id": "c2_u20_l03_pr06", "type": "trueFalse", "prompt": "According to the passage, publishing a poem means it stops belonging entirely to its author.", "options": ["True", "False"], "answer": "True", "tip": "Once a poem meets an unknown reader, that reader's own reading counts as much as the poet's original intention." }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "c2_u20_l03_qz01", "type": "multipleChoice", "prompt": "Selon le texte, par quoi commence presque toujours un poème ?", "options": ["Un détail précis, pas une grande idée", "Une règle de versification stricte", "Un titre déjà arrêté", "Une dédicace obligatoire"], "answer": "Un détail précis, pas une grande idée" },
+            { "id": "c2_u20_l03_qz02", "type": "fillBlank", "prompt": "Une bonne ___ supprime souvent plus de vers qu'elle n'en ajoute.", "answer": "relecture" },
+            { "id": "c2_u20_l03_qz03", "type": "multipleChoice", "prompt": "What is 'le vécu', in the context of writing poetry?", "options": ["Lived experience used as raw material for a poem", "A fixed poetic form", "A type of rhyme", "A publishing house"], "answer": "Lived experience used as raw material for a poem" },
+            { "id": "c2_u20_l03_qz04", "type": "trueFalse", "prompt": "Un bon titre se contente de résumer fidèlement le poème qui suit.", "options": ["True", "False"], "answer": "False" },
+            { "id": "c2_u20_l03_qz05", "type": "multipleChoice", "prompt": "Quelle expression désigne le fait de tirer sa matière de sa propre vie ?", "options": ["S'inspirer de son vécu", "Peaufiner un recueil", "Trouver la chute", "Épurer une strophe"], "answer": "S'inspirer de son vécu" }
+          ]
+        }
+      ]
+    }
+  ]
+}

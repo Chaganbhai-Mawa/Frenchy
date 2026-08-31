@@ -1,0 +1,1024 @@
+{
+  "id": "a2_u08",
+  "level": "A2",
+  "unit": 8,
+  "title": "City Life & Housing",
+  "subtitle": "Describe your home, explore your neighbourhood and move house",
+  "icon": "🏙️",
+  "lessons": [
+    {
+      "id": "a2_u08_l01",
+      "level": "A2",
+      "unit": 8,
+      "title": "Mon appartement",
+      "description": "Describe the rooms and furniture of your home and say exactly where things are.",
+      "estimatedMinutes": 15,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Les pièces de la maison",
+              "body": "A French home is described room by room: une pièce is a room in general, while la chambre is specifically a bedroom. Adverts count rooms without the kitchen and bathroom, so « un trois pièces » means a living room plus two bedrooms. Note that la salle de bains keeps an s on bains, and les toilettes are almost always plural.",
+              "examples": [
+                { "french": "Mon appartement a trois pièces.", "english": "My apartment has three rooms.", "note": "living room + 2 bedrooms" },
+                { "french": "La cuisine est petite mais claire.", "english": "The kitchen is small but bright." },
+                { "french": "Nous mangeons dans le salon.", "english": "We eat in the living room." },
+                { "french": "La salle de bains est au fond du couloir.", "english": "The bathroom is at the end of the hallway." },
+                { "french": "J'habite au troisième étage, sans ascenseur.", "english": "I live on the third floor, with no elevator." }
+              ],
+              "tip": "In France the ground floor is le rez-de-chaussée, so « le premier étage » is what Americans call the second floor."
+            },
+            {
+              "heading": "Les meubles et l'équipement",
+              "body": "Furniture words are very concrete and most are borrowed into English in some form. Un meuble is a single piece of furniture and des meubles is furniture in general. To say what a room contains, French uses il y a — the same form for singular and plural.",
+              "examples": [
+                { "french": "Dans le salon, il y a un canapé et deux fauteuils.", "english": "In the living room there is a sofa and two armchairs." },
+                { "french": "Mon lit est très confortable.", "english": "My bed is very comfortable." },
+                { "french": "Je range mes vêtements dans l'armoire.", "english": "I put my clothes away in the wardrobe." },
+                { "french": "Il y a un grand tapis sous la table.", "english": "There is a big rug under the table." },
+                { "french": "Le frigo est vide, il faut faire les courses.", "english": "The fridge is empty, we need to go shopping." }
+              ],
+              "tip": "Careful with faux amis: « une librairie » is a bookshop, and « un canapé » is a sofa — not a canopy."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "l-appartement", "french": "l'appartement", "english": "apartment, flat", "partOfSpeech": "noun", "gender": "m", "plural": "appartements", "pronunciation": "lah-par-tuh-MAHN", "example": "Je cherche un appartement dans le centre.", "exampleEnglish": "I am looking for an apartment in the centre.", "level": "A2", "category": "housing" },
+            { "id": "la-maison", "french": "la maison", "english": "house, home", "partOfSpeech": "noun", "gender": "f", "plural": "maisons", "pronunciation": "meh-ZON", "example": "Leur maison a un grand jardin.", "exampleEnglish": "Their house has a big garden.", "level": "A2", "category": "housing" },
+            { "id": "la-piece-maison", "french": "la pièce", "english": "room (of a home)", "partOfSpeech": "noun", "gender": "f", "plural": "pièces", "pronunciation": "pyess", "example": "L'appartement fait quatre pièces.", "exampleEnglish": "The apartment has four rooms.", "level": "A2", "category": "housing" },
+            { "id": "le-salon", "french": "le salon", "english": "living room", "partOfSpeech": "noun", "gender": "m", "plural": "salons", "pronunciation": "sah-LON", "example": "Nous regardons un film dans le salon.", "exampleEnglish": "We are watching a film in the living room.", "level": "A2", "category": "housing" },
+            { "id": "la-cuisine", "french": "la cuisine", "english": "kitchen", "partOfSpeech": "noun", "gender": "f", "plural": "cuisines", "pronunciation": "kwee-ZEEN", "example": "La cuisine est équipée d'un four moderne.", "exampleEnglish": "The kitchen is fitted with a modern oven.", "level": "A2", "category": "housing" },
+            { "id": "la-chambre", "french": "la chambre", "english": "bedroom", "partOfSpeech": "noun", "gender": "f", "plural": "chambres", "pronunciation": "SHAHM-bruh", "example": "Ma chambre donne sur la cour.", "exampleEnglish": "My bedroom looks out onto the courtyard.", "level": "A2", "category": "housing" },
+            { "id": "la-salle-de-bains", "french": "la salle de bains", "english": "bathroom", "partOfSpeech": "noun", "gender": "f", "plural": "salles de bains", "pronunciation": "sahl duh BAN", "example": "La salle de bains est juste à côté de ma chambre.", "exampleEnglish": "The bathroom is right next to my bedroom.", "level": "A2", "category": "housing" },
+            { "id": "l-entree", "french": "l'entrée", "english": "entrance hall", "partOfSpeech": "noun", "gender": "f", "plural": "entrées", "pronunciation": "lahn-TRAY", "example": "Laisse tes chaussures dans l'entrée.", "exampleEnglish": "Leave your shoes in the entrance hall.", "level": "A2", "category": "housing" },
+            { "id": "le-couloir", "french": "le couloir", "english": "hallway, corridor", "partOfSpeech": "noun", "gender": "m", "plural": "couloirs", "pronunciation": "koo-LWAR", "example": "Le couloir est un peu sombre.", "exampleEnglish": "The hallway is a little dark.", "level": "A2", "category": "housing" },
+            { "id": "le-balcon", "french": "le balcon", "english": "balcony", "partOfSpeech": "noun", "gender": "m", "plural": "balcons", "pronunciation": "bahl-KON", "example": "On prend le café sur le balcon.", "exampleEnglish": "We have coffee on the balcony.", "level": "A2", "category": "housing" },
+            { "id": "la-terrasse", "french": "la terrasse", "english": "terrace, patio", "partOfSpeech": "noun", "gender": "f", "plural": "terrasses", "pronunciation": "teh-RASS", "example": "La terrasse est parfaite pour l'été.", "exampleEnglish": "The terrace is perfect for the summer.", "level": "A2", "category": "housing" },
+            { "id": "le-garage", "french": "le garage", "english": "garage", "partOfSpeech": "noun", "gender": "m", "plural": "garages", "pronunciation": "gah-RAHZH", "example": "Je gare la voiture dans le garage.", "exampleEnglish": "I park the car in the garage.", "level": "A2", "category": "housing" },
+            { "id": "la-cave", "french": "la cave", "english": "cellar, basement", "partOfSpeech": "noun", "gender": "f", "plural": "caves", "pronunciation": "kahv", "example": "Les vieux cartons sont à la cave.", "exampleEnglish": "The old boxes are in the cellar.", "level": "A2", "category": "housing" },
+            { "id": "le-rez-de-chaussee", "french": "le rez-de-chaussée", "english": "ground floor", "partOfSpeech": "noun", "gender": "m", "plural": "rez-de-chaussée", "pronunciation": "ray-duh-show-SAY", "example": "Le studio est au rez-de-chaussée.", "exampleEnglish": "The studio flat is on the ground floor.", "level": "A2", "category": "housing" },
+            { "id": "l-escalier", "french": "l'escalier", "english": "staircase, stairs", "partOfSpeech": "noun", "gender": "m", "plural": "escaliers", "pronunciation": "less-kah-LYAY", "example": "Je monte l'escalier à pied.", "exampleEnglish": "I walk up the stairs.", "level": "A2", "category": "housing" },
+            { "id": "l-ascenseur", "french": "l'ascenseur", "english": "elevator, lift", "partOfSpeech": "noun", "gender": "m", "plural": "ascenseurs", "pronunciation": "lah-sahn-SUR", "example": "L'ascenseur est en panne depuis lundi.", "exampleEnglish": "The lift has been out of order since Monday.", "level": "A2", "category": "housing" },
+            { "id": "le-mur", "french": "le mur", "english": "wall", "partOfSpeech": "noun", "gender": "m", "plural": "murs", "pronunciation": "mewr", "example": "Il y a une photo au mur.", "exampleEnglish": "There is a photo on the wall.", "level": "A2", "category": "housing" },
+            { "id": "la-fenetre", "french": "la fenêtre", "english": "window", "partOfSpeech": "noun", "gender": "f", "plural": "fenêtres", "pronunciation": "fuh-NET-ruh", "example": "Ouvre la fenêtre, il fait chaud.", "exampleEnglish": "Open the window, it's hot.", "level": "A2", "category": "housing" },
+            { "id": "la-porte", "french": "la porte", "english": "door", "partOfSpeech": "noun", "gender": "f", "plural": "portes", "pronunciation": "port", "example": "Ferme la porte, s'il te plaît.", "exampleEnglish": "Close the door, please.", "level": "A2", "category": "housing" },
+            { "id": "le-meuble", "french": "le meuble", "english": "piece of furniture", "partOfSpeech": "noun", "gender": "m", "plural": "meubles", "pronunciation": "MUH-bluh", "example": "Ce meuble vient de ma grand-mère.", "exampleEnglish": "This piece of furniture comes from my grandmother.", "level": "A2", "category": "furniture" },
+            { "id": "le-canape", "french": "le canapé", "english": "sofa, couch", "partOfSpeech": "noun", "gender": "m", "plural": "canapés", "pronunciation": "kah-nah-PAY", "example": "Le chat dort sur le canapé.", "exampleEnglish": "The cat is sleeping on the sofa.", "level": "A2", "category": "furniture" },
+            { "id": "le-fauteuil", "french": "le fauteuil", "english": "armchair", "partOfSpeech": "noun", "gender": "m", "plural": "fauteuils", "pronunciation": "foh-TUH-yuh", "example": "Mon père lit dans son fauteuil préféré.", "exampleEnglish": "My father reads in his favourite armchair.", "level": "A2", "category": "furniture" },
+            { "id": "la-chaise", "french": "la chaise", "english": "chair", "partOfSpeech": "noun", "gender": "f", "plural": "chaises", "pronunciation": "shez", "example": "Il manque une chaise autour de la table.", "exampleEnglish": "There is one chair missing around the table.", "level": "A2", "category": "furniture" },
+            { "id": "le-lit", "french": "le lit", "english": "bed", "partOfSpeech": "noun", "gender": "m", "plural": "lits", "pronunciation": "lee", "example": "Je fais mon lit tous les matins.", "exampleEnglish": "I make my bed every morning.", "level": "A2", "category": "furniture" },
+            { "id": "l-armoire", "french": "l'armoire", "english": "wardrobe", "partOfSpeech": "noun", "gender": "f", "plural": "armoires", "pronunciation": "lar-MWAR", "example": "L'armoire est pleine de vieux vêtements.", "exampleEnglish": "The wardrobe is full of old clothes.", "level": "A2", "category": "furniture" },
+            { "id": "l-etagere", "french": "l'étagère", "english": "shelf, shelving unit", "partOfSpeech": "noun", "gender": "f", "plural": "étagères", "pronunciation": "lay-tah-ZHAIR", "example": "Mes livres sont sur l'étagère du haut.", "exampleEnglish": "My books are on the top shelf.", "level": "A2", "category": "furniture" },
+            { "id": "le-tapis", "french": "le tapis", "english": "rug, carpet", "partOfSpeech": "noun", "gender": "m", "plural": "tapis", "pronunciation": "tah-PEE", "example": "Le tapis rouge réchauffe la pièce.", "exampleEnglish": "The red rug warms up the room.", "level": "A2", "category": "furniture" },
+            { "id": "le-rideau", "french": "le rideau", "english": "curtain", "partOfSpeech": "noun", "gender": "m", "plural": "rideaux", "pronunciation": "ree-DOH", "example": "Ferme les rideaux, le soleil me gêne.", "exampleEnglish": "Close the curtains, the sun is bothering me.", "level": "A2", "category": "furniture" },
+            { "id": "la-lampe", "french": "la lampe", "english": "lamp", "partOfSpeech": "noun", "gender": "f", "plural": "lampes", "pronunciation": "lahmp", "example": "Allume la lampe, on ne voit rien.", "exampleEnglish": "Turn on the lamp, we can't see a thing.", "level": "A2", "category": "furniture" },
+            { "id": "le-frigo", "french": "le frigo", "english": "fridge", "partOfSpeech": "noun", "gender": "m", "plural": "frigos", "pronunciation": "free-GOH", "example": "Le lait est dans le frigo.", "exampleEnglish": "The milk is in the fridge.", "level": "A2", "category": "furniture" },
+            { "id": "le-four", "french": "le four", "english": "oven", "partOfSpeech": "noun", "gender": "m", "plural": "fours", "pronunciation": "foor", "example": "Le gâteau est encore dans le four.", "exampleEnglish": "The cake is still in the oven.", "level": "A2", "category": "furniture" },
+            { "id": "sur-prep", "french": "sur", "english": "on, on top of", "partOfSpeech": "preposition", "pronunciation": "sewr", "example": "Les clés sont sur la table.", "exampleEnglish": "The keys are on the table.", "level": "A2", "category": "prepositions" },
+            { "id": "sous-prep", "french": "sous", "english": "under", "partOfSpeech": "preposition", "pronunciation": "soo", "example": "Le chien dort sous le lit.", "exampleEnglish": "The dog is sleeping under the bed.", "level": "A2", "category": "prepositions" },
+            { "id": "entre-prep", "french": "entre", "english": "between", "partOfSpeech": "preposition", "pronunciation": "AHN-truh", "example": "La lampe est entre le canapé et la fenêtre.", "exampleEnglish": "The lamp is between the sofa and the window.", "level": "A2", "category": "prepositions" },
+            { "id": "a-cote-de", "french": "à côté de", "english": "next to, beside", "partOfSpeech": "preposition", "pronunciation": "ah koh-TAY duh", "example": "La cuisine est à côté du salon.", "exampleEnglish": "The kitchen is next to the living room.", "level": "A2", "category": "prepositions" },
+            { "id": "en-face-de", "french": "en face de", "english": "opposite, across from", "partOfSpeech": "preposition", "pronunciation": "ahn fass duh", "example": "Ma chambre est en face de la salle de bains.", "exampleEnglish": "My bedroom is opposite the bathroom.", "level": "A2", "category": "prepositions" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar — prepositions of place",
+          "blocks": [
+            {
+              "heading": "Simple prepositions: dans, sur, sous, devant, derrière, entre",
+              "body": "These short prepositions go straight in front of the noun with its article — nothing changes. Dans means inside, sur means on a surface, sous means underneath, devant is in front of and derrière is behind. Entre needs two things, joined by et.",
+              "examples": [
+                { "french": "Le livre est sur l'étagère.", "english": "The book is on the shelf." },
+                { "french": "Mes chaussures sont sous le lit.", "english": "My shoes are under the bed." },
+                { "french": "Il y a un tapis devant la porte.", "english": "There is a rug in front of the door." },
+                { "french": "Le jardin est derrière la maison.", "english": "The garden is behind the house." },
+                { "french": "La table est entre le canapé et la fenêtre.", "english": "The table is between the sofa and the window." },
+                { "french": "Les serviettes sont dans l'armoire.", "english": "The towels are in the wardrobe." }
+              ],
+              "tip": "Dans le salon = inside the living room; au salon (à + le) is also possible and sounds slightly more formal."
+            },
+            {
+              "heading": "Prepositions ending in de: watch the contraction",
+              "body": "à côté de, en face de, près de, loin de and au-dessus de all end in de, and de contracts with the article: de + le = du, de + les = des. Before la and l' nothing changes. Getting this contraction right is what makes your description sound French.",
+              "examples": [
+                { "french": "La banque est à côté du cinéma.", "english": "The bank is next to the cinema.", "note": "de + le = du" },
+                { "french": "Je vis en face de la gare.", "english": "I live opposite the train station." },
+                { "french": "L'école est près des magasins.", "english": "The school is near the shops.", "note": "de + les = des" },
+                { "french": "Nous habitons loin du centre-ville.", "english": "We live far from the town centre." },
+                { "french": "Il y a un miroir au-dessus de l'évier.", "english": "There is a mirror above the sink." },
+                { "french": "La cave est au-dessous de l'appartement.", "english": "The cellar is below the apartment." }
+              ],
+              "tip": "If you drop the noun, the de disappears too: « La pharmacie ? Elle est juste à côté. »"
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a2_u08_l01_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. Where is the lamp?",
+              "french": "La lampe est à côté du canapé.",
+              "options": ["Next to the sofa", "Under the sofa", "Behind the sofa", "On the sofa"],
+              "answer": "Next to the sofa"
+            },
+            {
+              "id": "a2_u08_l01_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. Which room is mentioned?",
+              "french": "La salle de bains est au fond du couloir.",
+              "options": ["The bathroom", "The kitchen", "The bedroom", "The cellar"],
+              "answer": "The bathroom"
+            },
+            {
+              "id": "a2_u08_l01_li03",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Les clés sont sur la table.",
+              "answer": "Les clés sont sur la table.",
+              "acceptedAnswers": ["les cles sont sur la table", "Les cles sont sur la table"]
+            },
+            {
+              "id": "a2_u08_l01_li04",
+              "type": "listenChoose",
+              "prompt": "Listen. On which floor does she live?",
+              "french": "J'habite au quatrième étage, avec ascenseur.",
+              "options": ["The fourth floor", "The ground floor", "The first floor", "The fifth floor"],
+              "answer": "The fourth floor"
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a2_u08_l01_sp01",
+              "type": "speak",
+              "prompt": "Say that your apartment has three rooms.",
+              "french": "Mon appartement a trois pièces.",
+              "english": "My apartment has three rooms.",
+              "tip": "« Pièces » is one syllable: pyess. Don't add an extra vowel between p and y."
+            },
+            {
+              "id": "a2_u08_l01_sp02",
+              "type": "speak",
+              "prompt": "Say that the kitchen is next to the living room.",
+              "french": "La cuisine est à côté du salon.",
+              "english": "The kitchen is next to the living room.",
+              "tip": "Say « du » with rounded lips, like a tight English ew — dew, not doo."
+            },
+            {
+              "id": "a2_u08_l01_sp03",
+              "type": "speak",
+              "prompt": "Say that there is a rug under the table.",
+              "french": "Il y a un tapis sous la table.",
+              "english": "There is a rug under the table.",
+              "tip": "« Il y a » runs together into two quick syllables: ee-lyah."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Le nouvel appartement de Camille",
+              "french": "Camille a emménagé la semaine dernière dans un petit appartement.\nIl est au deuxième étage d'un vieil immeuble, sans ascenseur.\nIl y a trois pièces : un salon, une chambre et une cuisine.\nLe salon est très lumineux parce qu'il y a deux grandes fenêtres.\nDevant le canapé, elle a mis un tapis bleu et une table basse.\nSa chambre est petite, mais l'armoire est immense.\nLa salle de bains se trouve en face de la chambre, au bout du couloir.\nCamille adore son balcon : le matin, elle y prend son café.",
+              "english": "Camille moved into a small apartment last week.\nIt is on the second floor of an old building, with no lift.\nThere are three rooms: a living room, a bedroom and a kitchen.\nThe living room is very bright because there are two big windows.\nIn front of the sofa she has put a blue rug and a coffee table.\nHer bedroom is small, but the wardrobe is huge.\nThe bathroom is opposite the bedroom, at the end of the hallway.\nCamille loves her balcony: in the morning she has her coffee there.",
+              "questions": [
+                {
+                  "id": "a2_u08_l01_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Why is the living room so bright?",
+                  "options": ["It has two big windows", "It is painted white", "It is on the top floor", "It has many lamps"],
+                  "answer": "It has two big windows"
+                },
+                {
+                  "id": "a2_u08_l01_rd02",
+                  "type": "trueFalse",
+                  "prompt": "The building has a lift.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                },
+                {
+                  "id": "a2_u08_l01_rd03",
+                  "type": "multipleChoice",
+                  "prompt": "Where is the bathroom?",
+                  "options": ["Opposite the bedroom", "Next to the kitchen", "On the balcony", "Downstairs"],
+                  "answer": "Opposite the bedroom"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a2_u08_l01_wr01",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "The bedroom is next to the kitchen.",
+              "answer": "La chambre est à côté de la cuisine.",
+              "acceptedAnswers": ["la chambre est a cote de la cuisine", "La chambre est a cote de la cuisine"]
+            },
+            {
+              "id": "a2_u08_l01_wr02",
+              "type": "fillBlank",
+              "prompt": "Le canapé est en face ___ fenêtre. (de + la)",
+              "answer": "de la"
+            },
+            {
+              "id": "a2_u08_l01_wr03",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "words": ["sous", "chat", "dort", "le", "Le", "lit"],
+              "answer": "Le chat dort sous le lit",
+              "english": "The cat sleeps under the bed."
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a2_u08_l01_pr01",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "la cuisine", "english": "kitchen" },
+                { "french": "le canapé", "english": "sofa" },
+                { "french": "l'armoire", "english": "wardrobe" },
+                { "french": "l'escalier", "english": "staircase" }
+              ]
+            },
+            {
+              "id": "a2_u08_l01_pr02",
+              "type": "multipleChoice",
+              "prompt": "Choose the correct contraction: de + le = ?",
+              "options": ["du", "des", "de la", "d'le"],
+              "answer": "du"
+            },
+            {
+              "id": "a2_u08_l01_pr03",
+              "type": "fillBlank",
+              "prompt": "La lampe est à côté ___ lit. (de + le)",
+              "answer": "du"
+            },
+            {
+              "id": "a2_u08_l01_pr04",
+              "type": "trueFalse",
+              "prompt": "In France, « le premier étage » is the floor at street level.",
+              "options": ["True", "False"],
+              "answer": "False"
+            },
+            {
+              "id": "a2_u08_l01_pr05",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "There is a rug in front of the door.",
+              "answer": "Il y a un tapis devant la porte.",
+              "acceptedAnswers": ["il y a un tapis devant la porte"]
+            },
+            {
+              "id": "a2_u08_l01_pr06",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "words": ["est", "salon", "Le", "lumineux", "très"],
+              "answer": "Le salon est très lumineux",
+              "english": "The living room is very bright."
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a2_u08_l01_qz01",
+              "type": "multipleChoice",
+              "prompt": "What is « le rez-de-chaussée » ?",
+              "options": ["The ground floor", "The attic", "The cellar", "The roof"],
+              "answer": "The ground floor"
+            },
+            {
+              "id": "a2_u08_l01_qz02",
+              "type": "fillBlank",
+              "prompt": "L'école est près ___ magasins. (de + les)",
+              "answer": "des"
+            },
+            {
+              "id": "a2_u08_l01_qz03",
+              "type": "multipleChoice",
+              "prompt": "Which preposition means « under » ?",
+              "options": ["sous", "sur", "entre", "devant"],
+              "answer": "sous"
+            },
+            {
+              "id": "a2_u08_l01_qz04",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "The books are on the shelf.",
+              "answer": "Les livres sont sur l'étagère.",
+              "acceptedAnswers": ["les livres sont sur l'etagere", "les livres sont sur letagere"]
+            },
+            {
+              "id": "a2_u08_l01_qz05",
+              "type": "trueFalse",
+              "prompt": "« Une librairie » is a bookshop, not a library.",
+              "options": ["True", "False"],
+              "answer": "True"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2_u08_l02",
+      "level": "A2",
+      "unit": 8,
+      "title": "Dans mon quartier",
+      "description": "Name the shops, services and public places around you and say where you are going.",
+      "estimatedMinutes": 15,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Les commerces du quartier",
+              "body": "Most French shop names are built from the product plus the ending -erie: le pain gives la boulangerie, la viande gives la boucherie. The shopkeeper takes -er or -ère: le boulanger, la boulangère. These small shops are still part of daily life, even next to big supermarkets.",
+              "examples": [
+                { "french": "J'achète une baguette à la boulangerie.", "english": "I buy a baguette at the bakery." },
+                { "french": "La boucherie ferme le lundi.", "english": "The butcher's is closed on Mondays." },
+                { "french": "Il y a une petite épicerie au coin de la rue.", "english": "There is a small grocery shop on the corner of the street." },
+                { "french": "Le samedi, on fait les courses au marché.", "english": "On Saturdays we do the shopping at the market." },
+                { "french": "Je vais chez le coiffeur cet après-midi.", "english": "I'm going to the hairdresser's this afternoon." }
+              ],
+              "tip": "For a shop named after a person, French says chez: chez le boulanger, chez le médecin, chez le coiffeur."
+            },
+            {
+              "heading": "Les services et les lieux publics",
+              "body": "Every French town centre has the same core services: la mairie for paperwork, la poste for letters, la banque for money and le commissariat for the police. Public places such as le parc, la bibliothèque and la piscine are usually municipal, so their names appear on street signs with the word municipal(e).",
+              "examples": [
+                { "french": "Je dois passer à la poste avant midi.", "english": "I have to stop by the post office before noon." },
+                { "french": "La mairie se trouve sur la place principale.", "english": "The town hall is on the main square." },
+                { "french": "Les enfants jouent dans le parc.", "english": "The children are playing in the park." },
+                { "french": "Elle emprunte des livres à la bibliothèque.", "english": "She borrows books from the library." },
+                { "french": "L'arrêt de bus est juste devant la pharmacie.", "english": "The bus stop is right in front of the pharmacy." }
+              ],
+              "tip": "In small towns, ask « Où est le centre-ville ? » — everything useful is usually within a few streets."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "le-quartier", "french": "le quartier", "english": "neighbourhood, district", "partOfSpeech": "noun", "gender": "m", "plural": "quartiers", "pronunciation": "kar-TYAY", "example": "J'habite dans un quartier très vivant.", "exampleEnglish": "I live in a very lively neighbourhood.", "level": "A2", "category": "city" },
+            { "id": "rue", "french": "la rue", "english": "street", "partOfSpeech": "noun", "gender": "f", "plural": "rues", "pronunciation": "rew", "example": "Ma rue est calme le dimanche.", "exampleEnglish": "My street is quiet on Sundays.", "level": "A2", "category": "city" },
+            { "id": "le-trottoir", "french": "le trottoir", "english": "pavement, sidewalk", "partOfSpeech": "noun", "gender": "m", "plural": "trottoirs", "pronunciation": "tro-TWAR", "example": "Les vélos roulent sur le trottoir.", "exampleEnglish": "The bikes ride on the pavement.", "level": "A2", "category": "city" },
+            { "id": "le-carrefour", "french": "le carrefour", "english": "crossroads, intersection", "partOfSpeech": "noun", "gender": "m", "plural": "carrefours", "pronunciation": "kar-FOOR", "example": "Tournez à droite au carrefour.", "exampleEnglish": "Turn right at the crossroads.", "level": "A2", "category": "city" },
+            { "id": "la-place-square", "french": "la place", "english": "square (in a town)", "partOfSpeech": "noun", "gender": "f", "plural": "places", "pronunciation": "plass", "example": "Le marché a lieu sur la place du village.", "exampleEnglish": "The market takes place on the village square.", "level": "A2", "category": "city" },
+            { "id": "la-boulangerie", "french": "la boulangerie", "english": "bakery", "partOfSpeech": "noun", "gender": "f", "plural": "boulangeries", "pronunciation": "boo-lahn-zhuh-REE", "example": "La boulangerie ouvre à six heures.", "exampleEnglish": "The bakery opens at six o'clock.", "level": "A2", "category": "shops" },
+            { "id": "le-boulanger", "french": "le boulanger", "english": "baker", "partOfSpeech": "noun", "gender": "m", "plural": "boulangers", "pronunciation": "boo-lahn-ZHAY", "example": "Le boulanger prépare le pain très tôt.", "exampleEnglish": "The baker makes the bread very early.", "level": "A2", "category": "shops" },
+            { "id": "la-patisserie", "french": "la pâtisserie", "english": "cake shop, pastry shop", "partOfSpeech": "noun", "gender": "f", "plural": "pâtisseries", "pronunciation": "pah-tees-REE", "example": "On achète le gâteau à la pâtisserie.", "exampleEnglish": "We buy the cake at the pastry shop.", "level": "A2", "category": "shops" },
+            { "id": "la-boucherie", "french": "la boucherie", "english": "butcher's shop", "partOfSpeech": "noun", "gender": "f", "plural": "boucheries", "pronunciation": "boosh-REE", "example": "Il y a une boucherie en face de l'école.", "exampleEnglish": "There is a butcher's shop opposite the school.", "level": "A2", "category": "shops" },
+            { "id": "l-epicerie", "french": "l'épicerie", "english": "grocery shop", "partOfSpeech": "noun", "gender": "f", "plural": "épiceries", "pronunciation": "lay-pees-REE", "example": "L'épicerie du coin reste ouverte tard.", "exampleEnglish": "The corner shop stays open late.", "level": "A2", "category": "shops" },
+            { "id": "le-supermarche", "french": "le supermarché", "english": "supermarket", "partOfSpeech": "noun", "gender": "m", "plural": "supermarchés", "pronunciation": "sew-per-mar-SHAY", "example": "Le supermarché est à dix minutes à pied.", "exampleEnglish": "The supermarket is a ten-minute walk away.", "level": "A2", "category": "shops" },
+            { "id": "marche", "french": "le marché", "english": "market", "partOfSpeech": "noun", "gender": "m", "plural": "marchés", "pronunciation": "mar-SHAY", "example": "Le marché a lieu tous les mercredis.", "exampleEnglish": "The market is held every Wednesday.", "level": "A2", "category": "shops" },
+            { "id": "la-librairie", "french": "la librairie", "english": "bookshop", "partOfSpeech": "noun", "gender": "f", "plural": "librairies", "pronunciation": "lee-breh-REE", "example": "J'ai trouvé ce roman dans une petite librairie.", "exampleEnglish": "I found this novel in a small bookshop.", "level": "A2", "category": "shops" },
+            { "id": "le-bureau-de-tabac", "french": "le bureau de tabac", "english": "tobacconist's, newsagent", "partOfSpeech": "noun", "gender": "m", "plural": "bureaux de tabac", "pronunciation": "bew-ROH duh tah-BAH", "example": "On achète les timbres au bureau de tabac.", "exampleEnglish": "You buy stamps at the tobacconist's.", "level": "A2", "category": "shops" },
+            { "id": "le-coiffeur", "french": "le coiffeur", "english": "hairdresser", "partOfSpeech": "noun", "gender": "m", "plural": "coiffeurs", "pronunciation": "kwah-FUR", "example": "Je vais chez le coiffeur samedi matin.", "exampleEnglish": "I'm going to the hairdresser's on Saturday morning.", "level": "A2", "category": "shops" },
+            { "id": "la-pharmacie", "french": "la pharmacie", "english": "pharmacy, chemist's", "partOfSpeech": "noun", "gender": "f", "plural": "pharmacies", "pronunciation": "far-mah-SEE", "example": "La pharmacie de garde est ouverte la nuit.", "exampleEnglish": "The duty pharmacy is open at night.", "level": "A2", "category": "shops" },
+            { "id": "magasin", "french": "le magasin", "english": "shop, store", "partOfSpeech": "noun", "gender": "m", "plural": "magasins", "pronunciation": "mah-gah-ZAN", "example": "Les magasins ferment à dix-neuf heures.", "exampleEnglish": "The shops close at seven p.m.", "level": "A2", "category": "shops" },
+            { "id": "la-boutique", "french": "la boutique", "english": "small shop, boutique", "partOfSpeech": "noun", "gender": "f", "plural": "boutiques", "pronunciation": "boo-TEEK", "example": "Cette boutique vend des vêtements d'occasion.", "exampleEnglish": "This shop sells second-hand clothes.", "level": "A2", "category": "shops" },
+            { "id": "faire-les-courses", "french": "faire les courses", "english": "to do the shopping", "partOfSpeech": "expression", "pronunciation": "fair lay KOORSS", "example": "Je fais les courses le vendredi soir.", "exampleEnglish": "I do the shopping on Friday evenings.", "level": "A2", "category": "shops" },
+            { "id": "banque", "french": "la banque", "english": "bank", "partOfSpeech": "noun", "gender": "f", "plural": "banques", "pronunciation": "bahnk", "example": "La banque ouvre à neuf heures.", "exampleEnglish": "The bank opens at nine o'clock.", "level": "A2", "category": "services" },
+            { "id": "poste", "french": "la poste", "english": "post office", "partOfSpeech": "noun", "gender": "f", "plural": "postes", "pronunciation": "posst", "example": "J'envoie ce colis à la poste.", "exampleEnglish": "I'm sending this parcel at the post office.", "level": "A2", "category": "services" },
+            { "id": "mairie", "french": "la mairie", "english": "town hall", "partOfSpeech": "noun", "gender": "f", "plural": "mairies", "pronunciation": "meh-REE", "example": "Il faut aller à la mairie pour ce document.", "exampleEnglish": "You have to go to the town hall for this document.", "level": "A2", "category": "services" },
+            { "id": "le-commissariat", "french": "le commissariat", "english": "police station", "partOfSpeech": "noun", "gender": "m", "plural": "commissariats", "pronunciation": "ko-mee-sah-RYAH", "example": "Elle a déclaré le vol au commissariat.", "exampleEnglish": "She reported the theft at the police station.", "level": "A2", "category": "services" },
+            { "id": "l-hopital", "french": "l'hôpital", "english": "hospital", "partOfSpeech": "noun", "gender": "m", "plural": "hôpitaux", "pronunciation": "loh-pee-TAL", "example": "L'hôpital se trouve à la sortie de la ville.", "exampleEnglish": "The hospital is on the edge of town.", "level": "A2", "category": "services" },
+            { "id": "la-bibliotheque", "french": "la bibliothèque", "english": "library", "partOfSpeech": "noun", "gender": "f", "plural": "bibliothèques", "pronunciation": "bee-blee-o-TEK", "example": "La bibliothèque est gratuite pour les étudiants.", "exampleEnglish": "The library is free for students.", "level": "A2", "category": "services" },
+            { "id": "l-ecole", "french": "l'école", "english": "school", "partOfSpeech": "noun", "gender": "f", "plural": "écoles", "pronunciation": "lay-KOL", "example": "L'école est à côté du parc.", "exampleEnglish": "The school is next to the park.", "level": "A2", "category": "services" },
+            { "id": "la-piscine", "french": "la piscine", "english": "swimming pool", "partOfSpeech": "noun", "gender": "f", "plural": "piscines", "pronunciation": "pee-SEEN", "example": "Je vais à la piscine deux fois par semaine.", "exampleEnglish": "I go to the swimming pool twice a week.", "level": "A2", "category": "services" },
+            { "id": "le-parc", "french": "le parc", "english": "park", "partOfSpeech": "noun", "gender": "m", "plural": "parcs", "pronunciation": "park", "example": "On se promène dans le parc après le dîner.", "exampleEnglish": "We walk in the park after dinner.", "level": "A2", "category": "city" },
+            { "id": "l-eglise", "french": "l'église", "english": "church", "partOfSpeech": "noun", "gender": "f", "plural": "églises", "pronunciation": "lay-GLEEZ", "example": "L'église du village date du douzième siècle.", "exampleEnglish": "The village church dates from the twelfth century.", "level": "A2", "category": "city" },
+            { "id": "le-musee", "french": "le musée", "english": "museum", "partOfSpeech": "noun", "gender": "m", "plural": "musées", "pronunciation": "mew-ZAY", "example": "Le musée est gratuit le premier dimanche du mois.", "exampleEnglish": "The museum is free on the first Sunday of the month.", "level": "A2", "category": "city" },
+            { "id": "le-cinema", "french": "le cinéma", "english": "cinema, movie theatre", "partOfSpeech": "noun", "gender": "m", "plural": "cinémas", "pronunciation": "see-nay-MAH", "example": "Il y a un vieux cinéma dans mon quartier.", "exampleEnglish": "There is an old cinema in my neighbourhood.", "level": "A2", "category": "city" },
+            { "id": "le-restaurant", "french": "le restaurant", "english": "restaurant", "partOfSpeech": "noun", "gender": "m", "plural": "restaurants", "pronunciation": "res-toh-RAHN", "example": "Ce restaurant italien est excellent.", "exampleEnglish": "This Italian restaurant is excellent.", "level": "A2", "category": "city" },
+            { "id": "le-cafe-lieu", "french": "le café", "english": "café", "partOfSpeech": "noun", "gender": "m", "plural": "cafés", "pronunciation": "kah-FAY", "example": "On se retrouve au café de la place.", "exampleEnglish": "We're meeting at the café on the square.", "level": "A2", "category": "city" },
+            { "id": "l-arret-de-bus", "french": "l'arrêt de bus", "english": "bus stop", "partOfSpeech": "noun", "gender": "m", "plural": "arrêts de bus", "pronunciation": "lah-REH duh BEWSS", "example": "L'arrêt de bus est au bout de la rue.", "exampleEnglish": "The bus stop is at the end of the street.", "level": "A2", "category": "city" },
+            { "id": "gare", "french": "la gare", "english": "train station", "partOfSpeech": "noun", "gender": "f", "plural": "gares", "pronunciation": "gar", "example": "La gare est à quinze minutes en bus.", "exampleEnglish": "The station is fifteen minutes away by bus.", "level": "A2", "category": "city" },
+            { "id": "le-kiosque", "french": "le kiosque", "english": "newsstand, kiosk", "partOfSpeech": "noun", "gender": "m", "plural": "kiosques", "pronunciation": "kyosk", "example": "J'achète le journal au kiosque.", "exampleEnglish": "I buy the newspaper at the newsstand.", "level": "A2", "category": "city" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar — aller à, venir de, aller chez",
+          "blocks": [
+            {
+              "heading": "Going to a place: à + article",
+              "body": "To say where you are going, use aller à plus the place. The preposition à merges with the article: à + le = au, à + les = aux, while à la and à l' stay unchanged. The same forms are used with être to say where you are.",
+              "examples": [
+                { "french": "Je vais à la boulangerie.", "english": "I'm going to the bakery." },
+                { "french": "Nous allons au marché ce matin.", "english": "We're going to the market this morning.", "note": "à + le = au" },
+                { "french": "Elle va à l'école à pied.", "english": "She walks to school." },
+                { "french": "Ils vont aux magasins du centre.", "english": "They're going to the shops in the centre.", "note": "à + les = aux" },
+                { "french": "Tu es à la piscine ?", "english": "Are you at the swimming pool?" },
+                { "french": "On se retrouve au parc à quatre heures.", "english": "Let's meet at the park at four." }
+              ],
+              "tip": "Aller is irregular: je vais, tu vas, il/elle va, nous allons, vous allez, ils/elles vont."
+            },
+            {
+              "heading": "Coming from a place, and going to someone's: de and chez",
+              "body": "Venir de means to come from, and de contracts the same way: de + le = du, de + les = des. When the destination is a person or a profession, French uses chez instead of à: chez le médecin, chez ma sœur, chez moi.",
+              "examples": [
+                { "french": "Je viens de la pharmacie.", "english": "I'm coming from the pharmacy." },
+                { "french": "Il revient du supermarché.", "english": "He's coming back from the supermarket.", "note": "de + le = du" },
+                { "french": "Elles rentrent des magasins.", "english": "They're coming home from the shops." },
+                { "french": "Je vais chez le coiffeur.", "english": "I'm going to the hairdresser's." },
+                { "french": "On dîne chez mes parents ce soir.", "english": "We're having dinner at my parents' place tonight." },
+                { "french": "Reste chez toi, il pleut.", "english": "Stay at home, it's raining." }
+              ],
+              "tip": "Chez is never followed by an article: chez le médecin (a person) but à la pharmacie (a place)."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a2_u08_l02_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. Where is she going?",
+              "french": "Je vais à la boulangerie acheter du pain.",
+              "options": ["To the bakery", "To the butcher's", "To the library", "To the bank"],
+              "answer": "To the bakery"
+            },
+            {
+              "id": "a2_u08_l02_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. What is right in front of the pharmacy?",
+              "french": "L'arrêt de bus est juste devant la pharmacie.",
+              "options": ["The bus stop", "The park", "The town hall", "The market"],
+              "answer": "The bus stop"
+            },
+            {
+              "id": "a2_u08_l02_li03",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Nous allons au marché ce matin.",
+              "answer": "Nous allons au marché ce matin.",
+              "acceptedAnswers": ["nous allons au marche ce matin", "Nous allons au marche ce matin"]
+            },
+            {
+              "id": "a2_u08_l02_li04",
+              "type": "listenChoose",
+              "prompt": "Listen. When does the market take place?",
+              "french": "Le marché a lieu tous les mercredis, sur la place.",
+              "options": ["Every Wednesday", "Every Sunday", "Every morning", "Once a month"],
+              "answer": "Every Wednesday"
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a2_u08_l02_sp01",
+              "type": "speak",
+              "prompt": "Say that you are going to the post office.",
+              "french": "Je vais à la poste.",
+              "english": "I'm going to the post office.",
+              "tip": "« Poste » ends on a crisp st — posst, with no vowel after the final e."
+            },
+            {
+              "id": "a2_u08_l02_sp02",
+              "type": "speak",
+              "prompt": "Say that there is a bakery on the corner of the street.",
+              "french": "Il y a une boulangerie au coin de la rue.",
+              "english": "There is a bakery on the corner of the street.",
+              "tip": "« Rue » needs the tight u: round your lips as for oo but say ee."
+            },
+            {
+              "id": "a2_u08_l02_sp03",
+              "type": "speak",
+              "prompt": "Say that you are going to the hairdresser's on Saturday.",
+              "french": "Je vais chez le coiffeur samedi.",
+              "english": "I'm going to the hairdresser's on Saturday.",
+              "tip": "Chez ends in a soft z sound that links onto the next word: shay-luh."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Samedi matin dans le quartier",
+              "french": "Le samedi matin, Karim sort tôt de chez lui.\nD'abord, il va à la boulangerie pour acheter des croissants.\nEnsuite, il traverse la place et fait les courses au marché.\nIl aime bien parler avec les vendeurs de fruits et légumes.\nVers dix heures, il passe à la poste pour envoyer un colis à sa sœur.\nAprès, il s'arrête au café du coin et lit le journal.\nLa banque est fermée l'après-midi, alors il y va avant midi.\nEnfin, il rentre chez lui les bras pleins de sacs.\nIl adore son quartier : tout se fait à pied.",
+              "english": "On Saturday mornings, Karim leaves home early.\nFirst he goes to the bakery to buy croissants.\nThen he crosses the square and does the shopping at the market.\nHe really likes chatting with the fruit and vegetable sellers.\nAround ten o'clock he stops by the post office to send a parcel to his sister.\nAfterwards he stops at the corner café and reads the newspaper.\nThe bank is closed in the afternoon, so he goes there before noon.\nFinally he goes home with his arms full of bags.\nHe loves his neighbourhood: everything can be done on foot.",
+              "questions": [
+                {
+                  "id": "a2_u08_l02_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "What does Karim do first on Saturday morning?",
+                  "options": ["He goes to the bakery", "He goes to the bank", "He reads the newspaper", "He sends a parcel"],
+                  "answer": "He goes to the bakery"
+                },
+                {
+                  "id": "a2_u08_l02_rd02",
+                  "type": "trueFalse",
+                  "prompt": "Karim goes to the bank in the afternoon.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                },
+                {
+                  "id": "a2_u08_l02_rd03",
+                  "type": "multipleChoice",
+                  "prompt": "Why does he like his neighbourhood?",
+                  "options": ["Everything can be done on foot", "It is very quiet", "The rent is cheap", "There is a big park"],
+                  "answer": "Everything can be done on foot"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a2_u08_l02_wr01",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "I am going to the supermarket.",
+              "answer": "Je vais au supermarché.",
+              "acceptedAnswers": ["je vais au supermarche"]
+            },
+            {
+              "id": "a2_u08_l02_wr02",
+              "type": "fillBlank",
+              "prompt": "Elle revient ___ marché. (de + le)",
+              "answer": "du"
+            },
+            {
+              "id": "a2_u08_l02_wr03",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "words": ["une", "a", "quartier", "Il", "y", "pharmacie", "dans", "le"],
+              "answer": "Il y a une pharmacie dans le quartier",
+              "english": "There is a pharmacy in the neighbourhood."
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a2_u08_l02_pr01",
+              "type": "match",
+              "prompt": "Match the shop to what you buy there.",
+              "pairs": [
+                { "french": "la boulangerie", "english": "bread" },
+                { "french": "la boucherie", "english": "meat" },
+                { "french": "la librairie", "english": "books" },
+                { "french": "la pharmacie", "english": "medicine" }
+              ]
+            },
+            {
+              "id": "a2_u08_l02_pr02",
+              "type": "multipleChoice",
+              "prompt": "Choose the correct form: Je vais ___ musée.",
+              "options": ["au", "à la", "aux", "à l'"],
+              "answer": "au"
+            },
+            {
+              "id": "a2_u08_l02_pr03",
+              "type": "fillBlank",
+              "prompt": "Nous allons ___ boulangerie. (à + la)",
+              "answer": "à la"
+            },
+            {
+              "id": "a2_u08_l02_pr04",
+              "type": "trueFalse",
+              "prompt": "You say « chez le médecin », never « à le médecin ».",
+              "options": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "a2_u08_l02_pr05",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "The library is next to the town hall.",
+              "answer": "La bibliothèque est à côté de la mairie.",
+              "acceptedAnswers": ["la bibliotheque est a cote de la mairie"]
+            },
+            {
+              "id": "a2_u08_l02_pr06",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "words": ["courses", "Je", "les", "fais", "marché", "au"],
+              "answer": "Je fais les courses au marché",
+              "english": "I do the shopping at the market."
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a2_u08_l02_qz01",
+              "type": "multipleChoice",
+              "prompt": "Where do you buy a baguette?",
+              "options": ["À la boulangerie", "À la librairie", "À la mairie", "Au commissariat"],
+              "answer": "À la boulangerie"
+            },
+            {
+              "id": "a2_u08_l02_qz02",
+              "type": "fillBlank",
+              "prompt": "Ils vont ___ magasins. (à + les)",
+              "answer": "aux"
+            },
+            {
+              "id": "a2_u08_l02_qz03",
+              "type": "multipleChoice",
+              "prompt": "What is « le trottoir » ?",
+              "options": ["The pavement", "The crossroads", "The square", "The bus stop"],
+              "answer": "The pavement"
+            },
+            {
+              "id": "a2_u08_l02_qz04",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "I'm coming from the pharmacy.",
+              "answer": "Je viens de la pharmacie.",
+              "acceptedAnswers": ["je viens de la pharmacie"]
+            },
+            {
+              "id": "a2_u08_l02_qz05",
+              "type": "trueFalse",
+              "prompt": "« La mairie » is the town hall.",
+              "options": ["True", "False"],
+              "answer": "True"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2_u08_l03",
+      "level": "A2",
+      "unit": 8,
+      "title": "Déménager",
+      "description": "Handle renting and moving house, and compare two homes with plus, moins and aussi.",
+      "estimatedMinutes": 16,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Chercher et louer un logement",
+              "body": "Renting in France follows a fixed sequence: you read une annonce, you book une visite, then you sign le bail and pay la caution. Le loyer is the rent itself, and les charges (water, heating, building upkeep) may be included or not — adverts say charges comprises or hors charges. Un logement meublé comes with furniture; un logement vide does not.",
+              "examples": [
+                { "french": "J'ai vu une annonce pour un studio meublé.", "english": "I saw an ad for a furnished studio flat." },
+                { "french": "La visite est prévue jeudi à dix-huit heures.", "english": "The viewing is scheduled for Thursday at six p.m." },
+                { "french": "Le loyer est de 700 euros, charges comprises.", "english": "The rent is 700 euros, bills included." },
+                { "french": "Il faut payer une caution d'un mois.", "english": "You have to pay a deposit of one month's rent." },
+                { "french": "Nous avons signé le bail hier après-midi.", "english": "We signed the lease yesterday afternoon." }
+              ],
+              "tip": "Before you get the keys you do l'état des lieux, a written check of the flat's condition — take photos, it protects your deposit."
+            },
+            {
+              "heading": "Le jour du déménagement",
+              "body": "Déménager means to move out, emménager means to move in, and s'installer means to settle in. The whole event is un déménagement. Note that these verbs take avoir in the passé composé: j'ai déménagé, nous avons emménagé.",
+              "examples": [
+                { "french": "Nous déménageons le premier septembre.", "english": "We are moving on the first of September." },
+                { "french": "J'ai rempli vingt cartons en deux jours.", "english": "I filled twenty boxes in two days." },
+                { "french": "Ils ont loué un camion pour le déménagement.", "english": "They rented a van for the move." },
+                { "french": "Elle a emménagé dans un appartement plus grand.", "english": "She moved into a bigger apartment." },
+                { "french": "On s'installe petit à petit.", "english": "We're settling in bit by bit." }
+              ],
+              "tip": "Déménager keeps an e before -ons: nous déménageons — the e keeps the g soft."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "demenager", "french": "déménager", "english": "to move house", "partOfSpeech": "verb", "pronunciation": "day-may-nah-ZHAY", "example": "Nous déménageons à la fin du mois.", "exampleEnglish": "We are moving at the end of the month.", "level": "A2", "category": "moving" },
+            { "id": "le-demenagement", "french": "le déménagement", "english": "the move, moving house", "partOfSpeech": "noun", "gender": "m", "plural": "déménagements", "pronunciation": "day-may-nazh-MAHN", "example": "Le déménagement a duré tout le week-end.", "exampleEnglish": "The move lasted the whole weekend.", "level": "A2", "category": "moving" },
+            { "id": "emmenager", "french": "emménager", "english": "to move in", "partOfSpeech": "verb", "pronunciation": "ahn-may-nah-ZHAY", "example": "Ils ont emménagé la semaine dernière.", "exampleEnglish": "They moved in last week.", "level": "A2", "category": "moving" },
+            { "id": "s-installer", "french": "s'installer", "english": "to settle in", "partOfSpeech": "verb", "pronunciation": "san-stah-LAY", "example": "On s'installe dans le nouvel appartement.", "exampleEnglish": "We're settling into the new apartment.", "level": "A2", "category": "moving" },
+            { "id": "le-carton", "french": "le carton", "english": "cardboard box", "partOfSpeech": "noun", "gender": "m", "plural": "cartons", "pronunciation": "kar-TON", "example": "Ce carton est trop lourd pour moi.", "exampleEnglish": "This box is too heavy for me.", "level": "A2", "category": "moving" },
+            { "id": "le-camion-demenagement", "french": "le camion de déménagement", "english": "removal van", "partOfSpeech": "noun", "gender": "m", "plural": "camions de déménagement", "pronunciation": "kah-MYON duh day-may-nazh-MAHN", "example": "Le camion de déménagement arrive à huit heures.", "exampleEnglish": "The removal van arrives at eight o'clock.", "level": "A2", "category": "moving" },
+            { "id": "le-logement", "french": "le logement", "english": "housing, accommodation", "partOfSpeech": "noun", "gender": "m", "plural": "logements", "pronunciation": "lozh-MAHN", "example": "Le logement coûte cher dans cette ville.", "exampleEnglish": "Housing is expensive in this city.", "level": "A2", "category": "housing" },
+            { "id": "le-loyer", "french": "le loyer", "english": "rent", "partOfSpeech": "noun", "gender": "m", "plural": "loyers", "pronunciation": "lwah-YAY", "example": "Je paie le loyer le cinq de chaque mois.", "exampleEnglish": "I pay the rent on the fifth of each month.", "level": "A2", "category": "housing" },
+            { "id": "louer", "french": "louer", "english": "to rent", "partOfSpeech": "verb", "pronunciation": "loo-AY", "example": "Ils louent un deux-pièces près de la gare.", "exampleEnglish": "They rent a one-bedroom flat near the station.", "level": "A2", "category": "housing" },
+            { "id": "la-location", "french": "la location", "english": "rental", "partOfSpeech": "noun", "gender": "f", "plural": "locations", "pronunciation": "lo-kah-SYON", "example": "La location comprend une place de parking.", "exampleEnglish": "The rental includes a parking space.", "level": "A2", "category": "housing" },
+            { "id": "le-locataire", "french": "le locataire", "english": "tenant", "partOfSpeech": "noun", "gender": "m", "plural": "locataires", "pronunciation": "lo-kah-TAIR", "example": "Le locataire précédent est parti en juin.", "exampleEnglish": "The previous tenant left in June.", "level": "A2", "category": "housing" },
+            { "id": "le-proprietaire", "french": "le propriétaire", "english": "owner, landlord", "partOfSpeech": "noun", "gender": "m", "plural": "propriétaires", "pronunciation": "pro-pree-ay-TAIR", "example": "Le propriétaire habite au dernier étage.", "exampleEnglish": "The landlord lives on the top floor.", "level": "A2", "category": "housing" },
+            { "id": "le-bail", "french": "le bail", "english": "lease", "partOfSpeech": "noun", "gender": "m", "plural": "baux", "pronunciation": "bye", "example": "Le bail dure trois ans.", "exampleEnglish": "The lease lasts three years.", "level": "A2", "category": "housing" },
+            { "id": "la-caution", "french": "la caution", "english": "security deposit", "partOfSpeech": "noun", "gender": "f", "plural": "cautions", "pronunciation": "koh-SYON", "example": "La caution est rendue à la fin du bail.", "exampleEnglish": "The deposit is returned at the end of the lease.", "level": "A2", "category": "housing" },
+            { "id": "les-charges", "french": "les charges", "english": "service charges, bills", "partOfSpeech": "noun", "gender": "f", "plural": "charges", "pronunciation": "sharzh", "example": "Le loyer est de 600 euros, charges comprises.", "exampleEnglish": "The rent is 600 euros, bills included.", "level": "A2", "category": "housing" },
+            { "id": "l-agence-immobiliere", "french": "l'agence immobilière", "english": "estate agency", "partOfSpeech": "noun", "gender": "f", "plural": "agences immobilières", "pronunciation": "lah-ZHAHNSS ee-mo-bee-LYAIR", "example": "L'agence immobilière demande beaucoup de documents.", "exampleEnglish": "The estate agency asks for a lot of documents.", "level": "A2", "category": "housing" },
+            { "id": "l-annonce", "french": "l'annonce", "english": "advert, listing", "partOfSpeech": "noun", "gender": "f", "plural": "annonces", "pronunciation": "lah-NONSS", "example": "J'ai répondu à trois annonces ce matin.", "exampleEnglish": "I answered three listings this morning.", "level": "A2", "category": "housing" },
+            { "id": "l-etat-des-lieux", "french": "l'état des lieux", "english": "inventory of fixtures", "partOfSpeech": "noun", "gender": "m", "plural": "états des lieux", "pronunciation": "lay-TAH day LYUH", "example": "On fait l'état des lieux avant de recevoir les clés.", "exampleEnglish": "You do the inventory check before getting the keys.", "level": "A2", "category": "housing" },
+            { "id": "le-contrat-location", "french": "le contrat de location", "english": "rental contract", "partOfSpeech": "noun", "gender": "m", "plural": "contrats de location", "pronunciation": "kon-TRAH duh lo-kah-SYON", "example": "Lisez bien le contrat de location avant de signer.", "exampleEnglish": "Read the rental contract carefully before signing.", "level": "A2", "category": "housing" },
+            { "id": "signer", "french": "signer", "english": "to sign", "partOfSpeech": "verb", "pronunciation": "see-NYAY", "example": "Nous signons le bail demain matin.", "exampleEnglish": "We are signing the lease tomorrow morning.", "level": "A2", "category": "housing" },
+            { "id": "la-cle", "french": "la clé", "english": "key", "partOfSpeech": "noun", "gender": "f", "plural": "clés", "pronunciation": "klay", "example": "Le propriétaire me donne les clés vendredi.", "exampleEnglish": "The landlord is giving me the keys on Friday.", "level": "A2", "category": "housing" },
+            { "id": "le-voisin", "french": "le voisin", "english": "neighbour", "partOfSpeech": "noun", "gender": "m", "plural": "voisins", "pronunciation": "vwah-ZAN", "example": "Mes voisins sont très sympathiques.", "exampleEnglish": "My neighbours are very friendly.", "level": "A2", "category": "housing" },
+            { "id": "l-immeuble", "french": "l'immeuble", "english": "apartment building", "partOfSpeech": "noun", "gender": "m", "plural": "immeubles", "pronunciation": "lee-MUH-bluh", "example": "L'immeuble a été rénové l'année dernière.", "exampleEnglish": "The building was renovated last year.", "level": "A2", "category": "housing" },
+            { "id": "l-etage", "french": "l'étage", "english": "floor, storey", "partOfSpeech": "noun", "gender": "m", "plural": "étages", "pronunciation": "lay-TAHZH", "example": "Nous habitons au cinquième étage.", "exampleEnglish": "We live on the fifth floor.", "level": "A2", "category": "housing" },
+            { "id": "la-surface", "french": "la surface", "english": "floor area, surface", "partOfSpeech": "noun", "gender": "f", "plural": "surfaces", "pronunciation": "sewr-FASS", "example": "La surface du salon est de vingt mètres carrés.", "exampleEnglish": "The floor area of the living room is twenty square metres.", "level": "A2", "category": "housing" },
+            { "id": "le-metre-carre", "french": "le mètre carré", "english": "square metre", "partOfSpeech": "noun", "gender": "m", "plural": "mètres carrés", "pronunciation": "MEH-truh kah-RAY", "example": "Le studio fait vingt-cinq mètres carrés.", "exampleEnglish": "The studio flat is twenty-five square metres.", "level": "A2", "category": "housing" },
+            { "id": "meuble-adj", "french": "meublé", "english": "furnished", "partOfSpeech": "adjective", "pronunciation": "muh-BLAY", "example": "Je cherche un appartement meublé.", "exampleEnglish": "I'm looking for a furnished apartment.", "level": "A2", "category": "housing" },
+            { "id": "spacieux", "french": "spacieux", "english": "spacious", "partOfSpeech": "adjective", "pronunciation": "spah-SYUH", "example": "Le nouvel appartement est plus spacieux.", "exampleEnglish": "The new apartment is more spacious.", "level": "A2", "category": "description" },
+            { "id": "lumineux", "french": "lumineux", "english": "bright, full of light", "partOfSpeech": "adjective", "pronunciation": "lew-mee-NUH", "example": "Cette chambre est très lumineuse le matin.", "exampleEnglish": "This bedroom is very bright in the morning.", "level": "A2", "category": "description" },
+            { "id": "bruyant", "french": "bruyant", "english": "noisy", "partOfSpeech": "adjective", "pronunciation": "brwee-YAHN", "example": "Le boulevard est bruyant la nuit.", "exampleEnglish": "The boulevard is noisy at night.", "level": "A2", "category": "description" },
+            { "id": "calme-adj", "french": "calme", "english": "quiet, calm", "partOfSpeech": "adjective", "pronunciation": "kalm", "example": "Nous cherchons un quartier calme.", "exampleEnglish": "We are looking for a quiet neighbourhood.", "level": "A2", "category": "description" },
+            { "id": "cher", "french": "cher", "english": "expensive", "partOfSpeech": "adjective", "pronunciation": "shair", "example": "Ce loyer est trop cher pour nous.", "exampleEnglish": "This rent is too expensive for us.", "level": "A2", "category": "description" },
+            { "id": "abordable", "french": "abordable", "english": "affordable", "partOfSpeech": "adjective", "pronunciation": "ah-bor-DAH-bluh", "example": "Les loyers sont plus abordables en banlieue.", "exampleEnglish": "Rents are more affordable in the suburbs.", "level": "A2", "category": "description" },
+            { "id": "proche", "french": "proche", "english": "close, nearby", "partOfSpeech": "adjective", "pronunciation": "prosh", "example": "L'immeuble est proche du métro.", "exampleEnglish": "The building is close to the metro.", "level": "A2", "category": "description" },
+            { "id": "meilleur", "french": "meilleur", "english": "better (adjective)", "partOfSpeech": "adjective", "pronunciation": "meh-YUR", "example": "Ce quartier est meilleur que l'ancien.", "exampleEnglish": "This neighbourhood is better than the old one.", "level": "A2", "category": "comparison" },
+            { "id": "mieux", "french": "mieux", "english": "better (adverb)", "partOfSpeech": "adverb", "pronunciation": "myuh", "example": "On dort mieux dans une rue calme.", "exampleEnglish": "You sleep better on a quiet street.", "level": "A2", "category": "comparison" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar — comparatives",
+          "blocks": [
+            {
+              "heading": "plus / moins / aussi ... que",
+              "body": "French makes comparisons with one simple frame: plus (more), moins (less) or aussi (as) before the adjective, then que before the second element. Unlike English, there is no -er ending: bigger is simply plus grand. The adjective still agrees with the first noun: plus grande, plus grands.",
+              "examples": [
+                { "french": "Mon appartement est plus grand que le tien.", "english": "My apartment is bigger than yours." },
+                { "french": "Cette rue est moins bruyante que le boulevard.", "english": "This street is less noisy than the boulevard." },
+                { "french": "Le studio est aussi cher que le deux-pièces.", "english": "The studio is as expensive as the one-bedroom flat." },
+                { "french": "La cuisine est plus lumineuse que la chambre.", "english": "The kitchen is brighter than the bedroom." },
+                { "french": "Les loyers sont moins élevés en banlieue.", "english": "Rents are lower in the suburbs.", "note": "que + comparison can be left out when it is obvious" },
+                { "french": "Elle est aussi contente que moi.", "english": "She is as happy as I am.", "note": "after que use moi, toi, lui, elle" }
+              ],
+              "tip": "The same frame works with adverbs and with nouns: il parle plus vite que moi; j'ai plus de place qu'avant (note plus DE + noun)."
+            },
+            {
+              "heading": "Irregular: meilleur and mieux, plus the superlative",
+              "body": "Plus bon does not exist — the adjective bon becomes meilleur, and the adverb bien becomes mieux. For the superlative (the most / the least), add the definite article in front: le plus, la plus, les plus. With an adjective that follows the noun, the article is repeated: le quartier le plus calme.",
+              "examples": [
+                { "french": "Ce quartier est meilleur que l'autre.", "english": "This neighbourhood is better than the other one." },
+                { "french": "Je dors mieux depuis le déménagement.", "english": "I sleep better since the move." },
+                { "french": "C'est l'appartement le plus lumineux de l'immeuble.", "english": "It's the brightest apartment in the building." },
+                { "french": "C'est la solution la moins chère.", "english": "It's the cheapest solution." },
+                { "french": "Ce sont les quartiers les plus agréables de la ville.", "english": "These are the most pleasant districts in the city." },
+                { "french": "C'est la meilleure boulangerie du quartier.", "english": "It's the best bakery in the neighbourhood.", "note": "after a superlative, use de, not dans" }
+              ],
+              "tip": "Meilleur describes a noun (un meilleur loyer), mieux describes an action (on vit mieux ici)."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a2_u08_l03_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What is being compared?",
+              "french": "Mon nouvel appartement est plus grand que l'ancien.",
+              "options": ["The new flat is bigger", "The new flat is smaller", "Both flats are the same", "The old flat is brighter"],
+              "answer": "The new flat is bigger"
+            },
+            {
+              "id": "a2_u08_l03_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. How much is the rent?",
+              "french": "Le loyer est de six cents euros, charges comprises.",
+              "options": ["600 euros, bills included", "600 euros, bills extra", "700 euros, bills included", "160 euros a week"],
+              "answer": "600 euros, bills included"
+            },
+            {
+              "id": "a2_u08_l03_li03",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Nous déménageons le premier septembre.",
+              "answer": "Nous déménageons le premier septembre.",
+              "acceptedAnswers": ["nous demenageons le premier septembre", "Nous demenageons le premier septembre"]
+            },
+            {
+              "id": "a2_u08_l03_li04",
+              "type": "listenChoose",
+              "prompt": "Listen. What must you pay before moving in?",
+              "french": "Il faut payer une caution d'un mois de loyer.",
+              "options": ["A deposit of one month's rent", "Two months of rent", "The agency fee", "The removal van"],
+              "answer": "A deposit of one month's rent"
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a2_u08_l03_sp01",
+              "type": "speak",
+              "prompt": "Say that your apartment is bigger than his.",
+              "french": "Mon appartement est plus grand que le sien.",
+              "english": "My apartment is bigger than his.",
+              "tip": "In « plus grand », the s of plus is silent before a consonant: plew grahn."
+            },
+            {
+              "id": "a2_u08_l03_sp02",
+              "type": "speak",
+              "prompt": "Say that this neighbourhood is quieter than the town centre.",
+              "french": "Ce quartier est plus calme que le centre-ville.",
+              "english": "This neighbourhood is quieter than the town centre.",
+              "tip": "« Calme » ends with a clear l then m — kalm, in one syllable."
+            },
+            {
+              "id": "a2_u08_l03_sp03",
+              "type": "speak",
+              "prompt": "Say that you are moving at the end of the month.",
+              "french": "Je déménage à la fin du mois.",
+              "english": "I'm moving at the end of the month.",
+              "tip": "Déménage has three even syllables: day-may-NAHZH, stress on the last one."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Deux appartements, un choix difficile",
+              "french": "Julie et Marc cherchent un logement depuis deux mois.\nIls ont visité deux appartements le même après-midi.\nLe premier est dans le centre : il est lumineux mais assez cher.\nLe loyer est de 900 euros, charges comprises.\nLe deuxième est en banlieue, à côté d'un parc.\nIl est plus grand et beaucoup moins cher : 650 euros.\nMais il est aussi plus loin du travail de Marc.\n« Le centre est plus pratique », dit Marc.\n« Oui, mais l'autre est plus calme et on dort mieux », répond Julie.\nFinalement, ils choisissent la banlieue et signent le bail lundi.",
+              "english": "Julie and Marc have been looking for a place for two months.\nThey visited two apartments the same afternoon.\nThe first is in the centre: it is bright but quite expensive.\nThe rent is 900 euros, bills included.\nThe second is in the suburbs, next to a park.\nIt is bigger and much cheaper: 650 euros.\nBut it is also further from Marc's work.\n\"The centre is more convenient,\" says Marc.\n\"Yes, but the other one is quieter and we sleep better,\" answers Julie.\nIn the end they choose the suburbs and sign the lease on Monday.",
+              "questions": [
+                {
+                  "id": "a2_u08_l03_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "What is the main advantage of the second apartment?",
+                  "options": ["It is bigger and cheaper", "It is closer to Marc's work", "It is furnished", "It has a lift"],
+                  "answer": "It is bigger and cheaper"
+                },
+                {
+                  "id": "a2_u08_l03_rd02",
+                  "type": "trueFalse",
+                  "prompt": "They choose the apartment in the town centre.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                },
+                {
+                  "id": "a2_u08_l03_rd03",
+                  "type": "multipleChoice",
+                  "prompt": "How much is the rent of the first apartment?",
+                  "options": ["900 euros, bills included", "650 euros, bills included", "900 euros, bills extra", "650 euros a month plus charges"],
+                  "answer": "900 euros, bills included"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a2_u08_l03_wr01",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "This apartment is more expensive than the other one.",
+              "answer": "Cet appartement est plus cher que l'autre.",
+              "acceptedAnswers": ["cet appartement est plus cher que l'autre", "cet appartement est plus cher que lautre"]
+            },
+            {
+              "id": "a2_u08_l03_wr02",
+              "type": "fillBlank",
+              "prompt": "Ce quartier est ___ que l'autre. (the irregular comparative of « bon »)",
+              "answer": "meilleur"
+            },
+            {
+              "id": "a2_u08_l03_wr03",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "words": ["signons", "bail", "Nous", "demain", "le"],
+              "answer": "Nous signons le bail demain",
+              "english": "We are signing the lease tomorrow."
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a2_u08_l03_pr01",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "le loyer", "english": "rent" },
+                { "french": "la caution", "english": "security deposit" },
+                { "french": "le propriétaire", "english": "landlord" },
+                { "french": "le bail", "english": "lease" }
+              ]
+            },
+            {
+              "id": "a2_u08_l03_pr02",
+              "type": "multipleChoice",
+              "prompt": "Which sentence is correct?",
+              "options": ["Ce quartier est meilleur que l'autre.", "Ce quartier est plus bon que l'autre.", "Ce quartier est mieux bon que l'autre.", "Ce quartier est plus meilleur que l'autre."],
+              "answer": "Ce quartier est meilleur que l'autre."
+            },
+            {
+              "id": "a2_u08_l03_pr03",
+              "type": "fillBlank",
+              "prompt": "La cuisine est ___ lumineuse que le salon. (as ... as)",
+              "answer": "aussi"
+            },
+            {
+              "id": "a2_u08_l03_pr04",
+              "type": "trueFalse",
+              "prompt": "« Emménager » means to move out of a home.",
+              "options": ["True", "False"],
+              "answer": "False"
+            },
+            {
+              "id": "a2_u08_l03_pr05",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "The suburbs are less noisy than the centre.",
+              "answer": "La banlieue est moins bruyante que le centre.",
+              "acceptedAnswers": ["la banlieue est moins bruyante que le centre"]
+            },
+            {
+              "id": "a2_u08_l03_pr06",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "words": ["appartement", "l'", "C'est", "lumineux", "plus", "le"],
+              "answer": "C'est l'appartement le plus lumineux",
+              "english": "It's the brightest apartment."
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a2_u08_l03_qz01",
+              "type": "multipleChoice",
+              "prompt": "What is « la caution » ?",
+              "options": ["The security deposit", "The monthly rent", "The lease", "The estate agent"],
+              "answer": "The security deposit"
+            },
+            {
+              "id": "a2_u08_l03_qz02",
+              "type": "fillBlank",
+              "prompt": "Mon studio est ___ grand que ta maison. (less)",
+              "answer": "moins"
+            },
+            {
+              "id": "a2_u08_l03_qz03",
+              "type": "multipleChoice",
+              "prompt": "Which word describes an action done better?",
+              "options": ["mieux", "meilleur", "meilleure", "bon"],
+              "answer": "mieux"
+            },
+            {
+              "id": "a2_u08_l03_qz04",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "We are moving next month.",
+              "answer": "Nous déménageons le mois prochain.",
+              "acceptedAnswers": ["nous demenageons le mois prochain", "on demenage le mois prochain"]
+            },
+            {
+              "id": "a2_u08_l03_qz05",
+              "type": "trueFalse",
+              "prompt": "« Charges comprises » means the bills are included in the rent.",
+              "options": ["True", "False"],
+              "answer": "True"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

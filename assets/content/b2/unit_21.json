@@ -1,0 +1,589 @@
+{
+  "id": "b2_u21",
+  "level": "B2",
+  "unit": 21,
+  "title": "Sport & Society",
+  "subtitle": "Debate the money, ethics, and legacy behind modern sport",
+  "icon": "🏟️",
+  "lessons": [
+    {
+      "id": "b2_u21_l01",
+      "level": "B2",
+      "unit": 21,
+      "title": "Le sport professionnel",
+      "description": "Examine how professional sport really makes its money — transfers, TV rights, and salaries.",
+      "estimatedMinutes": 19,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "L'économie d'un club professionnel",
+              "body": "A professional club rarely lives on ticket sales alone. Modern revenue rests on three pillars: la billetterie (match-day tickets and season passes), les droits télévisés (fees broadcasters pay to air matches), and le sponsoring (brands paying to be associated with the club's image). When one pillar wobbles — an empty stadium, a lost TV deal — the whole budget feels it.",
+              "examples": [
+                { "french": "La billetterie ne représente plus qu'une petite part des recettes du club.", "english": "Ticketing now represents only a small share of the club's revenue." },
+                { "french": "Les droits télévisés se négocient plusieurs années à l'avance.", "english": "TV rights are negotiated several years in advance." },
+                { "french": "Sans sponsoring, beaucoup de clubs seraient déficitaires.", "english": "Without sponsorship, many clubs would be running a deficit." },
+                { "french": "Le budget du club dépend surtout de sa visibilité télévisée.", "english": "The club's budget depends mainly on its TV visibility." },
+                { "french": "Une chaîne payante a acquis l'exclusivité du championnat.", "english": "A pay channel acquired exclusive rights to the championship." }
+              ],
+              "tip": "\"Les droits télévisés\" is always plural in French — never say \"le droit télévisé\" for this meaning."
+            },
+            {
+              "heading": "Le marché des transferts",
+              "body": "Clubs buy and sell players like a company trades assets. A transfer moves a player from one club to another, usually against une indemnité de transfert (a transfer fee) paid to the selling club. A clause libératoire fixes in advance the price at which a player can leave — it protects the player but can also fuel une surenchère (a bidding war) between rich clubs.",
+              "examples": [
+                { "french": "L'attaquant a signé un contrat de quatre ans après son transfert.", "english": "The forward signed a four-year contract after his transfer." },
+                { "french": "Sa clause libératoire s'élève à quarante millions d'euros.", "english": "His release clause stands at forty million euros." },
+                { "french": "L'agent sportif a négocié l'indemnité de transfert avec le club acheteur.", "english": "The sports agent negotiated the transfer fee with the buying club." },
+                { "french": "Deux clubs se sont livrés à une véritable surenchère pour le joueur.", "english": "Two clubs engaged in a real bidding war for the player." },
+                { "french": "La valeur marchande d'un joueur peut chuter après une blessure.", "english": "A player's market value can drop after an injury." }
+              ],
+              "tip": "\"Le mercato\" (borrowed from Italian) is the everyday French word for the transfer window."
+            },
+            {
+              "heading": "Le grand écart des salaires",
+              "body": "The gap between a star player's salary and an average worker's pay fuels a recurring debate. Defenders point to short careers and rare talent; critics call some salaries mirobolants (astronomical) and out of proportion. To limit this, competitions can impose le fair-play financier — rules requiring clubs to spend roughly within their means rather than relying on a wealthy owner's money indefinitely.",
+              "examples": [
+                { "french": "Certains dénoncent des salaires mirobolants dans le football professionnel.", "english": "Some people denounce astronomical salaries in professional football." },
+                { "french": "Le fair-play financier oblige les clubs à équilibrer leurs comptes.", "english": "Financial fair play requires clubs to balance their books." },
+                { "french": "L'inflation salariale touche surtout les plus grands championnats.", "english": "Salary inflation mainly affects the biggest leagues." },
+                { "french": "Un actionnaire peut éponger le déficit d'un club pendant des années.", "english": "A shareholder can absorb a club's deficit for years." },
+                { "french": "Le propriétaire du club a investi massivement pour le rendre rentable.", "english": "The club's owner invested heavily to make it profitable." }
+              ],
+              "tip": "\"Mirobolant\" is a colourful, slightly informal adjective — perfect for describing exaggerated sums in a debate."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "le-transfert", "french": "le transfert", "english": "the transfer", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh trahns-fair", "example": "Le transfert du milieu de terrain a coûté vingt millions d'euros.", "exampleEnglish": "The midfielder's transfer cost twenty million euros.", "level": "B2", "category": "sport" },
+            { "id": "le-joueur", "french": "le joueur", "english": "the player", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh zhoo-er", "example": "Le joueur a prolongé son contrat jusqu'en deux mille vingt-huit.", "exampleEnglish": "The player extended his contract until 2028.", "level": "B2", "category": "sport" },
+            { "id": "le-club", "french": "le club", "english": "the club", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh kluhb", "example": "Le club a annoncé un déficit malgré une saison réussie.", "exampleEnglish": "The club announced a deficit despite a successful season.", "level": "B2", "category": "sport" },
+            { "id": "le-contrat", "french": "le contrat", "english": "the contract", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh kohn-trah", "example": "Le contrat prévoit une clause libératoire précise.", "exampleEnglish": "The contract includes a specific release clause.", "level": "B2", "category": "sport" },
+            { "id": "le-salaire", "french": "le salaire", "english": "the salary", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh sah-lair", "example": "Le salaire des vedettes fait souvent polémique.", "exampleEnglish": "Star players' salaries often stir controversy.", "level": "B2", "category": "sport" },
+            { "id": "un-salaire-mirobolant", "french": "un salaire mirobolant", "english": "an astronomical salary", "partOfSpeech": "expression", "pronunciation": "uhn sah-lair mee-roh-boh-lahn", "example": "La presse évoque un salaire mirobolant pour le nouvel entraîneur.", "exampleEnglish": "The press mentions an astronomical salary for the new coach.", "level": "B2", "category": "sport" },
+            { "id": "les-droits-televises", "french": "les droits télévisés", "english": "the TV rights", "partOfSpeech": "noun", "gender": "m", "pronunciation": "lay drwah tay-lay-vee-zay", "example": "Les droits télévisés du championnat ont doublé en cinq ans.", "exampleEnglish": "The championship's TV rights doubled in five years.", "level": "B2", "category": "sport" },
+            { "id": "le-diffuseur", "french": "le diffuseur", "english": "the broadcaster", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh dee-fuh-zer", "example": "Le diffuseur a payé une fortune pour l'exclusivité des matchs.", "exampleEnglish": "The broadcaster paid a fortune for exclusive match rights.", "level": "B2", "category": "sport" },
+            { "id": "le-sponsor", "french": "le sponsor", "english": "the sponsor", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh spohn-sor", "example": "Le principal sponsor du club a menacé de se retirer.", "exampleEnglish": "The club's main sponsor threatened to pull out.", "level": "B2", "category": "sport" },
+            { "id": "le-sponsoring", "french": "le sponsoring", "english": "sponsorship", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh spohn-so-reeng", "example": "Le sponsoring finance une grande partie du budget annuel.", "exampleEnglish": "Sponsorship funds a large part of the annual budget.", "level": "B2", "category": "sport" },
+            { "id": "le-budget", "french": "le budget", "english": "the budget", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh bew-jay", "example": "Le budget du club a triplé en dix ans.", "exampleEnglish": "The club's budget tripled in ten years.", "level": "B2", "category": "sport" },
+            { "id": "recette", "french": "la recette", "english": "the revenue", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah ruh-set", "example": "La recette du jour de match reste importante pour le club.", "exampleEnglish": "Matchday revenue still matters a great deal to the club.", "level": "B2", "category": "sport" },
+            { "id": "la-depense", "french": "la dépense", "english": "the expense", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah day-pahns", "example": "Les dépenses ont augmenté plus vite que les recettes.", "exampleEnglish": "Expenses rose faster than revenue.", "level": "B2", "category": "sport" },
+            { "id": "le-deficit", "french": "le déficit", "english": "the deficit", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh day-fee-see", "example": "Le déficit du club inquiète les supporters.", "exampleEnglish": "The club's deficit worries its supporters.", "level": "B2", "category": "sport" },
+            { "id": "le-benefice", "french": "le bénéfice", "english": "the profit", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh bay-nay-fees", "example": "Le club a réalisé un bénéfice grâce à un transfert record.", "exampleEnglish": "The club made a profit thanks to a record transfer.", "level": "B2", "category": "sport" },
+            { "id": "l-agent-sportif", "french": "l'agent sportif", "english": "the sports agent", "partOfSpeech": "noun", "gender": "m", "pronunciation": "lah-zhahn spor-teef", "example": "L'agent sportif touche une commission sur chaque transfert.", "exampleEnglish": "The sports agent receives a commission on every transfer.", "level": "B2", "category": "sport" },
+            { "id": "la-clause-liberatoire", "french": "la clause libératoire", "english": "the release clause", "partOfSpeech": "expression", "pronunciation": "lah klohz lee-bay-rah-twahr", "example": "Aucun club n'a payé la clause libératoire du gardien.", "exampleEnglish": "No club paid the goalkeeper's release clause.", "level": "B2", "category": "sport" },
+            { "id": "l-indemnite-de-transfert", "french": "l'indemnité de transfert", "english": "the transfer fee", "partOfSpeech": "expression", "pronunciation": "lan-dem-nee-tay duh trahns-fair", "example": "L'indemnité de transfert sera versée en trois fois.", "exampleEnglish": "The transfer fee will be paid in three instalments.", "level": "B2", "category": "sport" },
+            { "id": "le-marche-des-transferts", "french": "le marché des transferts", "english": "the transfer market", "partOfSpeech": "expression", "pronunciation": "luh mar-shay day trahns-fair", "example": "Le marché des transferts s'emballe chaque été.", "exampleEnglish": "The transfer market goes wild every summer.", "level": "B2", "category": "sport" },
+            { "id": "la-valeur-marchande", "french": "la valeur marchande", "english": "the market value", "partOfSpeech": "expression", "pronunciation": "lah vah-ler mar-shahnd", "example": "Sa valeur marchande a doublé après la finale.", "exampleEnglish": "His market value doubled after the final.", "level": "B2", "category": "sport" },
+            { "id": "la-billetterie", "french": "la billetterie", "english": "ticketing", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah bee-yet-ree", "example": "La billetterie a ouvert dès l'annonce du match.", "exampleEnglish": "Ticketing opened as soon as the match was announced.", "level": "B2", "category": "sport" },
+            { "id": "l-abonnement", "french": "l'abonnement", "english": "the season pass", "partOfSpeech": "noun", "gender": "m", "pronunciation": "lah-bon-mahn", "example": "Le prix de l'abonnement n'a pas changé depuis trois ans.", "exampleEnglish": "The season pass price hasn't changed in three years.", "level": "B2", "category": "sport" },
+            { "id": "le-merchandising", "french": "le merchandising", "english": "merchandising", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh mair-shahn-dye-zeeng", "example": "Le merchandising rapporte moins que les droits télévisés.", "exampleEnglish": "Merchandising brings in less than TV rights.", "level": "B2", "category": "sport" },
+            { "id": "l-image-de-marque", "french": "l'image de marque", "english": "the brand image", "partOfSpeech": "expression", "pronunciation": "lee-mahj duh mark", "example": "Le scandale a terni l'image de marque du club.", "exampleEnglish": "The scandal tarnished the club's brand image.", "level": "B2", "category": "sport" },
+            { "id": "l-actionnaire", "french": "l'actionnaire", "english": "the shareholder", "partOfSpeech": "noun", "gender": "m", "pronunciation": "lak-syoh-nair", "example": "Les actionnaires ont validé le nouveau budget.", "exampleEnglish": "The shareholders approved the new budget.", "level": "B2", "category": "sport" },
+            { "id": "l-investisseur", "french": "l'investisseur", "english": "the investor", "partOfSpeech": "noun", "gender": "m", "pronunciation": "lan-vess-tee-ser", "example": "Un investisseur étranger a racheté le club en difficulté.", "exampleEnglish": "A foreign investor bought out the struggling club.", "level": "B2", "category": "sport" },
+            { "id": "le-proprietaire", "french": "le propriétaire", "english": "the owner", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh pro-pree-ay-tair", "example": "Le propriétaire a promis d'investir dans le centre de formation.", "exampleEnglish": "The owner promised to invest in the training academy.", "level": "B2", "category": "sport" },
+            { "id": "le-fonds-dinvestissement", "french": "le fonds d'investissement", "english": "the investment fund", "partOfSpeech": "expression", "pronunciation": "luh fohn dan-vess-tees-mahn", "example": "Un fonds d'investissement détient désormais la majorité des parts.", "exampleEnglish": "An investment fund now holds the majority stake.", "level": "B2", "category": "sport" },
+            { "id": "exploiter", "french": "exploiter", "english": "to run / to operate (commercially)", "partOfSpeech": "verb", "pronunciation": "eks-plwah-tay", "example": "Le nouveau propriétaire veut exploiter le stade toute l'année.", "exampleEnglish": "The new owner wants to operate the stadium year-round.", "level": "B2", "category": "sport" },
+            { "id": "rentable", "french": "rentable", "english": "profitable", "partOfSpeech": "adjective", "pronunciation": "rahn-tah-bluh", "example": "Peu de clubs sont réellement rentables sans transferts.", "exampleEnglish": "Few clubs are truly profitable without transfers.", "level": "B2", "category": "sport" },
+            { "id": "la-surenchere", "french": "la surenchère", "english": "the bidding war", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah sur-ahn-shair", "example": "La surenchère entre deux clubs a fait grimper le prix.", "exampleEnglish": "The bidding war between two clubs drove up the price.", "level": "B2", "category": "sport" },
+            { "id": "l-inflation-salariale", "french": "l'inflation salariale", "english": "salary inflation", "partOfSpeech": "expression", "pronunciation": "lan-flah-syohn sah-lah-ryahl", "example": "L'inflation salariale inquiète les petits clubs.", "exampleEnglish": "Salary inflation worries smaller clubs.", "level": "B2", "category": "sport" },
+            { "id": "le-fair-play-financier", "french": "le fair-play financier", "english": "financial fair play", "partOfSpeech": "expression", "pronunciation": "luh fair-play fee-nahn-syay", "example": "Le fair-play financier limite les dépenses excessives.", "exampleEnglish": "Financial fair play limits excessive spending.", "level": "B2", "category": "sport" },
+            { "id": "le-championnat", "french": "le championnat", "english": "the championship / league", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh shahm-pyoh-nah", "example": "Le championnat attire de plus en plus de sponsors.", "exampleEnglish": "The league attracts more and more sponsors.", "level": "B2", "category": "sport" },
+            { "id": "la-chaine-payante", "french": "la chaîne payante", "english": "the pay TV channel", "partOfSpeech": "expression", "pronunciation": "lah shen pay-yahnt", "example": "Une chaîne payante diffuse désormais tous les matchs.", "exampleEnglish": "A pay TV channel now broadcasts every match.", "level": "B2", "category": "sport" },
+            { "id": "l-exclusivite", "french": "l'exclusivité", "english": "the exclusivity", "partOfSpeech": "noun", "gender": "f", "pronunciation": "leks-klew-zee-vee-tay", "example": "Le diffuseur a payé cher pour l'exclusivité du championnat.", "exampleEnglish": "The broadcaster paid dearly for exclusive rights to the league.", "level": "B2", "category": "sport" },
+            { "id": "negocier", "french": "négocier", "english": "to negotiate", "partOfSpeech": "verb", "pronunciation": "nay-go-syay", "example": "L'agent a négocié un meilleur salaire pour son joueur.", "exampleEnglish": "The agent negotiated a better salary for his player.", "level": "B2", "category": "sport" },
+            { "id": "verser", "french": "verser", "english": "to pay out", "partOfSpeech": "verb", "pronunciation": "vair-say", "example": "Le club doit verser l'indemnité avant la fin du mois.", "exampleEnglish": "The club must pay the fee before the end of the month.", "level": "B2", "category": "sport" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "La voix passive dans le compte rendu économique",
+              "body": "Sports journalism leans heavily on the passive voice to foreground the fact, not the actor: \"le joueur a été transféré\" rather than \"le club a transféré le joueur.\" Form it with être + past participle, agreeing with the subject. The agent, when mentioned, follows \"par.\" This register feels formal and neutral — ideal for reporting figures and decisions without taking sides.",
+              "examples": [
+                { "french": "Le contrat a été signé hier soir par les deux parties.", "english": "The contract was signed last night by both parties." },
+                { "french": "Les droits télévisés sont vendus par lots de trois ans.", "english": "TV rights are sold in three-year packages." },
+                { "french": "Le déficit a été comblé grâce à un transfert record.", "english": "The deficit was covered thanks to a record transfer." },
+                { "french": "De nouvelles règles seront appliquées dès la saison prochaine.", "english": "New rules will be applied starting next season." },
+                { "french": "Le budget est révisé chaque été par le conseil d'administration.", "english": "The budget is revised every summer by the board." }
+              ],
+              "tip": "When the agent is obvious or unimportant, French often drops \"par...\" entirely: \"Le joueur a été transféré\" is complete on its own."
+            },
+            {
+              "heading": "Comparer les chiffres : comparatif et superlatif",
+              "body": "Debating sport's economics means constantly comparing figures. Use plus/moins/aussi + adjective + que for comparisons, and le/la plus / le/la moins for superlatives. Watch the irregulars: bon → meilleur (not \"plus bon\"), and remember que introduces the second term of comparison.",
+              "examples": [
+                { "french": "Ce championnat est plus rentable que ses concurrents européens.", "english": "This league is more profitable than its European rivals." },
+                { "french": "Le salaire du gardien est aussi élevé que celui de l'attaquant.", "english": "The goalkeeper's salary is as high as the forward's." },
+                { "french": "C'est le transfert le plus cher de l'histoire du club.", "english": "It's the most expensive transfer in the club's history." },
+                { "french": "Les recettes de billetterie sont moins importantes que les droits télévisés.", "english": "Ticket revenue is less significant than TV rights." },
+                { "french": "Ce joueur est le meilleur vendeur de maillots du championnat.", "english": "This player is the best jersey seller in the league." }
+              ],
+              "tip": "\"Meilleur\" is the irregular comparative of \"bon\" — but \"plus mauvais\" and \"pire\" can both work for \"worse,\" with \"pire\" sounding more emphatic."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "b2_u21_l01_li01", "type": "listenChoose", "french": "L'indemnité de transfert sera versée en trois fois.", "options": ["The transfer fee will be paid in three instalments.", "The player refused the transfer offer.", "The club sold its stadium naming rights.", "The salary was cut by a third."], "answer": "The transfer fee will be paid in three instalments." },
+            { "id": "b2_u21_l01_li02", "type": "listenChoose", "french": "Le fair-play financier oblige les clubs à équilibrer leurs comptes.", "options": ["Financial fair play requires clubs to balance their books.", "The referee applied fair play rules during the match.", "The sponsor withdrew for ethical reasons.", "Ticket prices rose because of inflation."], "answer": "Financial fair play requires clubs to balance their books." },
+            { "id": "b2_u21_l01_li03", "type": "listenType", "french": "Le club a réalisé un bénéfice grâce à un transfert record.", "answer": "Le club a réalisé un bénéfice grâce à un transfert record.", "acceptedAnswers": ["le club a realise un benefice grace a un transfert record"] },
+            { "id": "b2_u21_l01_li04", "type": "dictation", "french": "Sa clause libératoire s'élève à quarante millions d'euros.", "answer": "Sa clause libératoire s'élève à quarante millions d'euros.", "acceptedAnswers": ["sa clause liberatoire s eleve a quarante millions d euros"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "b2_u21_l01_sp01", "type": "speak", "french": "Selon vous, les salaires des joueurs professionnels sont-ils justifiés ?", "english": "In your opinion, are professional players' salaries justified?", "prompt": "Give your opinion and support it with at least one argument.", "tip": "Stress the question intonation upward on \"justifiés\" to sound genuinely interrogative." },
+            { "id": "b2_u21_l01_sp02", "type": "speak", "french": "Le fair-play financier est-il une bonne solution contre l'inflation salariale ?", "english": "Is financial fair play a good solution against salary inflation?", "prompt": "Explain one advantage and one limit of financial fair play.", "tip": "Use \"d'un côté... de l'autre\" to structure a balanced answer smoothly." },
+            { "id": "b2_u21_l01_sp03", "type": "speak", "french": "Décrivez comment un club professionnel gagne de l'argent.", "english": "Describe how a professional club makes money.", "prompt": "Mention at least three revenue sources using the vocabulary from this lesson.", "tip": "List items with \"d'abord... ensuite... enfin\" to keep your explanation clear and well-paced." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "L'AS Vallenoire, un club sous tension financière",
+              "french": "L'AS Vallenoire a longtemps été un club discret, connu pour son centre de formation plutôt que pour ses folies financières.\nCette saison, tout a changé : le club a battu son record de transfert en recrutant l'attaquant Karim Lassalle pour vingt-huit millions d'euros.\nCette somme, versée en trois fois, a été en partie financée par un nouvel actionnaire, un fonds d'investissement basé à l'étranger.\nSelon la direction, ce transfert devait relancer une équipe jugée trop prévisible et redonner de la visibilité au sponsor principal.\nMais les comptes racontent une autre histoire : malgré des droits télévisés en hausse, le club affiche un déficit de neuf millions d'euros.\nLes dépenses, elles, ont explosé : le salaire de Lassalle serait, d'après plusieurs journaux sportifs, le plus élevé de l'histoire du club.\nCertains supporters dénoncent un salaire mirobolant et craignent que le fair-play financier ne rattrape bientôt l'AS Vallenoire.\nD'autres estiment au contraire que l'investissement est nécessaire pour rester compétitif face à des clubs mieux dotés.\nLe propriétaire, de son côté, assure que le club sera rentable dès l'an prochain, une fois la nouvelle billetterie mise en place.\nUn nouvel abonnement, plus abordable pour les familles, doit d'ailleurs être lancé à la rentrée.\nReste à savoir si la valeur marchande de Lassalle justifiera, à terme, une indemnité de transfert aussi élevée.\nPour l'instant, le pari reste risqué, et le club joue gros, sur le terrain comme dans ses comptes.",
+              "english": "AS Vallenoire was long a low-key club, known for its training academy rather than financial extravagance.\nThis season, everything changed: the club broke its transfer record by signing forward Karim Lassalle for twenty-eight million euros.\nThis sum, paid in three instalments, was partly financed by a new shareholder, a foreign-based investment fund.\nAccording to management, this transfer was meant to revive a team seen as too predictable and boost visibility for the main sponsor.\nBut the accounts tell another story: despite rising TV rights, the club shows a nine-million-euro deficit.\nExpenses, meanwhile, have exploded: Lassalle's salary is, according to several sports newspapers, the highest in the club's history.\nSome supporters denounce an astronomical salary and fear that financial fair play will soon catch up with AS Vallenoire.\nOthers argue that the investment is necessary to stay competitive against better-funded clubs.\nThe owner, for his part, insists the club will be profitable next year, once the new ticketing system is in place.\nA new season pass, more affordable for families, is also set to launch in the autumn.\nIt remains to be seen whether Lassalle's market value will eventually justify such a high transfer fee.\nFor now, the gamble remains risky, and the club has a lot riding on it, both on the pitch and in its accounts.",
+              "questions": [
+                { "id": "b2_u21_l01_rd01", "type": "multipleChoice", "prompt": "Comment le transfert de Karim Lassalle a-t-il été en partie financé ?", "options": ["Par un fonds d'investissement étranger", "Par la vente du stade", "Par une augmentation des abonnements", "Par le diffuseur télévisé"], "answer": "Par un fonds d'investissement étranger" },
+                { "id": "b2_u21_l01_rd02", "type": "trueFalse", "prompt": "Le club affiche un bénéfice cette saison.", "options": ["True", "False"], "answer": "False" },
+                { "id": "b2_u21_l01_rd03", "type": "multipleChoice", "prompt": "Que promet le propriétaire du club pour l'an prochain ?", "options": ["Que le club sera rentable", "Que Lassalle sera transféré", "Que les salaires seront gelés", "Que le sponsor principal partira"], "answer": "Que le club sera rentable" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "b2_u21_l01_wr01", "type": "translate", "prompt": "The club's deficit worries the shareholders.", "english": "The club's deficit worries the shareholders.", "answer": "Le déficit du club inquiète les actionnaires.", "acceptedAnswers": ["le deficit du club inquiete les actionnaires"] },
+            { "id": "b2_u21_l01_wr02", "type": "arrangeWords", "words": ["a", "été", "Le", "hier", "signé", "contrat"], "answer": "Le contrat a été signé hier", "english": "The contract was signed yesterday." },
+            { "id": "b2_u21_l01_wr03", "type": "translate", "prompt": "This transfer is the most expensive in the league's history.", "english": "This transfer is the most expensive in the league's history.", "answer": "Ce transfert est le plus cher de l'histoire du championnat.", "acceptedAnswers": ["ce transfert est le plus cher de l histoire du championnat"] }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "b2_u21_l01_pr01", "type": "fillBlank", "prompt": "Le fair-play ___ oblige les clubs à équilibrer leurs comptes.", "answer": "financier" },
+            { "id": "b2_u21_l01_pr02", "type": "multipleChoice", "prompt": "Quel mot désigne l'argent payé pour faire venir un joueur d'un autre club ?", "options": ["une indemnité de transfert", "un abonnement", "une recette", "un bénéfice"], "answer": "une indemnité de transfert" },
+            { "id": "b2_u21_l01_pr03", "type": "match", "pairs": [ { "french": "le déficit", "english": "the deficit" }, { "french": "le bénéfice", "english": "the profit" }, { "french": "l'actionnaire", "english": "the shareholder" }, { "french": "la surenchère", "english": "the bidding war" } ] },
+            { "id": "b2_u21_l01_pr04", "type": "trueFalse", "prompt": "\"Les droits télévisés\" se dit toujours au pluriel en français.", "options": ["True", "False"], "answer": "True" },
+            { "id": "b2_u21_l01_pr05", "type": "translate", "prompt": "The investor bought out the struggling club.", "english": "The investor bought out the struggling club.", "answer": "L'investisseur a racheté le club en difficulté.", "acceptedAnswers": ["l investisseur a rachete le club en difficulte"] },
+            { "id": "b2_u21_l01_pr06", "type": "arrangeWords", "words": ["télévisés", "négocient", "se", "Les", "droits", "à l'avance"], "answer": "Les droits télévisés se négocient à l'avance", "english": "TV rights are negotiated in advance." }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "b2_u21_l01_qz01", "type": "multipleChoice", "prompt": "Quelle expression désigne un salaire jugé exagérément élevé ?", "options": ["un salaire mirobolant", "un salaire net", "un salaire minimum", "un salaire gelé"], "answer": "un salaire mirobolant" },
+            { "id": "b2_u21_l01_qz02", "type": "fillBlank", "prompt": "La clause ___ fixe à l'avance le prix de départ d'un joueur.", "answer": "libératoire" },
+            { "id": "b2_u21_l01_qz03", "type": "trueFalse", "prompt": "Le fair-play financier encourage les clubs à dépenser sans limite.", "options": ["True", "False"], "answer": "False" },
+            { "id": "b2_u21_l01_qz04", "type": "translate", "prompt": "The club's budget depends mainly on its TV visibility.", "english": "The club's budget depends mainly on its TV visibility.", "answer": "Le budget du club dépend surtout de sa visibilité télévisée.", "acceptedAnswers": ["le budget du club depend surtout de sa visibilite televisee"] },
+            { "id": "b2_u21_l01_qz05", "type": "multipleChoice", "prompt": "Qui négocie généralement l'indemnité de transfert avec le club acheteur ?", "options": ["l'agent sportif", "le diffuseur", "l'abonné", "le contribuable"], "answer": "l'agent sportif" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2_u21_l02",
+      "level": "B2",
+      "unit": 21,
+      "title": "Dopage et éthique",
+      "description": "Discuss doping allegations, testing, and sanctions with careful, attributed language.",
+      "estimatedMinutes": 19,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Qu'est-ce que le dopage ?",
+              "body": "Le dopage means using a produit dopant (banned substance) or method to artificially boost athletic performance. To catch it, federations run un contrôle antidopage: an échantillon (sample) of blood or urine is analysed, and the result is either negative or positive. A positive result triggers an investigation before any sanction — the process is meant to be rigorous precisely because an athlete's reputation is at stake.",
+              "examples": [
+                { "french": "L'athlète a été soumis à un contrôle antidopage après la course.", "english": "The athlete underwent a doping test after the race." },
+                { "french": "Le produit dopant retrouvé dans l'échantillon reste à confirmer.", "english": "The banned substance found in the sample still needs to be confirmed." },
+                { "french": "Un test positif ne signifie pas automatiquement une sanction immédiate.", "english": "A positive test doesn't automatically mean an immediate sanction." },
+                { "french": "L'agence antidopage a renforcé ses contrôles cette saison.", "english": "The anti-doping agency stepped up its testing this season." },
+                { "french": "Le règlement de la fédération prévoit une contre-expertise en cas de doute.", "english": "The federation's rules provide for a second analysis in case of doubt." }
+              ],
+              "tip": "\"Dopage\" is uncountable in French — say \"le dopage\" or \"des cas de dopage,\" never \"un dopage.\""
+            },
+            {
+              "heading": "Accusations et présomption d'innocence",
+              "body": "When an accusation surfaces, careful language matters: a suspicion (un soupçon) is not proof (une preuve), and an athlete remains presumed innocent — la présomption d'innocence — until the enquête (investigation) concludes. Journalists often use the conditional to report an unconfirmed claim: \"le coureur aurait pris un produit interdit\" signals that this is alleged, not established.",
+              "examples": [
+                { "french": "Selon l'agence, le coureur aurait pris un produit interdit avant la course.", "english": "According to the agency, the cyclist reportedly took a banned product before the race." },
+                { "french": "L'athlète nie fermement toute accusation de dopage.", "english": "The athlete firmly denies any doping accusation." },
+                { "french": "Rien ne prouve encore sa culpabilité : l'enquête est en cours.", "english": "Nothing yet proves her guilt: the investigation is ongoing." },
+                { "french": "Un simple soupçon ne suffit pas à justifier une sanction.", "english": "A mere suspicion is not enough to justify a sanction." },
+                { "french": "Son entraîneur a démenti les rumeurs dès leur apparition.", "english": "Her coach denied the rumours as soon as they appeared." }
+              ],
+              "tip": "Attribute contested claims explicitly: \"selon...\", \"d'après...\", or the conditional tense keep your French both accurate and fair."
+            },
+            {
+              "heading": "Les conséquences d'un scandale",
+              "body": "A confirmed case brings une sanction: often une suspension (a ban from competition), sometimes une disqualification of past results, and in serious repeat cases une sanction à vie. Beyond the rules, there's the human cost: une image ternie (a tarnished image) and, for some, a slow réhabilitation once they publicly reconnaissent les faits (acknowledge the facts) rather than continuing to nier.",
+              "examples": [
+                { "french": "La fédération a prononcé une suspension de deux ans.", "english": "The federation handed down a two-year suspension." },
+                { "french": "Ses résultats ont été annulés après sa disqualification.", "english": "Her results were cancelled following her disqualification." },
+                { "french": "Il a fini par reconnaître les faits, des années après le scandale.", "english": "He eventually acknowledged the facts, years after the scandal." },
+                { "french": "Sa réhabilitation a pris du temps, mais le public lui a pardonné.", "english": "His rehabilitation took time, but the public forgave him." },
+                { "french": "L'exemplarité est essentielle pour restaurer la confiance du public.", "english": "Exemplary conduct is essential to restore public trust." }
+              ],
+              "tip": "\"Nier\" (to deny) and \"dénoncer\" (to expose/report) look similar but mean opposite things — don't mix them up in a debate."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "le-dopage", "french": "le dopage", "english": "doping", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh doh-pahj", "example": "Le dopage reste un fléau pour le sport de haut niveau.", "exampleEnglish": "Doping remains a scourge for elite sport.", "level": "B2", "category": "sport" },
+            { "id": "le-produit-dopant", "french": "le produit dopant", "english": "the banned substance", "partOfSpeech": "expression", "pronunciation": "luh pro-dwee doh-pahn", "example": "Le produit dopant a été identifié dans l'échantillon.", "exampleEnglish": "The banned substance was identified in the sample.", "level": "B2", "category": "sport" },
+            { "id": "le-controle-antidopage", "french": "le contrôle antidopage", "english": "the doping test", "partOfSpeech": "expression", "pronunciation": "luh kohn-trohl ahn-tee-doh-pahj", "example": "Tous les athlètes passent un contrôle antidopage après la finale.", "exampleEnglish": "All athletes undergo a doping test after the final.", "level": "B2", "category": "sport" },
+            { "id": "la-tricherie", "french": "la tricherie", "english": "cheating", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah tree-shuh-ree", "example": "La tricherie nuit à l'image de tout le sport.", "exampleEnglish": "Cheating harms the image of the whole sport.", "level": "B2", "category": "sport" },
+            { "id": "le-tricheur", "french": "le tricheur", "english": "the cheater", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh tree-sher", "example": "Les autres coureurs refusent de courir avec un tricheur connu.", "exampleEnglish": "Other runners refuse to race with a known cheater.", "level": "B2", "category": "sport" },
+            { "id": "la-sanction", "french": "la sanction", "english": "the sanction", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah sahnk-syohn", "example": "La sanction a été annoncée après l'enquête.", "exampleEnglish": "The sanction was announced after the investigation.", "level": "B2", "category": "sport" },
+            { "id": "la-suspension", "french": "la suspension", "english": "the suspension / ban", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah sews-pahn-syohn", "example": "Sa suspension a duré deux saisons entières.", "exampleEnglish": "His suspension lasted two entire seasons.", "level": "B2", "category": "sport" },
+            { "id": "la-disqualification", "french": "la disqualification", "english": "the disqualification", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah dees-kah-lee-fee-kah-syohn", "example": "Sa disqualification a rebattu le classement final.", "exampleEnglish": "Her disqualification reshuffled the final standings.", "level": "B2", "category": "sport" },
+            { "id": "un-echantillon", "french": "un échantillon", "english": "a sample", "partOfSpeech": "noun", "gender": "m", "pronunciation": "uhn ay-shahn-tee-yohn", "example": "L'échantillon a été analysé dans un laboratoire indépendant.", "exampleEnglish": "The sample was analysed in an independent laboratory.", "level": "B2", "category": "sport" },
+            { "id": "le-test-positif", "french": "le test positif", "english": "the positive test", "partOfSpeech": "expression", "pronunciation": "luh test poh-zee-teef", "example": "Un test positif ne suffit pas toujours à établir la culpabilité.", "exampleEnglish": "A positive test isn't always enough to establish guilt.", "level": "B2", "category": "sport" },
+            { "id": "le-test-negatif", "french": "le test négatif", "english": "the negative test", "partOfSpeech": "expression", "pronunciation": "luh test nay-gah-teef", "example": "Le test négatif a rassuré son entourage.", "exampleEnglish": "The negative test reassured those around her.", "level": "B2", "category": "sport" },
+            { "id": "l-agence-antidopage", "french": "l'agence antidopage", "english": "the anti-doping agency", "partOfSpeech": "expression", "pronunciation": "lah-zhahns ahn-tee-doh-pahj", "example": "L'agence antidopage a publié son rapport annuel.", "exampleEnglish": "The anti-doping agency published its annual report.", "level": "B2", "category": "sport" },
+            { "id": "la-federation", "french": "la fédération", "english": "the federation", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah fay-day-rah-syohn", "example": "La fédération a ouvert une enquête interne.", "exampleEnglish": "The federation opened an internal investigation.", "level": "B2", "category": "sport" },
+            { "id": "le-reglement", "french": "le règlement", "english": "the regulations", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh reh-gluh-mahn", "example": "Le règlement prévoit une contre-expertise en cas de doute.", "exampleEnglish": "The regulations provide for a second analysis in case of doubt.", "level": "B2", "category": "sport" },
+            { "id": "l-integrite", "french": "l'intégrité", "english": "integrity", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lan-tay-gree-tay", "example": "L'intégrité de la compétition dépend de contrôles rigoureux.", "exampleEnglish": "The integrity of the competition depends on rigorous testing.", "level": "B2", "category": "sport" },
+            { "id": "l-ethique", "french": "l'éthique", "english": "ethics", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lay-teek", "example": "L'éthique sportive interdit tout recours à des produits dopants.", "exampleEnglish": "Sporting ethics forbid any use of banned substances.", "level": "B2", "category": "sport" },
+            { "id": "les-valeurs", "french": "les valeurs", "english": "the values", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lay vah-ler", "example": "Le scandale a mis à mal les valeurs du sport.", "exampleEnglish": "The scandal undermined the values of sport.", "level": "B2", "category": "sport" },
+            { "id": "l-esprit-sportif", "french": "l'esprit sportif", "english": "sportsmanship", "partOfSpeech": "expression", "pronunciation": "less-pree spor-teef", "example": "Il a fait preuve d'un bel esprit sportif malgré la défaite.", "exampleEnglish": "He showed real sportsmanship despite the defeat.", "level": "B2", "category": "sport" },
+            { "id": "le-fair-play", "french": "le fair-play", "english": "fair play", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh fair-play", "example": "Le fair-play reste une valeur centrale de la compétition.", "exampleEnglish": "Fair play remains a central value of competition.", "level": "B2", "category": "sport" },
+            { "id": "la-performance", "french": "la performance", "english": "the performance", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah pair-for-mahns", "example": "Sa performance a immédiatement suscité des soupçons.", "exampleEnglish": "Her performance immediately raised suspicions.", "level": "B2", "category": "sport" },
+            { "id": "le-record", "french": "le record", "english": "the record", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh ruh-kor", "example": "Le record a finalement été invalidé après l'enquête.", "exampleEnglish": "The record was ultimately invalidated after the investigation.", "level": "B2", "category": "sport" },
+            { "id": "le-soupcon", "french": "le soupçon", "english": "the suspicion", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh soop-sohn", "example": "Un simple soupçon ne suffit pas à justifier une sanction.", "exampleEnglish": "A mere suspicion isn't enough to justify a sanction.", "level": "B2", "category": "sport" },
+            { "id": "l-accusation", "french": "l'accusation", "english": "the accusation", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah-kew-zah-syohn", "example": "L'athlète nie fermement toute accusation de dopage.", "exampleEnglish": "The athlete firmly denies any doping accusation.", "level": "B2", "category": "sport" },
+            { "id": "dementir", "french": "démentir", "english": "to deny (a claim)", "partOfSpeech": "verb", "pronunciation": "day-mahn-teer", "example": "Son entraîneur a démenti les rumeurs dès leur apparition.", "exampleEnglish": "Her coach denied the rumours as soon as they appeared.", "level": "B2", "category": "sport" },
+            { "id": "avouer", "french": "avouer", "english": "to admit / confess", "partOfSpeech": "verb", "pronunciation": "ah-voo-ay", "example": "Il a fini par avouer, dix ans après les faits.", "exampleEnglish": "He eventually confessed, ten years after the events.", "level": "B2", "category": "sport" },
+            { "id": "reconnaitre-les-faits", "french": "reconnaître les faits", "english": "to acknowledge the facts", "partOfSpeech": "expression", "pronunciation": "ruh-koh-netr lay feh", "example": "Elle a préféré reconnaître les faits plutôt que de continuer à nier.", "exampleEnglish": "She chose to acknowledge the facts rather than keep denying.", "level": "B2", "category": "sport" },
+            { "id": "nier", "french": "nier", "english": "to deny", "partOfSpeech": "verb", "pronunciation": "nyay", "example": "Il continue de nier toute implication dans le scandale.", "exampleEnglish": "He continues to deny any involvement in the scandal.", "level": "B2", "category": "sport" },
+            { "id": "presume", "french": "présumé", "english": "alleged / presumed", "partOfSpeech": "adjective", "pronunciation": "pray-zew-may", "example": "Le sportif présumé coupable a droit à un procès équitable.", "exampleEnglish": "The presumed-guilty athlete is entitled to a fair hearing.", "level": "B2", "category": "sport" },
+            { "id": "la-presomption-dinnocence", "french": "la présomption d'innocence", "english": "the presumption of innocence", "partOfSpeech": "expression", "pronunciation": "lah pray-zohmp-syohn dee-noh-sahns", "example": "La présomption d'innocence s'applique tant que l'enquête n'est pas close.", "exampleEnglish": "The presumption of innocence applies until the investigation is closed.", "level": "B2", "category": "sport" },
+            { "id": "la-preuve", "french": "la preuve", "english": "the proof", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah prehv", "example": "Rien ne prouve encore sa culpabilité : il manque une preuve solide.", "exampleEnglish": "Nothing yet proves her guilt: solid proof is still missing.", "level": "B2", "category": "sport" },
+            { "id": "une-enquete", "french": "une enquête", "english": "an investigation", "partOfSpeech": "noun", "gender": "f", "pronunciation": "ewn ahn-ket", "example": "L'enquête a duré près d'un an avant toute conclusion.", "exampleEnglish": "The investigation lasted nearly a year before any conclusion.", "level": "B2", "category": "sport" },
+            { "id": "la-sanction-a-vie", "french": "la sanction à vie", "english": "the lifetime ban", "partOfSpeech": "expression", "pronunciation": "lah sahnk-syohn ah vee", "example": "En cas de récidive, une sanction à vie peut être prononcée.", "exampleEnglish": "In case of a repeat offence, a lifetime ban can be handed down.", "level": "B2", "category": "sport" },
+            { "id": "la-rehabilitation", "french": "la réhabilitation", "english": "the rehabilitation", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah ray-ah-bee-lee-tah-syohn", "example": "Sa réhabilitation a pris du temps, mais le public lui a pardonné.", "exampleEnglish": "His rehabilitation took time, but the public forgave him.", "level": "B2", "category": "sport" },
+            { "id": "le-scandale", "french": "le scandale", "english": "the scandal", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh skahn-dahl", "example": "Le scandale a éclaboussé toute la fédération.", "exampleEnglish": "The scandal splashed onto the whole federation.", "level": "B2", "category": "sport" },
+            { "id": "l-image-ternie", "french": "l'image ternie", "english": "the tarnished image", "partOfSpeech": "expression", "pronunciation": "lee-mahj tair-nee", "example": "L'image ternie du club a fait fuir plusieurs sponsors.", "exampleEnglish": "The club's tarnished image drove several sponsors away.", "level": "B2", "category": "sport" },
+            { "id": "l-exemplarite", "french": "l'exemplarité", "english": "exemplary conduct", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lek-zahm-plah-ree-tay", "example": "L'exemplarité est essentielle pour restaurer la confiance du public.", "exampleEnglish": "Exemplary conduct is essential to restore public trust.", "level": "B2", "category": "sport" },
+            { "id": "denoncer", "french": "dénoncer", "english": "to expose / report", "partOfSpeech": "verb", "pronunciation": "day-nohn-say", "example": "Un ancien coéquipier a fini par dénoncer le système de dopage.", "exampleEnglish": "A former teammate eventually exposed the doping system.", "level": "B2", "category": "sport" },
+            { "id": "la-transparence", "french": "la transparence", "english": "transparency", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah trahns-pah-rahns", "example": "L'agence a promis plus de transparence dans ses contrôles.", "exampleEnglish": "The agency promised more transparency in its testing.", "level": "B2", "category": "sport" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Le conditionnel pour l'information non confirmée",
+              "body": "French journalism uses the conditional tense specifically to signal an unverified claim — a crucial tool when reporting an accusation fairly. \"Le coureur aurait pris un produit interdit\" means \"the cyclist allegedly took a banned product\" — not a stated fact. Compare with the indicative \"a pris,\" which would assert it as certain. This distinction protects both the accused and the accuracy of the reporting.",
+              "examples": [
+                { "french": "Selon des sources proches du dossier, l'athlète serait dans le collimateur de l'agence.", "english": "According to sources close to the case, the athlete is reportedly under the agency's scrutiny." },
+                { "french": "Le laboratoire aurait détecté une substance interdite dans l'échantillon.", "english": "The laboratory reportedly detected a banned substance in the sample." },
+                { "french": "D'après la fédération, une sanction pourrait tomber dans les prochains jours.", "english": "According to the federation, a sanction could come down in the next few days." },
+                { "french": "Le champion aurait déjà été contrôlé positif par le passé.", "english": "The champion has allegedly tested positive before." },
+                { "french": "L'enquête, dit-on, serait sur le point de conclure.", "english": "The investigation, it's said, is reportedly about to conclude." }
+              ],
+              "tip": "Always pair the conditional with a source (\"selon...\", \"d'après...\", \"dit-on\") — the tense alone signals doubt, but naming the source keeps your writing credible."
+            },
+            {
+              "heading": "Le subjonctif après le doute et l'opinion",
+              "body": "Verbs and expressions of doubt, possibility, or subjective judgement trigger the subjunctive: il est possible que, il se peut que, je doute que, bien qu'il affirme que (even though he claims that). This lets you weigh both sides of a doping case without asserting either as fact — essential for balanced, B2-level argumentation.",
+              "examples": [
+                { "french": "Il est possible que le test ait été mal interprété.", "english": "It's possible the test was misread." },
+                { "french": "Bien qu'il affirme son innocence, l'enquête se poursuit.", "english": "Although he claims his innocence, the investigation continues." },
+                { "french": "Je doute que la sanction soit levée avant la fin de l'année.", "english": "I doubt the ban will be lifted before the end of the year." },
+                { "french": "Il se peut que d'autres athlètes soient concernés.", "english": "It's possible that other athletes are involved." },
+                { "french": "Quoiqu'elle ait nié les faits, les preuves se sont accumulées.", "english": "Although she denied the facts, the evidence piled up." }
+              ],
+              "tip": "\"Bien que\" and \"quoique\" both mean \"although\" and both require the subjunctive — but \"quoique\" feels slightly more formal."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "b2_u21_l02_li01", "type": "listenChoose", "french": "L'athlète nie fermement toute accusation de dopage.", "options": ["The athlete firmly denies any doping accusation.", "The athlete confessed to using banned substances.", "The federation cleared the athlete of all charges.", "The athlete retired after the scandal."], "answer": "The athlete firmly denies any doping accusation." },
+            { "id": "b2_u21_l02_li02", "type": "listenChoose", "french": "La présomption d'innocence s'applique tant que l'enquête n'est pas close.", "options": ["The presumption of innocence applies until the investigation is closed.", "The athlete was found guilty by the federation.", "The investigation was closed without any findings.", "The sample was destroyed before analysis."], "answer": "The presumption of innocence applies until the investigation is closed." },
+            { "id": "b2_u21_l02_li03", "type": "listenType", "french": "Il est possible que le test ait été mal interprété.", "answer": "Il est possible que le test ait été mal interprété.", "acceptedAnswers": ["il est possible que le test ait ete mal interprete"] },
+            { "id": "b2_u21_l02_li04", "type": "dictation", "french": "Le laboratoire aurait détecté une substance interdite dans l'échantillon.", "answer": "Le laboratoire aurait détecté une substance interdite dans l'échantillon.", "acceptedAnswers": ["le laboratoire aurait detecte une substance interdite dans l echantillon"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "b2_u21_l02_sp01", "type": "speak", "french": "Pensez-vous que les sanctions actuelles contre le dopage soient assez sévères ?", "english": "Do you think current doping sanctions are severe enough?", "prompt": "Give your opinion, using the subjunctive after an expression of doubt or opinion.", "tip": "Remember: \"je pense que\" takes the indicative, but \"je doute que\" takes the subjunctive." },
+            { "id": "b2_u21_l02_sp02", "type": "speak", "french": "Comment un journaliste peut-il rapporter une accusation sans affirmer qu'elle est vraie ?", "english": "How can a journalist report an accusation without asserting it is true?", "prompt": "Explain the role of the conditional tense and phrases like \"selon\" or \"d'après.\"", "tip": "Model your answer on a real headline: \"Le champion aurait été contrôlé positif, selon la fédération.\"" },
+            { "id": "b2_u21_l02_sp03", "type": "speak", "french": "Un athlète peut-il vraiment reconstruire son image après un scandale de dopage ?", "english": "Can an athlete truly rebuild their image after a doping scandal?", "prompt": "Discuss both possibilities: réhabilitation and lasting image ternie.", "tip": "Use \"d'un côté... et de l'autre\" to present both outcomes fairly." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Une accusation qui divise",
+              "french": "À une semaine des Championnats d'Estivale, la sprinteuse Élodie Brancart se retrouve au cœur d'une polémique.\nSelon l'Agence de Vigilance Sportive, un échantillon prélevé lors d'une compétition précédente contiendrait des traces d'un produit dopant.\nLe résultat, encore provisoire, doit être confirmé par une contre-expertise avant toute décision officielle.\nDans un communiqué, Brancart affirme son innocence et dénonce une fuite qui, selon elle, viole le règlement sur la confidentialité.\n\"Je n'ai jamais pris de produit interdit et je fais confiance à la procédure\", a-t-elle déclaré.\nSon entraîneur va plus loin : il évoque une possible erreur de laboratoire et réclame une nouvelle analyse indépendante.\nL'Agence, de son côté, rappelle que la présomption d'innocence s'applique tant que l'enquête n'est pas close.\nCertains observateurs jugent la fuite injuste envers l'athlète, avant même toute conclusion officielle.\nD'autres estiment au contraire que la transparence sert l'intégrité du sport, même lorsqu'elle est inconfortable.\nLa fédération a annoncé qu'aucune sanction ne serait prononcée avant la fin de la contre-expertise.\nSi le second test confirmait le premier, une suspension serait probable ; s'il l'infirmait, Brancart courrait librement dès le mois prochain.\nEn attendant, l'athlète continue de s'entraîner, sous le regard attentif de la presse sportive.",
+              "english": "One week before the Estivale Championships, sprinter Élodie Brancart finds herself at the centre of a controversy.\nAccording to the Sports Vigilance Agency, a sample taken during a previous competition reportedly contains traces of a banned substance.\nThe result, still provisional, must be confirmed by a second analysis before any official decision.\nIn a statement, Brancart maintains her innocence and denounces a leak that, she says, violates confidentiality rules.\n\"I have never taken a banned substance and I trust the process,\" she declared.\nHer coach goes further: he suggests a possible lab error and is calling for a new, independent analysis.\nThe Agency, for its part, points out that the presumption of innocence applies as long as the investigation remains open.\nSome observers consider the leak unfair to the athlete, even before any official conclusion.\nOthers argue that transparency serves the integrity of the sport, even when it is uncomfortable.\nThe federation announced that no sanction would be handed down before the second analysis is complete.\nIf the second test confirmed the first, a suspension would be likely; if it disproved it, Brancart would race freely as of next month.\nIn the meantime, the athlete continues training, under the watchful eye of the sports press.",
+              "questions": [
+                { "id": "b2_u21_l02_rd01", "type": "multipleChoice", "prompt": "Que doit confirmer la contre-expertise avant toute décision officielle ?", "options": ["Le résultat provisoire de l'échantillon", "La date des Championnats d'Estivale", "L'identité du laboratoire", "Le montant de la sanction"], "answer": "Le résultat provisoire de l'échantillon" },
+                { "id": "b2_u21_l02_rd02", "type": "trueFalse", "prompt": "La fédération a déjà annoncé une sanction contre Élodie Brancart.", "options": ["True", "False"], "answer": "False" },
+                { "id": "b2_u21_l02_rd03", "type": "multipleChoice", "prompt": "Que réclame l'entraîneur de Brancart ?", "options": ["Une nouvelle analyse indépendante", "Le retrait immédiat de l'athlète", "La suppression du contrôle antidopage", "Un changement de fédération"], "answer": "Une nouvelle analyse indépendante" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "b2_u21_l02_wr01", "type": "translate", "prompt": "According to the agency, the athlete is reportedly under scrutiny.", "english": "According to the agency, the athlete is reportedly under scrutiny.", "answer": "Selon l'agence, l'athlète serait dans le collimateur.", "acceptedAnswers": ["selon l agence l athlete serait dans le collimateur"] },
+            { "id": "b2_u21_l02_wr02", "type": "arrangeWords", "words": ["que", "Il", "possible", "est", "interprété", "mal", "ait", "été", "le test"], "answer": "Il est possible que le test ait été mal interprété", "english": "It's possible the test was misread." },
+            { "id": "b2_u21_l02_wr03", "type": "translate", "prompt": "The presumption of innocence applies until the investigation is closed.", "english": "The presumption of innocence applies until the investigation is closed.", "answer": "La présomption d'innocence s'applique tant que l'enquête n'est pas close.", "acceptedAnswers": ["la presomption d innocence s applique tant que l enquete n est pas close"] }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "b2_u21_l02_pr01", "type": "fillBlank", "prompt": "Bien qu'il ___ son innocence, l'enquête se poursuit. (affirmer, subjonctif)", "answer": "affirme" },
+            { "id": "b2_u21_l02_pr02", "type": "multipleChoice", "prompt": "Quel mot désigne une interdiction définitive de participer à une compétition ?", "options": ["la sanction à vie", "le test négatif", "l'esprit sportif", "la réhabilitation"], "answer": "la sanction à vie" },
+            { "id": "b2_u21_l02_pr03", "type": "match", "pairs": [ { "french": "nier", "english": "to deny" }, { "french": "avouer", "english": "to confess" }, { "french": "dénoncer", "english": "to expose" }, { "french": "démentir", "english": "to deny (a claim)" } ] },
+            { "id": "b2_u21_l02_pr04", "type": "trueFalse", "prompt": "Le conditionnel permet de rapporter une information sans l'affirmer comme certaine.", "options": ["True", "False"], "answer": "True" },
+            { "id": "b2_u21_l02_pr05", "type": "translate", "prompt": "I doubt the ban will be lifted before the end of the year.", "english": "I doubt the ban will be lifted before the end of the year.", "answer": "Je doute que la sanction soit levée avant la fin de l'année.", "acceptedAnswers": ["je doute que la sanction soit levee avant la fin de l annee"] },
+            { "id": "b2_u21_l02_pr06", "type": "arrangeWords", "words": ["ternie", "a", "L'image", "fait", "fuir", "plusieurs sponsors"], "answer": "L'image ternie a fait fuir plusieurs sponsors", "english": "The tarnished image drove several sponsors away." }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "b2_u21_l02_qz01", "type": "multipleChoice", "prompt": "Quel principe protège un athlète tant que l'enquête n'est pas terminée ?", "options": ["la présomption d'innocence", "le fair-play financier", "la clause libératoire", "le mercato"], "answer": "la présomption d'innocence" },
+            { "id": "b2_u21_l02_qz02", "type": "fillBlank", "prompt": "Selon des sources proches du dossier, l'athlète ___ dans le collimateur de l'agence. (être, conditionnel)", "answer": "serait" },
+            { "id": "b2_u21_l02_qz03", "type": "trueFalse", "prompt": "\"Nier\" et \"avouer\" signifient la même chose.", "options": ["True", "False"], "answer": "False" },
+            { "id": "b2_u21_l02_qz04", "type": "translate", "prompt": "The federation opened an internal investigation.", "english": "The federation opened an internal investigation.", "answer": "La fédération a ouvert une enquête interne.", "acceptedAnswers": ["la federation a ouvert une enquete interne"] },
+            { "id": "b2_u21_l02_qz05", "type": "multipleChoice", "prompt": "Quelle expression signale qu'une information n'est pas confirmée ?", "options": ["le conditionnel avec \"selon\"", "le présent de l'indicatif", "l'impératif", "le passé composé seul"], "answer": "le conditionnel avec \"selon\"" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2_u21_l03",
+      "level": "B2",
+      "unit": 21,
+      "title": "Les grands événements",
+      "description": "Weigh the costs and benefits of hosting major sporting events, from stadiums to legacy.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Organiser un grand événement",
+              "body": "Hosting a major sporting event starts years earlier, with une candidature (a bid) submitted by a ville hôte. If chosen, a comité d'organisation coordinates everything: building infrastructure, stadiums, and le village des athlètes. All of this is planned against un budget prévisionnel — a forecast that, in practice, is frequently exceeded, producing un dépassement de coûts that taxpayers ultimately absorb.",
+              "examples": [
+                { "french": "La ville a déposé sa candidature pour accueillir les Jeux d'Aurenne.", "english": "The city submitted its bid to host the Aurenne Games." },
+                { "french": "Le comité d'organisation doit livrer les infrastructures dans les délais.", "english": "The organising committee must deliver the infrastructure on schedule." },
+                { "french": "Le budget prévisionnel a été largement dépassé.", "english": "The forecast budget was significantly exceeded." },
+                { "french": "Le village des athlètes accueillera plus de dix mille sportifs.", "english": "The athletes' village will host more than ten thousand competitors." },
+                { "french": "Un dépassement de coûts pareil inquiète les contribuables locaux.", "english": "Such a cost overrun worries local taxpayers." }
+              ],
+              "tip": "\"Une candidature\" (a bid/application) is feminine even though it can refer to a whole city or country applying to host an event."
+            },
+            {
+              "heading": "Les retombées : bénéfices et coûts",
+              "body": "Supporters point to les retombées économiques: tourism, jobs, and le rayonnement international a host city gains. Critics counter with the image of un éléphant blanc — a costly stadium built for the event that stands empty afterward, its reconversion (repurposing) proving harder than planners promised. Both claims are debated, and the real balance sheet often only becomes clear years later.",
+              "examples": [
+                { "french": "Les retombées économiques restent difficiles à mesurer précisément.", "english": "The economic spin-offs remain hard to measure precisely." },
+                { "french": "Le tourisme a bondi pendant les deux semaines de compétition.", "english": "Tourism surged during the two weeks of competition." },
+                { "french": "Certains stades sont devenus de véritables éléphants blancs.", "english": "Some stadiums have become real white elephants." },
+                { "french": "La reconversion du village des athlètes a pris plusieurs années.", "english": "Repurposing the athletes' village took several years." },
+                { "french": "L'événement a offert un rayonnement international inédit à la ville.", "english": "The event gave the city unprecedented international exposure." }
+              ],
+              "tip": "\"Un éléphant blanc\" is a vivid idiom for any costly project that becomes useless — memorable for B2 debate vocabulary."
+            },
+            {
+              "heading": "Le débat public",
+              "body": "Big events rarely go unchallenged: un opposant may organise une manifestation or a pétition against public spending, while un partisan defends l'investissement public as good for the whole region. La polémique often centres on who really benefits — and a partenariat public-privé is sometimes proposed as a compromise, sharing both risk and reward between the state and private companies.",
+              "examples": [
+                { "french": "Une pétition contre le projet a recueilli des milliers de signatures.", "english": "A petition against the project gathered thousands of signatures." },
+                { "french": "Les opposants dénoncent le coût pour les contribuables.", "english": "Opponents denounce the cost to taxpayers." },
+                { "french": "Un partenariat public-privé a permis de financer le nouveau stade.", "english": "A public-private partnership helped finance the new stadium." },
+                { "french": "La polémique enfle à mesure que la date approche.", "english": "The controversy grows as the date approaches." },
+                { "french": "Les partisans du projet insistent sur l'héritage laissé à la ville.", "english": "Supporters of the project stress the legacy left to the city." }
+              ],
+              "tip": "\"Une manifestation\" means a protest/demonstration here — not an \"event,\" which is \"un événement.\" Context always disambiguates."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "l-evenement-sportif", "french": "l'événement sportif", "english": "the sporting event", "partOfSpeech": "expression", "pronunciation": "lay-vay-nuh-mahn spor-teef", "example": "Cet événement sportif attire des millions de spectateurs.", "exampleEnglish": "This sporting event attracts millions of spectators.", "level": "B2", "category": "sport" },
+            { "id": "la-candidature", "french": "la candidature", "english": "the bid", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah kahn-dee-dah-tewr", "example": "La candidature de la ville a été retenue face à trois rivales.", "exampleEnglish": "The city's bid was selected over three rivals.", "level": "B2", "category": "sport" },
+            { "id": "la-ville-hote", "french": "la ville hôte", "english": "the host city", "partOfSpeech": "expression", "pronunciation": "lah veel oht", "example": "La ville hôte doit livrer les infrastructures à temps.", "exampleEnglish": "The host city must deliver the infrastructure on time.", "level": "B2", "category": "sport" },
+            { "id": "le-comite", "french": "le comité", "english": "the committee", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh koh-mee-tay", "example": "Le comité d'organisation s'est réuni pour faire le point.", "exampleEnglish": "The organising committee met to review progress.", "level": "B2", "category": "sport" },
+            { "id": "l-infrastructure", "french": "l'infrastructure", "english": "the infrastructure", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lan-frah-strewk-tewr", "example": "Les infrastructures ont coûté bien plus que prévu.", "exampleEnglish": "The infrastructure cost far more than expected.", "level": "B2", "category": "sport" },
+            { "id": "le-stade", "french": "le stade", "english": "the stadium", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh stahd", "example": "Le nouveau stade peut accueillir soixante mille spectateurs.", "exampleEnglish": "The new stadium can hold sixty thousand spectators.", "level": "B2", "category": "sport" },
+            { "id": "le-village-des-athletes", "french": "le village des athlètes", "english": "the athletes' village", "partOfSpeech": "expression", "pronunciation": "luh vee-lahj day zah-tleht", "example": "Le village des athlètes sera transformé en logements après l'événement.", "exampleEnglish": "The athletes' village will be converted into housing after the event.", "level": "B2", "category": "sport" },
+            { "id": "le-budget-previsionnel", "french": "le budget prévisionnel", "english": "the forecast budget", "partOfSpeech": "expression", "pronunciation": "luh bew-jay pray-vee-zyoh-nel", "example": "Le budget prévisionnel n'incluait pas la sécurité renforcée.", "exampleEnglish": "The forecast budget didn't include enhanced security.", "level": "B2", "category": "sport" },
+            { "id": "le-depassement-de-couts", "french": "le dépassement de coûts", "english": "the cost overrun", "partOfSpeech": "expression", "pronunciation": "luh day-pahs-mahn duh koo", "example": "Le dépassement de coûts a doublé la facture initiale.", "exampleEnglish": "The cost overrun doubled the initial bill.", "level": "B2", "category": "sport" },
+            { "id": "heritage", "french": "l'héritage", "english": "the legacy", "partOfSpeech": "noun", "gender": "m", "pronunciation": "lay-ree-tahj", "example": "L'héritage sportif de la ville reste discuté vingt ans après.", "exampleEnglish": "The city's sporting legacy is still debated twenty years later.", "level": "B2", "category": "sport" },
+            { "id": "les-retombees-economiques", "french": "les retombées économiques", "english": "the economic spin-offs", "partOfSpeech": "expression", "pronunciation": "lay ruh-tohm-bay ay-koh-noh-meek", "example": "Les retombées économiques ont surtout profité aux grandes entreprises.", "exampleEnglish": "The economic spin-offs mainly benefited large companies.", "level": "B2", "category": "sport" },
+            { "id": "le-tourisme", "french": "le tourisme", "english": "tourism", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh too-reezm", "example": "Le tourisme a bondi pendant les deux semaines de compétition.", "exampleEnglish": "Tourism surged during the two weeks of competition.", "level": "B2", "category": "sport" },
+            { "id": "le-rayonnement", "french": "le rayonnement", "english": "the international profile / influence", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh ray-yohn-mahn", "example": "L'événement a renforcé le rayonnement de la région.", "exampleEnglish": "The event boosted the region's international profile.", "level": "B2", "category": "sport" },
+            { "id": "la-securite", "french": "la sécurité", "english": "security", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah say-kew-ree-tay", "example": "La sécurité représente une part importante du budget prévisionnel.", "exampleEnglish": "Security accounts for a significant share of the forecast budget.", "level": "B2", "category": "sport" },
+            { "id": "le-dispositif", "french": "le dispositif", "english": "the (security) system / setup", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh dee-spoh-zee-teef", "example": "Le dispositif de sécurité a mobilisé des milliers d'agents.", "exampleEnglish": "The security setup mobilised thousands of officers.", "level": "B2", "category": "sport" },
+            { "id": "benevole", "french": "le bénévole", "english": "the volunteer", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh bay-nay-vohl", "example": "Des milliers de bénévoles ont rendu l'événement possible.", "exampleEnglish": "Thousands of volunteers made the event possible.", "level": "B2", "category": "sport" },
+            { "id": "la-ceremonie-douverture", "french": "la cérémonie d'ouverture", "english": "the opening ceremony", "partOfSpeech": "expression", "pronunciation": "lah say-ray-moh-nee doo-vair-tewr", "example": "La cérémonie d'ouverture a été suivie par des millions de téléspectateurs.", "exampleEnglish": "The opening ceremony was watched by millions of viewers.", "level": "B2", "category": "sport" },
+            { "id": "la-ceremonie-de-cloture", "french": "la cérémonie de clôture", "english": "the closing ceremony", "partOfSpeech": "expression", "pronunciation": "lah say-ray-moh-nee duh kloh-tewr", "example": "La cérémonie de clôture marque la fin officielle des compétitions.", "exampleEnglish": "The closing ceremony marks the official end of the competitions.", "level": "B2", "category": "sport" },
+            { "id": "le-billet", "french": "le billet", "english": "the ticket", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh bee-yay", "example": "Les billets pour la finale se sont vendus en quelques minutes.", "exampleEnglish": "Tickets for the final sold out in minutes.", "level": "B2", "category": "sport" },
+            { "id": "le-spectateur", "french": "le spectateur", "english": "the spectator", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh spek-tah-ter", "example": "Le stade a accueilli des dizaines de milliers de spectateurs.", "exampleEnglish": "The stadium welcomed tens of thousands of spectators.", "level": "B2", "category": "sport" },
+            { "id": "la-retransmission", "french": "la retransmission", "english": "the broadcast", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah ruh-trahns-mee-syohn", "example": "La retransmission mondiale a battu un record d'audience.", "exampleEnglish": "The worldwide broadcast set a viewership record.", "level": "B2", "category": "sport" },
+            { "id": "l-audience", "french": "l'audience", "english": "the viewership", "partOfSpeech": "noun", "gender": "f", "pronunciation": "loh-dyahns", "example": "L'audience de la cérémonie d'ouverture a dépassé toutes les attentes.", "exampleEnglish": "The opening ceremony's viewership exceeded all expectations.", "level": "B2", "category": "sport" },
+            { "id": "le-prestige", "french": "le prestige", "english": "the prestige", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh press-teej", "example": "Le prestige de l'événement attire des sponsors internationaux.", "exampleEnglish": "The event's prestige attracts international sponsors.", "level": "B2", "category": "sport" },
+            { "id": "la-fierte-nationale", "french": "la fierté nationale", "english": "national pride", "partOfSpeech": "expression", "pronunciation": "lah fyair-tay nah-syoh-nahl", "example": "La victoire a suscité une immense fierté nationale.", "exampleEnglish": "The victory sparked immense national pride.", "level": "B2", "category": "sport" },
+            { "id": "l-elephant-blanc", "french": "un éléphant blanc", "english": "a white elephant (costly, useless project)", "partOfSpeech": "expression", "pronunciation": "uhn ay-lay-fahn blahn", "example": "Le stade est devenu un véritable éléphant blanc.", "exampleEnglish": "The stadium became a real white elephant.", "level": "B2", "category": "sport" },
+            { "id": "la-reconversion", "french": "la reconversion", "english": "the repurposing", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah ruh-kohn-vair-syohn", "example": "La reconversion du site a demandé des années de travaux.", "exampleEnglish": "Repurposing the site took years of work.", "level": "B2", "category": "sport" },
+            { "id": "la-dette", "french": "la dette", "english": "the debt", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah det", "example": "La dette liée à l'événement pèse encore sur la ville.", "exampleEnglish": "The debt linked to the event still weighs on the city.", "level": "B2", "category": "sport" },
+            { "id": "le-contribuable", "french": "le contribuable", "english": "the taxpayer", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh kohn-tree-bwah-bluh", "example": "Le contribuable finance une partie des infrastructures.", "exampleEnglish": "The taxpayer funds part of the infrastructure.", "level": "B2", "category": "sport" },
+            { "id": "l-investissement-public", "french": "l'investissement public", "english": "public investment", "partOfSpeech": "expression", "pronunciation": "lan-vess-tees-mahn pew-bleek", "example": "Les partisans défendent l'investissement public comme un moteur régional.", "exampleEnglish": "Supporters defend public investment as a regional driver.", "level": "B2", "category": "sport" },
+            { "id": "le-partenariat-public-prive", "french": "le partenariat public-privé", "english": "the public-private partnership", "partOfSpeech": "expression", "pronunciation": "luh par-tuh-nah-ryah pew-bleek pree-vay", "example": "Un partenariat public-privé a permis de partager les risques financiers.", "exampleEnglish": "A public-private partnership helped share the financial risks.", "level": "B2", "category": "sport" },
+            { "id": "opposant", "french": "l'opposant", "english": "the opponent", "partOfSpeech": "noun", "gender": "m", "pronunciation": "loh-poh-zahn", "example": "Les opposants dénoncent le coût pour les contribuables.", "exampleEnglish": "Opponents denounce the cost to taxpayers.", "level": "B2", "category": "sport" },
+            { "id": "manifestation", "french": "la manifestation", "english": "the demonstration / protest", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah mah-nee-fess-tah-syohn", "example": "Une manifestation a rassemblé plusieurs milliers de personnes.", "exampleEnglish": "A demonstration gathered several thousand people.", "level": "B2", "category": "sport" },
+            { "id": "petition", "french": "la pétition", "english": "the petition", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah pay-tee-syohn", "example": "La pétition contre le projet a recueilli des milliers de signatures.", "exampleEnglish": "The petition against the project gathered thousands of signatures.", "level": "B2", "category": "sport" },
+            { "id": "la-polemique", "french": "la polémique", "english": "the controversy", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah poh-lay-meek", "example": "La polémique enfle à mesure que la date approche.", "exampleEnglish": "The controversy grows as the date approaches.", "level": "B2", "category": "sport" },
+            { "id": "une-controverse", "french": "une controverse", "english": "a controversy", "partOfSpeech": "noun", "gender": "f", "pronunciation": "ewn kohn-troh-vairs", "example": "Une controverse a éclaté au sujet du coût réel du projet.", "exampleEnglish": "A controversy erupted over the project's real cost.", "level": "B2", "category": "sport" },
+            { "id": "la-critique", "french": "la critique", "english": "the criticism", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah kree-teek", "example": "La critique porte surtout sur le dépassement de coûts.", "exampleEnglish": "The criticism mainly concerns the cost overrun.", "level": "B2", "category": "sport" },
+            { "id": "le-partisan", "french": "le partisan", "english": "the supporter (of a cause)", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh par-tee-zahn", "example": "Les partisans du projet insistent sur l'héritage laissé à la ville.", "exampleEnglish": "Supporters of the project stress the legacy left to the city.", "level": "B2", "category": "sport" },
+            { "id": "s-opposer-a", "french": "s'opposer à", "english": "to oppose", "partOfSpeech": "verb", "pronunciation": "so-poh-zay ah", "example": "De nombreux habitants s'opposent à la construction du nouveau stade.", "exampleEnglish": "Many residents oppose the construction of the new stadium.", "level": "B2", "category": "sport" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Les connecteurs de contraste",
+              "body": "Weighing costs against benefits requires precise contrast connectors. Cependant and toutefois (however) soften a shift; en revanche and par contre (on the other hand) mark a sharper opposition; alors que and tandis que (whereas) contrast two facts within a single sentence. Choosing the right one signals exactly how strongly you're pushing back against the previous point.",
+              "examples": [
+                { "french": "L'événement a boosté le tourisme ; il a cependant coûté très cher.", "english": "The event boosted tourism; it was, however, very costly." },
+                { "french": "Les partisans vantent l'héritage, en revanche les opposants dénoncent la dette.", "english": "Supporters praise the legacy; opponents, on the other hand, denounce the debt." },
+                { "french": "Le stade attire les touristes, alors que le village des athlètes reste vide.", "english": "The stadium attracts tourists, whereas the athletes' village remains empty." },
+                { "french": "Le budget prévoyait dix millions ; il en a coûté trente, toutefois.", "english": "The budget forecast ten million; it cost thirty, however." },
+                { "french": "La ville a gagné en rayonnement ; par contre, les habitants paient encore la dette.", "english": "The city gained in international profile; residents, however, are still paying off the debt." }
+              ],
+              "tip": "\"En revanche\" cannot open a sentence about something negative following something positive alone — it always needs a first clause to contrast against."
+            },
+            {
+              "heading": "La mise en relief : c'est... qui / c'est... que",
+              "body": "To emphasise exactly which element you're debating, French speakers isolate it with c'est... qui (for the subject) or c'est... que (for everything else). This structure is common in spoken argumentation because it lets you land the stress precisely where you want it, rather than relying on intonation alone.",
+              "examples": [
+                { "french": "C'est le contribuable qui paie finalement la facture.", "english": "It's the taxpayer who ultimately pays the bill." },
+                { "french": "C'est l'héritage sportif que la ville met en avant.", "english": "It's the sporting legacy that the city highlights." },
+                { "french": "C'est justement cette polémique qui a retardé le projet.", "english": "It's precisely this controversy that delayed the project." },
+                { "french": "Ce sont les bénévoles qui ont rendu l'événement possible.", "english": "It's the volunteers who made the event possible." },
+                { "french": "C'est du dépassement de coûts que parlent tous les journaux.", "english": "It's the cost overrun that every newspaper is talking about." }
+              ],
+              "tip": "With a plural subject, the verb \"être\" agrees: \"ce sont les bénévoles qui...\" not \"c'est les bénévoles.\""
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "b2_u21_l03_li01", "type": "listenChoose", "french": "C'est le contribuable qui paie finalement la facture.", "options": ["It's the taxpayer who ultimately pays the bill.", "It's the sponsor who covers all the costs.", "The city refused to pay the bill.", "The stadium was built for free."], "answer": "It's the taxpayer who ultimately pays the bill." },
+            { "id": "b2_u21_l03_li02", "type": "listenChoose", "french": "Certains stades sont devenus de véritables éléphants blancs.", "options": ["Some stadiums have become real white elephants.", "Some stadiums were painted white.", "The stadiums were all demolished after the event.", "Elephants were used during the opening ceremony."], "answer": "Some stadiums have become real white elephants." },
+            { "id": "b2_u21_l03_li03", "type": "listenType", "french": "Les retombées économiques restent difficiles à mesurer précisément.", "answer": "Les retombées économiques restent difficiles à mesurer précisément.", "acceptedAnswers": ["les retombees economiques restent difficiles a mesurer precisement"] },
+            { "id": "b2_u21_l03_li04", "type": "dictation", "french": "Un partenariat public-privé a permis de financer le nouveau stade.", "answer": "Un partenariat public-privé a permis de financer le nouveau stade.", "acceptedAnswers": ["un partenariat public prive a permis de financer le nouveau stade"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "b2_u21_l03_sp01", "type": "speak", "french": "Selon vous, un pays devrait-il dépenser autant pour accueillir un grand événement sportif ?", "english": "In your opinion, should a country spend so much to host a major sporting event?", "prompt": "Give your opinion, using at least one contrast connector like \"cependant\" or \"en revanche.\"", "tip": "Pause slightly before your contrast connector to signal the shift in your argument." },
+            { "id": "b2_u21_l03_sp02", "type": "speak", "french": "Comment éviter qu'un stade ne devienne un éléphant blanc après l'événement ?", "english": "How can a stadium be prevented from becoming a white elephant after the event?", "prompt": "Suggest one concrete idea for planning a stadium's reconversion.", "tip": "Use \"il faudrait que\" + subjunctive to propose a solution diplomatically." },
+            { "id": "b2_u21_l03_sp03", "type": "speak", "french": "Les opposants et les partisans d'un grand événement ont-ils tous les deux raison ?", "english": "Are both opponents and supporters of a major event right, in some way?", "prompt": "Present both sides fairly using \"c'est... qui/que\" for emphasis.", "tip": "End with a nuanced conclusion rather than picking one side outright — that's the B2 debate register." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Aurenne, dix ans après les Jeux",
+              "french": "Dix ans après avoir accueilli les Jeux d'Aurenne, la ville reste divisée sur le bilan de l'événement.\nLe comité d'organisation avait promis un héritage durable : de nouveaux transports, des logements, et un rayonnement international pour la région.\nCertaines promesses ont été tenues : le tramway construit pour l'occasion dessert aujourd'hui l'ensemble de l'agglomération.\nLe village des athlètes, quant à lui, a été reconverti avec succès en quartier résidentiel, une réussite que la mairie met volontiers en avant.\nMais tout n'est pas aussi positif : le grand stade olympique, lui, reste largement sous-utilisé.\nOn parle aujourd'hui d'un éléphant blanc que la ville peine à entretenir, faute d'événements assez grands pour le remplir.\nLa dette contractée pour financer les infrastructures pèse encore sur le budget municipal, selon plusieurs élus locaux.\nC'est cette dette que critiquent le plus les opposants au projet, qui rappellent que le budget prévisionnel avait été largement dépassé.\nLes partisans, eux, insistent sur les retombées économiques et sur le tourisme, qui a doublé depuis les Jeux.\nUn partenariat public-privé permet aujourd'hui de financer une partie de l'entretien du stade, une solution jugée insuffisante par certains contribuables.\nD'autres villes, en revanche, observent Aurenne de près avant de déposer leur propre candidature.\nLe débat, loin d'être clos, illustre bien la complexité d'un tel héritage.",
+              "english": "Ten years after hosting the Aurenne Games, the city remains divided over the event's legacy.\nThe organising committee had promised a lasting legacy: new transport, housing, and international profile for the region.\nSome promises were kept: the tram built for the occasion now serves the entire metropolitan area.\nThe athletes' village, meanwhile, was successfully repurposed into a residential neighbourhood, a success the city council happily highlights.\nBut not everything is so positive: the large Olympic stadium, for its part, remains largely underused.\nPeople now speak of a white elephant that the city struggles to maintain, for lack of events big enough to fill it.\nThe debt taken on to finance the infrastructure still weighs on the municipal budget, according to several local officials.\nIt's this debt that opponents of the project criticise the most, pointing out that the forecast budget was significantly exceeded.\nSupporters, for their part, emphasise the economic spin-offs and tourism, which has doubled since the Games.\nA public-private partnership now helps finance part of the stadium's upkeep, a solution some taxpayers consider insufficient.\nOther cities, on the other hand, are watching Aurenne closely before submitting their own bid.\nThe debate, far from settled, illustrates well the complexity of such a legacy.",
+              "questions": [
+                { "id": "b2_u21_l03_rd01", "type": "multipleChoice", "prompt": "Qu'est-il advenu du village des athlètes à Aurenne ?", "options": ["Il a été reconverti en quartier résidentiel", "Il a été détruit après les Jeux", "Il sert encore de logement aux athlètes", "Il a été transformé en musée"], "answer": "Il a été reconverti en quartier résidentiel" },
+                { "id": "b2_u21_l03_rd02", "type": "trueFalse", "prompt": "Le grand stade olympique est aujourd'hui pleinement utilisé.", "options": ["True", "False"], "answer": "False" },
+                { "id": "b2_u21_l03_rd03", "type": "multipleChoice", "prompt": "Que critiquent principalement les opposants au projet ?", "options": ["La dette liée aux infrastructures", "Le nouveau tramway", "Le nombre de touristes", "La reconversion du village des athlètes"], "answer": "La dette liée aux infrastructures" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "b2_u21_l03_wr01", "type": "translate", "prompt": "It's the taxpayer who ultimately pays the bill.", "english": "It's the taxpayer who ultimately pays the bill.", "answer": "C'est le contribuable qui paie finalement la facture.", "acceptedAnswers": ["c est le contribuable qui paie finalement la facture"] },
+            { "id": "b2_u21_l03_wr02", "type": "arrangeWords", "words": ["a", "boosté", "il", "cependant", "L'événement", "le tourisme", "coûté très cher"], "answer": "L'événement a boosté le tourisme il a cependant coûté très cher", "english": "The event boosted tourism; it was, however, very costly." },
+            { "id": "b2_u21_l03_wr03", "type": "translate", "prompt": "The debt taken on to finance the infrastructure still weighs on the budget.", "english": "The debt taken on to finance the infrastructure still weighs on the budget.", "answer": "La dette contractée pour financer les infrastructures pèse encore sur le budget.", "acceptedAnswers": ["la dette contractee pour financer les infrastructures pese encore sur le budget"] }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "b2_u21_l03_pr01", "type": "fillBlank", "prompt": "Le stade est devenu un véritable ___ blanc.", "answer": "éléphant" },
+            { "id": "b2_u21_l03_pr02", "type": "multipleChoice", "prompt": "Quel mot désigne le dépôt officiel d'une ville pour accueillir un événement ?", "options": ["la candidature", "la pétition", "la manifestation", "la reconversion"], "answer": "la candidature" },
+            { "id": "b2_u21_l03_pr03", "type": "match", "pairs": [ { "french": "l'opposant", "english": "the opponent" }, { "french": "le partisan", "english": "the supporter" }, { "french": "le contribuable", "english": "the taxpayer" }, { "french": "le bénévole", "english": "the volunteer" } ] },
+            { "id": "b2_u21_l03_pr04", "type": "trueFalse", "prompt": "\"En revanche\" et \"alors que\" peuvent tous deux exprimer un contraste.", "options": ["True", "False"], "answer": "True" },
+            { "id": "b2_u21_l03_pr05", "type": "translate", "prompt": "Supporters emphasise the economic spin-offs.", "english": "Supporters emphasise the economic spin-offs.", "answer": "Les partisans insistent sur les retombées économiques.", "acceptedAnswers": ["les partisans insistent sur les retombees economiques"] },
+            { "id": "b2_u21_l03_pr06", "type": "arrangeWords", "words": ["les", "Ce sont", "qui", "l'événement", "possible", "bénévoles", "ont rendu"], "answer": "Ce sont les bénévoles qui ont rendu l'événement possible", "english": "It's the volunteers who made the event possible." }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "b2_u21_l03_qz01", "type": "multipleChoice", "prompt": "Comment appelle-t-on un projet coûteux devenu inutile après un événement ?", "options": ["un éléphant blanc", "un partenariat public-privé", "une candidature", "une reconversion"], "answer": "un éléphant blanc" },
+            { "id": "b2_u21_l03_qz02", "type": "fillBlank", "prompt": "C'est le contribuable ___ paie finalement la facture.", "answer": "qui" },
+            { "id": "b2_u21_l03_qz03", "type": "trueFalse", "prompt": "Un partenariat public-privé associe uniquement des entreprises privées.", "options": ["True", "False"], "answer": "False" },
+            { "id": "b2_u21_l03_qz04", "type": "translate", "prompt": "The controversy grows as the date approaches.", "english": "The controversy grows as the date approaches.", "answer": "La polémique enfle à mesure que la date approche.", "acceptedAnswers": ["la polemique enfle a mesure que la date approche"] },
+            { "id": "b2_u21_l03_qz05", "type": "multipleChoice", "prompt": "Quel connecteur exprime le contraste le plus fort ?", "options": ["en revanche", "et", "donc", "ensuite"], "answer": "en revanche" }
+          ]
+        }
+      ]
+    }
+  ]
+}

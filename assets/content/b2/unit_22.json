@@ -1,0 +1,567 @@
+{
+  "id": "b2_u22",
+  "level": "B2",
+  "unit": 22,
+  "title": "Food Politics",
+  "subtitle": "Debate farming, animal welfare, and food sovereignty in French",
+  "icon": "🌾",
+  "lessons": [
+    {
+      "id": "b2_u22_l01",
+      "level": "B2",
+      "unit": 22,
+      "title": "L'agriculture française",
+      "description": "Explore the realities of French farming today: regional diversity, generational change, and the economic pressures on rural life.",
+      "estimatedMinutes": 19,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Une agriculture diverse",
+              "body": "France remains the European Union's leading agricultural producer, but 'French farming' is not one thing: it covers grain plains in the north, vineyards in the south, and dairy pasture in the west. Understanding the topic means recognising this regional variety before making any generalisation.",
+              "examples": [
+                { "french": "La France reste le premier pays agricole de l'Union européenne.", "english": "France remains the EU's leading agricultural country." },
+                { "french": "Dans le Sud, on cultive surtout la vigne et les fruits.", "english": "In the south, vines and fruit are mainly grown." },
+                { "french": "Le Nord et le Centre produisent surtout du blé.", "english": "The North and Centre mainly produce wheat." },
+                { "french": "En Normandie, l'élevage laitier domine le paysage.", "english": "In Normandy, dairy farming dominates the landscape." },
+                { "french": "Chaque région a ses propres spécialités agricoles.", "english": "Each region has its own agricultural specialities." }
+              ],
+              "tip": "Avoid treating 'l'agriculture française' as a single voice — a wheat grower in the Beauce and a winegrower in the Médoc face very different realities."
+            },
+            {
+              "heading": "Le monde paysan en mutation",
+              "body": "The number of farms in France has fallen sharply since the 1980s, even as the average size of each farm has grown. Fewer young people are taking over family farms, which raises real questions about who will work the land in the coming decades.",
+              "examples": [
+                { "french": "Le nombre d'exploitations a fortement diminué depuis les années 1980.", "english": "The number of farms has fallen sharply since the 1980s." },
+                { "french": "L'âge moyen des agriculteurs ne cesse d'augmenter.", "english": "The average age of farmers keeps rising." },
+                { "french": "Beaucoup de jeunes hésitent à reprendre la ferme familiale.", "english": "Many young people hesitate to take over the family farm." },
+                { "french": "Sans repreneur, certaines petites exploitations disparaissent.", "english": "Without a successor, some small farms disappear." }
+              ],
+              "tip": "'Reprendre une exploitation' (to take over a farm) is the key phrase for any discussion of rural succession in France."
+            },
+            {
+              "heading": "Entre soutien public et incertitude économique",
+              "body": "Part of many French farmers' income depends on subsidies, since prices for raw agricultural products can swing sharply from one harvest to the next. This financial pressure is one reason the farming world periodically organises public protests — a fact worth noting descriptively, without taking a side on any particular demand.",
+              "examples": [
+                { "french": "Une partie du revenu des agriculteurs dépend des subventions.", "english": "Part of farmers' income depends on subsidies." },
+                { "french": "Les prix agricoles varient selon les récoltes et la météo.", "english": "Agricultural prices vary according to harvests and weather." },
+                { "french": "Certains agriculteurs peinent à vivre de leur travail.", "english": "Some farmers struggle to make a living from their work." },
+                { "french": "Des manifestations rassemblent régulièrement le monde agricole.", "english": "Protests regularly bring together the farming world." }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "l-agriculture", "french": "l'agriculture", "english": "farming, agriculture", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah-gree-kul-tur", "example": "L'agriculture occupe une place importante dans l'économie française.", "exampleEnglish": "Farming plays an important role in the French economy.", "level": "B2", "category": "agriculture" },
+            { "id": "l-agriculteur", "french": "l'agriculteur", "english": "the farmer (m)", "partOfSpeech": "noun", "gender": "m", "plural": "les agriculteurs", "pronunciation": "lah-gree-kul-tur", "example": "L'agriculteur se lève avant l'aube pour s'occuper des bêtes.", "exampleEnglish": "The farmer gets up before dawn to look after the animals.", "level": "B2", "category": "agriculture" },
+            { "id": "l-agricultrice", "french": "l'agricultrice", "english": "the farmer (f)", "partOfSpeech": "noun", "gender": "f", "plural": "les agricultrices", "pronunciation": "lah-gree-kul-trees", "example": "L'agricultrice a repris l'exploitation de ses parents à vingt-cinq ans.", "exampleEnglish": "The farmer took over her parents' farm at twenty-five.", "level": "B2", "category": "agriculture" },
+            { "id": "la-ferme", "french": "la ferme", "english": "the farm", "partOfSpeech": "noun", "gender": "f", "plural": "les fermes", "pronunciation": "lah fairm", "example": "La ferme se trouve à quelques kilomètres du village.", "exampleEnglish": "The farm is a few kilometres from the village.", "level": "B2", "category": "agriculture" },
+            { "id": "le-fermier", "french": "le fermier / la fermière", "english": "the smallholder, the tenant farmer", "partOfSpeech": "noun", "gender": "m", "plural": "les fermiers", "pronunciation": "luh fair-myay", "example": "Le fermier loue ses terres à un propriétaire.", "exampleEnglish": "The tenant farmer rents his land from an owner.", "level": "B2", "category": "agriculture" },
+            { "id": "le-paysan", "french": "le paysan / la paysanne", "english": "the farmer, the countryman", "partOfSpeech": "noun", "gender": "m", "plural": "les paysans", "pronunciation": "luh pay-ee-zahn", "example": "Son grand-père préférait se présenter comme paysan, pas agriculteur.", "exampleEnglish": "His grandfather preferred to call himself a countryman, not a farmer.", "level": "B2", "category": "agriculture" },
+            { "id": "champ", "french": "le champ", "english": "the field", "partOfSpeech": "noun", "gender": "m", "plural": "les champs", "pronunciation": "luh shahn", "example": "Le blé pousse dans ce champ depuis trois générations.", "exampleEnglish": "Wheat has grown in this field for three generations.", "level": "B2", "category": "agriculture" },
+            { "id": "la-recolte", "french": "la récolte", "english": "the harvest", "partOfSpeech": "noun", "gender": "f", "plural": "les récoltes", "pronunciation": "lah ray-kolt", "example": "La récolte de cette année s'annonce meilleure que la précédente.", "exampleEnglish": "This year's harvest looks better than the previous one.", "level": "B2", "category": "agriculture" },
+            { "id": "recolter", "french": "récolter", "english": "to harvest", "partOfSpeech": "verb", "pronunciation": "ray-kol-tay", "example": "On récolte le blé au début de l'été.", "exampleEnglish": "Wheat is harvested at the start of summer.", "level": "B2", "category": "agriculture" },
+            { "id": "cultiver", "french": "cultiver", "english": "to grow, to farm (land)", "partOfSpeech": "verb", "pronunciation": "kul-tee-vay", "example": "Cette famille cultive la même parcelle depuis 1920.", "exampleEnglish": "This family has farmed the same plot since 1920.", "level": "B2", "category": "agriculture" },
+            { "id": "une-culture", "french": "une culture", "english": "a crop", "partOfSpeech": "noun", "gender": "f", "plural": "des cultures", "pronunciation": "ün kul-tur", "example": "Le maïs est une culture qui demande beaucoup d'eau.", "exampleEnglish": "Corn is a crop that needs a lot of water.", "level": "B2", "category": "agriculture" },
+            { "id": "la-terre", "french": "la terre", "english": "the land, the soil", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah tair", "example": "Cette terre est cultivée depuis des siècles.", "exampleEnglish": "This land has been farmed for centuries.", "level": "B2", "category": "agriculture" },
+            { "id": "l-exploitation-agricole", "french": "l'exploitation agricole", "english": "the farm, the agricultural holding", "partOfSpeech": "noun", "gender": "f", "plural": "les exploitations agricoles", "pronunciation": "lex-plwah-tah-syon ah-gree-kol", "example": "L'exploitation compte quarante hectares de blé.", "exampleEnglish": "The holding covers forty hectares of wheat.", "level": "B2", "category": "agriculture" },
+            { "id": "la-cooperative", "french": "la coopérative", "english": "the cooperative", "partOfSpeech": "noun", "gender": "f", "plural": "les coopératives", "pronunciation": "lah koh-oh-pay-rah-teev", "example": "Les agriculteurs vendent leur récolte à la coopérative locale.", "exampleEnglish": "The farmers sell their harvest to the local cooperative.", "level": "B2", "category": "agriculture" },
+            { "id": "le-rendement", "french": "le rendement", "english": "the yield", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh rahn-duh-mahn", "example": "Le rendement d'un champ dépend beaucoup de la météo.", "exampleEnglish": "A field's yield depends a great deal on the weather.", "level": "B2", "category": "agriculture" },
+            { "id": "la-moisson", "french": "la moisson", "english": "the grain harvest", "partOfSpeech": "noun", "gender": "f", "plural": "les moissons", "pronunciation": "lah mwah-son", "example": "La moisson commence dès que le blé est mûr.", "exampleEnglish": "The grain harvest starts as soon as the wheat is ripe.", "level": "B2", "category": "agriculture" },
+            { "id": "le-tracteur", "french": "le tracteur", "english": "the tractor", "partOfSpeech": "noun", "gender": "m", "plural": "les tracteurs", "pronunciation": "luh trak-tur", "example": "Le tracteur a remplacé le cheval dans la plupart des fermes.", "exampleEnglish": "The tractor has replaced the horse on most farms.", "level": "B2", "category": "agriculture" },
+            { "id": "semer", "french": "semer", "english": "to sow", "partOfSpeech": "verb", "pronunciation": "suh-may", "example": "On sème le blé à l'automne dans cette région.", "exampleEnglish": "Wheat is sown in autumn in this region.", "level": "B2", "category": "agriculture" },
+            { "id": "la-graine", "french": "la graine", "english": "the seed", "partOfSpeech": "noun", "gender": "f", "plural": "les graines", "pronunciation": "lah gren", "example": "Il garde chaque année une partie des graines pour la saison suivante.", "exampleEnglish": "Every year he keeps some seed for the following season.", "level": "B2", "category": "agriculture" },
+            { "id": "la-vigne", "french": "la vigne", "english": "the vine, the grapevine", "partOfSpeech": "noun", "gender": "f", "plural": "les vignes", "pronunciation": "lah veen-yuh", "example": "Les vignes couvrent les collines autour du village.", "exampleEnglish": "Vines cover the hills around the village.", "level": "B2", "category": "agriculture" },
+            { "id": "vignoble", "french": "le vignoble", "english": "the vineyard", "partOfSpeech": "noun", "gender": "m", "plural": "les vignobles", "pronunciation": "luh veen-yobl", "example": "Le vignoble familial existe depuis quatre générations.", "exampleEnglish": "The family vineyard has existed for four generations.", "level": "B2", "category": "agriculture" },
+            { "id": "le-vigneron", "french": "le vigneron / la vigneronne", "english": "the winegrower", "partOfSpeech": "noun", "gender": "m", "plural": "les vignerons", "pronunciation": "luh veen-yuh-ron", "example": "Le vigneron surveille ses vignes chaque matin.", "exampleEnglish": "The winegrower checks his vines every morning.", "level": "B2", "category": "agriculture" },
+            { "id": "la-vendange", "french": "la vendange", "english": "the grape harvest", "partOfSpeech": "noun", "gender": "f", "plural": "les vendanges", "pronunciation": "lah vahn-dahnj", "example": "Toute la famille aide pendant la vendange.", "exampleEnglish": "The whole family helps during the grape harvest.", "level": "B2", "category": "agriculture" },
+            { "id": "l-elevage", "french": "l'élevage", "english": "livestock farming", "partOfSpeech": "noun", "gender": "m", "pronunciation": "lay-luh-vahj", "example": "L'élevage laitier reste important en Normandie.", "exampleEnglish": "Dairy farming remains important in Normandy.", "level": "B2", "category": "agriculture" },
+            { "id": "elever", "french": "élever", "english": "to raise, to rear (animals)", "partOfSpeech": "verb", "pronunciation": "ay-luh-vay", "example": "Sa famille élève des vaches laitières depuis toujours.", "exampleEnglish": "His family has always raised dairy cows.", "level": "B2", "category": "agriculture" },
+            { "id": "le-troupeau", "french": "le troupeau", "english": "the herd", "partOfSpeech": "noun", "gender": "m", "plural": "les troupeaux", "pronunciation": "luh troo-poh", "example": "Le troupeau passe l'été dans les alpages.", "exampleEnglish": "The herd spends the summer in the mountain pastures.", "level": "B2", "category": "agriculture" },
+            { "id": "la-vache", "french": "la vache", "english": "the cow", "partOfSpeech": "noun", "gender": "f", "plural": "les vaches", "pronunciation": "lah vash", "example": "Les vaches broutent dans le pré derrière la ferme.", "exampleEnglish": "The cows graze in the meadow behind the farm.", "level": "B2", "category": "agriculture" },
+            { "id": "la-main-d-oeuvre", "french": "la main-d'œuvre", "english": "the workforce, the labour", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah man-duhv-ruh", "example": "La ferme manque de main-d'œuvre au moment des récoltes.", "exampleEnglish": "The farm lacks workers at harvest time.", "level": "B2", "category": "agriculture" },
+            { "id": "le-pesticide", "french": "le pesticide", "english": "the pesticide", "partOfSpeech": "noun", "gender": "m", "plural": "les pesticides", "pronunciation": "luh pes-tee-seed", "example": "Certains producteurs réduisent peu à peu leur usage de pesticides.", "exampleEnglish": "Some producers are gradually reducing their pesticide use.", "level": "B2", "category": "agriculture" },
+            { "id": "bio", "french": "bio", "english": "organic", "partOfSpeech": "adjective", "pronunciation": "byoh", "example": "La conversion au bio prend souvent plusieurs années.", "exampleEnglish": "Converting to organic often takes several years.", "level": "B2", "category": "agriculture" },
+            { "id": "transmettre", "french": "transmettre", "english": "to pass on, to hand down", "partOfSpeech": "verb", "pronunciation": "trahns-metr", "example": "Il espère transmettre la ferme à sa fille.", "exampleEnglish": "He hopes to pass the farm on to his daughter.", "level": "B2", "category": "agriculture" },
+            { "id": "le-savoir-faire", "french": "le savoir-faire", "english": "the know-how, the expertise", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh sah-vwahr fair", "example": "Ce savoir-faire se transmet de génération en génération.", "exampleEnglish": "This know-how is passed down from generation to generation.", "level": "B2", "category": "agriculture" },
+            { "id": "subvention", "french": "la subvention", "english": "the subsidy", "partOfSpeech": "noun", "gender": "f", "plural": "les subventions", "pronunciation": "lah sub-vahn-syon", "example": "Sans subvention, l'exploitation ne serait pas rentable.", "exampleEnglish": "Without a subsidy, the farm wouldn't be profitable.", "level": "B2", "category": "agriculture" },
+            { "id": "le-revenu", "french": "le revenu", "english": "the income", "partOfSpeech": "noun", "gender": "m", "plural": "les revenus", "pronunciation": "luh ruh-vuh-nu", "example": "Le revenu des agriculteurs varie fortement d'une année à l'autre.", "exampleEnglish": "Farmers' income varies a great deal from one year to the next.", "level": "B2", "category": "agriculture" },
+            { "id": "la-crise", "french": "la crise", "english": "the crisis", "partOfSpeech": "noun", "gender": "f", "plural": "les crises", "pronunciation": "lah kreez", "example": "La crise agricole inquiète les élus locaux.", "exampleEnglish": "The farming crisis worries local officials.", "level": "B2", "category": "agriculture" },
+            { "id": "manifestation", "french": "la manifestation", "english": "the protest, the demonstration", "partOfSpeech": "noun", "gender": "f", "plural": "les manifestations", "pronunciation": "lah mah-nee-fes-tah-syon", "example": "Une manifestation d'agriculteurs a bloqué la route ce matin.", "exampleEnglish": "A farmers' protest blocked the road this morning.", "level": "B2", "category": "agriculture" },
+            { "id": "manifester", "french": "manifester", "english": "to protest, to demonstrate", "partOfSpeech": "verb", "pronunciation": "mah-nee-fes-tay", "example": "Des agriculteurs manifestent devant la préfecture.", "exampleEnglish": "Farmers are protesting in front of the prefecture.", "level": "B2", "category": "agriculture" },
+            { "id": "syndicat", "french": "le syndicat", "english": "the union", "partOfSpeech": "noun", "gender": "m", "plural": "les syndicats", "pronunciation": "luh san-dee-kah", "example": "Le syndicat agricole défend les intérêts des producteurs.", "exampleEnglish": "The farming union defends producers' interests.", "level": "B2", "category": "agriculture" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Le gérondif : décrire deux actions en même temps",
+              "body": "The gerund (en + present participle) describes an action happening at the same time as, or as the means of, another action. It is very common when describing farm work, since many agricultural tasks are described as done 'while' doing something else.",
+              "examples": [
+                { "french": "L'agricultrice surveille son troupeau en réparant la clôture.", "english": "The farmer watches her herd while repairing the fence." },
+                { "french": "On améliore le rendement en changeant de variété de blé.", "english": "You improve yield by changing wheat variety." },
+                { "french": "En cultivant sans pesticides, certains producteurs réduisent leurs coûts.", "english": "By farming without pesticides, some producers cut their costs." },
+                { "french": "Il gère l'exploitation en gardant un œil sur les prix du marché.", "english": "He runs the farm while keeping an eye on market prices." }
+              ],
+              "tip": "The gerund's subject must be the same as the main verb's subject — if the subjects differ, use a subordinate clause instead."
+            },
+            {
+              "heading": "La voix passive : décrire un processus",
+              "body": "The passive voice (être + past participle) shifts focus from the person acting to the process itself — useful when describing how something is produced or regulated rather than who is responsible.",
+              "examples": [
+                { "french": "Le blé est récolté au début de l'été.", "english": "Wheat is harvested at the start of summer." },
+                { "french": "Ces terres sont cultivées depuis des générations.", "english": "This land has been farmed for generations." },
+                { "french": "Les prix agricoles sont fixés par le marché européen.", "english": "Agricultural prices are set by the European market." },
+                { "french": "Une grande partie du revenu est complétée par des subventions.", "english": "A large part of income is supplemented by subsidies." }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "b2_u22_l01_li01", "type": "listenChoose", "french": "L'âge moyen des agriculteurs ne cesse d'augmenter.", "options": ["The average age of farmers keeps rising.", "The number of farmers has doubled.", "Young farmers are very numerous.", "Farming income has stabilised."], "answer": "The average age of farmers keeps rising." },
+            { "id": "b2_u22_l01_li02", "type": "listenChoose", "french": "Sans repreneur, certaines petites exploitations disparaissent.", "options": ["Some small farms are expanding fast.", "Without a successor, some small farms disappear.", "Small farms never close down.", "The government buys every small farm."], "answer": "Without a successor, some small farms disappear." },
+            { "id": "b2_u22_l01_li03", "type": "listenType", "french": "Le blé est récolté au début de l'été.", "answer": "Le blé est récolté au début de l'été.", "acceptedAnswers": ["Le ble est recolte au debut de l'ete", "le ble est recolte au debut de l'ete"] },
+            { "id": "b2_u22_l01_li04", "type": "dictation", "french": "Une partie du revenu des agriculteurs dépend des subventions.", "answer": "Une partie du revenu des agriculteurs dépend des subventions.", "acceptedAnswers": ["Une partie du revenu des agriculteurs depend des subventions", "une partie du revenu des agriculteurs depend des subventions"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "b2_u22_l01_sp01", "type": "speak", "french": "Selon vous, pourquoi de moins en moins de jeunes reprennent-ils la ferme familiale ?", "english": "In your view, why are fewer and fewer young people taking over the family farm?", "prompt": "Give two possible reasons, using 'parce que' or 'car'.", "tip": "Stress the nasal sound in 'reprennent' clearly: ruh-PREN." },
+            { "id": "b2_u22_l01_sp02", "type": "speak", "french": "Décrivez, en trois phrases, une exploitation agricole imaginaire.", "english": "Describe, in three sentences, an imaginary farm.", "prompt": "Invent a farm (crops, animals, size) and describe it using the gerund at least once.", "tip": "Keep your gerund clause short: 'en cultivant...', 'en élevant...'." },
+            { "id": "b2_u22_l01_sp03", "type": "speak", "french": "Le revenu des agriculteurs devrait-il dépendre autant des subventions ?", "english": "Should farmers' income depend so heavily on subsidies?", "prompt": "Give a balanced answer that acknowledges both sides before giving your opinion.", "tip": "Open with 'D'un côté... de l'autre...' to show you're weighing both views." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "La ferme des Trois Chênes",
+              "french": "Camille Bertrand a repris l'exploitation familiale il y a six ans, à vingt-sept ans, après des études d'ingénieure agronome à Toulouse.\nSes parents cultivaient surtout du blé et du maïs sur une trentaine d'hectares, dans la Beauce.\nEn reprenant la ferme, Camille a gardé les grandes cultures, mais elle a aussi ajouté un petit troupeau de vaches laitières.\n« Je voulais diversifier, explique-t-elle, parce qu'une seule culture, c'est risqué : une mauvaise récolte, et tout le revenu de l'année s'effondre. »\nElle a également converti une partie des champs au bio, une démarche longue qui a duré près de trois ans avant la première certification.\nLe rendement a d'abord baissé, ce qui a inquiété ses parents, habitués à une agriculture plus intensive.\nLe climat, de plus en plus imprévisible d'une saison à l'autre, complique encore chacun de ses choix.\n« Aujourd'hui, en vendant en circuit court sur le marché du village, je gagne presque autant qu'avant, tout en utilisant moins de pesticides », précise-t-elle.\nCamille reconnaît toutefois que la vie n'est pas simple : les journées sont longues, la main-d'œuvre manque souvent au moment des récoltes, et les prix agricoles restent imprévisibles.\nElle participe parfois aux manifestations organisées par le syndicat local, sans se sentir représentée par tous les discours qu'on y entend.\n« Ce que je veux, dit-elle, c'est transmettre un jour cette ferme à quelqu'un qui aura autant de plaisir que moi à la faire vivre. »\nSon histoire n'est pas unique, mais elle illustre bien les choix auxquels fait face une nouvelle génération d'agriculteurs français.",
+              "english": "Camille Bertrand took over the family farm six years ago, at twenty-seven, after studying agricultural engineering in Toulouse.\nHer parents mainly grew wheat and corn on about thirty hectares, in the Beauce region.\nWhen she took over the farm, Camille kept the large-scale crops, but also added a small herd of dairy cows.\n\"I wanted to diversify,\" she explains, \"because relying on a single crop is risky: one bad harvest and the whole year's income collapses.\"\nShe also converted part of the fields to organic farming, a lengthy process that took nearly three years before the first certification.\nYield dropped at first, which worried her parents, who were used to more intensive farming.\nThe climate, increasingly unpredictable from one season to the next, complicates each of her choices even further.\n\"Today, selling through short supply chains at the village market, I earn almost as much as before, while using fewer pesticides,\" she notes.\nCamille admits, however, that life isn't simple: the days are long, labour is often lacking at harvest time, and agricultural prices remain unpredictable.\nShe sometimes takes part in protests organised by the local union, without feeling represented by everything said there.\n\"What I want,\" she says, \"is to one day pass this farm on to someone who will enjoy running it as much as I do.\"\nHer story isn't unique, but it illustrates well the choices facing a new generation of French farmers.",
+              "questions": [
+                { "id": "b2_u22_l01_rd01", "type": "multipleChoice", "prompt": "Pourquoi Camille a-t-elle ajouté un troupeau de vaches laitières ?", "options": ["Pour arrêter complètement les grandes cultures", "Pour diversifier et réduire le risque financier", "Parce que ses parents le lui ont imposé", "Pour obtenir plus de subventions"], "answer": "Pour diversifier et réduire le risque financier" },
+                { "id": "b2_u22_l01_rd02", "type": "trueFalse", "prompt": "Le rendement a immédiatement augmenté après la conversion au bio.", "options": ["True", "False"], "answer": "False" },
+                { "id": "b2_u22_l01_rd03", "type": "multipleChoice", "prompt": "Comment Camille décrit-elle sa relation avec le syndicat local ?", "options": ["Elle en est la présidente", "Elle refuse d'y participer", "Elle y participe parfois, sans se sentir représentée par tout", "Elle n'en a jamais entendu parler"], "answer": "Elle y participe parfois, sans se sentir représentée par tout" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "b2_u22_l01_wr01", "type": "translate", "prompt": "Translate: Without a successor, some small farms disappear.", "english": "Without a successor, some small farms disappear.", "answer": "Sans repreneur, certaines petites exploitations disparaissent.", "acceptedAnswers": ["Sans repreneur, certaines petites exploitations disparaissent", "sans repreneur certaines petites exploitations disparaissent"] },
+            { "id": "b2_u22_l01_wr02", "type": "arrangeWords", "words": ["dépend", "revenu", "Une", "partie", "du", "des", "subventions"], "answer": "Une partie du revenu dépend des subventions", "english": "Part of the income depends on subsidies." },
+            { "id": "b2_u22_l01_wr03", "type": "translate", "prompt": "Translate: She converted part of the fields to organic farming.", "english": "She converted part of the fields to organic farming.", "answer": "Elle a converti une partie des champs au bio.", "acceptedAnswers": ["Elle a converti une partie des champs au bio", "elle a converti une partie des champs au bio"] }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "b2_u22_l01_pr01", "type": "multipleChoice", "prompt": "Quel mot désigne un groupe d'animaux d'élevage ?", "options": ["le troupeau", "la graine", "le tracteur", "la moisson"], "answer": "le troupeau" },
+            { "id": "b2_u22_l01_pr02", "type": "fillBlank", "prompt": "Le vigneron s'occupe de la ___ chaque automne.", "answer": "vendange" },
+            { "id": "b2_u22_l01_pr03", "type": "match", "pairs": [ { "french": "semer", "english": "to sow" }, { "french": "récolter", "english": "to harvest" }, { "french": "élever", "english": "to raise (animals)" }, { "french": "cultiver", "english": "to grow, to farm" } ] },
+            { "id": "b2_u22_l01_pr04", "type": "trueFalse", "prompt": "La coopérative permet aux agriculteurs de vendre leur récolte ensemble.", "options": ["True", "False"], "answer": "True" },
+            { "id": "b2_u22_l01_pr05", "type": "arrangeWords", "words": ["est", "récolté", "Le", "été", "d'", "blé", "au", "début", "l'"], "answer": "Le blé est récolté au début de l'été", "english": "The wheat is harvested at the start of summer." },
+            { "id": "b2_u22_l01_pr06", "type": "multipleChoice", "prompt": "Quel terme désigne une ferme dans un contexte plus formel ou administratif ?", "options": ["l'exploitation agricole", "le champ", "la graine", "le tracteur"], "answer": "l'exploitation agricole" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "b2_u22_l01_qz01", "type": "multipleChoice", "prompt": "Que signifie « le rendement » ?", "options": ["the yield", "the seed", "the fence", "the union"], "answer": "the yield" },
+            { "id": "b2_u22_l01_qz02", "type": "translate", "prompt": "Translate: Farmers' income varies a great deal.", "english": "Farmers' income varies a great deal.", "answer": "Le revenu des agriculteurs varie fortement.", "acceptedAnswers": ["Le revenu des agriculteurs varie fortement", "le revenu des agriculteurs varie fortement"] },
+            { "id": "b2_u22_l01_qz03", "type": "trueFalse", "prompt": "Dans le texte, Camille a immédiatement abandonné les grandes cultures en reprenant la ferme.", "options": ["True", "False"], "answer": "False" },
+            { "id": "b2_u22_l01_qz04", "type": "fillBlank", "prompt": "Le blé est ___ au début de l'été. (voix passive de récolter)", "answer": "récolté" },
+            { "id": "b2_u22_l01_qz05", "type": "listenChoose", "french": "Beaucoup de jeunes hésitent à reprendre la ferme familiale.", "options": ["Many young people hesitate to take over the family farm.", "Many young people never leave their village.", "Farms are always passed to the eldest child.", "Young people prefer working in cooperatives."], "answer": "Many young people hesitate to take over the family farm." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2_u22_l02",
+      "level": "B2",
+      "unit": 22,
+      "title": "Le bien-être animal",
+      "description": "Examine the animal welfare debate in French farming: intensive vs. extensive systems, competing arguments, and how to discuss them in a balanced, attributed way.",
+      "estimatedMinutes": 19,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Un débat aux positions multiples",
+              "body": "Animal welfare in farming is a genuinely contested topic in France, with several positions rather than two neat camps. Some prioritise animal comfort above all, others weigh it against farm income, and many people hold nuanced, mixed opinions rather than a fixed stance.",
+              "examples": [
+                { "french": "Le bien-être animal divise autant les éleveurs que les consommateurs.", "english": "Animal welfare divides farmers as much as consumers." },
+                { "french": "Certains associations dénoncent l'élevage intensif.", "english": "Some associations denounce intensive farming." },
+                { "french": "D'autres rappellent que l'élevage fait vivre des milliers de familles.", "english": "Others point out that farming supports thousands of families." },
+                { "french": "Beaucoup de Français ont un avis mitigé sur la question.", "english": "Many French people have a mixed opinion on the issue." }
+              ],
+              "tip": "When discussing this topic in French, attribute opinions explicitly: 'selon les associations...', 'du point de vue des éleveurs...' — avoid presenting one side as simply true."
+            },
+            {
+              "heading": "Élevage intensif et élevage en plein air",
+              "body": "Farming systems in France range from intensive, high-density operations to extensive, outdoor rearing. Each has trade-offs: intensive systems can lower prices and increase yield, while extensive systems are often associated with lower animal stress but higher costs.",
+              "examples": [
+                { "french": "Dans un élevage intensif, la densité d'animaux est plus élevée.", "english": "In intensive farming, animal density is higher." },
+                { "french": "L'élevage en plein air laisse plus d'espace aux animaux.", "english": "Outdoor farming gives animals more space." },
+                { "french": "Les défenseurs de l'élevage intensif évoquent des prix plus bas.", "english": "Defenders of intensive farming point to lower prices." },
+                { "french": "Les opposants estiment que le confinement cause du stress.", "english": "Opponents believe confinement causes stress." }
+              ]
+            },
+            {
+              "heading": "Labels, normes et confiance du consommateur",
+              "body": "Labels and certifications try to reassure consumers about how animals were raised, though critics on all sides question whether the rules are strict enough or too costly for small farms to meet. Discussing this requires citing sources rather than asserting a single truth.",
+              "examples": [
+                { "french": "Un label certifie que certaines normes de bien-être sont respectées.", "english": "A label certifies that certain welfare standards are respected." },
+                { "french": "Certains reprochent aux labels d'être trop peu exigeants.", "english": "Some criticise labels for being too lenient." },
+                { "french": "D'autres estiment que les petites fermes ne peuvent pas payer la certification.", "english": "Others believe small farms can't afford certification." },
+                { "french": "Selon une association de défense des animaux, la réglementation devrait être renforcée.", "english": "According to an animal rights association, regulations should be strengthened." }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "le-bien-etre-animal", "french": "le bien-être animal", "english": "animal welfare", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh byan-etr ah-nee-mal", "example": "Le bien-être animal est devenu un sujet de débat public.", "exampleEnglish": "Animal welfare has become a topic of public debate.", "level": "B2", "category": "animal-welfare" },
+            { "id": "l-elevage-intensif", "french": "l'élevage intensif", "english": "intensive farming", "partOfSpeech": "noun", "gender": "m", "pronunciation": "lay-luh-vahj an-tan-seef", "example": "L'élevage intensif permet de produire à moindre coût.", "exampleEnglish": "Intensive farming makes it possible to produce at lower cost." , "level": "B2", "category": "animal-welfare" },
+            { "id": "l-elevage-plein-air", "french": "l'élevage en plein air", "english": "outdoor farming, free-range farming", "partOfSpeech": "noun", "gender": "m", "pronunciation": "lay-luh-vahj ahn plen air", "example": "L'élevage en plein air demande plus d'espace et de temps.", "exampleEnglish": "Outdoor farming requires more space and time.", "level": "B2", "category": "animal-welfare" },
+            { "id": "la-cage", "french": "la cage", "english": "the cage", "partOfSpeech": "noun", "gender": "f", "plural": "les cages", "pronunciation": "lah kahj", "example": "Certaines associations demandent la fin des cages en élevage.", "exampleEnglish": "Some associations are calling for an end to cages in farming.", "level": "B2", "category": "animal-welfare" },
+            { "id": "l-abattoir", "french": "l'abattoir", "english": "the slaughterhouse", "partOfSpeech": "noun", "gender": "m", "plural": "les abattoirs", "pronunciation": "lah-bah-twahr", "example": "Les conditions dans les abattoirs sont régulièrement inspectées.", "exampleEnglish": "Conditions in slaughterhouses are regularly inspected.", "level": "B2", "category": "animal-welfare" },
+            { "id": "l-abattage", "french": "l'abattage", "english": "the slaughter", "partOfSpeech": "noun", "gender": "m", "pronunciation": "lah-bah-tahj", "example": "Les méthodes d'abattage font l'objet de nombreux débats.", "exampleEnglish": "Slaughter methods are the subject of many debates.", "level": "B2", "category": "animal-welfare" },
+            { "id": "la-souffrance", "french": "la souffrance", "english": "the suffering", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah soo-frahns", "example": "L'association affirme vouloir réduire la souffrance animale.", "exampleEnglish": "The association says it wants to reduce animal suffering.", "level": "B2", "category": "animal-welfare" },
+            { "id": "souffrir", "french": "souffrir", "english": "to suffer", "partOfSpeech": "verb", "pronunciation": "soo-freer", "example": "Selon certains chercheurs, les animaux confinés souffrent davantage.", "exampleEnglish": "According to some researchers, confined animals suffer more.", "level": "B2", "category": "animal-welfare" },
+            { "id": "le-stress", "french": "le stress", "english": "stress", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh stress", "example": "Le transport peut provoquer un stress important chez les animaux.", "exampleEnglish": "Transport can cause significant stress in animals.", "level": "B2", "category": "animal-welfare" },
+            { "id": "le-confinement", "french": "le confinement", "english": "the confinement", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh kon-feen-mahn", "example": "Les opposants critiquent le confinement prolongé des animaux.", "exampleEnglish": "Opponents criticise the prolonged confinement of animals.", "level": "B2", "category": "animal-welfare" },
+            { "id": "la-maltraitance", "french": "la maltraitance", "english": "mistreatment, abuse", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah mal-tray-tahns", "example": "L'association enquête sur des cas présumés de maltraitance.", "exampleEnglish": "The association is investigating alleged cases of mistreatment.", "level": "B2", "category": "animal-welfare" },
+            { "id": "maltraiter", "french": "maltraiter", "english": "to mistreat", "partOfSpeech": "verb", "pronunciation": "mal-tray-tay", "example": "L'éleveur accusé nie avoir maltraité ses bêtes.", "exampleEnglish": "The accused farmer denies having mistreated his animals.", "level": "B2", "category": "animal-welfare" },
+            { "id": "norme", "french": "la norme", "english": "the standard, the norm", "partOfSpeech": "noun", "gender": "f", "plural": "les normes", "pronunciation": "lah norm", "example": "De nouvelles normes de bien-être entrent en vigueur cette année.", "exampleEnglish": "New welfare standards come into effect this year.", "level": "B2", "category": "animal-welfare" },
+            { "id": "le-label", "french": "le label", "english": "the label, the certification mark", "partOfSpeech": "noun", "gender": "m", "plural": "les labels", "pronunciation": "luh lah-bel", "example": "Ce label garantit un espace minimal par animal.", "exampleEnglish": "This label guarantees a minimum space per animal.", "level": "B2", "category": "animal-welfare" },
+            { "id": "la-certification", "french": "la certification", "english": "the certification", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah sair-tee-fee-kah-syon", "example": "La certification coûte cher pour une petite exploitation.", "exampleEnglish": "Certification is expensive for a small farm.", "level": "B2", "category": "animal-welfare" },
+            { "id": "certifier", "french": "certifier", "english": "to certify", "partOfSpeech": "verb", "pronunciation": "sair-tee-fyay", "example": "Un organisme indépendant certifie le respect des normes.", "exampleEnglish": "An independent body certifies compliance with the standards.", "level": "B2", "category": "animal-welfare" },
+            { "id": "respecter", "french": "respecter", "english": "to respect, to comply with", "partOfSpeech": "verb", "pronunciation": "res-pek-tay", "example": "Toutes les fermes ne respectent pas les mêmes normes.", "exampleEnglish": "Not all farms comply with the same standards.", "level": "B2", "category": "animal-welfare" },
+            { "id": "respect", "french": "le respect", "english": "the respect, the compliance", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh res-pay", "example": "Le respect du bien-être animal varie selon les élevages.", "exampleEnglish": "Compliance with animal welfare varies between farms.", "level": "B2", "category": "animal-welfare" },
+            { "id": "la-sensibilite", "french": "la sensibilité", "english": "the sensitivity", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah sahn-see-bee-lee-tay", "example": "La sensibilité des animaux à la douleur est de mieux en mieux connue.", "exampleEnglish": "Animals' sensitivity to pain is increasingly well understood.", "level": "B2", "category": "animal-welfare" },
+            { "id": "sensible", "french": "sensible", "english": "sensitive", "partOfSpeech": "adjective", "pronunciation": "sahn-seebl", "example": "C'est un sujet sensible qui divise les familles rurales.", "exampleEnglish": "It's a sensitive topic that divides rural families.", "level": "B2", "category": "animal-welfare" },
+            { "id": "la-conscience", "french": "la conscience", "english": "the awareness, the consciousness", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah kon-syahns", "example": "La conscience animale reste un sujet de recherche actif.", "exampleEnglish": "Animal consciousness remains an active area of research.", "level": "B2", "category": "animal-welfare" },
+            { "id": "l-ethique", "french": "l'éthique", "english": "the ethics", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lay-teek", "example": "L'éthique de l'élevage fait débat depuis des décennies.", "exampleEnglish": "The ethics of farming has been debated for decades.", "level": "B2", "category": "animal-welfare" },
+            { "id": "vegetarien", "french": "végétarien", "english": "vegetarian", "partOfSpeech": "adjective", "pronunciation": "vay-zhay-tah-ryan", "example": "De plus en plus de Français se disent végétariens.", "exampleEnglish": "More and more French people say they are vegetarian.", "level": "B2", "category": "animal-welfare" },
+            { "id": "le-veganisme", "french": "le véganisme", "english": "veganism", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh vay-gah-neesm", "example": "Le véganisme reste minoritaire mais progresse en France.", "exampleEnglish": "Veganism remains a minority choice but is growing in France.", "level": "B2", "category": "animal-welfare" },
+            { "id": "vegane", "french": "végane", "english": "vegan", "partOfSpeech": "adjective", "pronunciation": "vay-gahn", "example": "Le restaurant propose désormais un menu végane.", "exampleEnglish": "The restaurant now offers a vegan menu.", "level": "B2", "category": "animal-welfare" },
+            { "id": "viande", "french": "la viande", "english": "meat", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah vyahnd", "example": "La consommation de viande a légèrement baissé ces dernières années.", "exampleEnglish": "Meat consumption has slightly decreased in recent years.", "level": "B2", "category": "animal-welfare" },
+            { "id": "reduire", "french": "réduire", "english": "to reduce", "partOfSpeech": "verb", "pronunciation": "ray-dweer", "example": "Certains consommateurs choisissent de réduire leur consommation de viande.", "exampleEnglish": "Some consumers choose to reduce their meat consumption.", "level": "B2", "category": "animal-welfare" },
+            { "id": "consommation", "french": "la consommation", "english": "the consumption", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah kon-soh-mah-syon", "example": "La consommation de viande varie beaucoup selon les pays.", "exampleEnglish": "Meat consumption varies a great deal from country to country.", "level": "B2", "category": "animal-welfare" },
+            { "id": "la-densite", "french": "la densité", "english": "the density", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah dahn-see-tay", "example": "La densité d'animaux par mètre carré fait débat.", "exampleEnglish": "The density of animals per square metre is debated.", "level": "B2", "category": "animal-welfare" },
+            { "id": "la-reglementation", "french": "la réglementation", "english": "the regulation", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah ray-gleh-mahn-tah-syon", "example": "La réglementation sur le bien-être animal évolue régulièrement.", "exampleEnglish": "Regulation on animal welfare changes regularly.", "level": "B2", "category": "animal-welfare" },
+            { "id": "reglementer", "french": "réglementer", "english": "to regulate", "partOfSpeech": "verb", "pronunciation": "ray-gleh-mahn-tay", "example": "L'Union européenne réglemente le transport des animaux.", "exampleEnglish": "The European Union regulates animal transport.", "level": "B2", "category": "animal-welfare" },
+            { "id": "controverse", "french": "controversé", "english": "controversial", "partOfSpeech": "adjective", "pronunciation": "kon-tro-vair-say", "example": "L'élevage en cage reste une pratique controversée.", "exampleEnglish": "Cage farming remains a controversial practice.", "level": "B2", "category": "animal-welfare" },
+            { "id": "denoncer", "french": "dénoncer", "english": "to denounce, to condemn", "partOfSpeech": "verb", "pronunciation": "day-non-say", "example": "L'association dénonce des conditions d'élevage jugées trop dures.", "exampleEnglish": "The association denounces farming conditions it considers too harsh.", "level": "B2", "category": "animal-welfare" },
+            { "id": "defendre", "french": "défendre", "english": "to defend", "partOfSpeech": "verb", "pronunciation": "day-fahndr", "example": "Le syndicat défend les pratiques actuelles de l'élevage.", "exampleEnglish": "The union defends current farming practices.", "level": "B2", "category": "animal-welfare" },
+            { "id": "association", "french": "l'association", "english": "the association, the advocacy group", "partOfSpeech": "noun", "gender": "f", "plural": "les associations", "pronunciation": "lah-so-syah-syon", "example": "Une association locale milite pour de meilleures conditions d'élevage.", "exampleEnglish": "A local association campaigns for better farming conditions.", "level": "B2", "category": "animal-welfare" },
+            { "id": "plaider", "french": "plaider", "english": "to argue for, to advocate", "partOfSpeech": "verb", "pronunciation": "play-day", "example": "Elle plaide pour une transition progressive vers le plein air.", "exampleEnglish": "She argues for a gradual transition to outdoor farming.", "level": "B2", "category": "animal-welfare" },
+            { "id": "opposant", "french": "l'opposant", "english": "the opponent", "partOfSpeech": "noun", "gender": "m", "plural": "les opposants", "pronunciation": "loh-poh-zahn", "example": "Les opposants à l'élevage intensif se mobilisent régulièrement.", "exampleEnglish": "Opponents of intensive farming regularly mobilise.", "level": "B2", "category": "animal-welfare" },
+            { "id": "le-partisan", "french": "le partisan", "english": "the supporter, the advocate", "partOfSpeech": "noun", "gender": "m", "plural": "les partisans", "pronunciation": "luh par-tee-zahn", "example": "Les partisans de l'élevage traditionnel défendent le savoir-faire local.", "exampleEnglish": "Supporters of traditional farming defend local know-how.", "level": "B2", "category": "animal-welfare" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Le subjonctif après le doute et l'opinion",
+              "body": "Expressions of doubt, possibility, or subjective opinion trigger the subjunctive in the following clause. This is essential in debate French, where you often need to signal that a claim is contested rather than certain.",
+              "examples": [
+                { "french": "Je doute que cette réglementation soit suffisante.", "english": "I doubt this regulation is sufficient." },
+                { "french": "Il est possible que les prix augmentent si les normes se durcissent.", "english": "It's possible that prices will rise if standards get stricter." },
+                { "french": "Il n'est pas certain que tous les éleveurs puissent s'adapter.", "english": "It isn't certain that all farmers can adapt." },
+                { "french": "Certains ne pensent pas que le bien-être animal soit prioritaire.", "english": "Some don't think animal welfare is a priority." }
+              ],
+              "tip": "Contrast this with 'je pense que' or 'il est certain que', which take the indicative because they express certainty, not doubt."
+            },
+            {
+              "heading": "Opposer deux points de vue",
+              "body": "Structures like 'alors que' and 'tandis que' contrast two positions within a single sentence, which is useful for presenting a debate fairly without endorsing either side.",
+              "examples": [
+                { "french": "Certains défendent l'élevage intensif, alors que d'autres le dénoncent.", "english": "Some defend intensive farming, whereas others denounce it." },
+                { "french": "Les uns réclament plus de réglementation, tandis que les autres craignent son coût.", "english": "Some call for more regulation, while others fear its cost." },
+                { "french": "D'un côté, les labels rassurent les consommateurs ; de l'autre, ils coûtent cher aux petites fermes.", "english": "On one hand, labels reassure consumers; on the other, they're costly for small farms." },
+                { "french": "Face à ce débat, les avis restent partagés.", "english": "Faced with this debate, opinions remain divided." }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "b2_u22_l02_li01", "type": "listenChoose", "french": "Certains défendent l'élevage intensif, alors que d'autres le dénoncent.", "options": ["Some defend intensive farming, whereas others denounce it.", "Everyone agrees on intensive farming.", "Intensive farming has disappeared in France.", "Only associations discuss intensive farming."], "answer": "Some defend intensive farming, whereas others denounce it." },
+            { "id": "b2_u22_l02_li02", "type": "listenChoose", "french": "Il n'est pas certain que tous les éleveurs puissent s'adapter.", "options": ["It's certain that all farmers will adapt easily.", "It isn't certain that all farmers can adapt.", "No farmer wants to adapt.", "All farmers have already adapted."], "answer": "It isn't certain that all farmers can adapt." },
+            { "id": "b2_u22_l02_li03", "type": "listenType", "french": "Ce label garantit un espace minimal par animal.", "answer": "Ce label garantit un espace minimal par animal.", "acceptedAnswers": ["Ce label garantit un espace minimal par animal", "ce label garantit un espace minimal par animal"] },
+            { "id": "b2_u22_l02_li04", "type": "dictation", "french": "La densité d'animaux par mètre carré fait débat.", "answer": "La densité d'animaux par mètre carré fait débat.", "acceptedAnswers": ["La densite d'animaux par metre carre fait debat", "la densite d'animaux par metre carre fait debat"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "b2_u22_l02_sp01", "type": "speak", "french": "Présentez deux arguments opposés sur l'élevage en cage.", "english": "Present two opposing arguments about cage farming.", "prompt": "Give one argument for and one against, each attributed to a viewpoint ('selon les éleveurs...', 'selon les associations...').", "tip": "Use 'alors que' or 'tandis que' to link the two viewpoints in one sentence." },
+            { "id": "b2_u22_l02_sp02", "type": "speak", "french": "Pensez-vous que les labels de bien-être animal soient suffisamment fiables ?", "english": "Do you think animal welfare labels are reliable enough?", "prompt": "Answer using the subjunctive after an expression of doubt or opinion.", "tip": "Try 'je doute que...' or 'il n'est pas certain que...' followed by the subjunctive." },
+            { "id": "b2_u22_l02_sp03", "type": "speak", "french": "Un petit éleveur explique pourquoi il ne peut pas payer une certification. Jouez son rôle.", "english": "A small farmer explains why he can't afford certification. Play his role.", "prompt": "Speak for 30 seconds in his voice, mentioning cost and farm size.", "tip": "Keep a neutral, explanatory tone rather than an angry one." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Deux voix sur le bien-être animal",
+              "french": "La commune de Ferrières-sur-Loue a organisé la semaine dernière un débat public sur l'élevage local.\nMarion Sauvage, porte-parole de l'association Terre Vivante, a ouvert la discussion.\n« Nous ne dénonçons pas les éleveurs eux-mêmes, précise-t-elle, mais un système qui privilégie la quantité sur le bien-être des animaux. »\nSelon elle, la densité dans certains élevages intensifs provoque un stress inutile et pourrait être réduite sans effondrer les revenus.\nFace à elle, Julien Roques, éleveur de porcs depuis vingt ans, a proposé une vision différente.\n« Personne ne veut maltraiter ses bêtes, a-t-il répondu, mais changer de système coûte cher, et les petites fermes comme la mienne ne peuvent pas toujours suivre. »\nIl a rappelé que son exploitation respecte déjà la réglementation en vigueur, même si celle-ci évolue régulièrement.\nLes deux intervenants se sont accordés sur un point : les labels actuels manquent parfois de clarté pour les consommateurs.\nMarion Sauvage a plaidé pour une transition progressive vers l'élevage en plein air, financée en partie par des subventions publiques.\nJulien Roques a reconnu que cette solution était envisageable, à condition que la transition soit étalée sur plusieurs années.\nÀ la fin du débat, aucun consensus complet n'a été trouvé, mais le public a salué la qualité des échanges.\nCertains habitants ont exprimé un avis mitigé, reconnaissant la légitimité des deux points de vue.",
+              "english": "The town of Ferrières-sur-Loue held a public debate last week on local livestock farming.\nMarion Sauvage, spokesperson for the association Terre Vivante, opened the discussion.\n\"We aren't denouncing the farmers themselves,\" she explains, \"but a system that prioritises quantity over animal welfare.\"\nAccording to her, the density in some intensive farms causes unnecessary stress and could be reduced without collapsing incomes.\nFacing her, Julien Roques, a pig farmer for twenty years, offered a different view.\n\"Nobody wants to mistreat their animals,\" he replied, \"but changing systems is expensive, and small farms like mine can't always keep up.\"\nHe pointed out that his farm already complies with current regulations, even though they change regularly.\nBoth speakers agreed on one point: current labels sometimes lack clarity for consumers.\nMarion Sauvage argued for a gradual transition to outdoor farming, partly funded by public subsidies.\nJulien Roques acknowledged that this solution was conceivable, provided the transition was spread over several years.\nAt the end of the debate, no full consensus was reached, but the audience praised the quality of the exchanges.\nSome residents expressed a mixed opinion, recognising the legitimacy of both viewpoints.",
+              "questions": [
+                { "id": "b2_u22_l02_rd01", "type": "multipleChoice", "prompt": "Que reproche Marion Sauvage aux éleveurs, selon le texte ?", "options": ["Elle les accuse tous personnellement de maltraitance", "Elle critique un système qui privilégie la quantité", "Elle demande la fermeture de toutes les fermes", "Elle ne fait aucune critique"], "answer": "Elle critique un système qui privilégie la quantité" },
+                { "id": "b2_u22_l02_rd02", "type": "trueFalse", "prompt": "Julien Roques affirme que son exploitation ne respecte aucune réglementation.", "options": ["True", "False"], "answer": "False" },
+                { "id": "b2_u22_l02_rd03", "type": "multipleChoice", "prompt": "Sur quel point les deux intervenants sont-ils d'accord ?", "options": ["Le prix de la viande doit doubler", "Les labels manquent parfois de clarté", "L'élevage intensif doit disparaître immédiatement", "Aucune subvention ne devrait exister"], "answer": "Les labels manquent parfois de clarté" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "b2_u22_l02_wr01", "type": "translate", "prompt": "Translate: I doubt this regulation is sufficient.", "english": "I doubt this regulation is sufficient.", "answer": "Je doute que cette réglementation soit suffisante.", "acceptedAnswers": ["Je doute que cette reglementation soit suffisante", "je doute que cette reglementation soit suffisante"] },
+            { "id": "b2_u22_l02_wr02", "type": "arrangeWords", "words": ["défendent", "d'autres", "intensif", "alors", "que", "l'élevage", "Certains", "le", "dénoncent"], "answer": "Certains défendent l'élevage intensif alors que d'autres le dénoncent", "english": "Some defend intensive farming whereas others denounce it." },
+            { "id": "b2_u22_l02_wr03", "type": "translate", "prompt": "Translate: Some residents expressed a mixed opinion.", "english": "Some residents expressed a mixed opinion.", "answer": "Certains habitants ont exprimé un avis mitigé.", "acceptedAnswers": ["Certains habitants ont exprime un avis mitige", "certains habitants ont exprime un avis mitige"] }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "b2_u22_l02_pr01", "type": "multipleChoice", "prompt": "Quel mot désigne quelqu'un qui s'oppose à une pratique ?", "options": ["l'opposant", "le partisan", "le label", "la norme"], "answer": "l'opposant" },
+            { "id": "b2_u22_l02_pr02", "type": "fillBlank", "prompt": "Je doute que cette loi ___ suffisante. (être, subjonctif)", "answer": "soit" },
+            { "id": "b2_u22_l02_pr03", "type": "match", "pairs": [ { "french": "dénoncer", "english": "to denounce" }, { "french": "défendre", "english": "to defend" }, { "french": "plaider", "english": "to argue for" }, { "french": "réglementer", "english": "to regulate" } ] },
+            { "id": "b2_u22_l02_pr04", "type": "trueFalse", "prompt": "'Végane' et 'végétarien' signifient exactement la même chose.", "options": ["True", "False"], "answer": "False" },
+            { "id": "b2_u22_l02_pr05", "type": "arrangeWords", "words": ["fait", "La", "d'animaux", "densité", "débat"], "answer": "La densité d'animaux fait débat", "english": "The density of animals is debated." },
+            { "id": "b2_u22_l02_pr06", "type": "multipleChoice", "prompt": "Quelle expression introduit le subjonctif ?", "options": ["il est possible que", "je pense que", "il est certain que", "je sais que"], "answer": "il est possible que" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "b2_u22_l02_qz01", "type": "multipleChoice", "prompt": "Que signifie « la maltraitance » ?", "options": ["mistreatment", "certification", "the label", "the density"], "answer": "mistreatment" },
+            { "id": "b2_u22_l02_qz02", "type": "translate", "prompt": "Translate: Opinions remain divided.", "english": "Opinions remain divided.", "answer": "Les avis restent partagés.", "acceptedAnswers": ["Les avis restent partages", "les avis restent partages"] },
+            { "id": "b2_u22_l02_qz03", "type": "trueFalse", "prompt": "Dans le texte, un consensus complet a été trouvé à la fin du débat.", "options": ["True", "False"], "answer": "False" },
+            { "id": "b2_u22_l02_qz04", "type": "fillBlank", "prompt": "Il n'est pas certain que tous les éleveurs ___ s'adapter. (pouvoir, subjonctif)", "answer": "puissent" },
+            { "id": "b2_u22_l02_qz05", "type": "listenChoose", "french": "Les uns réclament plus de réglementation, tandis que les autres craignent son coût.", "options": ["Some call for more regulation, while others fear its cost.", "Nobody wants more regulation.", "Regulation has no cost at all.", "Everyone agrees on the cost of regulation."], "answer": "Some call for more regulation, while others fear its cost." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2_u22_l03",
+      "level": "B2",
+      "unit": 22,
+      "title": "La souveraineté alimentaire",
+      "description": "Discuss food sovereignty and self-sufficiency: why some argue for producing more at home, while others defend open trade, presented as a balanced debate.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Qu'est-ce que la souveraineté alimentaire ?",
+              "body": "Food sovereignty refers to a country's or region's capacity to feed itself without depending too heavily on imports. It became a more visible topic after recent global shocks exposed how fragile some supply chains can be, though people disagree sharply about how much self-sufficiency is realistic or even desirable.",
+              "examples": [
+                { "french": "La souveraineté alimentaire désigne la capacité à se nourrir soi-même.", "english": "Food sovereignty refers to the capacity to feed oneself." },
+                { "french": "Certains pays dépendent fortement des importations de céréales.", "english": "Some countries depend heavily on grain imports." },
+                { "french": "La guerre en Ukraine a rappelé la fragilité de certaines chaînes d'approvisionnement.", "english": "The war in Ukraine highlighted the fragility of some supply chains." },
+                { "french": "Le sujet divise les experts autant que les responsables politiques.", "english": "The topic divides experts as much as policymakers." }
+              ],
+              "tip": "This is a factual, historically grounded topic — attribute claims about specific events to sources rather than stating them as universal truths."
+            },
+            {
+              "heading": "Autonomie ou libre-échange ?",
+              "body": "One side of the debate favours relocalising production and reducing dependence on foreign markets; the other defends free trade, arguing that specialisation and exchange lower prices and prevent shortages more reliably than self-sufficiency alone.",
+              "examples": [
+                { "french": "Les partisans de la relocalisation veulent produire davantage sur place.", "english": "Supporters of relocalisation want to produce more locally." },
+                { "french": "Les défenseurs du libre-échange rappellent les bénéfices de la spécialisation.", "english": "Defenders of free trade point to the benefits of specialisation." },
+                { "french": "Le protectionnisme pourrait faire monter certains prix.", "english": "Protectionism could push up some prices." },
+                { "french": "Une trop grande dépendance rend un pays vulnérable en cas de crise.", "english": "Too much dependence makes a country vulnerable in a crisis." }
+              ]
+            },
+            {
+              "heading": "Stocks, réserves et sécurité alimentaire",
+              "body": "Strategic food reserves and diversified trading partners are two different tools used to guarantee food security; countries and unions typically combine both rather than choosing one exclusively.",
+              "examples": [
+                { "french": "Certains États maintiennent des réserves stratégiques de céréales.", "english": "Some states maintain strategic grain reserves." },
+                { "french": "La sécurité alimentaire dépend aussi de la diversité des partenaires commerciaux.", "english": "Food security also depends on the diversity of trading partners." },
+                { "french": "Une pénurie peut survenir même dans un pays riche.", "english": "A shortage can occur even in a wealthy country." },
+                { "french": "Garantir l'approvisionnement reste une priorité pour la plupart des gouvernements.", "english": "Guaranteeing supply remains a priority for most governments." }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "la-souverainete", "french": "la souveraineté", "english": "sovereignty", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah soo-vren-tay", "example": "La souveraineté alimentaire est un thème récurrent des campagnes agricoles.", "exampleEnglish": "Food sovereignty is a recurring theme in agricultural campaigns.", "level": "B2", "category": "food-security" },
+            { "id": "la-souverainete-alimentaire", "french": "la souveraineté alimentaire", "english": "food sovereignty", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah soo-vren-tay ah-lee-mahn-tair", "example": "Le débat sur la souveraineté alimentaire oppose plusieurs visions du commerce.", "exampleEnglish": "The food sovereignty debate pits several trade visions against each other.", "level": "B2", "category": "food-security" },
+            { "id": "autosuffisance", "french": "l'autosuffisance", "english": "self-sufficiency", "partOfSpeech": "noun", "gender": "f", "pronunciation": "oh-toh-su-fee-zahns", "example": "L'autosuffisance totale est difficile à atteindre pour un petit pays.", "exampleEnglish": "Total self-sufficiency is hard for a small country to achieve.", "level": "B2", "category": "food-security" },
+            { "id": "autosuffisant", "french": "autosuffisant", "english": "self-sufficient", "partOfSpeech": "adjective", "pronunciation": "oh-toh-su-fee-zahn", "example": "Aucun pays n'est vraiment autosuffisant pour tous les produits.", "exampleEnglish": "No country is truly self-sufficient for every product.", "level": "B2", "category": "food-security" },
+            { "id": "la-dependance", "french": "la dépendance", "english": "the dependence", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah day-pahn-dahns", "example": "La dépendance aux importations inquiète certains responsables.", "exampleEnglish": "Dependence on imports worries some officials.", "level": "B2", "category": "food-security" },
+            { "id": "dependre-de", "french": "dépendre de", "english": "to depend on", "partOfSpeech": "verb", "pronunciation": "day-pahndr duh", "example": "Ce pays dépend largement des importations de blé.", "exampleEnglish": "This country depends heavily on wheat imports.", "level": "B2", "category": "food-security" },
+            { "id": "importer", "french": "importer", "english": "to import", "partOfSpeech": "verb", "pronunciation": "an-por-tay", "example": "La France importe une partie de ses fruits et légumes.", "exampleEnglish": "France imports some of its fruit and vegetables.", "level": "B2", "category": "food-security" },
+            { "id": "l-importation", "french": "l'importation", "english": "the import", "partOfSpeech": "noun", "gender": "f", "plural": "les importations", "pronunciation": "lan-por-tah-syon", "example": "Les importations de céréales ont augmenté cette année.", "exampleEnglish": "Grain imports have increased this year.", "level": "B2", "category": "food-security" },
+            { "id": "exporter", "french": "exporter", "english": "to export", "partOfSpeech": "verb", "pronunciation": "eks-por-tay", "example": "La France exporte une grande partie de sa production de blé.", "exampleEnglish": "France exports a large share of its wheat production.", "level": "B2", "category": "food-security" },
+            { "id": "l-exportation", "french": "l'exportation", "english": "the export", "partOfSpeech": "noun", "gender": "f", "plural": "les exportations", "pronunciation": "leks-por-tah-syon", "example": "Les exportations agricoles restent un pilier de l'économie française.", "exampleEnglish": "Agricultural exports remain a pillar of the French economy.", "level": "B2", "category": "food-security" },
+            { "id": "le-circuit-court", "french": "le circuit court", "english": "short supply chain, local sourcing", "partOfSpeech": "noun", "gender": "m", "plural": "les circuits courts", "pronunciation": "luh seer-kwee koor", "example": "Le circuit court réduit la dépendance aux importations lointaines.", "exampleEnglish": "Short supply chains reduce dependence on distant imports.", "level": "B2", "category": "food-security" },
+            { "id": "local-adj", "french": "local", "english": "local", "partOfSpeech": "adjective", "pronunciation": "loh-kal", "example": "Beaucoup de consommateurs préfèrent désormais un produit local.", "exampleEnglish": "Many consumers now prefer a local product.", "level": "B2", "category": "food-security" },
+            { "id": "relocaliser", "french": "relocaliser", "english": "to relocalise, to bring back production", "partOfSpeech": "verb", "pronunciation": "ruh-loh-kah-lee-zay", "example": "Certains élus veulent relocaliser une partie de la production alimentaire.", "exampleEnglish": "Some officials want to relocalise part of food production.", "level": "B2", "category": "food-security" },
+            { "id": "la-relocalisation", "french": "la relocalisation", "english": "the relocalisation", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah ruh-loh-kah-lee-zah-syon", "example": "La relocalisation reste coûteuse à court terme.", "exampleEnglish": "Relocalisation remains costly in the short term.", "level": "B2", "category": "food-security" },
+            { "id": "mondialisation", "french": "la mondialisation", "english": "globalisation", "partOfSpeech": "noun", "gender": "f", "pronunciation": "mon-dyah-lee-zah-syon", "example": "La mondialisation a transformé les circuits agricoles.", "exampleEnglish": "Globalisation has transformed agricultural supply chains.", "level": "B2", "category": "food-security" },
+            { "id": "mondial", "french": "mondial / mondiale", "english": "global, worldwide", "partOfSpeech": "adjective", "pronunciation": "mon-dyal", "example": "Le marché mondial du blé reste très instable.", "exampleEnglish": "The global wheat market remains very unstable.", "level": "B2", "category": "food-security" },
+            { "id": "marche", "french": "le marché", "english": "the market", "partOfSpeech": "noun", "gender": "m", "plural": "les marchés", "pronunciation": "luh mar-shay", "example": "Le marché mondial fixe une grande partie des prix agricoles.", "exampleEnglish": "The global market sets a large part of agricultural prices.", "level": "B2", "category": "food-security" },
+            { "id": "la-concurrence", "french": "la concurrence", "english": "the competition", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah kon-kü-rahns", "example": "La concurrence internationale pèse sur les petits producteurs.", "exampleEnglish": "International competition weighs on small producers.", "level": "B2", "category": "food-security" },
+            { "id": "concurrencer", "french": "concurrencer", "english": "to compete with", "partOfSpeech": "verb", "pronunciation": "kon-kü-rahn-say", "example": "Les produits importés concurrencent parfois la production locale.", "exampleEnglish": "Imported products sometimes compete with local production.", "level": "B2", "category": "food-security" },
+            { "id": "deloyal", "french": "déloyal / déloyale", "english": "unfair, disloyal", "partOfSpeech": "adjective", "pronunciation": "day-lwah-yal", "example": "Certains producteurs dénoncent une concurrence jugée déloyale.", "exampleEnglish": "Some producers denounce competition they see as unfair.", "level": "B2", "category": "food-security" },
+            { "id": "la-securite-alimentaire", "french": "la sécurité alimentaire", "english": "food security", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah say-kü-ree-tay ah-lee-mahn-tair", "example": "La sécurité alimentaire est une priorité pour de nombreux gouvernements.", "exampleEnglish": "Food security is a priority for many governments.", "level": "B2", "category": "food-security" },
+            { "id": "garantir", "french": "garantir", "english": "to guarantee", "partOfSpeech": "verb", "pronunciation": "gah-rahn-teer", "example": "Aucun système ne peut garantir un approvisionnement sans faille.", "exampleEnglish": "No system can guarantee a flawless supply.", "level": "B2", "category": "food-security" },
+            { "id": "la-penurie", "french": "la pénurie", "english": "the shortage", "partOfSpeech": "noun", "gender": "f", "plural": "les pénuries", "pronunciation": "lah pay-nü-ree", "example": "Une pénurie de blé peut faire grimper les prix mondiaux.", "exampleEnglish": "A wheat shortage can drive up world prices.", "level": "B2", "category": "food-security" },
+            { "id": "le-stock", "french": "le stock", "english": "the stock, the stockpile", "partOfSpeech": "noun", "gender": "m", "plural": "les stocks", "pronunciation": "luh stok", "example": "Le pays a puisé dans ses stocks pendant la crise.", "exampleEnglish": "The country drew on its stockpiles during the crisis.", "level": "B2", "category": "food-security" },
+            { "id": "stocker", "french": "stocker", "english": "to stock, to store", "partOfSpeech": "verb", "pronunciation": "sto-kay", "example": "Certains États stockent des céréales en prévision d'une crise.", "exampleEnglish": "Some states stockpile grain in anticipation of a crisis.", "level": "B2", "category": "food-security" },
+            { "id": "reserve", "french": "la réserve", "english": "the reserve", "partOfSpeech": "noun", "gender": "f", "plural": "les réserves", "pronunciation": "lah ray-zairv", "example": "Les réserves stratégiques garantissent un minimum de sécurité.", "exampleEnglish": "Strategic reserves guarantee a minimum level of security.", "level": "B2", "category": "food-security" },
+            { "id": "strategique", "french": "stratégique", "english": "strategic", "partOfSpeech": "adjective", "pronunciation": "strah-tay-jeek", "example": "L'alimentation est considérée comme un secteur stratégique.", "exampleEnglish": "Food is considered a strategic sector.", "level": "B2", "category": "food-security" },
+            { "id": "l-autonomie", "french": "l'autonomie", "english": "the autonomy", "partOfSpeech": "noun", "gender": "f", "pronunciation": "loh-toh-noh-mee", "example": "L'autonomie alimentaire reste un objectif difficile à atteindre.", "exampleEnglish": "Food autonomy remains a difficult goal to reach.", "level": "B2", "category": "food-security" },
+            { "id": "l-echange", "french": "l'échange", "english": "the exchange, the trade", "partOfSpeech": "noun", "gender": "m", "plural": "les échanges", "pronunciation": "lay-shahnj", "example": "Les échanges commerciaux garantissent une plus grande variété de produits.", "exampleEnglish": "Trade guarantees a greater variety of products.", "level": "B2", "category": "food-security" },
+            { "id": "le-libre-echange", "french": "le libre-échange", "english": "free trade", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh leebr ay-shahnj", "example": "Les défenseurs du libre-échange mettent en avant la baisse des prix.", "exampleEnglish": "Free trade advocates highlight lower prices." , "level": "B2", "category": "food-security" },
+            { "id": "protectionniste", "french": "protectionniste", "english": "protectionist", "partOfSpeech": "adjective", "pronunciation": "pro-tek-syo-neest", "example": "Une politique protectionniste peut freiner la concurrence étrangère.", "exampleEnglish": "A protectionist policy can slow down foreign competition.", "level": "B2", "category": "food-security" },
+            { "id": "le-protectionnisme", "french": "le protectionnisme", "english": "protectionism", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh pro-tek-syo-neesm", "example": "Le protectionnisme reste un sujet clivant parmi les économistes.", "exampleEnglish": "Protectionism remains a divisive topic among economists.", "level": "B2", "category": "food-security" },
+            { "id": "la-taxe-douaniere", "french": "la taxe douanière", "english": "the customs duty, the tariff", "partOfSpeech": "noun", "gender": "f", "plural": "les taxes douanières", "pronunciation": "lah taks doo-ah-nyair", "example": "Une taxe douanière peut protéger la production locale.", "exampleEnglish": "A customs duty can protect local production.", "level": "B2", "category": "food-security" },
+            { "id": "le-ble", "french": "le blé", "english": "wheat", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh blay", "example": "La France exporte une grande partie de son blé.", "exampleEnglish": "France exports a large share of its wheat.", "level": "B2", "category": "food-security" },
+            { "id": "la-cereale", "french": "la céréale", "english": "the cereal, the grain crop", "partOfSpeech": "noun", "gender": "f", "plural": "les céréales", "pronunciation": "lah say-ray-al", "example": "Les céréales occupent une large part des terres agricoles françaises.", "exampleEnglish": "Cereal crops take up a large share of French farmland.", "level": "B2", "category": "food-security" },
+            { "id": "vulnerable", "french": "vulnérable", "english": "vulnerable", "partOfSpeech": "adjective", "pronunciation": "vül-nay-rabl", "example": "Un pays très dépendant devient vulnérable en cas de crise.", "exampleEnglish": "A highly dependent country becomes vulnerable in a crisis.", "level": "B2", "category": "food-security" },
+            { "id": "la-vulnerabilite", "french": "la vulnérabilité", "english": "the vulnerability", "partOfSpeech": "noun", "gender": "f", "pronunciation": "vül-nay-rah-bee-lee-tay", "example": "La vulnérabilité alimentaire varie beaucoup selon les régions du monde.", "exampleEnglish": "Food vulnerability varies a great deal across regions of the world.", "level": "B2", "category": "food-security" },
+            { "id": "l-alimentation", "french": "l'alimentation", "english": "food, food supply", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah-lee-mahn-tah-syon", "example": "L'alimentation reste un enjeu stratégique pour tous les pays.", "exampleEnglish": "Food remains a strategic issue for every country.", "level": "B2", "category": "food-security" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Le conditionnel passé : évoquer une autre histoire",
+              "body": "The past conditional (aurait/serait + past participle) describes what would have happened under different conditions — essential for discussing 'what if' scenarios in food policy debates.",
+              "examples": [
+                { "french": "Si le pays avait investi plus tôt, il serait moins dépendant aujourd'hui.", "english": "If the country had invested earlier, it would be less dependent today." },
+                { "french": "Sans cette crise, personne n'aurait vraiment parlé de souveraineté alimentaire.", "english": "Without this crisis, nobody would really have talked about food sovereignty." },
+                { "french": "Une meilleure gestion des stocks aurait limité la pénurie.", "english": "Better stock management would have limited the shortage." },
+                { "french": "Ils auraient pu relocaliser une partie de la production plus tôt.", "english": "They could have relocalised part of production earlier." }
+              ],
+              "tip": "The past conditional pairs with 'si' + pluperfect: 'Si + plus-que-parfait, ... conditionnel passé.'"
+            },
+            {
+              "heading": "Cause et conséquence",
+              "body": "Connectors like 'étant donné que', 'de sorte que', and 'si bien que' let you link a cause to its effect precisely — useful for explaining why a policy choice leads to a particular outcome.",
+              "examples": [
+                { "french": "Étant donné que les prix mondiaux ont augmenté, certains pays ont réduit leurs importations.", "english": "Given that world prices rose, some countries reduced their imports." },
+                { "french": "La récolte a été mauvaise, si bien que les prix ont grimpé.", "english": "The harvest was poor, so prices climbed." },
+                { "french": "Le gouvernement a renforcé ses réserves, de sorte que la pénurie a été évitée.", "english": "The government strengthened its reserves, so the shortage was avoided." },
+                { "french": "Puisque la demande mondiale augmente, la concurrence devient plus forte.", "english": "Since global demand is rising, competition is becoming fiercer." }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "b2_u22_l03_li01", "type": "listenChoose", "french": "Une meilleure gestion des stocks aurait limité la pénurie.", "options": ["Better stock management would have limited the shortage.", "The shortage was impossible to avoid.", "Stocks have no effect on shortages.", "The government refused to manage stocks."], "answer": "Better stock management would have limited the shortage." },
+            { "id": "b2_u22_l03_li02", "type": "listenChoose", "french": "Une trop grande dépendance rend un pays vulnérable en cas de crise.", "options": ["Too much dependence makes a country vulnerable in a crisis.", "Dependence always makes a country stronger.", "Crises never affect food supply.", "No country depends on any other."], "answer": "Too much dependence makes a country vulnerable in a crisis." },
+            { "id": "b2_u22_l03_li03", "type": "listenType", "french": "La récolte a été mauvaise, si bien que les prix ont grimpé.", "answer": "La récolte a été mauvaise, si bien que les prix ont grimpé.", "acceptedAnswers": ["La recolte a ete mauvaise, si bien que les prix ont grimpe", "la recolte a ete mauvaise si bien que les prix ont grimpe"] },
+            { "id": "b2_u22_l03_li04", "type": "dictation", "french": "Certains États maintiennent des réserves stratégiques de céréales.", "answer": "Certains États maintiennent des réserves stratégiques de céréales.", "acceptedAnswers": ["Certains Etats maintiennent des reserves strategiques de cereales", "certains etats maintiennent des reserves strategiques de cereales"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "b2_u22_l03_sp01", "type": "speak", "french": "La France devrait-elle produire davantage pour dépendre moins des importations ?", "english": "Should France produce more in order to depend less on imports?", "prompt": "Give a balanced answer citing one argument for relocalisation and one for free trade.", "tip": "Use 'étant donné que' to introduce your first reason clearly." },
+            { "id": "b2_u22_l03_sp02", "type": "speak", "french": "Que se serait-il passé si un pays n'avait pas eu de réserves stratégiques pendant une crise ?", "english": "What would have happened if a country had no strategic reserves during a crisis?", "prompt": "Answer using the past conditional at least twice.", "tip": "Structure: 'Si + plus-que-parfait, ... conditionnel passé.'" },
+            { "id": "b2_u22_l03_sp03", "type": "speak", "french": "Le protectionnisme est-il une solution efficace pour garantir la sécurité alimentaire ?", "english": "Is protectionism an effective solution for guaranteeing food security?", "prompt": "Present both sides before giving a brief personal conclusion.", "tip": "Close with 'à mon avis' to clearly mark where your own opinion begins." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Faut-il produire plus près de chez soi ?",
+              "french": "Le magazine régional Champs & Perspectives a interrogé deux économistes sur l'avenir de l'alimentation en France.\nÉlise Fontaine, spécialiste des politiques agricoles, défend une relocalisation progressive de certaines productions.\n« La crise récente a montré qu'une dépendance excessive rend un pays vulnérable, explique-t-elle. Si nous avions diversifié nos sources plus tôt, la pénurie de céréales aurait été moins grave. »\nElle reconnaît toutefois que produire davantage en France coûterait plus cher au consommateur, du moins à court terme.\nEn face, Thomas Lenoir, économiste spécialisé dans le commerce international, défend une vision différente.\n« Le libre-échange a permis de nourrir des millions de personnes à moindre coût, rappelle-t-il. Se replier sur soi-même comporte aussi des risques. »\nSelon lui, une trop grande fermeture aux échanges pourrait exposer le pays à d'autres formes de pénurie, notamment en cas de mauvaise récolte locale.\nLes deux économistes s'accordent néanmoins sur un point : la diversification des partenaires commerciaux reste essentielle, quel que soit le niveau de production nationale.\nÉlise Fontaine propose de renforcer les réserves stratégiques, de sorte que le pays puisse absorber un choc sans dépendre immédiatement de l'étranger.\nThomas Lenoir, de son côté, plaide pour des accords commerciaux plus diversifiés plutôt que pour un protectionnisme généralisé.\nLe débat, publié dans le numéro d'automne du magazine, n'a pas cherché à trancher, mais à présenter deux logiques cohérentes.\nLes lecteurs sont invités à se forger leur propre opinion sur cette question complexe.",
+              "english": "The regional magazine Champs & Perspectives interviewed two economists about the future of food in France.\nÉlise Fontaine, a specialist in agricultural policy, defends a gradual relocalisation of certain types of production.\n\"The recent crisis showed that excessive dependence makes a country vulnerable,\" she explains. \"If we had diversified our sources earlier, the grain shortage would have been less severe.\"\nShe acknowledges, however, that producing more in France would cost consumers more, at least in the short term.\nOn the other side, Thomas Lenoir, an economist specialising in international trade, defends a different view.\n\"Free trade has fed millions of people at lower cost,\" he points out. \"Turning inward also carries risks.\"\nAccording to him, too much closure to trade could expose the country to other forms of shortage, particularly in the event of a poor local harvest.\nThe two economists nonetheless agree on one point: diversifying trading partners remains essential, whatever the level of domestic production.\nÉlise Fontaine proposes strengthening strategic reserves, so that the country can absorb a shock without immediately depending on other countries.\nThomas Lenoir, for his part, argues for more diversified trade agreements rather than widespread protectionism.\nThe debate, published in the magazine's autumn issue, did not try to settle the question, but to present two coherent lines of reasoning.\nReaders are invited to form their own opinion on this complex issue.",
+              "questions": [
+                { "id": "b2_u22_l03_rd01", "type": "multipleChoice", "prompt": "Que défend Élise Fontaine dans le texte ?", "options": ["Une relocalisation progressive de certaines productions", "L'arrêt total des importations", "La fermeture complète des frontières commerciales", "La suppression des réserves stratégiques"], "answer": "Une relocalisation progressive de certaines productions" },
+                { "id": "b2_u22_l03_rd02", "type": "trueFalse", "prompt": "Selon Thomas Lenoir, le libre-échange comporte uniquement des avantages, sans aucun risque.", "options": ["True", "False"], "answer": "False" },
+                { "id": "b2_u22_l03_rd03", "type": "multipleChoice", "prompt": "Sur quel point les deux économistes sont-ils d'accord ?", "options": ["La diversification des partenaires commerciaux reste essentielle", "Le protectionnisme total est la meilleure solution", "La France doit cesser toute exportation", "Aucun accord n'est possible entre eux"], "answer": "La diversification des partenaires commerciaux reste essentielle" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "b2_u22_l03_wr01", "type": "translate", "prompt": "Translate: If we had diversified our sources earlier, the shortage would have been less severe.", "english": "If we had diversified our sources earlier, the shortage would have been less severe.", "answer": "Si nous avions diversifié nos sources plus tôt, la pénurie aurait été moins grave.", "acceptedAnswers": ["Si nous avions diversifie nos sources plus tot, la penurie aurait ete moins grave", "si nous avions diversifie nos sources plus tot la penurie aurait ete moins grave"] },
+            { "id": "b2_u22_l03_wr02", "type": "arrangeWords", "words": ["mauvaise", "les", "que", "a", "été", "récolte", "prix", "La", "si", "bien", "ont", "grimpé"], "answer": "La récolte a été mauvaise si bien que les prix ont grimpé", "english": "The harvest was poor, so prices climbed." },
+            { "id": "b2_u22_l03_wr03", "type": "translate", "prompt": "Translate: Food security is a priority for many governments.", "english": "Food security is a priority for many governments.", "answer": "La sécurité alimentaire est une priorité pour de nombreux gouvernements.", "acceptedAnswers": ["La securite alimentaire est une priorite pour de nombreux gouvernements", "la securite alimentaire est une priorite pour de nombreux gouvernements"] }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "b2_u22_l03_pr01", "type": "multipleChoice", "prompt": "Quel mot signifie « à l'échelle du monde entier » ?", "options": ["mondial", "local", "stratégique", "déloyal"], "answer": "mondial" },
+            { "id": "b2_u22_l03_pr02", "type": "fillBlank", "prompt": "Sans cette crise, personne n'___ vraiment parlé de souveraineté alimentaire. (avoir, conditionnel passé)", "answer": "aurait" },
+            { "id": "b2_u22_l03_pr03", "type": "match", "pairs": [ { "french": "importer", "english": "to import" }, { "french": "exporter", "english": "to export" }, { "french": "stocker", "english": "to store" }, { "french": "garantir", "english": "to guarantee" } ] },
+            { "id": "b2_u22_l03_pr04", "type": "trueFalse", "prompt": "Le protectionnisme et le libre-échange représentent la même approche économique.", "options": ["True", "False"], "answer": "False" },
+            { "id": "b2_u22_l03_pr05", "type": "arrangeWords", "words": ["rend", "pays", "dépendance", "vulnérable", "Une", "trop", "grande", "un"], "answer": "Une trop grande dépendance rend un pays vulnérable", "english": "Too much dependence makes a country vulnerable." },
+            { "id": "b2_u22_l03_pr06", "type": "multipleChoice", "prompt": "Quel connecteur introduit une conséquence ?", "options": ["si bien que", "bien que", "afin que", "avant que"], "answer": "si bien que" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "b2_u22_l03_qz01", "type": "multipleChoice", "prompt": "Que signifie « la pénurie » ?", "options": ["the shortage", "the surplus", "the export", "the reserve"], "answer": "the shortage" },
+            { "id": "b2_u22_l03_qz02", "type": "translate", "prompt": "Translate: A country's excessive dependence makes it vulnerable.", "english": "A country's excessive dependence makes it vulnerable.", "answer": "La dépendance excessive d'un pays le rend vulnérable.", "acceptedAnswers": ["La dependance excessive d'un pays le rend vulnerable", "la dependance excessive d'un pays le rend vulnerable"] },
+            { "id": "b2_u22_l03_qz03", "type": "trueFalse", "prompt": "Dans le texte, les deux économistes refusent totalement de discuter ensemble.", "options": ["True", "False"], "answer": "False" },
+            { "id": "b2_u22_l03_qz04", "type": "fillBlank", "prompt": "Une meilleure gestion des stocks ___ limité la pénurie. (avoir, conditionnel passé)", "answer": "aurait" },
+            { "id": "b2_u22_l03_qz05", "type": "listenChoose", "french": "La diversification des partenaires commerciaux reste essentielle.", "options": ["Diversifying trading partners remains essential.", "Trading partners are no longer necessary.", "Only one trading partner should be chosen.", "Diversification has no effect on food security."], "answer": "Diversifying trading partners remains essential." }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,586 @@
+{
+  "id": "c2_u23",
+  "level": "C2",
+  "unit": 23,
+  "title": "Professional Mastery",
+  "subtitle": "Command the boardroom: corporate rhetoric, high-stakes negotiation, and the voice of expert counsel",
+  "icon": "💼",
+  "lessons": [
+    {
+      "id": "c2_u23_l01",
+      "level": "C2",
+      "unit": 23,
+      "title": "Le discours d'entreprise",
+      "description": "The rhetoric of corporate speech: rallying a team, framing bad news, deploying corporate jargon, and knowing when to abandon it for the plain truth.",
+      "estimatedMinutes": 19,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Le discours mobilisateur : galvaniser sans mentir",
+              "body": "Corporate rallying speech aims to unite a team behind a shared goal, but the C2-level distinction is doing so without slipping into empty cheerleading. A convincing speaker names the difficulty honestly, builds ambition through concrete stakes, and paints the vision with vivid imagery rather than numbers alone.",
+              "examples": [
+                { "french": "Ce trimestre a été difficile ; le prochain sera décisif.", "english": "This quarter was difficult; the next will be decisive." },
+                { "french": "Je ne vous demande pas d'y croire aveuglément, mais de le construire avec moi.", "english": "I'm not asking you to believe blindly, but to build it with me." },
+                { "french": "Notre ambition n'est pas de suivre le marché, mais de le devancer.", "english": "Our ambition is not to follow the market, but to get ahead of it." },
+                { "french": "Ce cap, nous le tiendrons ensemble, ou nous ne le tiendrons pas.", "english": "We will hold this course together, or we will not hold it at all." },
+                { "french": "Un discours mobilisateur se mesure à ce qu'il inspire, pas à ce qu'il promet.", "english": "A rallying speech is measured by what it inspires, not by what it promises." }
+              ],
+              "tip": "Reserve superlatives for the closing line — a speech that opens at maximum intensity has nowhere left to climb."
+            },
+            {
+              "heading": "Les éléments de langage et la novlangue managériale",
+              "body": "\"Éléments de langage\" (approved talking points) let a spokesperson stay on message across many audiences, but at C2 level a speaker must recognise when this discipline slides into \"novlangue\" — vague managerial jargon that empties language of meaning without saying anything falsifiable. Mastery means keeping the discipline while still saying something real.",
+              "examples": [
+                { "french": "Nous restons alignés sur nos éléments de langage jusqu'à l'annonce officielle.", "english": "We remain aligned on our talking points until the official announcement." },
+                { "french": "« Optimiser les synergies » ne veut plus rien dire pour personne.", "english": "\"Optimising synergies\" no longer means anything to anyone." },
+                { "french": "Le jargon managérial rassure la direction et n'informe jamais le salarié.", "english": "Management jargon reassures leadership and never informs the employee." },
+                { "french": "Derrière la formule vague, il faut toujours chercher la décision réelle.", "english": "Behind the vague phrase, one must always look for the real decision." },
+                { "french": "Un bon communicant sait quand quitter les éléments de langage pour dire la vérité nue.", "english": "A good communicator knows when to abandon the talking points and speak the plain truth." }
+              ],
+              "tip": "If a sentence would survive being read at any company, in any sector, on any subject, it is novlangue, not communication."
+            },
+            {
+              "heading": "Annoncer une mauvaise nouvelle : cadrer sans travestir",
+              "body": "Corporate discourse is tested hardest when the news is bad — layoffs, missed targets, a failed launch. The C2 skill is framing (cadrer) reality without distorting (travestir) it: naming the difficulty plainly, taking responsibility in the \"nous,\" and pairing the bad news with a credible next step rather than burying it in qualifiers.",
+              "examples": [
+                { "french": "Nous n'avons pas atteint nos objectifs, et nous en assumons la responsabilité.", "english": "We did not reach our targets, and we take responsibility for that." },
+                { "french": "Cadrer une mauvaise nouvelle, ce n'est pas l'édulcorer, c'est la rendre audible.", "english": "Framing bad news is not sweetening it, it's making it audible." },
+                { "french": "Travestir un échec en succès finit toujours par se retourner contre son auteur.", "english": "Dressing up a failure as a success always backfires on whoever does it." },
+                { "french": "Voici ce que nous avons appris, et voici ce que nous changeons dès demain.", "english": "Here is what we have learned, and here is what we are changing starting tomorrow." },
+                { "french": "Le silence sur un échec se paie toujours plus cher que son aveu.", "english": "Silence about a failure always costs more than admitting it." }
+              ],
+              "tip": "Put the hardest sentence first, not last — an audience that senses evasion stops listening to everything that follows."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "le-discours-d-entreprise", "french": "le discours d'entreprise", "english": "the corporate speech, corporate discourse", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh dee-skoor dahn-truh-PREEZ", "example": "Le discours d'entreprise cherche à fédérer sans jamais mentir.", "exampleEnglish": "Corporate discourse seeks to unite people without ever lying.", "level": "C2", "category": "corporate-discourse" },
+            { "id": "les-elements-de-langage", "french": "les éléments de langage", "english": "the talking points", "partOfSpeech": "noun", "gender": "m", "pronunciation": "lay-zay-lay-mahn duh lahn-GAZH", "example": "Nous restons alignés sur nos éléments de langage jusqu'à l'annonce officielle.", "exampleEnglish": "We remain aligned on our talking points until the official announcement.", "level": "C2", "category": "corporate-discourse" },
+            { "id": "la-ligne-editoriale", "french": "la ligne éditoriale", "english": "the editorial line, the messaging strategy", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah leen-yuh ay-dee-tor-YAHL", "example": "La ligne éditoriale de la direction n'a pas varié depuis six mois.", "exampleEnglish": "Leadership's messaging line has not changed in six months.", "level": "C2", "category": "corporate-discourse" },
+            { "id": "le-message-cle", "french": "le message-clé", "english": "the key message", "partOfSpeech": "noun", "gender": "m", "plural": "les messages-clés", "pronunciation": "luh meh-SAZH klay", "example": "Un seul message-clé doit ressortir de cette allocution.", "exampleEnglish": "Only one key message should stand out from this address.", "level": "C2", "category": "corporate-discourse" },
+            { "id": "la-prise-de-parole", "french": "la prise de parole", "english": "the public address, the speaking engagement", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah preez duh pah-ROLL", "example": "Sa prise de parole devant les actionnaires a rassuré le marché.", "exampleEnglish": "Her address to the shareholders reassured the market.", "level": "C2", "category": "corporate-discourse" },
+            { "id": "l-allocution", "french": "l'allocution", "english": "the formal address, the speech", "partOfSpeech": "noun", "gender": "f", "plural": "les allocutions", "pronunciation": "lah-loh-ku-SYON", "example": "L'allocution du directeur général a duré moins de dix minutes.", "exampleEnglish": "The CEO's address lasted less than ten minutes.", "level": "C2", "category": "corporate-discourse" },
+            { "id": "federer", "french": "fédérer", "english": "to unite, to rally", "partOfSpeech": "verb", "pronunciation": "fay-day-RAY", "example": "Un bon discours fédère même ceux qui doutaient encore.", "exampleEnglish": "A good speech unites even those who still had doubts.", "level": "C2", "category": "corporate-discourse" },
+            { "id": "galvaniser", "french": "galvaniser", "english": "to galvanise, to energise", "partOfSpeech": "verb", "pronunciation": "gal-vah-nee-ZAY", "example": "Son discours a galvanisé une équipe pourtant épuisée.", "exampleEnglish": "Her speech galvanised a team that had been exhausted.", "level": "C2", "category": "corporate-discourse" },
+            { "id": "mobiliser", "french": "mobiliser", "english": "to mobilise, to rally", "partOfSpeech": "verb", "pronunciation": "moh-bee-lee-ZAY", "example": "Il a su mobiliser ses équipes autour d'un objectif commun.", "exampleEnglish": "He managed to rally his teams around a shared goal.", "level": "C2", "category": "corporate-discourse" },
+            { "id": "le-discours-mobilisateur", "french": "le discours mobilisateur", "english": "the rallying speech", "partOfSpeech": "noun", "gender": "m", "plural": "les discours mobilisateurs", "pronunciation": "luh dee-skoor moh-bee-lee-zah-TUHR", "example": "Le discours mobilisateur fonctionne quand il nomme la difficulté avant de la dépasser.", "exampleEnglish": "A rallying speech works when it names the difficulty before moving past it.", "level": "C2", "category": "corporate-discourse" },
+            { "id": "la-vision", "french": "la vision", "english": "the vision", "partOfSpeech": "noun", "gender": "f", "plural": "les visions", "pronunciation": "lah vee-ZYON", "example": "La vision qu'elle porte dépasse largement le prochain trimestre.", "exampleEnglish": "The vision she carries reaches well beyond the next quarter.", "level": "C2", "category": "corporate-discourse" },
+            { "id": "incarner", "french": "incarner", "english": "to embody", "partOfSpeech": "verb", "pronunciation": "an-kar-NAY", "example": "Le dirigeant doit incarner la vision qu'il annonce, pas seulement la formuler.", "exampleEnglish": "A leader must embody the vision they announce, not just phrase it.", "level": "C2", "category": "corporate-discourse" },
+            { "id": "convaincre", "french": "convaincre", "english": "to convince", "partOfSpeech": "verb", "pronunciation": "kon-VANKR", "example": "Convaincre un conseil d'administration exige plus que des chiffres.", "exampleEnglish": "Convincing a board takes more than figures.", "level": "C2", "category": "corporate-discourse" },
+            { "id": "persuader", "french": "persuader", "english": "to persuade", "partOfSpeech": "verb", "pronunciation": "pehr-sü-ah-DAY", "example": "Elle a persuadé les investisseurs en dix minutes chrono.", "exampleEnglish": "She persuaded the investors in a flat ten minutes.", "level": "C2", "category": "corporate-discourse" },
+            { "id": "la-conviction", "french": "la conviction", "english": "the conviction", "partOfSpeech": "noun", "gender": "f", "plural": "les convictions", "pronunciation": "lah kon-veek-SYON", "example": "Sa conviction transparaissait dans chaque phrase, sans un mot en trop.", "exampleEnglish": "Her conviction showed through every sentence, without a single wasted word.", "level": "C2", "category": "corporate-discourse" },
+            { "id": "l-enthousiasme", "french": "l'enthousiasme", "english": "the enthusiasm", "partOfSpeech": "noun", "gender": "m", "pronunciation": "lahn-too-zee-AHSM", "example": "Un enthousiasme mal calibré sonne aussi faux qu'un pessimisme excessif.", "exampleEnglish": "Poorly calibrated enthusiasm rings as false as excessive pessimism.", "level": "C2", "category": "corporate-discourse" },
+            { "id": "la-novlangue-manageriale", "french": "la novlangue managériale", "english": "management newspeak", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah nov-lahng mah-nah-jay-RYAHL", "example": "La novlangue managériale finit par vider les mots de leur sens.", "exampleEnglish": "Management newspeak eventually empties words of their meaning.", "level": "C2", "category": "corporate-discourse" },
+            { "id": "le-jargon-managerial", "french": "le jargon managérial", "english": "management jargon", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh zhar-GON mah-nah-jay-RYAHL", "example": "Le jargon managérial rassure la direction et n'informe jamais le salarié.", "exampleEnglish": "Management jargon reassures leadership and never informs the employee.", "level": "C2", "category": "corporate-discourse" },
+            { "id": "la-synergie", "french": "la synergie", "english": "the synergy (buzzword)", "partOfSpeech": "noun", "gender": "f", "plural": "les synergies", "pronunciation": "lah see-nehr-ZHEE", "example": "« Créer des synergies » : la formule ne veut plus rien dire pour personne.", "exampleEnglish": "\"Creating synergies\": the phrase no longer means anything to anyone.", "level": "C2", "category": "corporate-discourse" },
+            { "id": "la-montee-en-competences", "french": "la montée en compétences", "english": "upskilling", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah mon-TAY ahn kom-pay-TAHNSS", "example": "La montée en compétences reste un chantier permanent, pas un slogan.", "exampleEnglish": "Upskilling remains an ongoing project, not a slogan.", "level": "C2", "category": "corporate-discourse" },
+            { "id": "reinventer", "french": "réinventer", "english": "to reinvent", "partOfSpeech": "verb", "pronunciation": "ray-an-vahn-TAY", "example": "Chaque nouvelle direction promet de réinventer le modèle.", "exampleEnglish": "Every new leadership team promises to reinvent the model.", "level": "C2", "category": "corporate-discourse" },
+            { "id": "vide-de-sens", "french": "vide de sens", "english": "meaningless, empty of meaning", "partOfSpeech": "adjective", "pronunciation": "veed duh SAHNS", "example": "Une formule vide de sens n'engage jamais celui qui la prononce.", "exampleEnglish": "A meaningless phrase never commits the person who says it.", "level": "C2", "category": "corporate-discourse" },
+            { "id": "cadrer", "french": "cadrer", "english": "to frame (a message)", "partOfSpeech": "verb", "pronunciation": "kah-DRAY", "example": "Cadrer une mauvaise nouvelle demande plus de courage que de la taire.", "exampleEnglish": "Framing bad news takes more courage than staying silent about it.", "level": "C2", "category": "corporate-discourse" },
+            { "id": "travestir", "french": "travestir", "english": "to distort, to misrepresent", "partOfSpeech": "verb", "pronunciation": "trah-vess-TEER", "example": "Travestir un échec en succès finit toujours par se retourner contre son auteur.", "exampleEnglish": "Dressing up a failure as a success always backfires on whoever does it.", "level": "C2", "category": "corporate-discourse" },
+            { "id": "edulcorer", "french": "édulcorer", "english": "to sugarcoat, to water down (a message)", "partOfSpeech": "verb", "pronunciation": "ay-dul-kor-AY", "example": "Cadrer une mauvaise nouvelle, ce n'est pas l'édulcorer, c'est la rendre audible.", "exampleEnglish": "Framing bad news is not sweetening it, it's making it audible.", "level": "C2", "category": "corporate-discourse" },
+            { "id": "assumer-la-responsabilite", "french": "assumer la responsabilité", "english": "to take responsibility", "partOfSpeech": "expression", "pronunciation": "ah-sü-MAY lah res-pon-sah-bee-lee-TAY", "example": "Nous assumons pleinement la responsabilité de ce retard.", "exampleEnglish": "We fully take responsibility for this delay.", "level": "C2", "category": "corporate-discourse" },
+            { "id": "l-aveu-d-echec", "french": "l'aveu d'échec", "english": "the admission of failure", "partOfSpeech": "noun", "gender": "m", "plural": "les aveux d'échec", "pronunciation": "lah-vuh day-SHEK", "example": "L'aveu d'échec, formulé tôt, coûte toujours moins cher que le silence.", "exampleEnglish": "An early admission of failure always costs less than silence.", "level": "C2", "category": "corporate-discourse" },
+            { "id": "la-communication-de-crise", "french": "la communication de crise", "english": "crisis communication", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah koh-mü-nee-kah-SYON duh KREEZ", "example": "La communication de crise s'improvise rarement avec succès.", "exampleEnglish": "Crisis communication is rarely improvised successfully.", "level": "C2", "category": "corporate-discourse" },
+            { "id": "la-communication-interne", "french": "la communication interne", "english": "internal communications", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah koh-mü-nee-kah-SYON an-TAIRN", "example": "La communication interne a précédé l'annonce publique de vingt-quatre heures.", "exampleEnglish": "Internal communications preceded the public announcement by twenty-four hours.", "level": "C2", "category": "corporate-discourse" },
+            { "id": "la-communication-descendante", "french": "la communication descendante", "english": "top-down communication", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah koh-mü-nee-kah-SYON deh-sahn-DAHNT", "example": "La communication purement descendante n'entraîne plus personne aujourd'hui.", "exampleEnglish": "Purely top-down communication no longer rallies anyone today.", "level": "C2", "category": "corporate-discourse" },
+            { "id": "les-collaborateurs", "french": "les collaborateurs", "english": "the employees (corporate term)", "partOfSpeech": "noun", "gender": "m", "pronunciation": "lay koh-lah-boh-rah-TUHR", "example": "Les collaborateurs ont été informés avant la presse.", "exampleEnglish": "The employees were informed before the press.", "level": "C2", "category": "corporate-discourse" },
+            { "id": "s-adresser-a", "french": "s'adresser à", "english": "to address (an audience)", "partOfSpeech": "expression", "pronunciation": "sah-dreh-SAY ah", "example": "Le directeur s'est adressé directement aux collaborateurs, sans intermédiaire.", "exampleEnglish": "The director addressed the employees directly, with no intermediary.", "level": "C2", "category": "corporate-discourse" },
+            { "id": "la-cohesion-d-equipe", "french": "la cohésion d'équipe", "english": "team cohesion", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah koh-ay-ZYON day-KEEP", "example": "La cohésion d'équipe se construit dans les moments difficiles, pas dans les discours faciles.", "exampleEnglish": "Team cohesion is built in hard times, not in easy speeches.", "level": "C2", "category": "corporate-discourse" },
+            { "id": "le-storytelling-d-entreprise", "french": "le storytelling d'entreprise", "english": "corporate storytelling", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh stor-ee-tell-eeng dahn-truh-PREEZ", "example": "Le storytelling d'entreprise ne remplace jamais un résultat concret.", "exampleEnglish": "Corporate storytelling never replaces a concrete result.", "level": "C2", "category": "corporate-discourse" },
+            { "id": "le-recit-de-marque", "french": "le récit de marque", "english": "the brand narrative", "partOfSpeech": "noun", "gender": "m", "plural": "les récits de marque", "pronunciation": "luh ray-SEE duh MARK", "example": "Le récit de marque doit rester cohérent avec l'expérience vécue par le client.", "exampleEnglish": "The brand narrative must stay consistent with the customer's actual experience.", "level": "C2", "category": "corporate-discourse" },
+            { "id": "la-culture-d-entreprise", "french": "la culture d'entreprise", "english": "the corporate culture", "partOfSpeech": "noun", "gender": "f", "plural": "les cultures d'entreprise", "pronunciation": "lah kül-TÜR dahn-truh-PREEZ", "example": "Une culture d'entreprise solide résiste mieux aux crises passagères.", "exampleEnglish": "A solid corporate culture withstands passing crises better.", "level": "C2", "category": "corporate-discourse" },
+            { "id": "l-argumentaire", "french": "l'argumentaire", "english": "the pitch deck, the talking-points document", "partOfSpeech": "noun", "gender": "m", "plural": "les argumentaires", "pronunciation": "lar-gü-mahn-TAIR", "example": "L'argumentaire a été retravaillé la veille de la présentation aux investisseurs.", "exampleEnglish": "The pitch deck was reworked the night before the investor presentation.", "level": "C2", "category": "corporate-discourse" },
+            { "id": "la-synthese", "french": "la synthèse", "english": "the executive summary, the synthesis", "partOfSpeech": "noun", "gender": "f", "plural": "les synthèses", "pronunciation": "lah san-TEZ", "example": "Le comité exécutif n'a lu que la synthèse, pas le rapport complet.", "exampleEnglish": "The executive committee only read the summary, not the full report.", "level": "C2", "category": "corporate-discourse" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Le conditionnel de prudence : dire sans affirmer",
+              "body": "In corporate and press French, the conditional signals a claim the speaker will not personally certify — protecting the institution from liability while still communicating information. It appears constantly in results announcements, denials, and non-denials, and recognising it is essential to reading between the lines of any corporate statement.",
+              "examples": [
+                { "french": "Les résultats du troisième trimestre seraient en deçà des prévisions.", "english": "Third-quarter results are reportedly below forecasts.", "note": "unconfirmed claim, not a hypothesis" },
+                { "french": "Un accord aurait été trouvé avec les syndicats en fin de soirée.", "english": "An agreement was reportedly reached with the unions late in the evening." },
+                { "french": "La direction n'aurait pas encore tranché sur le sort de l'usine.", "english": "Management has apparently not yet decided the plant's fate." },
+                { "french": "Nous ne confirmons ni n'infirmons les chiffres qui circuleraient.", "english": "We neither confirm nor deny the figures said to be circulating." },
+                { "french": "Employer le conditionnel, c'est parler sans s'engager formellement.", "english": "Using the conditional is speaking without formally committing oneself." }
+              ],
+              "tip": "Whenever a company statement uses the conditional for a fact rather than a hypothesis, read it as 'this is true, but we won't be the ones who said so.'"
+            },
+            {
+              "heading": "La nominalisation : du verbe à l'abstraction officielle",
+              "body": "Corporate and institutional French favours turning a verb-driven statement into a noun phrase, distancing the actor and softening the action: \"réorganiser\" becomes \"procéder à une réorganisation,\" \"décider\" becomes \"prendre la décision de.\" This nominal style sounds more formal and less personally accountable — recognising it lets you translate it back into who did what.",
+              "examples": [
+                { "french": "Nous procédons à une réorganisation du service commercial.", "english": "We are carrying out a reorganisation of the sales department.", "note": "compare: nous réorganisons" },
+                { "french": "La direction a pris la décision de suspendre le projet.", "english": "Management has made the decision to suspend the project." },
+                { "french": "Il a été procédé à une révision complète du budget.", "english": "A full revision of the budget was carried out.", "note": "passive, no actor named" },
+                { "french": "La mise en œuvre du plan débutera au premier trimestre.", "english": "Implementation of the plan will begin in the first quarter." },
+                { "french": "L'annonce de la fermeture a suivi la publication des résultats.", "english": "The announcement of the closure followed the publication of the results." }
+              ],
+              "tip": "Translate a nominalised corporate sentence back into 'who does what' — it is often the fastest way to see what is actually being said, or hidden."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "c2_u23_l01_li01", "type": "listenChoose", "prompt": "Listen. Which term is being described?", "french": "Cette expression désigne un langage vide qui rassure sans jamais rien dire de concret.", "options": ["La novlangue managériale", "Le discours mobilisateur", "La prise de parole", "L'aveu d'échec"], "answer": "La novlangue managériale" },
+            { "id": "c2_u23_l01_li02", "type": "listenChoose", "prompt": "Listen. Which term is being described?", "french": "Cette pratique consiste à présenter une mauvaise nouvelle sans la déformer.", "options": ["Cadrer", "Travestir", "Édulcorer", "Mobiliser"], "answer": "Cadrer" },
+            { "id": "c2_u23_l01_li03", "type": "listenType", "prompt": "Listen and type this sentence exactly.", "french": "Le silence sur un échec se paie toujours plus cher que son aveu.", "answer": "Le silence sur un échec se paie toujours plus cher que son aveu.", "acceptedAnswers": ["le silence sur un echec se paie toujours plus cher que son aveu"] },
+            { "id": "c2_u23_l01_li04", "type": "dictation", "prompt": "Dictation: write down this sentence exactly.", "french": "Cadrer une mauvaise nouvelle, ce n'est pas l'édulcorer, c'est la rendre audible.", "answer": "Cadrer une mauvaise nouvelle, ce n'est pas l'édulcorer, c'est la rendre audible.", "acceptedAnswers": ["cadrer une mauvaise nouvelle ce n'est pas l'edulcorer c'est la rendre audible", "cadrer une mauvaise nouvelle ce n est pas l edulcorer c est la rendre audible"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "c2_u23_l01_sp01", "type": "speak", "prompt": "Deliver this line as the opening of a rallying speech to a tired team.", "french": "Ce trimestre a été difficile ; le prochain sera décisif.", "english": "This quarter was difficult; the next will be decisive.", "tip": "Pause after 'difficile' to let it land before pivoting to 'décisif'." },
+            { "id": "c2_u23_l01_sp02", "type": "speak", "prompt": "Say this as a CEO owning a bad quarter in front of the board.", "french": "Nous n'avons pas atteint nos objectifs, et nous en assumons la responsabilité.", "english": "We did not reach our targets, and we take responsibility for that.", "tip": "Stress 'assumons' — it is the whole point of the sentence." },
+            { "id": "c2_u23_l01_sp03", "type": "speak", "prompt": "Deliver this as a sharp, dry aside dismissing empty corporate jargon.", "french": "« Optimiser les synergies » ne veut plus rien dire pour personne.", "english": "\"Optimising synergies\" no longer means anything to anyone.", "tip": "Let a light irony colour 'ne veut plus rien dire' without turning it into a caricature." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Une allocution qui tombe juste",
+              "french": "Quand Élise Battier a pris la parole devant les huit cents salariés réunis dans l'auditorium, personne n'attendait un miracle.\nLe groupe Vernoux venait d'annoncer la suppression de deux cents postes, et la novlangue habituelle aurait suffi à vider la salle de tout espoir.\nElle a choisi une autre voie. « Nous n'avons pas atteint nos objectifs, et nous en assumons la responsabilité », a-t-elle commencé, sans détour ni élément de langage superflu.\nPlutôt que de travestir l'échec en simple ajustement stratégique, elle a nommé chaque erreur : un investissement lancé trop tôt, un marché mal évalué, des alertes internes ignorées trop longtemps.\nLe silence dans la salle n'était plus celui de la méfiance, mais de l'attention.\n« Ce trimestre a été difficile ; le prochain sera décisif », a-t-elle poursuivi, avant d'exposer, point par point, ce qui allait changer dès le mois suivant.\nAucune promesse chiffrée, aucun enthousiasme forcé — seulement une feuille de route précise et un aveu assumé.\nLes analystes présents, habitués aux discours convenus, ont noté l'absence quasi totale de jargon managérial.\n« Un bon communicant sait quand quitter les éléments de langage pour dire la vérité nue », a commenté un observateur en sortant.\nLe lendemain, l'action du groupe n'avait pas bondi ; mais en interne, pour la première fois depuis des mois, la cohésion d'équipe semblait redevenue possible.",
+              "english": "When Élise Battier took the floor in front of the eight hundred employees gathered in the auditorium, no one expected a miracle.\nThe Vernoux group had just announced the elimination of two hundred jobs, and the usual newspeak would have been enough to drain all hope from the room.\nShe chose another path. \"We did not reach our targets, and we take responsibility for that,\" she began, with no detours or superfluous talking points.\nRather than dressing up the failure as a mere strategic adjustment, she named each mistake: an investment launched too early, a market misjudged, internal warnings ignored for too long.\nThe silence in the room was no longer one of distrust, but of attention.\n\"This quarter was difficult; the next will be decisive,\" she continued, before laying out, point by point, what was going to change starting the following month.\nNo figures promised, no forced enthusiasm — only a precise roadmap and an owned admission.\nThe analysts present, used to conventional speeches, noted the near-total absence of management jargon.\n\"A good communicator knows when to abandon the talking points and speak the plain truth,\" one observer remarked on the way out.\nThe next day, the group's share price had not surged; but internally, for the first time in months, team cohesion seemed possible again.",
+              "questions": [
+                { "id": "c2_u23_l01_rd01", "type": "multipleChoice", "prompt": "What rhetorical choice does Élise Battier make instead of relying on the usual corporate jargon?", "options": ["She names the concrete errors that led to the layoffs", "She reads a prepared list of technical financial figures", "She refuses to address the layoffs at all", "She blames the employees for the missed targets"], "answer": "She names the concrete errors that led to the layoffs" },
+                { "id": "c2_u23_l01_rd02", "type": "multipleChoice", "prompt": "What effect does her directness have on the room?", "options": ["The silence shifts from distrust to attention", "The employees leave before she finishes", "The board cancels the rest of her speech", "Analysts dismiss the speech as unconvincing"], "answer": "The silence shifts from distrust to attention" },
+                { "id": "c2_u23_l01_rd03", "type": "trueFalse", "prompt": "According to the passage, the company's share price surged sharply the day after the speech.", "options": ["True", "False"], "answer": "False" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "c2_u23_l01_wr01", "type": "translate", "prompt": "Translate into French.", "english": "Framing bad news is not sweetening it, it's making it audible.", "answer": "Cadrer une mauvaise nouvelle, ce n'est pas l'édulcorer, c'est la rendre audible.", "acceptedAnswers": ["cadrer une mauvaise nouvelle ce n'est pas l'edulcorer c'est la rendre audible", "cadrer une mauvaise nouvelle ce n est pas l edulcorer c est la rendre audible"] },
+            { "id": "c2_u23_l01_wr02", "type": "arrangeWords", "prompt": "Rebuild this sentence about rallying speeches.", "words": ["se", "mesure", "Un", "discours", "mobilisateur", "à", "ce", "qu'il", "inspire"], "answer": "Un discours mobilisateur se mesure à ce qu'il inspire", "english": "A rallying speech is measured by what it inspires." },
+            { "id": "c2_u23_l01_wr03", "type": "fillBlank", "prompt": "Le silence sur un échec se paie toujours plus cher que son ___.", "answer": "aveu", "tip": "The noun form of 'avouer', meaning a confession or admission." }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "c2_u23_l01_pr01", "type": "multipleChoice", "prompt": "Quelle expression désigne des points de discours pré-approuvés que l'on répète face à différents publics ?", "options": ["Les éléments de langage", "La novlangue managériale", "L'aveu d'échec", "La cohésion d'équipe"], "answer": "Les éléments de langage" },
+            { "id": "c2_u23_l01_pr02", "type": "match", "prompt": "Match each term with its meaning.", "pairs": [ { "french": "cadrer", "english": "to frame a message without distorting it" }, { "french": "travestir", "english": "to distort, to misrepresent" }, { "french": "galvaniser", "english": "to energise a team" }, { "french": "la novlangue managériale", "english": "empty corporate jargon" } ] },
+            { "id": "c2_u23_l01_pr03", "type": "fillBlank", "prompt": "Nous ___ pleinement la responsabilité de ce retard.", "answer": "assumons" },
+            { "id": "c2_u23_l01_pr04", "type": "trueFalse", "prompt": "La novlangue managériale communique toujours une information précise et vérifiable.", "options": ["True", "False"], "answer": "False" },
+            { "id": "c2_u23_l01_pr05", "type": "translate", "prompt": "Translate: A good communicator knows when to abandon the talking points and speak the plain truth.", "english": "A good communicator knows when to abandon the talking points and speak the plain truth.", "answer": "Un bon communicant sait quand quitter les éléments de langage pour dire la vérité nue.", "acceptedAnswers": ["un bon communicant sait quand quitter les elements de langage pour dire la verite nue"] },
+            { "id": "c2_u23_l01_pr06", "type": "multipleChoice", "prompt": "Quel est l'effet de la nominalisation dans le discours d'entreprise (« procéder à une réorganisation » plutôt que « réorganiser ») ?", "options": ["Elle distancie et dépersonnalise l'action décrite", "Elle rend le message plus direct et personnel", "Elle est réservée à l'oral spontané", "Elle est incorrecte grammaticalement"], "answer": "Elle distancie et dépersonnalise l'action décrite" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "c2_u23_l01_qz01", "type": "multipleChoice", "prompt": "Qu'est-ce que « cadrer » une mauvaise nouvelle, par opposition à la « travestir » ?", "options": ["La rendre audible sans en déformer le contenu", "La cacher entièrement au public", "L'exagérer pour choquer l'auditoire", "La confier uniquement aux syndicats"], "answer": "La rendre audible sans en déformer le contenu" },
+            { "id": "c2_u23_l01_qz02", "type": "fillBlank", "prompt": "« Optimiser les ___ » ne veut plus rien dire pour personne.", "answer": "synergies" },
+            { "id": "c2_u23_l01_qz03", "type": "multipleChoice", "prompt": "What does the conditional tense typically signal in a corporate press statement?", "options": ["Information the speaker will not personally certify as fact", "A firm, fully confirmed commitment", "A grammatical error to avoid", "An informal register unsuitable for business"], "answer": "Information the speaker will not personally certify as fact" },
+            { "id": "c2_u23_l01_qz04", "type": "trueFalse", "prompt": "Un discours mobilisateur efficace doit ouvrir sur le point le plus intense pour donner le ton.", "options": ["True", "False"], "answer": "False", "tip": "Reserve peak intensity for the close; opening at maximum leaves nowhere to climb." },
+            { "id": "c2_u23_l01_qz05", "type": "multipleChoice", "prompt": "Quel effet a la nominalisation « la mise en œuvre du plan débutera... » par rapport à « nous mettrons en œuvre le plan » ?", "options": ["Elle dilue la responsabilité de l'acteur", "Elle nomme précisément qui agit", "Elle est réservée aux discours oraux informels", "Elle rend la phrase plus courte à l'oral"], "answer": "Elle dilue la responsabilité de l'acteur" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c2_u23_l02",
+      "level": "C2",
+      "unit": 23,
+      "title": "La négociation complexe",
+      "description": "Beyond diplomacy: read the balance of power, deploy anchoring and leverage, and close a high-stakes deal without ever showing your hand.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Le rapport de force : lire la partie avant de la jouer",
+              "body": "Before a single word is exchanged, every complex negotiation is shaped by an underlying rapport de force — who needs the deal more, who has alternatives, who controls the timeline. A C2-level negotiator reads this balance before opening their mouth, and never mistakes politeness for an absence of power dynamics.",
+              "examples": [
+                { "french": "Le rapport de force a basculé dès que notre concurrent a annoncé son retrait.", "english": "The balance of power shifted the moment our competitor announced its withdrawal." },
+                { "french": "Celui qui a le moins besoin de l'accord détient, de fait, le plus de pouvoir.", "english": "Whoever needs the deal least holds, in fact, the most power." },
+                { "french": "Ne confondez jamais la courtoisie de votre interlocuteur avec une position de faiblesse.", "english": "Never mistake your counterpart's courtesy for a position of weakness." },
+                { "french": "Lire le rapport de force, c'est d'abord savoir qui peut se permettre d'attendre.", "english": "Reading the balance of power starts with knowing who can afford to wait." },
+                { "french": "Un bon négociateur évalue son propre levier avant même d'entrer dans la salle.", "english": "A skilled negotiator assesses their own leverage before even entering the room." }
+              ],
+              "tip": "Ask yourself who walks away with less if the talks collapse today — that answer is the real starting position, whatever the opening speeches say."
+            },
+            {
+              "heading": "L'ancrage et la position de repli",
+              "body": "Anchoring (l'ancrage) sets the reference point the rest of the negotiation will orbit around — the first credible figure spoken often shapes the final outcome disproportionately. Just as essential is knowing your own position de repli, the fallback you retreat to if the deal cannot be reached on better terms, and never revealing it before you must.",
+              "examples": [
+                { "french": "Celui qui ancre le premier chiffre oriente toute la discussion qui suit.", "english": "Whoever anchors the first figure shapes the entire discussion that follows." },
+                { "french": "Ancrer trop haut sans justification décrédibilise l'ensemble de l'offre.", "english": "Anchoring too high without justification undermines the whole offer's credibility." },
+                { "french": "Définissez votre position de repli avant d'entrer dans la salle, jamais pendant.", "english": "Define your fallback position before entering the room, never during." },
+                { "french": "Révéler sa position de repli, c'est offrir gratuitement son point de rupture à l'adversaire.", "english": "Revealing your fallback position hands your opponent your breaking point for free." },
+                { "french": "Le point de rupture n'est jamais un chiffre fixe ; il dépend de ce que vous êtes prêt à perdre.", "english": "The breaking point is never a fixed number; it depends on what you're prepared to lose." }
+              ],
+              "tip": "Write your walk-away number down before the meeting — under pressure, the mind quietly revises it upward without telling you."
+            },
+            {
+              "heading": "Les tactiques de pouvoir : lever, temporiser, déstabiliser",
+              "body": "Complex negotiation deploys tactics well beyond diplomatic phrasing: exercer un levier to convert an advantage into concrete concessions, temporiser to buy time when a position is not yet ready, or déstabiliser a counterpart with a calculated silence or a sudden change of pace. None of these require raising one's voice — the most effective ones rarely do.",
+              "examples": [
+                { "french": "Elle a su exercer un levier décisif au moment où l'accord semblait acquis.", "english": "She managed to exert decisive leverage right when the deal seemed secured." },
+                { "french": "Temporiser n'est pas hésiter : c'est attendre que le rapport de force évolue.", "english": "Stalling is not hesitating: it's waiting for the balance of power to shift." },
+                { "french": "Un silence bien placé déstabilise plus sûrement qu'une objection frontale.", "english": "A well-placed silence unsettles more surely than a head-on objection." },
+                { "french": "Elle a laissé traîner la réponse trois jours, sans jamais s'excuser du délai.", "english": "She let the reply drag on for three days, never apologising for the delay." },
+                { "french": "Reprendre la main après une concession exige un aplomb que peu maîtrisent.", "english": "Regaining the upper hand after a concession requires a composure few master." }
+              ],
+              "tip": "A tactic used too often stops working — rotate leverage, stalling, and silence rather than leaning on a single move."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "le-rapport-de-force", "french": "le rapport de force", "english": "the balance of power, the power dynamics", "partOfSpeech": "noun", "gender": "m", "plural": "les rapports de force", "pronunciation": "luh rah-POR duh FORSS", "example": "Le rapport de force a basculé dès que notre concurrent a annoncé son retrait.", "exampleEnglish": "The balance of power shifted the moment our competitor announced its withdrawal.", "level": "C2", "category": "advanced-negotiation" },
+            { "id": "la-position-de-repli", "french": "la position de repli", "english": "the fallback position", "partOfSpeech": "noun", "gender": "f", "plural": "les positions de repli", "pronunciation": "lah poh-zee-SYON duh ruh-PLEE", "example": "Définissez votre position de repli avant d'entrer dans la salle.", "exampleEnglish": "Define your fallback position before entering the room.", "level": "C2", "category": "advanced-negotiation" },
+            { "id": "le-point-de-rupture", "french": "le point de rupture", "english": "the breaking point", "partOfSpeech": "noun", "gender": "m", "plural": "les points de rupture", "pronunciation": "luh pwan duh rüp-TÜR", "example": "Le point de rupture n'est jamais un chiffre fixe.", "exampleEnglish": "The breaking point is never a fixed number.", "level": "C2", "category": "advanced-negotiation" },
+            { "id": "l-ancrage", "french": "l'ancrage", "english": "the anchoring (negotiation tactic)", "partOfSpeech": "noun", "gender": "m", "plural": "les ancrages", "pronunciation": "lahn-KRAZH", "example": "L'ancrage du premier chiffre oriente toute la discussion.", "exampleEnglish": "Anchoring the first figure shapes the entire discussion.", "level": "C2", "category": "advanced-negotiation" },
+            { "id": "ancrer", "french": "ancrer", "english": "to anchor (a figure, a position)", "partOfSpeech": "verb", "pronunciation": "ahn-KRAY", "example": "Ancrer trop haut sans justification décrédibilise l'offre.", "exampleEnglish": "Anchoring too high without justification undermines the offer's credibility.", "level": "C2", "category": "advanced-negotiation" },
+            { "id": "levier", "french": "le levier", "english": "the lever, the leverage", "partOfSpeech": "noun", "gender": "m", "plural": "les leviers", "pronunciation": "luh luh-VYAY", "example": "Elle a su exercer un levier décisif au bon moment.", "exampleEnglish": "She managed to exert decisive leverage at the right moment.", "level": "C2", "category": "advanced-negotiation" },
+            { "id": "exercer-un-levier", "french": "exercer un levier", "english": "to exert leverage", "partOfSpeech": "expression", "pronunciation": "ek-sehr-SAY uhn luh-VYAY", "example": "Exercer un levier suppose d'abord de savoir où il se trouve.", "exampleEnglish": "Exerting leverage first requires knowing where it lies.", "level": "C2", "category": "advanced-negotiation" },
+            { "id": "la-marge-de-manoeuvre", "french": "la marge de manœuvre", "english": "room to manoeuvre, latitude", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah marzh duh mah-NUVR", "example": "Notre marge de manœuvre s'est réduite après leur dernier refus.", "exampleEnglish": "Our room to manoeuvre shrank after their last refusal.", "level": "C2", "category": "advanced-negotiation" },
+            { "id": "la-zone-d-accord-possible", "french": "la zone d'accord possible", "english": "the zone of possible agreement", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah zohn dah-kor poh-SEEBL", "example": "La zone d'accord possible s'est resserrée en fin de journée.", "exampleEnglish": "The zone of possible agreement narrowed by the end of the day.", "level": "C2", "category": "advanced-negotiation" },
+            { "id": "l-asymetrie-d-information", "french": "l'asymétrie d'information", "english": "information asymmetry", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah-see-may-TREE dan-for-mah-SYON", "example": "L'asymétrie d'information favorisait clairement le vendeur.", "exampleEnglish": "The information asymmetry clearly favoured the seller.", "level": "C2", "category": "advanced-negotiation" },
+            { "id": "instrumentaliser", "french": "instrumentaliser", "english": "to instrumentalise, to exploit", "partOfSpeech": "verb", "pronunciation": "an-strü-mahn-tah-lee-ZAY", "example": "Il a instrumentalisé la presse pour faire pression sur nous.", "exampleEnglish": "He used the press as a tool to pressure us.", "level": "C2", "category": "advanced-negotiation" },
+            { "id": "desarconner", "french": "désarçonner", "english": "to unsettle, to throw off balance", "partOfSpeech": "verb", "pronunciation": "day-zar-soh-NAY", "example": "Sa question a désarçonné l'équipe adverse en plein exposé.", "exampleEnglish": "Her question threw the opposing team off balance mid-presentation.", "level": "C2", "category": "advanced-negotiation" },
+            { "id": "destabiliser", "french": "déstabiliser", "english": "to destabilise, to unsettle", "partOfSpeech": "verb", "pronunciation": "day-stah-bee-lee-ZAY", "example": "Un silence bien placé déstabilise plus qu'une objection frontale.", "exampleEnglish": "A well-placed silence unsettles more than a head-on objection.", "level": "C2", "category": "advanced-negotiation" },
+            { "id": "la-coalition", "french": "la coalition", "english": "the coalition", "partOfSpeech": "noun", "gender": "f", "plural": "les coalitions", "pronunciation": "lah koh-ah-lee-SYON", "example": "Une coalition d'acheteurs s'est formée pour peser sur le prix.", "exampleEnglish": "A coalition of buyers formed to push down the price.", "level": "C2", "category": "advanced-negotiation" },
+            { "id": "reprendre-la-main", "french": "reprendre la main", "english": "to regain the upper hand", "partOfSpeech": "expression", "pronunciation": "ruh-PRAHN-druh lah MAN", "example": "Reprendre la main après une concession exige de l'aplomb.", "exampleEnglish": "Regaining the upper hand after a concession takes composure.", "level": "C2", "category": "advanced-negotiation" },
+            { "id": "lacher-du-lest", "french": "lâcher du lest", "english": "to give ground, to make concessions", "partOfSpeech": "expression", "pronunciation": "lah-SHAY dü LEST", "example": "Il faudra lâcher du lest sur les délais pour sauver l'accord.", "exampleEnglish": "We'll need to give some ground on the deadlines to save the deal.", "level": "C2", "category": "advanced-negotiation" },
+            { "id": "tenir-bon", "french": "tenir bon", "english": "to hold firm", "partOfSpeech": "expression", "pronunciation": "tuh-NEER BON", "example": "Elle a tenu bon sur le prix jusqu'à la dernière minute.", "exampleEnglish": "She held firm on the price until the very last minute.", "level": "C2", "category": "advanced-negotiation" },
+            { "id": "la-carte-maitresse", "french": "la carte maîtresse", "english": "the trump card", "partOfSpeech": "noun", "gender": "f", "plural": "les cartes maîtresses", "pronunciation": "lah kart meh-TRESS", "example": "Gardez votre carte maîtresse pour la dernière séance.", "exampleEnglish": "Keep your trump card for the final session.", "level": "C2", "category": "advanced-negotiation" },
+            { "id": "abattre-ses-cartes", "french": "abattre ses cartes", "english": "to show one's hand", "partOfSpeech": "expression", "pronunciation": "ah-BAT-truh say KART", "example": "Aucune des deux parties ne voulait abattre ses cartes en premier.", "exampleEnglish": "Neither party wanted to show their hand first.", "level": "C2", "category": "advanced-negotiation" },
+            { "id": "bluffer", "french": "bluffer", "english": "to bluff", "partOfSpeech": "verb", "pronunciation": "bluf-FAY", "example": "Il bluffait sur l'existence d'une autre offre.", "exampleEnglish": "He was bluffing about the existence of another offer.", "level": "C2", "category": "advanced-negotiation" },
+            { "id": "le-bluff", "french": "le bluff", "english": "the bluff", "partOfSpeech": "noun", "gender": "m", "plural": "les bluffs", "pronunciation": "luh BLUF", "example": "Le bluff a fonctionné : ils ont cédé sans vérifier.", "exampleEnglish": "The bluff worked: they gave in without checking.", "level": "C2", "category": "advanced-negotiation" },
+            { "id": "la-contre-proposition", "french": "la contre-proposition", "english": "the counter-offer", "partOfSpeech": "noun", "gender": "f", "plural": "les contre-propositions", "pronunciation": "lah kontr-proh-poh-zee-SYON", "example": "Leur contre-proposition est arrivée dès le lendemain matin.", "exampleEnglish": "Their counter-offer arrived the very next morning.", "level": "C2", "category": "advanced-negotiation" },
+            { "id": "surencherir", "french": "surenchérir", "english": "to up the ante, to outbid", "partOfSpeech": "verb", "pronunciation": "sü-rahn-shay-REER", "example": "Un concurrent a surenchéri au dernier moment.", "exampleEnglish": "A competitor upped the ante at the last moment.", "level": "C2", "category": "advanced-negotiation" },
+            { "id": "la-surenchere", "french": "la surenchère", "english": "the one-upmanship, the escalating bidding", "partOfSpeech": "noun", "gender": "f", "plural": "les surenchères", "pronunciation": "lah sü-rahn-SHAIR", "example": "La surenchère a fini par faire capoter les deux offres.", "exampleEnglish": "The escalating bidding eventually scuppered both offers.", "level": "C2", "category": "advanced-negotiation" },
+            { "id": "le-point-de-blocage", "french": "le point de blocage", "english": "the sticking point", "partOfSpeech": "noun", "gender": "m", "plural": "les points de blocage", "pronunciation": "luh pwan duh bloh-KAZH", "example": "Le calendrier reste le principal point de blocage.", "exampleEnglish": "The schedule remains the main sticking point.", "level": "C2", "category": "advanced-negotiation" },
+            { "id": "faire-capoter", "french": "faire capoter", "english": "to derail, to scupper (a deal)", "partOfSpeech": "expression", "pronunciation": "fair kah-poh-TAY", "example": "Un détail administratif a failli faire capoter l'accord.", "exampleEnglish": "An administrative detail nearly scuppered the deal.", "level": "C2", "category": "advanced-negotiation" },
+            { "id": "la-tactique-dilatoire", "french": "la tactique dilatoire", "english": "the stalling tactic", "partOfSpeech": "noun", "gender": "f", "plural": "les tactiques dilatoires", "pronunciation": "lah tak-TEEK dee-lah-twahr", "example": "Leur silence prolongé n'était qu'une tactique dilatoire.", "exampleEnglish": "Their prolonged silence was just a stalling tactic.", "level": "C2", "category": "advanced-negotiation" },
+            { "id": "temporiser", "french": "temporiser", "english": "to stall, to play for time", "partOfSpeech": "verb", "pronunciation": "tahn-poh-ree-ZAY", "example": "Temporiser n'est pas hésiter : c'est attendre que le rapport de force évolue.", "exampleEnglish": "Stalling is not hesitating: it's waiting for the balance of power to shift.", "level": "C2", "category": "advanced-negotiation" },
+            { "id": "gagner-du-temps", "french": "gagner du temps", "english": "to buy time", "partOfSpeech": "expression", "pronunciation": "gan-YAY dü TAHN", "example": "Elle a posé une question technique pour gagner du temps.", "exampleEnglish": "She asked a technical question to buy time.", "level": "C2", "category": "advanced-negotiation" },
+            { "id": "la-posture-de-negociation", "french": "la posture de négociation", "english": "the negotiating posture, the stance", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah pos-TÜR duh nay-goh-syah-SYON", "example": "Sa posture de négociation reste calme, presque détachée.", "exampleEnglish": "Her negotiating posture stays calm, almost detached.", "level": "C2", "category": "advanced-negotiation" },
+            { "id": "l-entente-tacite", "french": "l'entente tacite", "english": "the tacit agreement, the unspoken understanding", "partOfSpeech": "noun", "gender": "f", "plural": "les ententes tacites", "pronunciation": "lahn-TAHNT tah-SEET", "example": "Une entente tacite s'était installée sur les grandes lignes.", "exampleEnglish": "A tacit understanding had settled over the broad outlines.", "level": "C2", "category": "advanced-negotiation" },
+            { "id": "verrouiller", "french": "verrouiller", "english": "to lock in (a deal, an agreement)", "partOfSpeech": "verb", "pronunciation": "veh-roo-YAY", "example": "Il fallait verrouiller l'accord avant que le marché ne bouge.", "exampleEnglish": "The deal had to be locked in before the market moved.", "level": "C2", "category": "advanced-negotiation" },
+            { "id": "conclure", "french": "conclure", "english": "to close, to conclude (a deal)", "partOfSpeech": "verb", "pronunciation": "kon-KLÜR", "example": "Ils ont conclu l'accord juste avant minuit.", "exampleEnglish": "They closed the deal just before midnight.", "level": "C2", "category": "advanced-negotiation" },
+            { "id": "le-rapport-de-dependance", "french": "le rapport de dépendance", "english": "the dependency relationship", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh rah-POR duh day-pahn-DAHNSS", "example": "Le rapport de dépendance jouait clairement en notre défaveur.", "exampleEnglish": "The dependency relationship clearly worked against us.", "level": "C2", "category": "advanced-negotiation" },
+            { "id": "une-partie-prenante", "french": "une partie prenante", "english": "a stakeholder", "partOfSpeech": "noun", "gender": "f", "plural": "des parties prenantes", "pronunciation": "ün par-TEE pruh-NAHNT", "example": "Chaque partie prenante avait ses propres lignes rouges.", "exampleEnglish": "Each stakeholder had their own red lines.", "level": "C2", "category": "advanced-negotiation" },
+            { "id": "la-ligne-rouge", "french": "la ligne rouge", "english": "the red line, the non-negotiable limit", "partOfSpeech": "noun", "gender": "f", "plural": "les lignes rouges", "pronunciation": "lah leen ROOZH", "example": "Le prix plancher constituait notre seule ligne rouge.", "exampleEnglish": "The floor price was our only red line.", "level": "C2", "category": "advanced-negotiation" },
+            { "id": "le-rythme-de-la-negociation", "french": "le rythme de la négociation", "english": "the pace of the negotiation", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh reetm duh lah nay-goh-syah-SYON", "example": "Elle a délibérément ralenti le rythme de la négociation.", "exampleEnglish": "She deliberately slowed the pace of the negotiation.", "level": "C2", "category": "advanced-negotiation" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Le conditionnel passé : évoquer ce qui aurait pu être",
+              "body": "In negotiation debriefs and in real-time bargaining alike, the past conditional (aurait + participle) lets a speaker evoke a counterfactual scenario — what could have been obtained, conceded, or avoided under different conditions — without directly reproaching anyone. Paired with 'si' + plus-que-parfait, it reframes a past failure as a lesson rather than an accusation.",
+              "examples": [
+                { "french": "Si nous avions ancré plus haut, nous aurions sans doute obtenu davantage.", "english": "Had we anchored higher, we would likely have gotten more." },
+                { "french": "Vous auriez pu nous prévenir avant de changer les conditions.", "english": "You could have warned us before changing the terms." },
+                { "french": "Sans cette fuite d'information, l'accord aurait été signé dès mardi.", "english": "Without that information leak, the deal would have been signed by Tuesday." },
+                { "french": "Elle aurait accepté la première offre si le calendrier n'avait pas été aussi serré.", "english": "She would have accepted the first offer had the timeline not been so tight." },
+                { "french": "Ce round de négociation, mal préparé, n'aurait jamais dû commencer ainsi.", "english": "This round of negotiation, poorly prepared, should never have started that way." }
+              ],
+              "tip": "The past conditional lets you name a mistake in the room without naming who made it — useful when the person who erred is still sitting across the table."
+            },
+            {
+              "heading": "À moins que, pour peu que : poser une condition avec doigté",
+              "body": "'À moins que' (unless, + subjunctive, often with an optional 'ne' explétif) and 'pour peu que' (if only, provided that, + subjunctive) let a negotiator state a condition or a veiled threat without sounding like an ultimatum — the subjunctive itself signals that the outcome is still hypothetical, leaving room to negotiate the condition too.",
+              "examples": [
+                { "french": "Nous signerons cette semaine, à moins que le prix ne soit revu à la baisse.", "english": "We will sign this week, unless the price is revised downward." },
+                { "french": "Pour peu que vous acceptiez ce délai, l'accord est pratiquement conclu.", "english": "Provided you accept this deadline, the deal is practically done." },
+                { "french": "À moins qu'un accord ne soit trouvé d'ici vendredi, nous nous retirons de la table.", "english": "Unless an agreement is reached by Friday, we are withdrawing from the table." },
+                { "french": "Pour peu qu'une seule clause bouge, tout l'équilibre de l'accord s'effondre.", "english": "If even a single clause moves, the whole balance of the deal collapses." }
+              ],
+              "tip": "The optional 'ne' after 'à moins que' (ne soit, ne bouge) is a mark of careful register — it changes nothing in meaning, but signals a controlled, formal voice."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "c2_u23_l02_li01", "type": "listenChoose", "prompt": "Listen. Which term is being described?", "french": "Cette technique consiste à énoncer le premier chiffre pour orienter toute la discussion.", "options": ["L'ancrage", "La tactique dilatoire", "La coalition", "Le bluff"], "answer": "L'ancrage" },
+            { "id": "c2_u23_l02_li02", "type": "listenChoose", "prompt": "Listen. Which term is being described?", "french": "Cette expression désigne la limite que l'on refuse absolument de dépasser.", "options": ["La ligne rouge", "La carte maîtresse", "La contre-proposition", "L'entente tacite"], "answer": "La ligne rouge" },
+            { "id": "c2_u23_l02_li03", "type": "listenType", "prompt": "Listen and type this sentence exactly.", "french": "Un silence bien placé déstabilise plus sûrement qu'une objection frontale.", "answer": "Un silence bien placé déstabilise plus sûrement qu'une objection frontale.", "acceptedAnswers": ["un silence bien place destabilise plus surement qu'une objection frontale", "un silence bien place destabilise plus surement qu une objection frontale"] },
+            { "id": "c2_u23_l02_li04", "type": "dictation", "prompt": "Dictation: write down this sentence exactly.", "french": "Celui qui a le moins besoin de l'accord détient, de fait, le plus de pouvoir.", "answer": "Celui qui a le moins besoin de l'accord détient, de fait, le plus de pouvoir.", "acceptedAnswers": ["celui qui a le moins besoin de l'accord detient de fait le plus de pouvoir", "celui qui a le moins besoin de l accord detient de fait le plus de pouvoir"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "c2_u23_l02_sp01", "type": "speak", "prompt": "Deliver this as a calm but pointed reminder of who holds the advantage.", "french": "Celui qui a le moins besoin de l'accord détient, de fait, le plus de pouvoir.", "english": "Whoever needs the deal least holds, in fact, the most power.", "tip": "Keep it flat, almost matter-of-fact — the power is in the understatement, not the tone." },
+            { "id": "c2_u23_l02_sp02", "type": "speak", "prompt": "Say this while deliberately protecting your real bottom line.", "french": "Définissez votre position de repli avant d'entrer dans la salle, jamais pendant.", "english": "Define your fallback position before entering the room, never during.", "tip": "Stress 'jamais pendant' — that is the entire warning." },
+            { "id": "c2_u23_l02_sp03", "type": "speak", "prompt": "Deliver this line as you set a firm but open-ended condition.", "french": "Nous signerons cette semaine, à moins que le prix ne soit revu à la baisse.", "english": "We will sign this week, unless the price is revised downward.", "tip": "Let 'à moins que' land like a door left open, not a threat slammed shut." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Le rachat qui a failli capoter",
+              "french": "L'acquisition de Tellien Systèmes par le groupe Arka Capital devait être bouclée en six semaines ; elle en a pris quatre mois.\nDès la première séance, Arka Capital avait ancré son offre à un niveau volontairement bas, pariant sur l'urgence de trésorerie de Tellien.\nLe rapport de force semblait clair — jusqu'à ce que Tellien annonce, sans prévenir, l'intérêt d'un second acquéreur.\n« C'était du bluff pur, a reconnu plus tard un des négociateurs d'Arka, mais nous ne pouvions pas prendre le risque de vérifier. »\nLa marge de manœuvre d'Arka s'est aussitôt réduite, et son équipe a dû revoir sa position de repli en quelques heures.\nVint alors la phase la plus tendue : trois semaines de tactique dilatoire de part et d'autre, chacun attendant que l'autre bouge en premier.\n« Pour peu qu'une seule clause bouge, tout l'équilibre de l'accord s'effondre », a résumé un conseiller juridique présent aux dernières séances.\nLe point de blocage final ne portait ni sur le prix ni sur le calendrier, mais sur une clause de non-concurrence jugée trop large.\nArka a fini par lâcher du lest sur ce point précis, en échange d'une garantie sur les effectifs.\n« Nous avons dû reprendre la main sans donner l'impression de céder », a expliqué la directrice des fusions-acquisitions d'Arka.\nL'accord a finalement été signé un vendredi soir, sans communiqué de presse avant le lundi suivant — le temps, disaient certains, de laisser le rapport de force se stabiliser avant de l'annoncer au marché.",
+              "english": "The acquisition of Tellien Systèmes by the Arka Capital group was meant to close in six weeks; it took four months.\nFrom the first session, Arka Capital had anchored its offer at a deliberately low level, betting on Tellien's cash-flow urgency.\nThe balance of power seemed clear — until Tellien announced, without warning, the interest of a second buyer.\n\"It was pure bluff,\" one of Arka's negotiators later admitted, \"but we couldn't risk checking.\"\nArka's room to manoeuvre shrank immediately, and its team had to revise its fallback position within hours.\nThen came the tensest phase: three weeks of stalling tactics on both sides, each waiting for the other to move first.\n\"If even a single clause moves, the whole balance of the deal collapses,\" summarised a legal adviser present at the final sessions.\nThe final sticking point concerned neither the price nor the schedule, but a non-compete clause deemed too broad.\nArka eventually gave ground on that specific point, in exchange for a guarantee on staffing levels.\n\"We had to regain the upper hand without appearing to give in,\" explained Arka's head of mergers and acquisitions.\nThe deal was finally signed on a Friday evening, with no press release before the following Monday — time, some said, to let the balance of power settle before announcing it to the market.",
+              "questions": [
+                { "id": "c2_u23_l02_rd01", "type": "multipleChoice", "prompt": "Why does Tellien's announcement of a second interested buyer change the negotiation?", "options": ["It shifts the balance of power and forces Arka to reconsider its fallback position", "It ends the negotiation immediately", "It has no real effect on either side", "It forces Tellien to lower its own price"], "answer": "It shifts the balance of power and forces Arka to reconsider its fallback position" },
+                { "id": "c2_u23_l02_rd02", "type": "multipleChoice", "prompt": "What was the final sticking point in the deal?", "options": ["A non-compete clause judged too broad", "The overall purchase price", "The signing date", "The choice of law firm"], "answer": "A non-compete clause judged too broad" },
+                { "id": "c2_u23_l02_rd03", "type": "trueFalse", "prompt": "According to the passage, Arka Capital verified whether the second buyer's interest was genuine before reacting.", "options": ["True", "False"], "answer": "False" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "c2_u23_l02_wr01", "type": "translate", "prompt": "Translate into French.", "english": "Whoever needs the deal least holds, in fact, the most power.", "answer": "Celui qui a le moins besoin de l'accord détient, de fait, le plus de pouvoir.", "acceptedAnswers": ["celui qui a le moins besoin de l'accord detient de fait le plus de pouvoir", "celui qui a le moins besoin de l accord detient de fait le plus de pouvoir"] },
+            { "id": "c2_u23_l02_wr02", "type": "arrangeWords", "prompt": "Rebuild this sentence about the power of silence.", "words": ["Un", "silence", "bien", "placé", "déstabilise", "plus", "sûrement", "qu'une", "objection", "frontale"], "answer": "Un silence bien placé déstabilise plus sûrement qu'une objection frontale", "english": "A well-placed silence unsettles more surely than a head-on objection." },
+            { "id": "c2_u23_l02_wr03", "type": "fillBlank", "prompt": "Le point de ___ n'est jamais un chiffre fixe ; il dépend de ce que vous êtes prêt à perdre.", "answer": "rupture", "tip": "Paired with 'point de' to mean the breaking point." }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "c2_u23_l02_pr01", "type": "multipleChoice", "prompt": "Quelle tactique consiste à énoncer délibérément un premier chiffre extrême pour orienter la suite ?", "options": ["L'ancrage", "La coalition", "L'entente tacite", "La ligne rouge"], "answer": "L'ancrage" },
+            { "id": "c2_u23_l02_pr02", "type": "match", "prompt": "Match each term with its meaning.", "pairs": [ { "french": "temporiser", "english": "to stall, to buy time deliberately" }, { "french": "abattre ses cartes", "english": "to reveal one's hand" }, { "french": "faire capoter", "english": "to derail a deal" }, { "french": "la carte maîtresse", "english": "the trump card" } ] },
+            { "id": "c2_u23_l02_pr03", "type": "fillBlank", "prompt": "Il faudra ___ du lest sur les délais pour sauver l'accord.", "answer": "lâcher" },
+            { "id": "c2_u23_l02_pr04", "type": "trueFalse", "prompt": "Révéler sa position de repli avant la fin des discussions renforce toujours son propre pouvoir de négociation.", "options": ["True", "False"], "answer": "False" },
+            { "id": "c2_u23_l02_pr05", "type": "translate", "prompt": "Translate: Provided you accept this deadline, the deal is practically done.", "english": "Provided you accept this deadline, the deal is practically done.", "answer": "Pour peu que vous acceptiez ce délai, l'accord est pratiquement conclu.", "acceptedAnswers": ["pour peu que vous acceptiez ce delai l'accord est pratiquement conclu", "pour peu que vous acceptiez ce delai l accord est pratiquement conclu"] },
+            { "id": "c2_u23_l02_pr06", "type": "multipleChoice", "prompt": "Pourquoi un négociateur expérimenté évite-t-il d'utiliser toujours la même tactique de pouvoir ?", "options": ["Parce qu'une tactique répétée perd son efficacité", "Parce que la loi l'interdit", "Parce que cela coûte plus cher", "Parce que cela rallonge automatiquement les délais"], "answer": "Parce qu'une tactique répétée perd son efficacité" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "c2_u23_l02_qz01", "type": "multipleChoice", "prompt": "Qu'est-ce que le « rapport de force » dans une négociation complexe ?", "options": ["L'équilibre des pouvoirs et des alternatives entre les parties", "Le montant final de l'accord signé", "Le nombre de personnes présentes à la table", "La durée totale des discussions"], "answer": "L'équilibre des pouvoirs et des alternatives entre les parties" },
+            { "id": "c2_u23_l02_qz02", "type": "fillBlank", "prompt": "___ n'est pas hésiter : c'est attendre que le rapport de force évolue.", "answer": "Temporiser" },
+            { "id": "c2_u23_l02_qz03", "type": "multipleChoice", "prompt": "What does the past conditional (aurait + participle) allow a negotiator to do in a debrief?", "options": ["Name a past mistake without directly accusing anyone", "Make a legally binding commitment", "Express a certain, confirmed fact", "Avoid using the subjunctive entirely"], "answer": "Name a past mistake without directly accusing anyone" },
+            { "id": "c2_u23_l02_qz04", "type": "trueFalse", "prompt": "La position de repli doit être définie pendant la négociation, en réaction aux propositions adverses.", "options": ["True", "False"], "answer": "False", "tip": "Define it before entering the room — deciding it live under pressure tends to erode it." },
+            { "id": "c2_u23_l02_qz05", "type": "multipleChoice", "prompt": "Quel est l'effet du « ne » explétif après « à moins que » ?", "options": ["Il marque un registre soigné, sans changer le sens", "Il rend la phrase négative", "Il est obligatoire pour la grammaticalité", "Il transforme le verbe en subjonctif passé"], "answer": "Il marque un registre soigné, sans changer le sens" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c2_u23_l03",
+      "level": "C2",
+      "unit": 23,
+      "title": "Le conseil",
+      "description": "The advisory register: recommend with authority, hedge with precision, and give a client counsel they can act on without ever overstating your certainty.",
+      "estimatedMinutes": 19,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Recommander sans dicter : l'autorité mesurée du conseil",
+              "body": "Expert advice must sound authoritative without becoming an order — the consultant informs a decision the client still owns. C2-level advisory register balances confident verbs (préconiser, recommander) with hedges (à notre sens, sous réserve de) that mark the limits of what the advisor can guarantee, letting authority and honesty coexist in the same sentence.",
+              "examples": [
+                { "french": "Nous préconisons une réorganisation progressive, plutôt qu'un big bang.", "english": "We recommend a gradual reorganisation, rather than a big bang." },
+                { "french": "À notre sens, le risque principal ne réside pas là où vous le situez.", "english": "In our view, the main risk does not lie where you place it." },
+                { "french": "Cette recommandation reste valable sous réserve d'une validation juridique.", "english": "This recommendation remains valid subject to legal validation." },
+                { "french": "Nous ne décidons pas à votre place ; nous éclairons la décision.", "english": "We do not decide in your place; we inform the decision." },
+                { "french": "Un conseil sans réserve affichée n'est jamais tout à fait honnête.", "english": "Advice with no stated caveat is never entirely honest." }
+              ],
+              "tip": "State your recommendation before your hedge, not after — leading with the caveat makes even solid advice sound tentative."
+            },
+            {
+              "heading": "Le diagnostic avant la recommandation",
+              "body": "No credible advisory register skips the diagnostic phase: before recommending anything, the consultant must objectiver the situation, name the working hypothesis, and show the client the reasoning, not only the conclusion. A recommendation without a visible diagnostic reads as an opinion; with one, it reads as expertise.",
+              "examples": [
+                { "french": "Avant toute recommandation, il convient d'objectiver la situation actuelle.", "english": "Before any recommendation, the current situation must be substantiated with evidence." },
+                { "french": "Notre hypothèse de travail repose sur trois entretiens et l'analyse des chiffres transmis.", "english": "Our working hypothesis rests on three interviews and the analysis of the figures provided." },
+                { "french": "Le diagnostic précède toujours la préconisation, jamais l'inverse.", "english": "The diagnosis always precedes the recommendation, never the reverse." },
+                { "french": "Sans diagnostic partagé, aucun plan d'action ne tient dans la durée.", "english": "Without a shared diagnosis, no action plan holds up over time." },
+                { "french": "Nous avons cherché à étayer chaque constat par une donnée vérifiable.", "english": "We sought to substantiate every finding with a verifiable data point." }
+              ],
+              "tip": "If a client cannot repeat your diagnostic in their own words, your recommendation will not survive their first internal meeting."
+            },
+            {
+              "heading": "La juste distance : l'accompagnement sans l'ingérence",
+              "body": "The consultant's authority depends on staying close enough to understand the client's reality, yet distant enough to keep the outside perspective (le regard extérieur) that justified hiring them in the first place. Good accompagnement guides implementation without quietly taking over decisions that must remain the client's own.",
+              "examples": [
+                { "french": "Notre rôle est d'accompagner la décision, pas de la prendre à votre place.", "english": "Our role is to support the decision, not to make it in your place." },
+                { "french": "Le regard extérieur perd toute sa valeur dès qu'il se laisse absorber par l'interne.", "english": "The outside perspective loses all its value the moment it gets absorbed into the internal view." },
+                { "french": "Nous restons disponibles pendant la mise en œuvre, sans nous y substituer.", "english": "We remain available during implementation, without taking it over ourselves." },
+                { "french": "Un bon consultant sait quand se retirer, pas seulement quand intervenir.", "english": "A good consultant knows when to step back, not only when to step in." },
+                { "french": "L'accompagnement s'arrête là où commence la dépendance du client.", "english": "Support ends where the client's dependency begins." }
+              ],
+              "tip": "The moment a client can no longer make a decision without you, the advisory relationship has gone wrong — even if it feels indispensable."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "le-cabinet-de-conseil", "french": "le cabinet de conseil", "english": "the consulting firm", "partOfSpeech": "noun", "gender": "m", "plural": "les cabinets de conseil", "pronunciation": "luh kah-bee-NAY duh kon-SAY", "example": "Elle a rejoint un grand cabinet de conseil après son MBA.", "exampleEnglish": "She joined a major consulting firm after her MBA.", "level": "C2", "category": "advisory-consulting" },
+            { "id": "le-consultant", "french": "le consultant", "english": "the consultant", "partOfSpeech": "noun", "gender": "m", "plural": "les consultants", "pronunciation": "luh kon-sül-TAHN", "example": "Le consultant a passé deux semaines en immersion avant de formuler son diagnostic.", "exampleEnglish": "The consultant spent two weeks embedded on-site before formulating his diagnosis.", "level": "C2", "category": "advisory-consulting" },
+            { "id": "la-consultante", "french": "la consultante", "english": "the female consultant", "partOfSpeech": "noun", "gender": "f", "plural": "les consultantes", "pronunciation": "lah kon-sül-TAHNT", "example": "La consultante a recommandé un plan en trois phases.", "exampleEnglish": "The consultant recommended a three-phase plan.", "level": "C2", "category": "advisory-consulting" },
+            { "id": "la-mission-de-conseil", "french": "la mission de conseil", "english": "the consulting engagement", "partOfSpeech": "noun", "gender": "f", "plural": "les missions de conseil", "pronunciation": "lah mee-SYON duh kon-SAY", "example": "La mission de conseil devait initialement durer six semaines.", "exampleEnglish": "The consulting engagement was initially meant to last six weeks.", "level": "C2", "category": "advisory-consulting" },
+            { "id": "le-client", "french": "le client", "english": "the client", "partOfSpeech": "noun", "gender": "m", "plural": "les clients", "pronunciation": "luh klee-AHN", "example": "Le client final valide chaque étape du plan d'action.", "exampleEnglish": "The end client signs off on every stage of the action plan.", "level": "C2", "category": "advisory-consulting" },
+            { "id": "la-relation-client", "french": "la relation client", "english": "the client relationship", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah ruh-lah-SYON klee-AHN", "example": "La relation client repose sur une confiance construite dans la durée.", "exampleEnglish": "The client relationship rests on trust built over time.", "level": "C2", "category": "advisory-consulting" },
+            { "id": "preconiser", "french": "préconiser", "english": "to recommend, to advocate", "partOfSpeech": "verb", "pronunciation": "pray-ko-nee-ZAY", "example": "Nous préconisons une réorganisation progressive, plutôt qu'un big bang.", "exampleEnglish": "We recommend a gradual reorganisation, rather than a big bang.", "level": "C2", "category": "advisory-consulting" },
+            { "id": "recommander", "french": "recommander", "english": "to recommend", "partOfSpeech": "verb", "pronunciation": "ruh-koh-mahn-DAY", "example": "Nous recommandons une phase pilote avant le déploiement complet.", "exampleEnglish": "We recommend a pilot phase before full rollout.", "level": "C2", "category": "advisory-consulting" },
+            { "id": "recommandation", "french": "la recommandation", "english": "the recommendation", "partOfSpeech": "noun", "gender": "f", "plural": "les recommandations", "pronunciation": "lah ruh-koh-mahn-dah-SYON", "example": "Cette recommandation reste valable sous réserve d'une validation juridique.", "exampleEnglish": "This recommendation remains valid subject to legal validation.", "level": "C2", "category": "advisory-consulting" },
+            { "id": "un-audit", "french": "un audit", "english": "an audit", "partOfSpeech": "noun", "gender": "m", "plural": "des audits", "pronunciation": "uhn oh-DEET", "example": "Un audit préalable a permis d'objectiver la situation.", "exampleEnglish": "A preliminary audit made it possible to substantiate the situation.", "level": "C2", "category": "advisory-consulting" },
+            { "id": "auditer", "french": "auditer", "english": "to audit", "partOfSpeech": "verb", "pronunciation": "oh-dee-TAY", "example": "Nous avons audité l'ensemble du processus achat en trois semaines.", "exampleEnglish": "We audited the entire purchasing process in three weeks.", "level": "C2", "category": "advisory-consulting" },
+            { "id": "le-diagnostic-strategique", "french": "le diagnostic stratégique", "english": "the strategic diagnosis", "partOfSpeech": "noun", "gender": "m", "plural": "les diagnostics stratégiques", "pronunciation": "luh dyahg-nos-TEEK strah-tay-ZHEEK", "example": "Le diagnostic stratégique précède toujours la préconisation.", "exampleEnglish": "The strategic diagnosis always precedes the recommendation.", "level": "C2", "category": "advisory-consulting" },
+            { "id": "objectiver", "french": "objectiver", "english": "to substantiate, to make objective", "partOfSpeech": "verb", "pronunciation": "ob-zhek-tee-VAY", "example": "Avant toute recommandation, il convient d'objectiver la situation actuelle.", "exampleEnglish": "Before any recommendation, the current situation must be substantiated with evidence.", "level": "C2", "category": "advisory-consulting" },
+            { "id": "etayer", "french": "étayer", "english": "to substantiate, to back up (an argument)", "partOfSpeech": "verb", "pronunciation": "ay-tay-YAY", "example": "Nous avons cherché à étayer chaque constat par une donnée vérifiable.", "exampleEnglish": "We sought to substantiate every finding with a verifiable data point.", "level": "C2", "category": "advisory-consulting" },
+            { "id": "l-hypothese-de-travail", "french": "l'hypothèse de travail", "english": "the working hypothesis", "partOfSpeech": "noun", "gender": "f", "plural": "les hypothèses de travail", "pronunciation": "lee-poh-TEZ duh trah-VAY", "example": "Notre hypothèse de travail repose sur trois entretiens.", "exampleEnglish": "Our working hypothesis rests on three interviews.", "level": "C2", "category": "advisory-consulting" },
+            { "id": "le-constat", "french": "le constat", "english": "the finding, the observation", "partOfSpeech": "noun", "gender": "m", "plural": "les constats", "pronunciation": "luh kon-STAH", "example": "Le constat initial a surpris la direction elle-même.", "exampleEnglish": "The initial finding surprised leadership itself.", "level": "C2", "category": "advisory-consulting" },
+            { "id": "la-feuille-de-route", "french": "la feuille de route", "english": "the roadmap", "partOfSpeech": "expression", "pronunciation": "lah fuhy duh ROOT", "example": "La feuille de route a été validée par le comité de direction.", "exampleEnglish": "The roadmap was approved by the leadership committee.", "level": "C2", "category": "advisory-consulting" },
+            { "id": "le-plan-d-action", "french": "le plan d'action", "english": "the action plan", "partOfSpeech": "noun", "gender": "m", "plural": "les plans d'action", "pronunciation": "luh plahn dak-SYON", "example": "Le plan d'action tient en une seule page, volontairement.", "exampleEnglish": "The action plan deliberately fits on a single page.", "level": "C2", "category": "advisory-consulting" },
+            { "id": "la-mise-en-oeuvre", "french": "la mise en œuvre", "english": "the implementation", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah meez ahn-NUVR", "example": "La mise en œuvre reste la phase la plus fragile de toute mission.", "exampleEnglish": "Implementation remains the most fragile phase of any engagement.", "level": "C2", "category": "advisory-consulting" },
+            { "id": "le-livrable", "french": "le livrable", "english": "the deliverable", "partOfSpeech": "noun", "gender": "m", "plural": "les livrables", "pronunciation": "luh leev-RAHBL", "example": "Le premier livrable a été transmis avant la date prévue.", "exampleEnglish": "The first deliverable was sent ahead of the scheduled date.", "level": "C2", "category": "advisory-consulting" },
+            { "id": "la-note-de-synthese", "french": "la note de synthèse", "english": "the briefing note, the summary note", "partOfSpeech": "noun", "gender": "f", "plural": "les notes de synthèse", "pronunciation": "lah not duh san-TEZ", "example": "La note de synthèse tient en deux pages, pas davantage.", "exampleEnglish": "The briefing note fits in two pages, not more.", "level": "C2", "category": "advisory-consulting" },
+            { "id": "accompagner", "french": "accompagner", "english": "to support, to guide (a client)", "partOfSpeech": "verb", "pronunciation": "ah-kon-pan-YAY", "example": "Nous accompagnons la décision, sans jamais la prendre à la place du client.", "exampleEnglish": "We support the decision, without ever making it in the client's place.", "level": "C2", "category": "advisory-consulting" },
+            { "id": "l-accompagnement", "french": "l'accompagnement", "english": "the support, the guidance", "partOfSpeech": "noun", "gender": "m", "pronunciation": "lah-kon-pan-yuh-MAHN", "example": "L'accompagnement s'arrête là où commence la dépendance du client.", "exampleEnglish": "Support ends where the client's dependency begins.", "level": "C2", "category": "advisory-consulting" },
+            { "id": "le-regard-exterieur", "french": "le regard extérieur", "english": "the outside perspective", "partOfSpeech": "noun", "gender": "m", "plural": "les regards extérieurs", "pronunciation": "luh ruh-GAR ex-tay-RYUR", "example": "Le regard extérieur perd sa valeur dès qu'il se laisse absorber par l'interne.", "exampleEnglish": "The outside perspective loses its value the moment it gets absorbed into the internal view.", "level": "C2", "category": "advisory-consulting" },
+            { "id": "la-posture-de-conseil", "french": "la posture de conseil", "english": "the advisory posture, the advisory stance", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah pos-TÜR duh kon-SAY", "example": "Sa posture de conseil reste ferme sans jamais devenir directive.", "exampleEnglish": "Her advisory posture stays firm without ever becoming directive.", "level": "C2", "category": "advisory-consulting" },
+            { "id": "l-expertise", "french": "l'expertise", "english": "the expertise", "partOfSpeech": "noun", "gender": "f", "plural": "les expertises", "pronunciation": "lex-pehr-TEEZ", "example": "Son expertise du secteur a rassuré le comité dès la première réunion.", "exampleEnglish": "Her expertise in the sector reassured the committee from the first meeting.", "level": "C2", "category": "advisory-consulting" },
+            { "id": "le-savoir-faire", "french": "le savoir-faire", "english": "the know-how", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh sah-vwar-FAIR", "example": "Le savoir-faire du cabinet repose sur vingt ans de missions similaires.", "exampleEnglish": "The firm's know-how rests on twenty years of similar engagements.", "level": "C2", "category": "advisory-consulting" },
+            { "id": "la-valeur-ajoutee", "french": "la valeur ajoutée", "english": "the added value", "partOfSpeech": "expression", "pronunciation": "lah vah-LUHR ah-zhoo-TAY", "example": "La valeur ajoutée d'un bon conseil se mesure à ce qui change réellement.", "exampleEnglish": "The added value of good advice is measured by what actually changes.", "level": "C2", "category": "advisory-consulting" },
+            { "id": "sous-reserve-de", "french": "sous réserve de", "english": "subject to", "partOfSpeech": "expression", "pronunciation": "soo ray-ZEHRV duh", "example": "Cette recommandation reste valable sous réserve d'une validation juridique.", "exampleEnglish": "This recommendation remains valid subject to legal validation.", "level": "C2", "category": "advisory-consulting" },
+            { "id": "a-notre-sens", "french": "à notre sens", "english": "in our view", "partOfSpeech": "expression", "pronunciation": "ah notr SAHNS", "example": "À notre sens, le risque principal ne réside pas là où vous le situez.", "exampleEnglish": "In our view, the main risk does not lie where you place it.", "level": "C2", "category": "advisory-consulting" },
+            { "id": "il-conviendrait-de", "french": "il conviendrait de", "english": "it would be advisable to", "partOfSpeech": "expression", "pronunciation": "eel kon-vyan-DRAY duh", "example": "Il conviendrait de tester cette hypothèse avant de généraliser.", "exampleEnglish": "It would be advisable to test this hypothesis before generalising.", "level": "C2", "category": "advisory-consulting" },
+            { "id": "il-serait-souhaitable-de", "french": "il serait souhaitable de", "english": "it would be desirable to", "partOfSpeech": "expression", "pronunciation": "eel suh-RAY soo-eh-TAHBL duh", "example": "Il serait souhaitable de revoir ce calendrier dès la semaine prochaine.", "exampleEnglish": "It would be desirable to revisit this schedule as early as next week.", "level": "C2", "category": "advisory-consulting" },
+            { "id": "emettre-des-reserves", "french": "émettre des réserves", "english": "to raise reservations", "partOfSpeech": "expression", "pronunciation": "ay-MET-truh day ray-ZEHRV", "example": "Le comité a émis des réserves sur le calendrier proposé.", "exampleEnglish": "The committee raised reservations about the proposed schedule.", "level": "C2", "category": "advisory-consulting" },
+            { "id": "la-reserve", "french": "la réserve", "english": "the reservation, the caveat", "partOfSpeech": "noun", "gender": "f", "plural": "les réserves", "pronunciation": "lah ray-ZEHRV", "example": "Un conseil sans réserve affichée n'est jamais tout à fait honnête.", "exampleEnglish": "Advice with no stated caveat is never entirely honest.", "level": "C2", "category": "advisory-consulting" },
+            { "id": "faire-valoir", "french": "faire valoir", "english": "to put forward, to argue for", "partOfSpeech": "expression", "pronunciation": "fair vah-LWAR", "example": "Le consultant a fait valoir un argument que personne n'avait anticipé.", "exampleEnglish": "The consultant put forward an argument no one had anticipated.", "level": "C2", "category": "advisory-consulting" },
+            { "id": "la-prestation", "french": "la prestation", "english": "the service rendered", "partOfSpeech": "noun", "gender": "f", "plural": "les prestations", "pronunciation": "lah press-tah-SYON", "example": "La prestation incluait un audit complet et trois ateliers de restitution.", "exampleEnglish": "The service included a full audit and three findings workshops.", "level": "C2", "category": "advisory-consulting" },
+            { "id": "les-honoraires", "french": "les honoraires", "english": "the professional fees", "partOfSpeech": "noun", "gender": "m", "pronunciation": "lay-zoh-noh-RAIR", "example": "Les honoraires du cabinet sont facturés au forfait, pas à l'heure.", "exampleEnglish": "The firm's fees are billed as a flat rate, not by the hour.", "level": "C2", "category": "advisory-consulting" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Le conditionnel pour formuler une recommandation avec prudence",
+              "body": "Advisory French uses the conditional to propose a course of action without imposing it: 'il conviendrait de,' 'il serait souhaitable de,' 'nous suggérerions.' This softens the directive force of a recommendation while keeping it unambiguous — the client hears a suggestion backed by expertise, not an order issued by an outsider.",
+              "examples": [
+                { "french": "Il conviendrait de tester cette hypothèse avant de généraliser la solution.", "english": "It would be advisable to test this hypothesis before generalising the solution." },
+                { "french": "Nous suggérerions de reporter le déploiement de deux semaines.", "english": "We would suggest postponing the rollout by two weeks." },
+                { "french": "Il serait souhaitable de revoir ce calendrier dès la semaine prochaine.", "english": "It would be desirable to revisit this schedule as early as next week." },
+                { "french": "Une communication interne préalable serait, à notre sens, indispensable.", "english": "Prior internal communication would, in our view, be essential." },
+                { "french": "Nous ne saurions trop recommander une phase pilote avant le déploiement complet.", "english": "We cannot recommend a pilot phase strongly enough before full rollout." }
+              ],
+              "tip": "'Nous ne saurions trop recommander' is a fixed, elegant intensifier — it sounds modest in form while making the strongest possible recommendation."
+            },
+            {
+              "heading": "Le gérondif et les propositions participiales dans le rapport de conseil",
+              "body": "Consulting reports lean on the gerund (en + present participle) and participial clauses to compress two related ideas into a single, efficient sentence — showing cause, manner, or simultaneity without a second full clause. This tightens the analytical, written register that separates a report from a spoken conversation.",
+              "examples": [
+                { "french": "En objectivant la situation, l'équipe a évité plusieurs décisions hâtives.", "english": "By substantiating the situation, the team avoided several hasty decisions." },
+                { "french": "Le diagnostic, une fois partagé, a changé la nature même de la discussion.", "english": "The diagnosis, once shared, changed the very nature of the discussion." },
+                { "french": "Ayant audité l'ensemble du processus, le cabinet a pu chiffrer précisément les gains attendus.", "english": "Having audited the entire process, the firm was able to precisely quantify the expected gains." },
+                { "french": "En recommandant une approche progressive, nous limitons le risque d'exécution.", "english": "By recommending a gradual approach, we limit execution risk." },
+                { "french": "Le plan d'action, restant volontairement bref, tient sur une seule page.", "english": "The action plan, deliberately kept brief, fits on a single page." }
+              ],
+              "tip": "Reach for a participial clause ('le diagnostic, une fois partagé...') whenever a second 'et' clause would slow the sentence down without adding real information."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "c2_u23_l03_li01", "type": "listenChoose", "prompt": "Listen. Which term is being described?", "french": "Cette expression marque la condition à laquelle une recommandation reste valable.", "options": ["Sous réserve de", "À notre sens", "Le livrable", "L'accompagnement"], "answer": "Sous réserve de" },
+            { "id": "c2_u23_l03_li02", "type": "listenChoose", "prompt": "Listen. Which term is being described?", "french": "Ce terme désigne le fait de soutenir une décision sans jamais la prendre à la place du client.", "options": ["L'accompagnement", "Le diagnostic stratégique", "La prestation", "Les honoraires"], "answer": "L'accompagnement" },
+            { "id": "c2_u23_l03_li03", "type": "listenType", "prompt": "Listen and type this sentence exactly.", "french": "Un conseil sans réserve affichée n'est jamais tout à fait honnête.", "answer": "Un conseil sans réserve affichée n'est jamais tout à fait honnête.", "acceptedAnswers": ["un conseil sans reserve affichee n'est jamais tout a fait honnete", "un conseil sans reserve affichee n est jamais tout a fait honnete"] },
+            { "id": "c2_u23_l03_li04", "type": "dictation", "prompt": "Dictation: write down this sentence exactly.", "french": "Le diagnostic précède toujours la préconisation, jamais l'inverse.", "answer": "Le diagnostic précède toujours la préconisation, jamais l'inverse.", "acceptedAnswers": ["le diagnostic precede toujours la preconisation jamais l'inverse", "le diagnostic precede toujours la preconisation jamais l inverse"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "c2_u23_l03_sp01", "type": "speak", "prompt": "Deliver this recommendation with quiet authority, as if closing a client presentation.", "french": "Nous préconisons une réorganisation progressive, plutôt qu'un big bang.", "english": "We recommend a gradual reorganisation, rather than a big bang.", "tip": "Land equally on 'progressive' and 'big bang' — the contrast is the argument." },
+            { "id": "c2_u23_l03_sp02", "type": "speak", "prompt": "Say this as a consultant gently correcting the client's own diagnosis.", "french": "À notre sens, le risque principal ne réside pas là où vous le situez.", "english": "In our view, the main risk does not lie where you place it.", "tip": "Keep 'à notre sens' light — it is what lets the correction land softly." },
+            { "id": "c2_u23_l03_sp03", "type": "speak", "prompt": "Deliver this as a firm, boundary-setting line near the end of an engagement.", "french": "L'accompagnement s'arrête là où commence la dépendance du client.", "english": "Support ends where the client's dependency begins.", "tip": "Slow down on 's'arrête' — that is the line the client actually needs to hear." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Le diagnostic qui dérangeait",
+              "french": "Le cabinet Orsel & Vennec avait été mandaté par le groupe Ferrand Industries pour une mission de conseil de trois mois, officiellement centrée sur l'optimisation logistique.\nDès la deuxième semaine, la consultante en charge du dossier, Camille Reig, a émis des réserves sur le périmètre même de la mission.\n« Avant toute recommandation, il convient d'objectiver la situation actuelle », a-t-elle rappelé au comité de direction, avant de présenter un premier constat qui ne portait pas sur la logistique, mais sur la gouvernance interne.\nLa direction, surprise, a d'abord contesté la méthode.\n« Notre hypothèse de travail repose sur trois entretiens et l'analyse des chiffres transmis, pas sur une opinion », a répondu Camille, sans se départir de son calme.\nLe diagnostic, une fois partagé avec l'ensemble du comité, a changé la nature même de la mission.\n« À notre sens, le risque principal ne réside pas là où vous le situez », a-t-elle préconisé, avant d'ajouter une réserve importante : la recommandation restait valable sous réserve d'un accès complet aux données financières, encore partiellement refusé.\nLe cabinet a alors proposé un plan d'action en deux phases, la première consacrée à la gouvernance, la seconde seulement à la logistique initialement prévue.\n« Nous ne décidons pas à votre place ; nous éclairons la décision », a rappelé Camille lors de la restitution finale.\nLa direction a fini par accepter le plan révisé, non sans réticence.\nTrois mois plus tard, le livrable initial — un audit logistique — avait cédé la place à une feuille de route de gouvernance entièrement nouvelle, preuve, selon Camille, qu'un bon diagnostic dérange parfois davantage qu'il ne rassure.",
+              "english": "The Orsel & Vennec firm had been hired by the Ferrand Industries group for a three-month consulting engagement, officially focused on logistics optimisation.\nBy the second week, the consultant in charge of the file, Camille Reig, had raised reservations about the very scope of the engagement.\n\"Before any recommendation, the current situation must be substantiated with evidence,\" she reminded the leadership committee, before presenting an initial finding that concerned not logistics, but internal governance.\nLeadership, surprised, first challenged the method.\n\"Our working hypothesis rests on three interviews and the analysis of the figures provided, not on an opinion,\" Camille replied, without losing her composure.\nThe diagnosis, once shared with the whole committee, changed the very nature of the engagement.\n\"In our view, the main risk does not lie where you place it,\" she advised, before adding an important caveat: the recommendation remained valid subject to full access to the financial data, which was still partly withheld.\nThe firm then proposed a two-phase action plan, the first devoted to governance, the second only to the logistics work originally planned.\n\"We do not decide in your place; we inform the decision,\" Camille reminded them during the final debrief.\nLeadership eventually accepted the revised plan, not without reluctance.\nThree months later, the original deliverable — a logistics audit — had given way to an entirely new governance roadmap, proof, according to Camille, that a good diagnosis sometimes unsettles more than it reassures.",
+              "questions": [
+                { "id": "c2_u23_l03_rd01", "type": "multipleChoice", "prompt": "What does Camille Reig's diagnosis reveal that surprises the leadership committee?", "options": ["The real issue lies in internal governance, not logistics", "The company has no logistics problems at all", "The mission should be cancelled entirely", "The committee already knew about the governance issue"], "answer": "The real issue lies in internal governance, not logistics" },
+                { "id": "c2_u23_l03_rd02", "type": "multipleChoice", "prompt": "What condition does Camille attach to her recommendation?", "options": ["Full access to financial data, which was still partly refused", "A doubling of the consulting fees", "An extension of the mission to one year", "The replacement of the entire leadership committee"], "answer": "Full access to financial data, which was still partly refused" },
+                { "id": "c2_u23_l03_rd03", "type": "trueFalse", "prompt": "By the end of the passage, the final deliverable is unchanged from the original logistics audit scope.", "options": ["True", "False"], "answer": "False" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "c2_u23_l03_wr01", "type": "translate", "prompt": "Translate into French.", "english": "We do not decide in your place; we inform the decision.", "answer": "Nous ne décidons pas à votre place ; nous éclairons la décision.", "acceptedAnswers": ["nous ne decidons pas a votre place nous eclairons la decision"] },
+            { "id": "c2_u23_l03_wr02", "type": "arrangeWords", "prompt": "Rebuild this sentence about the advisory diagnostic.", "words": ["Avant", "toute", "recommandation", "il", "convient", "d'objectiver", "la", "situation", "actuelle"], "answer": "Avant toute recommandation il convient d'objectiver la situation actuelle", "english": "Before any recommendation, the current situation must be substantiated with evidence." },
+            { "id": "c2_u23_l03_wr03", "type": "fillBlank", "prompt": "Un conseil sans ___ affichée n'est jamais tout à fait honnête.", "answer": "réserve", "tip": "The noun for a stated caveat or reservation." }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "c2_u23_l03_pr01", "type": "multipleChoice", "prompt": "Quelle expression permet de recommander une action sans jamais l'imposer ?", "options": ["Il conviendrait de", "Nous exigeons que", "Il est interdit de", "Vous devez absolument"], "answer": "Il conviendrait de" },
+            { "id": "c2_u23_l03_pr02", "type": "match", "prompt": "Match each term with its meaning.", "pairs": [ { "french": "objectiver", "english": "to substantiate with evidence" }, { "french": "le regard extérieur", "english": "the outside perspective" }, { "french": "étayer", "english": "to back up an argument with data" }, { "french": "la posture de conseil", "english": "the advisory stance" } ] },
+            { "id": "c2_u23_l03_pr03", "type": "fillBlank", "prompt": "Le ___ précède toujours la préconisation, jamais l'inverse.", "answer": "diagnostic" },
+            { "id": "c2_u23_l03_pr04", "type": "trueFalse", "prompt": "Un bon consultant doit finir par prendre les décisions à la place de son client.", "options": ["True", "False"], "answer": "False" },
+            { "id": "c2_u23_l03_pr05", "type": "translate", "prompt": "Translate: In our view, the main risk does not lie where you place it.", "english": "In our view, the main risk does not lie where you place it.", "answer": "À notre sens, le risque principal ne réside pas là où vous le situez.", "acceptedAnswers": ["a notre sens le risque principal ne reside pas la ou vous le situez"] },
+            { "id": "c2_u23_l03_pr06", "type": "multipleChoice", "prompt": "Quel est l'effet du gérondif dans « en objectivant la situation, l'équipe a évité plusieurs décisions hâtives » ?", "options": ["Il relie la manière et la conséquence en une seule phrase", "Il rend la phrase négative", "Il remplace obligatoirement le passé composé", "Il s'utilise uniquement à l'oral spontané"], "answer": "Il relie la manière et la conséquence en une seule phrase" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "c2_u23_l03_qz01", "type": "multipleChoice", "prompt": "Que signifie « objectiver » une situation avant de formuler une recommandation ?", "options": ["L'étayer par des faits vérifiables plutôt que par une opinion", "La rendre plus subjective et personnelle", "La confier entièrement au client sans analyse", "L'ignorer pour aller plus vite"], "answer": "L'étayer par des faits vérifiables plutôt que par une opinion" },
+            { "id": "c2_u23_l03_qz02", "type": "fillBlank", "prompt": "L'accompagnement s'arrête là où commence la ___ du client.", "answer": "dépendance" },
+            { "id": "c2_u23_l03_qz03", "type": "multipleChoice", "prompt": "What does the conditional in 'il conviendrait de tester cette hypothèse' achieve in advisory register?", "options": ["It softens the directive force while keeping the recommendation clear", "It makes the recommendation legally binding", "It signals the advisor is uncertain about the facts", "It is grammatically required after 'il faut'"], "answer": "It softens the directive force while keeping the recommendation clear" },
+            { "id": "c2_u23_l03_qz04", "type": "trueFalse", "prompt": "Une recommandation de conseil devrait toujours être présentée sans aucune réserve, pour paraître plus assurée.", "options": ["True", "False"], "answer": "False", "tip": "A stated caveat is what makes the recommendation honest, not weaker." },
+            { "id": "c2_u23_l03_qz05", "type": "multipleChoice", "prompt": "Quel est le rôle du diagnostic stratégique dans une mission de conseil ?", "options": ["Fonder la recommandation sur une analyse partagée avant d'agir", "Remplacer entièrement le plan d'action", "Servir uniquement à facturer des honoraires supplémentaires", "Être optionnel si le client est pressé"], "answer": "Fonder la recommandation sur une analyse partagée avant d'agir" }
+          ]
+        }
+      ]
+    }
+  ]
+}

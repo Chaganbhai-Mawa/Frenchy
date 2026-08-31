@@ -1,0 +1,847 @@
+{
+  "id": "a1_u01",
+  "level": "A1",
+  "unit": 1,
+  "title": "Greetings",
+  "subtitle": "Say hello and goodbye like a French speaker",
+  "icon": "👋",
+  "lessons": [
+    {
+      "id": "a1_u01_l01",
+      "level": "A1",
+      "unit": 1,
+      "title": "Bonjour !",
+      "description": "Your very first French words: greet people at any time of day.",
+      "estimatedMinutes": 12,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Saying hello",
+              "body": "\"Bonjour\" literally means \"good day\". French speakers use it from morning until the evening, with everyone — friends, shopkeepers, strangers. In the evening, they switch to \"bonsoir\" (good evening).",
+              "examples": [
+                { "french": "Bonjour !", "english": "Hello! / Good day!" },
+                { "french": "Bonsoir !", "english": "Good evening!" },
+                { "french": "Salut !", "english": "Hi! (informal, with friends)" },
+                { "french": "Bonjour à tous !", "english": "Hello everyone!" },
+                { "french": "Coucou, c'est moi !", "english": "Hey, it's me! (very informal)" }
+              ],
+              "tip": "In France, always say \"bonjour\" when entering a shop or speaking to someone — skipping it can seem rude."
+            },
+            {
+              "heading": "Formal or informal?",
+              "body": "\"Salut\" is only for friends and family. With people you don't know, or in shops and offices, use \"bonjour\" or \"bonsoir\".",
+              "examples": [
+                { "french": "Salut Marie !", "english": "Hi Marie!", "note": "informal" },
+                { "french": "Bonjour, madame.", "english": "Hello, ma'am.", "note": "polite" },
+                { "french": "Bonsoir, monsieur.", "english": "Good evening, sir.", "note": "polite" },
+                { "french": "Bonjour, mademoiselle.", "english": "Hello, miss.", "note": "polite" },
+                { "french": "Coucou Léa !", "english": "Hey Léa!", "note": "very informal" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "bonjour", "french": "bonjour", "english": "hello / good day", "partOfSpeech": "interjection", "pronunciation": "bohn-ZHOOR", "example": "Bonjour, madame !", "exampleEnglish": "Hello, ma'am!", "level": "A1", "category": "greetings" },
+            { "id": "bonsoir", "french": "bonsoir", "english": "good evening", "partOfSpeech": "interjection", "pronunciation": "bohn-SWAHR", "example": "Bonsoir, monsieur !", "exampleEnglish": "Good evening, sir!", "level": "A1", "category": "greetings" },
+            { "id": "salut", "french": "salut", "english": "hi / bye (informal)", "partOfSpeech": "interjection", "pronunciation": "sah-LU", "example": "Salut Paul, ça va ?", "exampleEnglish": "Hi Paul, how are you?", "level": "A1", "category": "greetings" },
+            { "id": "madame", "french": "madame", "english": "ma'am / Mrs.", "partOfSpeech": "noun", "gender": "f", "pronunciation": "mah-DAHM", "example": "Bonjour, madame Dupont.", "exampleEnglish": "Hello, Mrs. Dupont.", "level": "A1", "category": "greetings" },
+            { "id": "monsieur", "french": "monsieur", "english": "sir / Mr.", "partOfSpeech": "noun", "gender": "m", "pronunciation": "muh-SYUH", "example": "Bonjour, monsieur !", "exampleEnglish": "Hello, sir!", "level": "A1", "category": "greetings" },
+            { "id": "merci", "french": "merci", "english": "thank you", "partOfSpeech": "interjection", "pronunciation": "mehr-SEE", "example": "Merci beaucoup !", "exampleEnglish": "Thank you very much!", "level": "A1", "category": "greetings" },
+            { "id": "oui", "french": "oui", "english": "yes", "partOfSpeech": "adverb", "pronunciation": "wee", "example": "Oui, merci.", "exampleEnglish": "Yes, thank you.", "level": "A1", "category": "basics" },
+            { "id": "non", "french": "non", "english": "no", "partOfSpeech": "adverb", "pronunciation": "nohn", "example": "Non, merci.", "exampleEnglish": "No, thank you.", "level": "A1", "category": "basics" },
+            { "id": "coucou", "french": "coucou", "english": "hey / hi there (very informal)", "partOfSpeech": "interjection", "pronunciation": "koo-KOO", "example": "Coucou, c'est moi !", "exampleEnglish": "Hey, it's me!", "level": "A1", "category": "greetings" },
+            { "id": "bienvenue", "french": "bienvenue", "english": "welcome", "partOfSpeech": "interjection", "pronunciation": "byan-vuh-NU", "example": "Bienvenue en France !", "exampleEnglish": "Welcome to France!", "level": "A1", "category": "greetings" },
+            { "id": "mademoiselle", "french": "mademoiselle", "english": "miss", "partOfSpeech": "noun", "gender": "f", "plural": "mesdemoiselles", "pronunciation": "mad-mwah-ZEL", "example": "Bonjour, mademoiselle !", "exampleEnglish": "Hello, miss!", "level": "A1", "category": "greetings" },
+            { "id": "allo", "french": "allô", "english": "hello (on the phone)", "partOfSpeech": "interjection", "pronunciation": "ah-LOH", "example": "Allô ? Bonjour, c'est Marie.", "exampleEnglish": "Hello? Hi, it's Marie.", "level": "A1", "category": "greetings" },
+            { "id": "la-journee", "french": "la journée", "english": "day", "partOfSpeech": "noun", "gender": "f", "plural": "journées", "pronunciation": "zhoor-NAY", "example": "La journée commence bien.", "exampleEnglish": "The day is starting well.", "level": "A1", "category": "time" },
+            { "id": "la-soiree", "french": "la soirée", "english": "evening", "partOfSpeech": "noun", "gender": "f", "plural": "soirées", "pronunciation": "swah-RAY", "example": "La soirée est agréable.", "exampleEnglish": "The evening is pleasant.", "level": "A1", "category": "time" }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a1_u01_l01_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What does it mean?",
+              "french": "Bonjour !",
+              "options": ["Hello!", "Good evening!", "Goodbye!", "Thank you!"],
+              "answer": "Hello!"
+            },
+            {
+              "id": "a1_u01_l01_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. What does it mean?",
+              "french": "Bonsoir, madame.",
+              "options": ["Hi Paul!", "Good evening, ma'am.", "Hello, sir.", "Yes, thank you."],
+              "answer": "Good evening, ma'am."
+            },
+            {
+              "id": "a1_u01_l01_li03",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Bonjour, monsieur.",
+              "answer": "Bonjour, monsieur.",
+              "acceptedAnswers": ["bonjour monsieur"]
+            },
+            {
+              "id": "a1_u01_l01_li04",
+              "type": "listenChoose",
+              "prompt": "Listen. Is this greeting formal or informal?",
+              "french": "Salut !",
+              "options": ["Informal — for friends", "Formal — for strangers"],
+              "answer": "Informal — for friends",
+              "tip": "\"Salut\" is only for people you know well."
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a1_u01_l01_sp01",
+              "type": "speak",
+              "prompt": "Say hello in French.",
+              "french": "Bonjour",
+              "english": "Hello",
+              "tip": "The \"on\" is nasal — let the air pass through your nose: bon-ZHOOR."
+            },
+            {
+              "id": "a1_u01_l01_sp02",
+              "type": "speak",
+              "prompt": "Greet a woman politely.",
+              "french": "Bonjour, madame",
+              "english": "Hello, ma'am",
+              "tip": "\"Madame\" sounds like mah-DAHM — the final e is silent."
+            },
+            {
+              "id": "a1_u01_l01_sp03",
+              "type": "speak",
+              "prompt": "Say good evening.",
+              "french": "Bonsoir",
+              "english": "Good evening",
+              "tip": "\"Soir\" rhymes with \"swahr\"."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "À la boulangerie",
+              "french": "Le matin, Paul entre dans la boulangerie.\n— Bonjour, madame !\n— Bonjour, monsieur.\nLe soir, Paul voit son amie Marie.\n— Salut, Marie !\n— Salut, Paul !",
+              "english": "In the morning, Paul goes into the bakery.\n— Hello, ma'am!\n— Hello, sir.\nIn the evening, Paul sees his friend Marie.\n— Hi, Marie!\n— Hi, Paul!",
+              "questions": [
+                {
+                  "id": "a1_u01_l01_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "How does Paul greet the woman in the bakery?",
+                  "options": ["Salut !", "Bonjour, madame !", "Bonsoir !", "Merci !"],
+                  "answer": "Bonjour, madame !"
+                },
+                {
+                  "id": "a1_u01_l01_rd02",
+                  "type": "trueFalse",
+                  "prompt": "Paul says \"salut\" to Marie because she is his friend.",
+                  "options": ["True", "False"],
+                  "answer": "True"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a1_u01_l01_wr01",
+              "type": "translate",
+              "prompt": "Translate into French: \"Good evening, sir.\"",
+              "english": "Good evening, sir.",
+              "answer": "Bonsoir, monsieur.",
+              "acceptedAnswers": ["bonsoir monsieur"]
+            },
+            {
+              "id": "a1_u01_l01_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "Hello, Mrs. Dupont.",
+              "words": ["Dupont", "Bonjour,", "madame"],
+              "answer": "Bonjour, madame Dupont"
+            },
+            {
+              "id": "a1_u01_l01_wr03",
+              "type": "fillBlank",
+              "prompt": "It is 9 p.m. Complete the greeting: \"___, madame !\"",
+              "answer": "Bonsoir",
+              "hint": "It's the evening!"
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a1_u01_l01_pr01",
+              "type": "multipleChoice",
+              "prompt": "It is 8 p.m. and you meet your neighbour. What do you say?",
+              "options": ["Bonsoir, madame.", "Bonne nuit !", "Coucou !", "Allô ?"],
+              "answer": "Bonsoir, madame."
+            },
+            {
+              "id": "a1_u01_l01_pr02",
+              "type": "fillBlank",
+              "prompt": "Complete: \"___ en France !\" (Welcome to France!)",
+              "answer": "Bienvenue"
+            },
+            {
+              "id": "a1_u01_l01_pr03",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "Hello everyone!",
+              "words": ["tous", "Bonjour", "à"],
+              "answer": "Bonjour à tous"
+            },
+            {
+              "id": "a1_u01_l01_pr04",
+              "type": "listenChoose",
+              "prompt": "Listen. Where would you hear this?",
+              "french": "Allô ? Bonjour !",
+              "options": ["On the phone", "In a bakery", "At school", "In bed"],
+              "answer": "On the phone"
+            },
+            {
+              "id": "a1_u01_l01_pr05",
+              "type": "translate",
+              "prompt": "Translate into French: \"Good evening, ma'am.\"",
+              "english": "Good evening, ma'am.",
+              "answer": "Bonsoir, madame.",
+              "acceptedAnswers": ["bonsoir madame"]
+            },
+            {
+              "id": "a1_u01_l01_pr06",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "coucou", "english": "hey" },
+                { "french": "bienvenue", "english": "welcome" },
+                { "french": "mademoiselle", "english": "miss" },
+                { "french": "la journée", "english": "the day" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a1_u01_l01_qz01",
+              "type": "multipleChoice",
+              "prompt": "You enter a shop at 10 a.m. What do you say?",
+              "options": ["Bonjour !", "Bonsoir !", "Salut !", "Non !"],
+              "answer": "Bonjour !"
+            },
+            {
+              "id": "a1_u01_l01_qz02",
+              "type": "multipleChoice",
+              "prompt": "What does \"merci\" mean?",
+              "options": ["Thank you", "Hello", "Goodbye", "Please"],
+              "answer": "Thank you"
+            },
+            {
+              "id": "a1_u01_l01_qz03",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "bonjour", "english": "hello" },
+                { "french": "bonsoir", "english": "good evening" },
+                { "french": "salut", "english": "hi" },
+                { "french": "merci", "english": "thank you" }
+              ]
+            },
+            {
+              "id": "a1_u01_l01_qz04",
+              "type": "trueFalse",
+              "prompt": "\"Salut\" is a polite way to greet a stranger.",
+              "options": ["True", "False"],
+              "answer": "False",
+              "tip": "Use \"bonjour\" with strangers; \"salut\" is for friends."
+            },
+            {
+              "id": "a1_u01_l01_qz05",
+              "type": "fillBlank",
+              "prompt": "Complete: \"___ beaucoup !\" (Thank you very much!)",
+              "answer": "Merci"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1_u01_l02",
+      "level": "A1",
+      "unit": 1,
+      "title": "Ça va ?",
+      "description": "Ask people how they are — and answer naturally.",
+      "estimatedMinutes": 12,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "How are you?",
+              "body": "The easiest way to ask \"how are you?\" is \"Ça va ?\" (literally: \"it goes?\"). The same words also work as the answer: \"Ça va !\" — I'm fine. For polite situations, use \"Comment allez-vous ?\"",
+              "examples": [
+                { "french": "Ça va ?", "english": "How are you? (informal)" },
+                { "french": "Ça va bien, merci.", "english": "I'm fine, thanks." },
+                { "french": "Comment allez-vous ?", "english": "How are you? (formal)" },
+                { "french": "Très bien, merci. Et vous ?", "english": "Very well, thanks. And you?" },
+                { "french": "Ça va mal.", "english": "Things are going badly." },
+                { "french": "Pas mal, et toi ?", "english": "Not bad, and you?" }
+              ],
+              "tip": "\"Ça va ?\" — \"Ça va !\" Question and answer can be exactly the same words. Only the intonation changes!"
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "ca-va", "french": "ça va", "english": "how are you / I'm fine", "partOfSpeech": "expression", "pronunciation": "sah VAH", "example": "Salut, ça va ?", "exampleEnglish": "Hi, how are you?", "level": "A1", "category": "greetings" },
+            { "id": "bien", "french": "bien", "english": "well / good", "partOfSpeech": "adverb", "pronunciation": "byahn", "example": "Ça va bien.", "exampleEnglish": "I'm doing well.", "level": "A1", "category": "basics" },
+            { "id": "tres", "french": "très", "english": "very", "partOfSpeech": "adverb", "pronunciation": "treh", "example": "Très bien, merci !", "exampleEnglish": "Very well, thank you!", "level": "A1", "category": "basics" },
+            { "id": "et", "french": "et", "english": "and", "partOfSpeech": "conjunction", "pronunciation": "ay", "example": "Et vous ?", "exampleEnglish": "And you?", "level": "A1", "category": "basics" },
+            { "id": "vous", "french": "vous", "english": "you (formal / plural)", "partOfSpeech": "pronoun", "pronunciation": "voo", "example": "Comment allez-vous ?", "exampleEnglish": "How are you?", "level": "A1", "category": "basics" },
+            { "id": "toi", "french": "toi", "english": "you (informal)", "partOfSpeech": "pronoun", "pronunciation": "twah", "example": "Et toi ?", "exampleEnglish": "And you?", "level": "A1", "category": "basics" },
+            { "id": "comme-ci-comme-ca", "french": "comme ci, comme ça", "english": "so-so", "partOfSpeech": "expression", "pronunciation": "kom SEE kom SAH", "example": "Ça va ? — Comme ci, comme ça.", "exampleEnglish": "How are you? — So-so.", "level": "A1", "category": "greetings" },
+            { "id": "fatigue", "french": "fatigué", "english": "tired", "partOfSpeech": "adjective", "pronunciation": "fah-tee-GAY", "example": "Je suis fatigué.", "exampleEnglish": "I am tired.", "level": "A1", "category": "emotions" },
+            { "id": "mal", "french": "mal", "english": "badly", "partOfSpeech": "adverb", "pronunciation": "mahl", "example": "Ça va mal aujourd'hui.", "exampleEnglish": "Things are going badly today.", "level": "A1", "category": "basics" },
+            { "id": "content", "french": "content", "english": "happy / glad", "partOfSpeech": "adjective", "pronunciation": "kohn-TAHN", "example": "Je suis content de te voir.", "exampleEnglish": "I am happy to see you.", "level": "A1", "category": "emotions" },
+            { "id": "triste", "french": "triste", "english": "sad", "partOfSpeech": "adjective", "pronunciation": "treest", "example": "Il est triste ce soir.", "exampleEnglish": "He is sad this evening.", "level": "A1", "category": "emotions" },
+            { "id": "malade", "french": "malade", "english": "sick / ill", "partOfSpeech": "adjective", "pronunciation": "mah-LAHD", "example": "Elle est malade aujourd'hui.", "exampleEnglish": "She is sick today.", "level": "A1", "category": "emotions" },
+            { "id": "super", "french": "super", "english": "great / super", "partOfSpeech": "adjective", "pronunciation": "su-PEHR", "example": "Super ! Merci beaucoup !", "exampleEnglish": "Great! Thank you very much!", "level": "A1", "category": "basics" },
+            { "id": "tu", "french": "tu", "english": "you (informal)", "partOfSpeech": "pronoun", "pronunciation": "tew", "example": "Tu vas bien ?", "exampleEnglish": "Are you well?", "level": "A1", "category": "basics" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Tu or vous?",
+              "body": "French has two words for \"you\". \"Tu\" is for one friend, family member or child. \"Vous\" is for strangers, older people, professional situations — and always for more than one person.",
+              "examples": [
+                { "french": "Tu vas bien ?", "english": "Are you well? (to a friend)", "note": "informal" },
+                { "french": "Comment allez-vous ?", "english": "How are you? (polite)", "note": "formal" },
+                { "french": "Tu es content ?", "english": "Are you happy? (to a friend)", "note": "informal" },
+                { "french": "Vous allez bien, madame ?", "english": "Are you well, ma'am?", "note": "formal" }
+              ],
+              "tip": "When in doubt, use \"vous\". A French person will invite you to say \"tu\" (« On peut se tutoyer ! ») when they're ready."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a1_u01_l02_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What does it mean?",
+              "french": "Ça va bien, merci.",
+              "options": ["I'm fine, thanks.", "Good evening.", "So-so.", "And you?"],
+              "answer": "I'm fine, thanks."
+            },
+            {
+              "id": "a1_u01_l02_li02",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Et toi ?",
+              "answer": "Et toi ?",
+              "acceptedAnswers": ["et toi"]
+            },
+            {
+              "id": "a1_u01_l02_li03",
+              "type": "listenChoose",
+              "prompt": "Listen. Is the speaker formal or informal?",
+              "french": "Comment allez-vous ?",
+              "options": ["Formal", "Informal"],
+              "answer": "Formal"
+            },
+            {
+              "id": "a1_u01_l02_li04",
+              "type": "dictation",
+              "prompt": "Dictation: write the sentence you hear.",
+              "french": "Très bien, merci.",
+              "answer": "Très bien, merci.",
+              "acceptedAnswers": ["tres bien merci"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a1_u01_l02_sp01",
+              "type": "speak",
+              "prompt": "Ask a friend how they are.",
+              "french": "Ça va ?",
+              "english": "How are you?",
+              "tip": "\"Ça\" sounds like \"sah\" — the ç is always a soft s sound."
+            },
+            {
+              "id": "a1_u01_l02_sp02",
+              "type": "speak",
+              "prompt": "Say you are doing very well.",
+              "french": "Très bien, merci",
+              "english": "Very well, thank you",
+              "tip": "\"Très\" ends in a silent s: treh."
+            },
+            {
+              "id": "a1_u01_l02_sp03",
+              "type": "speak",
+              "prompt": "Ask formally how someone is.",
+              "french": "Comment allez-vous ?",
+              "english": "How are you? (formal)",
+              "tip": "Link the words: comment-allez-vous flows as ko-mahn-tah-lay-VOO."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Deux amis",
+              "french": "— Salut, Léa ! Ça va ?\n— Ça va bien, merci. Et toi ?\n— Comme ci, comme ça. Je suis fatigué.\n— Oh ! Bon courage, Thomas !",
+              "english": "— Hi, Léa! How are you?\n— I'm fine, thanks. And you?\n— So-so. I'm tired.\n— Oh! Hang in there, Thomas!",
+              "questions": [
+                {
+                  "id": "a1_u01_l02_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "How is Léa doing?",
+                  "options": ["Very tired", "Fine", "So-so", "Sad"],
+                  "answer": "Fine"
+                },
+                {
+                  "id": "a1_u01_l02_rd02",
+                  "type": "trueFalse",
+                  "prompt": "Thomas is tired.",
+                  "options": ["True", "False"],
+                  "answer": "True"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a1_u01_l02_wr01",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "I'm fine, thank you.",
+              "words": ["bien,", "va", "Ça", "merci"],
+              "answer": "Ça va bien, merci"
+            },
+            {
+              "id": "a1_u01_l02_wr02",
+              "type": "translate",
+              "prompt": "Translate into French: \"And you?\" (to a friend)",
+              "english": "And you?",
+              "answer": "Et toi ?",
+              "acceptedAnswers": ["et toi"]
+            },
+            {
+              "id": "a1_u01_l02_wr03",
+              "type": "fillBlank",
+              "prompt": "Complete the formal question: \"Comment ___-vous ?\"",
+              "answer": "allez"
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a1_u01_l02_pr01",
+              "type": "multipleChoice",
+              "prompt": "You meet a good friend in the street. Which question fits?",
+              "options": ["Ça va ?", "Comment allez-vous, monsieur ?", "Bonne nuit !", "Vous allez bien, madame ?"],
+              "answer": "Ça va ?"
+            },
+            {
+              "id": "a1_u01_l02_pr02",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Je suis ___ aujourd'hui.\" (sick)",
+              "answer": "malade"
+            },
+            {
+              "id": "a1_u01_l02_pr03",
+              "type": "translate",
+              "prompt": "Translate into French: \"I am sad.\"",
+              "english": "I am sad.",
+              "answer": "Je suis triste.",
+              "acceptedAnswers": ["je suis triste"]
+            },
+            {
+              "id": "a1_u01_l02_pr04",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "Are you well? (to a friend)",
+              "words": ["vas", "Tu", "bien"],
+              "answer": "Tu vas bien"
+            },
+            {
+              "id": "a1_u01_l02_pr05",
+              "type": "listenChoose",
+              "prompt": "Listen. What does it mean?",
+              "french": "Ça va mal.",
+              "options": ["Things are going badly.", "I'm fine.", "Very well, thanks.", "So-so."],
+              "answer": "Things are going badly."
+            },
+            {
+              "id": "a1_u01_l02_pr06",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "mal", "english": "badly" },
+                { "french": "content", "english": "happy" },
+                { "french": "malade", "english": "sick" },
+                { "french": "super", "english": "great" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a1_u01_l02_qz01",
+              "type": "multipleChoice",
+              "prompt": "A friend asks \"Ça va ?\". Which is NOT a natural answer?",
+              "options": ["Comment allez-vous ?", "Ça va bien !", "Comme ci, comme ça.", "Très bien, merci !"],
+              "answer": "Comment allez-vous ?"
+            },
+            {
+              "id": "a1_u01_l02_qz02",
+              "type": "multipleChoice",
+              "prompt": "You meet your new boss. How do you ask how she is?",
+              "options": ["Comment allez-vous ?", "Ça va, toi ?", "Salut, ça va ?", "Et toi ?"],
+              "answer": "Comment allez-vous ?"
+            },
+            {
+              "id": "a1_u01_l02_qz03",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "très bien", "english": "very well" },
+                { "french": "comme ci, comme ça", "english": "so-so" },
+                { "french": "fatigué", "english": "tired" },
+                { "french": "et toi ?", "english": "and you?" }
+              ]
+            },
+            {
+              "id": "a1_u01_l02_qz04",
+              "type": "trueFalse",
+              "prompt": "\"Vous\" is used when speaking to several people.",
+              "options": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "a1_u01_l02_qz05",
+              "type": "translate",
+              "prompt": "Translate into French: \"Very well, thank you.\"",
+              "english": "Very well, thank you.",
+              "answer": "Très bien, merci.",
+              "acceptedAnswers": ["tres bien merci"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1_u01_l03",
+      "level": "A1",
+      "unit": 1,
+      "title": "Au revoir !",
+      "description": "Say goodbye politely and wish people a good day.",
+      "estimatedMinutes": 10,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Saying goodbye",
+              "body": "\"Au revoir\" is the universal goodbye — it works everywhere. With friends you can simply say \"salut\" (yes, it means both hi and bye!) or \"à bientôt\" (see you soon).",
+              "examples": [
+                { "french": "Au revoir !", "english": "Goodbye!" },
+                { "french": "À bientôt !", "english": "See you soon!" },
+                { "french": "À demain !", "english": "See you tomorrow!" },
+                { "french": "Bonne journée !", "english": "Have a good day!" },
+                { "french": "Bonne nuit !", "english": "Good night! (before sleeping)" },
+                { "french": "À plus tard !", "english": "See you later!" }
+              ],
+              "tip": "Shopkeepers almost always add \"Bonne journée !\" after \"au revoir\" — answer with \"Merci, vous aussi !\" (Thanks, you too!)."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "au-revoir", "french": "au revoir", "english": "goodbye", "partOfSpeech": "interjection", "pronunciation": "oh ruh-VWAHR", "example": "Au revoir, madame !", "exampleEnglish": "Goodbye, ma'am!", "level": "A1", "category": "greetings" },
+            { "id": "a-bientot", "french": "à bientôt", "english": "see you soon", "partOfSpeech": "expression", "pronunciation": "ah byan-TOH", "example": "Au revoir, à bientôt !", "exampleEnglish": "Goodbye, see you soon!", "level": "A1", "category": "greetings" },
+            { "id": "a-demain", "french": "à demain", "english": "see you tomorrow", "partOfSpeech": "expression", "pronunciation": "ah duh-MAHN", "example": "Bonne soirée, à demain !", "exampleEnglish": "Have a good evening, see you tomorrow!", "level": "A1", "category": "greetings" },
+            { "id": "bonne-journee", "french": "bonne journée", "english": "have a good day", "partOfSpeech": "expression", "pronunciation": "bun zhoor-NAY", "example": "Merci, bonne journée !", "exampleEnglish": "Thanks, have a good day!", "level": "A1", "category": "greetings" },
+            { "id": "bonne-nuit", "french": "bonne nuit", "english": "good night", "partOfSpeech": "expression", "pronunciation": "bun NWEE", "example": "Bonne nuit, à demain.", "exampleEnglish": "Good night, see you tomorrow.", "level": "A1", "category": "greetings" },
+            { "id": "sil-vous-plait", "french": "s'il vous plaît", "english": "please (formal)", "partOfSpeech": "expression", "pronunciation": "seel voo PLEH", "example": "Un café, s'il vous plaît.", "exampleEnglish": "A coffee, please.", "level": "A1", "category": "greetings" },
+            { "id": "de-rien", "french": "de rien", "english": "you're welcome", "partOfSpeech": "expression", "pronunciation": "duh RYAHN", "example": "Merci ! — De rien.", "exampleEnglish": "Thanks! — You're welcome.", "level": "A1", "category": "greetings" },
+            { "id": "bonne-soiree", "french": "bonne soirée", "english": "have a good evening", "partOfSpeech": "expression", "pronunciation": "bun swah-RAY", "example": "Au revoir, bonne soirée !", "exampleEnglish": "Goodbye, have a good evening!", "level": "A1", "category": "greetings" },
+            { "id": "a-plus-tard", "french": "à plus tard", "english": "see you later", "partOfSpeech": "expression", "pronunciation": "ah plu TAHR", "example": "Je pars, à plus tard !", "exampleEnglish": "I'm leaving, see you later!", "level": "A1", "category": "greetings" },
+            { "id": "a-tout-a-l-heure", "french": "à tout à l'heure", "english": "see you in a bit", "partOfSpeech": "expression", "pronunciation": "ah too tah LUHR", "example": "À tout à l'heure, Marie !", "exampleEnglish": "See you in a bit, Marie!", "level": "A1", "category": "greetings" },
+            { "id": "s-il-te-plait", "french": "s'il te plaît", "english": "please (informal)", "partOfSpeech": "expression", "pronunciation": "seel tuh PLEH", "example": "Un chocolat, s'il te plaît.", "exampleEnglish": "A hot chocolate, please.", "level": "A1", "category": "greetings" },
+            { "id": "je-vous-en-prie", "french": "je vous en prie", "english": "you're welcome (formal)", "partOfSpeech": "expression", "pronunciation": "zhuh voo zahn PREE", "example": "Merci beaucoup ! — Je vous en prie.", "exampleEnglish": "Thank you very much! — You're welcome.", "level": "A1", "category": "greetings" },
+            { "id": "desole", "french": "désolé", "english": "sorry", "partOfSpeech": "adjective", "pronunciation": "day-zoh-LAY", "example": "Désolé, madame !", "exampleEnglish": "Sorry, ma'am!", "level": "A1", "category": "greetings" },
+            { "id": "partir", "french": "partir", "english": "to leave", "partOfSpeech": "verb", "pronunciation": "par-TEER", "example": "Je pars à midi.", "exampleEnglish": "I leave at noon.", "level": "A1", "category": "verbs" }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a1_u01_l03_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What does it mean?",
+              "french": "À demain !",
+              "options": ["See you tomorrow!", "Good night!", "See you soon!", "Goodbye!"],
+              "answer": "See you tomorrow!"
+            },
+            {
+              "id": "a1_u01_l03_li02",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Au revoir !",
+              "answer": "Au revoir !",
+              "acceptedAnswers": ["au revoir"]
+            },
+            {
+              "id": "a1_u01_l03_li03",
+              "type": "listenChoose",
+              "prompt": "Listen. When would you say this?",
+              "french": "Bonne nuit !",
+              "options": ["Before going to sleep", "When entering a shop", "At lunchtime", "When answering the phone"],
+              "answer": "Before going to sleep"
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a1_u01_l03_sp01",
+              "type": "speak",
+              "prompt": "Say goodbye.",
+              "french": "Au revoir",
+              "english": "Goodbye",
+              "tip": "Many French speakers say it fast: it can sound like \"o-rvwar\"."
+            },
+            {
+              "id": "a1_u01_l03_sp02",
+              "type": "speak",
+              "prompt": "Wish someone a good day.",
+              "french": "Bonne journée",
+              "english": "Have a good day",
+              "tip": "\"Journée\" is zhoor-NAY — the French j is soft like the s in \"measure\"."
+            },
+            {
+              "id": "a1_u01_l03_sp03",
+              "type": "speak",
+              "prompt": "Say \"see you soon\".",
+              "french": "À bientôt",
+              "english": "See you soon",
+              "tip": "\"Bientôt\" has a nasal \"ien\": byan-TOH."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Au café",
+              "french": "— Un café, s'il vous plaît.\n— Voilà, monsieur.\n— Merci beaucoup !\n— De rien. Au revoir, bonne journée !\n— Merci, vous aussi. À bientôt !",
+              "english": "— A coffee, please.\n— Here you are, sir.\n— Thank you very much!\n— You're welcome. Goodbye, have a good day!\n— Thanks, you too. See you soon!",
+              "questions": [
+                {
+                  "id": "a1_u01_l03_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "What does the customer order?",
+                  "options": ["A coffee", "A croissant", "Water", "Bread"],
+                  "answer": "A coffee"
+                },
+                {
+                  "id": "a1_u01_l03_rd02",
+                  "type": "multipleChoice",
+                  "prompt": "How does the waiter answer \"Merci beaucoup\"?",
+                  "options": ["De rien.", "Bonne nuit.", "À demain.", "Salut."],
+                  "answer": "De rien."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a1_u01_l03_wr01",
+              "type": "translate",
+              "prompt": "Translate into French: \"Goodbye, see you tomorrow!\"",
+              "english": "Goodbye, see you tomorrow!",
+              "answer": "Au revoir, à demain !",
+              "acceptedAnswers": ["au revoir a demain"]
+            },
+            {
+              "id": "a1_u01_l03_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "A coffee, please.",
+              "words": ["café,", "Un", "plaît", "s'il", "vous"],
+              "answer": "Un café, s'il vous plaît"
+            },
+            {
+              "id": "a1_u01_l03_wr03",
+              "type": "fillBlank",
+              "prompt": "Someone thanks you. Reply: \"De ___ !\"",
+              "answer": "rien"
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a1_u01_l03_pr01",
+              "type": "multipleChoice",
+              "prompt": "A friend says \"Merci !\". Which informal reply fits best?",
+              "options": ["De rien !", "Je vous en prie, monsieur.", "Bonne nuit !", "Désolé !"],
+              "answer": "De rien !"
+            },
+            {
+              "id": "a1_u01_l03_pr02",
+              "type": "fillBlank",
+              "prompt": "You speak to a friend. Complete: \"Un jus d'orange, s'il te ___.\"",
+              "answer": "plaît",
+              "acceptedAnswers": ["plait"]
+            },
+            {
+              "id": "a1_u01_l03_pr03",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "Goodbye, have a good evening!",
+              "words": ["bonne", "Au", "soirée", "revoir,"],
+              "answer": "Au revoir, bonne soirée"
+            },
+            {
+              "id": "a1_u01_l03_pr04",
+              "type": "listenChoose",
+              "prompt": "Listen. What does it mean?",
+              "french": "À tout à l'heure !",
+              "options": ["See you in a bit!", "Good night!", "You're welcome!", "Sorry!"],
+              "answer": "See you in a bit!"
+            },
+            {
+              "id": "a1_u01_l03_pr05",
+              "type": "translate",
+              "prompt": "Translate into French: \"See you later!\"",
+              "english": "See you later!",
+              "answer": "À plus tard !",
+              "acceptedAnswers": ["a plus tard"]
+            },
+            {
+              "id": "a1_u01_l03_pr06",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "bonne soirée", "english": "have a good evening" },
+                { "french": "à plus tard", "english": "see you later" },
+                { "french": "désolé", "english": "sorry" },
+                { "french": "je vous en prie", "english": "you're welcome" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a1_u01_l03_qz01",
+              "type": "multipleChoice",
+              "prompt": "You leave a shop. The seller says \"Bonne journée !\". You answer:",
+              "options": ["Merci, vous aussi !", "Bonne nuit !", "Comme ci, comme ça.", "Non, merci."],
+              "answer": "Merci, vous aussi !"
+            },
+            {
+              "id": "a1_u01_l03_qz02",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "au revoir", "english": "goodbye" },
+                { "french": "à demain", "english": "see you tomorrow" },
+                { "french": "bonne nuit", "english": "good night" },
+                { "french": "de rien", "english": "you're welcome" }
+              ]
+            },
+            {
+              "id": "a1_u01_l03_qz03",
+              "type": "trueFalse",
+              "prompt": "\"Bonne nuit\" is the normal way to greet someone in the evening.",
+              "options": ["True", "False"],
+              "answer": "False",
+              "tip": "In the evening you greet with \"bonsoir\". \"Bonne nuit\" is only before sleeping."
+            },
+            {
+              "id": "a1_u01_l03_qz04",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Un café, s'il vous ___.\"",
+              "answer": "plaît",
+              "acceptedAnswers": ["plait"]
+            },
+            {
+              "id": "a1_u01_l03_qz05",
+              "type": "multipleChoice",
+              "prompt": "Which phrase means \"see you soon\"?",
+              "options": ["À bientôt", "Bonne journée", "De rien", "S'il vous plaît"],
+              "answer": "À bientôt"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

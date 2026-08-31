@@ -1,0 +1,1243 @@
+{
+  "id": "a2_u13",
+  "level": "A2",
+  "unit": 13,
+  "title": "School & Studies",
+  "subtitle": "Talk about school, say what you study, and give advice for passing exams",
+  "icon": "🎒",
+  "lessons": [
+    {
+      "id": "a2_u13_l01",
+      "level": "A2",
+      "unit": 13,
+      "title": "À l'école",
+      "description": "Name school subjects, read a French timetable, and use the everyday language of the classroom.",
+      "estimatedMinutes": 16,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Les matières : the school subjects",
+              "body": "A school subject is une matière. To say you have a subject on your timetable, use avoir: j'ai maths, j'ai anglais. To say you like or dislike it, use the definite article: j'aime les maths, je déteste la géographie. Notice that subject names are not capitalised in French, even for languages.",
+              "examples": [
+                { "french": "Ma matière préférée, c'est l'histoire.", "english": "My favourite subject is history." },
+                { "french": "J'ai maths et anglais ce matin.", "english": "I have maths and English this morning.", "note": "no article after avoir + subject" },
+                { "french": "Je n'aime pas beaucoup la chimie.", "english": "I don't like chemistry very much." },
+                { "french": "Elle est très forte en sciences.", "english": "She is very good at science.", "note": "être fort en + subject = to be good at" },
+                { "french": "Le cours de français dure une heure.", "english": "The French class lasts an hour." },
+                { "french": "En dessin, on travaille avec des crayons de couleur.", "english": "In art, we work with coloured pencils." }
+              ],
+              "tip": "Careful with le français: as a subject it takes a small f, but a French person is un Français with a capital F."
+            },
+            {
+              "heading": "L'emploi du temps : reading a timetable",
+              "body": "L'emploi du temps is the weekly timetable. Put le in front of a day to say every week: le lundi = on Mondays. Without le, lundi means this coming Monday. Give times with à and use de … à … for a period.",
+              "examples": [
+                { "french": "Le lundi, j'ai sport de dix heures à midi.", "english": "On Mondays I have P.E. from ten to twelve." },
+                { "french": "Lundi, il y a un contrôle d'espagnol.", "english": "On Monday there is a Spanish test.", "note": "no article = one particular Monday" },
+                { "french": "Les cours commencent à huit heures et demie.", "english": "Classes start at half past eight." },
+                { "french": "Mon emploi du temps est très chargé cette année.", "english": "My timetable is very full this year." },
+                { "french": "Le mercredi après-midi, nous n'avons pas cours.", "english": "On Wednesday afternoons we have no classes.", "note": "avoir cours = to have class, no article" },
+                { "french": "La récréation est à dix heures.", "english": "Break is at ten o'clock." }
+              ],
+              "tip": "In France, many collèges keep Wednesday afternoon free for sport and music clubs."
+            },
+            {
+              "heading": "La vie de classe : what people say in the classroom",
+              "body": "Teachers speak to the whole class with vous, so classroom instructions are in the vous form: ouvrez, écoutez, répétez. Students answer the teacher with vous too. These few sentences will get you through any French classroom.",
+              "examples": [
+                { "french": "Ouvrez vos cahiers à la page vingt.", "english": "Open your exercise books to page twenty." },
+                { "french": "Écoutez bien et répétez après moi.", "english": "Listen carefully and repeat after me." },
+                { "french": "Est-ce que je peux poser une question ?", "english": "May I ask a question?" },
+                { "french": "Excusez-moi, je n'ai pas compris.", "english": "Sorry, I didn't understand.", "note": "polite and very useful" },
+                { "french": "Levez la main avant de parler.", "english": "Raise your hand before speaking." },
+                { "french": "Vous pouvez répéter, s'il vous plaît ?", "english": "Could you repeat that, please?" }
+              ],
+              "tip": "French pupils call their teacher Monsieur or Madame, never by their first name."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "l-ecole", "french": "l'école", "english": "school", "partOfSpeech": "noun", "gender": "f", "plural": "écoles", "pronunciation": "lay-KOL", "example": "Mon frère va à l'école à pied.", "exampleEnglish": "My brother walks to school.", "level": "A2", "category": "school" },
+            { "id": "le-college", "french": "le collège", "english": "middle school (11–15)", "partOfSpeech": "noun", "gender": "m", "plural": "collèges", "pronunciation": "luh ko-LEZH", "example": "Elle entre au collège en septembre.", "exampleEnglish": "She starts middle school in September.", "level": "A2", "category": "school" },
+            { "id": "le-lycee", "french": "le lycée", "english": "high school (15–18)", "partOfSpeech": "noun", "gender": "m", "plural": "lycées", "pronunciation": "luh lee-SAY", "example": "Le lycée est à côté de la gare.", "exampleEnglish": "The high school is next to the station.", "level": "A2", "category": "school" },
+            { "id": "la-salle-de-classe", "french": "la salle de classe", "english": "classroom", "partOfSpeech": "noun", "gender": "f", "plural": "salles de classe", "pronunciation": "lah sal duh KLAS", "example": "La salle de classe est au premier étage.", "exampleEnglish": "The classroom is on the first floor.", "level": "A2", "category": "school" },
+            { "id": "la-classe", "french": "la classe", "english": "class (group of pupils)", "partOfSpeech": "noun", "gender": "f", "plural": "classes", "pronunciation": "lah KLAS", "example": "Toute la classe part en voyage scolaire.", "exampleEnglish": "The whole class is going on a school trip.", "level": "A2", "category": "school" },
+            { "id": "l-eleve", "french": "l'élève", "english": "pupil, student", "partOfSpeech": "noun", "gender": "m", "plural": "élèves", "pronunciation": "lay-LEV", "example": "Il y a vingt-huit élèves dans ma classe.", "exampleEnglish": "There are twenty-eight pupils in my class.", "level": "A2", "category": "school" },
+            { "id": "le-professeur", "french": "le professeur", "english": "teacher", "partOfSpeech": "noun", "gender": "m", "plural": "professeurs", "pronunciation": "luh pro-fe-SEUR", "example": "Notre professeur d'anglais est très patient.", "exampleEnglish": "Our English teacher is very patient.", "level": "A2", "category": "school" },
+            { "id": "le-camarade-de-classe", "french": "le camarade de classe", "english": "classmate", "partOfSpeech": "noun", "gender": "m", "plural": "camarades de classe", "pronunciation": "luh ka-ma-RAD duh klas", "example": "Mes camarades de classe m'aident souvent.", "exampleEnglish": "My classmates often help me.", "level": "A2", "category": "school" },
+            { "id": "la-matiere-scolaire", "french": "la matière", "english": "school subject", "partOfSpeech": "noun", "gender": "f", "plural": "matières", "pronunciation": "lah ma-TYAIR", "example": "Quelle matière préfères-tu ?", "exampleEnglish": "Which subject do you prefer?", "level": "A2", "category": "school" },
+            { "id": "l-emploi-du-temps", "french": "l'emploi du temps", "english": "timetable, schedule", "partOfSpeech": "noun", "gender": "m", "plural": "emplois du temps", "pronunciation": "lahn-PLWAH dyoo TAHN", "example": "Regarde ton emploi du temps pour mardi.", "exampleEnglish": "Look at your timetable for Tuesday.", "level": "A2", "category": "school" },
+            { "id": "le-cours", "french": "le cours", "english": "class, lesson", "partOfSpeech": "noun", "gender": "m", "plural": "cours", "pronunciation": "luh KOOR", "example": "Le cours de maths commence à neuf heures.", "exampleEnglish": "The maths class starts at nine.", "level": "A2", "category": "school" },
+            { "id": "les-maths", "french": "les maths", "english": "maths", "partOfSpeech": "noun", "gender": "f", "plural": "maths", "pronunciation": "lay MAT", "example": "Je suis nul en maths, mais je travaille.", "exampleEnglish": "I'm bad at maths, but I'm working on it.", "level": "A2", "category": "school" },
+            { "id": "l-histoire", "french": "l'histoire", "english": "history", "partOfSpeech": "noun", "gender": "f", "plural": "histoires", "pronunciation": "lees-TWAHR", "example": "En histoire, on étudie la Révolution.", "exampleEnglish": "In history we are studying the Revolution.", "level": "A2", "category": "school" },
+            { "id": "la-geographie", "french": "la géographie", "english": "geography", "partOfSpeech": "noun", "gender": "f", "plural": "géographies", "pronunciation": "lah zhay-o-gra-FEE", "example": "La géographie est ma matière préférée.", "exampleEnglish": "Geography is my favourite subject.", "level": "A2", "category": "school" },
+            { "id": "les-sciences", "french": "les sciences", "english": "science", "partOfSpeech": "noun", "gender": "f", "plural": "sciences", "pronunciation": "lay SYAHNS", "example": "Nous faisons une expérience en sciences.", "exampleEnglish": "We are doing an experiment in science.", "level": "A2", "category": "school" },
+            { "id": "la-chimie", "french": "la chimie", "english": "chemistry", "partOfSpeech": "noun", "gender": "f", "plural": "chimies", "pronunciation": "lah shee-MEE", "example": "Le cours de chimie a lieu au laboratoire.", "exampleEnglish": "The chemistry class takes place in the lab.", "level": "A2", "category": "school" },
+            { "id": "l-anglais", "french": "l'anglais", "english": "English (subject)", "partOfSpeech": "noun", "gender": "m", "pronunciation": "lahn-GLAY", "example": "J'ai anglais trois fois par semaine.", "exampleEnglish": "I have English three times a week.", "level": "A2", "category": "school" },
+            { "id": "l-espagnol", "french": "l'espagnol", "english": "Spanish (subject)", "partOfSpeech": "noun", "gender": "m", "pronunciation": "les-pa-NYOL", "example": "J'apprends l'espagnol depuis deux ans.", "exampleEnglish": "I have been learning Spanish for two years.", "level": "A2", "category": "school" },
+            { "id": "le-francais", "french": "le français", "english": "French (subject)", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh frahn-SAY", "example": "En français, nous lisons un roman.", "exampleEnglish": "In French class we are reading a novel.", "level": "A2", "category": "school" },
+            { "id": "le-sport", "french": "le sport", "english": "P.E., sport", "partOfSpeech": "noun", "gender": "m", "plural": "sports", "pronunciation": "luh SPOR", "example": "Le mardi, j'ai sport au gymnase.", "exampleEnglish": "On Tuesdays I have P.E. in the gym.", "level": "A2", "category": "school" },
+            { "id": "musique", "french": "la musique", "english": "music", "partOfSpeech": "noun", "gender": "f", "plural": "musiques", "pronunciation": "lah myoo-ZEEK", "example": "En musique, on apprend une chanson.", "exampleEnglish": "In music we are learning a song.", "level": "A2", "category": "school" },
+            { "id": "le-dessin", "french": "le dessin", "english": "art, drawing", "partOfSpeech": "noun", "gender": "m", "plural": "dessins", "pronunciation": "luh de-SAN", "example": "Le professeur de dessin est très drôle.", "exampleEnglish": "The art teacher is very funny.", "level": "A2", "category": "school" },
+            { "id": "la-recreation", "french": "la récréation", "english": "break, recess", "partOfSpeech": "noun", "gender": "f", "plural": "récréations", "pronunciation": "lah ray-kray-a-SYON", "example": "Pendant la récréation, on joue au foot.", "exampleEnglish": "During break we play football.", "level": "A2", "category": "school" },
+            { "id": "la-cantine", "french": "la cantine", "english": "school canteen", "partOfSpeech": "noun", "gender": "f", "plural": "cantines", "pronunciation": "lah kahn-TEEN", "example": "Je mange à la cantine tous les jours.", "exampleEnglish": "I eat in the canteen every day.", "level": "A2", "category": "school" },
+            { "id": "le-tableau", "french": "le tableau", "english": "board, blackboard", "partOfSpeech": "noun", "gender": "m", "plural": "tableaux", "pronunciation": "luh ta-BLOH", "example": "Écris la date au tableau, s'il te plaît.", "exampleEnglish": "Write the date on the board, please.", "level": "A2", "category": "school" },
+            { "id": "le-cahier", "french": "le cahier", "english": "exercise book, notebook", "partOfSpeech": "noun", "gender": "m", "plural": "cahiers", "pronunciation": "luh ka-YAY", "example": "J'ai oublié mon cahier de maths.", "exampleEnglish": "I forgot my maths notebook.", "level": "A2", "category": "school" },
+            { "id": "le-manuel", "french": "le manuel", "english": "textbook", "partOfSpeech": "noun", "gender": "m", "plural": "manuels", "pronunciation": "luh ma-NWEL", "example": "Ouvrez le manuel à la page trente.", "exampleEnglish": "Open the textbook to page thirty.", "level": "A2", "category": "school" },
+            { "id": "le-stylo", "french": "le stylo", "english": "pen", "partOfSpeech": "noun", "gender": "m", "plural": "stylos", "pronunciation": "luh stee-LOH", "example": "Tu peux me prêter un stylo bleu ?", "exampleEnglish": "Can you lend me a blue pen?", "level": "A2", "category": "school" },
+            { "id": "le-crayon", "french": "le crayon", "english": "pencil", "partOfSpeech": "noun", "gender": "m", "plural": "crayons", "pronunciation": "luh kray-YON", "example": "Dessine d'abord au crayon.", "exampleEnglish": "Draw in pencil first.", "level": "A2", "category": "school" },
+            { "id": "la-trousse", "french": "la trousse", "english": "pencil case", "partOfSpeech": "noun", "gender": "f", "plural": "trousses", "pronunciation": "lah TROOSS", "example": "Ma trousse est pleine de stylos.", "exampleEnglish": "My pencil case is full of pens.", "level": "A2", "category": "school" },
+            { "id": "sac-a-dos", "french": "le sac à dos", "english": "backpack", "partOfSpeech": "noun", "gender": "m", "plural": "sacs à dos", "pronunciation": "luh sak a DOH", "example": "Mon sac à dos est trop lourd.", "exampleEnglish": "My backpack is too heavy.", "level": "A2", "category": "school" },
+            { "id": "la-sonnerie", "french": "la sonnerie", "english": "school bell", "partOfSpeech": "noun", "gender": "f", "plural": "sonneries", "pronunciation": "lah son-REE", "example": "La sonnerie a déjà sonné.", "exampleEnglish": "The bell has already rung.", "level": "A2", "category": "school" },
+            { "id": "lever-la-main", "french": "lever la main", "english": "to raise one's hand", "partOfSpeech": "expression", "pronunciation": "luh-VAY lah MAN", "example": "Lève la main si tu connais la réponse.", "exampleEnglish": "Raise your hand if you know the answer.", "level": "A2", "category": "school" },
+            { "id": "la-rentree", "french": "la rentrée", "english": "start of the school year", "partOfSpeech": "noun", "gender": "f", "plural": "rentrées", "pronunciation": "lah rahn-TRAY", "example": "La rentrée est le premier septembre.", "exampleEnglish": "The school year starts on the first of September.", "level": "A2", "category": "school" },
+            { "id": "ecouter", "french": "écouter", "english": "to listen (to)", "partOfSpeech": "verb", "pronunciation": "ay-koo-TAY", "example": "Écoutez bien la consigne.", "exampleEnglish": "Listen carefully to the instructions.", "level": "A2", "category": "school" },
+            { "id": "repeter", "french": "répéter", "english": "to repeat", "partOfSpeech": "verb", "pronunciation": "ray-pay-TAY", "example": "Vous pouvez répéter la question ?", "exampleEnglish": "Could you repeat the question?", "level": "A2", "category": "school" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "À l'école, au collège, en classe",
+              "body": "To say where you are or where you go, French uses à + the article: à l'école, au collège (à + le), au lycée, à la cantine. But a few very common school places drop the article after en: en classe, en cours, en récréation. Learn these as fixed blocks and you will not hesitate.",
+              "examples": [
+                { "french": "Je vais à l'école en bus.", "english": "I go to school by bus." },
+                { "french": "Mon cousin est au lycée cette année.", "english": "My cousin is in high school this year.", "note": "à + le = au" },
+                { "french": "Nous mangeons à la cantine à midi.", "english": "We eat in the canteen at noon." },
+                { "french": "Silence, on est en classe !", "english": "Quiet, we are in class!", "note": "en + no article" },
+                { "french": "Elle est en cours de maths jusqu'à onze heures.", "english": "She is in her maths class until eleven." },
+                { "french": "Les enfants sont dans la cour.", "english": "The children are in the playground.", "note": "dans + article for a physical space" }
+              ],
+              "tip": "Remember the pair: aller à l'école (movement) and être à l'école (position) use exactly the same preposition."
+            },
+            {
+              "heading": "Saying when: le lundi, à … heures, de … à …",
+              "body": "Le + a day means every week: le vendredi = on Fridays. The same day with no article points to one single day: vendredi = this Friday. Give a starting time with à and a whole period with de … à …. Add tous les jours or deux fois par semaine to say how often.",
+              "examples": [
+                { "french": "Le jeudi, j'ai deux heures de sport.", "english": "On Thursdays I have two hours of P.E." },
+                { "french": "Jeudi, je vais chez le dentiste.", "english": "On Thursday I'm going to the dentist.", "note": "one specific Thursday" },
+                { "french": "Les cours finissent à dix-sept heures.", "english": "Classes finish at five p.m.", "note": "timetables use the 24-hour clock" },
+                { "french": "J'ai français de neuf heures à dix heures.", "english": "I have French from nine to ten." },
+                { "french": "On a musique une fois par semaine.", "english": "We have music once a week." },
+                { "french": "Je révise tous les soirs après le dîner.", "english": "I revise every evening after dinner." }
+              ],
+              "tip": "French school timetables are written 8h30, 14h00 — the h replaces the colon."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a2_u13_l01_li01",
+              "type": "listenChoose",
+              "french": "Le lundi, j'ai maths à huit heures.",
+              "prompt": "Listen and choose what you hear.",
+              "options": [
+                "Le lundi, j'ai maths à huit heures.",
+                "Le lundi, j'ai sport à huit heures.",
+                "Le mardi, j'ai maths à huit heures.",
+                "Le lundi, j'ai maths à onze heures."
+              ],
+              "answer": "Le lundi, j'ai maths à huit heures."
+            },
+            {
+              "id": "a2_u13_l01_li02",
+              "type": "listenChoose",
+              "french": "Ma matière préférée, c'est la géographie.",
+              "prompt": "Listen: which subject does the speaker prefer?",
+              "options": [
+                "Ma matière préférée, c'est la géographie.",
+                "Ma matière préférée, c'est l'histoire.",
+                "Ma matière préférée, c'est la chimie.",
+                "Ma matière préférée, c'est le dessin."
+              ],
+              "answer": "Ma matière préférée, c'est la géographie."
+            },
+            {
+              "id": "a2_u13_l01_li03",
+              "type": "listenType",
+              "french": "J'ai oublié mon cahier à la maison.",
+              "prompt": "Listen and type the sentence.",
+              "answer": "J'ai oublié mon cahier à la maison.",
+              "acceptedAnswers": [
+                "J'ai oublie mon cahier a la maison",
+                "j'ai oublie mon cahier a la maison",
+                "J'ai oublié mon cahier à la maison"
+              ]
+            },
+            {
+              "id": "a2_u13_l01_li04",
+              "type": "dictation",
+              "french": "Les cours commencent à huit heures et demie.",
+              "prompt": "Dictation: write the whole sentence.",
+              "answer": "Les cours commencent à huit heures et demie.",
+              "acceptedAnswers": [
+                "Les cours commencent a huit heures et demie",
+                "les cours commencent a huit heures et demie",
+                "Les cours commencent à huit heures et demie"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a2_u13_l01_sp01",
+              "type": "speak",
+              "french": "Ma matière préférée, c'est l'histoire.",
+              "english": "My favourite subject is history.",
+              "prompt": "Tell a new classmate which subject you like best.",
+              "tip": "Say « histoire » as \"ees-TWAHR\" — the h is completely silent, so l'histoire sounds like one word."
+            },
+            {
+              "id": "a2_u13_l01_sp02",
+              "type": "speak",
+              "french": "Le mercredi, je n'ai pas cours l'après-midi.",
+              "english": "On Wednesdays I have no classes in the afternoon.",
+              "prompt": "Explain your Wednesday schedule.",
+              "tip": "Mercredi has three syllables: mer-kruh-DEE. Don't drop the little \"kruh\" in the middle."
+            },
+            {
+              "id": "a2_u13_l01_sp03",
+              "type": "speak",
+              "french": "Excusez-moi, vous pouvez répéter, s'il vous plaît ?",
+              "english": "Excuse me, could you repeat that, please?",
+              "prompt": "Politely ask your teacher to say something again.",
+              "tip": "Let your voice rise on « plaît » and keep the whole sentence gentle — that is what makes it polite."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Une journée au collège",
+              "french": "Je m'appelle Lucas et je suis en troisième au collège Jules-Verne.\nLes cours commencent à huit heures et la sonnerie réveille tout le monde.\nLe lundi matin, j'ai maths, puis anglais, et enfin une heure de sciences.\nJe n'aime pas beaucoup les maths, mais notre professeur explique très bien.\nÀ dix heures, il y a la récréation : on mange un gâteau dans la cour.\nÀ midi, je déjeune à la cantine avec mes camarades de classe.\nL'après-midi, j'ai histoire-géographie et deux heures de sport.\nLe mercredi, nous n'avons pas cours l'après-midi, alors je vais à la bibliothèque.\nMon emploi du temps est chargé, mais j'aime bien ma classe.\nCette année, la rentrée s'est très bien passée.",
+              "english": "My name is Lucas and I'm in year 10 at Jules-Verne middle school.\nClasses start at eight and the bell wakes everybody up.\nOn Monday mornings I have maths, then English, and finally an hour of science.\nI don't like maths much, but our teacher explains things very well.\nAt ten there is break: we eat a cake in the playground.\nAt noon I have lunch in the canteen with my classmates.\nIn the afternoon I have history and geography and two hours of P.E.\nOn Wednesdays we have no afternoon classes, so I go to the library.\nMy timetable is full, but I really like my class.\nThis year the start of the school year went very well.",
+              "questions": [
+                {
+                  "id": "a2_u13_l01_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "À quelle heure les cours commencent-ils ?",
+                  "options": [
+                    "À huit heures.",
+                    "À dix heures.",
+                    "À midi.",
+                    "À neuf heures et demie."
+                  ],
+                  "answer": "À huit heures."
+                },
+                {
+                  "id": "a2_u13_l01_rd02",
+                  "type": "multipleChoice",
+                  "prompt": "Que fait Lucas le mercredi après-midi ?",
+                  "options": [
+                    "Il va à la bibliothèque.",
+                    "Il a deux heures de sport.",
+                    "Il mange à la cantine.",
+                    "Il a un cours de sciences."
+                  ],
+                  "answer": "Il va à la bibliothèque."
+                },
+                {
+                  "id": "a2_u13_l01_rd03",
+                  "type": "trueFalse",
+                  "prompt": "Lucas adore les maths.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a2_u13_l01_wr01",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "My favourite subject is geography.",
+              "answer": "Ma matière préférée, c'est la géographie.",
+              "acceptedAnswers": [
+                "Ma matiere preferee, c'est la geographie.",
+                "ma matiere preferee c'est la geographie",
+                "Ma matière préférée est la géographie."
+              ]
+            },
+            {
+              "id": "a2_u13_l01_wr02",
+              "type": "translate",
+              "prompt": "Translate into French. Use « le » for a weekly habit.",
+              "english": "On Tuesdays I have English at ten o'clock.",
+              "answer": "Le mardi, j'ai anglais à dix heures.",
+              "acceptedAnswers": [
+                "Le mardi j'ai anglais a dix heures",
+                "le mardi, j'ai anglais à dix heures",
+                "Le mardi, j'ai anglais à dix heures"
+              ]
+            },
+            {
+              "id": "a2_u13_l01_wr03",
+              "type": "arrangeWords",
+              "words": ["cantine", "à", "je", "la", "mange"],
+              "answer": "je mange à la cantine",
+              "english": "I eat in the canteen."
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a2_u13_l01_pr01",
+              "type": "fillBlank",
+              "prompt": "Mon frère est ___ lycée depuis septembre. (à + le)",
+              "answer": "au"
+            },
+            {
+              "id": "a2_u13_l01_pr02",
+              "type": "fillBlank",
+              "prompt": "Silence, nous sommes ___ classe !",
+              "answer": "en"
+            },
+            {
+              "id": "a2_u13_l01_pr03",
+              "type": "multipleChoice",
+              "prompt": "Which sentence means \"On Fridays I have art\"?",
+              "options": [
+                "Le vendredi, j'ai dessin.",
+                "Vendredi, j'ai dessin.",
+                "Un vendredi, j'ai dessin.",
+                "En vendredi, j'ai dessin."
+              ],
+              "answer": "Le vendredi, j'ai dessin."
+            },
+            {
+              "id": "a2_u13_l01_pr04",
+              "type": "match",
+              "prompt": "Match the school words with their English meanings.",
+              "pairs": [
+                { "french": "l'emploi du temps", "english": "timetable" },
+                { "french": "la récréation", "english": "break" },
+                { "french": "le cahier", "english": "exercise book" },
+                { "french": "la trousse", "english": "pencil case" }
+              ]
+            },
+            {
+              "id": "a2_u13_l01_pr05",
+              "type": "arrangeWords",
+              "words": ["main", "la", "lève", "parler", "de", "avant"],
+              "answer": "lève la main avant de parler",
+              "english": "Raise your hand before speaking."
+            },
+            {
+              "id": "a2_u13_l01_pr06",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "The classroom is on the first floor.",
+              "answer": "La salle de classe est au premier étage.",
+              "acceptedAnswers": [
+                "La salle de classe est au premier etage",
+                "la salle de classe est au premier étage",
+                "La salle de classe est au premier étage"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a2_u13_l01_qz01",
+              "type": "multipleChoice",
+              "prompt": "How do you say \"the timetable\"?",
+              "options": [
+                "l'emploi du temps",
+                "le temps de classe",
+                "l'heure des cours",
+                "le programme du jour"
+              ],
+              "answer": "l'emploi du temps"
+            },
+            {
+              "id": "a2_u13_l01_qz02",
+              "type": "fillBlank",
+              "prompt": "Je vais ___ l'école à pied. (preposition)",
+              "answer": "à"
+            },
+            {
+              "id": "a2_u13_l01_qz03",
+              "type": "multipleChoice",
+              "prompt": "Choose the correct sentence.",
+              "options": [
+                "J'ai anglais le mercredi.",
+                "J'ai l'anglais le mercredi.",
+                "J'ai un anglais le mercredi.",
+                "J'ai en anglais le mercredi."
+              ],
+              "answer": "J'ai anglais le mercredi."
+            },
+            {
+              "id": "a2_u13_l01_qz04",
+              "type": "trueFalse",
+              "prompt": "In French, school subjects and languages are written with a capital letter.",
+              "options": ["True", "False"],
+              "answer": "False"
+            },
+            {
+              "id": "a2_u13_l01_qz05",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "Open your notebooks, please.",
+              "answer": "Ouvrez vos cahiers, s'il vous plaît.",
+              "acceptedAnswers": [
+                "Ouvrez vos cahiers s'il vous plait",
+                "ouvrez vos cahiers, s'il vous plaît",
+                "Ouvrez vos cahiers, s'il vous plaît"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2_u13_l02",
+      "level": "A2",
+      "unit": 13,
+      "title": "Mes études",
+      "description": "Say what you study and where, and use depuis with the present tense to say how long.",
+      "estimatedMinutes": 16,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Saying what you study",
+              "body": "There are three natural ways to say what you study. Étudier + subject is the simplest: j'étudie le droit. Faire des études de + subject sounds more like \"I'm doing a degree in\": je fais des études de médecine. Être étudiant en + subject describes your identity: je suis étudiante en histoire. Note that with être étudiant en there is no article at all.",
+              "examples": [
+                { "french": "J'étudie l'informatique à l'université.", "english": "I study computer science at university." },
+                { "french": "Elle fait des études de médecine à Lyon.", "english": "She is studying medicine in Lyon." },
+                { "french": "Je suis étudiant en économie.", "english": "I am an economics student.", "note": "no article after en" },
+                { "french": "Mon frère apprend le japonais tout seul.", "english": "My brother is learning Japanese on his own." },
+                { "french": "Nous suivons un cours de psychologie.", "english": "We are taking a psychology course.", "note": "suivre un cours = to take a course" },
+                { "french": "Qu'est-ce que tu étudies cette année ?", "english": "What are you studying this year?" }
+              ],
+              "tip": "Apprendre is what happens in your head; étudier is the work you do. Both are correct — apprendre le français, étudier le français."
+            },
+            {
+              "heading": "Where you study: la fac, la licence, le master",
+              "body": "Everyday French says la fac much more often than l'université. A French degree runs licence (3 years), master (2 years), doctorat. You say je suis en licence, je suis en deuxième année, je suis en master de biologie. En is the normal preposition for a year or a level.",
+              "examples": [
+                { "french": "Je suis en deuxième année de licence.", "english": "I'm in the second year of my bachelor's degree." },
+                { "french": "Il va à la fac tous les matins.", "english": "He goes to uni every morning." },
+                { "french": "Elle prépare un master de droit international.", "english": "She is doing a master's in international law." },
+                { "french": "Je me suis inscrit à l'université en septembre.", "english": "I enrolled at the university in September.", "note": "s'inscrire à = to enrol in" },
+                { "french": "Le campus est à vingt minutes du centre-ville.", "english": "The campus is twenty minutes from the town centre." },
+                { "french": "J'ai obtenu une bourse pour cette année.", "english": "I got a scholarship for this year." }
+              ],
+              "tip": "La fac is short for la faculté and is completely normal in speech; keep l'université for formal writing."
+            },
+            {
+              "heading": "Explaining why you study something",
+              "body": "Give your reason with pour + infinitive (in order to) or parce que + a full sentence. To talk about plans, use je voudrais + infinitive or j'ai l'intention de + infinitive. These simple structures let you speak about your future in a few words.",
+              "examples": [
+                { "french": "J'étudie l'anglais pour travailler à l'étranger.", "english": "I study English in order to work abroad." },
+                { "french": "Je fais du droit parce que je veux aider les gens.", "english": "I'm studying law because I want to help people." },
+                { "french": "Je voudrais devenir professeur de sciences.", "english": "I would like to become a science teacher." },
+                { "french": "J'ai l'intention de faire un stage cet été.", "english": "I intend to do an internship this summer." },
+                { "french": "Ce master me permet de trouver un bon travail.", "english": "This master's lets me find a good job." },
+                { "french": "Après ma licence, je vais chercher du travail.", "english": "After my degree I'm going to look for work.", "note": "aller + infinitive for the near future" }
+              ],
+              "tip": "Pour is always followed by the infinitive, never by a conjugated verb: pour apprendre, not « pour j'apprends »."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "l-universite", "french": "l'université", "english": "university", "partOfSpeech": "noun", "gender": "f", "plural": "universités", "pronunciation": "loo-nee-vair-see-TAY", "example": "L'université ouvre à sept heures.", "exampleEnglish": "The university opens at seven.", "level": "A2", "category": "studies" },
+            { "id": "la-faculte", "french": "la faculté (la fac)", "english": "university, uni", "partOfSpeech": "noun", "gender": "f", "plural": "facultés", "pronunciation": "lah fa-kool-TAY", "example": "Je vais à la fac en tram.", "exampleEnglish": "I go to uni by tram.", "level": "A2", "category": "studies" },
+            { "id": "l-etudiant", "french": "l'étudiant", "english": "student", "partOfSpeech": "noun", "gender": "m", "plural": "étudiants", "pronunciation": "lay-tyoo-DYAHN", "example": "Les étudiants travaillent à la bibliothèque.", "exampleEnglish": "The students are working in the library.", "level": "A2", "category": "studies" },
+            { "id": "les-etudes", "french": "les études", "english": "studies", "partOfSpeech": "noun", "gender": "f", "plural": "études", "pronunciation": "lay-zay-TYOOD", "example": "Il a arrêté ses études l'an dernier.", "exampleEnglish": "He stopped his studies last year.", "level": "A2", "category": "studies" },
+            { "id": "etudier", "french": "étudier", "english": "to study", "partOfSpeech": "verb", "pronunciation": "ay-tyoo-DYAY", "example": "J'étudie l'espagnol depuis trois ans.", "exampleEnglish": "I have been studying Spanish for three years.", "level": "A2", "category": "studies" },
+            { "id": "apprendre", "french": "apprendre", "english": "to learn", "partOfSpeech": "verb", "pronunciation": "a-PRAHN-druh", "example": "J'apprends à jouer du piano.", "exampleEnglish": "I am learning to play the piano.", "level": "A2", "category": "studies" },
+            { "id": "s-inscrire", "french": "s'inscrire", "english": "to enrol, to sign up", "partOfSpeech": "verb", "pronunciation": "san-SKREER", "example": "Je me suis inscrite en licence de lettres.", "exampleEnglish": "I enrolled on a literature degree.", "level": "A2", "category": "studies" },
+            { "id": "la-licence", "french": "la licence", "english": "bachelor's degree", "partOfSpeech": "noun", "gender": "f", "plural": "licences", "pronunciation": "lah lee-SAHNS", "example": "Ma licence dure trois ans.", "exampleEnglish": "My bachelor's degree lasts three years.", "level": "A2", "category": "studies" },
+            { "id": "le-master", "french": "le master", "english": "master's degree", "partOfSpeech": "noun", "gender": "m", "plural": "masters", "pronunciation": "luh mas-TAIR", "example": "Elle commence un master en septembre.", "exampleEnglish": "She is starting a master's in September.", "level": "A2", "category": "studies" },
+            { "id": "le-diplome", "french": "le diplôme", "english": "diploma, degree", "partOfSpeech": "noun", "gender": "m", "plural": "diplômes", "pronunciation": "luh dee-PLOHM", "example": "J'ai obtenu mon diplôme en juin.", "exampleEnglish": "I got my degree in June.", "level": "A2", "category": "studies" },
+            { "id": "le-semestre", "french": "le semestre", "english": "semester, term", "partOfSpeech": "noun", "gender": "m", "plural": "semestres", "pronunciation": "luh suh-MES-truh", "example": "Le premier semestre finit en janvier.", "exampleEnglish": "The first term ends in January.", "level": "A2", "category": "studies" },
+            { "id": "la-premiere-annee", "french": "la première année", "english": "first year", "partOfSpeech": "noun", "gender": "f", "plural": "premières années", "pronunciation": "lah pruh-MYAIR a-NAY", "example": "La première année est la plus difficile.", "exampleEnglish": "The first year is the hardest.", "level": "A2", "category": "studies" },
+            { "id": "la-specialite", "french": "la spécialité", "english": "major, specialism", "partOfSpeech": "noun", "gender": "f", "plural": "spécialités", "pronunciation": "lah spay-sya-lee-TAY", "example": "Ma spécialité, c'est l'histoire moderne.", "exampleEnglish": "My major is modern history.", "level": "A2", "category": "studies" },
+            { "id": "le-domaine", "french": "le domaine", "english": "field, area", "partOfSpeech": "noun", "gender": "m", "plural": "domaines", "pronunciation": "luh do-MEN", "example": "Je travaille dans le domaine de la santé.", "exampleEnglish": "I work in the health field.", "level": "A2", "category": "studies" },
+            { "id": "le-cours-magistral", "french": "le cours magistral", "english": "lecture", "partOfSpeech": "noun", "gender": "m", "plural": "cours magistraux", "pronunciation": "luh koor ma-zhees-TRAL", "example": "Le cours magistral dure deux heures.", "exampleEnglish": "The lecture lasts two hours.", "level": "A2", "category": "studies" },
+            { "id": "la-bibliotheque", "french": "la bibliothèque", "english": "library", "partOfSpeech": "noun", "gender": "f", "plural": "bibliothèques", "pronunciation": "lah bee-blee-o-TEK", "example": "Je révise à la bibliothèque le soir.", "exampleEnglish": "I revise in the library in the evening.", "level": "A2", "category": "studies" },
+            { "id": "le-campus", "french": "le campus", "english": "campus", "partOfSpeech": "noun", "gender": "m", "plural": "campus", "pronunciation": "luh kahm-PYOOS", "example": "Il y a un café sur le campus.", "exampleEnglish": "There is a café on campus.", "level": "A2", "category": "studies" },
+            { "id": "la-cite-universitaire", "french": "la cité universitaire", "english": "student halls of residence", "partOfSpeech": "noun", "gender": "f", "plural": "cités universitaires", "pronunciation": "lah see-TAY oo-nee-vair-see-TAIR", "example": "J'habite à la cité universitaire.", "exampleEnglish": "I live in student halls.", "level": "A2", "category": "studies" },
+            { "id": "la-bourse", "french": "la bourse", "english": "scholarship, grant", "partOfSpeech": "noun", "gender": "f", "plural": "bourses", "pronunciation": "lah BOORSS", "example": "Sans bourse, je ne pourrais pas étudier ici.", "exampleEnglish": "Without a grant I couldn't study here.", "level": "A2", "category": "studies" },
+            { "id": "le-stage", "french": "le stage", "english": "internship, placement", "partOfSpeech": "noun", "gender": "m", "plural": "stages", "pronunciation": "luh STAHZH", "example": "Je fais un stage dans une école primaire.", "exampleEnglish": "I'm doing a placement in a primary school.", "level": "A2", "category": "studies" },
+            { "id": "le-memoire", "french": "le mémoire", "english": "dissertation", "partOfSpeech": "noun", "gender": "m", "plural": "mémoires", "pronunciation": "luh may-MWAHR", "example": "J'écris mon mémoire sur le cinéma.", "exampleEnglish": "I am writing my dissertation on cinema.", "level": "A2", "category": "studies" },
+            { "id": "la-recherche", "french": "la recherche", "english": "research", "partOfSpeech": "noun", "gender": "f", "plural": "recherches", "pronunciation": "lah ruh-SHAIRSH", "example": "Elle fait de la recherche en biologie.", "exampleEnglish": "She does research in biology.", "level": "A2", "category": "studies" },
+            { "id": "le-niveau", "french": "le niveau", "english": "level", "partOfSpeech": "noun", "gender": "m", "plural": "niveaux", "pronunciation": "luh nee-VOH", "example": "Mon niveau d'espagnol a beaucoup progressé.", "exampleEnglish": "My level of Spanish has improved a lot.", "level": "A2", "category": "studies" },
+            { "id": "la-formation", "french": "la formation", "english": "training, course", "partOfSpeech": "noun", "gender": "f", "plural": "formations", "pronunciation": "lah for-ma-SYON", "example": "Cette formation dure six mois.", "exampleEnglish": "This training course lasts six months.", "level": "A2", "category": "studies" },
+            { "id": "l-informatique", "french": "l'informatique", "english": "computer science, IT", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lan-for-ma-TEEK", "example": "L'informatique m'intéresse beaucoup.", "exampleEnglish": "Computer science interests me a lot.", "level": "A2", "category": "studies" },
+            { "id": "le-droit", "french": "le droit", "english": "law (subject)", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh DRWAH", "example": "Il fait des études de droit à Paris.", "exampleEnglish": "He is studying law in Paris.", "level": "A2", "category": "studies" },
+            { "id": "la-medecine", "french": "la médecine", "english": "medicine (subject)", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah mayd-SEEN", "example": "La médecine demande beaucoup de travail.", "exampleEnglish": "Medicine requires a lot of work.", "level": "A2", "category": "studies" },
+            { "id": "l-economie", "french": "l'économie", "english": "economics", "partOfSpeech": "noun", "gender": "f", "plural": "économies", "pronunciation": "lay-ko-no-MEE", "example": "J'ai un examen d'économie vendredi.", "exampleEnglish": "I have an economics exam on Friday.", "level": "A2", "category": "studies" },
+            { "id": "la-psychologie", "french": "la psychologie", "english": "psychology", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah psee-ko-lo-ZHEE", "example": "Elle est en troisième année de psychologie.", "exampleEnglish": "She is in her third year of psychology.", "level": "A2", "category": "studies" },
+            { "id": "la-langue-etrangere", "french": "la langue étrangère", "english": "foreign language", "partOfSpeech": "noun", "gender": "f", "plural": "langues étrangères", "pronunciation": "lah lahng ay-trahn-ZHAIR", "example": "J'apprends deux langues étrangères.", "exampleEnglish": "I am learning two foreign languages.", "level": "A2", "category": "studies" },
+            { "id": "depuis", "french": "depuis", "english": "for, since", "partOfSpeech": "preposition", "pronunciation": "duh-PWEE", "example": "J'habite ici depuis deux ans.", "exampleEnglish": "I have been living here for two years.", "level": "A2", "category": "time" },
+            { "id": "pendant", "french": "pendant", "english": "for, during", "partOfSpeech": "preposition", "pronunciation": "pahn-DAHN", "example": "J'ai étudié le russe pendant six mois.", "exampleEnglish": "I studied Russian for six months.", "level": "A2", "category": "time" },
+            { "id": "le-parcours", "french": "le parcours", "english": "academic path, background", "partOfSpeech": "noun", "gender": "m", "plural": "parcours", "pronunciation": "luh par-KOOR", "example": "Parlez-moi de votre parcours universitaire.", "exampleEnglish": "Tell me about your academic background.", "level": "A2", "category": "studies" },
+            { "id": "obtenir", "french": "obtenir", "english": "to obtain, to get", "partOfSpeech": "verb", "pronunciation": "ob-tuh-NEER", "example": "Elle a obtenu de très bons résultats.", "exampleEnglish": "She got very good results.", "level": "A2", "category": "studies" },
+            { "id": "travailler", "french": "travailler", "english": "to work, to study hard", "partOfSpeech": "verb", "pronunciation": "tra-va-YAY", "example": "Je travaille mes cours chaque soir.", "exampleEnglish": "I work on my courses every evening.", "level": "A2", "category": "studies" },
+            { "id": "progresser", "french": "progresser", "english": "to improve, to make progress", "partOfSpeech": "verb", "pronunciation": "pro-gre-SAY", "example": "Tu progresses vite en français !", "exampleEnglish": "You are improving fast in French!", "level": "A2", "category": "studies" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Depuis + le présent",
+              "body": "This is the big difference with English. When an action started in the past and is STILL going on, French uses the present tense with depuis, while English uses \"have been …ing\". J'étudie le français depuis deux ans = I have been studying French for two years. Depuis works with a length of time (depuis deux ans) and with a starting point (depuis septembre, depuis 2020). Ask the question with Depuis quand … ? or Depuis combien de temps … ?",
+              "examples": [
+                { "french": "J'apprends le français depuis deux ans.", "english": "I have been learning French for two years.", "note": "present tense, not passé composé" },
+                { "french": "Elle est à la fac depuis septembre.", "english": "She has been at university since September.", "note": "depuis + starting point" },
+                { "french": "Depuis quand est-ce que tu étudies l'italien ?", "english": "Since when have you been studying Italian?" },
+                { "french": "Depuis combien de temps habites-tu ici ?", "english": "How long have you been living here?" },
+                { "french": "Nous travaillons sur ce projet depuis trois semaines.", "english": "We have been working on this project for three weeks." },
+                { "french": "Il ne va plus en cours depuis lundi.", "english": "He hasn't been going to class since Monday.", "note": "negative + depuis stays in the present" }
+              ],
+              "tip": "Two everyday alternatives mean the same thing: Ça fait deux ans que j'étudie le français, or Il y a deux ans que j'étudie le français."
+            },
+            {
+              "heading": "Depuis, pendant, il y a — three different jobs",
+              "body": "Depuis + present = something still happening. Pendant + a past tense = a finished period: j'ai étudié le chinois pendant six mois (and I stopped). Il y a + a length of time = ago: j'ai commencé il y a six mois. Choosing the right one tells your listener whether the action is over or not.",
+              "examples": [
+                { "french": "J'étudie l'allemand depuis un an.", "english": "I have been studying German for a year.", "note": "still studying" },
+                { "french": "J'ai étudié l'allemand pendant un an.", "english": "I studied German for a year.", "note": "finished" },
+                { "french": "J'ai commencé l'allemand il y a un an.", "english": "I started German a year ago.", "note": "il y a = ago" },
+                { "french": "Pendant les vacances, j'ai travaillé dans un café.", "english": "During the holidays I worked in a café." },
+                { "french": "Elle est arrivée en France il y a trois mois.", "english": "She arrived in France three months ago." },
+                { "french": "Je n'ai pas vu Paul depuis Noël.", "english": "I haven't seen Paul since Christmas.", "note": "with a negative, the passé composé is normal" }
+              ],
+              "tip": "Quick test: if the action is finished, you cannot use depuis + present. Ask yourself \"is it still true right now?\""
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a2_u13_l02_li01",
+              "type": "listenChoose",
+              "french": "J'étudie le droit depuis trois ans.",
+              "prompt": "Listen and choose what you hear.",
+              "options": [
+                "J'étudie le droit depuis trois ans.",
+                "J'étudie le droit depuis trois mois.",
+                "J'ai étudié le droit pendant trois ans.",
+                "J'étudie l'anglais depuis trois ans."
+              ],
+              "answer": "J'étudie le droit depuis trois ans."
+            },
+            {
+              "id": "a2_u13_l02_li02",
+              "type": "listenChoose",
+              "french": "Elle est étudiante en psychologie à Bordeaux.",
+              "prompt": "Listen: what does she study, and where?",
+              "options": [
+                "Elle est étudiante en psychologie à Bordeaux.",
+                "Elle est étudiante en économie à Bordeaux.",
+                "Elle est étudiante en psychologie à Toulouse.",
+                "Elle est professeure de psychologie à Bordeaux."
+              ],
+              "answer": "Elle est étudiante en psychologie à Bordeaux."
+            },
+            {
+              "id": "a2_u13_l02_li03",
+              "type": "listenType",
+              "french": "Je vais à la fac tous les matins.",
+              "prompt": "Listen and type the sentence.",
+              "answer": "Je vais à la fac tous les matins.",
+              "acceptedAnswers": [
+                "Je vais a la fac tous les matins",
+                "je vais a la fac tous les matins",
+                "Je vais à la fac tous les matins"
+              ]
+            },
+            {
+              "id": "a2_u13_l02_li04",
+              "type": "dictation",
+              "french": "Depuis combien de temps est-ce que tu apprends le français ?",
+              "prompt": "Dictation: write the whole question.",
+              "answer": "Depuis combien de temps est-ce que tu apprends le français ?",
+              "acceptedAnswers": [
+                "Depuis combien de temps est-ce que tu apprends le francais",
+                "depuis combien de temps est-ce que tu apprends le francais ?",
+                "Depuis combien de temps est-ce que tu apprends le français"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a2_u13_l02_sp01",
+              "type": "speak",
+              "french": "Je suis étudiante en informatique à Lille.",
+              "english": "I am a computer science student in Lille.",
+              "prompt": "Introduce yourself at a student party.",
+              "tip": "Étudiante ends in a clear \"-ahnt\" sound; the masculine étudiant stops at a nasal \"-ahn\"."
+            },
+            {
+              "id": "a2_u13_l02_sp02",
+              "type": "speak",
+              "french": "J'apprends le français depuis deux ans.",
+              "english": "I have been learning French for two years.",
+              "prompt": "Say how long you have been learning French.",
+              "tip": "Depuis is two syllables, duh-PWEE, with the stress on the end — never say \"day-pwee\"."
+            },
+            {
+              "id": "a2_u13_l02_sp03",
+              "type": "speak",
+              "french": "J'étudie l'économie pour travailler à l'étranger.",
+              "english": "I study economics in order to work abroad.",
+              "prompt": "Explain why you chose your subject.",
+              "tip": "Link « pour travailler » smoothly and keep pour short: poor-tra-va-YAY."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Le message d'Amina",
+              "french": "Salut Théo ! Merci pour ton message, ça fait longtemps.\nMoi, je suis à Montpellier depuis septembre : je fais des études de médecine.\nJe suis en deuxième année et le rythme est vraiment intense.\nJ'ai des cours magistraux le matin et des travaux pratiques l'après-midi.\nLe soir, je révise à la bibliothèque avec deux camarades de ma promotion.\nJ'habite à la cité universitaire, à dix minutes du campus.\nHeureusement, j'ai obtenu une bourse, sinon ce serait impossible.\nJ'apprends aussi l'espagnol depuis un an, parce que je voudrais faire un stage à Séville.\nEt toi, tu étudies toujours l'informatique à Nantes ?\nÉcris-moi vite, tu me manques ! Amina",
+              "english": "Hi Théo! Thanks for your message, it's been a long time.\nI've been in Montpellier since September: I'm studying medicine.\nI'm in my second year and the pace is really intense.\nI have lectures in the morning and practical classes in the afternoon.\nIn the evening I revise in the library with two classmates from my year.\nI live in student halls, ten minutes from campus.\nLuckily I got a scholarship, otherwise it would be impossible.\nI've also been learning Spanish for a year, because I'd like to do an internship in Seville.\nAnd you, are you still studying computer science in Nantes?\nWrite back soon, I miss you! Amina",
+              "questions": [
+                {
+                  "id": "a2_u13_l02_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Qu'est-ce qu'Amina étudie ?",
+                  "options": [
+                    "La médecine.",
+                    "L'informatique.",
+                    "L'espagnol.",
+                    "Le droit."
+                  ],
+                  "answer": "La médecine."
+                },
+                {
+                  "id": "a2_u13_l02_rd02",
+                  "type": "multipleChoice",
+                  "prompt": "Depuis combien de temps apprend-elle l'espagnol ?",
+                  "options": [
+                    "Depuis un an.",
+                    "Depuis septembre.",
+                    "Depuis deux ans.",
+                    "Depuis dix minutes."
+                  ],
+                  "answer": "Depuis un an."
+                },
+                {
+                  "id": "a2_u13_l02_rd03",
+                  "type": "trueFalse",
+                  "prompt": "Amina habite très loin du campus.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a2_u13_l02_wr01",
+              "type": "translate",
+              "prompt": "Translate into French. Remember: depuis takes the present tense.",
+              "english": "I have been studying medicine for two years.",
+              "answer": "J'étudie la médecine depuis deux ans.",
+              "acceptedAnswers": [
+                "J'etudie la medecine depuis deux ans",
+                "j'étudie la médecine depuis deux ans",
+                "Je fais des études de médecine depuis deux ans."
+              ]
+            },
+            {
+              "id": "a2_u13_l02_wr02",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "She is an economics student in Paris.",
+              "answer": "Elle est étudiante en économie à Paris.",
+              "acceptedAnswers": [
+                "Elle est etudiante en economie a Paris",
+                "elle est étudiante en économie à paris",
+                "Elle est étudiante en économie à Paris"
+              ]
+            },
+            {
+              "id": "a2_u13_l02_wr03",
+              "type": "arrangeWords",
+              "words": ["fac", "depuis", "je", "la", "vais", "à", "septembre"],
+              "answer": "je vais à la fac depuis septembre",
+              "english": "I have been going to university since September."
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a2_u13_l02_pr01",
+              "type": "fillBlank",
+              "prompt": "J'habite à Lyon ___ trois ans. (still true today)",
+              "answer": "depuis"
+            },
+            {
+              "id": "a2_u13_l02_pr02",
+              "type": "fillBlank",
+              "prompt": "Je suis étudiant ___ histoire.",
+              "answer": "en"
+            },
+            {
+              "id": "a2_u13_l02_pr03",
+              "type": "multipleChoice",
+              "prompt": "Which sentence means \"I studied Chinese for six months (and stopped)\"?",
+              "options": [
+                "J'ai étudié le chinois pendant six mois.",
+                "J'étudie le chinois depuis six mois.",
+                "J'étudie le chinois pendant six mois.",
+                "J'ai étudié le chinois depuis six mois."
+              ],
+              "answer": "J'ai étudié le chinois pendant six mois."
+            },
+            {
+              "id": "a2_u13_l02_pr04",
+              "type": "match",
+              "prompt": "Match the study words with their English meanings.",
+              "pairs": [
+                { "french": "la licence", "english": "bachelor's degree" },
+                { "french": "la bourse", "english": "scholarship" },
+                { "french": "le stage", "english": "internship" },
+                { "french": "le mémoire", "english": "dissertation" }
+              ]
+            },
+            {
+              "id": "a2_u13_l02_pr05",
+              "type": "arrangeWords",
+              "words": ["étrangères", "deux", "j'apprends", "langues"],
+              "answer": "j'apprends deux langues étrangères",
+              "english": "I am learning two foreign languages."
+            },
+            {
+              "id": "a2_u13_l02_pr06",
+              "type": "translate",
+              "prompt": "Translate into French. Use « il y a » for \"ago\".",
+              "english": "I enrolled at the university three months ago.",
+              "answer": "Je me suis inscrit à l'université il y a trois mois.",
+              "acceptedAnswers": [
+                "Je me suis inscrite à l'université il y a trois mois.",
+                "je me suis inscrit a l'universite il y a trois mois",
+                "Je me suis inscrit a l'universite il y a trois mois"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a2_u13_l02_qz01",
+              "type": "multipleChoice",
+              "prompt": "Choose the correct sentence for \"I have been learning French for a year\".",
+              "options": [
+                "J'apprends le français depuis un an.",
+                "J'ai appris le français depuis un an.",
+                "J'apprends le français pendant un an.",
+                "J'apprends le français il y a un an."
+              ],
+              "answer": "J'apprends le français depuis un an."
+            },
+            {
+              "id": "a2_u13_l02_qz02",
+              "type": "fillBlank",
+              "prompt": "Elle est arrivée à Paris ___ y a deux mois. (two words: il ___)",
+              "answer": "il"
+            },
+            {
+              "id": "a2_u13_l02_qz03",
+              "type": "multipleChoice",
+              "prompt": "Which one is NOT a correct way to say what you study?",
+              "options": [
+                "Je suis étudiant en le droit.",
+                "J'étudie le droit.",
+                "Je fais des études de droit.",
+                "Je suis étudiant en droit."
+              ],
+              "answer": "Je suis étudiant en le droit."
+            },
+            {
+              "id": "a2_u13_l02_qz04",
+              "type": "trueFalse",
+              "prompt": "« Ça fait deux ans que j'étudie ici » means the same as « J'étudie ici depuis deux ans ».",
+              "options": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "a2_u13_l02_qz05",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "How long have you been studying at this university?",
+              "answer": "Depuis combien de temps est-ce que tu étudies dans cette université ?",
+              "acceptedAnswers": [
+                "Depuis combien de temps etudies-tu dans cette universite ?",
+                "Depuis combien de temps étudies-tu dans cette université ?",
+                "depuis combien de temps est-ce que tu etudies dans cette universite"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2_u13_l03",
+      "level": "A2",
+      "unit": 13,
+      "title": "Réussir un examen",
+      "description": "Talk about exams and revision, and give advice with devoir, il faut and tu devrais.",
+      "estimatedMinutes": 15,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Passer, réussir, rater : the classic trap",
+              "body": "Passer un examen does NOT mean to pass it — it means to sit it, to take it. To pass is réussir un examen or être reçu. To fail is rater or échouer à un examen. Get these three right and you will never confuse a French friend again.",
+              "examples": [
+                { "french": "Je passe mon examen d'anglais jeudi.", "english": "I'm sitting my English exam on Thursday.", "note": "passer = to take, not to pass" },
+                { "french": "J'ai réussi mon examen de maths !", "english": "I passed my maths exam!" },
+                { "french": "Il a raté son contrôle de chimie.", "english": "He failed his chemistry test.", "note": "rater is very common in speech" },
+                { "french": "Elle a échoué à l'oral, mais elle recommencera.", "english": "She failed the oral, but she'll try again.", "note": "échouer à + exam" },
+                { "french": "Mon frère a eu son bac avec mention.", "english": "My brother got his baccalauréat with distinction.", "note": "avoir son bac = to pass the bac" },
+                { "french": "Les résultats sortent la semaine prochaine.", "english": "The results come out next week." }
+              ],
+              "tip": "In everyday French, avoir un examen often replaces réussir: j'ai eu mon permis = I passed my driving test."
+            },
+            {
+              "heading": "Réviser : how people prepare",
+              "body": "Réviser is to revise, to study for a test. French students font des fiches (make revision cards), apprennent par cœur (learn by heart), and relisent leurs notes (reread their notes). Bachoter is the familiar word for cramming the night before.",
+              "examples": [
+                { "french": "Je révise mes cours d'histoire ce soir.", "english": "I'm revising my history lessons this evening." },
+                { "french": "Elle fait des fiches pour chaque chapitre.", "english": "She makes revision cards for each chapter." },
+                { "french": "J'apprends les dates par cœur.", "english": "I learn the dates by heart." },
+                { "french": "Je surligne les mots importants en jaune.", "english": "I highlight the important words in yellow." },
+                { "french": "On révise ensemble à la bibliothèque ?", "english": "Shall we revise together at the library?" },
+                { "french": "Il a travaillé toute la nuit avant l'épreuve.", "english": "He worked all night before the test." }
+              ],
+              "tip": "Un résumé d'une page par chapitre is the classic French revision method — short, handwritten, reread often."
+            },
+            {
+              "heading": "Le jour J : exam day",
+              "body": "On the day, le surveillant (invigilator) hands out le sujet (the exam paper). You write on une copie (an answer sheet), often after a plan on un brouillon (rough paper). Before handing in, relis ta copie — reread your work. And if you are nervous: respire, ça va bien se passer.",
+              "examples": [
+                { "french": "Le surveillant distribue les sujets.", "english": "The invigilator hands out the exam papers." },
+                { "french": "Écrivez votre nom en haut de la copie.", "english": "Write your name at the top of the answer sheet." },
+                { "french": "Fais d'abord un plan au brouillon.", "english": "First make an outline on the rough paper." },
+                { "french": "Relis bien avant de rendre ta copie.", "english": "Reread carefully before handing in your paper." },
+                { "french": "Je suis très stressée avant les examens.", "english": "I get very stressed before exams." },
+                { "french": "Respire, ça va bien se passer !", "english": "Breathe, it's going to go well!" }
+              ],
+              "tip": "Bonne chance ! is fine, but French students also say Merde ! to each other before an exam — an affectionate good-luck charm."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "l-examen", "french": "l'examen", "english": "exam", "partOfSpeech": "noun", "gender": "m", "plural": "examens", "pronunciation": "leg-za-MAN", "example": "L'examen commence à neuf heures.", "exampleEnglish": "The exam starts at nine.", "level": "A2", "category": "exams" },
+            { "id": "passer-un-examen", "french": "passer un examen", "english": "to sit / take an exam", "partOfSpeech": "expression", "pronunciation": "pa-SAY un eg-za-MAN", "example": "Je passe un examen d'espagnol demain.", "exampleEnglish": "I'm taking a Spanish exam tomorrow.", "level": "A2", "category": "exams" },
+            { "id": "reussir", "french": "réussir", "english": "to pass, to succeed", "partOfSpeech": "verb", "pronunciation": "ray-oo-SEER", "example": "Elle a réussi tous ses examens.", "exampleEnglish": "She passed all her exams.", "level": "A2", "category": "exams" },
+            { "id": "rater", "french": "rater", "english": "to fail, to miss", "partOfSpeech": "verb", "pronunciation": "ra-TAY", "example": "J'ai raté mon contrôle de maths.", "exampleEnglish": "I failed my maths test.", "level": "A2", "category": "exams" },
+            { "id": "echouer", "french": "échouer", "english": "to fail", "partOfSpeech": "verb", "pronunciation": "ay-shoo-AY", "example": "Il a échoué à l'oral d'anglais.", "exampleEnglish": "He failed the English oral.", "level": "A2", "category": "exams" },
+            { "id": "le-controle", "french": "le contrôle", "english": "test, class assessment", "partOfSpeech": "noun", "gender": "m", "plural": "contrôles", "pronunciation": "luh kon-TROHL", "example": "On a un contrôle de géographie lundi.", "exampleEnglish": "We have a geography test on Monday.", "level": "A2", "category": "exams" },
+            { "id": "l-epreuve", "french": "l'épreuve", "english": "test paper, exam component", "partOfSpeech": "noun", "gender": "f", "plural": "épreuves", "pronunciation": "lay-PREUV", "example": "L'épreuve de français dure quatre heures.", "exampleEnglish": "The French paper lasts four hours.", "level": "A2", "category": "exams" },
+            { "id": "le-partiel", "french": "le partiel", "english": "mid-term exam", "partOfSpeech": "noun", "gender": "m", "plural": "partiels", "pronunciation": "luh par-SYEL", "example": "Mes partiels commencent en décembre.", "exampleEnglish": "My mid-terms start in December.", "level": "A2", "category": "exams" },
+            { "id": "le-baccalaureat", "french": "le baccalauréat (le bac)", "english": "French school-leaving exam", "partOfSpeech": "noun", "gender": "m", "plural": "baccalauréats", "pronunciation": "luh ba-ka-lo-ray-AH", "example": "Elle passe le bac cette année.", "exampleEnglish": "She is sitting the bac this year.", "level": "A2", "category": "exams" },
+            { "id": "l-oral", "french": "l'oral", "english": "oral exam", "partOfSpeech": "noun", "gender": "m", "plural": "oraux", "pronunciation": "lo-RAL", "example": "J'ai un oral de dix minutes.", "exampleEnglish": "I have a ten-minute oral exam.", "level": "A2", "category": "exams" },
+            { "id": "l-ecrit", "french": "l'écrit", "english": "written exam", "partOfSpeech": "noun", "gender": "m", "plural": "écrits", "pronunciation": "lay-KREE", "example": "L'écrit est plus facile que l'oral.", "exampleEnglish": "The written exam is easier than the oral.", "level": "A2", "category": "exams" },
+            { "id": "la-salle-d-examen", "french": "la salle d'examen", "english": "exam room", "partOfSpeech": "noun", "gender": "f", "plural": "salles d'examen", "pronunciation": "lah sal deg-za-MAN", "example": "Les téléphones sont interdits dans la salle d'examen.", "exampleEnglish": "Phones are banned in the exam room.", "level": "A2", "category": "exams" },
+            { "id": "le-surveillant", "french": "le surveillant", "english": "invigilator, supervisor", "partOfSpeech": "noun", "gender": "m", "plural": "surveillants", "pronunciation": "luh soor-vay-YAHN", "example": "Le surveillant ramasse les copies.", "exampleEnglish": "The invigilator collects the papers.", "level": "A2", "category": "exams" },
+            { "id": "le-sujet", "french": "le sujet", "english": "exam paper, topic", "partOfSpeech": "noun", "gender": "m", "plural": "sujets", "pronunciation": "luh soo-ZHAY", "example": "Le sujet était vraiment difficile.", "exampleEnglish": "The exam paper was really hard.", "level": "A2", "category": "exams" },
+            { "id": "la-copie", "french": "la copie", "english": "answer sheet, exam script", "partOfSpeech": "noun", "gender": "f", "plural": "copies", "pronunciation": "lah ko-PEE", "example": "Rendez vos copies dans cinq minutes.", "exampleEnglish": "Hand in your papers in five minutes.", "level": "A2", "category": "exams" },
+            { "id": "le-brouillon", "french": "le brouillon", "english": "rough draft, scrap paper", "partOfSpeech": "noun", "gender": "m", "plural": "brouillons", "pronunciation": "luh broo-YON", "example": "J'écris mon plan au brouillon.", "exampleEnglish": "I write my outline on the rough paper.", "level": "A2", "category": "exams" },
+            { "id": "tricher", "french": "tricher", "english": "to cheat", "partOfSpeech": "verb", "pronunciation": "tree-SHAY", "example": "Il ne faut jamais tricher à un examen.", "exampleEnglish": "You must never cheat in an exam.", "level": "A2", "category": "exams" },
+            { "id": "corriger", "french": "corriger", "english": "to correct, to mark", "partOfSpeech": "verb", "pronunciation": "ko-ree-ZHAY", "example": "Le professeur corrige les copies ce week-end.", "exampleEnglish": "The teacher is marking the papers this weekend.", "level": "A2", "category": "exams" },
+            { "id": "la-correction", "french": "la correction", "english": "correction, marking", "partOfSpeech": "noun", "gender": "f", "plural": "corrections", "pronunciation": "lah ko-rek-SYON", "example": "On fait la correction de l'exercice ensemble.", "exampleEnglish": "We go over the answers to the exercise together.", "level": "A2", "category": "exams" },
+            { "id": "la-note-scolaire", "french": "la note", "english": "grade, mark", "partOfSpeech": "noun", "gender": "f", "plural": "notes", "pronunciation": "lah NOT", "example": "J'ai eu une bonne note en histoire.", "exampleEnglish": "I got a good grade in history.", "level": "A2", "category": "exams" },
+            { "id": "la-moyenne", "french": "la moyenne", "english": "average, pass mark", "partOfSpeech": "noun", "gender": "f", "plural": "moyennes", "pronunciation": "lah mwa-YEN", "example": "Il faut dix sur vingt pour avoir la moyenne.", "exampleEnglish": "You need ten out of twenty to pass.", "level": "A2", "category": "exams" },
+            { "id": "le-resultat", "french": "le résultat", "english": "result", "partOfSpeech": "noun", "gender": "m", "plural": "résultats", "pronunciation": "luh ray-zool-TAH", "example": "Les résultats sont affichés en ligne.", "exampleEnglish": "The results are posted online.", "level": "A2", "category": "exams" },
+            { "id": "reviser", "french": "réviser", "english": "to revise, to study for", "partOfSpeech": "verb", "pronunciation": "ray-vee-ZAY", "example": "Je révise deux heures chaque soir.", "exampleEnglish": "I revise for two hours every evening.", "level": "A2", "category": "exams" },
+            { "id": "la-revision", "french": "la révision", "english": "revision", "partOfSpeech": "noun", "gender": "f", "plural": "révisions", "pronunciation": "lah ray-vee-ZYON", "example": "Mes révisions commencent la semaine prochaine.", "exampleEnglish": "My revision starts next week.", "level": "A2", "category": "exams" },
+            { "id": "la-fiche-de-revision", "french": "la fiche de révision", "english": "revision card, study sheet", "partOfSpeech": "noun", "gender": "f", "plural": "fiches de révision", "pronunciation": "lah feesh duh ray-vee-ZYON", "example": "Je relis mes fiches de révision dans le bus.", "exampleEnglish": "I reread my revision cards on the bus.", "level": "A2", "category": "exams" },
+            { "id": "apprendre-par-coeur", "french": "apprendre par cœur", "english": "to learn by heart", "partOfSpeech": "expression", "pronunciation": "a-PRAHN-druh par KEUR", "example": "J'apprends le vocabulaire par cœur.", "exampleEnglish": "I learn the vocabulary by heart.", "level": "A2", "category": "exams" },
+            { "id": "le-resume", "french": "le résumé", "english": "summary", "partOfSpeech": "noun", "gender": "m", "plural": "résumés", "pronunciation": "luh ray-zoo-MAY", "example": "Fais un résumé d'une page par chapitre.", "exampleEnglish": "Write a one-page summary for each chapter.", "level": "A2", "category": "exams" },
+            { "id": "surligner", "french": "surligner", "english": "to highlight", "partOfSpeech": "verb", "pronunciation": "soor-lee-NYAY", "example": "Je surligne les mots clés en jaune.", "exampleEnglish": "I highlight the key words in yellow.", "level": "A2", "category": "exams" },
+            { "id": "se-concentrer", "french": "se concentrer", "english": "to concentrate", "partOfSpeech": "verb", "pronunciation": "suh kon-sahn-TRAY", "example": "Je n'arrive pas à me concentrer avec la musique.", "exampleEnglish": "I can't concentrate with music on.", "level": "A2", "category": "exams" },
+            { "id": "le-stress", "french": "le stress", "english": "stress", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh STRESS", "example": "Le stress m'empêche de dormir.", "exampleEnglish": "Stress stops me from sleeping.", "level": "A2", "category": "exams" },
+            { "id": "stresse", "french": "stressé", "english": "stressed", "partOfSpeech": "adjective", "pronunciation": "stre-SAY", "example": "Je suis stressée avant chaque oral.", "exampleEnglish": "I'm stressed before every oral exam.", "level": "A2", "category": "exams" },
+            { "id": "se-detendre", "french": "se détendre", "english": "to relax", "partOfSpeech": "verb", "pronunciation": "suh day-TAHN-druh", "example": "Détends-toi, tu connais ton cours.", "exampleEnglish": "Relax, you know your material.", "level": "A2", "category": "exams" },
+            { "id": "le-conseil", "french": "le conseil", "english": "piece of advice", "partOfSpeech": "noun", "gender": "m", "plural": "conseils", "pronunciation": "luh kon-SAY", "example": "Merci pour tes conseils, ils m'ont aidé.", "exampleEnglish": "Thanks for your advice, it helped me.", "level": "A2", "category": "exams" },
+            { "id": "devoir", "french": "devoir", "english": "to have to, must", "partOfSpeech": "verb", "pronunciation": "duh-VWAHR", "example": "Tu dois réviser tous les chapitres.", "exampleEnglish": "You have to revise all the chapters.", "level": "A2", "category": "grammar" },
+            { "id": "falloir", "french": "falloir (il faut)", "english": "to be necessary (one must)", "partOfSpeech": "verb", "pronunciation": "fa-LWAHR", "example": "Il faut dormir avant un examen.", "exampleEnglish": "You need to sleep before an exam.", "level": "A2", "category": "grammar" },
+            { "id": "la-confiance", "french": "la confiance", "english": "confidence, trust", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah kon-FYAHNS", "example": "Aie confiance en toi !", "exampleEnglish": "Have confidence in yourself!", "level": "A2", "category": "exams" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Devoir + infinitive: what you have to do",
+              "body": "Devoir means must / to have to and is always followed by an infinitive. Learn the present: je dois, tu dois, il/elle doit, nous devons, vous devez, ils/elles doivent. In the passé composé (j'ai dû) it means \"I had to\". In the negative, tu ne dois pas is a strong prohibition — you must not.",
+              "examples": [
+                { "french": "Je dois réviser trois chapitres ce soir.", "english": "I have to revise three chapters tonight." },
+                { "french": "Tu dois arriver une demi-heure avant l'épreuve.", "english": "You have to arrive half an hour before the exam." },
+                { "french": "Nous devons rendre nos copies à midi.", "english": "We must hand in our papers at noon." },
+                { "french": "Ils doivent apprendre toutes les dates.", "english": "They have to learn all the dates." },
+                { "french": "J'ai dû recommencer mon résumé.", "english": "I had to start my summary again.", "note": "passé composé of devoir" },
+                { "french": "Tu ne dois pas tricher.", "english": "You must not cheat.", "note": "strong prohibition" }
+              ],
+              "tip": "Devoir with a noun instead of a verb means to owe: je te dois dix euros."
+            },
+            {
+              "heading": "Il faut + infinitive, and gentle advice with tu devrais",
+              "body": "Il faut is impersonal: it exists only with il and means \"one must / you need to\". Follow it with an infinitive: il faut dormir. The negative il ne faut pas means \"you mustn't\". For softer, friendlier advice, use tu devrais + infinitive (you should) — it is the conditional of devoir and sounds much kinder than tu dois.",
+              "examples": [
+                { "french": "Il faut réviser un peu chaque jour.", "english": "You need to revise a little every day." },
+                { "french": "Il ne faut pas travailler toute la nuit.", "english": "You mustn't work all night." },
+                { "french": "Tu devrais faire des fiches.", "english": "You should make revision cards.", "note": "friendly advice" },
+                { "french": "Vous devriez relire votre copie.", "english": "You should reread your paper." },
+                { "french": "Il faut du calme pour se concentrer.", "english": "You need quiet in order to concentrate.", "note": "il faut + noun" },
+                { "french": "À ta place, je commencerais par les maths.", "english": "If I were you, I would start with maths." }
+              ],
+              "tip": "Order of strength: tu devrais (suggestion) < tu dois (obligation) < il ne faut pas (prohibition). Choose according to how bossy you want to sound."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a2_u13_l03_li01",
+              "type": "listenChoose",
+              "french": "Je dois réviser trois chapitres ce soir.",
+              "prompt": "Listen and choose what you hear.",
+              "options": [
+                "Je dois réviser trois chapitres ce soir.",
+                "Je dois réviser trois chapitres ce matin.",
+                "Je vais réviser trois chapitres ce soir.",
+                "Je dois relire trois chapitres ce soir."
+              ],
+              "answer": "Je dois réviser trois chapitres ce soir."
+            },
+            {
+              "id": "a2_u13_l03_li02",
+              "type": "listenChoose",
+              "french": "Il ne faut pas travailler toute la nuit.",
+              "prompt": "Listen: what is the advice?",
+              "options": [
+                "Il ne faut pas travailler toute la nuit.",
+                "Il faut travailler toute la nuit.",
+                "Il ne faut pas dormir toute la nuit.",
+                "Il faut réviser toute la nuit."
+              ],
+              "answer": "Il ne faut pas travailler toute la nuit."
+            },
+            {
+              "id": "a2_u13_l03_li03",
+              "type": "listenType",
+              "french": "J'ai réussi mon examen de maths.",
+              "prompt": "Listen and type the sentence.",
+              "answer": "J'ai réussi mon examen de maths.",
+              "acceptedAnswers": [
+                "J'ai reussi mon examen de maths",
+                "j'ai reussi mon examen de maths",
+                "J'ai réussi mon examen de maths"
+              ]
+            },
+            {
+              "id": "a2_u13_l03_li04",
+              "type": "dictation",
+              "french": "Tu devrais relire ta copie avant de la rendre.",
+              "prompt": "Dictation: write the whole sentence.",
+              "answer": "Tu devrais relire ta copie avant de la rendre.",
+              "acceptedAnswers": [
+                "Tu devrais relire ta copie avant de la rendre",
+                "tu devrais relire ta copie avant de la rendre",
+                "Tu devrais relire ta copie avant de la rendre."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a2_u13_l03_sp01",
+              "type": "speak",
+              "french": "Je passe mon examen d'histoire jeudi matin.",
+              "english": "I'm sitting my history exam on Thursday morning.",
+              "prompt": "Tell a friend when your exam is.",
+              "tip": "Examen is eg-za-MAN — the x sounds like \"gz\" and the final n is nasal, never fully pronounced."
+            },
+            {
+              "id": "a2_u13_l03_sp02",
+              "type": "speak",
+              "french": "Tu devrais faire des fiches et réviser un peu chaque jour.",
+              "english": "You should make revision cards and revise a little every day.",
+              "prompt": "Give a stressed friend some kind advice.",
+              "tip": "Devrais ends in a soft \"-ray\"; keep it light so the advice sounds friendly, not bossy."
+            },
+            {
+              "id": "a2_u13_l03_sp03",
+              "type": "speak",
+              "french": "Ne t'inquiète pas, respire, ça va bien se passer.",
+              "english": "Don't worry, breathe, it's going to go well.",
+              "prompt": "Reassure someone before an exam.",
+              "tip": "Slow the whole line down — a calm, low voice is what carries the reassurance."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Les conseils de Madame Rivière",
+              "french": "La semaine prochaine, vous passez votre premier contrôle de sciences.\nVoici quelques conseils simples pour bien le préparer.\nD'abord, il faut réviser un peu chaque jour : trente minutes suffisent.\nVous devez faire une fiche par chapitre et surligner les mots importants.\nIl ne faut pas apprendre tout par cœur la veille au soir.\nLa nuit avant l'épreuve, vous devriez dormir au moins huit heures.\nLe jour du contrôle, arrivez dix minutes en avance et respirez calmement.\nLisez le sujet deux fois avant d'écrire quoi que ce soit.\nEnfin, relisez votre copie : une petite faute coûte souvent un point.\nAvec un peu d'organisation, vous allez tous réussir.",
+              "english": "Next week you are taking your first science test.\nHere are a few simple tips to prepare for it well.\nFirst, you need to revise a little every day: thirty minutes is enough.\nYou must make one revision card per chapter and highlight the important words.\nYou mustn't learn everything by heart the night before.\nThe night before the test, you should sleep at least eight hours.\nOn the day of the test, arrive ten minutes early and breathe calmly.\nRead the exam paper twice before writing anything.\nFinally, reread your paper: one small mistake often costs a mark.\nWith a bit of organisation, you are all going to pass.",
+              "questions": [
+                {
+                  "id": "a2_u13_l03_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Combien de temps faut-il réviser chaque jour, selon Madame Rivière ?",
+                  "options": [
+                    "Trente minutes.",
+                    "Deux heures.",
+                    "Toute la soirée.",
+                    "Dix minutes."
+                  ],
+                  "answer": "Trente minutes."
+                },
+                {
+                  "id": "a2_u13_l03_rd02",
+                  "type": "multipleChoice",
+                  "prompt": "Que faut-il faire juste avant de rendre la copie ?",
+                  "options": [
+                    "La relire.",
+                    "La recopier au propre.",
+                    "Compter les mots.",
+                    "Demander au surveillant."
+                  ],
+                  "answer": "La relire."
+                },
+                {
+                  "id": "a2_u13_l03_rd03",
+                  "type": "trueFalse",
+                  "prompt": "Madame Rivière conseille d'apprendre tout par cœur la veille au soir.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a2_u13_l03_wr01",
+              "type": "translate",
+              "prompt": "Translate into French. Use devoir.",
+              "english": "I have to revise before the exam.",
+              "answer": "Je dois réviser avant l'examen.",
+              "acceptedAnswers": [
+                "Je dois reviser avant l'examen",
+                "je dois réviser avant l'examen",
+                "Je dois réviser avant l'examen"
+              ]
+            },
+            {
+              "id": "a2_u13_l03_wr02",
+              "type": "translate",
+              "prompt": "Translate into French. Use il faut.",
+              "english": "You need to sleep well before an oral exam.",
+              "answer": "Il faut bien dormir avant un oral.",
+              "acceptedAnswers": [
+                "Il faut bien dormir avant un oral",
+                "il faut bien dormir avant un oral",
+                "Il faut bien dormir avant un examen oral."
+              ]
+            },
+            {
+              "id": "a2_u13_l03_wr03",
+              "type": "arrangeWords",
+              "words": ["fiches", "des", "devrais", "tu", "faire"],
+              "answer": "tu devrais faire des fiches",
+              "english": "You should make revision cards."
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a2_u13_l03_pr01",
+              "type": "fillBlank",
+              "prompt": "Nous ___ rendre nos copies à midi. (devoir, nous)",
+              "answer": "devons"
+            },
+            {
+              "id": "a2_u13_l03_pr02",
+              "type": "fillBlank",
+              "prompt": "Il ___ réviser un peu chaque jour. (falloir)",
+              "answer": "faut"
+            },
+            {
+              "id": "a2_u13_l03_pr03",
+              "type": "multipleChoice",
+              "prompt": "Which sentence means \"I'm taking my exam on Friday\"?",
+              "options": [
+                "Je passe mon examen vendredi.",
+                "Je réussis mon examen vendredi.",
+                "Je rate mon examen vendredi.",
+                "Je corrige mon examen vendredi."
+              ],
+              "answer": "Je passe mon examen vendredi."
+            },
+            {
+              "id": "a2_u13_l03_pr04",
+              "type": "match",
+              "prompt": "Match the exam words with their English meanings.",
+              "pairs": [
+                { "french": "la copie", "english": "answer sheet" },
+                { "french": "le brouillon", "english": "rough paper" },
+                { "french": "la note", "english": "grade" },
+                { "french": "le sujet", "english": "exam paper" }
+              ]
+            },
+            {
+              "id": "a2_u13_l03_pr05",
+              "type": "arrangeWords",
+              "words": ["pas", "tricher", "il", "faut", "ne"],
+              "answer": "il ne faut pas tricher",
+              "english": "You mustn't cheat."
+            },
+            {
+              "id": "a2_u13_l03_pr06",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "She passed all her exams.",
+              "answer": "Elle a réussi tous ses examens.",
+              "acceptedAnswers": [
+                "Elle a reussi tous ses examens",
+                "elle a réussi tous ses examens",
+                "Elle a réussi tous ses examens"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a2_u13_l03_qz01",
+              "type": "multipleChoice",
+              "prompt": "What does « passer un examen » mean?",
+              "options": [
+                "to sit an exam",
+                "to pass an exam",
+                "to fail an exam",
+                "to mark an exam"
+              ],
+              "answer": "to sit an exam"
+            },
+            {
+              "id": "a2_u13_l03_qz02",
+              "type": "fillBlank",
+              "prompt": "Tu ___ arriver dix minutes en avance. (devoir, tu)",
+              "answer": "dois"
+            },
+            {
+              "id": "a2_u13_l03_qz03",
+              "type": "multipleChoice",
+              "prompt": "Which sentence gives the gentlest advice?",
+              "options": [
+                "Tu devrais faire un résumé.",
+                "Tu dois faire un résumé.",
+                "Il faut faire un résumé.",
+                "Fais un résumé !"
+              ],
+              "answer": "Tu devrais faire un résumé."
+            },
+            {
+              "id": "a2_u13_l03_qz04",
+              "type": "trueFalse",
+              "prompt": "« Il faut » is always followed by an infinitive or a noun, and only exists with « il ».",
+              "options": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "a2_u13_l03_qz05",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "You mustn't work all night.",
+              "answer": "Il ne faut pas travailler toute la nuit.",
+              "acceptedAnswers": [
+                "Il ne faut pas travailler toute la nuit",
+                "il ne faut pas travailler toute la nuit",
+                "Tu ne dois pas travailler toute la nuit."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

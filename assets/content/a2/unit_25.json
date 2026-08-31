@@ -1,0 +1,1045 @@
+{
+  "id": "a2_u25",
+  "level": "A2",
+  "unit": 25,
+  "title": "Describing Places",
+  "subtitle": "Say what your town has, describe places you love, and compare them",
+  "icon": "🗺️",
+  "lessons": [
+    {
+      "id": "a2_u25_l01",
+      "level": "A2",
+      "unit": 25,
+      "title": "Ma ville",
+      "description": "Describe your town: say what there is, name the districts and amenities, and situate them.",
+      "estimatedMinutes": 16,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Il y a — the key phrase for describing a place",
+              "body": "To say what a place has, French uses one fixed phrase: il y a (there is / there are). It never changes for singular or plural. Add dans ma ville, dans mon quartier or ici to say where.",
+              "examples": [
+                { "french": "Dans ma ville, il y a un musée.", "english": "In my town, there is a museum." },
+                { "french": "Il y a deux piscines et un stade.", "english": "There are two swimming pools and a stadium.", "note": "Same phrase for plural." },
+                { "french": "Dans mon quartier, il y a une boulangerie.", "english": "In my neighbourhood, there is a bakery." },
+                { "french": "Est-ce qu'il y a une gare ici ?", "english": "Is there a train station here?" },
+                { "french": "Il y a beaucoup de cafés dans le centre-ville.", "english": "There are lots of cafés in the town centre." }
+              ],
+              "tip": "Il y a is three tiny words said as one: \"ee-lee-AH\"."
+            },
+            {
+              "heading": "Saying what a place does NOT have",
+              "body": "In the negative, il y a becomes il n'y a pas. The little words un, une and des then turn into de (or d' before a vowel). This is a rule you will use constantly.",
+              "examples": [
+                { "french": "Il n'y a pas de métro dans mon village.", "english": "There is no underground in my village." },
+                { "french": "Il n'y a pas de cinéma ici.", "english": "There is no cinema here." },
+                { "french": "Il n'y a pas d'université dans la ville.", "english": "There is no university in the town." },
+                { "french": "Il n'y a plus de marché le dimanche.", "english": "There is no longer a market on Sundays." },
+                { "french": "Il y a une pharmacie, mais il n'y a pas d'hôpital.", "english": "There is a pharmacy, but there is no hospital." }
+              ]
+            },
+            {
+              "heading": "Situating a place in town",
+              "body": "Use short prepositions to place things on the map: dans (in), près de (near), loin de (far from), à côté de (next to), en face de (opposite), au bord de (on the edge of / beside). Remember de + le = du and de + les = des.",
+              "examples": [
+                { "french": "La mairie est en face de l'église.", "english": "The town hall is opposite the church." },
+                { "french": "Mon quartier est loin du centre-ville.", "english": "My neighbourhood is far from the town centre." },
+                { "french": "Le parc se trouve à côté de la bibliothèque.", "english": "The park is next to the library." },
+                { "french": "Nous habitons au bord de la rivière.", "english": "We live beside the river." },
+                { "french": "Il y a un arrêt de bus près de la poste.", "english": "There is a bus stop near the post office." },
+                { "french": "La gare se trouve au nord de la ville.", "english": "The train station is in the north of the town." }
+              ],
+              "tip": "Se trouver (to be located) sounds more natural than être in written descriptions."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "la-ville", "french": "la ville", "english": "the town / the city", "partOfSpeech": "noun", "gender": "f", "plural": "les villes", "pronunciation": "lah VEEL", "example": "Ma ville est petite mais très agréable.", "exampleEnglish": "My town is small but very pleasant.", "level": "A2", "category": "city" },
+            { "id": "le-village", "french": "le village", "english": "the village", "partOfSpeech": "noun", "gender": "m", "plural": "les villages", "pronunciation": "luh vee-LAHZH", "example": "Mes grands-parents habitent dans un village.", "exampleEnglish": "My grandparents live in a village.", "level": "A2", "category": "city" },
+            { "id": "le-quartier", "french": "le quartier", "english": "the neighbourhood / the district", "partOfSpeech": "noun", "gender": "m", "plural": "les quartiers", "pronunciation": "luh kar-tee-AY", "example": "J'aime bien mon quartier, il est calme.", "exampleEnglish": "I really like my neighbourhood, it is quiet.", "level": "A2", "category": "city" },
+            { "id": "le-centre-ville", "french": "le centre-ville", "english": "the town centre / downtown", "partOfSpeech": "noun", "gender": "m", "plural": "les centres-villes", "pronunciation": "luh sahntr-VEEL", "example": "Le centre-ville est fermé aux voitures le samedi.", "exampleEnglish": "The town centre is closed to cars on Saturdays.", "level": "A2", "category": "city" },
+            { "id": "la-banlieue", "french": "la banlieue", "english": "the suburbs", "partOfSpeech": "noun", "gender": "f", "plural": "les banlieues", "pronunciation": "lah bahn-lee-UH", "example": "Nous habitons en banlieue, à vingt minutes du centre.", "exampleEnglish": "We live in the suburbs, twenty minutes from the centre.", "level": "A2", "category": "city" },
+            { "id": "rue", "french": "la rue", "english": "the street", "partOfSpeech": "noun", "gender": "f", "plural": "les rues", "pronunciation": "lah RÜ", "example": "Ma rue est étroite et très calme.", "exampleEnglish": "My street is narrow and very quiet.", "level": "A2", "category": "city" },
+            { "id": "l-avenue", "french": "l'avenue", "english": "the avenue", "partOfSpeech": "noun", "gender": "f", "plural": "les avenues", "pronunciation": "lah-vuh-NÜ", "example": "L'avenue est bordée d'arbres.", "exampleEnglish": "The avenue is lined with trees.", "level": "A2", "category": "city" },
+            { "id": "le-boulevard", "french": "le boulevard", "english": "the boulevard", "partOfSpeech": "noun", "gender": "m", "plural": "les boulevards", "pronunciation": "luh bool-VAR", "example": "Le grand boulevard traverse toute la ville.", "exampleEnglish": "The big boulevard crosses the whole town.", "level": "A2", "category": "city" },
+            { "id": "la-place-square", "french": "la place", "english": "the square (in a town)", "partOfSpeech": "noun", "gender": "f", "plural": "les places", "pronunciation": "lah PLAHSS", "example": "Il y a un marché sur la place le mercredi.", "exampleEnglish": "There is a market on the square on Wednesdays.", "level": "A2", "category": "city" },
+            { "id": "le-pont", "french": "le pont", "english": "the bridge", "partOfSpeech": "noun", "gender": "m", "plural": "les ponts", "pronunciation": "luh POHN", "example": "Le vieux pont date du XVIIe siècle.", "exampleEnglish": "The old bridge dates from the 17th century.", "level": "A2", "category": "city" },
+            { "id": "riviere", "french": "la rivière", "english": "the river", "partOfSpeech": "noun", "gender": "f", "plural": "les rivières", "pronunciation": "lah ree-vee-AIR", "example": "On peut se promener au bord de la rivière.", "exampleEnglish": "You can go for a walk beside the river.", "level": "A2", "category": "city" },
+            { "id": "le-parc", "french": "le parc", "english": "the park", "partOfSpeech": "noun", "gender": "m", "plural": "les parcs", "pronunciation": "luh PARK", "example": "Le parc est juste derrière chez moi.", "exampleEnglish": "The park is just behind my house.", "level": "A2", "category": "city" },
+            { "id": "le-jardin-public", "french": "le jardin public", "english": "the public garden", "partOfSpeech": "noun", "gender": "m", "plural": "les jardins publics", "pronunciation": "luh zhar-DAHN pü-BLEEK", "example": "Les enfants jouent dans le jardin public.", "exampleEnglish": "The children play in the public garden.", "level": "A2", "category": "city" },
+            { "id": "mairie", "french": "la mairie", "english": "the town hall", "partOfSpeech": "noun", "gender": "f", "plural": "les mairies", "pronunciation": "lah meh-REE", "example": "La mairie est ouverte jusqu'à dix-sept heures.", "exampleEnglish": "The town hall is open until five p.m.", "level": "A2", "category": "city" },
+            { "id": "l-eglise", "french": "l'église", "english": "the church", "partOfSpeech": "noun", "gender": "f", "plural": "les églises", "pronunciation": "lay-GLEEZ", "example": "L'église se trouve au centre du village.", "exampleEnglish": "The church is in the centre of the village.", "level": "A2", "category": "city" },
+            { "id": "le-musee", "french": "le musée", "english": "the museum", "partOfSpeech": "noun", "gender": "m", "plural": "les musées", "pronunciation": "luh mü-ZAY", "example": "Le musée est gratuit le premier dimanche du mois.", "exampleEnglish": "The museum is free on the first Sunday of the month.", "level": "A2", "category": "city" },
+            { "id": "la-bibliotheque", "french": "la bibliothèque", "english": "the library", "partOfSpeech": "noun", "gender": "f", "plural": "les bibliothèques", "pronunciation": "lah bee-blee-oh-TEK", "example": "Je travaille souvent à la bibliothèque.", "exampleEnglish": "I often work at the library.", "level": "A2", "category": "city" },
+            { "id": "la-piscine", "french": "la piscine", "english": "the swimming pool", "partOfSpeech": "noun", "gender": "f", "plural": "les piscines", "pronunciation": "lah pee-SEEN", "example": "Il y a une piscine à côté du stade.", "exampleEnglish": "There is a swimming pool next to the stadium.", "level": "A2", "category": "city" },
+            { "id": "le-stade", "french": "le stade", "english": "the stadium", "partOfSpeech": "noun", "gender": "m", "plural": "les stades", "pronunciation": "luh STAHD", "example": "Le stade est plein tous les samedis.", "exampleEnglish": "The stadium is full every Saturday.", "level": "A2", "category": "city" },
+            { "id": "marche", "french": "le marché", "english": "the market", "partOfSpeech": "noun", "gender": "m", "plural": "les marchés", "pronunciation": "luh mar-SHAY", "example": "Je fais mes courses au marché le samedi matin.", "exampleEnglish": "I do my shopping at the market on Saturday morning.", "level": "A2", "category": "city" },
+            { "id": "la-gare", "french": "la gare", "english": "the train station", "partOfSpeech": "noun", "gender": "f", "plural": "les gares", "pronunciation": "lah GAR", "example": "La gare se trouve à dix minutes à pied.", "exampleEnglish": "The train station is ten minutes away on foot.", "level": "A2", "category": "city" },
+            { "id": "l-arret-de-bus", "french": "l'arrêt de bus", "english": "the bus stop", "partOfSpeech": "noun", "gender": "m", "plural": "les arrêts de bus", "pronunciation": "lah-REH duh BÜSS", "example": "Il y a un arrêt de bus devant l'immeuble.", "exampleEnglish": "There is a bus stop in front of the building.", "level": "A2", "category": "city" },
+            { "id": "la-station-de-metro", "french": "la station de métro", "english": "the metro station", "partOfSpeech": "noun", "gender": "f", "plural": "les stations de métro", "pronunciation": "lah stah-syon duh may-TROH", "example": "La station de métro la plus proche est place Gambetta.", "exampleEnglish": "The nearest metro station is at Place Gambetta.", "level": "A2", "category": "city" },
+            { "id": "l-hopital", "french": "l'hôpital", "english": "the hospital", "partOfSpeech": "noun", "gender": "m", "plural": "les hôpitaux", "pronunciation": "loh-pee-TAL", "example": "L'hôpital est au sud de la ville.", "exampleEnglish": "The hospital is in the south of the town.", "level": "A2", "category": "city" },
+            { "id": "l-ecole", "french": "l'école", "english": "the school", "partOfSpeech": "noun", "gender": "f", "plural": "les écoles", "pronunciation": "lay-KOL", "example": "Il y a deux écoles dans mon quartier.", "exampleEnglish": "There are two schools in my neighbourhood.", "level": "A2", "category": "city" },
+            { "id": "le-cinema", "french": "le cinéma", "english": "the cinema", "partOfSpeech": "noun", "gender": "m", "plural": "les cinémas", "pronunciation": "luh see-nay-MAH", "example": "Le cinéma passe des films en version originale.", "exampleEnglish": "The cinema shows films in the original version.", "level": "A2", "category": "city" },
+            { "id": "le-theatre", "french": "le théâtre", "english": "the theatre", "partOfSpeech": "noun", "gender": "m", "plural": "les théâtres", "pronunciation": "luh tay-AHTR", "example": "Le théâtre est un beau bâtiment ancien.", "exampleEnglish": "The theatre is a beautiful old building.", "level": "A2", "category": "city" },
+            { "id": "la-pharmacie", "french": "la pharmacie", "english": "the pharmacy", "partOfSpeech": "noun", "gender": "f", "plural": "les pharmacies", "pronunciation": "lah far-mah-SEE", "example": "La pharmacie est ouverte le dimanche matin.", "exampleEnglish": "The pharmacy is open on Sunday morning.", "level": "A2", "category": "city" },
+            { "id": "la-boulangerie", "french": "la boulangerie", "english": "the bakery", "partOfSpeech": "noun", "gender": "f", "plural": "les boulangeries", "pronunciation": "lah boo-lahn-zhuh-REE", "example": "Il y a une excellente boulangerie au coin de la rue.", "exampleEnglish": "There is an excellent bakery on the street corner.", "level": "A2", "category": "city" },
+            { "id": "le-centre-commercial", "french": "le centre commercial", "english": "the shopping centre / mall", "partOfSpeech": "noun", "gender": "m", "plural": "les centres commerciaux", "pronunciation": "luh sahntr ko-mair-SYAL", "example": "Le centre commercial est en dehors de la ville.", "exampleEnglish": "The shopping centre is outside the town.", "level": "A2", "category": "city" },
+            { "id": "poste", "french": "la poste", "english": "the post office", "partOfSpeech": "noun", "gender": "f", "plural": "les postes", "pronunciation": "lah POST", "example": "La poste ferme à midi le samedi.", "exampleEnglish": "The post office closes at midday on Saturdays.", "level": "A2", "category": "city" },
+            { "id": "banque", "french": "la banque", "english": "the bank", "partOfSpeech": "noun", "gender": "f", "plural": "les banques", "pronunciation": "lah BAHNK", "example": "Il y a une banque en face de la mairie.", "exampleEnglish": "There is a bank opposite the town hall.", "level": "A2", "category": "city" },
+            { "id": "anime-lieu", "french": "animé", "english": "lively, busy", "partOfSpeech": "adjective", "pronunciation": "ah-nee-MAY", "example": "Le quartier est très animé le soir.", "exampleEnglish": "The neighbourhood is very lively in the evening.", "level": "A2", "category": "city" },
+            { "id": "tranquille", "french": "tranquille", "english": "peaceful, quiet", "partOfSpeech": "adjective", "pronunciation": "trahn-KEEL", "example": "C'est une petite ville tranquille.", "exampleEnglish": "It is a quiet little town.", "level": "A2", "category": "city" },
+            { "id": "se-trouver", "french": "se trouver", "english": "to be located", "partOfSpeech": "verb", "pronunciation": "suh troo-VAY", "example": "Le musée se trouve derrière la cathédrale.", "exampleEnglish": "The museum is located behind the cathedral.", "level": "A2", "category": "city" },
+            { "id": "il-y-a-there-is", "french": "il y a", "english": "there is / there are", "partOfSpeech": "expression", "pronunciation": "ee-lee-AH", "example": "Dans ma ville, il y a un grand parc.", "exampleEnglish": "In my town, there is a big park.", "level": "A2", "category": "city" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "il y a → il n'y a pas de",
+              "body": "Positive: il y a + un / une / des + noun. Negative: il n'y a pas + de + noun, with no article at all. Use d' before a vowel or a silent h. Numbers survive the change: il n'y a pas deux cinémas is wrong, say il n'y a qu'un cinéma.",
+              "examples": [
+                { "french": "Il y a une piscine. → Il n'y a pas de piscine.", "english": "There is a pool. → There is no pool." },
+                { "french": "Il y a des commerces. → Il n'y a pas de commerces.", "english": "There are shops. → There are no shops." },
+                { "french": "Il y a un hôtel. → Il n'y a pas d'hôtel.", "english": "There is a hotel. → There is no hotel." },
+                { "french": "Il y a une école ? — Non, il n'y a pas d'école.", "english": "Is there a school? — No, there is no school." },
+                { "french": "Il n'y a pas de métro, mais il y a des bus.", "english": "There is no metro, but there are buses." }
+              ],
+              "tip": "The only exception is with être: c'est un musée → ce n'est pas un musée (the article stays)."
+            },
+            {
+              "heading": "de + le = du, à + le = au",
+              "body": "Prepositions ending in de or à squeeze together with le and les. de + le = du, de + les = des, à + le = au, à + les = aux. With la and l' nothing changes. This happens in every location phrase you say.",
+              "examples": [
+                { "french": "Je suis près du stade.", "english": "I am near the stadium.", "note": "près de + le stade" },
+                { "french": "Il habite loin des commerces.", "english": "He lives far from the shops." },
+                { "french": "On se retrouve au marché.", "english": "We are meeting at the market.", "note": "à + le marché" },
+                { "french": "Elle travaille à la mairie.", "english": "She works at the town hall.", "note": "la stays la" },
+                { "french": "Le café est à côté de l'église.", "english": "The café is next to the church." },
+                { "french": "Je vais aux jardins publics.", "english": "I am going to the public gardens." }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a2_u25_l01_li01",
+              "type": "listenChoose",
+              "french": "Dans mon quartier, il y a une boulangerie et une pharmacie.",
+              "prompt": "What does the speaker mention?",
+              "options": ["A bakery and a pharmacy", "A bakery and a bank", "A market and a pharmacy", "A school and a bakery"],
+              "answer": "A bakery and a pharmacy"
+            },
+            {
+              "id": "a2_u25_l01_li02",
+              "type": "listenChoose",
+              "french": "Il n'y a pas de cinéma dans mon village.",
+              "prompt": "What is true about the village?",
+              "options": ["It has no cinema", "It has two cinemas", "It has a new cinema", "The cinema is closed today"],
+              "answer": "It has no cinema"
+            },
+            {
+              "id": "a2_u25_l01_li03",
+              "type": "listenType",
+              "french": "La gare se trouve près du centre-ville.",
+              "prompt": "Type what you hear.",
+              "answer": "La gare se trouve près du centre-ville.",
+              "acceptedAnswers": ["La gare se trouve pres du centre-ville", "la gare se trouve près du centre-ville", "La gare se trouve près du centre-ville"]
+            },
+            {
+              "id": "a2_u25_l01_li04",
+              "type": "dictation",
+              "french": "Le musée est en face de la mairie.",
+              "prompt": "Write the sentence you hear.",
+              "answer": "Le musée est en face de la mairie.",
+              "acceptedAnswers": ["Le musee est en face de la mairie", "le musée est en face de la mairie", "Le musée est en face de la mairie"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a2_u25_l01_sp01",
+              "type": "speak",
+              "french": "Dans ma ville, il y a un grand parc et deux musées.",
+              "english": "In my town, there is a big park and two museums.",
+              "prompt": "Describe your town using il y a.",
+              "tip": "Say il y a as one smooth block: \"ee-lee-AH\", never three separate words."
+            },
+            {
+              "id": "a2_u25_l01_sp02",
+              "type": "speak",
+              "french": "Il n'y a pas de station de métro dans mon quartier.",
+              "english": "There is no metro station in my neighbourhood.",
+              "prompt": "Say what your area is missing.",
+              "tip": "In speech the ne often disappears: \"y a pas de métro\". Keep it in for now, but expect to hear it dropped."
+            },
+            {
+              "id": "a2_u25_l01_sp03",
+              "type": "speak",
+              "french": "La bibliothèque se trouve à côté de l'école, près de la place.",
+              "english": "The library is next to the school, near the square.",
+              "prompt": "Situate two places in your town.",
+              "tip": "Bibliothèque has four syllables: bee-blee-oh-TEK. Slow down on the bee-blee part."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Ma ville, Annecy",
+              "french": "J'habite à Annecy, une ville moyenne dans les Alpes.\nDans le centre-ville, il y a de vieilles rues, des ponts et un château.\nMon quartier se trouve au nord, à vingt minutes à pied de la gare.\nIl y a une boulangerie au coin de la rue et un marché le mardi.\nJuste à côté de chez moi, il y a un jardin public très tranquille.\nIl n'y a pas de métro ici, mais les bus passent toutes les dix minutes.\nLe soir, le centre est animé : les cafés et les restaurants sont pleins.\nLe week-end, je me promène au bord du lac avec mes amis.\nCe n'est pas une grande ville, mais on y trouve tout.",
+              "english": "I live in Annecy, a medium-sized town in the Alps.\nIn the town centre there are old streets, bridges and a castle.\nMy neighbourhood is in the north, twenty minutes on foot from the station.\nThere is a bakery on the street corner and a market on Tuesdays.\nRight next to my place there is a very quiet public garden.\nThere is no metro here, but the buses come every ten minutes.\nIn the evening the centre is lively: the cafés and restaurants are full.\nAt the weekend I walk beside the lake with my friends.\nIt is not a big city, but you find everything there.",
+              "questions": [
+                {
+                  "id": "a2_u25_l01_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Where is the writer's neighbourhood?",
+                  "options": ["In the north of the town", "In the south, near the lake", "In the town centre", "Outside the town"],
+                  "answer": "In the north of the town"
+                },
+                {
+                  "id": "a2_u25_l01_rd02",
+                  "type": "trueFalse",
+                  "prompt": "Il y a un métro à Annecy.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                },
+                {
+                  "id": "a2_u25_l01_rd03",
+                  "type": "multipleChoice",
+                  "prompt": "What is right next to the writer's home?",
+                  "options": ["A quiet public garden", "The train station", "The castle", "The market"],
+                  "answer": "A quiet public garden"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a2_u25_l01_wr01",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "In my neighbourhood, there is a park and a library.",
+              "answer": "Dans mon quartier, il y a un parc et une bibliothèque.",
+              "acceptedAnswers": ["Dans mon quartier il y a un parc et une bibliothèque", "Dans mon quartier, il y a un parc et une bibliotheque"]
+            },
+            {
+              "id": "a2_u25_l01_wr02",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "There is no cinema in my village.",
+              "answer": "Il n'y a pas de cinéma dans mon village.",
+              "acceptedAnswers": ["Il n'y a pas de cinema dans mon village", "Il n y a pas de cinéma dans mon village"]
+            },
+            {
+              "id": "a2_u25_l01_wr03",
+              "type": "arrangeWords",
+              "words": ["gare", "se", "La", "près", "trouve", "du", "centre-ville"],
+              "answer": "La gare se trouve près du centre-ville",
+              "english": "The train station is near the town centre."
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a2_u25_l01_pr01",
+              "type": "fillBlank",
+              "prompt": "Dans ma ville, ___ y a un grand marché.",
+              "answer": "il"
+            },
+            {
+              "id": "a2_u25_l01_pr02",
+              "type": "fillBlank",
+              "prompt": "Il n'y a pas ___ piscine dans le village.",
+              "answer": "de"
+            },
+            {
+              "id": "a2_u25_l01_pr03",
+              "type": "multipleChoice",
+              "prompt": "Le café est ___ du stade.",
+              "options": ["près", "près de", "prés", "proche à"],
+              "answer": "près"
+            },
+            {
+              "id": "a2_u25_l01_pr04",
+              "type": "match",
+              "prompt": "Match the places with their English meaning.",
+              "pairs": [
+                { "french": "la mairie", "english": "the town hall" },
+                { "french": "la gare", "english": "the train station" },
+                { "french": "la boulangerie", "english": "the bakery" },
+                { "french": "le quartier", "english": "the neighbourhood" }
+              ]
+            },
+            {
+              "id": "a2_u25_l01_pr05",
+              "type": "arrangeWords",
+              "words": ["il", "un", "y", "a", "musée", "centre-ville", "Dans", "le"],
+              "answer": "Dans le centre-ville il y a un musée",
+              "english": "In the town centre there is a museum."
+            },
+            {
+              "id": "a2_u25_l01_pr06",
+              "type": "multipleChoice",
+              "prompt": "Which sentence is correct?",
+              "options": ["Je vais au marché.", "Je vais à le marché.", "Je vais au la marché.", "Je vais de le marché."],
+              "answer": "Je vais au marché."
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a2_u25_l01_qz01",
+              "type": "multipleChoice",
+              "prompt": "How do you say \"there are two parks\"?",
+              "options": ["Il y a deux parcs.", "Ils y ont deux parcs.", "Il y sont deux parcs.", "Il a deux parcs."],
+              "answer": "Il y a deux parcs."
+            },
+            {
+              "id": "a2_u25_l01_qz02",
+              "type": "fillBlank",
+              "prompt": "Il n'y a pas ___ hôpital ici.",
+              "answer": "d'"
+            },
+            {
+              "id": "a2_u25_l01_qz03",
+              "type": "multipleChoice",
+              "prompt": "La mairie se trouve ___ de l'église.",
+              "options": ["en face", "en face à", "devant de", "au face"],
+              "answer": "en face"
+            },
+            {
+              "id": "a2_u25_l01_qz04",
+              "type": "trueFalse",
+              "prompt": "\"Le centre-ville est animé\" means the town centre is lively.",
+              "options": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "a2_u25_l01_qz05",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "My neighbourhood is far from the station.",
+              "answer": "Mon quartier est loin de la gare.",
+              "acceptedAnswers": ["Mon quartier est loin de la gare", "mon quartier se trouve loin de la gare"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2_u25_l02",
+      "level": "A2",
+      "unit": 25,
+      "title": "Un endroit que j'aime",
+      "description": "Talk about a favourite place: its atmosphere, why you like it, and how to link ideas with qui and que.",
+      "estimatedMinutes": 16,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Naming a favourite place",
+              "body": "Two very useful nouns: un endroit (a spot, a place you can point to) and un lieu (a place, slightly more formal or abstract). Start your description with c'est or j'aime beaucoup.",
+              "examples": [
+                { "french": "Mon endroit préféré, c'est la plage.", "english": "My favourite place is the beach." },
+                { "french": "C'est un petit café près de chez moi.", "english": "It is a small café near my house." },
+                { "french": "J'aime beaucoup ce coin de la forêt.", "english": "I really like this corner of the forest." },
+                { "french": "C'est un lieu très calme, surtout le matin.", "english": "It is a very quiet place, especially in the morning." },
+                { "french": "Je connais un endroit magnifique au bord du lac.", "english": "I know a magnificent place beside the lake." }
+              ],
+              "tip": "Endroit is the everyday word; lieu appears more on signs and in writing (lieu de naissance, lieu public)."
+            },
+            {
+              "heading": "Describing the atmosphere",
+              "body": "L'ambiance (the atmosphere) is the word French speakers reach for first. Pair it with adjectives, or describe what you can see, hear and smell: la vue, le bruit, le calme, l'odeur.",
+              "examples": [
+                { "french": "L'ambiance est chaleureuse et détendue.", "english": "The atmosphere is warm and relaxed." },
+                { "french": "Il y a une vue magnifique sur la mer.", "english": "There is a magnificent view of the sea." },
+                { "french": "On entend seulement le bruit des oiseaux.", "english": "You only hear the sound of the birds." },
+                { "french": "J'adore l'odeur du pain le matin.", "english": "I love the smell of bread in the morning." },
+                { "french": "C'est un endroit lumineux et reposant.", "english": "It is a bright and restful place." }
+              ]
+            },
+            {
+              "heading": "Saying why you like it",
+              "body": "Give reasons with parce que (because) and add what you do there with pour + infinitive. The verbs se détendre, se promener, profiter de and respirer are made for this.",
+              "examples": [
+                { "french": "J'aime cet endroit parce qu'il est très calme.", "english": "I like this place because it is very quiet." },
+                { "french": "J'y vais pour me détendre après le travail.", "english": "I go there to relax after work." },
+                { "french": "On peut se promener pendant des heures.", "english": "You can walk around for hours." },
+                { "french": "J'en profite pour respirer l'air frais.", "english": "I take the chance to breathe the fresh air." },
+                { "french": "Je préfère y aller le dimanche, il y a moins de monde.", "english": "I prefer to go there on Sundays, there are fewer people." }
+              ],
+              "tip": "Parce que becomes parce qu' before a vowel: parce qu'il, parce qu'elle, parce qu'on."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "l-endroit", "french": "l'endroit", "english": "the place / the spot", "partOfSpeech": "noun", "gender": "m", "plural": "les endroits", "pronunciation": "lahn-DRWAH", "example": "C'est mon endroit préféré de la ville.", "exampleEnglish": "It is my favourite place in the town.", "level": "A2", "category": "places" },
+            { "id": "le-lieu", "french": "le lieu", "english": "the place / the location", "partOfSpeech": "noun", "gender": "m", "plural": "les lieux", "pronunciation": "luh LYUH", "example": "C'est un lieu très connu des habitants.", "exampleEnglish": "It is a place well known to the locals.", "level": "A2", "category": "places" },
+            { "id": "l-ambiance", "french": "l'ambiance", "english": "the atmosphere / the vibe", "partOfSpeech": "noun", "gender": "f", "plural": "les ambiances", "pronunciation": "lahm-bee-AHNSS", "example": "J'adore l'ambiance de ce petit café.", "exampleEnglish": "I love the atmosphere of this little café.", "level": "A2", "category": "places" },
+            { "id": "le-calme", "french": "le calme", "english": "the quiet / the calm", "partOfSpeech": "noun", "gender": "m", "plural": "les calmes", "pronunciation": "luh KALM", "example": "Je viens ici pour le calme.", "exampleEnglish": "I come here for the quiet.", "level": "A2", "category": "places" },
+            { "id": "le-bruit", "french": "le bruit", "english": "the noise", "partOfSpeech": "noun", "gender": "m", "plural": "les bruits", "pronunciation": "luh BRWEE", "example": "Il n'y a pas de bruit dans ce quartier.", "exampleEnglish": "There is no noise in this neighbourhood.", "level": "A2", "category": "places" },
+            { "id": "la-vue", "french": "la vue", "english": "the view", "partOfSpeech": "noun", "gender": "f", "plural": "les vues", "pronunciation": "lah VÜ", "example": "De la terrasse, la vue est magnifique.", "exampleEnglish": "From the terrace, the view is magnificent.", "level": "A2", "category": "places" },
+            { "id": "paysage", "french": "le paysage", "english": "the landscape / the scenery", "partOfSpeech": "noun", "gender": "m", "plural": "les paysages", "pronunciation": "luh pay-ee-ZAHZH", "example": "Le paysage change à chaque saison.", "exampleEnglish": "The landscape changes with each season.", "level": "A2", "category": "places" },
+            { "id": "mer", "french": "la mer", "english": "the sea", "partOfSpeech": "noun", "gender": "f", "plural": "les mers", "pronunciation": "lah MAIR", "example": "On voit la mer depuis la fenêtre.", "exampleEnglish": "You can see the sea from the window.", "level": "A2", "category": "places" },
+            { "id": "plage", "french": "la plage", "english": "the beach", "partOfSpeech": "noun", "gender": "f", "plural": "les plages", "pronunciation": "lah PLAHZH", "example": "La plage est presque vide en septembre.", "exampleEnglish": "The beach is almost empty in September.", "level": "A2", "category": "places" },
+            { "id": "la-montagne", "french": "la montagne", "english": "the mountain(s)", "partOfSpeech": "noun", "gender": "f", "plural": "les montagnes", "pronunciation": "lah mon-TAHN-yuh", "example": "Nous passons l'hiver à la montagne.", "exampleEnglish": "We spend the winter in the mountains.", "level": "A2", "category": "places" },
+            { "id": "la-campagne", "french": "la campagne", "english": "the countryside", "partOfSpeech": "noun", "gender": "f", "plural": "les campagnes", "pronunciation": "lah kahm-PAHN-yuh", "example": "À la campagne, on respire mieux.", "exampleEnglish": "In the countryside, you breathe better.", "level": "A2", "category": "places" },
+            { "id": "la-foret", "french": "la forêt", "english": "the forest", "partOfSpeech": "noun", "gender": "f", "plural": "les forêts", "pronunciation": "lah fo-REH", "example": "La forêt commence juste derrière le village.", "exampleEnglish": "The forest starts just behind the village.", "level": "A2", "category": "places" },
+            { "id": "le-lac", "french": "le lac", "english": "the lake", "partOfSpeech": "noun", "gender": "m", "plural": "les lacs", "pronunciation": "luh LAK", "example": "Le lac est gelé au mois de janvier.", "exampleEnglish": "The lake is frozen in January.", "level": "A2", "category": "places" },
+            { "id": "le-cafe-lieu", "french": "le café", "english": "the café", "partOfSpeech": "noun", "gender": "m", "plural": "les cafés", "pronunciation": "luh kah-FAY", "example": "Je retrouve mes amis dans ce café.", "exampleEnglish": "I meet my friends in this café.", "level": "A2", "category": "places" },
+            { "id": "la-terrasse", "french": "la terrasse", "english": "the terrace / the outdoor seating", "partOfSpeech": "noun", "gender": "f", "plural": "les terrasses", "pronunciation": "lah tay-RASS", "example": "On s'installe en terrasse quand il fait beau.", "exampleEnglish": "We sit outside on the terrace when the weather is nice.", "level": "A2", "category": "places" },
+            { "id": "le-coin", "french": "le coin", "english": "the corner / the little spot", "partOfSpeech": "noun", "gender": "m", "plural": "les coins", "pronunciation": "luh KWAHN", "example": "C'est mon coin préféré du parc.", "exampleEnglish": "It is my favourite spot in the park.", "level": "A2", "category": "places" },
+            { "id": "l-odeur", "french": "l'odeur", "english": "the smell", "partOfSpeech": "noun", "gender": "f", "plural": "les odeurs", "pronunciation": "lo-DUHR", "example": "J'aime l'odeur de la forêt après la pluie.", "exampleEnglish": "I love the smell of the forest after the rain.", "level": "A2", "category": "places" },
+            { "id": "soleil", "french": "le soleil", "english": "the sun", "partOfSpeech": "noun", "gender": "m", "plural": "les soleils", "pronunciation": "luh so-LAY", "example": "Le soleil entre par la grande fenêtre.", "exampleEnglish": "The sun comes in through the big window.", "level": "A2", "category": "places" },
+            { "id": "agreable", "french": "agréable", "english": "pleasant", "partOfSpeech": "adjective", "pronunciation": "ah-gray-AHBL", "example": "C'est un endroit très agréable en été.", "exampleEnglish": "It is a very pleasant place in summer.", "level": "A2", "category": "places" },
+            { "id": "chaleureux", "french": "chaleureux", "english": "warm, welcoming (atmosphere, people)", "partOfSpeech": "adjective", "pronunciation": "shah-luh-RUH", "example": "L'accueil est toujours chaleureux ici.", "exampleEnglish": "The welcome is always warm here.", "level": "A2", "category": "places" },
+            { "id": "accueillant", "french": "accueillant", "english": "welcoming, friendly", "partOfSpeech": "adjective", "pronunciation": "ah-kuh-YAHN", "example": "C'est un village accueillant pour les touristes.", "exampleEnglish": "It is a welcoming village for tourists.", "level": "A2", "category": "places" },
+            { "id": "paisible", "french": "paisible", "english": "peaceful", "partOfSpeech": "adjective", "pronunciation": "peh-ZEEBL", "example": "Le bord du lac est paisible le matin.", "exampleEnglish": "The lakeside is peaceful in the morning.", "level": "A2", "category": "places" },
+            { "id": "bruyant", "french": "bruyant", "english": "noisy", "partOfSpeech": "adjective", "pronunciation": "brwee-YAHN", "example": "Ce café est trop bruyant pour travailler.", "exampleEnglish": "This café is too noisy to work in.", "level": "A2", "category": "places" },
+            { "id": "joli", "french": "joli", "english": "pretty", "partOfSpeech": "adjective", "pronunciation": "zho-LEE", "example": "C'est une jolie petite place avec une fontaine.", "exampleEnglish": "It is a pretty little square with a fountain.", "level": "A2", "category": "places" },
+            { "id": "charmant", "french": "charmant", "english": "charming", "partOfSpeech": "adjective", "pronunciation": "shar-MAHN", "example": "Le vieux quartier est vraiment charmant.", "exampleEnglish": "The old quarter is really charming.", "level": "A2", "category": "places" },
+            { "id": "magnifique", "french": "magnifique", "english": "magnificent, stunning", "partOfSpeech": "adjective", "pronunciation": "mah-nyee-FEEK", "example": "La vue sur la vallée est magnifique.", "exampleEnglish": "The view over the valley is stunning.", "level": "A2", "category": "places" },
+            { "id": "reposant", "french": "reposant / reposante", "english": "relaxing, restful", "partOfSpeech": "adjective", "pronunciation": "ruh-po-ZAHN", "example": "Une heure au bord de l'eau, c'est reposant.", "exampleEnglish": "An hour by the water is relaxing.", "level": "A2", "category": "places" },
+            { "id": "lumineux", "french": "lumineux", "english": "bright, full of light", "partOfSpeech": "adjective", "pronunciation": "lü-mee-NUH", "example": "La salle est lumineuse toute la journée.", "exampleEnglish": "The room is bright all day long.", "level": "A2", "category": "places" },
+            { "id": "adorer", "french": "adorer", "english": "to love, to adore", "partOfSpeech": "verb", "pronunciation": "ah-do-RAY", "example": "J'adore ce quartier en automne.", "exampleEnglish": "I love this neighbourhood in autumn.", "level": "A2", "category": "places" },
+            { "id": "preferer", "french": "préférer", "english": "to prefer", "partOfSpeech": "verb", "pronunciation": "pray-fay-RAY", "example": "Je préfère la campagne à la ville.", "exampleEnglish": "I prefer the countryside to the city.", "level": "A2", "category": "places" },
+            { "id": "se-detendre", "french": "se détendre", "english": "to relax", "partOfSpeech": "verb", "pronunciation": "suh day-TAHNDR", "example": "Je vais au parc pour me détendre.", "exampleEnglish": "I go to the park to relax.", "level": "A2", "category": "places" },
+            { "id": "se-promener", "french": "se promener", "english": "to go for a walk", "partOfSpeech": "verb", "pronunciation": "suh prom-NAY", "example": "On se promène souvent le long de la rivière.", "exampleEnglish": "We often walk along the river.", "level": "A2", "category": "places" },
+            { "id": "profiter-de", "french": "profiter de", "english": "to make the most of, to enjoy", "partOfSpeech": "verb", "pronunciation": "pro-fee-TAY duh", "example": "Je profite du soleil sur la terrasse.", "exampleEnglish": "I am making the most of the sun on the terrace.", "level": "A2", "category": "places" },
+            { "id": "respirer", "french": "respirer", "english": "to breathe", "partOfSpeech": "verb", "pronunciation": "ress-pee-RAY", "example": "Ici, on respire enfin.", "exampleEnglish": "Here, you can finally breathe.", "level": "A2", "category": "places" },
+            { "id": "souvent", "french": "souvent", "english": "often", "partOfSpeech": "adverb", "pronunciation": "soo-VAHN", "example": "J'y vais souvent le dimanche après-midi.", "exampleEnglish": "I often go there on Sunday afternoons.", "level": "A2", "category": "places" },
+            { "id": "surtout", "french": "surtout", "english": "especially, above all", "partOfSpeech": "adverb", "pronunciation": "sür-TOO", "example": "J'aime cet endroit, surtout au printemps.", "exampleEnglish": "I like this place, especially in spring.", "level": "A2", "category": "places" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "qui and que — joining two sentences",
+              "body": "Instead of two short sentences, join them with qui or que. Use qui when the missing word is the SUBJECT of the second verb (a verb follows directly). Use que when the missing word is the OBJECT (a subject follows: je, tu, on, mon frère…).",
+              "examples": [
+                { "french": "C'est un café. Le café ouvre à sept heures. → C'est un café qui ouvre à sept heures.", "english": "It is a café that opens at seven." },
+                { "french": "C'est un endroit que j'aime beaucoup.", "english": "It is a place that I like a lot.", "note": "j' follows → que" },
+                { "french": "J'aime les villes qui ont beaucoup de parcs.", "english": "I like towns that have lots of parks." },
+                { "french": "Le quartier que je préfère se trouve près du fleuve.", "english": "The neighbourhood I prefer is near the river." },
+                { "french": "C'est une plage qui est très calme en septembre.", "english": "It is a beach that is very quiet in September." },
+                { "french": "Voilà le parc que nous visitons chaque dimanche.", "english": "That is the park we visit every Sunday." }
+              ],
+              "tip": "Quick test: if the next word is a verb, use qui. If it is a person or pronoun, use que."
+            },
+            {
+              "heading": "que becomes qu', and English can drop it — French cannot",
+              "body": "Que shortens to qu' before a vowel or silent h: que il → qu'il. Qui never changes. And where English happily says \"the place I love\", French must keep the linking word: l'endroit que j'aime.",
+              "examples": [
+                { "french": "C'est un village qu'on adore.", "english": "It is a village that we love." },
+                { "french": "Voici la terrasse qu'elle préfère.", "english": "Here is the terrace she prefers." },
+                { "french": "Le musée qui est en face est gratuit.", "english": "The museum opposite is free.", "note": "qui never becomes qu'" },
+                { "french": "C'est le coin que je trouve le plus reposant.", "english": "It is the spot I find the most restful." },
+                { "french": "J'ai un ami qui habite à la campagne.", "english": "I have a friend who lives in the countryside." }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a2_u25_l02_li01",
+              "type": "listenChoose",
+              "french": "C'est un petit café que j'adore, l'ambiance est très chaleureuse.",
+              "prompt": "What does the speaker say about the café?",
+              "options": ["The atmosphere is very warm", "It is too noisy", "It is far from home", "It closes early"],
+              "answer": "The atmosphere is very warm"
+            },
+            {
+              "id": "a2_u25_l02_li02",
+              "type": "listenChoose",
+              "french": "J'aime les endroits qui sont calmes et lumineux.",
+              "prompt": "Which places does the speaker like?",
+              "options": ["Quiet and bright ones", "Lively and noisy ones", "Old and dark ones", "Small and cheap ones"],
+              "answer": "Quiet and bright ones"
+            },
+            {
+              "id": "a2_u25_l02_li03",
+              "type": "listenType",
+              "french": "Je vais au bord du lac pour me détendre.",
+              "prompt": "Type what you hear.",
+              "answer": "Je vais au bord du lac pour me détendre.",
+              "acceptedAnswers": ["Je vais au bord du lac pour me detendre", "je vais au bord du lac pour me détendre"]
+            },
+            {
+              "id": "a2_u25_l02_li04",
+              "type": "dictation",
+              "french": "La vue sur la mer est magnifique.",
+              "prompt": "Write the sentence you hear.",
+              "answer": "La vue sur la mer est magnifique.",
+              "acceptedAnswers": ["La vue sur la mer est magnifique", "la vue sur la mer est magnifique"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a2_u25_l02_sp01",
+              "type": "speak",
+              "french": "Mon endroit préféré, c'est un petit parc qui se trouve près de chez moi.",
+              "english": "My favourite place is a little park that is near my house.",
+              "prompt": "Introduce your favourite place with qui.",
+              "tip": "Endroit ends in a nasal sound: \"ahn-DRWAH\". Do not pronounce the final t."
+            },
+            {
+              "id": "a2_u25_l02_sp02",
+              "type": "speak",
+              "french": "C'est un lieu que j'aime parce que l'ambiance est très chaleureuse.",
+              "english": "It is a place I like because the atmosphere is very warm.",
+              "prompt": "Say why you like your place.",
+              "tip": "Link parce que + il as one word: \"pars-KEEL\"."
+            },
+            {
+              "id": "a2_u25_l02_sp03",
+              "type": "speak",
+              "french": "J'y vais souvent le dimanche pour me promener et respirer l'air frais.",
+              "english": "I often go there on Sundays to walk around and breathe the fresh air.",
+              "prompt": "Say when you go there and what you do.",
+              "tip": "J'y vais is short and fast: \"zhee-VEH\"."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Mon coin préféré",
+              "french": "Il y a un endroit que j'aime plus que tous les autres.\nC'est un petit café qui se trouve au coin de ma rue.\nLa terrasse est lumineuse et on entend seulement le bruit de la fontaine.\nLe patron est un homme chaleureux qui connaît tous les habitants du quartier.\nJ'y vais surtout le samedi matin, avant le marché.\nJe prends un café, je lis mon journal et je profite du soleil.\nL'ambiance est calme : personne ne parle fort.\nCe n'est pas un lieu magnifique, mais c'est un lieu reposant.\nQuand je suis là, j'oublie complètement le stress de la semaine.",
+              "english": "There is a place I love more than all the others.\nIt is a small café that is on the corner of my street.\nThe terrace is bright and you only hear the sound of the fountain.\nThe owner is a warm man who knows all the people of the neighbourhood.\nI go there especially on Saturday mornings, before the market.\nI have a coffee, I read my paper and I make the most of the sun.\nThe atmosphere is calm: nobody speaks loudly.\nIt is not a magnificent place, but it is a restful place.\nWhen I am there, I completely forget the stress of the week.",
+              "questions": [
+                {
+                  "id": "a2_u25_l02_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Where exactly is the café?",
+                  "options": ["On the corner of the writer's street", "Next to the market", "Beside the lake", "In the town centre"],
+                  "answer": "On the corner of the writer's street"
+                },
+                {
+                  "id": "a2_u25_l02_rd02",
+                  "type": "trueFalse",
+                  "prompt": "Le narrateur y va surtout le samedi matin.",
+                  "options": ["True", "False"],
+                  "answer": "True"
+                },
+                {
+                  "id": "a2_u25_l02_rd03",
+                  "type": "multipleChoice",
+                  "prompt": "How does the writer describe the place?",
+                  "options": ["Restful rather than magnificent", "Magnificent but noisy", "Beautiful and very lively", "Charming but expensive"],
+                  "answer": "Restful rather than magnificent"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a2_u25_l02_wr01",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "It is a place that I like a lot.",
+              "answer": "C'est un endroit que j'aime beaucoup.",
+              "acceptedAnswers": ["C'est un lieu que j'aime beaucoup", "C est un endroit que j aime beaucoup"]
+            },
+            {
+              "id": "a2_u25_l02_wr02",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "I like cafés that are quiet and bright.",
+              "answer": "J'aime les cafés qui sont calmes et lumineux.",
+              "acceptedAnswers": ["J'aime les cafes qui sont calmes et lumineux", "J aime les cafés qui sont calmes et lumineux"]
+            },
+            {
+              "id": "a2_u25_l02_wr03",
+              "type": "arrangeWords",
+              "words": ["vais", "J'y", "détendre", "souvent", "me", "pour"],
+              "answer": "J'y vais souvent pour me détendre",
+              "english": "I often go there to relax."
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a2_u25_l02_pr01",
+              "type": "fillBlank",
+              "prompt": "C'est un parc ___ se trouve près du lac.",
+              "answer": "qui"
+            },
+            {
+              "id": "a2_u25_l02_pr02",
+              "type": "fillBlank",
+              "prompt": "Voici le café ___ je préfère.",
+              "answer": "que"
+            },
+            {
+              "id": "a2_u25_l02_pr03",
+              "type": "multipleChoice",
+              "prompt": "C'est une plage ___ on adore.",
+              "options": ["qu'", "qui", "que", "qu'il"],
+              "answer": "qu'"
+            },
+            {
+              "id": "a2_u25_l02_pr04",
+              "type": "match",
+              "prompt": "Match the words with their English meaning.",
+              "pairs": [
+                { "french": "l'ambiance", "english": "the atmosphere" },
+                { "french": "paisible", "english": "peaceful" },
+                { "french": "l'odeur", "english": "the smell" },
+                { "french": "se détendre", "english": "to relax" }
+              ]
+            },
+            {
+              "id": "a2_u25_l02_pr05",
+              "type": "arrangeWords",
+              "words": ["est", "endroit", "qui", "reposant", "C'est", "un", "très"],
+              "answer": "C'est un endroit qui est très reposant",
+              "english": "It is a place that is very restful."
+            },
+            {
+              "id": "a2_u25_l02_pr06",
+              "type": "multipleChoice",
+              "prompt": "Which sentence is correct?",
+              "options": ["J'aime les villes qui ont un fleuve.", "J'aime les villes que ont un fleuve.", "J'aime les villes qu'ont un fleuve.", "J'aime les villes qui a un fleuve."],
+              "answer": "J'aime les villes qui ont un fleuve."
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a2_u25_l02_qz01",
+              "type": "multipleChoice",
+              "prompt": "Choose the correct link word: C'est un endroit ___ j'adore.",
+              "options": ["que", "qui", "qu'est", "quel"],
+              "answer": "que"
+            },
+            {
+              "id": "a2_u25_l02_qz02",
+              "type": "fillBlank",
+              "prompt": "J'ai un ami ___ habite à la campagne.",
+              "answer": "qui"
+            },
+            {
+              "id": "a2_u25_l02_qz03",
+              "type": "multipleChoice",
+              "prompt": "What does \"l'ambiance est chaleureuse\" mean?",
+              "options": ["The atmosphere is warm and welcoming", "The room is hot", "The service is slow", "The place is crowded"],
+              "answer": "The atmosphere is warm and welcoming"
+            },
+            {
+              "id": "a2_u25_l02_qz04",
+              "type": "trueFalse",
+              "prompt": "In French you may leave out que, as English leaves out \"that\".",
+              "options": ["True", "False"],
+              "answer": "False"
+            },
+            {
+              "id": "a2_u25_l02_qz05",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "I go there especially in summer, to make the most of the sun.",
+              "answer": "J'y vais surtout en été, pour profiter du soleil.",
+              "acceptedAnswers": ["J'y vais surtout en ete pour profiter du soleil", "J y vais surtout en été pour profiter du soleil"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2_u25_l03",
+      "level": "A2",
+      "unit": 25,
+      "title": "Comparer deux villes",
+      "description": "Compare two places with plus, moins and aussi, and pick the winner with superlatives.",
+      "estimatedMinutes": 15,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "plus… que, moins… que, aussi… que",
+              "body": "To compare, put plus (more), moins (less) or aussi (as) before the adjective, and que before the second place. The adjective still agrees with the first noun.",
+              "examples": [
+                { "french": "Lyon est plus grand que Nantes.", "english": "Lyon is bigger than Nantes." },
+                { "french": "Cette ville est moins chère que Paris.", "english": "This city is less expensive than Paris." },
+                { "french": "Mon quartier est aussi calme que le tien.", "english": "My neighbourhood is as quiet as yours." },
+                { "french": "Les rues sont plus étroites qu'à Bordeaux.", "english": "The streets are narrower than in Bordeaux." },
+                { "french": "La banlieue est moins polluée que le centre.", "english": "The suburbs are less polluted than the centre." }
+              ],
+              "tip": "Que becomes qu' before a vowel: plus grand qu'Avignon."
+            },
+            {
+              "heading": "Comparing quantities and verbs",
+              "body": "With a noun, add de: plus de, moins de, autant de (as much / as many). With a verb, put plus, moins or autant after the verb.",
+              "examples": [
+                { "french": "Il y a plus de musées à Paris qu'à Lille.", "english": "There are more museums in Paris than in Lille." },
+                { "french": "Il y a moins de circulation le dimanche.", "english": "There is less traffic on Sundays." },
+                { "french": "Cette ville a autant d'habitants que la mienne.", "english": "This town has as many inhabitants as mine." },
+                { "french": "Je sors moins qu'avant.", "english": "I go out less than before." },
+                { "french": "On marche plus ici parce que tout est proche.", "english": "You walk more here because everything is close by." }
+              ]
+            },
+            {
+              "heading": "The superlative: le plus, le moins",
+              "body": "To say \"the most\" or \"the least\", put le / la / les before plus or moins. The article agrees with the noun. If the adjective normally goes after the noun, the superlative goes after too, and the article is repeated.",
+              "examples": [
+                { "french": "C'est la ville la plus animée de la région.", "english": "It is the liveliest city in the region." },
+                { "french": "Le quartier le moins cher est au nord.", "english": "The cheapest neighbourhood is in the north." },
+                { "french": "C'est le plus beau parc de la ville.", "english": "It is the most beautiful park in the town." },
+                { "french": "Ce sont les rues les plus étroites du centre.", "english": "These are the narrowest streets in the centre." },
+                { "french": "C'est le musée le plus visité de France.", "english": "It is the most visited museum in France." }
+              ],
+              "tip": "After a superlative, \"in\" is de, never dans: la plus grande ville de France."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "comparer", "french": "comparer", "english": "to compare", "partOfSpeech": "verb", "pronunciation": "kom-pah-RAY", "example": "On ne peut pas comparer ces deux villes.", "exampleEnglish": "You cannot compare these two cities.", "level": "A2", "category": "comparison" },
+            { "id": "la-difference", "french": "la différence", "english": "the difference", "partOfSpeech": "noun", "gender": "f", "plural": "les différences", "pronunciation": "lah dee-fay-RAHNSS", "example": "La grande différence, c'est le climat.", "exampleEnglish": "The big difference is the climate.", "level": "A2", "category": "comparison" },
+            { "id": "taille", "french": "la taille", "english": "the size", "partOfSpeech": "noun", "gender": "f", "plural": "les tailles", "pronunciation": "lah TAH-yuh", "example": "Les deux villes ont la même taille.", "exampleEnglish": "The two towns are the same size.", "level": "A2", "category": "comparison" },
+            { "id": "la-population", "french": "la population", "english": "the population", "partOfSpeech": "noun", "gender": "f", "plural": "les populations", "pronunciation": "lah po-pü-lah-SYON", "example": "La population de la ville augmente chaque année.", "exampleEnglish": "The town's population grows every year.", "level": "A2", "category": "comparison" },
+            { "id": "habitant", "french": "l'habitant", "english": "the inhabitant / the resident", "partOfSpeech": "noun", "gender": "m", "plural": "les habitants", "pronunciation": "lah-bee-TAHN", "example": "Il y a cinquante mille habitants ici.", "exampleEnglish": "There are fifty thousand inhabitants here.", "level": "A2", "category": "comparison" },
+            { "id": "le-cout-de-la-vie", "french": "le coût de la vie", "english": "the cost of living", "partOfSpeech": "noun", "gender": "m", "plural": "les coûts de la vie", "pronunciation": "luh KOO duh lah VEE", "example": "Le coût de la vie est plus bas en province.", "exampleEnglish": "The cost of living is lower outside the capital.", "level": "A2", "category": "comparison" },
+            { "id": "le-loyer", "french": "le loyer", "english": "the rent", "partOfSpeech": "noun", "gender": "m", "plural": "les loyers", "pronunciation": "luh lwah-YAY", "example": "Les loyers sont moins chers ici qu'à Paris.", "exampleEnglish": "Rents are cheaper here than in Paris.", "level": "A2", "category": "comparison" },
+            { "id": "les-transports-en-commun", "french": "les transports en commun", "english": "public transport", "partOfSpeech": "noun", "gender": "m", "plural": "les transports en commun", "pronunciation": "lay trahns-POR ahn ko-MUHN", "example": "Les transports en commun sont excellents.", "exampleEnglish": "Public transport is excellent.", "level": "A2", "category": "comparison" },
+            { "id": "la-circulation", "french": "la circulation", "english": "the traffic", "partOfSpeech": "noun", "gender": "f", "plural": "les circulations", "pronunciation": "lah seer-kü-lah-SYON", "example": "La circulation est difficile à huit heures.", "exampleEnglish": "The traffic is difficult at eight o'clock.", "level": "A2", "category": "comparison" },
+            { "id": "l-embouteillage", "french": "l'embouteillage", "english": "the traffic jam", "partOfSpeech": "noun", "gender": "m", "plural": "les embouteillages", "pronunciation": "lahm-boo-tay-YAHZH", "example": "Il y a moins d'embouteillages qu'à Lyon.", "exampleEnglish": "There are fewer traffic jams than in Lyon.", "level": "A2", "category": "comparison" },
+            { "id": "pollution", "french": "la pollution", "english": "the pollution", "partOfSpeech": "noun", "gender": "f", "plural": "les pollutions", "pronunciation": "lah po-lü-SYON", "example": "La pollution est le plus gros problème du centre.", "exampleEnglish": "Pollution is the biggest problem in the centre.", "level": "A2", "category": "comparison" },
+            { "id": "la-nature", "french": "la nature", "english": "nature", "partOfSpeech": "noun", "gender": "f", "plural": "les natures", "pronunciation": "lah nah-TÜR", "example": "Ici, la nature est à dix minutes du centre.", "exampleEnglish": "Here, nature is ten minutes from the centre.", "level": "A2", "category": "comparison" },
+            { "id": "climat", "french": "le climat", "english": "the climate", "partOfSpeech": "noun", "gender": "m", "plural": "les climats", "pronunciation": "luh klee-MAH", "example": "Le climat est plus doux dans le sud.", "exampleEnglish": "The climate is milder in the south.", "level": "A2", "category": "comparison" },
+            { "id": "la-qualite-de-vie", "french": "la qualité de vie", "english": "the quality of life", "partOfSpeech": "noun", "gender": "f", "plural": "les qualités de vie", "pronunciation": "lah kah-lee-TAY duh VEE", "example": "La qualité de vie est meilleure ici.", "exampleEnglish": "The quality of life is better here.", "level": "A2", "category": "comparison" },
+            { "id": "meilleur", "french": "meilleur", "english": "better (adjective)", "partOfSpeech": "adjective", "pronunciation": "may-YUHR", "example": "Le climat est meilleur qu'à Lille.", "exampleEnglish": "The climate is better than in Lille.", "level": "A2", "category": "comparison" },
+            { "id": "mieux", "french": "mieux", "english": "better (adverb)", "partOfSpeech": "adverb", "pronunciation": "MYUH", "example": "On vit mieux dans une petite ville.", "exampleEnglish": "You live better in a small town.", "level": "A2", "category": "comparison" },
+            { "id": "pire", "french": "pire", "english": "worse", "partOfSpeech": "adjective", "pronunciation": "PEER", "example": "La circulation est pire le vendredi soir.", "exampleEnglish": "The traffic is worse on Friday evening.", "level": "A2", "category": "comparison" },
+            { "id": "grand", "french": "grand", "english": "big, large", "partOfSpeech": "adjective", "pronunciation": "GRAHN", "example": "Marseille est plus grande que Nice.", "exampleEnglish": "Marseille is bigger than Nice.", "level": "A2", "category": "comparison" },
+            { "id": "petit", "french": "petit", "english": "small, little", "partOfSpeech": "adjective", "pronunciation": "puh-TEE", "example": "Je préfère les petites villes.", "exampleEnglish": "I prefer small towns.", "level": "A2", "category": "comparison" },
+            { "id": "cher", "french": "cher", "english": "expensive", "partOfSpeech": "adjective", "pronunciation": "SHAIR", "example": "Le centre est plus cher que la banlieue.", "exampleEnglish": "The centre is more expensive than the suburbs.", "level": "A2", "category": "comparison" },
+            { "id": "bon-marche", "french": "bon marché", "english": "cheap, good value", "partOfSpeech": "adjective", "pronunciation": "bon mar-SHAY", "example": "Les restaurants sont bon marché dans ce quartier.", "exampleEnglish": "The restaurants are cheap in this neighbourhood.", "level": "A2", "category": "comparison" },
+            { "id": "propre", "french": "propre", "english": "clean", "partOfSpeech": "adjective", "pronunciation": "PROPR", "example": "Les rues sont plus propres qu'avant.", "exampleEnglish": "The streets are cleaner than before.", "level": "A2", "category": "comparison" },
+            { "id": "sale", "french": "sale", "english": "dirty", "partOfSpeech": "adjective", "pronunciation": "SAHL", "example": "La plage est sale après le week-end.", "exampleEnglish": "The beach is dirty after the weekend.", "level": "A2", "category": "comparison" },
+            { "id": "moderne", "french": "moderne", "english": "modern", "partOfSpeech": "adjective", "pronunciation": "mo-DAIRN", "example": "Ce quartier est très moderne.", "exampleEnglish": "This district is very modern.", "level": "A2", "category": "comparison" },
+            { "id": "ancien", "french": "ancien", "english": "old, historic", "partOfSpeech": "adjective", "pronunciation": "ahn-SYAHN", "example": "La partie ancienne de la ville est la plus jolie.", "exampleEnglish": "The old part of the town is the prettiest.", "level": "A2", "category": "comparison" },
+            { "id": "rapide", "french": "rapide", "english": "fast, quick", "partOfSpeech": "adjective", "pronunciation": "rah-PEED", "example": "Le tram est plus rapide que le bus.", "exampleEnglish": "The tram is faster than the bus.", "level": "A2", "category": "comparison" },
+            { "id": "lent", "french": "lent", "english": "slow", "partOfSpeech": "adjective", "pronunciation": "LAHN", "example": "La circulation est lente aux heures de pointe.", "exampleEnglish": "The traffic is slow at rush hour.", "level": "A2", "category": "comparison" },
+            { "id": "dynamique", "french": "dynamique", "english": "dynamic, buzzing", "partOfSpeech": "adjective", "pronunciation": "dee-nah-MEEK", "example": "C'est une ville dynamique pour les jeunes.", "exampleEnglish": "It is a dynamic city for young people.", "level": "A2", "category": "comparison" },
+            { "id": "ennuyeux", "french": "ennuyeux", "english": "boring", "partOfSpeech": "adjective", "pronunciation": "ahn-nwee-YUH", "example": "Le village est un peu ennuyeux en hiver.", "exampleEnglish": "The village is a bit boring in winter.", "level": "A2", "category": "comparison" },
+            { "id": "touristique", "french": "touristique", "english": "touristy, popular with tourists", "partOfSpeech": "adjective", "pronunciation": "too-rees-TEEK", "example": "Le vieux port est très touristique en août.", "exampleEnglish": "The old port is very touristy in August.", "level": "A2", "category": "comparison" },
+            { "id": "historique", "french": "historique", "english": "historic", "partOfSpeech": "adjective", "pronunciation": "ees-to-REEK", "example": "Le centre historique est fermé aux voitures.", "exampleEnglish": "The historic centre is closed to cars.", "level": "A2", "category": "comparison" },
+            { "id": "celebre", "french": "célèbre", "english": "famous", "partOfSpeech": "adjective", "pronunciation": "say-LEBR", "example": "C'est le pont le plus célèbre de la ville.", "exampleEnglish": "It is the most famous bridge in the town.", "level": "A2", "category": "comparison" },
+            { "id": "bonde", "french": "bondé", "english": "packed, crowded", "partOfSpeech": "adjective", "pronunciation": "bon-DAY", "example": "Le métro est bondé le matin.", "exampleEnglish": "The metro is packed in the morning.", "level": "A2", "category": "comparison" },
+            { "id": "large-adj", "french": "large", "english": "wide", "partOfSpeech": "adjective", "pronunciation": "LARZH", "example": "Les avenues sont plus larges à Paris.", "exampleEnglish": "The avenues are wider in Paris.", "level": "A2", "category": "comparison" },
+            { "id": "cependant", "french": "cependant", "english": "however", "partOfSpeech": "conjunction", "pronunciation": "suh-pahn-DAHN", "example": "C'est plus cher ; cependant, on vit mieux.", "exampleEnglish": "It is more expensive; however, you live better.", "level": "A2", "category": "comparison" },
+            { "id": "par-contre", "french": "par contre", "english": "on the other hand", "partOfSpeech": "expression", "pronunciation": "par KONTR", "example": "Il fait chaud ; par contre, il y a beaucoup de touristes.", "exampleEnglish": "It is hot; on the other hand, there are lots of tourists.", "level": "A2", "category": "comparison" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Irregular comparatives: bon → meilleur, bien → mieux",
+              "body": "You never say plus bon or plus bien. The adjective bon becomes meilleur (and agrees: meilleure, meilleurs, meilleures). The adverb bien becomes mieux, which never changes. Mauvais has plus mauvais or pire.",
+              "examples": [
+                { "french": "Le climat est meilleur qu'à Lille.", "english": "The climate is better than in Lille." },
+                { "french": "La qualité de vie est meilleure ici.", "english": "The quality of life is better here.", "note": "meilleure agrees with qualité (f)" },
+                { "french": "On mange mieux dans le sud.", "english": "You eat better in the south.", "note": "after a verb → mieux" },
+                { "french": "C'est le meilleur quartier de la ville.", "english": "It is the best neighbourhood in the town." },
+                { "french": "La circulation est pire qu'avant.", "english": "The traffic is worse than before." }
+              ],
+              "tip": "Adjective → meilleur, verb → mieux. Ask yourself what the word is describing."
+            },
+            {
+              "heading": "Building the superlative",
+              "body": "Take the comparative and add the definite article that matches the noun: le plus grand, la plus grande, les plus grands. Adjectives that come after the noun keep their position and repeat the article: la ville la plus animée. Use de for \"in / of\".",
+              "examples": [
+                { "french": "C'est le quartier le plus cher de la ville.", "english": "It is the most expensive neighbourhood in the town." },
+                { "french": "C'est la plus petite ville de la région.", "english": "It is the smallest town in the region.", "note": "petit comes before the noun" },
+                { "french": "Ce sont les rues les moins bruyantes du centre.", "english": "These are the least noisy streets in the centre." },
+                { "french": "C'est le meilleur marché de la ville.", "english": "It is the best market in the town.", "note": "meilleur is already the superlative form" },
+                { "french": "Nice est la ville où il fait le plus beau.", "english": "Nice is the town where the weather is nicest." }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a2_u25_l03_li01",
+              "type": "listenChoose",
+              "french": "Lyon est plus grand que Nantes, mais Nantes est plus tranquille.",
+              "prompt": "What does the speaker say?",
+              "options": ["Lyon is bigger, Nantes is quieter", "Nantes is bigger and quieter", "Lyon is quieter than Nantes", "Both towns are the same size"],
+              "answer": "Lyon is bigger, Nantes is quieter"
+            },
+            {
+              "id": "a2_u25_l03_li02",
+              "type": "listenChoose",
+              "french": "Ici, les loyers sont moins chers et il y a moins d'embouteillages.",
+              "prompt": "What are the two advantages mentioned?",
+              "options": ["Cheaper rents and fewer traffic jams", "Better weather and cheaper food", "More museums and less noise", "Faster transport and lower taxes"],
+              "answer": "Cheaper rents and fewer traffic jams"
+            },
+            {
+              "id": "a2_u25_l03_li03",
+              "type": "listenType",
+              "french": "C'est la ville la plus animée de la région.",
+              "prompt": "Type what you hear.",
+              "answer": "C'est la ville la plus animée de la région.",
+              "acceptedAnswers": ["C'est la ville la plus animee de la region", "C est la ville la plus animée de la région"]
+            },
+            {
+              "id": "a2_u25_l03_li04",
+              "type": "dictation",
+              "french": "La qualité de vie est meilleure à la campagne.",
+              "prompt": "Write the sentence you hear.",
+              "answer": "La qualité de vie est meilleure à la campagne.",
+              "acceptedAnswers": ["La qualite de vie est meilleure a la campagne", "la qualité de vie est meilleure à la campagne"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a2_u25_l03_sp01",
+              "type": "speak",
+              "french": "Ma ville est plus petite et moins bruyante que Paris.",
+              "english": "My town is smaller and less noisy than Paris.",
+              "prompt": "Compare your town with a big city.",
+              "tip": "Do not sound the s of plus before a consonant: \"plü peh-TEET\"."
+            },
+            {
+              "id": "a2_u25_l03_sp02",
+              "type": "speak",
+              "french": "Il y a moins d'embouteillages ici, mais les transports en commun sont pires.",
+              "english": "There are fewer traffic jams here, but public transport is worse.",
+              "prompt": "Give one advantage and one drawback.",
+              "tip": "Embouteillage has a nasal start and a soft ending: \"ahm-boo-tay-YAHZH\"."
+            },
+            {
+              "id": "a2_u25_l03_sp03",
+              "type": "speak",
+              "french": "C'est le quartier le plus agréable de la ville, surtout au printemps.",
+              "english": "It is the most pleasant neighbourhood in the town, especially in spring.",
+              "prompt": "Name the best area of your town with a superlative.",
+              "tip": "Here plus is followed by a vowel, so the s links: \"plü-Z-ah-gray-AHBL\"."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Toulouse ou Montpellier ?",
+              "french": "Je viens de Toulouse, mais j'habite à Montpellier depuis trois ans.\nToulouse est plus grande : il y a presque un demi-million d'habitants.\nÀ Montpellier, on trouve moins de grandes entreprises, mais plus d'étudiants.\nLe climat est meilleur ici, et la mer est à dix minutes en tram.\nPar contre, les loyers sont aussi chers qu'à Toulouse, parfois pires.\nLes transports en commun sont excellents dans les deux villes.\nToulouse a le centre historique le plus joli, avec ses briques roses.\nCependant, la circulation y est plus difficile et l'air est moins propre.\nHonnêtement, je vis mieux ici, surtout au printemps.\nMais quand mes amis me manquent, je prends le train : une heure et demie.",
+              "english": "I come from Toulouse, but I have been living in Montpellier for three years.\nToulouse is bigger: there are almost half a million inhabitants.\nIn Montpellier there are fewer big companies, but more students.\nThe climate is better here, and the sea is ten minutes away by tram.\nOn the other hand, rents are as expensive as in Toulouse, sometimes worse.\nPublic transport is excellent in both cities.\nToulouse has the prettiest historic centre, with its pink bricks.\nHowever, the traffic is more difficult there and the air is less clean.\nHonestly, I live better here, especially in spring.\nBut when I miss my friends, I take the train: an hour and a half.",
+              "questions": [
+                {
+                  "id": "a2_u25_l03_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "According to the writer, what is better in Montpellier?",
+                  "options": ["The climate", "The rents", "The historic centre", "The big companies"],
+                  "answer": "The climate"
+                },
+                {
+                  "id": "a2_u25_l03_rd02",
+                  "type": "trueFalse",
+                  "prompt": "Les loyers sont beaucoup moins chers à Montpellier.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                },
+                {
+                  "id": "a2_u25_l03_rd03",
+                  "type": "multipleChoice",
+                  "prompt": "What does the writer say about Toulouse's traffic and air?",
+                  "options": ["The traffic is harder and the air less clean", "The traffic is lighter and the air cleaner", "Both are the same as in Montpellier", "The air is cleaner but the traffic is worse"],
+                  "answer": "The traffic is harder and the air less clean"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a2_u25_l03_wr01",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "My town is smaller than Lyon.",
+              "answer": "Ma ville est plus petite que Lyon.",
+              "acceptedAnswers": ["Ma ville est plus petite que Lyon", "ma ville est plus petite que lyon"]
+            },
+            {
+              "id": "a2_u25_l03_wr02",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "There are fewer traffic jams here than in Paris.",
+              "answer": "Il y a moins d'embouteillages ici qu'à Paris.",
+              "acceptedAnswers": ["Il y a moins d'embouteillages ici qu'a Paris", "Il y a moins d embouteillages ici qu'à Paris"]
+            },
+            {
+              "id": "a2_u25_l03_wr03",
+              "type": "arrangeWords",
+              "words": ["ville", "la", "C'est", "plus", "animée", "la", "de", "région", "la"],
+              "answer": "C'est la ville la plus animée de la région",
+              "english": "It is the liveliest city in the region."
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a2_u25_l03_pr01",
+              "type": "fillBlank",
+              "prompt": "Nice est plus grande ___ Avignon.",
+              "answer": "que"
+            },
+            {
+              "id": "a2_u25_l03_pr02",
+              "type": "fillBlank",
+              "prompt": "Il y a moins ___ circulation le dimanche.",
+              "answer": "de"
+            },
+            {
+              "id": "a2_u25_l03_pr03",
+              "type": "multipleChoice",
+              "prompt": "Le climat est ___ dans le sud.",
+              "options": ["meilleur", "plus bon", "mieux", "plus meilleur"],
+              "answer": "meilleur"
+            },
+            {
+              "id": "a2_u25_l03_pr04",
+              "type": "match",
+              "prompt": "Match the words with their English meaning.",
+              "pairs": [
+                { "french": "le loyer", "english": "the rent" },
+                { "french": "bondé", "english": "packed" },
+                { "french": "la circulation", "english": "the traffic" },
+                { "french": "par contre", "english": "on the other hand" }
+              ]
+            },
+            {
+              "id": "a2_u25_l03_pr05",
+              "type": "arrangeWords",
+              "words": ["moins", "banlieue", "que", "La", "chère", "le", "est", "centre"],
+              "answer": "La banlieue est moins chère que le centre",
+              "english": "The suburbs are less expensive than the centre."
+            },
+            {
+              "id": "a2_u25_l03_pr06",
+              "type": "multipleChoice",
+              "prompt": "Which sentence is correct?",
+              "options": ["On vit mieux ici.", "On vit meilleur ici.", "On vit plus bien ici.", "On vit le mieux que ici."],
+              "answer": "On vit mieux ici."
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a2_u25_l03_qz01",
+              "type": "multipleChoice",
+              "prompt": "How do you say \"as quiet as\"?",
+              "options": ["aussi calme que", "autant calme que", "si calme comme", "plus calme comme"],
+              "answer": "aussi calme que"
+            },
+            {
+              "id": "a2_u25_l03_qz02",
+              "type": "fillBlank",
+              "prompt": "C'est la ville ___ plus animée de la région.",
+              "answer": "la"
+            },
+            {
+              "id": "a2_u25_l03_qz03",
+              "type": "multipleChoice",
+              "prompt": "Complete: Il y a ___ musées à Paris qu'à Lille.",
+              "options": ["plus de", "plus que", "plus des", "le plus de"],
+              "answer": "plus de"
+            },
+            {
+              "id": "a2_u25_l03_qz04",
+              "type": "trueFalse",
+              "prompt": "After a superlative, French uses de to say \"in\": la plus grande ville de France.",
+              "options": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "a2_u25_l03_qz05",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "The cost of living is lower here, however the town is more boring.",
+              "answer": "Le coût de la vie est plus bas ici, cependant la ville est plus ennuyeuse.",
+              "acceptedAnswers": ["Le cout de la vie est plus bas ici cependant la ville est plus ennuyeuse", "Le coût de la vie est moins cher ici, cependant la ville est plus ennuyeuse"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

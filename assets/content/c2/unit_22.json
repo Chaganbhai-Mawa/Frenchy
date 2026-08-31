@@ -1,0 +1,588 @@
+{
+  "id": "c2_u22",
+  "level": "C2",
+  "unit": 22,
+  "title": "Novel Writing",
+  "subtitle": "Build a character, choose a narrator, and open a novel that keeps its promise",
+  "icon": "📗",
+  "lessons": [
+    {
+      "id": "c2_u22_l01",
+      "level": "C2",
+      "unit": 22,
+      "title": "Construire un personnage",
+      "description": "The craftsman's toolkit for building a fictional character: the telling physical detail, the psychology of desire and contradiction, and the difference between a round character and a flat one.",
+      "estimatedMinutes": 19,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Le portrait physique et la première impression",
+              "body": "Classic character portraiture does not inventory every feature; it selects one or two telling details that carry symbolic weight and make the character memorable. A trembling hand, a way of avoiding eye contact, a coat worn too long — these details work harder than a full catalogue of hair colour, height, and clothing ever could.",
+              "examples": [
+                { "french": "Elle portait ses cheveux gris comme un défi, sans jamais les teindre.", "english": "She wore her grey hair like a challenge, never dyeing it." },
+                { "french": "Un seul détail suffit parfois : ses mains tremblaient légèrement quand elle mentait.", "english": "One detail is sometimes enough: her hands trembled slightly when she lied." },
+                { "french": "Le romancier évite l'inventaire : il choisit le trait qui en dit long.", "english": "The novelist avoids the inventory: he chooses the trait that speaks volumes." },
+                { "french": "Son regard fuyant trahissait une gêne qu'aucune phrase n'aurait pu nommer.", "english": "His evasive gaze betrayed an unease no sentence could have named." },
+                { "french": "La première impression se construit en une phrase, ou elle ne se construit pas.", "english": "The first impression is built in one sentence, or it isn't built at all." }
+              ],
+              "tip": "Choose one physical detail that will pay off later in the plot — a scar the character keeps touching, a limp that slows a chase scene."
+            },
+            {
+              "heading": "La psychologie : motivation, désir, contradiction",
+              "body": "A believable character needs a precise driving desire — a want — set against an internal contradiction: something feared or needed that pulls against that want. This tension, more than any biography, is what creates dramatic interest and keeps a character from collapsing into a single trait.",
+              "examples": [
+                { "french": "Chaque personnage a besoin d'un désir précis, même s'il l'ignore lui-même.", "english": "Every character needs a precise desire, even if they are unaware of it." },
+                { "french": "La contradiction rend un personnage vivant : il veut partir, mais il reste.", "english": "Contradiction makes a character alive: he wants to leave, but he stays." },
+                { "french": "Le conflit intérieur oppose ce que le personnage désire à ce qu'il redoute.", "english": "Inner conflict pits what the character desires against what he dreads." },
+                { "french": "Sans motivation claire, même les actions les plus spectaculaires paraissent gratuites.", "english": "Without clear motivation, even the most spectacular actions seem gratuitous." },
+                { "french": "L'ambivalence n'est pas une faiblesse d'écriture : c'est souvent son but.", "english": "Ambivalence is not a writing flaw: it is often the goal." }
+              ],
+              "tip": "Ask what the character wants on the surface, and what they actually need underneath — the gap between the two often drives the whole plot."
+            },
+            {
+              "heading": "Personnage rond, personnage plat : la vraisemblance",
+              "body": "Not every character needs equal depth: a round character keeps the capacity to surprise across the whole novel, while a flat character serves a single function and asks for none. The danger lies in confusing a flat character with a lazy one — the cliché sets in exactly when a single trait is left to stand in for a whole person.",
+              "examples": [
+                { "french": "Le personnage rond garde la capacité de nous surprendre jusqu'à la dernière page.", "english": "The round character keeps the ability to surprise us until the very last page." },
+                { "french": "Le personnage plat reste utile : il ne demande pas de développement, seulement de la fonction.", "english": "The flat character remains useful: he requires no development, only a function." },
+                { "french": "Le cliché s'installe dès que le trait remplace la personne tout entière.", "english": "The cliché sets in as soon as the trait replaces the whole person." },
+                { "french": "La vraisemblance ne copie pas le réel : elle construit une cohérence interne.", "english": "Verisimilitude does not copy reality: it builds an internal coherence." },
+                { "french": "Un personnage secondaire trop caricatural peut fragiliser tout le roman.", "english": "An overly caricatured secondary character can weaken the whole novel." }
+              ],
+              "tip": "If you can predict everything a character will do in every scene, they are still flat — give them at least one contradictory choice."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "le-personnage", "french": "le personnage", "english": "the character (in a story)", "partOfSpeech": "noun", "gender": "m", "plural": "les personnages", "pronunciation": "luh pehr-soh-NAZH", "example": "Le personnage principal n'apparaît qu'au deuxième chapitre.", "exampleEnglish": "The main character does not appear until the second chapter.", "level": "C2", "category": "character-writing" },
+            { "id": "le-protagoniste", "french": "le protagoniste", "english": "the protagonist, the main character", "partOfSpeech": "noun", "gender": "m", "plural": "les protagonistes", "pronunciation": "luh pro-tah-go-NEEST", "example": "Le protagoniste refuse tout au long du roman le rôle qu'on lui assigne.", "exampleEnglish": "The protagonist refuses, throughout the novel, the role he is assigned.", "level": "C2", "category": "character-writing" },
+            { "id": "l-antagoniste", "french": "l'antagoniste", "english": "the antagonist", "partOfSpeech": "noun", "gender": "m", "plural": "les antagonistes", "pronunciation": "lahn-tah-go-NEEST", "example": "L'antagoniste n'apparaît jamais en personne, seulement dans les lettres qu'il envoie.", "exampleEnglish": "The antagonist never appears in person, only in the letters he sends.", "level": "C2", "category": "character-writing" },
+            { "id": "le-portrait", "french": "le portrait", "english": "the portrait, the character sketch", "partOfSpeech": "noun", "gender": "m", "plural": "les portraits", "pronunciation": "luh por-TREH", "example": "Le portrait tient en trois phrases, pas en trois pages.", "exampleEnglish": "The portrait fits in three sentences, not three pages.", "level": "C2", "category": "character-writing" },
+            { "id": "la-caracterisation", "french": "la caractérisation", "english": "the characterisation", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah kah-rak-tay-ree-zah-SYON", "example": "La caractérisation se fait autant par les actes que par la description.", "exampleEnglish": "Characterisation happens as much through actions as through description.", "level": "C2", "category": "character-writing" },
+            { "id": "le-trait-de-caractere", "french": "le trait de caractère", "english": "the character trait", "partOfSpeech": "noun", "gender": "m", "plural": "les traits de caractère", "pronunciation": "luh treh duh kah-rak-TAIR", "example": "Un seul trait de caractère, bien choisi, vaut mieux qu'une liste entière.", "exampleEnglish": "One well-chosen character trait is worth more than a whole list.", "level": "C2", "category": "character-writing" },
+            { "id": "la-psychologie", "french": "la psychologie", "english": "the psychology (of a character)", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah psee-koh-loh-ZHEE", "example": "La psychologie du personnage se révèle par petites touches, jamais d'un coup.", "exampleEnglish": "The character's psychology is revealed in small touches, never all at once.", "level": "C2", "category": "character-writing" },
+            { "id": "le-physique", "french": "le physique", "english": "the physical appearance", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh fee-ZEEK", "example": "Le physique du personnage compte moins que la façon dont il l'habite.", "exampleEnglish": "The character's physical appearance matters less than how he inhabits it.", "level": "C2", "category": "character-writing" },
+            { "id": "l-apparence", "french": "l'apparence", "english": "the appearance", "partOfSpeech": "noun", "gender": "f", "plural": "les apparences", "pronunciation": "lah-pah-RAHNSS", "example": "L'apparence soignée cache une vie parfaitement désordonnée.", "exampleEnglish": "The tidy appearance hides a perfectly disordered life.", "level": "C2", "category": "character-writing" },
+            { "id": "la-personnalite", "french": "la personnalité", "english": "the personality", "partOfSpeech": "noun", "gender": "f", "plural": "les personnalités", "pronunciation": "lah pehr-soh-nah-lee-TAY", "example": "Sa personnalité se dessine surtout dans ses silences.", "exampleEnglish": "Her personality is drawn mostly in her silences.", "level": "C2", "category": "character-writing" },
+            { "id": "le-defaut", "french": "le défaut", "english": "the flaw, the shortcoming", "partOfSpeech": "noun", "gender": "m", "plural": "les défauts", "pronunciation": "luh day-FOH", "example": "Un défaut bien choisi humanise un personnage plus vite qu'une qualité.", "exampleEnglish": "A well-chosen flaw humanises a character faster than a virtue does.", "level": "C2", "category": "character-writing" },
+            { "id": "la-qualite", "french": "la qualité", "english": "the quality, the good trait", "partOfSpeech": "noun", "gender": "f", "plural": "les qualités", "pronunciation": "lah kah-lee-TAY", "example": "Ses qualités mêmes finissent par se retourner contre elle.", "exampleEnglish": "Her very virtues eventually turn against her.", "level": "C2", "category": "character-writing" },
+            { "id": "la-motivation", "french": "la motivation", "english": "the motivation", "partOfSpeech": "noun", "gender": "f", "plural": "les motivations", "pronunciation": "lah moh-tee-vah-SYON", "example": "Sans motivation claire, l'action du personnage sonne faux.", "exampleEnglish": "Without clear motivation, the character's action rings false.", "level": "C2", "category": "character-writing" },
+            { "id": "le-desir", "french": "le désir", "english": "the desire, the want", "partOfSpeech": "noun", "gender": "m", "plural": "les désirs", "pronunciation": "luh day-ZEER", "example": "Le désir du personnage doit être visible dès la première scène.", "exampleEnglish": "The character's desire must be visible from the first scene.", "level": "C2", "category": "character-writing" },
+            { "id": "le-conflit-interieur", "french": "le conflit intérieur", "english": "the inner conflict", "partOfSpeech": "noun", "gender": "m", "plural": "les conflits intérieurs", "pronunciation": "luh kon-flee an-tay-RYUR", "example": "Le conflit intérieur du personnage vaut souvent plus que le conflit extérieur.", "exampleEnglish": "A character's inner conflict is often worth more than the outer one.", "level": "C2", "category": "character-writing" },
+            { "id": "la-contradiction", "french": "la contradiction", "english": "the contradiction", "partOfSpeech": "noun", "gender": "f", "plural": "les contradictions", "pronunciation": "lah kon-trah-deek-SYON", "example": "Une contradiction assumée rend le personnage plus crédible qu'une cohérence parfaite.", "exampleEnglish": "An owned contradiction makes a character more believable than perfect consistency.", "level": "C2", "category": "character-writing" },
+            { "id": "l-ambivalence", "french": "l'ambivalence", "english": "the ambivalence", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lahn-bee-vah-LAHNSS", "example": "L'ambivalence du personnage se lit dans ce qu'il ne dit jamais franchement.", "exampleEnglish": "The character's ambivalence shows in what he never says outright.", "level": "C2", "category": "character-writing" },
+            { "id": "l-histoire-personnelle", "french": "l'histoire personnelle", "english": "the personal history, the backstory", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lees-twahr pehr-soh-NEL", "example": "L'histoire personnelle du personnage n'a pas besoin d'être racontée en entier.", "exampleEnglish": "A character's backstory does not need to be told in full.", "level": "C2", "category": "character-writing" },
+            { "id": "l-evolution-du-personnage", "french": "l'évolution du personnage", "english": "the character's development, character arc", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lay-voh-lu-SYON du pehr-soh-NAZH", "example": "L'évolution du personnage se joue en trois moments, pas davantage.", "exampleEnglish": "The character's arc plays out in three moments, no more.", "level": "C2", "category": "character-writing" },
+            { "id": "le-personnage-secondaire", "french": "le personnage secondaire", "english": "the secondary character, supporting character", "partOfSpeech": "noun", "gender": "m", "plural": "les personnages secondaires", "pronunciation": "luh pehr-soh-nazh suh-gon-DAIR", "example": "Un personnage secondaire réussi reste en mémoire après une seule scène.", "exampleEnglish": "A successful secondary character stays in memory after just one scene.", "level": "C2", "category": "character-writing" },
+            { "id": "le-figurant", "french": "le figurant", "english": "the extra, the minor background character", "partOfSpeech": "noun", "gender": "m", "plural": "les figurants", "pronunciation": "luh fee-gu-RAHN", "example": "Même un figurant mérite une phrase qui lui donne une existence propre.", "exampleEnglish": "Even a background character deserves one sentence that gives him his own existence.", "level": "C2", "category": "character-writing" },
+            { "id": "le-personnage-rond", "french": "le personnage rond", "english": "the round character", "partOfSpeech": "noun", "gender": "m", "plural": "les personnages ronds", "pronunciation": "luh pehr-soh-nazh RON", "example": "Le personnage rond garde toujours une capacité de surprise.", "exampleEnglish": "The round character always keeps a capacity to surprise.", "level": "C2", "category": "character-writing" },
+            { "id": "le-personnage-plat", "french": "le personnage plat", "english": "the flat character", "partOfSpeech": "noun", "gender": "m", "plural": "les personnages plats", "pronunciation": "luh pehr-soh-nazh PLAH", "example": "Le personnage plat sert une seule fonction, sans jamais se développer.", "exampleEnglish": "The flat character serves a single function, without ever developing.", "level": "C2", "category": "character-writing" },
+            { "id": "la-nuance", "french": "la nuance", "english": "the nuance, the subtlety", "partOfSpeech": "noun", "gender": "f", "plural": "les nuances", "pronunciation": "lah nu-AHNSS", "example": "C'est la nuance qui sauve un personnage du cliché.", "exampleEnglish": "It is nuance that saves a character from cliché.", "level": "C2", "category": "character-writing" },
+            { "id": "la-complexite", "french": "la complexité", "english": "the complexity", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah kon-pleks-ee-TAY", "example": "La complexité d'un personnage ne se mesure pas au nombre de ses défauts.", "exampleEnglish": "A character's complexity is not measured by the number of his flaws.", "level": "C2", "category": "character-writing" },
+            { "id": "le-cliche", "french": "le cliché", "english": "the cliché", "partOfSpeech": "noun", "gender": "m", "plural": "les clichés", "pronunciation": "luh klee-SHAY", "example": "Le premier cliché qui vient à l'esprit est presque toujours à éviter.", "exampleEnglish": "The first cliché that comes to mind is almost always the one to avoid.", "level": "C2", "category": "character-writing" },
+            { "id": "le-stereotype", "french": "le stéréotype", "english": "the stereotype", "partOfSpeech": "noun", "gender": "m", "plural": "les stéréotypes", "pronunciation": "luh stay-ray-oh-TEEP", "example": "Le stéréotype rassure le lecteur en lui épargnant toute surprise.", "exampleEnglish": "The stereotype reassures the reader by sparing them any surprise.", "level": "C2", "category": "character-writing" },
+            { "id": "la-caricature", "french": "la caricature", "english": "the caricature", "partOfSpeech": "noun", "gender": "f", "plural": "les caricatures", "pronunciation": "lah kah-ree-kah-TUR", "example": "La caricature exagère un trait au point d'effacer tout le reste.", "exampleEnglish": "The caricature exaggerates one trait to the point of erasing everything else.", "level": "C2", "category": "character-writing" },
+            { "id": "incarner", "french": "incarner", "english": "to embody, to give flesh to", "partOfSpeech": "verb", "pronunciation": "an-kar-NAY", "example": "Le romancier incarne son idée dans un personnage, jamais dans un discours.", "exampleEnglish": "The novelist embodies his idea in a character, never in a speech.", "level": "C2", "category": "character-writing" },
+            { "id": "depeindre", "french": "dépeindre", "english": "to depict, to portray", "partOfSpeech": "verb", "pronunciation": "day-PAN-druh", "example": "Le roman dépeint un homme incapable de nommer ce qu'il ressent.", "exampleEnglish": "The novel depicts a man unable to name what he feels.", "level": "C2", "category": "character-writing" },
+            { "id": "esquisser", "french": "esquisser", "english": "to sketch out", "partOfSpeech": "verb", "pronunciation": "es-kee-SAY", "example": "L'auteur esquisse le personnage en une phrase, puis le laisse agir.", "exampleEnglish": "The author sketches the character in one sentence, then lets him act.", "level": "C2", "category": "character-writing" },
+            { "id": "camper", "french": "camper", "english": "to vividly establish (a character)", "partOfSpeech": "verb", "pronunciation": "kahn-PAY", "example": "Trois répliques suffisent à camper un personnage secondaire.", "exampleEnglish": "Three lines are enough to vividly establish a secondary character.", "level": "C2", "category": "character-writing" },
+            { "id": "credible", "french": "crédible", "english": "credible, believable", "partOfSpeech": "adjective", "pronunciation": "kray-DEE-bluh", "example": "Un personnage crédible n'est pas un personnage sympathique.", "exampleEnglish": "A believable character is not the same as a likeable one.", "level": "C2", "category": "character-writing" },
+            { "id": "attachant", "french": "attachant", "english": "endearing, likeable", "partOfSpeech": "adjective", "pronunciation": "ah-tah-SHAHN", "example": "Il reste attachant précisément parce qu'il échoue si souvent.", "exampleEnglish": "He remains endearing precisely because he fails so often.", "level": "C2", "category": "character-writing" },
+            { "id": "ambigu", "french": "ambigu", "english": "ambiguous", "partOfSpeech": "adjective", "pronunciation": "ahn-bee-GU", "example": "Son sourire final reste volontairement ambigu.", "exampleEnglish": "His final smile remains deliberately ambiguous.", "level": "C2", "category": "character-writing" },
+            { "id": "nuance", "french": "nuancé", "english": "nuanced, layered", "partOfSpeech": "adjective", "pronunciation": "nu-ahn-SAY", "example": "Un portrait nuancé résiste à la fois à l'admiration et au rejet.", "exampleEnglish": "A nuanced portrait resists both admiration and rejection.", "level": "C2", "category": "character-writing" },
+            { "id": "la-coherence", "french": "la cohérence", "english": "the coherence, the internal consistency", "partOfSpeech": "noun", "gender": "f", "plural": "les cohérences", "pronunciation": "lah koh-ay-RAHNSS", "example": "La cohérence d'un personnage ne dépend pas de sa ressemblance au réel.", "exampleEnglish": "A character's coherence does not depend on resembling reality.", "level": "C2", "category": "character-writing" },
+            { "id": "la-vraisemblance", "french": "la vraisemblance", "english": "the verisimilitude, the plausibility", "partOfSpeech": "noun", "gender": "f", "plural": "les vraisemblances", "pronunciation": "lah vreh-sahm-BLAHNSS", "example": "La vraisemblance d'un personnage tient à sa cohérence, non à sa banalité.", "exampleEnglish": "A character's plausibility rests on his coherence, not on his ordinariness.", "level": "C2", "category": "character-writing" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "L'imparfait de description et le passé simple d'action",
+              "body": "In literary narration, the imparfait paints backgrounds, habitual states, and ongoing character traits — a kind of freeze-frame — while the passé simple marks the punctual, completed action that moves the plot forward. The alternation itself is a signal: it tells the reader exactly when a portrait pauses and the story resumes.",
+              "examples": [
+                { "french": "Elle avait les yeux clairs et ne souriait presque jamais. Ce matin-là, pourtant, elle sourit.", "english": "She had light eyes and almost never smiled. That morning, however, she smiled.", "note": "imparfait for the standing trait, passé simple for the break" },
+                { "french": "Il portait toujours ce manteau trop grand. Il l'enleva, pour la première fois, devant elle.", "english": "He always wore that coat too big for him. He took it off, for the first time, in front of her." },
+                { "french": "La ville dormait encore quand il sortit sans un bruit.", "english": "The city was still asleep when he went out without a sound." },
+                { "french": "Elle détestait le silence ; ce jour-là, elle le choisit.", "english": "She hated silence; that day, she chose it." },
+                { "french": "Le passé simple interrompt l'imparfait comme un coup frappé dans le calme.", "english": "The passé simple interrupts the imperfect like a knock struck in the calm." }
+              ],
+              "tip": "Read a paragraph aloud: if it stays in the imparfait, you are still painting the portrait; the passé simple verb is where the story actually starts moving."
+            },
+            {
+              "heading": "Les relatives pour caractériser : dont, ce qui, ce que",
+              "body": "At this level, character description leans on compact relative constructions: 'dont' replaces a clunky 'de qui / de quoi / duquel', while 'ce qui' and 'ce que' let a writer characterise a person through an indefinite, unnamed antecedent — what struck people, what she hid — rather than a flat list of named traits.",
+              "examples": [
+                { "french": "C'était un homme dont on ne savait jamais s'il plaisantait.", "english": "He was a man you could never tell was joking or not." },
+                { "french": "Ce qui frappait chez elle, ce n'était pas la beauté, mais l'aplomb.", "english": "What struck people about her was not her beauty, but her self-assurance." },
+                { "french": "Elle cachait ce qu'elle pensait derrière une politesse parfaite.", "english": "She hid what she was thinking behind a perfect politeness." },
+                { "french": "Le personnage dont je parle n'apparaît que dans les trois derniers chapitres.", "english": "The character I am speaking of only appears in the last three chapters." },
+                { "french": "Tout ce qu'on savait de lui tenait dans une seule phrase, jamais complétée.", "english": "Everything known about him fit into a single sentence, never completed." }
+              ],
+              "tip": "Reach for 'dont' whenever the relative clause would otherwise need an awkward 'de + pronoun' construction."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "c2_u22_l01_li01", "type": "listenChoose", "prompt": "Listen. Which term is being described?", "french": "Ce personnage ne change jamais et sert uniquement une fonction dans l'intrigue.", "options": ["Le personnage plat", "Le personnage rond", "Le protagoniste", "L'antagoniste"], "answer": "Le personnage plat" },
+            { "id": "c2_u22_l01_li02", "type": "listenChoose", "prompt": "Listen. Which term is being described?", "french": "Ce trait rend un personnage vivant, car il veut deux choses à la fois contraires.", "options": ["La contradiction", "Le cliché", "Le stéréotype", "La caricature"], "answer": "La contradiction" },
+            { "id": "c2_u22_l01_li03", "type": "listenType", "prompt": "Listen and type this sentence exactly.", "french": "Le personnage rond garde la capacité de nous surprendre jusqu'à la dernière page.", "answer": "Le personnage rond garde la capacité de nous surprendre jusqu'à la dernière page.", "acceptedAnswers": ["le personnage rond garde la capacite de nous surprendre jusqu'a la derniere page", "le personnage rond garde la capacite de nous surprendre jusqu a la derniere page"] },
+            { "id": "c2_u22_l01_li04", "type": "dictation", "prompt": "Dictation: write down this sentence exactly.", "french": "La vraisemblance ne copie pas le réel : elle construit une cohérence interne.", "answer": "La vraisemblance ne copie pas le réel : elle construit une cohérence interne.", "acceptedAnswers": ["la vraisemblance ne copie pas le reel elle construit une coherence interne"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "c2_u22_l01_sp01", "type": "speak", "prompt": "Deliver this line as if defending a character choice to a writing workshop.", "french": "Le cliché s'installe dès que le trait remplace la personne tout entière.", "english": "The cliché sets in as soon as the trait replaces the whole person.", "tip": "Stress 'tout entière' at the end — that is the real point being defended." },
+            { "id": "c2_u22_l01_sp02", "type": "speak", "prompt": "Say this sentence as though explaining a character's core want to a co-writer.", "french": "Chaque personnage a besoin d'un désir précis, même s'il l'ignore lui-même.", "english": "Every character needs a precise desire, even if they are unaware of it.", "tip": "Slow down on 'même s'il l'ignore' — the whole insight is in that concession." },
+            { "id": "c2_u22_l01_sp03", "type": "speak", "prompt": "Recite this line about contradiction with a slight dramatic pause before 'mais il reste'.", "french": "La contradiction rend un personnage vivant : il veut partir, mais il reste.", "english": "Contradiction makes a character alive: he wants to leave, but he stays.", "tip": "The pause before 'mais' is what makes the contradiction land." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Portrait d'une inconnue",
+              "french": "Elle s'appelait Odile, mais personne au village ne l'appelait ainsi depuis la mort de son mari. On disait « la veuve », comme si le mot suffisait à la décrire tout entière. Elle portait ses cheveux gris comme un défi, sans jamais les teindre, et ne souriait presque jamais — sauf, disait-on, le mardi, jour du marché, où elle vendait ses légumes en plaisantant avec les enfants. Ce détail dérangeait tout le monde : une femme si dure ne devrait pas savoir rire ainsi. Elle détestait le silence de sa maison vide ; pourtant, chaque soir, elle éteignait la radio dès la première note de musique. Personne ne comprenait pourquoi. Peut-être qu'elle ne le comprenait pas non plus.",
+              "english": "Her name was Odile, but no one in the village had called her that since her husband's death. They said \"the widow,\" as though the word were enough to describe her entirely. She wore her grey hair like a challenge, never dyeing it, and almost never smiled — except, they said, on Tuesdays, market day, when she sold her vegetables while joking with the children. That detail unsettled everyone: a woman so hard should not know how to laugh like that. She hated the silence of her empty house; and yet, every evening, she switched off the radio at the very first note of music. No one understood why. Perhaps she did not understand it herself.",
+              "questions": [
+                { "id": "c2_u22_l01_rd01", "type": "multipleChoice", "prompt": "What detail unsettles the villagers about Odile?", "options": ["That she laughs and jokes on market day", "That she never leaves her house", "That she refuses to sell her vegetables", "That she moved away after her husband's death"], "answer": "That she laughs and jokes on market day" },
+                { "id": "c2_u22_l01_rd02", "type": "multipleChoice", "prompt": "What is the effect of the final sentence, 'Peut-être qu'elle ne le comprenait pas non plus'?", "options": ["It leaves the character's contradiction genuinely unresolved", "It explains exactly why she turns off the radio", "It reveals that Odile is lying to the village", "It confirms the villagers' nickname for her is accurate"], "answer": "It leaves the character's contradiction genuinely unresolved" },
+                { "id": "c2_u22_l01_rd03", "type": "trueFalse", "prompt": "The passage gives an exhaustive, catalogue-style physical description of Odile.", "options": ["True", "False"], "answer": "False" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "c2_u22_l01_wr01", "type": "translate", "prompt": "Translate into French.", "english": "It is nuance that saves a character from cliché.", "answer": "C'est la nuance qui sauve un personnage du cliché.", "acceptedAnswers": ["c'est la nuance qui sauve un personnage du cliche", "cest la nuance qui sauve un personnage du cliche"] },
+            { "id": "c2_u22_l01_wr02", "type": "arrangeWords", "prompt": "Rebuild this sentence about character contradiction.", "words": ["rend", "vivant", "un", "La", "contradiction", "personnage"], "answer": "La contradiction rend un personnage vivant", "english": "Contradiction makes a character alive." },
+            { "id": "c2_u22_l01_wr03", "type": "fillBlank", "prompt": "Le personnage ___ garde toujours une capacité de nous surprendre.", "answer": "rond", "tip": "The opposite of 'plat' in this pairing of character types." }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "c2_u22_l01_pr01", "type": "multipleChoice", "prompt": "Quel terme désigne un personnage qui sert une seule fonction, sans développement ?", "options": ["Le personnage plat", "Le personnage rond", "Le protagoniste", "L'antagoniste"], "answer": "Le personnage plat" },
+            { "id": "c2_u22_l01_pr02", "type": "match", "prompt": "Match each term with its meaning.", "pairs": [ { "french": "la vraisemblance", "english": "internal coherence, not a copy of reality" }, { "french": "le cliché", "english": "a trait standing in for the whole person" }, { "french": "l'ambivalence", "english": "holding two opposed feelings at once" }, { "french": "camper", "english": "to vividly establish a character in a few lines" } ] },
+            { "id": "c2_u22_l01_pr03", "type": "fillBlank", "prompt": "Sans ___ claire, même les actions les plus spectaculaires paraissent gratuites.", "answer": "motivation" },
+            { "id": "c2_u22_l01_pr04", "type": "trueFalse", "prompt": "Un personnage secondaire ne mérite jamais un trait distinctif propre.", "options": ["True", "False"], "answer": "False" },
+            { "id": "c2_u22_l01_pr05", "type": "translate", "prompt": "Translate: A believable character is not the same as a likeable one.", "english": "A believable character is not the same as a likeable one.", "answer": "Un personnage crédible n'est pas un personnage sympathique.", "acceptedAnswers": ["un personnage credible n'est pas un personnage sympathique", "un personnage credible nest pas un personnage sympathique"] },
+            { "id": "c2_u22_l01_pr06", "type": "multipleChoice", "prompt": "Quel temps verbal peint généralement le portrait, plutôt que l'action ponctuelle ?", "options": ["L'imparfait", "Le passé simple", "Le futur simple", "Le conditionnel passé"], "answer": "L'imparfait" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "c2_u22_l01_qz01", "type": "multipleChoice", "prompt": "Qu'est-ce qui distingue un personnage rond d'un personnage plat ?", "options": ["Sa capacité à surprendre jusqu'à la fin", "Son nombre de répliques", "Sa présence dans le titre du roman", "Son âge dans le récit"], "answer": "Sa capacité à surprendre jusqu'à la fin" },
+            { "id": "c2_u22_l01_qz02", "type": "fillBlank", "prompt": "La ___ ne copie pas le réel : elle construit une cohérence interne.", "answer": "vraisemblance" },
+            { "id": "c2_u22_l01_qz03", "type": "multipleChoice", "prompt": "What typically defines a character's inner conflict?", "options": ["The tension between what they desire and what they fear or need", "The number of scenes they appear in", "Their physical description", "The register of their dialogue"], "answer": "The tension between what they desire and what they fear or need" },
+            { "id": "c2_u22_l01_qz04", "type": "trueFalse", "prompt": "Le passé simple sert généralement à peindre un état durable du personnage.", "options": ["True", "False"], "answer": "False", "tip": "That is the imparfait's role; the passé simple marks the punctual action." },
+            { "id": "c2_u22_l01_qz05", "type": "multipleChoice", "prompt": "Quel mot désigne un trait exagéré au point d'effacer tout le reste du personnage ?", "options": ["La caricature", "La nuance", "La motivation", "La cohérence"], "answer": "La caricature" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c2_u22_l02",
+      "level": "C2",
+      "unit": 22,
+      "title": "Le narrateur",
+      "description": "Choosing a narrative voice: first versus third person, the three focalisations, and how far a novelist can trust — or deliberately not trust — the narrator to tell the truth.",
+      "estimatedMinutes": 19,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Première personne, troisième personne : effets de la voix",
+              "body": "First person narration locks the reader inside one consciousness, trading reliability for intimacy; third person can range from a close, almost first-person closeness to a distant, panoramic sweep. Neither choice is neutral: it decides what the reader is allowed to know, and when.",
+              "examples": [
+                { "french": "À la première personne, le lecteur ne sait jamais plus que le narrateur lui-même.", "english": "In the first person, the reader never knows more than the narrator himself." },
+                { "french": "La troisième personne peut se tenir tout près d'un personnage, ou très loin de tous.", "english": "The third person can stand very close to one character, or very far from all of them." },
+                { "french": "Changer de personne en cours de roman est un risque, mais parfois un risque payant.", "english": "Switching person partway through a novel is a risk, but sometimes a rewarding one." },
+                { "french": "La deuxième personne reste rare : elle accuse le lecteur autant qu'elle le désigne.", "english": "The second person remains rare: it accuses the reader as much as it designates him." },
+                { "french": "Le choix de la voix précède presque toujours le choix de l'intrigue elle-même.", "english": "The choice of voice almost always comes before the choice of plot itself." }
+              ],
+              "tip": "Draft the opening page in both first and third person before committing — the plot often reveals what it actually needs."
+            },
+            {
+              "heading": "La focalisation : interne, externe, zéro",
+              "body": "Focalisation interne restricts the narration to one character's knowledge and perception; focalisation externe reports only what an outside observer could see, withholding all interior thought; focalisation zéro is the traditional omniscient stance, moving freely between minds and across time. A novel can mix all three, but a shift must always be a deliberate choice, not a slip.",
+              "examples": [
+                { "french": "La focalisation interne enferme le lecteur dans une seule conscience à la fois.", "english": "Internal focalisation locks the reader inside a single consciousness at a time." },
+                { "french": "La focalisation externe se contente de décrire les gestes, jamais les pensées.", "english": "External focalisation is content to describe gestures, never thoughts." },
+                { "french": "La focalisation zéro permet au narrateur de savoir ce qu'aucun personnage ne sait.", "english": "Zero focalisation lets the narrator know what no single character knows." },
+                { "french": "Un narrateur omniscient qui entre dans toutes les consciences risque de les aplatir.", "english": "An omniscient narrator who enters every consciousness risks flattening them all." },
+                { "french": "Changer de focalisation d'un chapitre à l'autre reste plus sûr qu'à l'intérieur d'une même scène.", "english": "Shifting focalisation from one chapter to the next is safer than doing so within a single scene." }
+              ],
+              "tip": "If you must shift focalisation mid-scene, mark it with a clear signal — a paragraph break, a change of tense — so the reader never feels cheated."
+            },
+            {
+              "heading": "Le narrateur fiable ou non : jusqu'où faire confiance ?",
+              "body": "An unreliable narrator does not simply lie: they may misunderstand their own story, minimise what shames them, or filter events through a bias the reader must learn to detect. The technique works only if the text leaves the reader enough evidence — contradictions, omissions, tone — to reconstruct the truth the narrator will not, or cannot, state directly.",
+              "examples": [
+                { "french": "Le narrateur non fiable ne ment pas toujours : il se trompe parfois lui-même.", "english": "The unreliable narrator does not always lie: he sometimes deceives himself." },
+                { "french": "La fiabilité du narrateur se juge aux détails qu'il choisit de taire.", "english": "A narrator's reliability is judged by the details he chooses to leave unsaid." },
+                { "french": "Un narrateur intrusif commente l'histoire au lieu de se contenter de la raconter.", "english": "An intrusive narrator comments on the story instead of simply telling it." },
+                { "french": "Le lecteur implicite doit toujours pouvoir reconstruire ce que le narrateur cache.", "english": "The implied reader must always be able to reconstruct what the narrator hides." },
+                { "french": "La subjectivité assumée d'un narrateur vaut mieux qu'une fausse objectivité.", "english": "A narrator's acknowledged subjectivity is worth more than a false objectivity." }
+              ],
+              "tip": "Leave at least one small, verifiable contradiction in an unreliable narrator's account — it is the reader's only anchor to the real story."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "le-narrateur", "french": "le narrateur", "english": "the narrator", "partOfSpeech": "noun", "gender": "m", "plural": "les narrateurs", "pronunciation": "luh nah-rah-TUHR", "example": "Le narrateur ne dit jamais explicitement ce qu'il redoute.", "exampleEnglish": "The narrator never explicitly says what he dreads.", "level": "C2", "category": "narrative-voice" },
+            { "id": "la-narratrice", "french": "la narratrice", "english": "the female narrator", "partOfSpeech": "noun", "gender": "f", "plural": "les narratrices", "pronunciation": "lah nah-rah-TREESS", "example": "La narratrice s'adresse directement au lecteur dès la première page.", "exampleEnglish": "The narrator addresses the reader directly from the very first page.", "level": "C2", "category": "narrative-voice" },
+            { "id": "le-point-de-vue", "french": "le point de vue", "english": "the point of view", "partOfSpeech": "noun", "gender": "m", "plural": "les points de vue", "pronunciation": "luh pwan duh VU", "example": "Le point de vue change sans prévenir au milieu du chapitre.", "exampleEnglish": "The point of view shifts without warning halfway through the chapter.", "level": "C2", "category": "narrative-voice" },
+            { "id": "la-voix-narrative", "french": "la voix narrative", "english": "the narrative voice", "partOfSpeech": "expression", "pronunciation": "lah vwah nah-rah-TEEV", "example": "La voix narrative se reconnaît autant à son rythme qu'à ce qu'elle choisit de taire.", "exampleEnglish": "The narrative voice is recognised as much by its rhythm as by what it chooses to leave unsaid.", "level": "C2", "category": "narrative-voice" },
+            { "id": "omniscient", "french": "omniscient", "english": "omniscient, all-knowing", "partOfSpeech": "adjective", "pronunciation": "om-nee-SYAHN", "example": "Un narrateur omniscient entre dans toutes les consciences du roman.", "exampleEnglish": "An omniscient narrator enters every consciousness in the novel.", "level": "C2", "category": "narrative-voice" },
+            { "id": "la-premiere-personne", "french": "la première personne", "english": "the first person", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah pruh-MYEHR pehr-SUNN", "example": "Le roman est écrit à la première personne du singulier.", "exampleEnglish": "The novel is written in the first person singular.", "level": "C2", "category": "narrative-voice" },
+            { "id": "la-troisieme-personne", "french": "la troisième personne", "english": "the third person", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah trwah-ZYEM pehr-SUNN", "example": "Passer à la troisième personne crée aussitôt une distance.", "exampleEnglish": "Switching to the third person immediately creates distance.", "level": "C2", "category": "narrative-voice" },
+            { "id": "la-deuxieme-personne", "french": "la deuxième personne", "english": "the second person", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah duh-ZYEM pehr-SUNN", "example": "La deuxième personne accuse le lecteur autant qu'elle le désigne.", "exampleEnglish": "The second person accuses the reader as much as it designates him.", "level": "C2", "category": "narrative-voice" },
+            { "id": "la-focalisation", "french": "la focalisation", "english": "the focalisation, narrative point of view", "partOfSpeech": "noun", "gender": "f", "plural": "les focalisations", "pronunciation": "foh-kah-lee-zah-SYON", "example": "La focalisation change de chapitre en chapitre, jamais au milieu d'une scène.", "exampleEnglish": "The focalisation changes from chapter to chapter, never mid-scene.", "level": "C2", "category": "narrative-voice" },
+            { "id": "la-focalisation-interne", "french": "la focalisation interne", "english": "internal focalisation (limited to one character's perception)", "partOfSpeech": "expression", "pronunciation": "foh-kah-lee-zah-syon an-TAIRN", "example": "La focalisation interne enferme le lecteur dans une seule conscience à la fois.", "exampleEnglish": "Internal focalisation locks the reader inside a single consciousness at a time.", "level": "C2", "category": "narrative-voice" },
+            { "id": "la-focalisation-externe", "french": "la focalisation externe", "english": "external focalisation (an outside observer's view)", "partOfSpeech": "expression", "pronunciation": "foh-kah-lee-zah-syon ex-TAIRN", "example": "La focalisation externe se contente de décrire les gestes, jamais les pensées.", "exampleEnglish": "External focalisation is content to describe gestures, never thoughts.", "level": "C2", "category": "narrative-voice" },
+            { "id": "la-focalisation-zero", "french": "la focalisation zéro", "english": "zero focalisation (the omniscient stance)", "partOfSpeech": "expression", "pronunciation": "foh-kah-lee-zah-syon zay-ROH", "example": "La focalisation zéro permet au narrateur de savoir ce qu'aucun personnage ne sait.", "exampleEnglish": "Zero focalisation lets the narrator know what no single character knows.", "level": "C2", "category": "narrative-voice" },
+            { "id": "homodiegetique", "french": "homodiégétique", "english": "homodiegetic (the narrator is a character in the story)", "partOfSpeech": "adjective", "pronunciation": "oh-moh-dyay-zhay-TEEK", "example": "Un narrateur homodiégétique vit les événements qu'il raconte.", "exampleEnglish": "A homodiegetic narrator lives through the events he tells." , "level": "C2", "category": "narrative-voice" },
+            { "id": "heterodiegetique", "french": "hétérodiégétique", "english": "heterodiegetic (the narrator is absent from the story)", "partOfSpeech": "adjective", "pronunciation": "ay-tay-roh-dyay-zhay-TEEK", "example": "Un narrateur hétérodiégétique reste absent de l'histoire qu'il raconte.", "exampleEnglish": "A heterodiegetic narrator remains absent from the story he tells.", "level": "C2", "category": "narrative-voice" },
+            { "id": "intradiegetique", "french": "intradiégétique", "english": "intradiegetic (narrating from inside the story world)", "partOfSpeech": "adjective", "pronunciation": "an-trah-dyay-zhay-TEEK", "example": "Un narrateur intradiégétique raconte une histoire à l'intérieur même du récit.", "exampleEnglish": "An intradiegetic narrator tells a story from inside the narrative itself.", "level": "C2", "category": "narrative-voice" },
+            { "id": "extradiegetique", "french": "extradiégétique", "english": "extradiegetic (narrating from outside the story world)", "partOfSpeech": "adjective", "pronunciation": "ex-trah-dyay-zhay-TEEK", "example": "Un narrateur extradiégétique s'adresse au lecteur depuis l'extérieur du récit.", "exampleEnglish": "An extradiegetic narrator addresses the reader from outside the narrative.", "level": "C2", "category": "narrative-voice" },
+            { "id": "le-narrateur-non-fiable", "french": "le narrateur non fiable", "english": "the unreliable narrator", "partOfSpeech": "expression", "pronunciation": "luh nah-rah-tur non fee-AH-bluh", "example": "Le narrateur non fiable ne ment pas toujours : il se trompe parfois lui-même.", "exampleEnglish": "The unreliable narrator does not always lie: he sometimes deceives himself.", "level": "C2", "category": "narrative-voice" },
+            { "id": "la-fiabilite", "french": "la fiabilité", "english": "the reliability", "partOfSpeech": "noun", "gender": "f", "plural": "les fiabilités", "pronunciation": "lah fyah-bee-lee-TAY", "example": "La fiabilité du narrateur se juge aux détails qu'il choisit de taire.", "exampleEnglish": "A narrator's reliability is judged by the details he chooses to leave unsaid.", "level": "C2", "category": "narrative-voice" },
+            { "id": "le-monologue-interieur", "french": "le monologue intérieur", "english": "the interior monologue", "partOfSpeech": "noun", "gender": "m", "plural": "les monologues intérieurs", "pronunciation": "luh moh-noh-log an-tay-RYUR", "example": "Le chapitre entier n'est qu'un long monologue intérieur.", "exampleEnglish": "The whole chapter is nothing but a long interior monologue.", "level": "C2", "category": "narrative-voice" },
+            { "id": "le-flux-de-conscience", "french": "le flux de conscience", "english": "the stream of consciousness", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh flu duh kon-SYAHNSS", "example": "Le flux de conscience abandonne presque toute ponctuation logique.", "exampleEnglish": "Stream of consciousness abandons almost all logical punctuation.", "level": "C2", "category": "narrative-voice" },
+            { "id": "le-style-indirect-libre", "french": "le style indirect libre", "english": "free indirect discourse", "partOfSpeech": "expression", "pronunciation": "luh steel an-dee-REKT LEE-bruh", "example": "Le style indirect libre fond la voix du narrateur dans celle du personnage.", "exampleEnglish": "Free indirect discourse blends the narrator's voice into the character's own.", "level": "C2", "category": "narrative-voice" },
+            { "id": "le-discours-direct", "french": "le discours direct", "english": "direct speech", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh dee-skoor dee-REKT", "example": "Le discours direct restitue les mots exacts, entre guillemets.", "exampleEnglish": "Direct speech reproduces the exact words, in quotation marks.", "level": "C2", "category": "narrative-voice" },
+            { "id": "le-discours-indirect", "french": "le discours indirect", "english": "indirect (reported) speech", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh dee-skoor an-dee-REKT", "example": "Le discours indirect résume les propos sans prétendre à l'exactitude mot à mot.", "exampleEnglish": "Indirect speech summarises what was said without claiming word-for-word accuracy.", "level": "C2", "category": "narrative-voice" },
+            { "id": "l-analepse", "french": "l'analepse", "english": "the analepsis, the flashback", "partOfSpeech": "noun", "gender": "f", "plural": "les analepses", "pronunciation": "ah-nah-LEPS", "example": "Une analepse brève rappelle au lecteur les origines du conflit.", "exampleEnglish": "A brief flashback reminds the reader of the conflict's origins.", "level": "C2", "category": "narrative-voice" },
+            { "id": "la-prolepse", "french": "la prolepse", "english": "the prolepsis, the flash-forward", "partOfSpeech": "noun", "gender": "f", "plural": "les prolepses", "pronunciation": "proh-LEPS", "example": "Une prolepse discrète annonce déjà la fin tragique du roman.", "exampleEnglish": "A discreet flash-forward already hints at the novel's tragic ending.", "level": "C2", "category": "narrative-voice" },
+            { "id": "l-ellipse-narrative", "french": "l'ellipse narrative", "english": "the narrative ellipsis (a skipped span of time)", "partOfSpeech": "expression", "pronunciation": "lay-leeps nah-rah-TEEV", "example": "Une ellipse narrative fait passer dix ans en une seule phrase.", "exampleEnglish": "A narrative ellipsis lets ten years pass in a single sentence.", "level": "C2", "category": "narrative-voice" },
+            { "id": "la-distance-narrative", "french": "la distance narrative", "english": "the narrative distance", "partOfSpeech": "expression", "pronunciation": "lah dees-tahnss nah-rah-TEEV", "example": "La distance narrative se resserre à mesure que le personnage perd pied.", "exampleEnglish": "The narrative distance tightens as the character loses his footing.", "level": "C2", "category": "narrative-voice" },
+            { "id": "le-narrateur-intrusif", "french": "le narrateur intrusif", "english": "the intrusive narrator", "partOfSpeech": "expression", "pronunciation": "luh nah-rah-tur an-tru-ZEEF", "example": "Un narrateur intrusif commente l'histoire au lieu de se contenter de la raconter.", "exampleEnglish": "An intrusive narrator comments on the story instead of simply telling it.", "level": "C2", "category": "narrative-voice" },
+            { "id": "s-adresser-au-lecteur", "french": "s'adresser au lecteur", "english": "to address the reader directly", "partOfSpeech": "expression", "pronunciation": "sah-dreh-say oh lek-TUR", "example": "Le narrateur s'adresse directement au lecteur à trois reprises dans le roman.", "exampleEnglish": "The narrator addresses the reader directly three times in the novel.", "level": "C2", "category": "narrative-voice" },
+            { "id": "le-lecteur-implicite", "french": "le lecteur implicite", "english": "the implied reader", "partOfSpeech": "expression", "pronunciation": "luh lek-tur an-plee-SEET", "example": "Le lecteur implicite doit toujours pouvoir reconstruire ce que le narrateur cache.", "exampleEnglish": "The implied reader must always be able to reconstruct what the narrator hides.", "level": "C2", "category": "narrative-voice" },
+            { "id": "la-subjectivite", "french": "la subjectivité", "english": "the subjectivity", "partOfSpeech": "noun", "gender": "f", "plural": "les subjectivités", "pronunciation": "soob-zhek-tee-vee-TAY", "example": "La subjectivité assumée d'un narrateur vaut mieux qu'une fausse objectivité.", "exampleEnglish": "A narrator's acknowledged subjectivity is worth more than a false objectivity.", "level": "C2", "category": "narrative-voice" },
+            { "id": "l-objectivite", "french": "l'objectivité", "english": "the objectivity", "partOfSpeech": "noun", "gender": "f", "plural": "les objectivités", "pronunciation": "lob-zhek-tee-vee-TAY", "example": "L'objectivité totale reste un idéal qu'aucun narrateur n'atteint vraiment.", "exampleEnglish": "Total objectivity remains an ideal no narrator ever truly reaches.", "level": "C2", "category": "narrative-voice" },
+            { "id": "le-regard", "french": "le regard", "english": "the gaze, the viewpoint", "partOfSpeech": "noun", "gender": "m", "plural": "les regards", "pronunciation": "luh ruh-GAR", "example": "Tout passe par le regard fatigué du vieux médecin.", "exampleEnglish": "Everything passes through the old doctor's weary gaze.", "level": "C2", "category": "narrative-voice" },
+            { "id": "la-distance-ironique", "french": "la distance ironique", "english": "the ironic distance", "partOfSpeech": "expression", "pronunciation": "lah dees-tahnss ee-roh-NEEK", "example": "La distance ironique du narrateur trahit un jugement qu'il ne formule jamais.", "exampleEnglish": "The narrator's ironic distance betrays a judgment he never states outright.", "level": "C2", "category": "narrative-voice" },
+            { "id": "le-recul", "french": "le recul", "english": "the hindsight, the detachment", "partOfSpeech": "noun", "gender": "m", "plural": "les reculs", "pronunciation": "luh ruh-KEWL", "example": "Le narrateur adulte raconte son enfance avec un recul que l'enfant n'avait pas.", "exampleEnglish": "The adult narrator tells his childhood with a hindsight the child never had.", "level": "C2", "category": "narrative-voice" },
+            { "id": "raconter", "french": "raconter", "english": "to tell, to narrate", "partOfSpeech": "verb", "pronunciation": "rah-kon-TAY", "example": "On ne raconte jamais deux fois une histoire exactement de la même façon.", "exampleEnglish": "You never tell a story exactly the same way twice.", "level": "C2", "category": "narrative-voice" },
+            { "id": "relater", "french": "relater", "english": "to relate, to recount (an event)", "partOfSpeech": "verb", "pronunciation": "ruh-lah-TAY", "example": "Le narrateur relate les faits avec une froideur étudiée.", "exampleEnglish": "The narrator relates the facts with studied coldness.", "level": "C2", "category": "narrative-voice" },
+            { "id": "devoiler", "french": "dévoiler", "english": "to reveal, to unveil", "partOfSpeech": "verb", "pronunciation": "day-vwah-LAY", "example": "Le texte dévoile peu à peu ce que le narrateur refuse de voir.", "exampleEnglish": "The text gradually reveals what the narrator refuses to see.", "level": "C2", "category": "narrative-voice" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Le discours indirect libre : ni citation, ni résumé",
+              "body": "Free indirect discourse reports a character's thought or speech without a reporting verb ('il pensa que') and without quotation marks — it keeps the character's own vocabulary and exclamations, but shifts pronouns and tenses as reported speech normally does. The result blends the narrator's voice with the character's own, letting the text hold both perspectives in a single unmarked sentence.",
+              "examples": [
+                { "french": "Elle regarda l'horloge. Encore en retard, comme toujours.", "english": "She looked at the clock. Late again, as always.", "note": "no reporting verb: the second sentence is her unspoken thought" },
+                { "french": "Il sortit dans la rue. Quel froid, tout de même, pour un mois de mai !", "english": "He went out into the street. What cold, all the same, for the month of May!", "note": "exclamation kept intact, no quotation marks" },
+                { "french": "Elle se demanda pourquoi il n'était pas encore arrivé.", "english": "She wondered why he had not yet arrived.", "note": "compare: this is ordinary indirect discourse, with a reporting verb" },
+                { "french": "Pourquoi n'était-il pas encore arrivé ? Elle ne comprenait plus rien.", "english": "Why had he not yet arrived? She no longer understood anything.", "note": "same content, now in style indirect libre" },
+                { "french": "Le style indirect libre n'appartient ni tout à fait au narrateur, ni tout à fait au personnage.", "english": "Free indirect discourse belongs neither entirely to the narrator nor entirely to the character." }
+              ],
+              "tip": "Test a suspected passage of style indirect libre by removing the surrounding narration — if it still reads as a natural thought or outburst, the style indirect libre is at work."
+            },
+            {
+              "heading": "Les décalages temporels de l'analepse et de la prolepse",
+              "body": "A flashback (analepse) or flash-forward (prolepse) usually requires a tense shift to signal the jump: the plus-que-parfait marks an analepse from a passé simple or imparfait main narrative, while the futur or conditionnel can mark a prolepse. The shift itself is what tells the reader which timeline they are now in, without needing an explicit 'des années plus tard'.",
+              "examples": [
+                { "french": "Il se souvint, ce soir-là, du jour où son père était parti sans un mot.", "english": "That evening, he remembered the day his father had left without a word.", "note": "plus-que-parfait marks the analepse" },
+                { "french": "Elle ignorait encore qu'elle ne reverrait jamais cette maison.", "english": "She did not yet know that she would never see that house again.", "note": "conditionnel signals a prolepse from within the imparfait" },
+                { "french": "Vingt ans plus tard, il comprendrait enfin ce que ce silence avait voulu dire.", "english": "Twenty years later, he would finally understand what that silence had meant.", "note": "futur du passé (conditionnel) marks the flash-forward" },
+                { "french": "Le plus-que-parfait renvoie toujours à un passé antérieur au passé du récit.", "english": "The plus-que-parfait always points to a past earlier than the story's own past." },
+                { "french": "Sans marqueur temporel clair, l'analepse et la prolepse désorientent plus qu'elles n'éclairent.", "english": "Without a clear temporal marker, the flashback and the flash-forward disorient more than they illuminate." }
+              ],
+              "tip": "Anchor every analepse or prolepse with at least one clear tense shift — a stray plus-que-parfait is often the only signal the reader gets."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "c2_u22_l02_li01", "type": "listenChoose", "prompt": "Listen. Which term is being described?", "french": "Cette focalisation enferme le lecteur dans une seule conscience à la fois.", "options": ["La focalisation interne", "La focalisation externe", "La focalisation zéro", "Le discours direct"], "answer": "La focalisation interne" },
+            { "id": "c2_u22_l02_li02", "type": "listenChoose", "prompt": "Listen. Which term is being described?", "french": "Ce narrateur ne ment pas toujours : il se trompe parfois lui-même.", "options": ["Le narrateur non fiable", "Le narrateur omniscient", "Le narrateur intrusif", "La narratrice"], "answer": "Le narrateur non fiable" },
+            { "id": "c2_u22_l02_li03", "type": "listenType", "prompt": "Listen and type this sentence exactly.", "french": "La fiabilité du narrateur se juge aux détails qu'il choisit de taire.", "answer": "La fiabilité du narrateur se juge aux détails qu'il choisit de taire.", "acceptedAnswers": ["la fiabilite du narrateur se juge aux details qu'il choisit de taire", "la fiabilite du narrateur se juge aux details qu il choisit de taire"] },
+            { "id": "c2_u22_l02_li04", "type": "dictation", "prompt": "Dictation: write down this sentence exactly.", "french": "La focalisation zéro permet au narrateur de savoir ce qu'aucun personnage ne sait.", "answer": "La focalisation zéro permet au narrateur de savoir ce qu'aucun personnage ne sait.", "acceptedAnswers": ["la focalisation zero permet au narrateur de savoir ce qu'aucun personnage ne sait", "la focalisation zero permet au narrateur de savoir ce quaucun personnage ne sait"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "c2_u22_l02_sp01", "type": "speak", "prompt": "Say this line as though explaining a narratology term to a graduate seminar.", "french": "Un narrateur omniscient entre dans toutes les consciences du roman.", "english": "An omniscient narrator enters every consciousness in the novel.", "tip": "Give equal weight to each syllable of 'omniscient' — do not rush the word." },
+            { "id": "c2_u22_l02_sp02", "type": "speak", "prompt": "Deliver this line as a quiet warning to a fellow writer about unreliable narration.", "french": "Le narrateur non fiable ne ment pas toujours : il se trompe parfois lui-même.", "english": "The unreliable narrator does not always lie: he sometimes deceives himself.", "tip": "Land on 'lui-même' — that is the twist the whole sentence is building toward." },
+            { "id": "c2_u22_l02_sp03", "type": "speak", "prompt": "Recite this line about subjectivity as a firm, considered statement of craft.", "french": "La subjectivité assumée d'un narrateur vaut mieux qu'une fausse objectivité.", "english": "A narrator's acknowledged subjectivity is worth more than a false objectivity.", "tip": "Stress 'fausse' — the whole judgment rests on that one word." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Le carnet de Julien",
+              "french": "Je note ceci pour moi seul, et je jure que je dirai la vérité, même si personne d'autre ne la lira jamais. Le soir où tout a changé, je n'ai rien fait de mal. Enfin — presque rien. J'étais rentré tard, c'est vrai, et je n'avais pas répondu à ses appels. Mais je n'avais pas vu l'heure, voilà tout ; le temps m'avait échappé, comme il m'échappe toujours quand je travaille. Elle m'a accusé de l'avoir oubliée exprès. C'est faux, évidemment. Je n'oublie jamais rien exprès. Enfin, je crois.",
+              "english": "I am writing this for myself alone, and I swear I will tell the truth, even if no one else ever reads it. On the evening everything changed, I did nothing wrong. Well — almost nothing. I had come home late, that much is true, and I had not answered her calls. But I simply had not noticed the time; time always gets away from me when I am working. She accused me of forgetting her on purpose. That is false, obviously. I never forget anything on purpose. Well, I think.",
+              "questions": [
+                { "id": "c2_u22_l02_rd01", "type": "multipleChoice", "prompt": "What signals that Julien may be an unreliable narrator?", "options": ["His self-corrections and hedging, such as 'Enfin — presque rien' and 'Enfin, je crois'", "His use of the third person throughout", "His refusal to mention the evening at all", "The absence of any dialogue in the passage"], "answer": "His self-corrections and hedging, such as 'Enfin — presque rien' and 'Enfin, je crois'" },
+                { "id": "c2_u22_l02_rd02", "type": "multipleChoice", "prompt": "In what person and focalisation is this passage written?", "options": ["First person, internal focalisation", "Third person, zero focalisation", "First person, external focalisation", "Third person, internal focalisation"], "answer": "First person, internal focalisation" },
+                { "id": "c2_u22_l02_rd03", "type": "trueFalse", "prompt": "The passage gives the reader clear, independent confirmation that Julien's account is entirely accurate.", "options": ["True", "False"], "answer": "False" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "c2_u22_l02_wr01", "type": "translate", "prompt": "Translate into French.", "english": "A narrator's acknowledged subjectivity is worth more than a false objectivity.", "answer": "La subjectivité assumée d'un narrateur vaut mieux qu'une fausse objectivité.", "acceptedAnswers": ["la subjectivite assumee d'un narrateur vaut mieux qu'une fausse objectivite", "la subjectivite assumee dun narrateur vaut mieux quune fausse objectivite"] },
+            { "id": "c2_u22_l02_wr02", "type": "arrangeWords", "prompt": "Rebuild this sentence about focalisation.", "words": ["une", "à", "conscience", "enferme", "La", "focalisation", "seule", "interne", "le", "lecteur"], "answer": "La focalisation interne enferme le lecteur à une seule conscience", "english": "Internal focalisation locks the reader inside a single consciousness." },
+            { "id": "c2_u22_l02_wr03", "type": "fillBlank", "prompt": "Le narrateur non ___ ne ment pas toujours : il se trompe parfois lui-même.", "answer": "fiable", "tip": "The opposite of trustworthy, applied to a narrator." }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "c2_u22_l02_pr01", "type": "multipleChoice", "prompt": "Quelle focalisation correspond au narrateur omniscient traditionnel ?", "options": ["La focalisation zéro", "La focalisation interne", "La focalisation externe", "L'homodiégétique"], "answer": "La focalisation zéro" },
+            { "id": "c2_u22_l02_pr02", "type": "match", "prompt": "Match each term with its meaning.", "pairs": [ { "french": "l'analepse", "english": "a flashback within the narrative" }, { "french": "la prolepse", "english": "a flash-forward within the narrative" }, { "french": "le style indirect libre", "english": "no reporting verb, no quotation marks" }, { "french": "le narrateur intrusif", "english": "comments on the story instead of just telling it" } ] },
+            { "id": "c2_u22_l02_pr03", "type": "fillBlank", "prompt": "Le style indirect libre n'appartient ni tout à fait au narrateur, ni tout à fait au ___.", "answer": "personnage" },
+            { "id": "c2_u22_l02_pr04", "type": "trueFalse", "prompt": "Un narrateur hétérodiégétique vit lui-même les événements qu'il raconte.", "options": ["True", "False"], "answer": "False", "tip": "That description matches homodiégétique, not hétérodiégétique." },
+            { "id": "c2_u22_l02_pr05", "type": "translate", "prompt": "Translate: The implied reader must always be able to reconstruct what the narrator hides.", "english": "The implied reader must always be able to reconstruct what the narrator hides.", "answer": "Le lecteur implicite doit toujours pouvoir reconstruire ce que le narrateur cache.", "acceptedAnswers": ["le lecteur implicite doit toujours pouvoir reconstruire ce que le narrateur cache"] },
+            { "id": "c2_u22_l02_pr06", "type": "multipleChoice", "prompt": "Quel temps marque généralement une analepse au sein d'un récit au passé simple ?", "options": ["Le plus-que-parfait", "Le présent", "Le futur simple", "Le subjonctif présent"], "answer": "Le plus-que-parfait" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "c2_u22_l02_qz01", "type": "multipleChoice", "prompt": "Qu'est-ce que la focalisation externe interdit au narrateur ?", "options": ["D'accéder aux pensées des personnages", "De décrire les gestes des personnages", "De nommer les lieux de l'action", "D'utiliser le passé simple"], "answer": "D'accéder aux pensées des personnages" },
+            { "id": "c2_u22_l02_qz02", "type": "fillBlank", "prompt": "Le narrateur non fiable se trompe parfois ___-même.", "answer": "lui" },
+            { "id": "c2_u22_l02_qz03", "type": "multipleChoice", "prompt": "What best characterises free indirect discourse (style indirect libre)?", "options": ["It keeps the character's own words but drops the reporting verb and quotation marks", "It always uses quotation marks around the character's exact words", "It can only be used with an omniscient narrator", "It is identical to ordinary indirect speech"], "answer": "It keeps the character's own words but drops the reporting verb and quotation marks" },
+            { "id": "c2_u22_l02_qz04", "type": "trueFalse", "prompt": "La focalisation zéro limite le narrateur au savoir d'un seul personnage.", "options": ["True", "False"], "answer": "False" },
+            { "id": "c2_u22_l02_qz05", "type": "multipleChoice", "prompt": "Quel terme désigne un saut narratif vers le futur du récit ?", "options": ["La prolepse", "L'analepse", "L'ellipse narrative", "La distance narrative"], "answer": "La prolepse" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c2_u22_l03",
+      "level": "C2",
+      "unit": 22,
+      "title": "L'incipit",
+      "description": "The novel's opening as a contract with the reader: the weight of the first sentence, the choice between in medias res and setting the scene, and how to hook without cheating the promise that follows.",
+      "estimatedMinutes": 19,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "La première phrase : un contrat de lecture",
+              "body": "The incipit is not decoration: it is a contract. The first sentence sets expectations for tone, register, and pace that the rest of the novel is bound to honour, or to break only on purpose. A reader forgives almost anything except a first sentence that lied about what kind of book was starting.",
+              "examples": [
+                { "french": "La première phrase promet un ton que tout le roman devra tenir, ou trahir volontairement.", "english": "The first sentence promises a tone the whole novel must honour, or deliberately betray." },
+                { "french": "Le lecteur pardonne une intrigue lente, rarement une promesse d'ouverture non tenue.", "english": "The reader forgives a slow plot, rarely a broken opening promise." },
+                { "french": "Un bon incipit installe le monde du roman en une seule phrase.", "english": "A good incipit sets up the novel's world in a single sentence." },
+                { "french": "La formule choc de la première ligne se paie souvent d'une baisse de rythme ensuite.", "english": "The punchy formula of the first line often costs a drop in pace afterward." },
+                { "french": "Le contrat de lecture se signe dès le premier paragraphe, sans retour possible.", "english": "The reading contract is signed within the first paragraph, with no going back." }
+              ],
+              "tip": "Write the last page of your novel before the first — knowing the ending tells you exactly what promise the opening sentence needs to make."
+            },
+            {
+              "heading": "Entrer in medias res ou planter le décor",
+              "body": "A novel can open in medias res, dropping the reader into an action already underway, or it can first plant le décor — establish setting, mood, and cadre spatio-temporel before any event occurs. Neither is superior; the choice depends on whether suspense or atmosphere is the novel's first priority.",
+              "examples": [
+                { "french": "Entrer in medias res prive le lecteur d'explications, mais capte son attention aussitôt.", "english": "Opening in medias res deprives the reader of explanations, but captures attention immediately." },
+                { "french": "Planter le décor avant l'action installe une atmosphère que l'intrigue viendra ensuite troubler.", "english": "Setting the scene before the action establishes an atmosphere the plot will later disturb." },
+                { "french": "Le cadre spatio-temporel se fixe souvent en une ou deux phrases, jamais davantage.", "english": "The spatio-temporal setting is usually fixed in one or two sentences, never more." },
+                { "french": "Une exposition trop longue épuise la curiosité avant même que l'intrigue commence.", "english": "An overly long exposition exhausts curiosity before the plot has even begun." },
+                { "french": "Le seuil du texte — titre, épigraphe, dédicace — prépare déjà la lecture de l'incipit.", "english": "The text's threshold — title, epigraph, dedication — already prepares the reading of the incipit." }
+              ],
+              "tip": "If your opening scene needs more than a paragraph of pure exposition before anything happens, consider starting later and folding the background in afterward."
+            },
+            {
+              "heading": "Créer l'accroche sans trahir la promesse",
+              "body": "An accroche should intriguer or déconcerter just enough to make the reader keep going, but a hook is only honest if the novel actually delivers on what it suggested. A striking first line that promises a mystery the plot never resolves, or a comic tone the book abandons by chapter two, breaks the very contract it opened with.",
+              "examples": [
+                { "french": "Une bonne accroche suscite la curiosité sans jamais révéler la totalité de l'enjeu.", "english": "A good hook arouses curiosity without ever revealing the full stakes." },
+                { "french": "Intriguer le lecteur ne suffit pas : il faut ensuite tenir la promesse posée dès l'incipit.", "english": "Intriguing the reader is not enough: the promise set up in the incipit must then be kept." },
+                { "french": "Un incipit saisissant peut aussi bien déconcerter que rassurer, selon le projet du roman.", "english": "A striking incipit can either disconcert or reassure, depending on the novel's project." },
+                { "french": "L'explicit répond souvent, des années plus tard dans le texte, à la promesse de l'incipit.", "english": "The closing lines often answer, much later in the text, the promise made by the incipit." },
+                { "french": "Capter l'attention en une phrase ne dispense jamais de la tenir sur trois cents pages.", "english": "Capturing attention in one sentence never excuses failing to sustain it over three hundred pages." }
+              ],
+              "tip": "After drafting a striking opening line, check the whole manuscript against it — every hook it sets up must eventually pay off."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "l-incipit", "french": "l'incipit", "english": "the incipit, the opening lines of a work", "partOfSpeech": "noun", "gender": "m", "plural": "les incipits", "pronunciation": "lan-see-PEET", "example": "Un bon incipit installe le monde du roman en une seule phrase.", "exampleEnglish": "A good incipit sets up the novel's world in a single sentence.", "level": "C2", "category": "novel-openings" },
+            { "id": "l-ouverture-du-roman", "french": "l'ouverture du roman", "english": "the novel's opening", "partOfSpeech": "expression", "pronunciation": "loo-vair-tur du roh-MAHN", "example": "L'ouverture du roman se joue en une page, jamais davantage.", "exampleEnglish": "The novel's opening is played out in one page, never more.", "level": "C2", "category": "novel-openings" },
+            { "id": "la-premiere-phrase", "french": "la première phrase", "english": "the first sentence", "partOfSpeech": "expression", "pronunciation": "lah pruh-myair FRAHZ", "example": "La première phrase promet un ton que tout le roman devra tenir.", "exampleEnglish": "The first sentence promises a tone the whole novel must honour.", "level": "C2", "category": "novel-openings" },
+            { "id": "l-entree-en-matiere", "french": "l'entrée en matière", "english": "the opening move, the lead-in", "partOfSpeech": "expression", "pronunciation": "lahn-tray ahn mah-TYAIR", "example": "L'entrée en matière reste directe, sans détour ni excuse.", "exampleEnglish": "The opening move stays direct, without detour or apology.", "level": "C2", "category": "novel-openings" },
+            { "id": "le-seuil-du-texte", "french": "le seuil du texte", "english": "the text's threshold (title, epigraph, dedication)", "partOfSpeech": "expression", "pronunciation": "luh suh-yuh du TEKST", "example": "Le seuil du texte prépare déjà la lecture de l'incipit.", "exampleEnglish": "The text's threshold already prepares the reading of the incipit.", "level": "C2", "category": "novel-openings" },
+            { "id": "le-contrat-de-lecture", "french": "le contrat de lecture", "english": "the reading contract, the implicit pact with the reader", "partOfSpeech": "expression", "pronunciation": "luh kon-trah duh lek-TUR", "example": "Le contrat de lecture se signe dès le premier paragraphe.", "exampleEnglish": "The reading contract is signed within the first paragraph.", "level": "C2", "category": "novel-openings" },
+            { "id": "l-in-medias-res", "french": "in medias res", "english": "in medias res, into the middle of the action", "partOfSpeech": "expression", "pronunciation": "een MAY-dyahs rays", "example": "Entrer in medias res prive le lecteur d'explications, mais capte son attention.", "exampleEnglish": "Opening in medias res deprives the reader of explanations, but captures attention.", "level": "C2", "category": "novel-openings" },
+            { "id": "planter-le-decor", "french": "planter le décor", "english": "to set the scene", "partOfSpeech": "expression", "pronunciation": "plahn-tay luh day-KOR", "example": "Le roman prend le temps de planter le décor avant la première réplique.", "exampleEnglish": "The novel takes time to set the scene before the first line of dialogue.", "level": "C2", "category": "novel-openings" },
+            { "id": "le-decor", "french": "le décor", "english": "the setting", "partOfSpeech": "noun", "gender": "m", "plural": "les décors", "pronunciation": "luh day-KOR", "example": "Le décor annonce déjà la rupture à venir.", "exampleEnglish": "The setting already announces the break to come.", "level": "C2", "category": "novel-openings" },
+            { "id": "le-cadre-spatio-temporel", "french": "le cadre spatio-temporel", "english": "the spatio-temporal setting", "partOfSpeech": "expression", "pronunciation": "luh KAH-druh spah-syo-tem-poh-REL", "example": "Le cadre spatio-temporel se fixe souvent en une ou deux phrases.", "exampleEnglish": "The spatio-temporal setting is usually fixed in one or two sentences.", "level": "C2", "category": "novel-openings" },
+            { "id": "l-exposition-narrative", "french": "l'exposition narrative", "english": "the narrative exposition", "partOfSpeech": "expression", "pronunciation": "lek-spo-zee-syon nah-rah-TEEV", "example": "Une exposition narrative trop longue épuise la curiosité du lecteur.", "exampleEnglish": "An overly long narrative exposition exhausts the reader's curiosity.", "level": "C2", "category": "novel-openings" },
+            { "id": "accrocher-le-lecteur", "french": "accrocher le lecteur", "english": "to hook the reader", "partOfSpeech": "expression", "pronunciation": "ah-kro-shay luh lek-TUR", "example": "La première phrase doit accrocher le lecteur, ou tout le reste est inutile.", "exampleEnglish": "The first sentence must hook the reader, or everything else is pointless.", "level": "C2", "category": "novel-openings" },
+            { "id": "l-accroche", "french": "l'accroche", "english": "the hook, the opening line", "partOfSpeech": "noun", "gender": "f", "plural": "les accroches", "pronunciation": "lah-KROSH", "example": "Une bonne accroche suscite la curiosité sans révéler tout l'enjeu.", "exampleEnglish": "A good hook arouses curiosity without revealing the full stakes.", "level": "C2", "category": "novel-openings" },
+            { "id": "susciter-la-curiosite", "french": "susciter la curiosité", "english": "to arouse curiosity", "partOfSpeech": "verb", "pronunciation": "sew-see-tay lah kew-ryoh-zee-TAY", "example": "Un bon incipit suscite la curiosité plus qu'il ne l'épuise.", "exampleEnglish": "A good incipit arouses curiosity more than it exhausts it.", "level": "C2", "category": "novel-openings" },
+            { "id": "le-titre", "french": "le titre", "english": "the title", "partOfSpeech": "noun", "gender": "m", "plural": "les titres", "pronunciation": "luh TEE-truh", "example": "Un bon titre ne résume pas le roman : il en oriente discrètement la lecture.", "exampleEnglish": "A good title does not summarise the novel: it discreetly steers how it is read.", "level": "C2", "category": "novel-openings" },
+            { "id": "l-epigraphe", "french": "l'épigraphe", "english": "the epigraph", "partOfSpeech": "noun", "gender": "f", "plural": "les épigraphes", "pronunciation": "lay-pee-GRAHF", "example": "L'épigraphe emprunte à un autre auteur pour éclairer, d'avance, ce qui va suivre.", "exampleEnglish": "The epigraph borrows from another author to shed light, in advance, on what follows.", "level": "C2", "category": "novel-openings" },
+            { "id": "la-dedicace", "french": "la dédicace", "english": "the dedication", "partOfSpeech": "noun", "gender": "f", "plural": "les dédicaces", "pronunciation": "lah day-dee-KAHSS", "example": "Une dédicace, en tête de roman, oriente la lecture sans l'imposer.", "exampleEnglish": "A dedication, at the head of a novel, steers the reading without forcing it.", "level": "C2", "category": "novel-openings" },
+            { "id": "le-prologue", "french": "le prologue", "english": "the prologue", "partOfSpeech": "noun", "gender": "m", "plural": "les prologues", "pronunciation": "luh pro-LOG", "example": "Le prologue se déroule des années avant le reste du roman.", "exampleEnglish": "The prologue takes place years before the rest of the novel.", "level": "C2", "category": "novel-openings" },
+            { "id": "le-chapitre", "french": "le chapitre", "english": "the chapter", "partOfSpeech": "noun", "gender": "m", "plural": "les chapitres", "pronunciation": "luh shah-PEE-truh", "example": "Le premier chapitre porte tout le poids du contrat de lecture.", "exampleEnglish": "The first chapter carries the whole weight of the reading contract.", "level": "C2", "category": "novel-openings" },
+            { "id": "l-explicit", "french": "l'explicit", "english": "the closing lines of a work", "partOfSpeech": "noun", "gender": "m", "plural": "les explicits", "pronunciation": "lex-plee-SEET", "example": "L'explicit répond, des années plus tard dans le texte, à la promesse de l'incipit.", "exampleEnglish": "The closing lines answer, much later in the text, the promise made by the incipit.", "level": "C2", "category": "novel-openings" },
+            { "id": "la-chute", "french": "la chute", "english": "the closing line, the final twist", "partOfSpeech": "noun", "gender": "f", "plural": "les chutes", "pronunciation": "lah SHUET", "example": "Certains romans construisent tout leur incipit en fonction de leur chute.", "exampleEnglish": "Some novels build their entire incipit around their final twist.", "level": "C2", "category": "novel-openings" },
+            { "id": "le-registre", "french": "le registre", "english": "the register, level of language", "partOfSpeech": "noun", "gender": "m", "plural": "les registres", "pronunciation": "luh ruh-ZHEESTR", "example": "Le registre choisi dès l'incipit engage tout le roman.", "exampleEnglish": "The register chosen from the incipit commits the whole novel.", "level": "C2", "category": "novel-openings" },
+            { "id": "le-ton", "french": "le ton", "english": "the tone", "partOfSpeech": "noun", "gender": "m", "plural": "les tons", "pronunciation": "luh TON", "example": "Le ton de la première phrase ne devrait jamais surprendre au chapitre dix.", "exampleEnglish": "The tone of the first sentence should never come as a surprise by chapter ten.", "level": "C2", "category": "novel-openings" },
+            { "id": "l-atmosphere", "french": "l'atmosphère", "english": "the atmosphere", "partOfSpeech": "noun", "gender": "f", "plural": "les atmosphères", "pronunciation": "laht-mos-FAIR", "example": "L'atmosphère se construit avant même que l'action ne commence.", "exampleEnglish": "The atmosphere is built even before the action begins.", "level": "C2", "category": "novel-openings" },
+            { "id": "le-lecteur", "french": "le lecteur", "english": "the reader", "partOfSpeech": "noun", "gender": "m", "plural": "les lecteurs", "pronunciation": "luh lek-TUR", "example": "Le lecteur signe le contrat de lecture sans même s'en rendre compte.", "exampleEnglish": "The reader signs the reading contract without even realising it.", "level": "C2", "category": "novel-openings" },
+            { "id": "immerger", "french": "immerger", "english": "to immerse", "partOfSpeech": "verb", "pronunciation": "ee-mair-ZHAY", "example": "L'incipit immerge le lecteur avant même qu'il ne sache où il se trouve.", "exampleEnglish": "The incipit immerses the reader before they even know where they are.", "level": "C2", "category": "novel-openings" },
+            { "id": "l-immersion", "french": "l'immersion", "english": "the immersion", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lee-mair-SYON", "example": "L'immersion totale dès la première page reste un pari risqué.", "exampleEnglish": "Total immersion from the very first page remains a risky bet.", "level": "C2", "category": "novel-openings" },
+            { "id": "capter-l-attention", "french": "capter l'attention", "english": "to capture the attention", "partOfSpeech": "expression", "pronunciation": "kap-tay lah-tahn-SYON", "example": "Capter l'attention en une phrase ne dispense jamais de la tenir ensuite.", "exampleEnglish": "Capturing attention in one sentence never excuses failing to sustain it afterward.", "level": "C2", "category": "novel-openings" },
+            { "id": "la-formule-choc", "french": "la formule choc", "english": "the punchy line, the striking opening phrase", "partOfSpeech": "noun", "gender": "f", "plural": "les formules choc", "pronunciation": "lah for-mewl SHOK", "example": "La formule choc de la première ligne se paie parfois d'une baisse de rythme ensuite.", "exampleEnglish": "The punchy formula of the first line sometimes costs a drop in pace afterward.", "level": "C2", "category": "novel-openings" },
+            { "id": "le-suspense", "french": "le suspense", "english": "the suspense", "partOfSpeech": "noun", "gender": "m", "plural": "les suspenses", "pronunciation": "luh soos-PAHNSS", "example": "Le suspense de l'incipit repose entièrement sur ce qu'il choisit de taire.", "exampleEnglish": "The incipit's suspense rests entirely on what it chooses to leave unsaid.", "level": "C2", "category": "novel-openings" },
+            { "id": "intriguer", "french": "intriguer", "english": "to intrigue", "partOfSpeech": "verb", "pronunciation": "an-tree-GAY", "example": "Intriguer le lecteur ne suffit pas : il faut ensuite tenir la promesse.", "exampleEnglish": "Intriguing the reader is not enough: the promise must then be kept.", "level": "C2", "category": "novel-openings" },
+            { "id": "deconcerter", "french": "déconcerter", "english": "to disconcert, to throw off", "partOfSpeech": "verb", "pronunciation": "day-kon-sair-TAY", "example": "Un incipit peut aussi bien déconcerter que rassurer, selon le projet du roman.", "exampleEnglish": "An incipit can either disconcert or reassure, depending on the novel's project.", "level": "C2", "category": "novel-openings" },
+            { "id": "la-promesse-narrative", "french": "la promesse narrative", "english": "the narrative promise", "partOfSpeech": "expression", "pronunciation": "lah pro-mess nah-rah-TEEV", "example": "Chaque incipit pose une promesse narrative que le roman devra honorer.", "exampleEnglish": "Every incipit sets a narrative promise the novel will have to honour.", "level": "C2", "category": "novel-openings" },
+            { "id": "tenir-sa-promesse", "french": "tenir sa promesse", "english": "to keep one's promise", "partOfSpeech": "expression", "pronunciation": "tuh-neer sah pro-MESS", "example": "Un roman qui ne tient pas sa promesse d'ouverture déçoit, même bien écrit.", "exampleEnglish": "A novel that does not keep its opening promise disappoints, even if well written.", "level": "C2", "category": "novel-openings" },
+            { "id": "presenter", "french": "présenter", "english": "to introduce, to present (a character or setting)", "partOfSpeech": "verb", "pronunciation": "pray-zahn-TAY", "example": "L'incipit présente le décor avant de présenter le personnage lui-même.", "exampleEnglish": "The incipit introduces the setting before introducing the character himself.", "level": "C2", "category": "novel-openings" },
+            { "id": "saisissant", "french": "saisissant", "english": "striking, arresting", "partOfSpeech": "adjective", "pronunciation": "seh-zee-SAHN", "example": "L'image d'ouverture est saisissante : elle résume tout le roman à venir.", "exampleEnglish": "The opening image is striking: it sums up the whole novel to come.", "level": "C2", "category": "novel-openings" },
+            { "id": "deroutant", "french": "déroutant", "english": "disorienting, unsettling", "partOfSpeech": "adjective", "pronunciation": "day-roo-TAHN", "example": "Un incipit déroutant peut fonctionner, à condition d'éclairer plus tard sa logique.", "exampleEnglish": "A disorienting incipit can work, provided its logic is clarified later.", "level": "C2", "category": "novel-openings" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Les temps de l'ouverture : présent de narration ou passé simple",
+              "body": "Most classical incipits open in the passé simple, the tense of literary narration proper, but a growing number open in the présent de narration to collapse the distance between reader and event, giving the very first sentence an immediacy the passé simple cannot match. The choice made in the first sentence is rarely reversed later — it sets the temporal register for the whole book.",
+              "examples": [
+                { "french": "Ce matin-là, il ouvrit les yeux avant l'aube, sans savoir pourquoi.", "english": "That morning, he opened his eyes before dawn, without knowing why.", "note": "passé simple: classical narrative distance" },
+                { "french": "Ce matin, il ouvre les yeux avant l'aube, sans savoir pourquoi.", "english": "This morning, he opens his eyes before dawn, without knowing why.", "note": "présent de narration: immediate, almost cinematic" },
+                { "french": "Le présent de narration resserre la distance entre le lecteur et l'événement raconté.", "english": "The present of narration tightens the distance between the reader and the event told." },
+                { "french": "Le passé simple installe d'emblée un narrateur qui domine son récit de haut.", "english": "The passé simple establishes from the outset a narrator who oversees his story from above." },
+                { "french": "Le choix du temps verbal, dans l'incipit, se maintient rarement à moitié.", "english": "The choice of tense, in the incipit, is rarely maintained only halfway." }
+              ],
+              "tip": "Read your opening paragraph in both tenses before committing — the présent de narration usually asks for shorter, punchier sentences than the passé simple does."
+            },
+            {
+              "heading": "L'inversion et la mise en relief dans la phrase d'ouverture",
+              "body": "An opening sentence often inverts the expected word order — placing a complement, an adverb, or an adjective before the subject — to throw weight onto the very first word the reader encounters. This mise en relief is a deliberate craft choice: the word that opens the book is rarely there by accident.",
+              "examples": [
+                { "french": "Loin de la ville, une maison attendait, seule, depuis des années.", "english": "Far from the city, a house had been waiting, alone, for years.", "note": "adverbial phrase fronted for atmosphere" },
+                { "french": "Jamais on n'avait vu un hiver pareil dans ce village.", "english": "Never had such a winter been seen in this village.", "note": "jamais + inversion for emphasis" },
+                { "french": "Grande était la maison, et pourtant personne n'y vivait plus.", "english": "Great was the house, and yet no one lived there anymore.", "note": "adjective fronted before the verb" },
+                { "french": "C'est un mardi, à l'aube, que tout a commencé.", "english": "It was on a Tuesday, at dawn, that everything began.", "note": "c'est... que construction highlighting the time" },
+                { "french": "La mise en relief d'une phrase d'ouverture guide le regard du lecteur avant même le sens.", "english": "The emphatic structure of an opening sentence guides the reader's eye before it guides meaning." }
+              ],
+              "tip": "Whatever word or phrase you front in the opening sentence, make sure it is the one idea you most want the reader to carry into chapter two."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "c2_u22_l03_li01", "type": "listenChoose", "prompt": "Listen. Which term is being described?", "french": "Ce procédé fait entrer le lecteur directement dans une action déjà commencée.", "options": ["L'in medias res", "Le prologue", "L'épigraphe", "La dédicace"], "answer": "L'in medias res" },
+            { "id": "c2_u22_l03_li02", "type": "listenChoose", "prompt": "Listen. Which term is being described?", "french": "Cette phrase engage le lecteur à poursuivre sa lecture sans révéler tout l'enjeu.", "options": ["L'accroche", "L'explicit", "Le chapitre", "Le seuil du texte"], "answer": "L'accroche" },
+            { "id": "c2_u22_l03_li03", "type": "listenType", "prompt": "Listen and type this sentence exactly.", "french": "Un bon incipit installe le monde du roman en une seule phrase.", "answer": "Un bon incipit installe le monde du roman en une seule phrase.", "acceptedAnswers": ["un bon incipit installe le monde du roman en une seule phrase"] },
+            { "id": "c2_u22_l03_li04", "type": "dictation", "prompt": "Dictation: write down this sentence exactly.", "french": "Le contrat de lecture se signe dès le premier paragraphe, sans retour possible.", "answer": "Le contrat de lecture se signe dès le premier paragraphe, sans retour possible.", "acceptedAnswers": ["le contrat de lecture se signe des le premier paragraphe sans retour possible"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "c2_u22_l03_sp01", "type": "speak", "prompt": "Say this line as though pitching your novel's opening to an editor.", "french": "Un bon incipit installe le monde du roman en une seule phrase.", "english": "A good incipit sets up the novel's world in a single sentence.", "tip": "Slow down on 'une seule phrase' — the whole claim rests on that constraint." },
+            { "id": "c2_u22_l03_sp02", "type": "speak", "prompt": "Deliver this line as a firm rule you are teaching a beginner novelist.", "french": "Le lecteur pardonne une intrigue lente, rarement une promesse d'ouverture non tenue.", "english": "The reader forgives a slow plot, rarely a broken opening promise.", "tip": "Contrast 'pardonne' and 'rarement' with your tone — warm, then suddenly stern." },
+            { "id": "c2_u22_l03_sp03", "type": "speak", "prompt": "Recite this line about hooks as advice to a writing group.", "french": "Une bonne accroche suscite la curiosité sans jamais révéler la totalité de l'enjeu.", "english": "A good hook arouses curiosity without ever revealing the full stakes.", "tip": "Land firmly on 'sans jamais' — that is the discipline the sentence is teaching." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Incipit sans titre",
+              "french": "La maison n'avait pas de porte, seulement un trou dans le mur que tout le monde appelait, par habitude, l'entrée. C'est un mardi, à l'aube, que Camille y posa le pied pour la première fois depuis vingt ans. Elle n'avait rien prévu de dire. Elle n'avait même pas prévu de venir. Et pourtant, la voici, debout sur ce seuil sans porte, incapable de faire un pas de plus, ni d'en faire un en arrière.",
+              "english": "The house had no door, only a hole in the wall that everyone, out of habit, called the entrance. It was on a Tuesday, at dawn, that Camille set foot there for the first time in twenty years. She had planned nothing to say. She had not even planned to come. And yet, here she is, standing on this doorless threshold, unable to take one more step forward, or one step back.",
+              "questions": [
+                { "id": "c2_u22_l03_rd01", "type": "multipleChoice", "prompt": "Which opening strategy does this incipit primarily use?", "options": ["It plants a striking image (the doorless house) before the character even acts", "It opens fully in medias res, mid-action, with no scene-setting at all", "It opens with an epigraph borrowed from another author", "It begins with a long, unbroken block of exposition about Camille's past"], "answer": "It plants a striking image (the doorless house) before the character even acts" },
+                { "id": "c2_u22_l03_rd02", "type": "multipleChoice", "prompt": "What tense does the final sentence shift into, and what effect does that produce?", "options": ["The présent de narration, tightening the distance to the moment", "The plus-que-parfait, pushing the scene further into the past", "The futur simple, promising what will happen next", "The imparfait, softening the scene into a habitual memory"], "answer": "The présent de narration, tightening the distance to the moment" },
+                { "id": "c2_u22_l03_rd03", "type": "trueFalse", "prompt": "The passage tells the reader exactly why Camille left twenty years earlier.", "options": ["True", "False"], "answer": "False" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "c2_u22_l03_wr01", "type": "translate", "prompt": "Translate into French.", "english": "A good hook arouses curiosity without ever revealing the full stakes.", "answer": "Une bonne accroche suscite la curiosité sans jamais révéler la totalité de l'enjeu.", "acceptedAnswers": ["une bonne accroche suscite la curiosite sans jamais reveler la totalite de l'enjeu", "une bonne accroche suscite la curiosite sans jamais reveler la totalite de lenjeu"] },
+            { "id": "c2_u22_l03_wr02", "type": "arrangeWords", "prompt": "Rebuild this sentence about the incipit.", "words": ["installe", "en", "monde", "Un", "incipit", "bon", "le", "du", "roman", "phrase", "une", "seule"], "answer": "Un bon incipit installe le monde du roman en une seule phrase", "english": "A good incipit sets up the novel's world in a single sentence." },
+            { "id": "c2_u22_l03_wr03", "type": "fillBlank", "prompt": "Le contrat de ___ se signe dès le premier paragraphe, sans retour possible.", "answer": "lecture", "tip": "The implicit pact between the writer and their reader." }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "c2_u22_l03_pr01", "type": "multipleChoice", "prompt": "Quel terme désigne les toutes premières lignes d'une œuvre ?", "options": ["L'incipit", "L'explicit", "Le prologue", "Le seuil du texte"], "answer": "L'incipit" },
+            { "id": "c2_u22_l03_pr02", "type": "match", "prompt": "Match each term with its meaning.", "pairs": [ { "french": "l'in medias res", "english": "opening directly inside the action" }, { "french": "planter le décor", "english": "establishing setting and mood before the action" }, { "french": "l'explicit", "english": "the closing lines of a work" }, { "french": "la promesse narrative", "english": "what the opening commits the novel to deliver" } ] },
+            { "id": "c2_u22_l03_pr03", "type": "fillBlank", "prompt": "Intriguer le lecteur ne suffit pas : il faut ensuite ___ la promesse posée dès l'incipit.", "answer": "tenir" },
+            { "id": "c2_u22_l03_pr04", "type": "trueFalse", "prompt": "Une exposition narrative trop longue épuise généralement la curiosité du lecteur.", "options": ["True", "False"], "answer": "True" },
+            { "id": "c2_u22_l03_pr05", "type": "translate", "prompt": "Translate: The reader forgives a slow plot, rarely a broken opening promise.", "english": "The reader forgives a slow plot, rarely a broken opening promise.", "answer": "Le lecteur pardonne une intrigue lente, rarement une promesse d'ouverture non tenue.", "acceptedAnswers": ["le lecteur pardonne une intrigue lente, rarement une promesse d'ouverture non tenue", "le lecteur pardonne une intrigue lente rarement une promesse douverture non tenue"] },
+            { "id": "c2_u22_l03_pr06", "type": "multipleChoice", "prompt": "Quel temps donne à la phrase d'ouverture une immédiateté presque cinématographique ?", "options": ["Le présent de narration", "Le passé simple", "Le plus-que-parfait", "Le conditionnel passé"], "answer": "Le présent de narration" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "c2_u22_l03_qz01", "type": "multipleChoice", "prompt": "Que promet essentiellement la première phrase d'un roman ?", "options": ["Un contrat de lecture que le roman devra honorer", "Le nombre total de chapitres du livre", "Le nom complet de tous les personnages", "La date exacte de publication du roman"], "answer": "Un contrat de lecture que le roman devra honorer" },
+            { "id": "c2_u22_l03_qz02", "type": "fillBlank", "prompt": "Le ___ du texte — titre, épigraphe, dédicace — prépare déjà la lecture de l'incipit.", "answer": "seuil" },
+            { "id": "c2_u22_l03_qz03", "type": "multipleChoice", "prompt": "What is the risk of an opening that promises a mystery or comic tone the novel never delivers?", "options": ["It breaks the reading contract set up by the incipit", "It automatically makes the prose more literary", "It has no effect, since only the ending matters", "It guarantees a stronger explicit"], "answer": "It breaks the reading contract set up by the incipit" },
+            { "id": "c2_u22_l03_qz04", "type": "trueFalse", "prompt": "Entrer in medias res signifie planter longuement le décor avant toute action.", "options": ["True", "False"], "answer": "False", "tip": "In medias res means the opposite: dropping straight into action already underway." },
+            { "id": "c2_u22_l03_qz05", "type": "multipleChoice", "prompt": "Quel terme désigne les toutes dernières lignes d'une œuvre, qui répondent souvent à l'incipit ?", "options": ["L'explicit", "L'entrée en matière", "Le seuil du texte", "L'épigraphe"], "answer": "L'explicit" }
+          ]
+        }
+      ]
+    }
+  ]
+}

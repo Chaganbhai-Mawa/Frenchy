@@ -1,0 +1,1264 @@
+{
+  "id": "c1_u06",
+  "level": "C1",
+  "unit": 6,
+  "title": "Scientific French",
+  "subtitle": "Write and read like a researcher: impersonal syntax, measured claims, honest methods, and popularising without betraying the science",
+  "icon": "⚗️",
+  "lessons": [
+    {
+      "id": "c1_u06_l01",
+      "level": "C1",
+      "unit": 6,
+      "title": "Le discours scientifique",
+      "description": "Learn how French science removes the author from the sentence, and how it says \"probably\" in twenty calibrated ways.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "L'effacement énonciatif — the vanishing author",
+              "body": "French academic writing traditionally hides the person who writes. The « je » of the essayist disappears behind impersonal turns, passives, and a « nous » that means the discipline rather than the individual. This is not modesty: it signals that the claim should hold whoever states it. Anglophone journals have moved toward « we found »; French journals, especially in the humanities and in older traditions, still prefer « il ressort de nos données que ».",
+              "examples": [
+                { "french": "Il ressort de ces observations que le phénomène est saisonnier.", "english": "It emerges from these observations that the phenomenon is seasonal." },
+                { "french": "On note une diminution régulière de la concentration.", "english": "A steady decrease in concentration is observed.", "note": "« on » here is the standard scientific subject, not \"someone\"" },
+                { "french": "Les échantillons ont été prélevés à intervalles réguliers.", "english": "The samples were collected at regular intervals.", "note": "passive + no agent = the standard method sentence" },
+                { "french": "Nous montrerons dans un premier temps que la corrélation est faible.", "english": "We shall first show that the correlation is weak.", "note": "« nous » of the author, singular in reality" },
+                { "french": "Le présent article se propose d'examiner cette divergence.", "english": "The present article sets out to examine this divergence.", "note": "the text itself becomes the subject" }
+              ],
+              "tip": "If you catch yourself writing « je pense que », replace it with « tout porte à croire que » or « il semble que » — the claim survives, the ego leaves."
+            },
+            {
+              "heading": "Modaliser — the art of not overclaiming",
+              "body": "A scientific sentence in French almost never says a thing flatly. It calibrates. Between « c'est » and « ce n'est pas » there is a whole ladder: « il est établi que », « il apparaît que », « il semblerait que », « on ne peut exclure que ». Choosing the right rung is a competence in itself, and examiners and reviewers read that choice as a measure of your seriousness. Overclaiming is the single most common fault of a non-native scientific text.",
+              "examples": [
+                { "french": "Il est désormais établi que ce mécanisme intervient dès l'enfance.", "english": "It is now established that this mechanism comes into play from childhood.", "note": "top rung — only for consensus" },
+                { "french": "Tout porte à croire que les deux variables évoluent ensemble.", "english": "Everything suggests that the two variables evolve together." },
+                { "french": "Il semblerait que l'effet s'atténue au-delà de six mois.", "english": "It would seem that the effect fades beyond six months.", "note": "conditional = deliberate distance" },
+                { "french": "On ne saurait conclure à une relation causale sur ce seul indice.", "english": "One could not conclude that there is a causal relationship on this single indication.", "note": "« ne saurait » = refined, softened impossibility" },
+                { "french": "Ces résultats demeurent à confirmer sur un échantillon plus large.", "english": "These results remain to be confirmed on a larger sample." }
+              ],
+              "tip": "« Il semblerait que » takes the subjunctive; « il semble que » usually does too. « Il me semble que » takes the indicative — the personal version is more confident."
+            },
+            {
+              "heading": "Le lexique de la retenue",
+              "body": "Beyond verbs, French science leans on a small family of nouns and adverbs that mark degree: « une tendance », « un indice », « une piste », « vraisemblablement », « a priori », « sous réserve de ». These words are not decorative padding; each one names a precise epistemic status. A « constat » is what you saw; a « résultat » is what your method produced; a « conclusion » is what you are prepared to defend. Confusing the three is a substantive error, not a stylistic one.",
+              "examples": [
+                { "french": "Ces données constituent un indice, non une preuve.", "english": "These data constitute an indication, not a proof." },
+                { "french": "La tendance observée mérite d'être étayée par d'autres travaux.", "english": "The observed trend deserves to be supported by further work." },
+                { "french": "A priori, rien ne distingue les deux groupes.", "english": "On the face of it, nothing distinguishes the two groups." },
+                { "french": "Ce chiffre est donné sous réserve de vérification.", "english": "This figure is given subject to verification." },
+                { "french": "Dans l'état actuel des connaissances, la question reste ouverte.", "english": "In the current state of knowledge, the question remains open." }
+              ],
+              "tip": "« A priori » in French means \"at first sight, before examination\" — not the English philosophical \"a priori\". Scientists use it constantly in conversation."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "le-discours-scientifique", "french": "le discours scientifique", "english": "scientific discourse", "partOfSpeech": "noun", "gender": "m", "plural": "les discours scientifiques", "pronunciation": "luh dees-KOOR syahn-tee-FEEK", "example": "Le discours scientifique se reconnaît à sa prudence, non à son vocabulaire.", "exampleEnglish": "Scientific discourse is recognisable by its caution, not by its vocabulary.", "level": "C1", "category": "science" },
+            { "id": "l-objectivite", "french": "l'objectivité", "english": "objectivity", "partOfSpeech": "noun", "gender": "f", "plural": "les objectivités", "pronunciation": "loh-zhek-tee-vee-TAY", "example": "L'objectivité n'est pas l'absence de point de vue, mais son contrôle.", "exampleEnglish": "Objectivity is not the absence of a viewpoint, but its control.", "level": "C1", "category": "science" },
+            { "id": "l-effacement-enonciatif", "french": "l'effacement énonciatif", "english": "the erasure of the speaking subject", "partOfSpeech": "noun", "gender": "m", "plural": "les effacements énonciatifs", "pronunciation": "leh-fahs-MAHN ay-non-see-ah-TEEF", "example": "L'effacement énonciatif donne au texte son air d'impersonnalité.", "exampleEnglish": "The erasure of the speaking subject gives the text its impersonal air.", "level": "C1", "category": "science" },
+            { "id": "la-modalisation", "french": "la modalisation", "english": "modalisation, hedging", "partOfSpeech": "noun", "gender": "f", "plural": "les modalisations", "pronunciation": "lah moh-dah-lee-zah-SYON", "example": "Sans modalisation, une affirmation scientifique devient une opinion.", "exampleEnglish": "Without hedging, a scientific assertion becomes an opinion.", "level": "C1", "category": "science" },
+            { "id": "modaliser", "french": "modaliser", "english": "to hedge, to qualify a claim", "partOfSpeech": "verb", "pronunciation": "moh-dah-lee-ZAY", "example": "Il faut modaliser cette phrase : elle promet plus que les données.", "exampleEnglish": "This sentence needs hedging: it promises more than the data do.", "level": "C1", "category": "science" },
+            { "id": "la-rigueur", "french": "la rigueur", "english": "rigour", "partOfSpeech": "noun", "gender": "f", "plural": "les rigueurs", "pronunciation": "lah ree-GUHR", "example": "La rigueur consiste à dire exactement ce que l'on sait.", "exampleEnglish": "Rigour consists in saying exactly what one knows.", "level": "C1", "category": "science" },
+            { "id": "la-demarche", "french": "la démarche", "english": "the approach, the procedure", "partOfSpeech": "noun", "gender": "f", "plural": "les démarches", "pronunciation": "lah day-MARSH", "example": "La démarche adoptée relève de l'analyse comparative.", "exampleEnglish": "The approach adopted falls within comparative analysis.", "level": "C1", "category": "science" },
+            { "id": "l-hypothese", "french": "l'hypothèse", "english": "the hypothesis", "partOfSpeech": "noun", "gender": "f", "plural": "les hypothèses", "pronunciation": "lee-poh-TEZ", "example": "L'hypothèse de départ n'a été que partiellement confirmée.", "exampleEnglish": "The initial hypothesis was only partially confirmed.", "level": "C1", "category": "science" },
+            { "id": "un-postulat", "french": "un postulat", "english": "a premise, a postulate", "partOfSpeech": "noun", "gender": "m", "plural": "des postulats", "pronunciation": "uhn poh-stew-LAH", "example": "Ce raisonnement repose sur un postulat jamais discuté.", "exampleEnglish": "This reasoning rests on a premise that is never discussed.", "level": "C1", "category": "science" },
+            { "id": "postuler", "french": "postuler", "english": "to postulate, to assume", "partOfSpeech": "verb", "pronunciation": "poh-stew-LAY", "example": "Nous postulons que les deux populations sont comparables.", "exampleEnglish": "We assume that the two populations are comparable.", "level": "C1", "category": "science" },
+            { "id": "le-constat", "french": "le constat", "english": "the observation, the finding", "partOfSpeech": "noun", "gender": "m", "plural": "les constats", "pronunciation": "luh kon-STAH", "example": "Le constat est net ; son interprétation l'est beaucoup moins.", "exampleEnglish": "The finding is clear; its interpretation far less so.", "level": "C1", "category": "science" },
+            { "id": "constater", "french": "constater", "english": "to observe, to note (a fact)", "partOfSpeech": "verb", "pronunciation": "kon-stah-TAY", "example": "On constate un écart systématique entre les deux séries.", "exampleEnglish": "A systematic gap between the two series is observed.", "level": "C1", "category": "science" },
+            { "id": "demontrer", "french": "démontrer", "english": "to demonstrate, to prove", "partOfSpeech": "verb", "pronunciation": "day-mon-TRAY", "example": "Ces travaux ne démontrent rien ; ils suggèrent.", "exampleEnglish": "This work demonstrates nothing; it suggests.", "level": "C1", "category": "science" },
+            { "id": "la-preuve", "french": "la preuve", "english": "the proof, the evidence", "partOfSpeech": "noun", "gender": "f", "plural": "les preuves", "pronunciation": "lah PRUHV", "example": "L'absence de preuve n'est pas la preuve de l'absence.", "exampleEnglish": "Absence of evidence is not evidence of absence.", "level": "C1", "category": "science" },
+            { "id": "etayer", "french": "étayer", "english": "to support, to back up (a claim)", "partOfSpeech": "verb", "pronunciation": "ay-tay-YAY", "example": "Cette intuition mériterait d'être étayée par des chiffres.", "exampleEnglish": "This intuition would deserve to be backed up with figures.", "level": "C1", "category": "science" },
+            { "id": "attenuer", "french": "atténuer", "english": "to soften, to tone down", "partOfSpeech": "verb", "pronunciation": "ah-tay-new-AY", "example": "Le rapporteur a demandé d'atténuer la formulation de la conclusion.", "exampleEnglish": "The reviewer asked for the wording of the conclusion to be toned down.", "level": "C1", "category": "science" },
+            { "id": "la-prudence-epistemique", "french": "la prudence épistémique", "english": "epistemic caution", "partOfSpeech": "noun", "gender": "f", "plural": "les prudences épistémiques", "pronunciation": "lah prew-DAHNS ay-pee-stay-MEEK", "example": "La prudence épistémique n'est pas de la timidité rédactionnelle.", "exampleEnglish": "Epistemic caution is not editorial timidity.", "level": "C1", "category": "science" },
+            { "id": "il-semblerait-que", "french": "il semblerait que", "english": "it would seem that", "partOfSpeech": "expression", "pronunciation": "eel sahn-bluh-REH kuh", "example": "Il semblerait que l'effet disparaisse au-delà d'un an.", "exampleEnglish": "It would seem that the effect disappears beyond one year.", "level": "C1", "category": "science" },
+            { "id": "il-convient-de", "french": "il convient de", "english": "it is appropriate to, one should", "partOfSpeech": "expression", "pronunciation": "eel kon-VYAHN duh", "example": "Il convient de distinguer corrélation et causalité.", "exampleEnglish": "One should distinguish correlation from causation.", "level": "C1", "category": "science" },
+            { "id": "il-ressort-de", "french": "il ressort de", "english": "it emerges from", "partOfSpeech": "expression", "pronunciation": "eel ruh-SOR duh", "example": "Il ressort de cette enquête que le phénomène est urbain.", "exampleEnglish": "It emerges from this survey that the phenomenon is urban.", "level": "C1", "category": "science" },
+            { "id": "force-est-de-constater", "french": "force est de constater que", "english": "one cannot but observe that", "partOfSpeech": "expression", "pronunciation": "FORS eh duh kon-stah-TAY kuh", "example": "Force est de constater que le modèle échoue sur les cas extrêmes.", "exampleEnglish": "One cannot but observe that the model fails on extreme cases.", "level": "C1", "category": "science" },
+            { "id": "tout-porte-a-croire-que", "french": "tout porte à croire que", "english": "everything suggests that", "partOfSpeech": "expression", "pronunciation": "too PORT ah krwahr kuh", "example": "Tout porte à croire que le mécanisme est identique chez l'adulte.", "exampleEnglish": "Everything suggests that the mechanism is identical in adults.", "level": "C1", "category": "science" },
+            { "id": "sous-reserve-de-verification", "french": "sous réserve de vérification", "english": "subject to verification", "partOfSpeech": "expression", "pronunciation": "soo ray-ZERV duh vay-ree-fee-kah-SYON", "example": "Ces valeurs sont communiquées sous réserve de vérification.", "exampleEnglish": "These values are communicated subject to verification.", "level": "C1", "category": "science" },
+            { "id": "dans-l-etat-actuel-des-connaissances", "french": "dans l'état actuel des connaissances", "english": "in the current state of knowledge", "partOfSpeech": "expression", "pronunciation": "dahn lay-TAH ak-tew-EL day koh-neh-SAHNS", "example": "Dans l'état actuel des connaissances, aucun traitement n'est recommandé.", "exampleEnglish": "In the current state of knowledge, no treatment is recommended.", "level": "C1", "category": "science" },
+            { "id": "vraisemblablement", "french": "vraisemblablement", "english": "in all likelihood", "partOfSpeech": "adverb", "pronunciation": "vreh-sahn-blah-bluh-MAHN", "example": "L'anomalie provient vraisemblablement d'une erreur de calibrage.", "exampleEnglish": "The anomaly in all likelihood comes from a calibration error.", "level": "C1", "category": "science" },
+            { "id": "plausible", "french": "plausible", "english": "plausible", "partOfSpeech": "adjective", "pronunciation": "ploh-ZEEBL", "example": "L'explication est plausible, mais elle reste invérifiée.", "exampleEnglish": "The explanation is plausible, but it remains unverified.", "level": "C1", "category": "science" },
+            { "id": "probant", "french": "probant", "english": "conclusive, convincing (as evidence)", "partOfSpeech": "adjective", "pronunciation": "proh-BAHN", "example": "Aucun élément probant ne vient appuyer cette thèse.", "exampleEnglish": "No conclusive element supports this thesis.", "level": "C1", "category": "science" },
+            { "id": "la-tournure-impersonnelle", "french": "la tournure impersonnelle", "english": "the impersonal construction", "partOfSpeech": "noun", "gender": "f", "plural": "les tournures impersonnelles", "pronunciation": "lah toor-NEWR ahn-per-soh-NEL", "example": "La tournure impersonnelle évite d'attribuer l'affirmation à quelqu'un.", "exampleEnglish": "The impersonal construction avoids attributing the claim to anyone.", "level": "C1", "category": "grammar" },
+            { "id": "la-voix-passive", "french": "la voix passive", "english": "the passive voice", "partOfSpeech": "noun", "gender": "f", "plural": "les voix passives", "pronunciation": "lah vwah pah-SEEV", "example": "La voix passive domine la section « Matériel et méthodes ».", "exampleEnglish": "The passive voice dominates the \"Materials and methods\" section.", "level": "C1", "category": "grammar" },
+            { "id": "refuter", "french": "réfuter", "english": "to refute", "partOfSpeech": "verb", "pronunciation": "ray-few-TAY", "example": "Une hypothèse qu'on ne peut pas réfuter n'est pas scientifique.", "exampleEnglish": "A hypothesis that cannot be refuted is not scientific.", "level": "C1", "category": "science" },
+            { "id": "la-portee", "french": "la portée", "english": "the scope, the reach", "partOfSpeech": "noun", "gender": "f", "plural": "les portées", "pronunciation": "lah por-TAY", "example": "La portée de ces conclusions se limite au contexte européen.", "exampleEnglish": "The scope of these conclusions is limited to the European context.", "level": "C1", "category": "science" },
+            { "id": "la-nuance", "french": "la nuance", "english": "the nuance, the shade of meaning", "partOfSpeech": "noun", "gender": "f", "plural": "les nuances", "pronunciation": "lah new-AHNS", "example": "La nuance entre « indiquer » et « prouver » est ici décisive.", "exampleEnglish": "The nuance between \"to indicate\" and \"to prove\" is decisive here.", "level": "C1", "category": "science" },
+            { "id": "l-indice", "french": "l'indice", "english": "the indication, the clue", "partOfSpeech": "noun", "gender": "m", "plural": "les indices", "pronunciation": "lahn-DEES", "example": "Nous disposons d'indices convergents, non d'une démonstration.", "exampleEnglish": "We have converging indications, not a demonstration.", "level": "C1", "category": "science" },
+            { "id": "la-tendance", "french": "la tendance", "english": "the trend, the tendency", "partOfSpeech": "noun", "gender": "f", "plural": "les tendances", "pronunciation": "lah tahn-DAHNS", "example": "La tendance s'inverse à partir du troisième trimestre.", "exampleEnglish": "The trend reverses from the third quarter onwards.", "level": "C1", "category": "science" },
+            { "id": "a-priori", "french": "a priori", "english": "at first sight, on the face of it", "partOfSpeech": "adverb", "pronunciation": "ah pree-oh-REE", "example": "A priori, les deux protocoles sont équivalents.", "exampleEnglish": "On the face of it, the two protocols are equivalent.", "level": "C1", "category": "science" },
+            { "id": "on-ne-saurait", "french": "on ne saurait", "english": "one could not (politely absolute)", "partOfSpeech": "expression", "pronunciation": "on nuh soh-REH", "example": "On ne saurait généraliser à partir de six cas.", "exampleEnglish": "One could not generalise from six cases.", "level": "C1", "category": "science" },
+            { "id": "il-est-etabli-que", "french": "il est établi que", "english": "it is established that", "partOfSpeech": "expression", "pronunciation": "eel eh-tay-tah-BLEE kuh", "example": "Il est établi que le facteur climatique joue un rôle majeur.", "exampleEnglish": "It is established that the climate factor plays a major role.", "level": "C1", "category": "science" },
+            { "id": "sembler", "french": "sembler", "english": "to seem", "partOfSpeech": "verb", "pronunciation": "sahn-BLAY", "example": "Les deux courbes semblent suivre le même rythme.", "exampleEnglish": "The two curves seem to follow the same rhythm.", "level": "C1", "category": "science" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Les constructions impersonnelles",
+              "body": "An impersonal construction uses a dummy « il » that refers to nothing: « il apparaît que », « il importe de », « il est admis que ». Followed by « que », the mood depends on the certainty carried by the verb: assertive expressions (« il est établi que », « il apparaît que », « il ressort que ») take the indicative, while doubt, necessity and possibility (« il se peut que », « il est possible que », « il convient que ») take the subjunctive. Negating or questioning an assertive one usually flips it to the subjunctive: « il n'est pas établi que ce soit le cas ».",
+              "examples": [
+                { "french": "Il apparaît que la variation est saisonnière.", "english": "It appears that the variation is seasonal.", "note": "assertive → indicative" },
+                { "french": "Il se peut que la variation soit saisonnière.", "english": "The variation may be seasonal.", "note": "possibility → subjunctive" },
+                { "french": "Il n'est pas établi que ce mécanisme soit universel.", "english": "It is not established that this mechanism is universal.", "note": "negated assertion → subjunctive" },
+                { "french": "Il importe de préciser les conditions de mesure.", "english": "It is important to specify the measurement conditions.", "note": "« il importe de » + infinitive" },
+                { "french": "Il convient de rappeler que l'échantillon reste modeste.", "english": "It should be recalled that the sample remains modest." },
+                { "french": "Il en va de même pour la seconde série.", "english": "The same holds for the second series.", "note": "very frequent in results sections" }
+              ],
+              "tip": "« Il s'agit de » is the workhorse of French academic prose and never has a real subject: « Il s'agit ici d'une simple corrélation. » Never write « Ça s'agit »."
+            },
+            {
+              "heading": "Le passif et ses alternatives",
+              "body": "French uses the passive far less than English, and agentless passives are avoided when a lighter option exists. Three alternatives do most of the work: « on » + active verb, the pronominal passive « se + verbe », and nominalisation. « Les données ont été analysées » is correct, but « on a analysé les données » and « l'analyse des données montre… » often sound more idiomatic. The pronominal form is especially common with processes: « la concentration se stabilise ».",
+              "examples": [
+                { "french": "Les échantillons ont été conservés à −20 °C.", "english": "The samples were kept at −20 °C.", "note": "standard passive, methods section" },
+                { "french": "On a conservé les échantillons à −20 °C.", "english": "The samples were kept at −20 °C.", "note": "same meaning, lighter" },
+                { "french": "Ce résultat s'explique par un défaut de calibrage.", "english": "This result is explained by a calibration fault.", "note": "pronominal passive" },
+                { "french": "Ces phénomènes s'observent surtout en altitude.", "english": "These phenomena are mainly observed at altitude." },
+                { "french": "La mesure de la température a précédé le prélèvement.", "english": "The temperature measurement preceded the sampling.", "note": "nominalisation replaces a whole clause" },
+                { "french": "Il a été procédé à une seconde vérification.", "english": "A second check was carried out.", "note": "impersonal passive — very formal reports" }
+              ],
+              "tip": "In French a passive agent is introduced by « par » for actions and « de » for states: « analysé par le laboratoire » but « suivi d'une vérification »."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "c1_u06_l01_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. How certain is the speaker?",
+              "french": "Il semblerait que l'effet s'atténue au-delà de six mois, mais cela reste à confirmer.",
+              "options": [
+                "Moderately confident, and openly awaiting confirmation",
+                "Completely certain, the matter is closed",
+                "Certain that the effect never existed",
+                "Refusing to give any opinion at all"
+              ],
+              "answer": "Moderately confident, and openly awaiting confirmation"
+            },
+            {
+              "id": "c1_u06_l01_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. What distinction is the speaker drawing?",
+              "french": "Ces données constituent un indice sérieux ; elles ne constituent pas une preuve.",
+              "options": [
+                "Between an indication and a proof",
+                "Between a hypothesis and a conclusion",
+                "Between a sample and a population",
+                "Between an author and a reviewer"
+              ],
+              "answer": "Between an indication and a proof"
+            },
+            {
+              "id": "c1_u06_l01_li03",
+              "type": "listenType",
+              "prompt": "Type the impersonal sentence you hear.",
+              "french": "Il convient de distinguer corrélation et causalité.",
+              "answer": "Il convient de distinguer corrélation et causalité.",
+              "acceptedAnswers": [
+                "il convient de distinguer correlation et causalite",
+                "Il convient de distinguer correlation et causalite"
+              ]
+            },
+            {
+              "id": "c1_u06_l01_li04",
+              "type": "dictation",
+              "prompt": "Write the full sentence, accents included.",
+              "french": "Dans l'état actuel des connaissances, on ne saurait trancher.",
+              "answer": "Dans l'état actuel des connaissances, on ne saurait trancher.",
+              "acceptedAnswers": [
+                "dans l etat actuel des connaissances on ne saurait trancher",
+                "Dans l'etat actuel des connaissances, on ne saurait trancher"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "c1_u06_l01_sp01",
+              "type": "speak",
+              "prompt": "Present a finding without overclaiming.",
+              "french": "Tout porte à croire que les deux variables évoluent ensemble, sans que la causalité soit établie.",
+              "english": "Everything suggests that the two variables evolve together, without causation being established.",
+              "tip": "Keep « sans que la causalité soit établie » lower and faster than the main clause — French speakers mark the reservation by flattening it, not by stressing it."
+            },
+            {
+              "id": "c1_u06_l01_sp02",
+              "type": "speak",
+              "prompt": "Refuse a conclusion politely, in the academic register.",
+              "french": "On ne saurait conclure à un lien causal sur la foi d'un seul indice.",
+              "english": "One could not conclude that there is a causal link on the strength of a single indication.",
+              "tip": "« saurait » is two syllables, soh-REH, with no final t sound. Let the liaison in « sur la foi d'un » stay light."
+            },
+            {
+              "id": "c1_u06_l01_sp03",
+              "type": "speak",
+              "prompt": "Open a results paragraph impersonally.",
+              "french": "Il ressort de ces observations que le phénomène demeure strictement saisonnier.",
+              "english": "It emerges from these observations that the phenomenon remains strictly seasonal.",
+              "tip": "Link « il ressort » smoothly: eel-ruh-SOR, one breath. « demeure » is duh-MUHR, never day-MUHR."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Éditorial — « L'auteur absent »",
+              "french": "Un article scientifique français commence rarement par un nom propre. Il commence par une question, une méthode, une réserve.\nCette discrétion étonne les lecteurs venus d'autres traditions, qui y voient une coquetterie de vieille académie.\nElle répond pourtant à une exigence simple : un résultat doit tenir sans son auteur.\nSi la mesure n'est valable que parce que c'est moi qui l'ai prise, elle n'est pas une mesure.\nD'où ces tournures que l'on reproche parfois à la prose savante : « il ressort de », « on note que », « il convient de rappeler ».\nElles ne servent pas à se cacher ; elles servent à déplacer la garantie, du locuteur vers le protocole.\nLe même souci gouverne l'usage des adverbes.\nLà où la conversation ordinaire dit « c'est sûr », l'article dira « vraisemblablement », et le rapport d'expertise « sous réserve de vérification ».\nChaque degré correspond à un état de la preuve, et le lecteur formé les entend comme un musicien entend des intervalles.\nOn objectera que cette prudence devient parfois un rituel, et que certaines conclusions se noient dans les précautions.\nL'objection est juste. Une phrase surchargée de « il semblerait que » finit par ne plus rien affirmer du tout.\nLa retenue n'est une vertu qu'aussi longtemps qu'elle reste proportionnée aux données.\nAu-delà, elle devient une assurance contre la contradiction, ce qui est exactement le contraire de la démarche scientifique.\nLe bon article se reconnaît donc à un équilibre instable : il affirme précisément ce que ses données permettent d'affirmer, et pas un mot de plus.\nCe point d'équilibre ne s'enseigne pas en une leçon ; il se règle article après article, relecture après relecture.",
+              "english": "A French scientific article rarely begins with a proper name. It begins with a question, a method, a reservation.\nThis discretion surprises readers from other traditions, who see in it an affectation of the old academy.\nYet it answers a simple requirement: a result must stand without its author.\nIf the measurement is valid only because I am the one who took it, it is not a measurement.\nHence those turns of phrase for which scholarly prose is sometimes reproached: \"it emerges from\", \"one notes that\", \"it should be recalled that\".\nThey do not serve to hide; they serve to shift the guarantee from the speaker to the protocol.\nThe same concern governs the use of adverbs.\nWhere ordinary conversation says \"that's certain\", the article will say \"in all likelihood\", and the expert report \"subject to verification\".\nEach degree corresponds to a state of the evidence, and the trained reader hears them as a musician hears intervals.\nOne will object that this caution sometimes becomes a ritual, and that some conclusions drown in precautions.\nThe objection is fair. A sentence overloaded with \"it would seem that\" ends up asserting nothing at all.\nRestraint is a virtue only as long as it remains proportionate to the data.\nBeyond that, it becomes an insurance policy against contradiction, which is exactly the opposite of the scientific approach.\nA good article is therefore recognisable by an unstable balance: it asserts precisely what its data allow it to assert, and not a word more.\nThat balancing point cannot be taught in a single lesson; it is adjusted article after article, proofreading after proofreading.",
+              "questions": [
+                {
+                  "id": "c1_u06_l01_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "According to the text, why does French scientific prose efface the author?",
+                  "options": [
+                    "So that the guarantee rests on the protocol rather than on the person",
+                    "Because French journals forbid the use of « nous »",
+                    "Because scientists are traditionally shy about publicity",
+                    "So that several authors can share the credit equally"
+                  ],
+                  "answer": "So that the guarantee rests on the protocol rather than on the person"
+                },
+                {
+                  "id": "c1_u06_l01_rd02",
+                  "type": "trueFalse",
+                  "prompt": "The author considers hedging a virtue in every case, however heavy it becomes.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                },
+                {
+                  "id": "c1_u06_l01_rd03",
+                  "type": "multipleChoice",
+                  "prompt": "What comparison does the text use for degrees of certainty?",
+                  "options": [
+                    "A musician hearing intervals",
+                    "A judge weighing testimony",
+                    "A painter mixing colours",
+                    "A gardener pruning a hedge"
+                  ],
+                  "answer": "A musician hearing intervals"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "c1_u06_l01_wr01",
+              "type": "translate",
+              "prompt": "Translate: \"These data constitute an indication, not a proof.\"",
+              "english": "These data constitute an indication, not a proof.",
+              "answer": "Ces données constituent un indice, non une preuve.",
+              "acceptedAnswers": [
+                "ces donnees constituent un indice non une preuve",
+                "Ces données constituent un indice, et non une preuve."
+              ]
+            },
+            {
+              "id": "c1_u06_l01_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order to form a hedged claim.",
+              "english": "It would seem that the effect fades beyond six months.",
+              "words": ["que", "semblerait", "au-delà", "l'effet", "Il", "de six mois", "s'atténue"],
+              "answer": "Il semblerait que l'effet s'atténue au-delà de six mois"
+            },
+            {
+              "id": "c1_u06_l01_wr03",
+              "type": "translate",
+              "prompt": "Translate: \"The samples were collected at regular intervals.\"",
+              "english": "The samples were collected at regular intervals.",
+              "answer": "Les échantillons ont été prélevés à intervalles réguliers.",
+              "acceptedAnswers": [
+                "les echantillons ont ete preleves a intervalles reguliers",
+                "On a prélevé les échantillons à intervalles réguliers."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "c1_u06_l01_pr01",
+              "type": "multipleChoice",
+              "prompt": "Which sentence is the most cautious?",
+              "options": [
+                "Il n'est pas exclu que ce facteur intervienne.",
+                "Ce facteur intervient.",
+                "Il est établi que ce facteur intervient.",
+                "Ce facteur intervient toujours, sans exception."
+              ],
+              "answer": "Il n'est pas exclu que ce facteur intervienne."
+            },
+            {
+              "id": "c1_u06_l01_pr02",
+              "type": "fillBlank",
+              "prompt": "Complete the impersonal formula: « ___ ressort de ces observations que le phénomène est saisonnier. »",
+              "answer": "Il",
+              "hint": "The dummy subject of impersonal constructions."
+            },
+            {
+              "id": "c1_u06_l01_pr03",
+              "type": "match",
+              "prompt": "Match each expression with its degree of certainty.",
+              "pairs": [
+                { "french": "il est établi que", "english": "settled, consensual" },
+                { "french": "tout porte à croire que", "english": "strongly suggested" },
+                { "french": "il semblerait que", "english": "tentative, awaiting confirmation" },
+                { "french": "on ne saurait exclure que", "english": "merely not impossible" }
+              ]
+            },
+            {
+              "id": "c1_u06_l01_pr04",
+              "type": "fillBlank",
+              "prompt": "Subjunctive or indicative? « Il se peut que la variation ___ saisonnière. » (être)",
+              "answer": "soit",
+              "hint": "« Il se peut que » expresses possibility."
+            },
+            {
+              "id": "c1_u06_l01_pr05",
+              "type": "multipleChoice",
+              "prompt": "« A priori » in a French lab conversation means…",
+              "options": [
+                "at first sight, before closer examination",
+                "independently of all experience",
+                "as a matter of principle, non-negotiably",
+                "in the final analysis"
+              ],
+              "answer": "at first sight, before closer examination"
+            },
+            {
+              "id": "c1_u06_l01_pr06",
+              "type": "translate",
+              "prompt": "Translate: \"This result is explained by a calibration fault.\"",
+              "english": "This result is explained by a calibration fault.",
+              "answer": "Ce résultat s'explique par un défaut de calibrage.",
+              "acceptedAnswers": [
+                "ce resultat s explique par un defaut de calibrage",
+                "Ce résultat est expliqué par un défaut de calibrage."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "c1_u06_l01_qz01",
+              "type": "multipleChoice",
+              "prompt": "Which construction follows the subjunctive?",
+              "options": [
+                "il est possible que",
+                "il apparaît que",
+                "il ressort que",
+                "il est établi que"
+              ],
+              "answer": "il est possible que"
+            },
+            {
+              "id": "c1_u06_l01_qz02",
+              "type": "multipleChoice",
+              "prompt": "« étayer » means…",
+              "options": [
+                "to support, to back up with evidence",
+                "to summarise briefly",
+                "to reject outright",
+                "to publish in a journal"
+              ],
+              "answer": "to support, to back up with evidence"
+            },
+            {
+              "id": "c1_u06_l01_qz03",
+              "type": "fillBlank",
+              "prompt": "Complete: « Il n'est pas établi que ce mécanisme ___ universel. » (être)",
+              "answer": "soit",
+              "hint": "Negating an assertive impersonal flips the mood."
+            },
+            {
+              "id": "c1_u06_l01_qz04",
+              "type": "multipleChoice",
+              "prompt": "Which sentence overclaims for a single small study?",
+              "options": [
+                "Cette étude démontre définitivement le rôle du facteur climatique.",
+                "Cette étude fournit un indice en faveur du rôle du facteur climatique.",
+                "Ces résultats demeurent à confirmer sur un échantillon plus large.",
+                "Tout porte à croire que le facteur climatique intervient."
+              ],
+              "answer": "Cette étude démontre définitivement le rôle du facteur climatique."
+            },
+            {
+              "id": "c1_u06_l01_qz05",
+              "type": "translate",
+              "prompt": "Translate: \"One cannot but observe that the model fails on extreme cases.\"",
+              "english": "One cannot but observe that the model fails on extreme cases.",
+              "answer": "Force est de constater que le modèle échoue sur les cas extrêmes.",
+              "acceptedAnswers": [
+                "force est de constater que le modele echoue sur les cas extremes",
+                "Force est de constater que le modèle échoue dans les cas extrêmes."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1_u06_l02",
+      "level": "C1",
+      "unit": 6,
+      "title": "Méthode et résultats",
+      "description": "Describe a study the way French researchers do: protocol, sample, findings — and an honest paragraph on what the study cannot say.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Le protocole — saying exactly what was done",
+              "body": "The methods section is the least literary and the most demanding part of a French paper. It is written in the past (passé composé, or passé simple in older texts) and in a syntax so plain that another team could repeat the work from it alone. Vagueness here is not a style problem, it is a scientific fault: « nous avons interrogé plusieurs personnes » is unusable, « trente-deux sujets ont été interrogés en face à face » is a protocol.",
+              "examples": [
+                { "french": "Le protocole a été validé par le comité d'éthique de l'établissement.", "english": "The protocol was approved by the institution's ethics committee." },
+                { "french": "Les mesures ont été effectuées en double aveugle.", "english": "The measurements were carried out double-blind." },
+                { "french": "Chaque prélèvement a été répété trois fois, à une heure d'intervalle.", "english": "Each sampling was repeated three times, one hour apart." },
+                { "french": "Les sujets ont été répartis aléatoirement en deux groupes.", "english": "The subjects were randomly assigned to two groups." },
+                { "french": "Un groupe témoin a reçu un placebo dans les mêmes conditions.", "english": "A control group received a placebo under the same conditions." },
+                { "french": "Le matériel utilisé est décrit en annexe.", "english": "The equipment used is described in the appendix." }
+              ],
+              "tip": "French method sections almost always start with the population, then the material, then the procedure, then the statistical treatment — in that order. Reviewers notice when the order is scrambled."
+            },
+            {
+              "heading": "L'échantillon — who or what was studied",
+              "body": "« L'échantillon » covers both a sample of matter and a sample of people. Around it lives a cluster of terms you must handle precisely: « la taille de l'échantillon », « représentatif », « le groupe témoin », « les critères d'inclusion », « le taux de participation ». A French reader will judge your whole study by two numbers — how many, and how chosen — so both belong in the first lines of the section.",
+              "examples": [
+                { "french": "L'échantillon compte quatre cent douze participants, dont 58 % de femmes.", "english": "The sample comprises four hundred and twelve participants, 58% of them women." },
+                { "french": "Les critères d'inclusion excluaient toute pathologie chronique déclarée.", "english": "The inclusion criteria excluded any declared chronic condition." },
+                { "french": "L'échantillon n'est pas représentatif de la population générale.", "english": "The sample is not representative of the general population." },
+                { "french": "Le taux de non-réponse s'élève à onze pour cent.", "english": "The non-response rate stands at eleven per cent." },
+                { "french": "Le recrutement s'est fait par appel volontaire, ce qui introduit un biais.", "english": "Recruitment was by voluntary call, which introduces a bias." }
+              ],
+              "tip": "In French, percentages take « pour cent » in words and a non-breaking space before the sign: « 58 % ». « Pourcent » in one word does not exist."
+            },
+            {
+              "heading": "Résultats et limites — the honest last paragraph",
+              "body": "In French papers, results are stated without adjectives (« la différence est significative », not « la différence est frappante »), and the discussion is where meaning is allowed. Then comes the section that separates a serious paper from a promotional one: « les limites de l'étude ». Naming your own weaknesses is expected, and doing it well strengthens the paper — an author who has seen the objection first controls how it is answered.",
+              "examples": [
+                { "french": "La différence entre les deux groupes est statistiquement significative.", "english": "The difference between the two groups is statistically significant." },
+                { "french": "Aucune corrélation n'a pu être mise en évidence entre ces deux variables.", "english": "No correlation could be demonstrated between these two variables." },
+                { "french": "Ces résultats souffrent de trois limites principales.", "english": "These results suffer from three main limitations." },
+                { "french": "La taille réduite de l'échantillon en limite la portée.", "english": "The small size of the sample limits its scope." },
+                { "french": "L'étude est transversale : elle ne permet donc aucune inférence causale.", "english": "The study is cross-sectional: it therefore permits no causal inference." },
+                { "french": "Ces résultats demandent à être répliqués dans un autre contexte.", "english": "These results need to be replicated in another context." }
+              ],
+              "tip": "« Significatif » in French science means statistically significant. For \"large, noticeable\", say « important », « net » or « marqué » — otherwise you accidentally claim a p-value."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "le-protocole", "french": "le protocole", "english": "the protocol", "partOfSpeech": "noun", "gender": "m", "plural": "les protocoles", "pronunciation": "luh proh-toh-KOL", "example": "Le protocole doit être publié avant le recueil des données.", "exampleEnglish": "The protocol must be published before data collection.", "level": "C1", "category": "research" },
+            { "id": "un-echantillon", "french": "un échantillon", "english": "a sample", "partOfSpeech": "noun", "gender": "m", "plural": "des échantillons", "pronunciation": "uhn ay-shahn-tee-YON", "example": "Un échantillon de quarante sujets reste modeste.", "exampleEnglish": "A sample of forty subjects remains modest.", "level": "C1", "category": "research" },
+            { "id": "l-echantillonnage", "french": "l'échantillonnage", "english": "the sampling (method)", "partOfSpeech": "noun", "gender": "m", "plural": "les échantillonnages", "pronunciation": "lay-shahn-tee-yoh-NAHZH", "example": "L'échantillonnage aléatoire limite le biais de sélection.", "exampleEnglish": "Random sampling limits selection bias.", "level": "C1", "category": "research" },
+            { "id": "representatif", "french": "représentatif", "english": "representative", "partOfSpeech": "adjective", "pronunciation": "ruh-pray-zahn-tah-TEEF", "example": "L'échantillon n'est représentatif que des zones urbaines.", "exampleEnglish": "The sample is representative only of urban areas.", "level": "C1", "category": "research" },
+            { "id": "le-groupe-temoin", "french": "le groupe témoin", "english": "the control group", "partOfSpeech": "noun", "gender": "m", "plural": "les groupes témoins", "pronunciation": "luh GROOP tay-MWAHN", "example": "Le groupe témoin n'a reçu aucun traitement actif.", "exampleEnglish": "The control group received no active treatment.", "level": "C1", "category": "research" },
+            { "id": "les-criteres-d-inclusion", "french": "les critères d'inclusion", "english": "the inclusion criteria", "partOfSpeech": "noun", "gender": "m", "plural": "les critères d'inclusion", "pronunciation": "lay kree-TEHR dahn-klew-ZYON", "example": "Les critères d'inclusion figurent au début de la méthode.", "exampleEnglish": "The inclusion criteria appear at the start of the methods section.", "level": "C1", "category": "research" },
+            { "id": "la-variable", "french": "la variable", "english": "the variable", "partOfSpeech": "noun", "gender": "f", "plural": "les variables", "pronunciation": "lah vah-RYAHBL", "example": "La variable dépendante est le temps de réaction.", "exampleEnglish": "The dependent variable is reaction time.", "level": "C1", "category": "research" },
+            { "id": "mesurer", "french": "mesurer", "english": "to measure", "partOfSpeech": "verb", "pronunciation": "muh-zew-RAY", "example": "On mesure la concentration toutes les douze heures.", "exampleEnglish": "The concentration is measured every twelve hours.", "level": "C1", "category": "research" },
+            { "id": "une-donnee", "french": "une donnée", "english": "a piece of data", "partOfSpeech": "noun", "gender": "f", "plural": "des données", "pronunciation": "ewn doh-NAY", "example": "Aucune donnée manquante n'a été remplacée.", "exampleEnglish": "No missing data were substituted.", "level": "C1", "category": "research" },
+            { "id": "le-jeu-de-donnees", "french": "le jeu de données", "english": "the dataset", "partOfSpeech": "noun", "gender": "m", "plural": "les jeux de données", "pronunciation": "luh ZHUH duh doh-NAY", "example": "Le jeu de données est accessible en libre accès.", "exampleEnglish": "The dataset is available in open access.", "level": "C1", "category": "research" },
+            { "id": "le-resultat", "french": "le résultat", "english": "the result", "partOfSpeech": "noun", "gender": "m", "plural": "les résultats", "pronunciation": "luh ray-zewl-TAH", "example": "Le résultat principal est présenté à la figure 2.", "exampleEnglish": "The main result is presented in figure 2.", "level": "C1", "category": "research" },
+            { "id": "le-traitement-des-donnees", "french": "le traitement des données", "english": "the data processing", "partOfSpeech": "noun", "gender": "m", "plural": "les traitements des données", "pronunciation": "luh treht-MAHN day doh-NAY", "example": "Le traitement des données a été réalisé sous logiciel libre.", "exampleEnglish": "The data processing was performed using open-source software.", "level": "C1", "category": "research" },
+            { "id": "une-correlation", "french": "une corrélation", "english": "a correlation", "partOfSpeech": "noun", "gender": "f", "plural": "des corrélations", "pronunciation": "ewn koh-ray-lah-SYON", "example": "Une corrélation forte ne dit rien du sens du lien.", "exampleEnglish": "A strong correlation says nothing about the direction of the link.", "level": "C1", "category": "research" },
+            { "id": "la-causalite", "french": "la causalité", "english": "causation, causality", "partOfSpeech": "noun", "gender": "f", "plural": "les causalités", "pronunciation": "lah koh-zah-lee-TAY", "example": "Établir la causalité exige un dispositif expérimental.", "exampleEnglish": "Establishing causation requires an experimental design.", "level": "C1", "category": "research" },
+            { "id": "significatif", "french": "significatif", "english": "statistically significant", "partOfSpeech": "adjective", "pronunciation": "see-nyee-fee-kah-TEEF", "example": "L'écart observé n'est pas significatif au seuil de 5 %.", "exampleEnglish": "The gap observed is not significant at the 5% level.", "level": "C1", "category": "research" },
+            { "id": "le-seuil-de-signification", "french": "le seuil de signification", "english": "the significance threshold", "partOfSpeech": "noun", "gender": "m", "plural": "les seuils de signification", "pronunciation": "luh SUHY duh see-nyee-fee-kah-SYON", "example": "Le seuil de signification retenu est fixé à 0,05.", "exampleEnglish": "The significance threshold used is set at 0.05.", "level": "C1", "category": "research" },
+            { "id": "l-ecart-type", "french": "l'écart-type", "english": "the standard deviation", "partOfSpeech": "noun", "gender": "m", "plural": "les écarts-types", "pronunciation": "lay-KAR TEEP", "example": "La moyenne est de 12,4 avec un écart-type de 3,1.", "exampleEnglish": "The mean is 12.4 with a standard deviation of 3.1.", "level": "C1", "category": "research" },
+            { "id": "la-moyenne", "french": "la moyenne", "english": "the mean, the average", "partOfSpeech": "noun", "gender": "f", "plural": "les moyennes", "pronunciation": "lah mwah-YEN", "example": "La moyenne masque ici une forte dispersion.", "exampleEnglish": "The mean here masks a strong dispersion.", "level": "C1", "category": "research" },
+            { "id": "une-marge-derreur", "french": "une marge d'erreur", "english": "a margin of error", "partOfSpeech": "noun", "gender": "f", "plural": "des marges d'erreur", "pronunciation": "ewn MARZH deh-RUHR", "example": "Le sondage annonce une marge d'erreur de trois points.", "exampleEnglish": "The poll announces a margin of error of three points.", "level": "C1", "category": "research" },
+            { "id": "le-biais", "french": "le biais", "english": "the bias", "partOfSpeech": "noun", "gender": "m", "plural": "les biais", "pronunciation": "luh BYEH", "example": "Ce biais était prévisible dès la conception de l'enquête.", "exampleEnglish": "This bias was predictable from the design of the survey onwards.", "level": "C1", "category": "research" },
+            { "id": "le-biais-de-selection", "french": "le biais de sélection", "english": "selection bias", "partOfSpeech": "noun", "gender": "m", "plural": "les biais de sélection", "pronunciation": "luh BYEH duh say-lek-SYON", "example": "Le recrutement volontaire crée un biais de sélection évident.", "exampleEnglish": "Voluntary recruitment creates an obvious selection bias.", "level": "C1", "category": "research" },
+            { "id": "reproductible", "french": "reproductible", "english": "reproducible", "partOfSpeech": "adjective", "pronunciation": "ruh-proh-dewk-TEEBL", "example": "Un résultat non reproductible n'est pas encore un résultat.", "exampleEnglish": "A non-reproducible result is not yet a result.", "level": "C1", "category": "research" },
+            { "id": "la-reproductibilite", "french": "la reproductibilité", "english": "reproducibility", "partOfSpeech": "noun", "gender": "f", "plural": "les reproductibilités", "pronunciation": "lah ruh-proh-dewk-tee-bee-lee-TAY", "example": "La reproductibilité est devenue un critère d'évaluation à part entière.", "exampleEnglish": "Reproducibility has become an evaluation criterion in its own right.", "level": "C1", "category": "research" },
+            { "id": "repliquer-une-etude", "french": "répliquer une étude", "english": "to replicate a study", "partOfSpeech": "verb", "pronunciation": "ray-plee-KAY ewn ay-TEWD", "example": "Trois équipes ont tenté de répliquer cette étude, sans succès.", "exampleEnglish": "Three teams tried to replicate this study, without success.", "level": "C1", "category": "research" },
+            { "id": "les-limites-de-l-etude", "french": "les limites de l'étude", "english": "the limitations of the study", "partOfSpeech": "noun", "gender": "f", "plural": "les limites de l'étude", "pronunciation": "lay lee-MEET duh lay-TEWD", "example": "Les limites de l'étude sont exposées avant la conclusion.", "exampleEnglish": "The limitations of the study are set out before the conclusion.", "level": "C1", "category": "research" },
+            { "id": "l-etude-transversale", "french": "l'étude transversale", "english": "the cross-sectional study", "partOfSpeech": "noun", "gender": "f", "plural": "les études transversales", "pronunciation": "lay-TEWD trahns-ver-SAHL", "example": "L'étude transversale photographie un instant, jamais une évolution.", "exampleEnglish": "A cross-sectional study photographs a moment, never an evolution.", "level": "C1", "category": "research" },
+            { "id": "valider", "french": "valider", "english": "to validate", "partOfSpeech": "verb", "pronunciation": "vah-lee-DAY", "example": "Le comité a validé le protocole sans modification.", "exampleEnglish": "The committee validated the protocol without modification.", "level": "C1", "category": "research" },
+            { "id": "la-revue-par-les-pairs", "french": "la revue par les pairs", "english": "peer review", "partOfSpeech": "noun", "gender": "f", "plural": "les revues par les pairs", "pronunciation": "lah RUHV par lay PEHR", "example": "La revue par les pairs a duré onze mois.", "exampleEnglish": "Peer review took eleven months.", "level": "C1", "category": "research" },
+            { "id": "l-experimentation", "french": "l'expérimentation", "english": "experimentation, the experiment", "partOfSpeech": "noun", "gender": "f", "plural": "les expérimentations", "pronunciation": "lek-spay-ree-mahn-tah-SYON", "example": "L'expérimentation en conditions réelles reste coûteuse.", "exampleEnglish": "Experimentation in real conditions remains costly.", "level": "C1", "category": "research" },
+            { "id": "le-prelevement", "french": "le prélèvement", "english": "the sampling, the specimen taken", "partOfSpeech": "noun", "gender": "m", "plural": "les prélèvements", "pronunciation": "luh prel-ev-MAHN", "example": "Chaque prélèvement est daté et référencé.", "exampleEnglish": "Each sample taken is dated and referenced.", "level": "C1", "category": "research" },
+            { "id": "en-double-aveugle", "french": "en double aveugle", "english": "double-blind", "partOfSpeech": "expression", "pronunciation": "ahn DOO-bluh ah-VUHGL", "example": "L'essai a été conduit en double aveugle.", "exampleEnglish": "The trial was conducted double-blind.", "level": "C1", "category": "research" },
+            { "id": "aleatoirement", "french": "aléatoirement", "english": "randomly", "partOfSpeech": "adverb", "pronunciation": "ah-lay-ah-twahr-MAHN", "example": "Les sujets ont été répartis aléatoirement.", "exampleEnglish": "The subjects were allocated randomly.", "level": "C1", "category": "research" },
+            { "id": "mettre-en-evidence", "french": "mettre en évidence", "english": "to demonstrate, to bring out", "partOfSpeech": "verb", "pronunciation": "METR ahn ay-vee-DAHNS", "example": "L'analyse met en évidence un effet de saison.", "exampleEnglish": "The analysis brings out a seasonal effect.", "level": "C1", "category": "research" },
+            { "id": "le-taux-de-participation", "french": "le taux de participation", "english": "the participation rate", "partOfSpeech": "noun", "gender": "m", "plural": "les taux de participation", "pronunciation": "luh TOH duh par-tee-see-pah-SYON", "example": "Le taux de participation atteint quatre-vingt-neuf pour cent.", "exampleEnglish": "The participation rate reaches eighty-nine per cent.", "level": "C1", "category": "research" },
+            { "id": "l-inference-causale", "french": "l'inférence causale", "english": "causal inference", "partOfSpeech": "noun", "gender": "f", "plural": "les inférences causales", "pronunciation": "lahn-fay-RAHNS koh-ZAHL", "example": "Ce dispositif interdit toute inférence causale.", "exampleEnglish": "This design rules out any causal inference.", "level": "C1", "category": "research" },
+            { "id": "recueillir-des-donnees", "french": "recueillir des données", "english": "to collect data", "partOfSpeech": "verb", "pronunciation": "ruh-kuh-YEER day doh-NAY", "example": "Nous avons recueilli des données pendant deux hivers consécutifs.", "exampleEnglish": "We collected data over two consecutive winters.", "level": "C1", "category": "research" },
+            { "id": "la-variable-confondante", "french": "la variable confondante", "english": "the confounding variable", "partOfSpeech": "noun", "gender": "f", "plural": "les variables confondantes", "pronunciation": "lah vah-RYAHBL kon-fon-DAHNT", "example": "L'âge agit ici comme une variable confondante.", "exampleEnglish": "Age acts here as a confounding variable.", "level": "C1", "category": "research" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "La nominalisation — compressing a method",
+              "body": "French methods sections are dense because they turn verbs into nouns. « On a prélevé les échantillons, puis on les a analysés » becomes « le prélèvement, puis l'analyse des échantillons ». Nominalisation removes tense, agent and mood, keeping only the operation — exactly what a protocol needs. The pattern is productive: prélever → le prélèvement, mesurer → la mesure, traiter → le traitement, répartir → la répartition, recueillir → le recueil.",
+              "examples": [
+                { "french": "Le recueil des données a précédé leur traitement statistique.", "english": "The collection of the data preceded their statistical processing." },
+                { "french": "La répartition des sujets s'est faite par tirage au sort.", "english": "The allocation of subjects was done by drawing lots." },
+                { "french": "L'analyse des résultats fait l'objet de la section suivante.", "english": "The analysis of the results is the subject of the next section." },
+                { "french": "La mise en évidence de cet effet exige un échantillon plus vaste.", "english": "Demonstrating this effect requires a larger sample." },
+                { "french": "Après vérification, aucune valeur aberrante n'a été retenue.", "english": "After checking, no outlier was retained.", "note": "bare noun after « après » — very common" },
+                { "french": "L'interruption de l'essai a été décidée par le comité.", "english": "The interruption of the trial was decided by the committee." }
+              ],
+              "tip": "Don't over-nominalise: three nouns in a row (« la mise en œuvre de l'évaluation de la procédure ») is the classic French administrative fog. Two levels maximum."
+            },
+            {
+              "heading": "Chiffres, pourcentages et comparatifs",
+              "body": "French numerical writing has its own conventions. The decimal separator is a comma (« 12,4 »), thousands are separated by a space (« 1 200 »), and the percent sign is preceded by a space (« 58 % »). To compare, use « supérieur à » / « inférieur à » rather than « plus grand que », and note « le double de », « la moitié de », « multiplié par trois », « en hausse de deux points ». « Points » and « pour cent » are not interchangeable: going from 10 % to 12 % is « deux points », not « deux pour cent ».",
+              "examples": [
+                { "french": "La moyenne s'établit à 12,4 (écart-type 3,1).", "english": "The mean stands at 12.4 (standard deviation 3.1)." },
+                { "french": "La valeur mesurée est supérieure à celle du groupe témoin.", "english": "The measured value is higher than that of the control group." },
+                { "french": "Le taux passe de 10 % à 12 %, soit une hausse de deux points.", "english": "The rate goes from 10% to 12%, i.e. a rise of two points." },
+                { "french": "Le risque est multiplié par trois chez les sujets exposés.", "english": "The risk is tripled in exposed subjects." },
+                { "french": "Près d'un participant sur cinq n'a pas terminé le protocole.", "english": "Nearly one participant in five did not complete the protocol." },
+                { "french": "Les effectifs sont trop faibles pour conclure.", "english": "The numbers are too small to draw a conclusion.", "note": "« les effectifs » = the numbers of subjects" }
+              ],
+              "tip": "Say decimals with « virgule »: « douze virgule quatre ». Reading « 12.4 » as « twelve point four » instantly marks you as translating from English."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "c1_u06_l02_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What weakness is the speaker admitting?",
+              "french": "Le recrutement s'est fait par appel volontaire, ce qui introduit un biais de sélection.",
+              "options": [
+                "Volunteers are not a representative sample",
+                "The measuring instrument was poorly calibrated",
+                "The control group was too large",
+                "The data were collected in the wrong season"
+              ],
+              "answer": "Volunteers are not a representative sample"
+            },
+            {
+              "id": "c1_u06_l02_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. What does the speaker say the design cannot do?",
+              "french": "L'étude est transversale : elle ne permet donc aucune inférence causale.",
+              "options": [
+                "Establish a cause-and-effect relationship",
+                "Describe the sample accurately",
+                "Measure the participation rate",
+                "Be published in a peer-reviewed journal"
+              ],
+              "answer": "Establish a cause-and-effect relationship"
+            },
+            {
+              "id": "c1_u06_l02_li03",
+              "type": "listenType",
+              "prompt": "Type the method sentence you hear.",
+              "french": "Les sujets ont été répartis aléatoirement en deux groupes.",
+              "answer": "Les sujets ont été répartis aléatoirement en deux groupes.",
+              "acceptedAnswers": [
+                "les sujets ont ete repartis aleatoirement en deux groupes",
+                "Les sujets ont ete repartis aleatoirement en deux groupes"
+              ]
+            },
+            {
+              "id": "c1_u06_l02_li04",
+              "type": "dictation",
+              "prompt": "Write the full sentence, accents and punctuation included.",
+              "french": "La taille réduite de l'échantillon en limite la portée.",
+              "answer": "La taille réduite de l'échantillon en limite la portée.",
+              "acceptedAnswers": [
+                "la taille reduite de l echantillon en limite la portee",
+                "La taille reduite de l'echantillon en limite la portee"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "c1_u06_l02_sp01",
+              "type": "speak",
+              "prompt": "Describe your sample in one precise sentence.",
+              "french": "L'échantillon compte quatre cent douze participants, recrutés dans six centres différents.",
+              "english": "The sample comprises four hundred and twelve participants, recruited in six different centres.",
+              "tip": "In « quatre cent douze », the final t of « cent » links into « douze »: sahn-DOOZ. Keep the whole number on one intonation curve."
+            },
+            {
+              "id": "c1_u06_l02_sp02",
+              "type": "speak",
+              "prompt": "Announce a result with the correct technical adjective.",
+              "french": "La différence entre les deux groupes est statistiquement significative au seuil de cinq pour cent.",
+              "english": "The difference between the two groups is statistically significant at the five per cent level.",
+              "tip": "« significative » has five syllables; do not swallow the middle one. Say « pour cent » as two clear words, never « poursan »."
+            },
+            {
+              "id": "c1_u06_l02_sp03",
+              "type": "speak",
+              "prompt": "Open the limitations paragraph of your talk.",
+              "french": "Ces résultats souffrent de trois limites, que je préfère exposer moi-même.",
+              "english": "These results suffer from three limitations, which I prefer to set out myself.",
+              "tip": "Pause slightly before « que je préfère » — the relative clause carries the rhetorical point, and French speakers set it off with a small silence."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Essai — « La page qu'on saute »",
+              "french": "Dans un article scientifique, il existe une section que presque personne ne lit et qui décide pourtant de tout : la méthode.\nLe lecteur pressé va aux résultats ; le journaliste va à la conclusion ; le relecteur sérieux, lui, commence par la méthode et n'en sort qu'à contrecœur.\nCar c'est là, et nulle part ailleurs, que se joue la valeur des chiffres qui suivront.\nDeux nombres y suffisent souvent à former un jugement : combien de sujets, et comment choisis.\nUne étude portant sur quarante volontaires recrutés par annonce ne dit pas la même chose qu'une cohorte de dix mille personnes tirées au sort.\nLes deux peuvent être honnêtes ; elles ne peuvent pas prétendre à la même portée.\nVient ensuite le détail fastidieux : l'appareil utilisé, la température de conservation, l'intervalle entre deux prélèvements.\nCette minutie a une raison d'être précise, et une seule : permettre à une autre équipe de refaire le travail.\nUn résultat que personne ne peut reproduire n'appartient pas encore à la connaissance ; il appartient à l'anecdote.\nOn a beaucoup parlé, ces dernières années, d'une crise de la reproductibilité.\nElle ne vient pas d'une soudaine malhonnêteté des chercheurs, mais d'une accumulation de petites imprécisions méthodologiques que la course à la publication a rendues rentables.\nUn protocole flou laisse toujours la liberté de trouver quelque chose.\nD'où le retour en force d'une exigence ancienne : décrire son travail assez précisément pour qu'un rival puisse le démolir.\nC'est un curieux métier que celui où l'on prépare soigneusement les armes de sa propre réfutation.\nMais c'est exactement à ce prix qu'un résultat cesse d'être une opinion bien habillée.",
+              "english": "In a scientific article there is a section that almost nobody reads and which nevertheless decides everything: the method.\nThe hurried reader goes to the results; the journalist goes to the conclusion; the serious reviewer, for his part, starts with the method and leaves it only reluctantly.\nFor it is there, and nowhere else, that the value of the figures to come is decided.\nTwo numbers are often enough to form a judgement: how many subjects, and how they were chosen.\nA study of forty volunteers recruited by advertisement does not say the same thing as a cohort of ten thousand people drawn at random.\nBoth may be honest; they cannot claim the same scope.\nThen comes the tedious detail: the instrument used, the storage temperature, the interval between two samplings.\nThis meticulousness has one precise reason, and only one: to allow another team to redo the work.\nA result that nobody can reproduce does not yet belong to knowledge; it belongs to anecdote.\nThere has been much talk in recent years of a reproducibility crisis.\nIt does not come from a sudden dishonesty among researchers, but from an accumulation of small methodological imprecisions that the race to publish has made profitable.\nA vague protocol always leaves the freedom to find something.\nHence the forceful return of an old requirement: to describe your work precisely enough for a rival to demolish it.\nIt is a strange profession, one in which you carefully prepare the weapons of your own refutation.\nBut that is exactly the price at which a result stops being a well-dressed opinion.",
+              "questions": [
+                {
+                  "id": "c1_u06_l02_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "According to the text, why does the serious reviewer start with the method?",
+                  "options": [
+                    "Because the value of the later figures is decided there",
+                    "Because it is the shortest section",
+                    "Because journals require it to be read first",
+                    "Because the results are usually falsified"
+                  ],
+                  "answer": "Because the value of the later figures is decided there"
+                },
+                {
+                  "id": "c1_u06_l02_rd02",
+                  "type": "trueFalse",
+                  "prompt": "The text blames the reproducibility crisis mainly on researchers becoming dishonest.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                },
+                {
+                  "id": "c1_u06_l02_rd03",
+                  "type": "multipleChoice",
+                  "prompt": "What two pieces of information does the text say are often enough to judge a study?",
+                  "options": [
+                    "How many subjects, and how they were selected",
+                    "The journal's name and its impact factor",
+                    "The funding source and the publication date",
+                    "The length of the article and its language"
+                  ],
+                  "answer": "How many subjects, and how they were selected"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "c1_u06_l02_wr01",
+              "type": "translate",
+              "prompt": "Translate: \"A control group received a placebo under the same conditions.\"",
+              "english": "A control group received a placebo under the same conditions.",
+              "answer": "Un groupe témoin a reçu un placebo dans les mêmes conditions.",
+              "acceptedAnswers": [
+                "un groupe temoin a recu un placebo dans les memes conditions",
+                "Un groupe témoin a reçu un placebo dans des conditions identiques."
+              ]
+            },
+            {
+              "id": "c1_u06_l02_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order to state a limitation.",
+              "english": "The small size of the sample limits its scope.",
+              "words": ["de", "la portée", "réduite", "La taille", "en limite", "l'échantillon"],
+              "answer": "La taille réduite de l'échantillon en limite la portée"
+            },
+            {
+              "id": "c1_u06_l02_wr03",
+              "type": "translate",
+              "prompt": "Translate: \"No correlation could be demonstrated between these two variables.\"",
+              "english": "No correlation could be demonstrated between these two variables.",
+              "answer": "Aucune corrélation n'a pu être mise en évidence entre ces deux variables.",
+              "acceptedAnswers": [
+                "aucune correlation n a pu etre mise en evidence entre ces deux variables",
+                "Aucune corrélation n'a pu être établie entre ces deux variables."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "c1_u06_l02_pr01",
+              "type": "multipleChoice",
+              "prompt": "Which sentence belongs in « Matériel et méthodes » rather than in the discussion?",
+              "options": [
+                "Les prélèvements ont été conservés à −20 °C jusqu'à l'analyse.",
+                "Ce résultat surprenant invite à repenser le modèle dominant.",
+                "Nos travaux confirment l'intuition de plusieurs équipes.",
+                "La question mérite une attention politique urgente."
+              ],
+              "answer": "Les prélèvements ont été conservés à −20 °C jusqu'à l'analyse."
+            },
+            {
+              "id": "c1_u06_l02_pr02",
+              "type": "fillBlank",
+              "prompt": "Nominalise the verb: « On a prélevé les échantillons » → « Le ___ des échantillons a eu lieu à l'aube. »",
+              "answer": "prélèvement",
+              "hint": "From the verb « prélever »."
+            },
+            {
+              "id": "c1_u06_l02_pr03",
+              "type": "match",
+              "prompt": "Match each method term with its meaning.",
+              "pairs": [
+                { "french": "le groupe témoin", "english": "the group that receives no active treatment" },
+                { "french": "le biais de sélection", "english": "distortion caused by how subjects were chosen" },
+                { "french": "l'écart-type", "english": "a measure of how spread out the values are" },
+                { "french": "les critères d'inclusion", "english": "the rules deciding who enters the study" }
+              ]
+            },
+            {
+              "id": "c1_u06_l02_pr04",
+              "type": "multipleChoice",
+              "prompt": "A rate rises from 10 % to 12 %. How does a French report describe it?",
+              "options": [
+                "une hausse de deux points",
+                "une hausse de deux pour cent",
+                "une hausse de douze points",
+                "une hausse de vingt points"
+              ],
+              "answer": "une hausse de deux points"
+            },
+            {
+              "id": "c1_u06_l02_pr05",
+              "type": "fillBlank",
+              "prompt": "Complete: « L'essai a été conduit en double ___. »",
+              "answer": "aveugle",
+              "hint": "Neither participants nor experimenters know who got what."
+            },
+            {
+              "id": "c1_u06_l02_pr06",
+              "type": "translate",
+              "prompt": "Translate: \"These results need to be replicated in another context.\"",
+              "english": "These results need to be replicated in another context.",
+              "answer": "Ces résultats demandent à être répliqués dans un autre contexte.",
+              "acceptedAnswers": [
+                "ces resultats demandent a etre repliques dans un autre contexte",
+                "Ces résultats doivent être répliqués dans un autre contexte."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "c1_u06_l02_qz01",
+              "type": "multipleChoice",
+              "prompt": "In French scientific usage, « significatif » means…",
+              "options": [
+                "statistically significant",
+                "large and impressive",
+                "meaningful for society",
+                "worth publishing"
+              ],
+              "answer": "statistically significant"
+            },
+            {
+              "id": "c1_u06_l02_qz02",
+              "type": "multipleChoice",
+              "prompt": "Which sentence correctly follows French numerical conventions?",
+              "options": [
+                "La moyenne est de 12,4 et le taux atteint 58 %.",
+                "La moyenne est de 12.4 et le taux atteint 58%.",
+                "La moyenne est de 12,4 et le taux atteint 58 pourcent.",
+                "La moyenne est de 12.4 et le taux atteint 58 %."
+              ],
+              "answer": "La moyenne est de 12,4 et le taux atteint 58 %."
+            },
+            {
+              "id": "c1_u06_l02_qz03",
+              "type": "fillBlank",
+              "prompt": "Complete: « L'étude est transversale : elle ne permet aucune ___ causale. »",
+              "answer": "inférence",
+              "hint": "The step from observation to cause."
+            },
+            {
+              "id": "c1_u06_l02_qz04",
+              "type": "multipleChoice",
+              "prompt": "« la reproductibilité » refers to…",
+              "options": [
+                "the ability of another team to obtain the same result",
+                "the number of times an article is cited",
+                "the speed of the peer-review process",
+                "the size of the funding awarded"
+              ],
+              "answer": "the ability of another team to obtain the same result"
+            },
+            {
+              "id": "c1_u06_l02_qz05",
+              "type": "translate",
+              "prompt": "Translate: \"The protocol was approved by the ethics committee.\"",
+              "english": "The protocol was approved by the ethics committee.",
+              "answer": "Le protocole a été validé par le comité d'éthique.",
+              "acceptedAnswers": [
+                "le protocole a ete valide par le comite d ethique",
+                "Le protocole a été approuvé par le comité d'éthique."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1_u06_l03",
+      "level": "C1",
+      "unit": 6,
+      "title": "La vulgarisation savante",
+      "description": "Explain research to non-specialists in French without flattening it: analogies that hold, simplifications that stay true, and headlines that don't lie.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Vulgariser n'est pas simplifier",
+              "body": "The French word « vulgarisation » carries no contempt: it means bringing knowledge to the « grand public », and France has a long, prestigious tradition of it. The craft is not to remove difficulty but to relocate it — to find the point where a non-specialist can grasp the same structure with less apparatus. « Simplifier » shortens; « vulgariser » translates. A good vulgarisateur can be checked by a specialist and thanked by a beginner in the same paragraph.",
+              "examples": [
+                { "french": "Vulgariser, ce n'est pas appauvrir : c'est déplacer le point d'entrée.", "english": "Popularising is not impoverishing: it is moving the point of entry." },
+                { "french": "Le public profane n'est pas un public inattentif.", "english": "A lay audience is not an inattentive audience." },
+                { "french": "Chaque terme technique conservé doit être payé par une explication.", "english": "Every technical term kept must be paid for with an explanation." },
+                { "french": "On peut tout expliquer, à condition d'accepter d'y passer du temps.", "english": "Anything can be explained, provided you accept spending time on it." },
+                { "french": "La simplification devient abusive dès qu'elle change la conclusion.", "english": "Simplification becomes illegitimate as soon as it changes the conclusion." }
+              ],
+              "tip": "In French, « vulgaire » means coarse, but « vulgarisation » is a compliment. Never translate it as \"vulgarisation\" in English — say \"popularisation\" or \"science communication\"."
+            },
+            {
+              "heading": "L'analogie et ses limites",
+              "body": "Analogy is the main engine of French popular science: « le génome comme une partition », « la mémoire comme un atelier plutôt qu'un entrepôt ». But every analogy leaks, and the professional habit is to state where. Announce the comparison, use it, then explicitly mark its limit — « l'image vaut jusqu'à un certain point », « la comparaison s'arrête là ». That closing move is what separates the vulgarisateur from the marketer.",
+              "examples": [
+                { "french": "On peut se représenter la cellule comme un atelier, non comme une usine.", "english": "One can picture the cell as a workshop, not as a factory." },
+                { "french": "L'image est commode, mais elle a ses limites.", "english": "The image is convenient, but it has its limits." },
+                { "french": "La comparaison s'arrête là : un gène n'a pas d'intention.", "english": "The comparison stops there: a gene has no intention." },
+                { "french": "Filons la métaphore un instant, puis abandonnons-la.", "english": "Let us extend the metaphor for a moment, then drop it." },
+                { "french": "Toute analogie qu'on oublie de fermer finit par tromper.", "english": "Any analogy one forgets to close ends up misleading." }
+              ],
+              "tip": "« Filer une métaphore » = to run an extended metaphor. « Filer la métaphore jusqu'au bout » is usually a warning, not praise."
+            },
+            {
+              "heading": "Ne pas déformer — le contrat avec le lecteur",
+              "body": "The distortions of popular science are predictable: turning a correlation into a cause, an animal study into a human promise, a preliminary result into a discovery, one team's finding into « les scientifiques ont prouvé ». French science journalists have standard formulas to avoid each: « une étude suggère », « chez la souris », « ces travaux, encore préliminaires », « selon une équipe de… ». Keeping the epistemic status visible costs six words and preserves your credibility entirely.",
+              "examples": [
+                { "french": "Une étude suggère un lien ; elle ne le démontre pas.", "english": "A study suggests a link; it does not prove it." },
+                { "french": "Ce résultat a été obtenu chez la souris, et n'a pas été transposé à l'homme.", "english": "This result was obtained in mice, and has not been transposed to humans." },
+                { "french": "Ces travaux, encore préliminaires, n'ont pas été relus par les pairs.", "english": "This work, still preliminary, has not been peer-reviewed." },
+                { "french": "Le titre annonçait une révolution ; l'article parlait d'une piste.", "english": "The headline announced a revolution; the article spoke of a lead." },
+                { "french": "Attribuer un résultat isolé à « la science » relève du contresens.", "english": "Attributing an isolated result to \"science\" is a misreading." }
+              ],
+              "tip": "The most useful sentence in French science communication is « ce que cette étude ne dit pas ». Readers trust a writer who says it before being asked."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "la-vulgarisation", "french": "la vulgarisation", "english": "popularisation, science communication", "partOfSpeech": "noun", "gender": "f", "plural": "les vulgarisations", "pronunciation": "lah vewl-gah-ree-zah-SYON", "example": "La vulgarisation exige une maîtrise plus fine que le cours magistral.", "exampleEnglish": "Popularisation demands a finer mastery than a formal lecture.", "level": "C1", "category": "communication" },
+            { "id": "vulgariser", "french": "vulgariser", "english": "to popularise (knowledge)", "partOfSpeech": "verb", "pronunciation": "vewl-gah-ree-ZAY", "example": "Vulgariser sans trahir demande du temps et de la relecture.", "exampleEnglish": "Popularising without betraying takes time and rereading.", "level": "C1", "category": "communication" },
+            { "id": "le-vulgarisateur", "french": "le vulgarisateur", "english": "the science populariser", "partOfSpeech": "noun", "gender": "m", "plural": "les vulgarisateurs", "pronunciation": "luh vewl-gah-ree-zah-TUHR", "example": "Le bon vulgarisateur cite ses sources comme un chercheur.", "exampleEnglish": "A good populariser cites sources like a researcher.", "level": "C1", "category": "communication" },
+            { "id": "le-grand-public", "french": "le grand public", "english": "the general public", "partOfSpeech": "noun", "gender": "m", "plural": "les grands publics", "pronunciation": "luh grahn pew-BLEEK", "example": "La conférence s'adresse au grand public, non aux spécialistes.", "exampleEnglish": "The lecture is aimed at the general public, not at specialists.", "level": "C1", "category": "communication" },
+            { "id": "le-profane", "french": "le profane", "english": "the layperson", "partOfSpeech": "noun", "gender": "m", "plural": "les profanes", "pronunciation": "luh proh-FAHN", "example": "Le profane comprend très bien, à condition qu'on ne le méprise pas.", "exampleEnglish": "The layperson understands perfectly well, provided you do not look down on them.", "level": "C1", "category": "communication" },
+            { "id": "le-public-cible", "french": "le public cible", "english": "the target audience", "partOfSpeech": "noun", "gender": "m", "plural": "les publics cibles", "pronunciation": "luh pew-BLEEK SEEBL", "example": "Définir le public cible avant d'écrire évite bien des malentendus.", "exampleEnglish": "Defining the target audience before writing avoids many misunderstandings.", "level": "C1", "category": "communication" },
+            { "id": "l-analogie", "french": "l'analogie", "english": "the analogy", "partOfSpeech": "noun", "gender": "f", "plural": "les analogies", "pronunciation": "lah-nah-loh-ZHEE", "example": "L'analogie éclaire d'abord, puis elle égare si on la prolonge.", "exampleEnglish": "The analogy first illuminates, then misleads if you extend it.", "level": "C1", "category": "communication" },
+            { "id": "la-metaphore", "french": "la métaphore", "english": "the metaphor", "partOfSpeech": "noun", "gender": "f", "plural": "les métaphores", "pronunciation": "lah may-tah-FOR", "example": "La métaphore de l'horloge a longtemps servi à décrire l'univers.", "exampleEnglish": "The clock metaphor long served to describe the universe.", "level": "C1", "category": "communication" },
+            { "id": "filer-une-metaphore", "french": "filer une métaphore", "english": "to run an extended metaphor", "partOfSpeech": "verb", "pronunciation": "fee-LAY ewn may-tah-FOR", "example": "Il file la métaphore du jardin pendant tout le chapitre.", "exampleEnglish": "He runs the garden metaphor through the whole chapter.", "level": "C1", "category": "communication" },
+            { "id": "la-simplification-abusive", "french": "la simplification abusive", "english": "over-simplification, misleading simplification", "partOfSpeech": "noun", "gender": "f", "plural": "les simplifications abusives", "pronunciation": "lah sahn-plee-fee-kah-SYON ah-bew-ZEEV", "example": "Parler de « gène du bonheur » relève de la simplification abusive.", "exampleEnglish": "Speaking of a \"happiness gene\" is an over-simplification.", "level": "C1", "category": "communication" },
+            { "id": "deformer", "french": "déformer", "english": "to distort", "partOfSpeech": "verb", "pronunciation": "day-for-MAY", "example": "Le titre déforme une conclusion pourtant très prudente.", "exampleEnglish": "The headline distorts a conclusion that was in fact very cautious.", "level": "C1", "category": "communication" },
+            { "id": "un-raccourci", "french": "un raccourci", "english": "a shortcut, an oversimplified claim", "partOfSpeech": "noun", "gender": "m", "plural": "des raccourcis", "pronunciation": "uhn rah-koor-SEE", "example": "Ce raccourci fait gagner une phrase et perdre le sens.", "exampleEnglish": "This shortcut saves a sentence and loses the meaning.", "level": "C1", "category": "communication" },
+            { "id": "le-contresens", "french": "le contresens", "english": "the misinterpretation", "partOfSpeech": "noun", "gender": "m", "plural": "les contresens", "pronunciation": "luh kon-truh-SAHNS", "example": "Attribuer une intention aux gènes est un contresens classique.", "exampleEnglish": "Attributing intention to genes is a classic misinterpretation.", "level": "C1", "category": "communication" },
+            { "id": "le-jargon", "french": "le jargon", "english": "the jargon", "partOfSpeech": "noun", "gender": "m", "plural": "les jargons", "pronunciation": "luh zhar-GON", "example": "Le jargon rassure celui qui parle et exclut celui qui écoute.", "exampleEnglish": "Jargon reassures the speaker and excludes the listener.", "level": "C1", "category": "communication" },
+            { "id": "le-terme-technique", "french": "le terme technique", "english": "the technical term", "partOfSpeech": "noun", "gender": "m", "plural": "les termes techniques", "pronunciation": "luh TERM tek-NEEK", "example": "Gardez le terme technique, mais donnez-en la traduction aussitôt.", "exampleEnglish": "Keep the technical term, but give its translation immediately.", "level": "C1", "category": "communication" },
+            { "id": "la-terminologie", "french": "la terminologie", "english": "the terminology", "partOfSpeech": "noun", "gender": "f", "plural": "les terminologies", "pronunciation": "lah ter-mee-noh-loh-ZHEE", "example": "La terminologie varie d'une discipline à l'autre.", "exampleEnglish": "Terminology varies from one discipline to another.", "level": "C1", "category": "communication" },
+            { "id": "reformuler", "french": "reformuler", "english": "to rephrase", "partOfSpeech": "verb", "pronunciation": "ruh-for-mew-LAY", "example": "Reformulez la phrase sans aucun chiffre, pour voir si elle tient.", "exampleEnglish": "Rephrase the sentence without any figures, to see whether it holds.", "level": "C1", "category": "communication" },
+            { "id": "la-reformulation", "french": "la reformulation", "english": "the rephrasing", "partOfSpeech": "noun", "gender": "f", "plural": "les reformulations", "pronunciation": "lah ruh-for-mew-lah-SYON", "example": "Une bonne reformulation ne perd ni la nuance ni le lecteur.", "exampleEnglish": "A good rephrasing loses neither the nuance nor the reader.", "level": "C1", "category": "communication" },
+            { "id": "la-mise-en-contexte", "french": "la mise en contexte", "english": "the contextualisation", "partOfSpeech": "noun", "gender": "f", "plural": "les mises en contexte", "pronunciation": "lah meez ahn kon-TEKST", "example": "Sans mise en contexte, un chiffre ne signifie rien.", "exampleEnglish": "Without contextualisation, a figure means nothing.", "level": "C1", "category": "communication" },
+            { "id": "le-fil-conducteur", "french": "le fil conducteur", "english": "the guiding thread", "partOfSpeech": "noun", "gender": "m", "plural": "les fils conducteurs", "pronunciation": "luh FEEL kon-dewk-TUHR", "example": "Le fil conducteur de l'article est une seule question simple.", "exampleEnglish": "The guiding thread of the article is one simple question.", "level": "C1", "category": "communication" },
+            { "id": "rendre-accessible", "french": "rendre accessible", "english": "to make accessible", "partOfSpeech": "verb", "pronunciation": "RAHNDR ahk-seh-SEEBL", "example": "Rendre accessible n'autorise pas à rendre approximatif.", "exampleEnglish": "Making something accessible does not license making it approximate.", "level": "C1", "category": "communication" },
+            { "id": "l-accroche", "french": "l'accroche", "english": "the hook (opening line)", "partOfSpeech": "noun", "gender": "f", "plural": "les accroches", "pronunciation": "lah-KROSH", "example": "L'accroche doit intriguer sans promettre plus que l'article.", "exampleEnglish": "The hook must intrigue without promising more than the article.", "level": "C1", "category": "communication" },
+            { "id": "le-titre-racoleur", "french": "le titre racoleur", "english": "the clickbait headline", "partOfSpeech": "noun", "gender": "m", "plural": "les titres racoleurs", "pronunciation": "luh TEETR rah-koh-LUHR", "example": "Un titre racoleur détruit la confiance qu'on a mis des années à bâtir.", "exampleEnglish": "A clickbait headline destroys trust that took years to build.", "level": "C1", "category": "communication" },
+            { "id": "le-sensationnalisme", "french": "le sensationnalisme", "english": "sensationalism", "partOfSpeech": "noun", "gender": "m", "plural": "les sensationnalismes", "pronunciation": "luh sahn-sah-syoh-nah-LEEZM", "example": "Le sensationnalisme fait lire une fois et perdre un lectorat.", "exampleEnglish": "Sensationalism gets you read once and loses you a readership.", "level": "C1", "category": "communication" },
+            { "id": "l-exactitude", "french": "l'exactitude", "english": "accuracy", "partOfSpeech": "noun", "gender": "f", "plural": "les exactitudes", "pronunciation": "leg-zahk-tee-TEWD", "example": "L'exactitude prime sur l'élégance de la formule.", "exampleEnglish": "Accuracy takes precedence over the elegance of the phrasing.", "level": "C1", "category": "communication" },
+            { "id": "fidele-aux-faits", "french": "fidèle aux faits", "english": "faithful to the facts", "partOfSpeech": "expression", "pronunciation": "fee-DEL oh FEH", "example": "Un récit peut être vivant et rester fidèle aux faits.", "exampleEnglish": "A narrative can be lively and remain faithful to the facts.", "level": "C1", "category": "communication" },
+            { "id": "la-mediation-scientifique", "french": "la médiation scientifique", "english": "science mediation, outreach", "partOfSpeech": "noun", "gender": "f", "plural": "les médiations scientifiques", "pronunciation": "lah may-dyah-SYON syahn-tee-FEEK", "example": "Le musée emploie deux personnes à la médiation scientifique.", "exampleEnglish": "The museum employs two people in science outreach.", "level": "C1", "category": "communication" },
+            { "id": "le-consensus-scientifique", "french": "le consensus scientifique", "english": "the scientific consensus", "partOfSpeech": "noun", "gender": "m", "plural": "les consensus scientifiques", "pronunciation": "luh kon-sahn-SEWS syahn-tee-FEEK", "example": "Un article isolé ne fait pas le consensus scientifique.", "exampleEnglish": "An isolated article does not make the scientific consensus.", "level": "C1", "category": "communication" },
+            { "id": "la-caution-scientifique", "french": "la caution scientifique", "english": "the scientific endorsement", "partOfSpeech": "noun", "gender": "f", "plural": "les cautions scientifiques", "pronunciation": "lah koh-SYON syahn-tee-FEEK", "example": "La publicité cherche une caution scientifique, non une preuve.", "exampleEnglish": "Advertising seeks a scientific endorsement, not a proof.", "level": "C1", "category": "communication" },
+            { "id": "susciter-la-curiosite", "french": "susciter la curiosité", "english": "to arouse curiosity", "partOfSpeech": "verb", "pronunciation": "sew-see-TAY lah kew-ryoh-zee-TAY", "example": "Une bonne conférence suscite la curiosité plus qu'elle ne l'épuise.", "exampleEnglish": "A good lecture arouses curiosity more than it exhausts it.", "level": "C1", "category": "communication" },
+            { "id": "l-emerveillement", "french": "l'émerveillement", "english": "wonder, sense of marvel", "partOfSpeech": "noun", "gender": "m", "plural": "les émerveillements", "pronunciation": "lay-mer-vay-MAHN", "example": "L'émerveillement ne dispense jamais de la rigueur.", "exampleEnglish": "Wonder never exempts you from rigour.", "level": "C1", "category": "communication" },
+            { "id": "preliminaire", "french": "préliminaire", "english": "preliminary", "partOfSpeech": "adjective", "pronunciation": "pray-lee-mee-NEHR", "example": "Ces travaux préliminaires n'ont pas encore été relus.", "exampleEnglish": "This preliminary work has not yet been reviewed.", "level": "C1", "category": "communication" },
+            { "id": "chez-la-souris", "french": "chez la souris", "english": "in mice (in animal studies)", "partOfSpeech": "expression", "pronunciation": "shay lah soo-REE", "example": "L'effet a été observé chez la souris, pas chez l'homme.", "exampleEnglish": "The effect was observed in mice, not in humans.", "level": "C1", "category": "communication" },
+            { "id": "une-etude-suggere", "french": "une étude suggère", "english": "a study suggests", "partOfSpeech": "expression", "pronunciation": "ewn ay-TEWD sewg-ZHEHR", "example": "Une étude suggère un lien, sans l'établir.", "exampleEnglish": "A study suggests a link, without establishing it.", "level": "C1", "category": "communication" },
+            { "id": "la-piste", "french": "la piste", "english": "the lead, the promising avenue", "partOfSpeech": "noun", "gender": "f", "plural": "les pistes", "pronunciation": "lah PEEST", "example": "C'est une piste sérieuse, pas encore une découverte.", "exampleEnglish": "It is a serious lead, not yet a discovery.", "level": "C1", "category": "communication" },
+            { "id": "l-image-mentale", "french": "l'image mentale", "english": "the mental image", "partOfSpeech": "noun", "gender": "f", "plural": "les images mentales", "pronunciation": "lee-MAHZH mahn-TAHL", "example": "Donnez une image mentale avant de donner un chiffre.", "exampleEnglish": "Give a mental image before giving a figure.", "level": "C1", "category": "communication" },
+            { "id": "l-encadre", "french": "l'encadré", "english": "the sidebar, the boxed text", "partOfSpeech": "noun", "gender": "m", "plural": "les encadrés", "pronunciation": "lahn-kah-DRAY", "example": "L'encadré explique la méthode en huit lignes.", "exampleEnglish": "The sidebar explains the method in eight lines.", "level": "C1", "category": "communication" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Comparer et nuancer : comme, tel que, à la manière de",
+              "body": "Analogies need calibrated comparison markers. « Comme » is neutral and general; « tel que » is more formal and agrees with the noun it follows (« un dispositif tel qu'un microscope »); « à la manière de » stresses the manner rather than the identity; « à l'instar de » is elegant and means \"like, following the example of\". To close the comparison, French uses « à ceci près que » (\"with the difference that\") and « toutes proportions gardées » (\"allowing for the difference in scale\").",
+              "examples": [
+                { "french": "On peut se représenter le cerveau comme un réseau, et non comme un ordinateur.", "english": "One can picture the brain as a network, not as a computer." },
+                { "french": "Un instrument tel que le télescope spatial change l'échelle du problème.", "english": "An instrument such as the space telescope changes the scale of the problem." },
+                { "french": "L'enzyme fonctionne à la manière d'une clé, sans en avoir la rigidité.", "english": "The enzyme works like a key, without having its rigidity." },
+                { "french": "À l'instar des autres équipes, nous avons choisi un seuil de 5 %.", "english": "Like the other teams, we chose a 5% threshold." },
+                { "french": "C'est un atelier, à ceci près qu'aucun ouvrier n'y décide rien.", "english": "It is a workshop, with the difference that no worker decides anything in it." },
+                { "french": "Toutes proportions gardées, le phénomène rappelle une avalanche.", "english": "Allowing for scale, the phenomenon recalls an avalanche." }
+              ],
+              "tip": "« Tel que » agrees with what precedes it: « une méthode telle que… », « des outils tels que… ». Getting the agreement wrong is one of the most visible slips in written French."
+            },
+            {
+              "heading": "Le discours rapporté et la source",
+              "body": "When you report someone else's finding, French grammar lets you signal how much you take responsibility for it. « Selon l'équipe, l'effet est réel » stays neutral. The conditional does the heavy lifting: « l'effet serait réel » means \"reportedly real — not my claim\", a form used constantly in the French press. « D'après », « à en croire » and « pour l'auteur » add further distance, « à en croire » being frankly sceptical.",
+              "examples": [
+                { "french": "Selon les auteurs, la molécule agirait sur deux récepteurs.", "english": "According to the authors, the molecule reportedly acts on two receptors." },
+                { "french": "L'effet serait durable, mais aucune donnée à long terme n'existe.", "english": "The effect is said to be lasting, but no long-term data exist.", "note": "conditional = reported, unendorsed" },
+                { "french": "D'après cette équipe, le mécanisme est indépendant de l'âge.", "english": "According to this team, the mechanism is independent of age." },
+                { "french": "À en croire le communiqué, la découverte serait majeure.", "english": "If the press release is to be believed, the discovery is a major one.", "note": "clearly sceptical" },
+                { "french": "Les auteurs affirment avoir observé le phénomène deux fois.", "english": "The authors claim to have observed the phenomenon twice." },
+                { "french": "Le communiqué parle d'une avancée ; l'article, d'une piste.", "english": "The press release speaks of a breakthrough; the article, of a lead." }
+              ],
+              "tip": "Never use the reporting conditional for your own results: « nos données montreraient » reads as though you doubt yourself. Keep it for other people's claims."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "c1_u06_l03_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What is the speaker warning against?",
+              "french": "Le titre annonçait une révolution ; l'article, lui, parlait d'une simple piste.",
+              "options": [
+                "A headline that promises far more than the article",
+                "An article that is too technical for readers",
+                "A study carried out on too few subjects",
+                "A journalist who refused to name his sources"
+              ],
+              "answer": "A headline that promises far more than the article"
+            },
+            {
+              "id": "c1_u06_l03_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. How much does the speaker endorse the claim?",
+              "french": "À en croire le communiqué, la découverte serait majeure.",
+              "options": [
+                "Very little — the wording is openly sceptical",
+                "Fully — the speaker confirms the discovery",
+                "The speaker is the author of the discovery",
+                "The speaker says the discovery was disproved"
+              ],
+              "answer": "Very little — the wording is openly sceptical"
+            },
+            {
+              "id": "c1_u06_l03_li03",
+              "type": "listenType",
+              "prompt": "Type the sentence you hear.",
+              "french": "L'image est commode, mais elle a ses limites.",
+              "answer": "L'image est commode, mais elle a ses limites.",
+              "acceptedAnswers": [
+                "l image est commode mais elle a ses limites",
+                "L'image est commode mais elle a ses limites"
+              ]
+            },
+            {
+              "id": "c1_u06_l03_li04",
+              "type": "dictation",
+              "prompt": "Write the full sentence, accents included.",
+              "french": "Ce résultat a été obtenu chez la souris, et non chez l'homme.",
+              "answer": "Ce résultat a été obtenu chez la souris, et non chez l'homme.",
+              "acceptedAnswers": [
+                "ce resultat a ete obtenu chez la souris et non chez l homme",
+                "Ce resultat a ete obtenu chez la souris, et non chez l'homme"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "c1_u06_l03_sp01",
+              "type": "speak",
+              "prompt": "Introduce an analogy and announce that you will close it.",
+              "french": "On peut se représenter la cellule comme un atelier ; la comparaison s'arrête là.",
+              "english": "One can picture the cell as a workshop; the comparison stops there.",
+              "tip": "Drop the pitch on « la comparaison s'arrête là » — French speakers signal a caveat by lowering, not by slowing down."
+            },
+            {
+              "id": "c1_u06_l03_sp02",
+              "type": "speak",
+              "prompt": "Report a finding without endorsing it.",
+              "french": "Selon les auteurs, la molécule agirait sur deux récepteurs distincts.",
+              "english": "According to the authors, the molecule reportedly acts on two distinct receptors.",
+              "tip": "« agirait » is three syllables, ah-zhee-REH. The conditional ending does all the work — keep it clearly audible."
+            },
+            {
+              "id": "c1_u06_l03_sp03",
+              "type": "speak",
+              "prompt": "State the honest limit of a popular account.",
+              "french": "Voilà ce que cette étude montre ; voici, tout aussi important, ce qu'elle ne dit pas.",
+              "english": "Here is what this study shows; here, just as importantly, is what it does not say.",
+              "tip": "Mark the symmetry with equal stress on « montre » and « ne dit pas », and a real pause at the semicolon."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Chronique — « L'art de fermer une image »",
+              "french": "On reproche souvent aux chercheurs de mal expliquer. On reproche rarement aux vulgarisateurs d'expliquer trop bien.\nC'est pourtant là que le mal commence, car une explication trop lisse cesse d'être vraie sans cesser d'être claire.\nPrenons l'analogie la plus banale de la biologie contemporaine : le génome comme un livre, avec ses lettres, ses chapitres et ses fautes de frappe.\nL'image est excellente. Elle donne en dix secondes une intuition juste de la linéarité et de la copie.\nPuis elle se met à mentir. Un livre a un auteur, un sens de lecture, une intention.\nRien de tout cela dans une cellule, où la même séquence peut être lue autrement selon le moment et le tissu.\nLe vulgarisateur honnête ne renonce pas à l'image pour autant ; il la ferme.\nUne phrase suffit : « la comparaison s'arrête ici, car personne n'a écrit ce livre ».\nCe geste, minuscule, distingue la médiation scientifique de la publicité.\nIl coûte pourtant quelque chose, et c'est pour cela qu'on l'omet : il rompt le charme.\nLe lecteur venait chercher une révélation, il repart avec une nuance.\nMais la confiance se construit exactement de cette manière, phrase après phrase, pendant des années.\nUn titre racoleur, à l'inverse, s'achète en une soirée et se paie pendant une décennie.\nLes rédactions qui l'ont compris ont adopté une règle simple : le titre ne doit rien promettre que le troisième paragraphe ne tienne.\nRègle austère, sans doute. Elle a le mérite de laisser au lecteur ce qu'aucune audience ne remplace : la possibilité de croire ce qu'il lit.",
+              "english": "Researchers are often reproached for explaining badly. Popularisers are rarely reproached for explaining too well.\nYet that is where the trouble begins, for an explanation that is too smooth stops being true without ceasing to be clear.\nTake the most commonplace analogy of contemporary biology: the genome as a book, with its letters, its chapters and its typos.\nThe image is excellent. In ten seconds it gives an accurate intuition of linearity and of copying.\nThen it starts to lie. A book has an author, a direction of reading, an intention.\nNone of that exists in a cell, where the same sequence can be read differently depending on the moment and the tissue.\nThe honest populariser does not give up the image for all that; he closes it.\nOne sentence is enough: \"the comparison stops here, because nobody wrote this book\".\nThat tiny gesture is what distinguishes science mediation from advertising.\nIt costs something, though, and that is why it is left out: it breaks the spell.\nThe reader came looking for a revelation and leaves with a nuance.\nBut trust is built in exactly that way, sentence after sentence, over years.\nA clickbait headline, by contrast, is bought in one evening and paid for over a decade.\nThe newsrooms that have understood this have adopted a simple rule: the headline must promise nothing that the third paragraph cannot deliver.\nAn austere rule, no doubt. It has the merit of leaving the reader what no audience figure can replace: the possibility of believing what he reads.",
+              "questions": [
+                {
+                  "id": "c1_u06_l03_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Why does the text say the \"genome as a book\" analogy eventually lies?",
+                  "options": [
+                    "A book implies an author and an intention, which a cell has not",
+                    "A book is too short to represent a genome",
+                    "Books contain no typos, unlike genomes",
+                    "Readers of books never reread the same page"
+                  ],
+                  "answer": "A book implies an author and an intention, which a cell has not"
+                },
+                {
+                  "id": "c1_u06_l03_rd02",
+                  "type": "trueFalse",
+                  "prompt": "The author advises dropping analogies altogether in science writing.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                },
+                {
+                  "id": "c1_u06_l03_rd03",
+                  "type": "multipleChoice",
+                  "prompt": "What rule about headlines does the text report?",
+                  "options": [
+                    "The headline must promise nothing the third paragraph cannot deliver",
+                    "The headline must be written before the article",
+                    "The headline must always contain a figure",
+                    "The headline must be approved by the researchers quoted"
+                  ],
+                  "answer": "The headline must promise nothing the third paragraph cannot deliver"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "c1_u06_l03_wr01",
+              "type": "translate",
+              "prompt": "Translate: \"A study suggests a link; it does not prove it.\"",
+              "english": "A study suggests a link; it does not prove it.",
+              "answer": "Une étude suggère un lien ; elle ne le démontre pas.",
+              "acceptedAnswers": [
+                "une etude suggere un lien elle ne le demontre pas",
+                "Une étude suggère un lien ; elle ne le prouve pas."
+              ]
+            },
+            {
+              "id": "c1_u06_l03_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order to close an analogy.",
+              "english": "The comparison stops there: a gene has no intention.",
+              "words": ["s'arrête", "n'a", "La comparaison", "d'intention", "là", "un gène", "pas"],
+              "answer": "La comparaison s'arrête là un gène n'a pas d'intention"
+            },
+            {
+              "id": "c1_u06_l03_wr03",
+              "type": "translate",
+              "prompt": "Translate: \"This work, still preliminary, has not been peer-reviewed.\"",
+              "english": "This work, still preliminary, has not been peer-reviewed.",
+              "answer": "Ces travaux, encore préliminaires, n'ont pas été relus par les pairs.",
+              "acceptedAnswers": [
+                "ces travaux encore preliminaires n ont pas ete relus par les pairs",
+                "Ces travaux, encore préliminaires, n'ont pas fait l'objet d'une revue par les pairs."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "c1_u06_l03_pr01",
+              "type": "multipleChoice",
+              "prompt": "Which headline respects the study « une corrélation a été observée chez la souris » ?",
+              "options": [
+                "Chez la souris, une corrélation qui reste à expliquer",
+                "La cause enfin découverte",
+                "Les scientifiques ont prouvé le lien",
+                "Une révolution médicale annoncée"
+              ],
+              "answer": "Chez la souris, une corrélation qui reste à expliquer"
+            },
+            {
+              "id": "c1_u06_l03_pr02",
+              "type": "fillBlank",
+              "prompt": "Complete with the reporting conditional: « Selon les auteurs, la molécule ___ sur deux récepteurs. » (agir)",
+              "answer": "agirait",
+              "hint": "Conditional présent, third person singular."
+            },
+            {
+              "id": "c1_u06_l03_pr03",
+              "type": "match",
+              "prompt": "Match each expression with its function.",
+              "pairs": [
+                { "french": "à ceci près que", "english": "marks where a comparison breaks down" },
+                { "french": "toutes proportions gardées", "english": "allows for a difference of scale" },
+                { "french": "à en croire", "english": "reports a claim sceptically" },
+                { "french": "à l'instar de", "english": "following the example of, like" }
+              ]
+            },
+            {
+              "id": "c1_u06_l03_pr04",
+              "type": "fillBlank",
+              "prompt": "Agreement: « des outils ___ que le microscope électronique » (tel)",
+              "answer": "tels",
+              "hint": "« tel que » agrees with the plural masculine noun before it."
+            },
+            {
+              "id": "c1_u06_l03_pr05",
+              "type": "multipleChoice",
+              "prompt": "« la simplification abusive » is…",
+              "options": [
+                "a simplification that changes the conclusion",
+                "a clear explanation for beginners",
+                "a summary written by the author",
+                "a translation of a technical term"
+              ],
+              "answer": "a simplification that changes the conclusion"
+            },
+            {
+              "id": "c1_u06_l03_pr06",
+              "type": "translate",
+              "prompt": "Translate: \"Without contextualisation, a figure means nothing.\"",
+              "english": "Without contextualisation, a figure means nothing.",
+              "answer": "Sans mise en contexte, un chiffre ne signifie rien.",
+              "acceptedAnswers": [
+                "sans mise en contexte un chiffre ne signifie rien",
+                "Sans mise en contexte, un chiffre ne veut rien dire."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "c1_u06_l03_qz01",
+              "type": "multipleChoice",
+              "prompt": "In French, « la vulgarisation » is…",
+              "options": [
+                "a respected craft of explaining science to the public",
+                "a coarse or vulgar way of speaking",
+                "the peer-review process",
+                "the publication of raw data"
+              ],
+              "answer": "a respected craft of explaining science to the public"
+            },
+            {
+              "id": "c1_u06_l03_qz02",
+              "type": "multipleChoice",
+              "prompt": "What does the conditional do in « l'effet serait durable » ?",
+              "options": [
+                "It reports the claim without endorsing it",
+                "It places the effect in the future",
+                "It expresses a polite request",
+                "It states the writer's own certainty"
+              ],
+              "answer": "It reports the claim without endorsing it"
+            },
+            {
+              "id": "c1_u06_l03_qz03",
+              "type": "fillBlank",
+              "prompt": "Complete: « C'est un atelier, à ceci ___ qu'aucun ouvrier n'y décide rien. »",
+              "answer": "près",
+              "hint": "Two letters plus an accent; the phrase means \"with the difference that\"."
+            },
+            {
+              "id": "c1_u06_l03_qz04",
+              "type": "multipleChoice",
+              "prompt": "According to the lesson, a good populariser closes an analogy by…",
+              "options": [
+                "stating explicitly where the comparison no longer holds",
+                "repeating it in the conclusion",
+                "replacing it with a statistic",
+                "attributing it to a famous scientist"
+              ],
+              "answer": "stating explicitly where the comparison no longer holds"
+            },
+            {
+              "id": "c1_u06_l03_qz05",
+              "type": "translate",
+              "prompt": "Translate: \"Every technical term kept must be paid for with an explanation.\"",
+              "english": "Every technical term kept must be paid for with an explanation.",
+              "answer": "Chaque terme technique conservé doit être payé par une explication.",
+              "acceptedAnswers": [
+                "chaque terme technique conserve doit etre paye par une explication",
+                "Tout terme technique conservé doit être payé par une explication."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,566 @@
+{
+  "id": "c2_u10",
+  "level": "C2",
+  "unit": 10,
+  "title": "Regional Literature",
+  "subtitle": "The literary voices of the French-speaking regions",
+  "icon": "🌾",
+  "lessons": [
+    {
+      "id": "c2_u10_l01",
+      "level": "C2",
+      "unit": 10,
+      "title": "Les voix du Sud",
+      "description": "How Southern French writing captures the accent, rhythm, and rural imagination of the Midi — without ever leaving standard grammar behind.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "La musique du Midi",
+              "body": "Southern French — the French spoken from Toulouse to Marseille and across Provence — keeps every syllable audible, including the 'e' that falls silent in the north, and stretches its vowels into a sing-song rise and fall. Writers from the region often signal this cadence through word choice, punctuation, and rhythm rather than by respelling words, since standard spelling stays intact even when the sound is unmistakably southern.",
+              "examples": [
+                { "french": "Chez nous, on dit toutes les syllabes, même les petites.", "english": "Around here, we say every syllable, even the small ones.", "note": "a southern speaker explaining the accent" },
+                { "french": "Sa voix montait et retombait comme une chanson.", "english": "His voice rose and fell like a song.", "note": "describing the accent chantant in prose" },
+                { "french": "Il parlait lentement, savourant chaque mot.", "english": "He spoke slowly, savouring every word." },
+                { "french": "L'accent du Midi ne s'écrit pas, il s'entend.", "english": "The Midi accent isn't written, it's heard." },
+                { "french": "Ici, même le silence a un accent.", "english": "Here, even silence has an accent.", "note": "a common regional turn of phrase" }
+              ],
+              "tip": "In C2 reading, treat a marked accent as a narrative signal — it tells you where a character is from before the text says so."
+            },
+            {
+              "heading": "Une littérature de terroir",
+              "body": "Southern regionalist writing grew out of a desire to put rural and small-town Provence, Languedoc, and Gascony on the literary map: markets, vineyards, cicadas, the mistral wind, long summers of farniente. It favours the conteur's voice — warm, digressive, close to oral storytelling — over the terse economy sometimes prized in Paris. None of this makes the register 'less' French; it is simply French with its sleeves rolled up and its feet in the garrigue.",
+              "examples": [
+                { "french": "Le roman s'ouvrait sur le marché du village, un jour de canicule.", "english": "The novel opened on the village market, on a scorching day." },
+                { "french": "Elle racontait l'histoire comme on la lui avait racontée, veillée après veillée.", "english": "She told the story the way it had been told to her, evening after evening." },
+                { "french": "Le narrateur prenait son temps ; ici, personne ne presse un récit.", "english": "The narrator took his time; here, nobody rushes a story." },
+                { "french": "La couleur locale n'est pas un décor, c'est une manière de voir.", "english": "Local colour isn't a backdrop, it's a way of seeing." }
+              ],
+              "tip": "This tradition treats digression as a virtue, not a flaw — a straight line to the point can feel cold in a southern tale."
+            },
+            {
+              "heading": "Mots du pays dans la phrase",
+              "body": "Southern writers often drop a single regional word — inherited from Occitan, the old language of the south — into an otherwise perfectly standard French sentence, the way a cook adds one strong spice. The grammar around it stays textbook French; only the word itself carries the accent of the pays.",
+              "examples": [
+                { "french": "Viens ici, pitchoun, ne reste pas dans le soleil.", "english": "Come here, little one, don't stay in the sun." },
+                { "french": "Peuchère, la pauvre, elle a dû tout porter seule.", "english": "Poor thing, she had to carry everything alone.", "note": "peuchère: a Provençal exclamation of sympathy" },
+                { "french": "On sentait déjà l'odeur de la garrigue avant de la voir.", "english": "You could smell the scrubland before you saw it." },
+                { "french": "Le vieux parlait patois avec ses frères, français avec le maire.", "english": "The old man spoke patois with his brothers, French with the mayor." },
+                { "french": "Un seul mot d'oc, et toute la phrase sentait le pays.", "english": "One word of Occitan, and the whole sentence smelled of home." }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "accent-du-midi", "french": "l'accent du Midi", "english": "southern French accent", "partOfSpeech": "expression", "pronunciation": "lak-SAHN dyu mee-DEE", "example": "On reconnaît son accent du Midi dès la première phrase.", "exampleEnglish": "You recognise his southern accent from the first sentence.", "level": "C2", "category": "regional-literature" },
+            { "id": "patois", "french": "le patois", "english": "local dialect", "partOfSpeech": "noun", "gender": "m", "plural": "patois", "pronunciation": "luh pah-TWAH", "example": "Le grand-père glissait des mots de patois dans ses histoires.", "exampleEnglish": "The grandfather slipped patois words into his stories.", "level": "C2", "category": "regional-literature" },
+            { "id": "pitchoun", "french": "le pitchoun", "english": "little one, kid (Provence)", "partOfSpeech": "noun", "gender": "m", "plural": "pitchouns", "pronunciation": "pee-CHOON", "example": "Le pitchoun courait pieds nus dans la garrigue.", "exampleEnglish": "The little one ran barefoot through the scrubland.", "level": "C2", "category": "regional-literature" },
+            { "id": "regionalisme", "french": "le régionalisme", "english": "regionalism (in literature: a rooted, local voice)", "partOfSpeech": "noun", "gender": "m", "plural": "régionalismes", "pronunciation": "ray-zhyoh-nah-LEESM", "example": "Le régionalisme méridional a longtemps été mal vu à Paris.", "exampleEnglish": "Southern regionalism was long looked down on in Paris.", "level": "C2", "category": "regional-literature" },
+            { "id": "l-oralite", "french": "l'oralité", "english": "orality, oral storytelling tradition", "partOfSpeech": "noun", "gender": "f", "plural": "oralités", "pronunciation": "o-rah-lee-TAY", "example": "Son écriture garde toute l'oralité des veillées d'autrefois.", "exampleEnglish": "His writing keeps all the orality of old-time storytelling evenings.", "level": "C2", "category": "regional-literature" },
+            { "id": "la-bouillabaisse", "french": "la bouillabaisse", "english": "Marseille fish stew", "partOfSpeech": "noun", "gender": "f", "plural": "bouillabaisses", "pronunciation": "boo-ya-BESS", "example": "Le chapitre entier tourne autour d'une bouillabaisse partagée.", "exampleEnglish": "The whole chapter revolves around a shared bouillabaisse.", "level": "C2", "category": "regional-literature" },
+            { "id": "la-petanque", "french": "la pétanque", "english": "pétanque, boules", "partOfSpeech": "noun", "gender": "f", "plural": "pétanques", "pronunciation": "pay-TAHNK", "example": "Le roman s'ouvre sur une partie de pétanque à l'ombre des platanes.", "exampleEnglish": "The novel opens on a game of pétanque in the shade of the plane trees.", "level": "C2", "category": "regional-literature" },
+            { "id": "le-dialecte", "french": "le dialecte", "english": "dialect", "partOfSpeech": "noun", "gender": "m", "plural": "dialectes", "pronunciation": "luh dya-LEKT", "example": "Le dialecte se glisse dans les dialogues, jamais dans la voix du narrateur.", "exampleEnglish": "The dialect creeps into the dialogue, never into the narrator's voice.", "level": "C2", "category": "regional-literature" },
+            { "id": "le-terroir", "french": "le terroir", "english": "the land's local character (soil, climate, way of life)", "partOfSpeech": "noun", "gender": "m", "plural": "terroirs", "pronunciation": "teh-RWAHR", "example": "C'est une écriture de terroir, enracinée dans un seul coin de pays.", "exampleEnglish": "It's writing of the terroir, rooted in a single corner of the country.", "level": "C2", "category": "regional-literature" },
+            { "id": "authentique", "french": "authentique", "english": "authentic, genuine", "partOfSpeech": "adjective", "pronunciation": "oh-tahn-TEEK", "example": "Les lecteurs cherchaient une voix authentique, pas une carte postale.", "exampleEnglish": "Readers were looking for an authentic voice, not a postcard.", "level": "C2", "category": "regional-literature" },
+            { "id": "la-chaleur", "french": "la chaleur", "english": "heat, warmth", "partOfSpeech": "noun", "gender": "f", "plural": "chaleurs", "pronunciation": "lah shah-LUHR", "example": "La chaleur de l'après-midi ralentit même les phrases.", "exampleEnglish": "The afternoon heat slows down even the sentences.", "level": "C2", "category": "regional-literature" },
+            { "id": "lumiere", "french": "la lumière", "english": "light", "partOfSpeech": "noun", "gender": "f", "plural": "lumières", "pronunciation": "lu-MYEHR", "example": "Les écrivains du Sud décrivent une lumière presque blanche.", "exampleEnglish": "Southern writers describe an almost white light.", "level": "C2", "category": "regional-literature" },
+            { "id": "la-nostalgie", "french": "la nostalgie", "english": "nostalgia", "partOfSpeech": "noun", "gender": "f", "plural": "nostalgies", "pronunciation": "no-stahl-ZHEE", "example": "Le texte flirte avec la nostalgie sans jamais s'y noyer.", "exampleEnglish": "The text flirts with nostalgia without ever drowning in it.", "level": "C2", "category": "regional-literature" },
+            { "id": "la-transmission", "french": "la transmission", "english": "transmission, passing down (of a tradition)", "partOfSpeech": "noun", "gender": "f", "plural": "transmissions", "pronunciation": "trahns-mee-SYOHN", "example": "Le livre entier est une histoire de transmission entre générations.", "exampleEnglish": "The whole book is a story of transmission between generations.", "level": "C2", "category": "regional-literature" },
+            { "id": "patrimoine", "french": "le patrimoine", "english": "heritage", "partOfSpeech": "noun", "gender": "m", "plural": "patrimoines", "pronunciation": "pah-tree-MWAHN", "example": "Ces récits font partie du patrimoine oral de la région.", "exampleEnglish": "These tales are part of the region's oral heritage.", "level": "C2", "category": "regional-literature" },
+            { "id": "paysage", "french": "le paysage", "english": "landscape", "partOfSpeech": "noun", "gender": "m", "plural": "paysages", "pronunciation": "pay-ee-ZAHZH", "example": "Le paysage n'est jamais un simple décor dans ces romans.", "exampleEnglish": "The landscape is never just a backdrop in these novels.", "level": "C2", "category": "regional-literature" },
+            { "id": "le-recit", "french": "le récit", "english": "the narrative, the tale", "partOfSpeech": "noun", "gender": "m", "plural": "récits", "pronunciation": "luh ray-SEE", "example": "Le récit avance au rythme d'une conversation, pas d'une intrigue.", "exampleEnglish": "The narrative moves at the pace of a conversation, not a plot.", "level": "C2", "category": "regional-literature" },
+            { "id": "savoureux", "french": "savoureux", "english": "flavourful, richly enjoyable (of language)", "partOfSpeech": "adjective", "pronunciation": "sah-voo-RUH", "example": "Son style est savoureux, plein d'expressions du pays.", "exampleEnglish": "His style is richly flavourful, full of local expressions.", "level": "C2", "category": "regional-literature" },
+            { "id": "evoquer", "french": "évoquer", "english": "to evoke", "partOfSpeech": "verb", "pronunciation": "ay-vo-KAY", "example": "Trois mots suffisent à évoquer tout un été de vacances.", "exampleEnglish": "Three words are enough to evoke a whole summer holiday.", "level": "C2", "category": "regional-literature" },
+            { "id": "le-midi", "french": "le Midi", "english": "the South of France", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh mee-DEE", "example": "Tout son œuvre est ancrée dans le Midi.", "exampleEnglish": "His whole body of work is rooted in the South of France.", "level": "C2", "category": "regional-literature" },
+            { "id": "l-occitan", "french": "l'occitan", "english": "Occitan (the historic language of southern France)", "partOfSpeech": "noun", "gender": "m", "pronunciation": "lohk-see-TAHN", "example": "Certains auteurs mêlent français et occitan dans un même dialogue.", "exampleEnglish": "Some authors mix French and Occitan within the same dialogue.", "level": "C2", "category": "regional-literature" },
+            { "id": "langue-d-oc", "french": "la langue d'oc", "english": "the langue d'oc (Occitan, historically)", "partOfSpeech": "expression", "pronunciation": "lahng dohk", "example": "La langue d'oc a nourri des siècles de poésie méridionale.", "exampleEnglish": "The langue d'oc fed centuries of southern poetry.", "level": "C2", "category": "regional-literature" },
+            { "id": "felibrige", "french": "le félibrige", "english": "a 19th-century movement to revive southern language and literature", "partOfSpeech": "noun", "gender": "m", "pronunciation": "fay-lee-BREEZH", "example": "Le félibrige voulait redonner ses lettres de noblesse à la langue du Sud.", "exampleEnglish": "The félibrige movement wanted to restore the southern language's literary standing.", "level": "C2", "category": "regional-literature" },
+            { "id": "la-cigale", "french": "la cigale", "english": "cicada", "partOfSpeech": "noun", "gender": "f", "plural": "cigales", "pronunciation": "see-GAHL", "example": "Le chant des cigales ouvre presque chaque chapitre.", "exampleEnglish": "The song of the cicadas opens almost every chapter.", "level": "C2", "category": "regional-literature" },
+            { "id": "la-garrigue", "french": "la garrigue", "english": "scrubland, dry Mediterranean scrub", "partOfSpeech": "noun", "gender": "f", "plural": "garrigues", "pronunciation": "gah-REEG", "example": "L'odeur de thym et de garrigue traverse tout le texte.", "exampleEnglish": "The smell of thyme and scrubland runs through the whole text.", "level": "C2", "category": "regional-literature" },
+            { "id": "le-mistral", "french": "le mistral", "english": "the mistral (a strong, cold wind of southern France)", "partOfSpeech": "noun", "gender": "m", "pronunciation": "mee-STRAHL", "example": "Le mistral souffle si fort qu'il devient un personnage à part entière.", "exampleEnglish": "The mistral blows so hard that it becomes a character in its own right.", "level": "C2", "category": "regional-literature" },
+            { "id": "l-aioli", "french": "l'aïoli", "english": "aïoli (garlic mayonnaise, and the dish built around it)", "partOfSpeech": "noun", "gender": "m", "pronunciation": "ah-yoh-LEE", "example": "Le repas d'aïoli du dimanche rassemble tout le village dans le récit.", "exampleEnglish": "The Sunday aïoli meal brings the whole village together in the story.", "level": "C2", "category": "regional-literature" },
+            { "id": "le-farniente", "french": "le farniente", "english": "pleasant idleness, doing nothing in particular", "partOfSpeech": "noun", "gender": "m", "pronunciation": "far-nyahn-TAY", "example": "Le roman fait l'éloge du farniente estival.", "exampleEnglish": "The novel sings the praises of summer idleness.", "level": "C2", "category": "regional-literature" },
+            { "id": "la-couleur-locale", "french": "la couleur locale", "english": "local colour (a literary term)", "partOfSpeech": "expression", "pronunciation": "koo-LUHR loh-KAHL", "example": "On lui a reproché de forcer la couleur locale.", "exampleEnglish": "He was criticised for overdoing the local colour.", "level": "C2", "category": "regional-literature" },
+            { "id": "le-conteur", "french": "le conteur", "english": "storyteller", "partOfSpeech": "noun", "gender": "m", "plural": "conteurs", "pronunciation": "luh kohn-TUHR", "example": "Le narrateur se pose en simple conteur de village.", "exampleEnglish": "The narrator presents himself as a simple village storyteller.", "level": "C2", "category": "regional-literature" },
+            { "id": "la-tradition-orale", "french": "la tradition orale", "english": "oral tradition", "partOfSpeech": "expression", "pronunciation": "trah-dee-SYOHN o-RAHL", "example": "Le style doit tout à la tradition orale des veillées.", "exampleEnglish": "The style owes everything to the oral tradition of storytelling evenings.", "level": "C2", "category": "regional-literature" },
+            { "id": "chantant", "french": "chantant", "english": "singsong, lilting (of an accent)", "partOfSpeech": "adjective", "pronunciation": "shahn-TAHN", "example": "Elle a gardé son accent chantant même après vingt ans à Paris.", "exampleEnglish": "She kept her lilting accent even after twenty years in Paris.", "level": "C2", "category": "regional-literature" },
+            { "id": "le-pastis", "french": "le pastis", "english": "pastis (aniseed apéritif, and its social ritual)", "partOfSpeech": "noun", "gender": "m", "pronunciation": "pah-STEES", "example": "Les dialogues les plus vrais se passent autour d'un pastis.", "exampleEnglish": "The most truthful dialogue happens over a pastis.", "level": "C2", "category": "regional-literature" },
+            { "id": "la-faconde", "french": "la faconde", "english": "gift of the gab, easy talkativeness", "partOfSpeech": "noun", "gender": "f", "pronunciation": "fah-KOHND", "example": "Le vieux pêcheur avait une faconde qui tenait toute la place en haleine.", "exampleEnglish": "The old fisherman had a gift of the gab that kept the whole square hanging on his words.", "level": "C2", "category": "regional-literature" },
+            { "id": "meridional", "french": "méridional", "english": "southern, of the Midi", "partOfSpeech": "adjective", "pronunciation": "may-ree-dyoh-NAHL", "example": "Son tempérament méridional perce dans chaque page.", "exampleEnglish": "His southern temperament shows through on every page.", "level": "C2", "category": "regional-literature" },
+            { "id": "le-dicton", "french": "le dicton", "english": "saying, proverb", "partOfSpeech": "noun", "gender": "m", "plural": "dictons", "pronunciation": "luh deek-TOHN", "example": "Chaque chapitre s'ouvre sur un vieux dicton du pays.", "exampleEnglish": "Every chapter opens with an old local saying.", "level": "C2", "category": "regional-literature" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Représenter l'accent sans casser la langue",
+              "body": "Southern writers rarely respell words to fake an accent — that would tip into caricature. Instead they signal the accent through rhythm markers: short exclamations, repeated interjections, and sentences that trail with an extra beat. The grammar underneath stays entirely standard; only the texture around it changes.",
+              "examples": [
+                { "french": "Allez, viens, on va être en retard, té !", "english": "Come on, let's go, we'll be late, come on!", "note": "\"té\" is a rhythmic filler, not a grammar change" },
+                { "french": "Il a dit ça tout doucement, en traînant sur les voyelles.", "english": "He said it very softly, drawing out the vowels." },
+                { "french": "— Alors, qu'es aco ? demanda-t-il, mi-français mi-occitan.", "english": "\"So, what's that?\" he asked, half in French, half in Occitan." },
+                { "french": "La phrase s'étirait, comme si elle avait tout son temps.", "english": "The sentence stretched out, as if it had all the time in the world." }
+              ],
+              "tip": "At C2 level, learn to hear the accent in punctuation and rhythm, not in misspelled words — that distinction separates respectful regionalism from mockery."
+            },
+            {
+              "heading": "Le régionalisme lexical dans une syntaxe standard",
+              "body": "A single occitanism or Provençal borrowing can sit inside a completely standard French clause without disturbing its grammar: word order, agreement, and tense stay textbook. What changes is register — the sentence suddenly feels local, warm, specific. Recognising this lets you read regional prose without mistaking regional vocabulary for grammatical error.",
+              "examples": [
+                { "french": "Le pitchoun s'est endormi sous le figuier.", "english": "The little one fell asleep under the fig tree.", "note": "standard passé composé, one regional noun" },
+                { "french": "Elle a préparé l'aïoli comme sa grand-mère le lui avait appris.", "english": "She made the aïoli the way her grandmother had taught her." },
+                { "french": "On y allait, peuchère, sans se plaindre.", "english": "We went along, poor souls, without complaining." },
+                { "french": "Le patois revenait dans sa bouche dès qu'il était en colère.", "english": "The patois came back to his lips as soon as he got angry." }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "c2_u10_l01_li01", "type": "listenChoose", "prompt": "Listen. What does the speaker mean?", "french": "Il a un accent chantant, on sent tout de suite qu'il vient du Midi.", "options": ["He has a singsong accent, you can tell right away he's from the South.", "He can't sing at all, everyone knows it.", "He refuses to speak French properly.", "He just moved to Paris last month."], "answer": "He has a singsong accent, you can tell right away he's from the South." },
+            { "id": "c2_u10_l01_li02", "type": "listenChoose", "prompt": "Listen. What literary quality is being described?", "french": "Ce roman appartient à une littérature de terroir, ancrée dans le paysage et l'oralité.", "options": ["A regionalist novel, rooted in landscape and oral storytelling.", "A science-fiction novel set in space.", "A courtroom drama with no setting described.", "A grammar textbook for beginners."], "answer": "A regionalist novel, rooted in landscape and oral storytelling." },
+            { "id": "c2_u10_l01_li03", "type": "listenType", "prompt": "Listen and type what you hear.", "french": "Le mistral soufflait si fort que les volets claquaient.", "answer": "Le mistral soufflait si fort que les volets claquaient.", "acceptedAnswers": ["le mistral soufflait si fort que les volets claquaient"] },
+            { "id": "c2_u10_l01_li04", "type": "dictation", "prompt": "Listen carefully and write the full sentence, including the regional word.", "french": "Peuchère, la pauvre bête a marché tout l'après-midi sous la chaleur.", "answer": "Peuchère, la pauvre bête a marché tout l'après-midi sous la chaleur.", "acceptedAnswers": ["peuchere la pauvre bete a marche tout lapres-midi sous la chaleur"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "c2_u10_l01_sp01", "type": "speak", "prompt": "Read this southern-flavoured sentence aloud, letting every syllable land.", "french": "On a le temps, ici ; rien ne sert de courir sous ce soleil.", "english": "We've got time here; there's no point rushing under this sun.", "tip": "Stretch the vowels slightly and don't drop the final 'e' sounds — that's the whole southern rhythm." },
+            { "id": "c2_u10_l01_sp02", "type": "speak", "prompt": "Say this line the way a village conteur might deliver it.", "french": "Et voilà, pitchoun, c'est comme ça que ton grand-père a rencontré ta grand-mère.", "english": "And there you go, little one, that's how your grandfather met your grandmother.", "tip": "Slow down before 'pitchoun' — a storyteller pauses to draw the listener in." },
+            { "id": "c2_u10_l01_sp03", "type": "speak", "prompt": "Practise this exclamation of sympathy in context.", "french": "Peuchère, elle a dû tout porter seule jusqu'au village.", "english": "Poor thing, she had to carry everything alone all the way to the village.", "tip": "\"Peuchère\" carries warmth, not pity from above — say it gently, almost like a sigh." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Le marché du jeudi",
+              "french": "Le jeudi, le village entier descendait vers la place, dès l'aube, avant que la chaleur n'écrase les pavés.\nSur les étals, les melons voisinaient avec les tomates, et l'odeur du thym montait de la garrigue toute proche.\n— Approchez, approchez, criait le marchand, mes tomates ont mûri sous le vrai soleil, pas sous une lampe !\nSa voix chantait plus qu'elle ne parlait, montant sur la dernière syllabe comme une question qu'il ne posait pas.\nUne vieille femme s'arrêtait devant chaque étal, soupesait un fruit, le reposait, en repartait sans un mot.\n— Peuchère, disait-elle enfin, tout a tellement changé depuis que je suis pitchoune.\nLes cigales, déjà, s'étaient mises à chanter dans les platanes, comme si elles aussi avaient un marché à tenir.\nAu bout de la place, deux hommes jouaient à la pétanque à l'ombre, sans se presser, sans compter les heures.\nLe mistral s'était levé pendant la nuit et avait nettoyé le ciel d'un bleu presque douloureux.\nOn entendait, entre deux phrases de français, un mot de patois glissé comme une signature.\nLe boulanger, lui, gardait sa fournée du matin pour ceux qui viendraient après midi, par fidélité plus que par calcul.\nUne odeur d'aïoli flottait déjà depuis la maison du maire, où l'on préparait le repas du dimanche en avance.\nLes enfants couraient entre les jambes des adultes, pieds nus, indifférents à la chaleur qui écrasait les autres.\nLe vieux conteur du village, assis sur son banc habituel, attendait qu'on vienne lui demander une histoire.\nIl ne la racontait jamais deux fois de la même façon, et personne, ici, ne le lui reprochait.\nQuand midi sonna au clocher, la place se vida d'un coup, comme si le soleil avait donné le seul ordre qui comptât.",
+              "english": "On Thursdays, the whole village came down to the square at dawn, before the heat crushed the cobblestones.\nOn the stalls, melons sat next to tomatoes, and the smell of thyme rose from the nearby scrubland.\n\"Come closer, come closer,\" shouted the vendor, \"my tomatoes ripened under real sun, not under a lamp!\"\nHis voice sang more than it spoke, rising on the last syllable like a question he wasn't asking.\nAn old woman stopped at every stall, weighed a piece of fruit in her hand, put it back, and moved on without a word.\n\"Poor thing,\" she finally said, \"everything has changed so much since I was a little girl.\"\nThe cicadas had already started singing in the plane trees, as if they too had a market to keep.\nAt the far end of the square, two men played pétanque in the shade, unhurried, uncounting the hours.\nThe mistral had risen overnight and swept the sky into an almost painful blue.\nBetween two French sentences, you could hear a word of patois slipped in like a signature.\nThe baker kept his morning batch for those who would come after noon, out of loyalty more than calculation.\nA smell of aïoli already drifted from the mayor's house, where Sunday's meal was being prepared early.\nChildren ran between the adults' legs, barefoot, indifferent to the heat that crushed everyone else.\nThe village's old storyteller, sitting on his usual bench, waited for someone to ask him for a tale.\nHe never told it the same way twice, and here, nobody held that against him.\nWhen noon struck at the bell tower, the square emptied at once, as if the sun had given the only order that mattered.",
+              "questions": [
+                { "id": "c2_u10_l01_rd01", "type": "multipleChoice", "prompt": "What literary technique does the text use to suggest the vendor's southern accent?", "options": ["His voice is described as rising on the last syllable, like an unspoken question.", "His words are respelled phonetically throughout.", "He speaks entirely in Occitan with no French.", "The narrator explicitly states his hometown."], "answer": "His voice is described as rising on the last syllable, like an unspoken question." },
+                { "id": "c2_u10_l01_rd02", "type": "trueFalse", "prompt": "The two men at the end of the square are in a hurry to finish their game of pétanque.", "options": ["True", "False"], "answer": "False" },
+                { "id": "c2_u10_l01_rd03", "type": "multipleChoice", "prompt": "What does the old storyteller do differently each time, according to the text?", "options": ["He tells the same story a different way each time.", "He refuses to tell stories to children.", "He only tells stories in patois.", "He tells stories only on market days."], "answer": "He tells the same story a different way each time." }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "c2_u10_l01_wr01", "type": "translate", "prompt": "Translate into French, keeping a single regional word for local colour.", "english": "The old man spoke patois with his brothers and French with everyone else.", "answer": "Le vieil homme parlait patois avec ses frères et français avec tout le monde.", "acceptedAnswers": ["le vieil homme parlait patois avec ses freres et francais avec tout le monde"] },
+            { "id": "c2_u10_l01_wr02", "type": "translate", "prompt": "Translate into French.", "english": "Under the mistral, even the market square seemed to hold its breath.", "answer": "Sous le mistral, même la place du marché semblait retenir son souffle.", "acceptedAnswers": ["sous le mistral meme la place du marche semblait retenir son souffle"] },
+            { "id": "c2_u10_l01_wr03", "type": "translate", "prompt": "Translate into French, using an expression of sympathy from the lesson.", "english": "Poor thing, she walked all the way here under this heat.", "answer": "Peuchère, elle a marché jusqu'ici sous cette chaleur.", "acceptedAnswers": ["peuchere elle a marche jusquici sous cette chaleur"] }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "c2_u10_l01_pr01", "type": "multipleChoice", "prompt": "What best defines \"la couleur locale\" in a literary sense?", "options": ["Details of setting, speech, and custom that root a text in a specific place.", "The literal colour used on a book cover.", "A synonym for grammatical error.", "A type of southern dessert."], "answer": "Details of setting, speech, and custom that root a text in a specific place." },
+            { "id": "c2_u10_l01_pr02", "type": "fillBlank", "prompt": "L'odeur de thym montait de la ___ toute proche.", "answer": "garrigue" },
+            { "id": "c2_u10_l01_pr03", "type": "trueFalse", "prompt": "In the félibrige movement, standard French grammar was rejected entirely in favour of Occitan.", "options": ["True", "False"], "answer": "False" },
+            { "id": "c2_u10_l01_pr04", "type": "match", "pairs": [ { "french": "le mistral", "english": "the mistral wind" }, { "french": "la cigale", "english": "cicada" }, { "french": "le conteur", "english": "storyteller" }, { "french": "la garrigue", "english": "scrubland" } ] },
+            { "id": "c2_u10_l01_pr05", "type": "arrangeWords", "prompt": "Arrange the words to form a correct sentence.", "words": ["chantait", "voix", "sa", "plus", "parlait", "qu'elle", "ne"], "answer": "sa voix chantait plus qu'elle ne parlait", "english": "Her voice sang more than it spoke." },
+            { "id": "c2_u10_l01_pr06", "type": "multipleChoice", "prompt": "Which sentence best shows a regionalism sitting inside standard grammar?", "options": ["Le pitchoun s'est endormi sous le figuier.", "Le pitchoun endormi sous être le figuier.", "Pitchoun le sous figuier endormi.", "S'est le pitchoun figuier sous endormi."], "answer": "Le pitchoun s'est endormi sous le figuier." }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "c2_u10_l01_qz01", "type": "multipleChoice", "prompt": "What does \"le terroir\" refer to in southern regionalist writing?", "options": ["The local character of a place: its soil, climate, and way of life.", "A type of formal courtroom French.", "A synonym for verlan.", "The Parisian literary establishment."], "answer": "The local character of a place: its soil, climate, and way of life." },
+            { "id": "c2_u10_l01_qz02", "type": "trueFalse", "prompt": "Southern French writers typically respell every word phonetically to represent the accent.", "options": ["True", "False"], "answer": "False" },
+            { "id": "c2_u10_l01_qz03", "type": "fillBlank", "prompt": "Peuchère, la pauvre ___ a marché tout l'après-midi sous la chaleur.", "answer": "bête" },
+            { "id": "c2_u10_l01_qz04", "type": "translate", "prompt": "Translate into French.", "english": "One word of Occitan, and the whole sentence smelled of home.", "answer": "Un seul mot d'occitan, et toute la phrase sentait le pays.", "acceptedAnswers": ["un seul mot doccitan et toute la phrase sentait le pays"] },
+            { "id": "c2_u10_l01_qz05", "type": "multipleChoice", "prompt": "Which word describes an easy, warm gift for storytelling talk?", "options": ["la faconde", "le dicton", "le patrimoine", "la transmission"], "answer": "la faconde" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c2_u10_l02",
+      "level": "C2",
+      "unit": 10,
+      "title": "Les lettres belges et suisses",
+      "description": "Belgian and Swiss French have their own literary identity — a taste for the surreal, a habit of precision, and a vocabulary all their own.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Une francophonie sans complexe",
+              "body": "Belgium and French-speaking Switzerland are not satellites of Paris — they are old, independent centres of French-language writing, each with its own institutions, prizes, and publishing houses. Their literature has never needed to sound French from France; it sounds Belgian, or it sounds Swiss, and that is simply what French looks like when it grows in more than one soil.",
+              "examples": [
+                { "french": "La Belgique et la Suisse romande ont leurs propres académies et leurs propres prix littéraires.", "english": "Belgium and French-speaking Switzerland have their own academies and their own literary prizes." },
+                { "french": "On n'écrit pas 'en attendant Paris', on écrit chez soi.", "english": "You don't write 'waiting for Paris', you write at home.", "note": "a common rebuttal to the idea that Belgian or Swiss French is provincial" },
+                { "french": "Le plurilinguisme du pays infuse toute son écriture.", "english": "The country's multilingualism runs through all its writing." },
+                { "french": "Aucune de ces deux traditions ne s'excuse d'exister.", "english": "Neither of these two traditions apologises for existing." }
+              ],
+              "tip": "Treat 'belgicisme' and 'helvétisme' the way you'd treat any regional variety of English — a different norm, not a mistake."
+            },
+            {
+              "heading": "Le goût belge de l'insolite",
+              "body": "A recurring thread in Belgian French writing is a taste for the surreal and the slightly uncanny: ordinary streets, ordinary objects, tipped just a few degrees off balance until the everyday starts to feel strange. This isn't confined to one movement or one century — it resurfaces across genres, from prose to graphic storytelling, as a kind of national reflex.",
+              "examples": [
+                { "french": "La rue semblait tout à fait normale, sauf que personne n'y projetait d'ombre.", "english": "The street seemed perfectly normal, except that nobody cast a shadow on it." },
+                { "french": "L'insolite s'installe sans bruit, entre deux phrases banales.", "english": "The uncanny settles in quietly, between two ordinary sentences." },
+                { "french": "Le récit garde un ton posé même quand tout devient absurde.", "english": "The narrative keeps a level tone even as everything turns absurd." },
+                { "french": "C'est un surréalisme discret, presque poli.", "english": "It's a discreet, almost polite kind of surrealism." }
+              ]
+            },
+            {
+              "heading": "La précision suisse, entre les langues",
+              "body": "Swiss French writing often carries a reputation for precision and restraint — a legacy, some say, of a country that governs itself in four languages and cannot afford ambiguity. Its literature is also marked by the linguistic frontier itself: the 'Röstigraben', the informal divide between French-speaking and German-speaking Switzerland, shows up again and again as a subject and a source of dry humour.",
+              "examples": [
+                { "french": "Chaque mot est pesé comme s'il coûtait cher.", "english": "Every word is weighed as if it cost something." },
+                { "french": "De l'autre côté du Röstigraben, on ne raconte pas les histoires de la même façon.", "english": "On the other side of the Röstigraben, stories aren't told the same way." },
+                { "french": "La Suisse romande écrit dans l'ombre attentive de ses trois autres langues nationales.", "english": "French-speaking Switzerland writes in the attentive shadow of its three other national languages." },
+                { "french": "Rien n'est exagéré ; tout est mesuré, jusqu'à l'understatement.", "english": "Nothing is exaggerated; everything is measured, right down to the understatement." }
+              ],
+              "tip": "Don't mistake Swiss restraint for coldness — the emotion is there, just carefully rationed."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "belgicisme", "french": "le belgicisme", "english": "Belgian French word or usage", "partOfSpeech": "noun", "gender": "m", "plural": "belgicismes", "pronunciation": "bel-zhee-SEESM", "example": "Le texte est truffé de belgicismes assumés.", "exampleEnglish": "The text is peppered with unapologetic belgicisms.", "level": "C2", "category": "regional-literature" },
+            { "id": "helvetisme", "french": "l'helvétisme", "english": "Swiss French word or usage", "partOfSpeech": "noun", "gender": "m", "plural": "helvétismes", "pronunciation": "el-vay-TEESM", "example": "Certains helvétismes surprennent un lecteur parisien.", "exampleEnglish": "Some helvetisms surprise a reader from Paris.", "level": "C2", "category": "regional-literature" },
+            { "id": "septante", "french": "septante", "english": "seventy (Belgium, Switzerland)", "partOfSpeech": "number", "pronunciation": "sep-TAHNT", "example": "Le personnage a septante ans et ne s'en cache pas.", "exampleEnglish": "The character is seventy and doesn't hide it.", "level": "C2", "category": "regional-literature" },
+            { "id": "huitante", "french": "huitante", "english": "eighty (parts of Switzerland)", "partOfSpeech": "number", "pronunciation": "wee-TAHNT", "example": "Elle a vécu huitante ans dans le même village.", "exampleEnglish": "She lived eighty years in the same village.", "level": "C2", "category": "regional-literature" },
+            { "id": "nonante", "french": "nonante", "english": "ninety (Belgium, Switzerland)", "partOfSpeech": "number", "pronunciation": "noh-NAHNT", "example": "Le récit s'étend sur nonante années d'histoire familiale.", "exampleEnglish": "The story spans ninety years of family history.", "level": "C2", "category": "regional-literature" },
+            { "id": "drache", "french": "la drache", "english": "downpour (Belgium)", "partOfSpeech": "noun", "gender": "f", "plural": "draches", "pronunciation": "drahsh", "example": "Le roman s'ouvre sous une drache bien bruxelloise.", "exampleEnglish": "The novel opens under a proper Brussels downpour.", "level": "C2", "category": "regional-literature" },
+            { "id": "kot", "french": "le kot", "english": "student room, digs (Belgium)", "partOfSpeech": "noun", "gender": "m", "plural": "kots", "pronunciation": "kot", "example": "Toute l'action se déroule dans un kot d'étudiant à Louvain.", "exampleEnglish": "The whole plot takes place in a student's digs in Louvain.", "level": "C2", "category": "regional-literature" },
+            { "id": "avoir-facile", "french": "avoir facile", "english": "to find something easy (Belgium)", "partOfSpeech": "expression", "pronunciation": "ah-VWAHR fah-SEEL", "example": "Le narrateur a facile pour raconter le malheur des autres.", "exampleEnglish": "The narrator finds it easy to tell other people's misfortunes.", "level": "C2", "category": "regional-literature" },
+            { "id": "souper", "french": "le souper", "english": "evening meal (Belgium, Switzerland, Québec)", "partOfSpeech": "noun", "gender": "m", "plural": "soupers", "pronunciation": "soo-PAY", "example": "Toute la famille se retrouve autour du souper.", "exampleEnglish": "The whole family gathers around the evening meal.", "level": "C2", "category": "regional-literature" },
+            { "id": "dejeuner-belge", "french": "le déjeuner", "english": "breakfast (Belgium, Switzerland, Québec)", "partOfSpeech": "noun", "gender": "m", "plural": "déjeuners", "pronunciation": "day-zhuh-NAY", "example": "Le personnage principal écrit ses meilleures pages au déjeuner.", "exampleEnglish": "The main character writes his best pages at breakfast.", "level": "C2", "category": "regional-literature" },
+            { "id": "natel", "french": "le natel", "english": "mobile phone (Switzerland)", "partOfSpeech": "noun", "gender": "m", "plural": "natels", "pronunciation": "nah-TEL", "example": "Son natel sonne au pire moment du dénouement.", "exampleEnglish": "Her mobile phone rings at the worst moment of the ending.", "level": "C2", "category": "regional-literature" },
+            { "id": "panosse", "french": "la panosse", "english": "floor cloth, mop cloth (Switzerland)", "partOfSpeech": "noun", "gender": "f", "plural": "panosses", "pronunciation": "pah-NOHSS", "example": "La grand-mère range sa panosse avant de raconter son histoire.", "exampleEnglish": "The grandmother puts away her floor cloth before telling her story.", "level": "C2", "category": "regional-literature" },
+            { "id": "service-suisse", "french": "service !", "english": "you're welcome! (Switzerland)", "partOfSpeech": "interjection", "pronunciation": "sehr-VEESS", "example": "— Merci pour l'accueil. — Service !", "exampleEnglish": "\"Thanks for having me.\" \"You're welcome!\"", "level": "C2", "category": "regional-literature" },
+            { "id": "ca-joue", "french": "ça joue", "english": "that works, that's fine (Switzerland)", "partOfSpeech": "expression", "pronunciation": "sah ZHOO", "example": "— On se retrouve à midi ? — Ça joue.", "exampleEnglish": "\"Shall we meet at noon?\" \"That works.\"", "level": "C2", "category": "regional-literature" },
+            { "id": "le-surrealisme", "french": "le surréalisme", "english": "surrealism", "partOfSpeech": "noun", "gender": "m", "plural": "surréalismes", "pronunciation": "su-ray-ah-LEESM", "example": "Le surréalisme belge préfère les rues tranquilles aux rêves criards.", "exampleEnglish": "Belgian surrealism prefers quiet streets to loud dreams.", "level": "C2", "category": "regional-literature" },
+            { "id": "la-precision", "french": "la précision", "english": "precision, exactness", "partOfSpeech": "noun", "gender": "f", "plural": "précisions", "pronunciation": "pray-see-ZYOHN", "example": "On loue souvent la précision de la prose suisse romande.", "exampleEnglish": "The precision of French-Swiss prose is often praised.", "level": "C2", "category": "regional-literature" },
+            { "id": "la-marge", "french": "la marge", "english": "the margin, the periphery", "partOfSpeech": "noun", "gender": "f", "plural": "marges", "pronunciation": "lah MARZH", "example": "Écrire depuis la marge de la francophonie a ses avantages.", "exampleEnglish": "Writing from the margin of the French-speaking world has its advantages." , "level": "C2", "category": "regional-literature" },
+            { "id": "la-francophonie", "french": "la francophonie", "english": "the French-speaking world", "partOfSpeech": "noun", "gender": "f", "pronunciation": "frahn-koh-foh-NEE", "example": "La francophonie ne se résume pas à la France.", "exampleEnglish": "The French-speaking world is not just France.", "level": "C2", "category": "regional-literature" },
+            { "id": "le-plurilinguisme", "french": "le plurilinguisme", "english": "multilingualism (of a person or region)", "partOfSpeech": "noun", "gender": "m", "pronunciation": "plu-ree-lan-GWEESM", "example": "Le plurilinguisme du pays se lit entre les lignes de chaque roman.", "exampleEnglish": "The country's multilingualism can be read between the lines of every novel.", "level": "C2", "category": "regional-literature" },
+            { "id": "derision", "french": "la dérision", "english": "derision, wry mockery", "partOfSpeech": "noun", "gender": "f", "pronunciation": "day-ree-ZYOHN", "example": "L'humour belge traite volontiers ses malheurs par la dérision.", "exampleEnglish": "Belgian humour readily treats its misfortunes with wry mockery.", "level": "C2", "category": "regional-literature" },
+            { "id": "le-chicon", "french": "le chicon", "english": "endive (Belgium)", "partOfSpeech": "noun", "gender": "m", "plural": "chicons", "pronunciation": "shee-KOHN", "example": "Le repas de famille tourne toujours autour d'un gratin de chicons.", "exampleEnglish": "The family meal always revolves around an endive gratin.", "level": "C2", "category": "regional-literature" },
+            { "id": "la-dringuelle", "french": "la dringuelle", "english": "tip, gratuity (Belgium)", "partOfSpeech": "noun", "gender": "f", "plural": "dringuelles", "pronunciation": "drang-GEL", "example": "Il laissait toujours une petite dringuelle, même sans le sou.", "exampleEnglish": "He always left a small tip, even when he was broke.", "level": "C2", "category": "regional-literature" },
+            { "id": "l-athenee", "french": "l'athénée", "english": "secondary school (Belgium)", "partOfSpeech": "noun", "gender": "m", "plural": "athénées", "pronunciation": "ah-tay-NAY", "example": "Le roman entier se souvient d'une année à l'athénée.", "exampleEnglish": "The whole novel is a memory of one year at secondary school.", "level": "C2", "category": "regional-literature" },
+            { "id": "le-bourgmestre", "french": "le bourgmestre", "english": "mayor (Belgium, Switzerland)", "partOfSpeech": "noun", "gender": "m", "plural": "bourgmestres", "pronunciation": "boorg-MESTR", "example": "Le bourgmestre apparaît dans trois chapitres, jamais flatteur.", "exampleEnglish": "The mayor appears in three chapters, never flatteringly.", "level": "C2", "category": "regional-literature" },
+            { "id": "le-speculoos", "french": "le spéculoos", "english": "spiced shortcrust biscuit (Belgium)", "partOfSpeech": "noun", "gender": "m", "plural": "spéculoos", "pronunciation": "spay-ku-LOHSS", "example": "L'odeur du spéculoos ouvre le chapitre sur l'enfance.", "exampleEnglish": "The smell of spéculoos opens the chapter on childhood.", "level": "C2", "category": "regional-literature" },
+            { "id": "le-cornet", "french": "le cornet", "english": "paper cone, small bag (Switzerland, Belgium)", "partOfSpeech": "noun", "gender": "m", "plural": "cornets", "pronunciation": "kor-NAY", "example": "Elle rapportait ses légumes dans un cornet de papier brun.", "exampleEnglish": "She brought her vegetables home in a small brown paper bag.", "level": "C2", "category": "regional-literature" },
+            { "id": "le-reduit", "french": "le réduit", "english": "the redoubt (a Swiss idea of a fortified, self-reliant retreat)", "partOfSpeech": "noun", "gender": "m", "plural": "réduits", "pronunciation": "ray-DWEE", "example": "L'image du réduit hante encore l'imaginaire suisse.", "exampleEnglish": "The image of the redoubt still haunts the Swiss imagination.", "level": "C2", "category": "regional-literature" },
+            { "id": "la-frontiere-linguistique", "french": "la frontière linguistique", "english": "the language border (within Belgium or Switzerland)", "partOfSpeech": "expression", "pronunciation": "frohn-TYEHR lan-gwee-STEEK", "example": "L'histoire se déroule des deux côtés de la frontière linguistique.", "exampleEnglish": "The story takes place on both sides of the language border.", "level": "C2", "category": "regional-literature" },
+            { "id": "la-suisse-romande", "french": "la Suisse romande", "english": "French-speaking Switzerland", "partOfSpeech": "expression", "pronunciation": "sweess roh-MAHND", "example": "La Suisse romande a ses propres maisons d'édition.", "exampleEnglish": "French-speaking Switzerland has its own publishing houses.", "level": "C2", "category": "regional-literature" },
+            { "id": "le-roestigraben", "french": "le Röstigraben", "english": "the informal divide between French- and German-speaking Switzerland", "partOfSpeech": "noun", "gender": "m", "pronunciation": "rer-shtee-GRAH-ben", "example": "Le personnage traverse le Röstigraben sans y penser deux fois.", "exampleEnglish": "The character crosses the Röstigraben without a second thought.", "level": "C2", "category": "regional-literature" },
+            { "id": "l-insolite", "french": "l'insolite", "english": "the strange, the uncanny", "partOfSpeech": "noun", "gender": "m", "pronunciation": "lan-so-LEET", "example": "L'insolite s'installe dans le récit sans jamais être expliqué.", "exampleEnglish": "The uncanny settles into the story without ever being explained.", "level": "C2", "category": "regional-literature" },
+            { "id": "l-identite-plurielle", "french": "l'identité plurielle", "english": "plural identity (belonging to more than one culture at once)", "partOfSpeech": "expression", "pronunciation": "ee-dahn-tee-TAY plu-RYEL", "example": "Le narrateur revendique une identité plurielle, belge et wallonne à la fois.", "exampleEnglish": "The narrator claims a plural identity, both Belgian and Walloon at once.", "level": "C2", "category": "regional-literature" },
+            { "id": "le-particularisme", "french": "le particularisme", "english": "particularism, a distinct local character", "partOfSpeech": "noun", "gender": "m", "pronunciation": "par-tee-ku-lah-REESM", "example": "Le particularisme genevois n'a rien à voir avec celui de Bruxelles.", "exampleEnglish": "Geneva's particularism has nothing to do with Brussels'.", "level": "C2", "category": "regional-literature" },
+            { "id": "la-wallonie", "french": "la Wallonie", "english": "Wallonia (French-speaking Belgium)", "partOfSpeech": "noun", "gender": "f", "pronunciation": "wah-loh-NEE", "example": "L'action se déplace entre Bruxelles et la Wallonie industrielle.", "exampleEnglish": "The action moves between Brussels and industrial Wallonia.", "level": "C2", "category": "regional-literature" },
+            { "id": "le-wallon", "french": "le wallon", "english": "Walloon (a regional Romance language of southern Belgium)", "partOfSpeech": "noun", "gender": "m", "pronunciation": "wah-LOHN", "example": "Quelques mots de wallon survivent dans le dialogue des anciens.", "exampleEnglish": "A few words of Walloon survive in the old characters' dialogue.", "level": "C2", "category": "regional-literature" },
+            { "id": "bruxellois", "french": "bruxellois", "english": "of Brussels, Brussels-style", "partOfSpeech": "adjective", "pronunciation": "bru-seh-LWAH", "example": "L'humour bruxellois se moque volontiers de lui-même.", "exampleEnglish": "Brussels humour readily makes fun of itself.", "level": "C2", "category": "regional-literature" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Les nombres en septante, huitante, nonante",
+              "body": "Belgian and Swiss French replace the famously awkward French counting system (soixante-dix, quatre-vingts, quatre-vingt-dix) with straightforward decimal forms: septante (70), huitante or octante (80, mostly in Switzerland), and nonante (90). Grammatically they behave exactly like any other number — same agreement, same position — so a literary text can switch a single number and instantly place its setting outside France.",
+              "examples": [
+                { "french": "Elle a septante-trois ans et refuse de le dire à voix haute.", "english": "She's seventy-three and refuses to say it out loud." },
+                { "french": "Le vieux café a fêté ses nonante ans le mois dernier.", "english": "The old café celebrated its ninetieth anniversary last month." },
+                { "french": "En France on dirait quatre-vingt-dix ; ici, on dit nonante, un point c'est tout.", "english": "In France they'd say quatre-vingt-dix; here, we say nonante, full stop." },
+                { "french": "Huitante n'existe presque qu'en Suisse, et encore, pas partout.", "english": "Huitante exists almost only in Switzerland, and even then, not everywhere." }
+              ],
+              "tip": "Never mark septante or nonante as an 'error' in a Belgian or Swiss text — they are simply the local standard, as correct as soixante-dix is in France."
+            },
+            {
+              "heading": "Des tournures venues d'ailleurs, une syntaxe intacte",
+              "body": "Constructions like 'avoir facile' (to find something easy) or the exclamation 'service !' (you're welcome) look unusual to a reader used to Hexagonal French, but they follow their own stable, internal logic rather than breaking any rule. Recognising them as regional norms — not slips — is part of reading Belgian and Swiss prose at a C2 level.",
+              "examples": [
+                { "french": "Il a facile pour se faire des amis, celui-là.", "english": "That one finds it easy to make friends." },
+                { "french": "— Merci mille fois. — Service !", "english": "\"Thanks so much.\" \"You're welcome!\"" },
+                { "french": "— On se retrouve devant la gare ? — Ça joue.", "english": "\"Shall we meet in front of the station?\" \"That works.\"" },
+                { "french": "Le petit-déjeuner, chez nous, ça s'appelle le déjeuner tout court.", "english": "Breakfast, where we're from, is just called 'déjeuner'." }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "c2_u10_l02_li01", "type": "listenChoose", "prompt": "Listen. What does the speaker mean?", "french": "Le roman se déroule des deux côtés du Röstigraben, entre Fribourg et Berne.", "options": ["The novel takes place on both sides of the French/German language divide, between Fribourg and Bern.", "The novel is set entirely in Paris.", "The novel is about a Swiss cheese factory.", "The novel has no clear setting at all."], "answer": "The novel takes place on both sides of the French/German language divide, between Fribourg and Bern." },
+            { "id": "c2_u10_l02_li02", "type": "listenChoose", "prompt": "Listen. What is being described?", "french": "L'auteur cultive un surréalisme discret, presque poli, propre aux lettres belges.", "options": ["A quiet, almost polite surrealism, typical of Belgian letters.", "A loud, aggressive style full of shouting.", "A purely journalistic, factual style.", "A strictly rhymed poetic form."], "answer": "A quiet, almost polite surrealism, typical of Belgian letters." },
+            { "id": "c2_u10_l02_li03", "type": "listenType", "prompt": "Listen and type what you hear.", "french": "Elle a nonante ans et raconte encore ses histoires au souper.", "answer": "Elle a nonante ans et raconte encore ses histoires au souper.", "acceptedAnswers": ["elle a nonante ans et raconte encore ses histoires au souper"] },
+            { "id": "c2_u10_l02_li04", "type": "dictation", "prompt": "Listen carefully and write the full sentence.", "french": "Le bourgmestre traversa la place sous une drache digne de la légende.", "answer": "Le bourgmestre traversa la place sous une drache digne de la légende.", "acceptedAnswers": ["le bourgmestre traversa la place sous une drache digne de la legende"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "c2_u10_l02_sp01", "type": "speak", "prompt": "Say this sentence with the Belgian/Swiss numbers.", "french": "Elle a septante ans et lit encore un roman par semaine.", "english": "She's seventy and still reads a novel a week.", "tip": "Say 'septante' as one smooth word — don't hesitate the way you might with soixante-dix." },
+            { "id": "c2_u10_l02_sp02", "type": "speak", "prompt": "Practise this exchange as if you were in Geneva.", "french": "— Merci beaucoup. — Service !", "english": "\"Thank you very much.\" \"You're welcome!\"", "tip": "Say 'service' brightly, almost like a small exclamation, not a flat statement." },
+            { "id": "c2_u10_l02_sp03", "type": "speak", "prompt": "Read this line the way a Brussels narrator might deliver dry self-mockery.", "french": "Ici, même nos catastrophes ont un petit côté comique.", "english": "Here, even our disasters have a slightly comic edge.", "tip": "Keep the tone flat and understated — the humour comes from the contrast, not from emphasis." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Le train de Genève",
+              "french": "Le train partait de Bruxelles à sept heures précises, et déjà cela m'étonnait : rien, chez nous, ne part jamais tout à fait à l'heure.\nMa tante habitait Genève depuis nonante ans, ou presque, et parlait de la Suisse comme d'un pays qu'elle avait dû apprendre par cœur.\n— Ici, disait-elle au téléphone, on ne dit pas soixante-dix, on dit septante, et personne ne discute.\nLe paysage changeait lentement : d'abord la drache belge, puis, plus loin, un ciel plus net, presque rincé.\nJ'avais grandi entre deux langues et trois frontières linguistiques, sans jamais trouver cela extraordinaire.\nMon grand-père, lui, disait toujours qu'un vrai Bruxellois se moque de tout, même de son propre accent.\nÀ la frontière, un douanier suisse vérifia mon passeport avec une précision presque comique, comme s'il pesait chaque mot.\n— Vous venez pour le travail ou pour la famille ? demanda-t-il, sans lever vraiment les yeux.\n— Pour le souper de ma tante, répondis-je, et il sourit, comme si cette réponse suffisait à tout expliquer.\nGenève apparut enfin, rangée, presque trop calme après le désordre chaleureux de Bruxelles.\nMa tante m'attendait sur le quai avec un cornet de marrons chauds, comme chaque année.\n— Alors, dit-elle, toujours de l'autre côté du Röstigraben, à vivre entre deux mondes ?\nJe répondis que je n'avais jamais vu cela comme deux mondes, plutôt comme une seule maison à deux étages.\nElle rit, de ce rire suisse qui ne fait presque pas de bruit, et me prit le bras.\nLe soir, au souper, elle me raconta encore comment on l'avait appelée nonante fois « l'étrangère de Bruxelles » avant qu'on l'appelle simplement par son prénom.\nJe l'écoutai comme on écoute une histoire qu'on connaît déjà, et qu'on veut pourtant réentendre.",
+              "english": "The train left Brussels at exactly seven o'clock, and that alone surprised me: back home, nothing ever leaves quite on time.\nMy aunt had lived in Geneva for nearly ninety years, and spoke of Switzerland like a country she'd had to learn by heart.\n\"Here,\" she'd say on the phone, \"we don't say soixante-dix, we say septante, and nobody argues.\"\nThe landscape changed slowly: first the Belgian downpour, then, further on, a clearer sky, almost rinsed clean.\nI had grown up between two languages and three language borders, without ever finding that extraordinary.\nMy grandfather always said a true Brussels native makes fun of everything, even his own accent.\nAt the border, a Swiss customs officer checked my passport with an almost comic precision, as if weighing every word.\n\"Are you here for work or for family?\" he asked, without really looking up.\n\"For my aunt's supper,\" I answered, and he smiled, as if that answer explained everything.\nGeneva finally appeared, tidy, almost too calm after Brussels' warm disorder.\nMy aunt was waiting on the platform with a paper cone of hot chestnuts, like every year.\n\"So,\" she said, \"still on the other side of the Röstigraben, living between two worlds?\"\nI answered that I had never seen it as two worlds, more like a single house with two floors.\nShe laughed, that quiet Swiss laugh that makes almost no sound, and took my arm.\nThat evening, at supper, she told me again how she'd been called \"the stranger from Brussels\" ninety times over before people simply called her by her name.\nI listened the way you listen to a story you already know, and still want to hear again.",
+              "questions": [
+                { "id": "c2_u10_l02_rd01", "type": "multipleChoice", "prompt": "What does the aunt insist on regarding numbers?", "options": ["That people say 'septante', not 'soixante-dix'.", "That numbers should never be used in conversation.", "That she is exactly seventy years old.", "That Swiss trains are always late."], "answer": "That people say 'septante', not 'soixante-dix'." },
+                { "id": "c2_u10_l02_rd02", "type": "trueFalse", "prompt": "The narrator sees their bicultural upbringing as living in two separate, unconnected worlds.", "options": ["True", "False"], "answer": "False" },
+                { "id": "c2_u10_l02_rd03", "type": "multipleChoice", "prompt": "What does the customs officer's manner illustrate about the text's portrayal of Switzerland?", "options": ["A reputation for careful, almost comic precision.", "A reputation for loud, dramatic behaviour.", "A refusal to speak French at the border.", "A total lack of interest in procedure."], "answer": "A reputation for careful, almost comic precision." }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "c2_u10_l02_wr01", "type": "translate", "prompt": "Translate into French, using the Belgian/Swiss number.", "english": "She's ninety and still tells her stories at supper.", "answer": "Elle a nonante ans et raconte encore ses histoires au souper.", "acceptedAnswers": ["elle a nonante ans et raconte encore ses histoires au souper"] },
+            { "id": "c2_u10_l02_wr02", "type": "translate", "prompt": "Translate into French.", "english": "A quiet, almost polite surrealism runs through the whole novel.", "answer": "Un surréalisme discret, presque poli, traverse tout le roman.", "acceptedAnswers": ["un surrealisme discret presque poli traverse tout le roman"] },
+            { "id": "c2_u10_l02_wr03", "type": "translate", "prompt": "Translate into French, using an expression from the lesson.", "english": "\"Shall we meet at the station?\" \"That works.\"", "answer": "— On se retrouve à la gare ? — Ça joue.", "acceptedAnswers": ["on se retrouve a la gare ca joue"] }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "c2_u10_l02_pr01", "type": "multipleChoice", "prompt": "What is the Röstigraben?", "options": ["The informal cultural divide between French- and German-speaking Switzerland.", "A dish made of potatoes and cheese.", "A river separating France and Belgium.", "A literary prize awarded in Geneva."], "answer": "The informal cultural divide between French- and German-speaking Switzerland." },
+            { "id": "c2_u10_l02_pr02", "type": "fillBlank", "prompt": "En Belgique et en Suisse, on dit ___ pour soixante-dix.", "answer": "septante" },
+            { "id": "c2_u10_l02_pr03", "type": "trueFalse", "prompt": "\"Avoir facile\" is considered a grammatical error in Belgian French.", "options": ["True", "False"], "answer": "False" },
+            { "id": "c2_u10_l02_pr04", "type": "match", "pairs": [ { "french": "le chicon", "english": "endive" }, { "french": "le bourgmestre", "english": "mayor" }, { "french": "la drache", "english": "downpour" }, { "french": "le kot", "english": "student room" } ] },
+            { "id": "c2_u10_l02_pr05", "type": "arrangeWords", "prompt": "Arrange the words to form a correct sentence.", "words": ["poli", "surréalisme", "un", "presque", "discret"], "answer": "un surréalisme discret presque poli", "english": "A discreet, almost polite surrealism." },
+            { "id": "c2_u10_l02_pr06", "type": "multipleChoice", "prompt": "Which trait is most associated with Swiss-French literary style in the lesson?", "options": ["Precision and restraint", "Loud exaggeration", "Total avoidance of dialogue", "Constant use of slang"], "answer": "Precision and restraint" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "c2_u10_l02_qz01", "type": "multipleChoice", "prompt": "What does \"la frontière linguistique\" refer to in this lesson?", "options": ["The language border within Belgium or Switzerland.", "The border between France and Spain.", "A grammatical rule about accents.", "A type of Belgian pastry."], "answer": "The language border within Belgium or Switzerland." },
+            { "id": "c2_u10_l02_qz02", "type": "trueFalse", "prompt": "\"Nonante\" means ninety.", "options": ["True", "False"], "answer": "True" },
+            { "id": "c2_u10_l02_qz03", "type": "fillBlank", "prompt": "— Merci beaucoup. — ___ !", "answer": "Service" },
+            { "id": "c2_u10_l02_qz04", "type": "translate", "prompt": "Translate into French.", "english": "Every word is weighed as if it cost something.", "answer": "Chaque mot est pesé comme s'il coûtait cher.", "acceptedAnswers": ["chaque mot est pese comme sil coutait cher"] },
+            { "id": "c2_u10_l02_qz05", "type": "multipleChoice", "prompt": "Which word names French-speaking Belgium?", "options": ["la Wallonie", "la Suisse romande", "la Bretagne", "l'Occitanie"], "answer": "la Wallonie" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c2_u10_l03",
+      "level": "C2",
+      "unit": 10,
+      "title": "La littérature québécoise",
+      "description": "Québécois writing and its most distinctive register, joual — the spoken French of working-class Montreal turned into literary voice.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Une langue à part entière",
+              "body": "Québécois French developed for four centuries with limited contact with France, absorbing English loanwords, keeping older French forms alive, and shifting the meaning of everyday words. The result is not 'accented French' — it is a fully-formed regional French, with its own literature, its own prizes, and its own readers who never think of themselves as speaking an imperfect version of anything.",
+              "examples": [
+                { "french": "Le français québécois n'est pas une déformation, c'est une évolution parallèle.", "english": "Québécois French isn't a distortion, it's a parallel evolution." },
+                { "french": "On y trouve des mots que la France a oubliés depuis trois siècles.", "english": "You find words there that France forgot three centuries ago." },
+                { "french": "Une littérature entière s'est construite dans cette langue, sans complexe.", "english": "An entire literature was built in this language, without any inferiority complex." },
+                { "french": "Le lecteur français doit parfois s'adapter, et non l'inverse.", "english": "Sometimes it's the French reader who has to adapt, not the other way around." }
+              ],
+              "tip": "Never call Québécois French 'bad French' — that framing is exactly what this unit exists to dismantle."
+            },
+            {
+              "heading": "Le joual, une langue de la rue devenue littérature",
+              "body": "Joual is the informal, urban register of Québécois French historically associated with working-class Montreal — marked by contracted pronouns, dropped negation, and English borrowings. Starting in the 1960s, writers began putting joual directly on the page and on stage, not as comic relief but as a legitimate literary voice capable of carrying serious drama, exactly as regional and working-class registers do in any literature.",
+              "examples": [
+                { "french": "Chu tanné, moi, de toujours dire pardon pour comment je parle.", "english": "I'm sick of always apologising for how I talk.", "note": "chu = je suis; tanné = fed up" },
+                { "french": "T'as-tu fini, oui ou non ?", "english": "Are you done, yes or no?", "note": "\"-tu\" here is a spoken question marker, not the pronoun \"you\"" },
+                { "french": "On n'a pas d'argent, pis on n'en aura pas demain non plus.", "english": "We don't have money, and we won't have any tomorrow either." },
+                { "french": "Le joual sur scène a choqué avant d'émouvoir.", "english": "Joual on stage shocked before it moved audiences." }
+              ]
+            },
+            {
+              "heading": "Une voix, pas un accident",
+              "body": "When a Québécois narrator writes in joual, it is a deliberate choice of register, the same way a novelist elsewhere might choose formal, literary French for effect. The narration can shift between standard French description and joual dialogue within the same page — a contrast that carries meaning, marking class, intimacy, or defiance, never carelessness.",
+              "examples": [
+                { "french": "Le narrateur décrit la scène en français soutenu, puis laisse parler ses personnages en joual.", "english": "The narrator describes the scene in formal French, then lets his characters speak in joual." },
+                { "french": "Ce passage d'un registre à l'autre est un choix, pas une erreur.", "english": "That shift from one register to another is a choice, not a mistake." },
+                { "french": "Le joual porte la colère du personnage mieux qu'aucun mot soutenu ne le pourrait.", "english": "Joual carries the character's anger better than any formal word could." },
+                { "french": "Écrire en joual, c'était refuser de s'excuser d'être d'ici.", "english": "Writing in joual was a refusal to apologise for being from here." }
+              ],
+              "tip": "Read joual dialogue aloud slowly at first — the contractions (chu, y, pis, ben) become intuitive once you hear the rhythm."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "quebecisme", "french": "le québécisme", "english": "Québec French word or usage", "partOfSpeech": "noun", "gender": "m", "plural": "québécismes", "pronunciation": "kay-bay-SEESM", "example": "Le roman fourmille de québécismes que le lecteur français devine par le contexte.", "exampleEnglish": "The novel is full of Québécismes the French reader can guess from context.", "level": "C2", "category": "regional-literature" },
+            { "id": "char-quebec", "french": "le char", "english": "car (Québec)", "partOfSpeech": "noun", "gender": "m", "plural": "chars", "pronunciation": "shar", "example": "Le personnage passe le roman entier à réparer son char.", "exampleEnglish": "The character spends the whole novel fixing his car.", "level": "C2", "category": "regional-literature" },
+            { "id": "chum", "french": "le chum", "english": "boyfriend; mate (Québec)", "partOfSpeech": "noun", "gender": "m", "plural": "chums", "pronunciation": "tchuhm", "example": "Son chum ne dit jamais grand-chose, mais il est toujours là.", "exampleEnglish": "Her boyfriend never says much, but he's always there.", "level": "C2", "category": "regional-literature" },
+            { "id": "blonde-quebec", "french": "la blonde", "english": "girlfriend (Québec)", "partOfSpeech": "noun", "gender": "f", "plural": "blondes", "pronunciation": "blohnd", "example": "Il présente sa blonde à toute la famille dans le dernier chapitre.", "exampleEnglish": "He introduces his girlfriend to the whole family in the last chapter.", "level": "C2", "category": "regional-literature" },
+            { "id": "magasiner", "french": "magasiner", "english": "to go shopping (Québec)", "partOfSpeech": "verb", "pronunciation": "mah-gah-zee-NAY", "example": "Les deux sœurs magasinent en se racontant leur vie.", "exampleEnglish": "The two sisters go shopping while telling each other about their lives.", "level": "C2", "category": "regional-literature" },
+            { "id": "jaser", "french": "jaser", "english": "to chat (Québec)", "partOfSpeech": "verb", "pronunciation": "zhah-ZAY", "example": "Ils ont jasé sur le perron jusqu'à la tombée du jour.", "exampleEnglish": "They chatted on the porch until nightfall.", "level": "C2", "category": "regional-literature" },
+            { "id": "depanneur", "french": "le dépanneur", "english": "corner shop (Québec)", "partOfSpeech": "noun", "gender": "m", "plural": "dépanneurs", "pronunciation": "day-pah-NUHR", "example": "Le roman s'ouvre sur une scène au dépanneur du coin.", "exampleEnglish": "The novel opens on a scene at the corner shop.", "level": "C2", "category": "regional-literature" },
+            { "id": "tuque", "french": "la tuque", "english": "woolly hat (Québec)", "partOfSpeech": "noun", "gender": "f", "plural": "tuques", "pronunciation": "tuuk", "example": "Il ne retire jamais sa tuque, même à l'intérieur.", "exampleEnglish": "He never takes off his woolly hat, even indoors.", "level": "C2", "category": "regional-literature" },
+            { "id": "pantoute", "french": "pantoute", "english": "not at all (Québec)", "partOfSpeech": "adverb", "pronunciation": "pahn-TOOT", "example": "— T'as peur ? — Pantoute.", "exampleEnglish": "\"Are you scared?\" \"Not at all.\"", "level": "C2", "category": "regional-literature" },
+            { "id": "fin-de-semaine", "french": "la fin de semaine", "english": "weekend (Québec)", "partOfSpeech": "noun", "gender": "f", "plural": "fins de semaine", "pronunciation": "fan duh suh-MEN", "example": "Toute l'intrigue se joue en une seule fin de semaine.", "exampleEnglish": "The whole plot unfolds over a single weekend.", "level": "C2", "category": "regional-literature" },
+            { "id": "presentement", "french": "présentement", "english": "right now, currently (Québec)", "partOfSpeech": "adverb", "pronunciation": "pray-zahnt-MAHN", "example": "Présentement, personne dans la maison ne se parle.", "exampleEnglish": "Right now, nobody in the house is speaking to each other.", "level": "C2", "category": "regional-literature" },
+            { "id": "poutine", "french": "la poutine", "english": "poutine (Québec dish)", "partOfSpeech": "noun", "gender": "f", "plural": "poutines", "pronunciation": "poo-TEEN", "example": "Toute réconciliation, dans ce roman, passe par une poutine partagée.", "exampleEnglish": "Every reconciliation in this novel happens over a shared poutine.", "level": "C2", "category": "regional-literature" },
+            { "id": "bienvenue-quebec", "french": "bienvenue", "english": "you're welcome (Québec)", "partOfSpeech": "interjection", "pronunciation": "byan-vuh-NUU", "example": "— Merci pour tout. — Bienvenue.", "exampleEnglish": "\"Thanks for everything.\" \"You're welcome.\"", "level": "C2", "category": "regional-literature" },
+            { "id": "la-fierte", "french": "la fierté", "english": "pride", "partOfSpeech": "noun", "gender": "f", "plural": "fiertés", "pronunciation": "fyehr-TAY", "example": "Écrire en joual était un acte de fierté autant que de style.", "exampleEnglish": "Writing in joual was as much an act of pride as of style.", "level": "C2", "category": "regional-literature" },
+            { "id": "ruelle", "french": "la ruelle", "english": "back alley, narrow lane", "partOfSpeech": "noun", "gender": "f", "plural": "ruelles", "pronunciation": "ru-EL", "example": "Toute son enfance tient dans une seule ruelle de Montréal.", "exampleEnglish": "His whole childhood fits into a single Montreal back alley.", "level": "C2", "category": "regional-literature" },
+            { "id": "le-joual", "french": "le joual", "english": "joual (the working-class, urban register of Québécois French)", "partOfSpeech": "noun", "gender": "m", "pronunciation": "zhoo-AHL", "example": "Le joual est devenu, sur scène, une langue à part entière.", "exampleEnglish": "Joual became, on stage, a language in its own right.", "level": "C2", "category": "regional-literature" },
+            { "id": "le-sacre", "french": "le sacre", "english": "a Québécois exclamation historically drawn from religious vocabulary", "partOfSpeech": "noun", "gender": "m", "plural": "sacres", "pronunciation": "luh SAHKR", "example": "Les sacres ponctuent le dialogue sans jamais l'alourdir.", "exampleEnglish": "Sacres punctuate the dialogue without ever weighing it down.", "level": "C2", "category": "regional-literature" },
+            { "id": "tabarnouche", "french": "tabarnouche", "english": "gosh, darn it (a softened Québécois exclamation)", "partOfSpeech": "interjection", "pronunciation": "tah-bar-NOOSH", "example": "Tabarnouche, j'avais complètement oublié le rendez-vous !", "exampleEnglish": "Gosh, I had completely forgotten the appointment!", "level": "C2", "category": "regional-literature" },
+            { "id": "achaler", "french": "achaler", "english": "to bother, to pester (Québec)", "partOfSpeech": "verb", "pronunciation": "ah-shah-LAY", "example": "Arrête de m'achaler avec ça, j'ai compris la première fois.", "exampleEnglish": "Stop bothering me about that, I got it the first time.", "level": "C2", "category": "regional-literature" },
+            { "id": "niaiser", "french": "niaiser", "english": "to fool around, to kid (Québec)", "partOfSpeech": "verb", "pronunciation": "nyeh-ZAY", "example": "Arrête de niaiser, on n'a pas le temps.", "exampleEnglish": "Stop fooling around, we don't have time.", "level": "C2", "category": "regional-literature" },
+            { "id": "etre-tanne", "french": "être tanné", "english": "to be fed up (Québec)", "partOfSpeech": "expression", "pronunciation": "eh-truh tah-NAY", "example": "Chu tanné de toujours devoir m'expliquer.", "exampleEnglish": "I'm fed up with always having to explain myself.", "level": "C2", "category": "regional-literature" },
+            { "id": "le-perron", "french": "le perron", "english": "the front steps, the porch (Québec)", "partOfSpeech": "noun", "gender": "m", "plural": "perrons", "pronunciation": "luh peh-ROHN", "example": "Toutes les grandes décisions se prenaient sur le perron.", "exampleEnglish": "Every big decision was made on the porch.", "level": "C2", "category": "regional-literature" },
+            { "id": "la-parlure", "french": "la parlure", "english": "a distinctive way of speaking, a speech pattern", "partOfSpeech": "noun", "gender": "f", "plural": "parlures", "pronunciation": "par-LUHR", "example": "Il a su rendre à l'écrit toute la parlure de son quartier.", "exampleEnglish": "He managed to capture in writing his whole neighbourhood's way of speaking.", "level": "C2", "category": "regional-literature" },
+            { "id": "le-vernaculaire", "french": "le vernaculaire", "english": "the vernacular, everyday spoken language", "partOfSpeech": "noun", "gender": "m", "pronunciation": "vehr-nah-ku-LEHR", "example": "Le vernaculaire montréalais devient, sous sa plume, une langue littéraire.", "exampleEnglish": "The Montreal vernacular becomes, under his pen, a literary language.", "level": "C2", "category": "regional-literature" },
+            { "id": "la-quebecite", "french": "la québécité", "english": "Québécois identity, Québécois-ness", "partOfSpeech": "noun", "gender": "f", "pronunciation": "kay-bay-see-TAY", "example": "Le roman interroge la québécité sans jamais la figer.", "exampleEnglish": "The novel questions Québécois identity without ever pinning it down.", "level": "C2", "category": "regional-literature" },
+            { "id": "chialer", "french": "chialer", "english": "to complain, to whine (Québec)", "partOfSpeech": "verb", "pronunciation": "shyah-LAY", "example": "Il chiale contre tout, mais il reste toujours pour aider.", "exampleEnglish": "He complains about everything, but he always stays to help.", "level": "C2", "category": "regional-literature" },
+            { "id": "capoter", "french": "capoter", "english": "to freak out, to lose it (Québec)", "partOfSpeech": "verb", "pronunciation": "kah-poh-TAY", "example": "Elle a capoté en lisant la lettre.", "exampleEnglish": "She freaked out reading the letter.", "level": "C2", "category": "regional-literature" },
+            { "id": "le-registre-populaire", "french": "le registre populaire", "english": "working-class register, colloquial register", "partOfSpeech": "expression", "pronunciation": "reh-ZHEESTR poh-pu-LEHR", "example": "Le romancier bascule sans prévenir dans le registre populaire.", "exampleEnglish": "The novelist shifts without warning into the working-class register.", "level": "C2", "category": "regional-literature" },
+            { "id": "la-langue-populaire", "french": "la langue populaire", "english": "popular speech, the language of ordinary people", "partOfSpeech": "expression", "pronunciation": "lahng poh-pu-LEHR", "example": "Le théâtre québécois a fait de la langue populaire un art.", "exampleEnglish": "Québécois theatre turned popular speech into an art form.", "level": "C2", "category": "regional-literature" },
+            { "id": "s-ennuyer", "french": "s'ennuyer de quelqu'un", "english": "to miss someone (Québec sense)", "partOfSpeech": "expression", "pronunciation": "sahn-nwee-YAY duh kel-KUHN", "example": "Je m'ennuie de toi depuis que t'es parti.", "exampleEnglish": "I've missed you since you left.", "level": "C2", "category": "regional-literature" },
+            { "id": "le-party-quebec", "french": "le party", "english": "party, get-together (Québec)", "partOfSpeech": "noun", "gender": "m", "plural": "partys", "pronunciation": "pahr-TEE", "example": "Le roman se termine sur un party de famille bruyant.", "exampleEnglish": "The novel ends on a loud family get-together.", "level": "C2", "category": "regional-literature" },
+            { "id": "le-bec", "french": "le bec", "english": "a kiss (Québec, informal)", "partOfSpeech": "noun", "gender": "m", "plural": "becs", "pronunciation": "luh BEK", "example": "Elle lui donna un bec sur la joue avant de partir.", "exampleEnglish": "She gave him a kiss on the cheek before leaving.", "level": "C2", "category": "regional-literature" },
+            { "id": "ben-quebec", "french": "ben", "english": "well, so (Québec discourse marker, from 'bien')", "partOfSpeech": "adverb", "pronunciation": "ben", "example": "Ben, j'sais pas trop quoi te dire.", "exampleEnglish": "Well, I don't really know what to tell you.", "level": "C2", "category": "regional-literature" },
+            { "id": "pis-quebec", "french": "pis", "english": "and, and then (Québec, from 'puis')", "partOfSpeech": "conjunction", "pronunciation": "pee", "example": "On a mangé, pis on a jasé jusqu'à minuit.", "exampleEnglish": "We ate, and then we chatted until midnight.", "level": "C2", "category": "regional-literature" },
+            { "id": "asteure", "french": "asteure", "english": "now, nowadays (Québec, from 'à cette heure')", "partOfSpeech": "adverb", "pronunciation": "ah-STUHR", "example": "Asteure, plus personne n'écrit de lettres.", "exampleEnglish": "Nowadays, nobody writes letters anymore.", "level": "C2", "category": "regional-literature" },
+            { "id": "le-cegep", "french": "le cégep", "english": "pre-university college (Québec)", "partOfSpeech": "noun", "gender": "m", "plural": "cégeps", "pronunciation": "say-ZHEP", "example": "Le roman commence le premier jour de cégep.", "exampleEnglish": "The novel begins on the first day of cégep.", "level": "C2", "category": "regional-literature" },
+            { "id": "la-gang", "french": "la gang", "english": "the group of friends, the crew (Québec, feminine unlike standard French)", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah GANG", "example": "Toute la gang s'est retrouvée sur le perron pour jaser.", "exampleEnglish": "The whole crew got together on the porch to chat.", "level": "C2", "category": "regional-literature" },
+            { "id": "frette", "french": "frette", "english": "cold, freezing (Québec, informal for 'froid')", "partOfSpeech": "adjective", "pronunciation": "fret", "example": "Ça va être frette à soir, mets ta tuque.", "exampleEnglish": "It's going to be cold tonight, put on your hat.", "level": "C2", "category": "regional-literature" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Les traits grammaticaux du joual",
+              "body": "Joual has consistent, rule-governed features rather than random 'errors': the contraction of 'je suis' to 'chu', dropped 'ne' in negation, 'y' for 'il' or 'ils', and 'pis' for 'puis'. A C2 reader should recognise these as a coherent phonological and grammatical system — one that can be written down deliberately for literary effect, the same way any dialect is transcribed in world literature.",
+              "examples": [
+                { "french": "Chu pas capable de faire ça tout seul.", "english": "I'm not able to do that alone.", "note": "chu = je suis; ne dropped before 'pas'" },
+                { "french": "Y savait pas trop quoi dire.", "english": "He didn't really know what to say.", "note": "y = il" },
+                { "french": "On a mangé, pis on est parti.", "english": "We ate, and then we left." },
+                { "french": "J'la connais depuis qu'on est tout-petits.", "english": "I've known her since we were little.", "note": "j'la = je la" }
+              ],
+              "tip": "When transcribing joual, contractions follow the sound of fast, natural speech — read the line aloud and the spelling usually explains itself."
+            },
+            {
+              "heading": "La particule interrogative -tu",
+              "body": "In spoken Québécois French, adding '-tu' after the verb turns a statement into a yes/no question, a construction with deep roots in older French but rarely used this way in France today. It has nothing to do with the pronoun 'tu' — it functions purely as a question marker and can attach to any subject, singular or plural.",
+              "examples": [
+                { "french": "C'est-tu vrai, ce qu'on raconte ?", "english": "Is it true, what they're saying?" },
+                { "french": "Il a-tu fini son souper ?", "english": "Has he finished his supper?" },
+                { "french": "Vous v'nez-tu avec nous autres ?", "english": "Are you coming with us?" },
+                { "french": "Ça se peut-tu, une histoire pareille ?", "english": "Can such a story even be possible?" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "c2_u10_l03_li01", "type": "listenChoose", "prompt": "Listen. What does the speaker mean?", "french": "Chu tanné de toujours devoir m'expliquer, pis j'ai pas envie de niaiser avec ça.", "options": ["I'm fed up with always having to explain myself, and I don't feel like messing around with it.", "I'm delighted to explain myself every time.", "I have never had to explain anything before.", "I want to play a game with my friends."], "answer": "I'm fed up with always having to explain myself, and I don't feel like messing around with it." },
+            { "id": "c2_u10_l03_li02", "type": "listenChoose", "prompt": "Listen. What literary point is being made?", "french": "Le joual sur scène a choqué avant d'émouvoir ; c'était une langue, pas une erreur.", "options": ["Joual on stage was shocking before it was moving; it was a language, not a mistake.", "Joual was banned from all Québécois theatre.", "Joual is only used in written French, never spoken.", "Joual has no grammatical structure at all."], "answer": "Joual on stage was shocking before it was moving; it was a language, not a mistake." },
+            { "id": "c2_u10_l03_li03", "type": "listenType", "prompt": "Listen and type what you hear.", "french": "On a mangé, pis on a jasé jusqu'à minuit sur le perron.", "answer": "On a mangé, pis on a jasé jusqu'à minuit sur le perron.", "acceptedAnswers": ["on a mange pis on a jase jusqua minuit sur le perron"] },
+            { "id": "c2_u10_l03_li04", "type": "dictation", "prompt": "Listen carefully and write the full sentence, including the question particle.", "french": "C'est-tu vrai, cette histoire-là ?", "answer": "C'est-tu vrai, cette histoire-là ?", "acceptedAnswers": ["cest-tu vrai cette histoire-la"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "c2_u10_l03_sp01", "type": "speak", "prompt": "Say this joual sentence naturally, with the contractions.", "french": "Chu pas capable de faire ça tout seul.", "english": "I'm not able to do that alone.", "tip": "\"Chu\" replaces \"je suis\" — say it as one quick syllable." },
+            { "id": "c2_u10_l03_sp02", "type": "speak", "prompt": "Practise this yes/no question with the -tu particle.", "french": "Vous v'nez-tu avec nous autres ?", "english": "Are you coming with us?", "tip": "The \"-tu\" here is just a question marker — don't think of it as the pronoun \"you\"." },
+            { "id": "c2_u10_l03_sp03", "type": "speak", "prompt": "Say this line the way a Montreal narrator might deliver dry affection.", "french": "Je m'ennuie de toi depuis que t'es parti, pis c'est fatigant à dire.", "english": "I've missed you since you left, and it's tiring to say.", "tip": "Keep the tone light and a little embarrassed — Québécois warmth is often understated, not dramatic." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Le dépanneur du coin",
+              "french": "Le dépanneur ouvrait à six heures, été comme hiver, et mon oncle y était toujours le premier client.\n— Ben, disait-il en poussant la porte, encore frette à matin, hein ?\nLe commis, derrière la caisse, ne levait même pas les yeux pour répondre.\n— Ouais, pis on dirait que ça va pas s'arranger avant la fin de semaine.\nMon oncle prenait toujours la même chose : un café, un journal, et une conversation qu'il n'avait pas vraiment envie d'avoir.\nIl avait grandi dans cette ruelle, entre le dépanneur et l'école, et il ne s'était jamais vraiment demandé s'il fallait en avoir honte.\n— Chu tanné de l'hiver, disait-il chaque matin de janvier, comme une prière qu'il savait inutile.\nLe commis souriait, pis répondait toujours la même affaire.\n— C'est-tu déjà arrivé, un hiver qui finit pas ? On verra ben.\nMa tante racontait que mon oncle avait appris à lire dans ce dépanneur, un journal à la fois, un mot à la fois.\nElle disait ça avec une fierté qu'elle ne cachait pas, même si personne ne le lui avait demandé.\nLe samedi, toute la gang se retrouvait sur le perron d'à côté pour jaser jusqu'à ce que le soleil tombe.\nOn parlait de rien, pis c'était exactement pour ça qu'on aimait ça.\nMon oncle disait que le vrai luxe, dans la vie, c'était d'avoir une place où personne te demande de parler autrement.\nAsteure, le dépanneur a fermé, mais le perron, lui, est encore là.\nPis chaque fois que je passe devant, j'entends encore sa voix, ben distincte, qui demande si l'hiver va finir un jour.",
+              "english": "The corner shop opened at six, summer and winter alike, and my uncle was always its first customer.\n\"Well,\" he'd say, pushing the door open, \"cold again this morning, eh?\"\nThe clerk, behind the till, wouldn't even look up to answer.\n\"Yeah, and it looks like it's not going to get better before the weekend.\"\nMy uncle always ordered the same thing: a coffee, a newspaper, and a conversation he didn't really want to have.\nHe had grown up in that alley, between the corner shop and the school, and had never really asked himself whether he should be ashamed of it.\n\"I'm so sick of winter,\" he'd say every January morning, like a prayer he knew was useless.\nThe clerk would smile, and give the same answer every time.\n\"Has a winter ever actually ended? We'll see, I guess.\"\nMy aunt used to say my uncle had learned to read in that shop, one newspaper at a time, one word at a time.\nShe said it with a pride she didn't hide, even though nobody had asked her to explain.\nOn Saturdays, the whole crew would gather on the porch next door to chat until the sun went down.\nWe talked about nothing, and that was exactly why we loved it.\nMy uncle used to say that the real luxury in life was having a place where nobody asked you to talk differently.\nNow the corner shop has closed, but the porch is still there.\nAnd every time I walk past, I can still hear his voice, perfectly distinct, asking whether winter will ever end.",
+              "questions": [
+                { "id": "c2_u10_l03_rd01", "type": "multipleChoice", "prompt": "What does the uncle's daily routine at the corner shop suggest about the text?", "options": ["It shows how ordinary, repeated moments carry deep meaning and identity.", "It shows the uncle dislikes reading newspapers.", "It shows the shop is about to close permanently that same day.", "It shows the family has just moved to Montreal."], "answer": "It shows how ordinary, repeated moments carry deep meaning and identity." },
+                { "id": "c2_u10_l03_rd02", "type": "trueFalse", "prompt": "The uncle feels ashamed of the way he speaks and of where he grew up.", "options": ["True", "False"], "answer": "False" },
+                { "id": "c2_u10_l03_rd03", "type": "multipleChoice", "prompt": "What does the uncle consider real luxury?", "options": ["A place where nobody asks him to speak differently.", "Having enough money to travel abroad.", "Never having to talk to anyone.", "Owning his own corner shop."], "answer": "A place where nobody asks him to speak differently." }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "c2_u10_l03_wr01", "type": "translate", "prompt": "Translate into French using joual contractions.", "english": "I'm not able to do that alone.", "answer": "Chu pas capable de faire ça tout seul.", "acceptedAnswers": ["chu pas capable de faire ca tout seul"] },
+            { "id": "c2_u10_l03_wr02", "type": "translate", "prompt": "Translate into French, using the -tu question particle.", "english": "Is it true, what they're saying?", "answer": "C'est-tu vrai, ce qu'on raconte ?", "acceptedAnswers": ["cest-tu vrai ce quon raconte"] },
+            { "id": "c2_u10_l03_wr03", "type": "translate", "prompt": "Translate into French.", "english": "Writing in joual was a refusal to apologise for being from here.", "answer": "Écrire en joual, c'était refuser de s'excuser d'être d'ici.", "acceptedAnswers": ["ecrire en joual cetait refuser de sexcuser detre dici"] }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "c2_u10_l03_pr01", "type": "multipleChoice", "prompt": "What is joual?", "options": ["The informal, urban register of Québécois French, historically tied to working-class Montreal.", "A formal register used only in academic writing.", "A dialect spoken exclusively in rural France.", "A synonym for verlan."], "answer": "The informal, urban register of Québécois French, historically tied to working-class Montreal." },
+            { "id": "c2_u10_l03_pr02", "type": "fillBlank", "prompt": "Chu ___ de toujours devoir m'expliquer. (fed up)", "answer": "tanné" },
+            { "id": "c2_u10_l03_pr03", "type": "trueFalse", "prompt": "The particle \"-tu\" in \"C'est-tu vrai ?\" refers to the pronoun \"you\".", "options": ["True", "False"], "answer": "False" },
+            { "id": "c2_u10_l03_pr04", "type": "match", "pairs": [ { "french": "chu", "english": "I am (contraction of je suis)" }, { "french": "pis", "english": "and, and then" }, { "french": "asteure", "english": "now, nowadays" }, { "french": "frette", "english": "cold, freezing" } ] },
+            { "id": "c2_u10_l03_pr05", "type": "arrangeWords", "prompt": "Arrange the words to form a correct sentence.", "words": ["on", "mangé", "a", "pis", "parti", "on", "est"], "answer": "on a mangé pis on est parti", "english": "We ate, and then we left." },
+            { "id": "c2_u10_l03_pr06", "type": "multipleChoice", "prompt": "Why do writers switch between standard French narration and joual dialogue in the same text?", "options": ["The shift is a deliberate choice that marks class, intimacy, or defiance.", "It is always a printing error.", "Joual cannot be written down at all.", "Editors force writers to alternate registers randomly."], "answer": "The shift is a deliberate choice that marks class, intimacy, or defiance." }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "c2_u10_l03_qz01", "type": "multipleChoice", "prompt": "What does \"chu\" mean in joual?", "options": ["je suis", "je sais", "chez", "j'ai"], "answer": "je suis" },
+            { "id": "c2_u10_l03_qz02", "type": "trueFalse", "prompt": "Québécois French is best described as an inferior or broken version of Hexagonal French.", "options": ["True", "False"], "answer": "False" },
+            { "id": "c2_u10_l03_qz03", "type": "fillBlank", "prompt": "Vous v'nez-___ avec nous autres ?", "answer": "tu" },
+            { "id": "c2_u10_l03_qz04", "type": "translate", "prompt": "Translate into French.", "english": "I've missed you since you left.", "answer": "Je m'ennuie de toi depuis que t'es parti.", "acceptedAnswers": ["je mennuie de toi depuis que tes parti"] },
+            { "id": "c2_u10_l03_qz05", "type": "multipleChoice", "prompt": "Which word names the pre-university college attended after high school in Québec?", "options": ["le cégep", "l'athénée", "le kot", "la garrigue"], "answer": "le cégep" }
+          ]
+        }
+      ]
+    }
+  ]
+}

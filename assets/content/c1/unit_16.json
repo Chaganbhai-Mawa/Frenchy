@@ -1,0 +1,589 @@
+{
+  "id": "c1_u16",
+  "level": "C1",
+  "unit": 16,
+  "title": "Theatre & Dialogue",
+  "subtitle": "Read the theatrical text like a dramaturge, write dialogue that breathes, and think through a director's staging choices",
+  "icon": "🎭",
+  "lessons": [
+    {
+      "id": "c1_u16_l01",
+      "level": "C1",
+      "unit": 16,
+      "title": "Le texte théâtral",
+      "description": "Learn to read a play script as its own genre: how didascalies direct the actor, how register signals class and relationship, and the conventions — aparté, tirade, quiproquo — unique to dramatic dialogue.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Les didascalies : la voix de l'auteur dans la marge",
+              "body": "A play script has two distinct voices: the dialogue, spoken by characters, and the didascalies — the playwright's stage directions, printed in italics or parentheses. Didascalies rarely use full sentences with a conjugated subject; they favour nominal sentences (Un temps.), present-tense verbs (Elle sort.), or present participles (Se retournant brusquement.) because they describe action happening now, for a reader who must picture it instantly. Reading a play well means never skipping them: they carry tone, tempo, and staging information dialogue alone cannot.",
+              "examples": [
+                { "french": "(Un temps. Elle regarde la porte, puis renonce.)", "english": "(A pause. She looks at the door, then gives up.)" },
+                { "french": "(Bas, sans se retourner.) Tu savais.", "english": "(Quietly, without turning round.) You knew." },
+                { "french": "MARGUERITE, s'approchant. — Tu ne réponds jamais directement.", "english": "MARGUERITE, approaching. — You never answer directly." },
+                { "french": "(Silence. On entend la pluie contre la vitre.)", "english": "(Silence. Rain can be heard against the window.)" },
+                { "french": "(Elle hésite, puis referme la lettre sans la lire.)", "english": "(She hesitates, then closes the letter again without reading it.)" }
+              ],
+              "tip": "A didascalie in the present participle (Se retournant..., Hésitant...) almost always describes an action simultaneous with the line that follows — stage it, don't narrate it."
+            },
+            {
+              "heading": "Le registre : faire entendre une classe, une époque, une relation",
+              "body": "Because a play has no narrator to explain who a character is, register does that work instead. A line in registre soutenu signals education, formality, or emotional distance; the same idea in registre familier signals intimacy, youth, or social ease. A skilled dramaturge shifts a single character's register mid-scene to mark a change in power or feeling — dropping into the familiar the moment a mask slips.",
+              "examples": [
+                { "french": "Il conviendrait, Madame, que vous m'expliquiez enfin la vérité.", "english": "It would be fitting, Madam, for you to finally explain the truth to me." },
+                { "french": "Bon, tu me le dis ou pas, ce qui s'est passé ?", "english": "Right, are you going to tell me what happened or not?" },
+                { "french": "Je vous prie de croire, Monsieur, à toute ma considération — et à tout mon mépris.", "english": "Please believe, Sir, in all my regard — and all my contempt." },
+                { "french": "T'as pas le droit de me parler comme ça, pas ici, pas devant eux.", "english": "You've got no right to talk to me like that, not here, not in front of them." },
+                { "french": "Le registre bascule dès que le masque tombe : la politesse cède au tutoiement rageur.", "english": "The register flips the moment the mask falls: politeness gives way to furious informality." }
+              ],
+              "tip": "Watch for a sudden switch from vous to tu within one scene — in a script it almost always marks a dramatic turning point, not carelessness."
+            },
+            {
+              "heading": "Les conventions du dialogue dramatique",
+              "body": "Theatre has its own toolkit for saying things a novel would simply narrate. L'aparté lets a character speak a private thought the others on stage cannot hear. La tirade is one character's uninterrupted long speech, held together by rhythm as much as by argument. Le quiproquo — a misunderstanding built on crossed information — drives both comedy and tragedy, since the audience knows the truth the characters don't.",
+              "examples": [
+                { "french": "(Aparté.) S'il savait ce que je sais, il ne sourirait pas ainsi.", "english": "(Aside.) If he knew what I know, he wouldn't be smiling like that." },
+                { "french": "Sa tirade final dure près de trois minutes sans qu'aucun autre personnage n'intervienne.", "english": "His final tirade lasts nearly three minutes without any other character speaking." },
+                { "french": "Le quiproquo naît d'une simple lettre mal adressée, et personne ne le découvre avant l'acte trois.", "english": "The mix-up arises from a simple misaddressed letter, and no one discovers it before act three." },
+                { "french": "Le public rit précisément parce qu'il connaît la vérité que les personnages ignorent.", "english": "The audience laughs precisely because it knows the truth the characters do not." },
+                { "french": "Une bonne tirade se construit comme une phrase de musicien : elle respire avant de conclure.", "english": "A good tirade is built like a musician's phrase: it breathes before it concludes." }
+              ],
+              "tip": "In print, an aparté is often marked simply '(Aparté.)' or '(À part.)' before the line — both mean the same convention."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "les-didascalies", "french": "les didascalies", "english": "the stage directions", "partOfSpeech": "noun", "gender": "f", "plural": "les didascalies", "pronunciation": "lay dee-das-kah-LEE", "example": "Les didascalies précisent que la scène se passe à l'aube.", "exampleEnglish": "The stage directions specify that the scene takes place at dawn.", "level": "C1", "category": "playtext" },
+            { "id": "le-dramaturge", "french": "le dramaturge / la dramaturge", "english": "the playwright", "partOfSpeech": "noun", "gender": "m", "plural": "les dramaturges", "pronunciation": "luh drah-mah-TEWRZH", "example": "Le dramaturge refuse toute didascalie psychologique, préférant l'action nue.", "exampleEnglish": "The playwright refuses any psychological stage direction, preferring bare action.", "level": "C1", "category": "playtext" },
+            { "id": "la-piece-de-theatre", "french": "la pièce de théâtre", "english": "the play", "partOfSpeech": "expression", "pronunciation": "lah pyess duh tay-AHTR", "example": "Cette pièce de théâtre repose presque entièrement sur un unique quiproquo.", "exampleEnglish": "This play rests almost entirely on a single misunderstanding.", "level": "C1", "category": "playtext" },
+            { "id": "l-acte", "french": "l'acte", "english": "the act", "partOfSpeech": "noun", "gender": "m", "plural": "les actes", "pronunciation": "LAHKT", "example": "Le quiproquo n'est révélé qu'au troisième acte.", "exampleEnglish": "The mix-up is revealed only in the third act.", "level": "C1", "category": "playtext" },
+            { "id": "la-scene", "french": "la scène", "english": "the scene", "partOfSpeech": "noun", "gender": "f", "plural": "les scènes", "pronunciation": "lah SEN", "example": "La scène s'ouvre sur un silence que personne n'ose rompre.", "exampleEnglish": "The scene opens on a silence no one dares to break.", "level": "C1", "category": "playtext" },
+            { "id": "la-replique", "french": "la réplique", "english": "the line (of dialogue), the retort", "partOfSpeech": "noun", "gender": "f", "plural": "les répliques", "pronunciation": "lah ray-PLEEK", "example": "Sa dernière réplique tombe comme un couperet, sans un mot de trop.", "exampleEnglish": "His last line falls like a blade, without a word too many.", "level": "C1", "category": "playtext" },
+            { "id": "le-dialogue", "french": "le dialogue", "english": "the dialogue", "partOfSpeech": "noun", "gender": "m", "plural": "les dialogues", "pronunciation": "luh dee-ah-LOG", "example": "Le dialogue avance par sous-entendus plus que par affirmations.", "exampleEnglish": "The dialogue advances through insinuation more than through statement.", "level": "C1", "category": "playtext" },
+            { "id": "un-personnage", "french": "un personnage", "english": "a character (in a play)", "partOfSpeech": "noun", "gender": "m", "plural": "des personnages", "pronunciation": "uhn pehr-so-NAHZH", "example": "Chaque personnage entre en scène avec son propre registre.", "exampleEnglish": "Each character enters with their own register.", "level": "C1", "category": "playtext" },
+            { "id": "le-protagoniste", "french": "le protagoniste", "english": "the protagonist", "partOfSpeech": "noun", "gender": "m", "plural": "les protagonistes", "pronunciation": "luh pro-tah-go-NEEST", "example": "Le protagoniste ne prononce pas un mot avant la troisième scène.", "exampleEnglish": "The protagonist does not utter a word before the third scene.", "level": "C1", "category": "playtext" },
+            { "id": "l-antagoniste", "french": "l'antagoniste", "english": "the antagonist", "partOfSpeech": "noun", "gender": "m", "plural": "les antagonistes", "pronunciation": "lahn-tah-go-NEEST", "example": "L'antagoniste n'apparaît jamais sur scène, seulement dans les répliques des autres.", "exampleEnglish": "The antagonist never appears on stage, only in the other characters' lines.", "level": "C1", "category": "playtext" },
+            { "id": "un-role", "french": "un rôle", "english": "a role", "partOfSpeech": "noun", "gender": "m", "plural": "des rôles", "pronunciation": "uhn ROHL", "example": "C'est un rôle écrit presque entièrement en registre soutenu.", "exampleEnglish": "It's a role written almost entirely in a formal register.", "level": "C1", "category": "playtext" },
+            { "id": "le-comedien", "french": "le comédien / la comédienne", "english": "the (stage) actor", "partOfSpeech": "noun", "gender": "m", "plural": "les comédiens", "pronunciation": "luh ko-may-DYAN", "example": "Le comédien doit tenir la tirade sans jamais perdre le fil.", "exampleEnglish": "The actor has to sustain the tirade without ever losing the thread.", "level": "C1", "category": "playtext" },
+            { "id": "l-aparte", "french": "l'aparté", "english": "the aside", "partOfSpeech": "noun", "gender": "m", "plural": "les apartés", "pronunciation": "lah-par-TAY", "example": "L'aparté révèle au public ce qu'aucun personnage sur scène ne sait encore.", "exampleEnglish": "The aside reveals to the audience what no character on stage yet knows.", "level": "C1", "category": "playtext" },
+            { "id": "le-monologue", "french": "le monologue", "english": "the monologue", "partOfSpeech": "noun", "gender": "m", "plural": "les monologues", "pronunciation": "luh mo-no-LOG", "example": "Le monologue final se joue seule, face public, dans une lumière crue.", "exampleEnglish": "The final monologue is played alone, facing the audience, in a harsh light.", "level": "C1", "category": "playtext" },
+            { "id": "la-tirade", "french": "la tirade", "english": "the tirade, the long uninterrupted speech", "partOfSpeech": "noun", "gender": "f", "plural": "les tirades", "pronunciation": "lah tee-RAHD", "example": "L'acteur enchaîne la tirade sans reprendre son souffle.", "exampleEnglish": "The actor delivers the tirade without pausing for breath.", "level": "C1", "category": "playtext" },
+            { "id": "le-quiproquo", "french": "le quiproquo", "english": "the mix-up, the misunderstanding", "partOfSpeech": "noun", "gender": "m", "plural": "les quiproquos", "pronunciation": "luh kee-pro-KOH", "example": "Tout repose sur un quiproquo que le spectateur perce avant les personnages.", "exampleEnglish": "Everything rests on a mix-up the spectator sees through before the characters do.", "level": "C1", "category": "playtext" },
+            { "id": "le-registre", "french": "le registre", "english": "the register (level of language)", "partOfSpeech": "noun", "gender": "m", "plural": "les registres", "pronunciation": "ruh-ZHEES-truh", "example": "Le registre change dès que les deux frères se retrouvent seuls.", "exampleEnglish": "The register changes as soon as the two brothers are alone together.", "level": "C1", "category": "playtext" },
+            { "id": "soutenu", "french": "soutenu", "english": "formal, elevated (register)", "partOfSpeech": "adjective", "pronunciation": "soot-NU", "example": "Ce personnage ne s'exprime qu'en registre soutenu, même sous la menace.", "exampleEnglish": "This character speaks only in a formal register, even under threat.", "level": "C1", "category": "playtext" },
+            { "id": "familier", "french": "familier", "english": "informal, colloquial", "partOfSpeech": "adjective", "pronunciation": "fah-mee-LYAY", "example": "Le passage au registre familier trahit sa panique.", "exampleEnglish": "The shift to a colloquial register betrays his panic.", "level": "C1", "category": "playtext" },
+            { "id": "courant-registre", "french": "courant", "english": "standard, everyday (register)", "partOfSpeech": "adjective", "pronunciation": "koo-RAHN", "example": "La plupart des répliques restent en registre courant, sans effet appuyé.", "exampleEnglish": "Most of the lines stay in a standard register, without a heavy effect.", "level": "C1", "category": "playtext" },
+            { "id": "la-comedie", "french": "la comédie", "english": "the comedy (genre)", "partOfSpeech": "noun", "gender": "f", "plural": "les comédies", "pronunciation": "koh-may-DEE", "example": "La pièce se présente comme une comédie, mais glisse peu à peu vers le drame.", "exampleEnglish": "The play presents itself as a comedy, but gradually slides towards drama.", "level": "C1", "category": "playtext" },
+            { "id": "la-tragedie", "french": "la tragédie", "english": "the tragedy (genre)", "partOfSpeech": "noun", "gender": "f", "plural": "les tragédies", "pronunciation": "lah trah-zhay-DEE", "example": "La tragédie exige que le dénouement soit connu d'avance.", "exampleEnglish": "Tragedy demands that the ending be known in advance.", "level": "C1", "category": "playtext" },
+            { "id": "le-drame", "french": "le drame", "english": "the drama (genre)", "partOfSpeech": "noun", "gender": "m", "plural": "les drames", "pronunciation": "luh DRAHM", "example": "Ce drame refuse aussi bien le pathos que l'ironie.", "exampleEnglish": "This drama refuses both pathos and irony.", "level": "C1", "category": "playtext" },
+            { "id": "comique-adj", "french": "comique", "english": "comic, funny", "partOfSpeech": "adjective", "pronunciation": "ko-MEEK", "example": "L'effet comique tient tout entier au décalage entre les deux répliques.", "exampleEnglish": "The comic effect rests entirely on the gap between the two lines.", "level": "C1", "category": "playtext" },
+            { "id": "tragique-adj", "french": "tragique", "english": "tragic", "partOfSpeech": "adjective", "pronunciation": "trah-ZHEEK", "example": "Le ton reste tragique jusque dans les répliques les plus brèves.", "exampleEnglish": "The tone stays tragic even in the briefest lines.", "level": "C1", "category": "playtext" },
+            { "id": "le-texte", "french": "le texte", "english": "the text", "partOfSpeech": "noun", "gender": "m", "plural": "les textes", "pronunciation": "luh TEKST", "example": "Le texte ne précise jamais l'âge du personnage principal.", "exampleEnglish": "The text never specifies the main character's age.", "level": "C1", "category": "playtext" },
+            { "id": "l-auteur", "french": "l'auteur", "english": "the author", "partOfSpeech": "noun", "gender": "m", "plural": "les auteurs", "pronunciation": "loh-TUHR", "example": "L'auteur laisse volontairement le dénouement ouvert.", "exampleEnglish": "The author deliberately leaves the ending open.", "level": "C1", "category": "playtext" },
+            { "id": "la-convention-theatrale", "french": "la convention théâtrale", "english": "the theatrical convention", "partOfSpeech": "noun", "gender": "f", "plural": "les conventions théâtrales", "pronunciation": "lah kon-vahn-SYON tay-ah-TRAHL", "example": "Parler seul à voix haute n'est acceptable que par convention théâtrale.", "exampleEnglish": "Speaking alone out loud is acceptable only by theatrical convention.", "level": "C1", "category": "playtext" },
+            { "id": "le-quatrieme-mur", "french": "le quatrième mur", "english": "the fourth wall", "partOfSpeech": "expression", "pronunciation": "luh kah-tree-EM MEWR", "example": "Le personnage brise soudain le quatrième mur pour interroger la salle.", "exampleEnglish": "The character suddenly breaks the fourth wall to question the audience.", "level": "C1", "category": "playtext" },
+            { "id": "l-adresse-au-public", "french": "l'adresse au public", "english": "the direct address to the audience", "partOfSpeech": "expression", "pronunciation": "lah-dress oh pu-BLEEK", "example": "L'adresse au public, rare dans cette pièce, marque un tournant.", "exampleEnglish": "The direct address to the audience, rare in this play, marks a turning point.", "level": "C1", "category": "playtext" },
+            { "id": "l-intrigue", "french": "l'intrigue", "english": "the plot", "partOfSpeech": "noun", "gender": "f", "plural": "les intrigues", "pronunciation": "lan-TREEG", "example": "L'intrigue tient tout entière dans une lettre jamais ouverte.", "exampleEnglish": "The whole plot rests on a letter that is never opened.", "level": "C1", "category": "playtext" },
+            { "id": "le-denouement", "french": "le dénouement", "english": "the ending, the resolution", "partOfSpeech": "noun", "gender": "m", "plural": "les dénouements", "pronunciation": "day-noo-MAHN", "example": "Le dénouement se joue en trois répliques à peine.", "exampleEnglish": "The resolution plays out in barely three lines.", "level": "C1", "category": "playtext" },
+            { "id": "le-noeud-dramatique", "french": "le nœud dramatique", "english": "the dramatic crux, the knot of the plot", "partOfSpeech": "expression", "pronunciation": "luh nuh drah-mah-TEEK", "example": "Le nœud dramatique se noue autour d'un simple malentendu de nom.", "exampleEnglish": "The dramatic crux ties itself around a simple mix-up of names.", "level": "C1", "category": "playtext" },
+            { "id": "le-conflit", "french": "le conflit", "english": "the conflict", "partOfSpeech": "noun", "gender": "m", "plural": "les conflits", "pronunciation": "luh kohn-FLEE", "example": "Le conflit oppose deux registres autant que deux volontés.", "exampleEnglish": "The conflict pits two registers against each other as much as two wills.", "level": "C1", "category": "playtext" },
+            { "id": "l-enjeu", "french": "l'enjeu", "english": "what is at stake, the key issue", "partOfSpeech": "noun", "gender": "m", "plural": "les enjeux", "pronunciation": "lahn-ZHUH", "example": "L'enjeu de la scène n'apparaît clairement qu'à la dernière réplique.", "exampleEnglish": "What is at stake in the scene only becomes clear on the last line.", "level": "C1", "category": "playtext" },
+            { "id": "vraisemblable", "french": "vraisemblable", "english": "plausible, believable", "partOfSpeech": "adjective", "pronunciation": "vreh-sahm-BLAH-bluh", "example": "Le quiproquo reste vraisemblable parce qu'il repose sur un simple hasard.", "exampleEnglish": "The mix-up stays believable because it rests on simple chance.", "level": "C1", "category": "playtext" },
+            { "id": "le-ton", "french": "le ton", "english": "the tone", "partOfSpeech": "noun", "gender": "m", "plural": "les tons", "pronunciation": "luh TON", "example": "Le ton bascule du comique au tragique en une seule réplique.", "exampleEnglish": "The tone swings from comic to tragic within a single line.", "level": "C1", "category": "playtext" },
+            { "id": "la-voix", "french": "la voix", "english": "the voice", "partOfSpeech": "noun", "gender": "f", "plural": "les voix", "pronunciation": "lah VWAH", "example": "On reconnaît chaque personnage à sa seule voix, sans nom en tête de réplique.", "exampleEnglish": "Each character is recognisable by voice alone, without a name heading the line.", "level": "C1", "category": "playtext" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Le mode des didascalies : phrases nominales et participes présents",
+              "body": "Didascalies rarely take a full conjugated clause with a subject and finite verb. Instead they favour the nominal sentence (a noun phrase with no verb at all: Un temps. Silence.), the bare present tense for an action described as it happens (Elle sort.), or a present participle clause describing something simultaneous with the line it precedes (Se retournant, elle...). This compression is deliberate: a didascalie is read in an instant, so it must be grammatically as compact as the moment it stages.",
+              "examples": [
+                { "french": "Un temps. Elle repose la tasse sans bruit.", "english": "A pause. She sets the cup down without a sound." },
+                { "french": "(Riant, malgré elle.) Tu es impossible.", "english": "(Laughing, in spite of herself.) You're impossible." },
+                { "french": "Silence. Puis, très bas : c'était donc toi.", "english": "Silence. Then, very quietly: so it was you." },
+                { "french": "(S'avançant vers la fenêtre.) Il ne reviendra pas ce soir.", "english": "(Moving towards the window.) He won't be back tonight." },
+                { "french": "(Hésitant, puis se décidant.) Je vais tout te dire.", "english": "(Hesitating, then making up her mind.) I'm going to tell you everything." }
+              ],
+              "tip": "A nominal didascalie like 'Un temps.' or 'Silence.' has no verb at all — resist the urge to translate it as a full English sentence; keep the English just as bare."
+            },
+            {
+              "heading": "Le discours direct sans verbe introducteur",
+              "body": "A novel tags speech with dit-il, répondit-elle. A play never does: the character's name printed before the line does that job instead, so the dialogue itself stays pure direct discourse, unfiltered by any narrator. This has a grammatical consequence — a playwright can let a reply begin mid-thought, without the connecting tissue (elle ajouta que, il reprit) a narrated dialogue would need to link one turn to the next.",
+              "examples": [
+                { "french": "CLAIRE. — Tu mens. MARC. — Depuis toujours.", "english": "CLAIRE. — You're lying. MARC. — I always have." },
+                { "french": "Aucun 'dit-il' ne sépare ces deux répliques : le nom en tête de ligne suffit.", "english": "No 'he said' separates these two lines: the name at the head of the line is enough." },
+                { "french": "LE PÈRE. — Et si je refusais ? LA FILLE. — Tu ne refuseras pas.", "english": "THE FATHER. — And if I refused? THE DAUGHTER. — You won't refuse." },
+                { "french": "La réplique suivante commence sans transition, comme si elle coupait la parole à la précédente.", "english": "The next line begins with no transition, as if it were cutting off the previous one." },
+                { "french": "En passant du roman à la pièce, on supprime tous les verbes de parole.", "english": "In moving from the novel to the play, every speech verb is removed." }
+              ],
+              "tip": "When you adapt narrated dialogue into a script, delete every dit-il/répondit-elle — the character name heading the line already carries that function."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "c1_u16_l01_li01", "type": "listenChoose", "french": "Le quiproquo n'est révélé qu'au troisième acte.", "options": ["The mix-up is revealed only in the third act.", "The playwright reveals the ending in the first act.", "The actors improvise the third act entirely.", "The audience never learns the truth."], "answer": "The mix-up is revealed only in the third act." },
+            { "id": "c1_u16_l01_li02", "type": "listenChoose", "french": "Le registre bascule dès que le masque tombe.", "options": ["The register flips the moment the mask falls.", "The lighting changes as the curtain falls.", "The actor forgets his lines when the mask falls.", "The audience applauds when the mask falls."], "answer": "The register flips the moment the mask falls." },
+            { "id": "c1_u16_l01_li03", "type": "listenType", "french": "L'aparté révèle au public ce qu'aucun personnage ne sait encore.", "answer": "L'aparté révèle au public ce qu'aucun personnage ne sait encore.", "acceptedAnswers": ["l'aparte revele au public ce qu'aucun personnage ne sait encore", "l'aparte revele au public ce quaucun personnage ne sait encore"] },
+            { "id": "c1_u16_l01_li04", "type": "dictation", "french": "Le dénouement se joue en trois répliques à peine.", "answer": "Le dénouement se joue en trois répliques à peine.", "acceptedAnswers": ["le denouement se joue en trois repliques a peine"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "c1_u16_l01_sp01", "type": "speak", "french": "L'enjeu de la scène n'apparaît clairement qu'à la dernière réplique.", "english": "What is at stake in the scene only becomes clear on the last line.", "prompt": "Explain when the true stakes of a scene become clear to the audience.", "tip": "Give 'clairement' its full weight — a slight pause before it lets the delay you're describing land in your own delivery." },
+            { "id": "c1_u16_l01_sp02", "type": "speak", "french": "Le ton bascule du comique au tragique en une seule réplique.", "english": "The tone swings from comic to tragic within a single line.", "prompt": "Describe a sudden tonal shift you noticed in a play or scene.", "tip": "Mark the shift physically: drop your voice slightly on 'tragique' so the contrast is audible, not just stated." },
+            { "id": "c1_u16_l01_sp03", "type": "speak", "french": "Tout repose sur un quiproquo que le spectateur perce avant les personnages.", "english": "Everything rests on a mix-up the spectator sees through before the characters do.", "prompt": "Summarise how dramatic irony works in a comedy of misunderstanding.", "tip": "Stress 'avant' — the whole comic mechanism depends on that timing gap between audience and characters." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Les Heures grises — Acte II, scène 3 (Élise Fontaine)",
+              "french": "(Le salon d'une vieille maison. Il pleut. MARGUERITE range des lettres sur la table basse.)\nLOUIS, entrant sans frapper. — Tu n'as pas répondu à mon message.\nMARGUERITE, sans lever les yeux. — Quel message ?\nLOUIS. — Ne joue pas à ça avec moi.\n(Un temps. Elle repose la lettre qu'elle tenait.)\nMARGUERITE. — Il conviendrait, Louis, que tu m'expliques d'abord pourquoi tu es venu.\nLOUIS. — Bon, tu veux vraiment qu'on fasse ça en registre soutenu ?\nMARGUERITE, souriant malgré elle. — Ça te va si mal, la politesse.\n(Silence. On entend la pluie contre la vitre.)\nLOUIS, plus bas. — J'ai trouvé la lettre. Celle que tu croyais brûlée.\nMARGUERITE, aparté. — S'il savait à qui elle était adressée, il ne serait pas si calme.\nLOUIS. — Tu ne dis rien ?\nMARGUERITE. — Qu'est-ce que tu veux que je dise ?\nLOUIS. — La vérité, pour une fois.\n(Elle hésite, puis referme la boîte à lettres sans un mot.)\nMARGUERITE. — La vérité, Louis, c'est que tu as ouvert une lettre qui n'était pas pour toi.",
+              "english": "(The living room of an old house. It is raining. MARGUERITE tidies letters on the coffee table.)\nLOUIS, entering without knocking. — You didn't answer my message.\nMARGUERITE, without looking up. — What message?\nLOUIS. — Don't play that game with me.\n(A pause. She sets down the letter she was holding.)\nMARGUERITE. — It would be fitting, Louis, for you to first explain why you've come.\nLOUIS. — Right, do you really want to do this in a formal register?\nMARGUERITE, smiling in spite of herself. — Politeness suits you so badly.\n(Silence. Rain can be heard against the window.)\nLOUIS, more quietly. — I found the letter. The one you thought was burnt.\nMARGUERITE, aside. — If he knew who it was addressed to, he wouldn't be so calm.\nLOUIS. — You're not saying anything?\nMARGUERITE. — What do you want me to say?\nLOUIS. — The truth, for once.\n(She hesitates, then closes the letter box again without a word.)\nMARGUERITE. — The truth, Louis, is that you opened a letter that wasn't for you.",
+              "questions": [
+                { "id": "c1_u16_l01_rd01", "type": "multipleChoice", "prompt": "Qu'est-ce qui provoque le passage de Louis au registre familier ?", "options": ["L'agacement face au registre soutenu que Marguerite maintient", "Une plaisanterie de Marguerite", "L'arrivée d'un troisième personnage", "La fin de la pluie"], "answer": "L'agacement face au registre soutenu que Marguerite maintient" },
+                { "id": "c1_u16_l01_rd02", "type": "trueFalse", "prompt": "L'aparté de Marguerite est entendu par Louis.", "options": ["True", "False"], "answer": "False" },
+                { "id": "c1_u16_l01_rd03", "type": "multipleChoice", "prompt": "Sur quoi repose le quiproquo suggéré par cette scène ?", "options": ["Une lettre que Louis n'aurait pas dû lire", "Un rendez-vous manqué", "Un héritage disputé", "Une lettre jamais écrite"], "answer": "Une lettre que Louis n'aurait pas dû lire" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "c1_u16_l01_wr01", "type": "translate", "prompt": "Translate: 'The register changes as soon as the two brothers are alone together.'", "english": "The register changes as soon as the two brothers are alone together.", "answer": "Le registre change dès que les deux frères se retrouvent seuls.", "acceptedAnswers": ["le registre change des que les deux freres se retrouvent seuls"] },
+            { "id": "c1_u16_l01_wr02", "type": "arrangeWords", "words": ["tient", "à", "l'intrigue", "jamais", "lettre", "une", "ouverte", "tout", "entière", "dans"], "answer": "l'intrigue tient tout entière dans une lettre jamais ouverte", "english": "The whole plot rests on a letter that is never opened." },
+            { "id": "c1_u16_l01_wr03", "type": "fillBlank", "prompt": "(Un ___. Elle repose la tasse sans bruit.) — a bare noun-only stage direction meaning 'a pause'.", "answer": "temps" }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "c1_u16_l01_pr01", "type": "multipleChoice", "prompt": "Comment appelle-t-on la réplique qu'un personnage seul, face au public, prononce à voix haute ?", "options": ["le monologue", "l'aparté", "la didascalie", "le quiproquo"], "answer": "le monologue" },
+            { "id": "c1_u16_l01_pr02", "type": "fillBlank", "prompt": "Une longue réplique ininterrompue, tenue par un seul personnage, s'appelle une ___.", "answer": "tirade" },
+            { "id": "c1_u16_l01_pr03", "type": "match", "pairs": [ { "french": "l'aparté", "english": "the aside" }, { "french": "le quiproquo", "english": "the misunderstanding" }, { "french": "les didascalies", "english": "the stage directions" }, { "french": "le quatrième mur", "english": "the fourth wall" } ] },
+            { "id": "c1_u16_l01_pr04", "type": "translate", "prompt": "Translate: 'Silence. Rain can be heard against the window.'", "english": "Silence. Rain can be heard against the window.", "answer": "Silence. On entend la pluie contre la vitre.", "acceptedAnswers": ["silence on entend la pluie contre la vitre"] },
+            { "id": "c1_u16_l01_pr05", "type": "trueFalse", "prompt": "Dans un texte théâtral, un verbe comme « dit-il » sépare habituellement chaque réplique.", "options": ["True", "False"], "answer": "False" },
+            { "id": "c1_u16_l01_pr06", "type": "arrangeWords", "words": ["masque", "bascule", "le", "dès", "que", "le", "registre", "tombe"], "answer": "le registre bascule dès que le masque tombe", "english": "The register flips the moment the mask falls." }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "c1_u16_l01_qz01", "type": "multipleChoice", "prompt": "Que désignent les didascalies dans un texte de théâtre ?", "options": ["Les indications scéniques données par l'auteur", "Les répliques échangées entre deux personnages", "Le résumé de l'intrigue en début de pièce", "Les applaudissements du public"], "answer": "Les indications scéniques données par l'auteur" },
+            { "id": "c1_u16_l01_qz02", "type": "fillBlank", "prompt": "S'il ___ ce que je sais, il ne sourirait pas ainsi. (savoir, imparfait)", "answer": "savait" },
+            { "id": "c1_u16_l01_qz03", "type": "multipleChoice", "prompt": "Un quiproquo repose essentiellement sur :", "options": ["un malentendu que les personnages ignorent mais que le public perçoit", "une longue tirade sans interruption", "une didascalie écrite au passé simple", "un changement de décor entre deux actes"], "answer": "un malentendu que les personnages ignorent mais que le public perçoit" },
+            { "id": "c1_u16_l01_qz04", "type": "trueFalse", "prompt": "Le registre soutenu signale généralement plus de distance ou de formalité que le registre familier.", "options": ["True", "False"], "answer": "True" },
+            { "id": "c1_u16_l01_qz05", "type": "translate", "prompt": "Translate: 'The dramatic crux ties itself around a simple mix-up of names.'", "english": "The dramatic crux ties itself around a simple mix-up of names.", "answer": "Le nœud dramatique se noue autour d'un simple malentendu de nom.", "acceptedAnswers": ["le noeud dramatique se noue autour d'un simple malentendu de nom", "le noeud dramatique se noue autour dun simple malentendu de nom"] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1_u16_l02",
+      "level": "C1",
+      "unit": 16,
+      "title": "Écrire un dialogue vivant",
+      "description": "Move from correct dialogue to dialogue that feels alive: control rhythm through line length and pause, plant subtext beneath what characters actually say, and use interruption and hesitation to sound unscripted.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Le rythme : la longueur de la réplique comme instrument",
+              "body": "Rhythm in dialogue is largely a matter of line length. A run of short répliques — one or two words each — reads fast and tense, like a exchange neither character controls. A single long tirade slows everything down and hands one character the floor. Skilled dialogue alternates deliberately: build tension with clipped exchanges, then release it by letting one voice finally speak at length.",
+              "examples": [
+                { "french": "— Pars. — Non. — Pars, je te dis. — Non.", "english": "\"Go.\" \"No.\" \"Go, I'm telling you.\" \"No.\"" },
+                { "french": "Quatre répliques d'un mot suffisent à faire monter la tension bien mieux qu'une explication.", "english": "Four one-word lines raise the tension far better than an explanation would." },
+                { "french": "Après ce silence, elle se lance enfin dans une longue tirade que personne n'interrompt.", "english": "After that silence, she finally launches into a long speech that no one interrupts." },
+                { "french": "Le débit s'accélère à mesure que la dispute se resserre.", "english": "The pace of delivery speeds up as the argument tightens." },
+                { "french": "Casser le rythme d'un coup, par une réplique très courte, frappe plus fort qu'un cri.", "english": "Suddenly breaking the rhythm with a very short line hits harder than a shout." }
+              ],
+              "tip": "Count the syllables of consecutive lines when a scene feels flat on the page — real tension usually shows up as a visible shrinking pattern, long line, shorter, shorter, one word."
+            },
+            {
+              "heading": "Le sous-texte : dire une chose, en vouloir une autre",
+              "body": "In life, people rarely say exactly what they mean; good dialogue respects that. Le sous-texte is the real feeling or intention running beneath the literal words of a line — l'implicite the audience must infer, and le sous-entendu a character deliberately plants for another to catch. A line about the weather can carry an entire unspoken accusation, as long as the actor and the audience both know it.",
+              "examples": [
+                { "french": "« Tu as l'air fatigué » ne parle jamais vraiment de fatigue dans cette scène.", "english": "\"You look tired\" is never really about tiredness in this scene." },
+                { "french": "Le sous-texte de cette réplique, c'est une accusation qu'aucun des deux ne formule.", "english": "The subtext of this line is an accusation neither of them puts into words." },
+                { "french": "Elle ne dit jamais qu'elle est jalouse ; tout l'implicite tient dans ce silence.", "english": "She never says she's jealous; the whole implication lies in that silence." },
+                { "french": "Le sous-entendu passe inaperçu du personnage visé, mais pas du spectateur.", "english": "The insinuation goes unnoticed by the character it targets, but not by the spectator." },
+                { "french": "Écrire du sous-texte, c'est faire confiance à l'acteur pour porter ce que le mot ne dit pas.", "english": "Writing subtext means trusting the actor to carry what the word does not say." }
+              ],
+              "tip": "If a line says exactly what a character feels, ask what they would actually say instead — real subtext usually hides behind a deflection, a question, or small talk."
+            },
+            {
+              "heading": "L'interruption, l'hésitation, le naturel de l'échange",
+              "body": "Nobody finishes every sentence in real conversation. Written dialogue that lets characters interrompre one another, hésiter mid-thought, or couper la parole to a partner reads as far more spontané and naturel than dialogue where every line is grammatically complete. Overuse this and the scene turns to chaos, but a well-placed interruption is often the single most convincing detail in a scene.",
+              "examples": [
+                { "french": "— Je voulais juste te dire que— — Je sais déjà.", "english": "\"I just wanted to tell you that—\" \"I already know.\"" },
+                { "french": "Il l'interrompt avant qu'elle finisse sa phrase, et elle le laisse faire.", "english": "He interrupts her before she finishes her sentence, and she lets him." },
+                { "french": "Elle hésite sur chaque mot, comme si la phrase se construisait devant nous.", "english": "She hesitates over every word, as if the sentence were being built in front of us." },
+                { "french": "Couper la parole à quelqu'un, sur scène, dit souvent plus qu'une longue réplique.", "english": "Cutting someone off, on stage, often says more than a long line." },
+                { "french": "Cette joute verbale ne laisse à aucun des deux le temps de respirer.", "english": "This verbal sparring match leaves neither of them time to breathe." }
+              ],
+              "tip": "Mark an interruption with an em dash at the exact syllable where the second character cuts in — not at the end of the first character's grammatical sentence."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "le-sous-texte", "french": "le sous-texte", "english": "the subtext", "partOfSpeech": "noun", "gender": "m", "plural": "les sous-textes", "pronunciation": "luh soo-TEKST", "example": "Le sous-texte de cette réplique, c'est une accusation qu'aucun des deux ne formule.", "exampleEnglish": "The subtext of this line is an accusation neither of them puts into words.", "level": "C1", "category": "dialogue-writing" },
+            { "id": "l-implicite", "french": "l'implicite", "english": "the implicit, what is not said outright", "partOfSpeech": "noun", "gender": "m", "plural": "les implicites", "pronunciation": "lan-plee-SEET", "example": "Elle ne dit jamais qu'elle est jalouse ; tout l'implicite tient dans ce silence.", "exampleEnglish": "She never says she's jealous; the whole implication lies in that silence.", "level": "C1", "category": "dialogue-writing" },
+            { "id": "le-sous-entendu", "french": "le sous-entendu", "english": "the insinuation, the implied meaning", "partOfSpeech": "noun", "gender": "m", "plural": "les sous-entendus", "pronunciation": "soo-zahn-tahn-DU", "example": "Le sous-entendu passe inaperçu du personnage visé, mais pas du spectateur.", "exampleEnglish": "The insinuation goes unnoticed by the character it targets, but not by the spectator.", "level": "C1", "category": "dialogue-writing" },
+            { "id": "la-nuance", "french": "la nuance", "english": "the nuance, the shade of meaning", "partOfSpeech": "noun", "gender": "f", "plural": "les nuances", "pronunciation": "lah nu-AHNSS", "example": "Toute la nuance de la scène tient dans un seul silence mal placé.", "exampleEnglish": "The whole nuance of the scene lies in a single misplaced silence.", "level": "C1", "category": "dialogue-writing" },
+            { "id": "le-rythme", "french": "le rythme", "english": "the rhythm", "partOfSpeech": "noun", "gender": "m", "plural": "les rythmes", "pronunciation": "luh REETM", "example": "Le rythme se resserre à mesure que la dispute approche de son sommet.", "exampleEnglish": "The rhythm tightens as the argument nears its peak.", "level": "C1", "category": "dialogue-writing" },
+            { "id": "le-debit", "french": "le débit", "english": "speaking pace, delivery", "partOfSpeech": "noun", "gender": "m", "plural": "les débits", "pronunciation": "day-BEE", "example": "Le débit s'accélère à mesure que la dispute se resserre.", "exampleEnglish": "The pace of delivery speeds up as the argument tightens.", "level": "C1", "category": "dialogue-writing" },
+            { "id": "l-intonation", "french": "l'intonation", "english": "the intonation", "partOfSpeech": "noun", "gender": "f", "plural": "les intonations", "pronunciation": "lan-toh-nah-SYON", "example": "Une seule intonation change et la réplique devient une menace.", "exampleEnglish": "Just one change of intonation and the line becomes a threat.", "level": "C1", "category": "dialogue-writing" },
+            { "id": "le-souffle", "french": "le souffle", "english": "the breath, the sweep (of a line)", "partOfSpeech": "noun", "gender": "m", "plural": "les souffles", "pronunciation": "luh SOOFL", "example": "La tirade se lit d'une traite, portée par un même souffle.", "exampleEnglish": "The tirade reads in one go, carried on a single breath.", "level": "C1", "category": "dialogue-writing" },
+            { "id": "le-silence", "french": "le silence", "english": "the silence, the pause", "partOfSpeech": "noun", "gender": "m", "plural": "les silences", "pronunciation": "luh see-LAHNSS", "example": "Le silence, ici, dit davantage que la réplique qui le suit.", "exampleEnglish": "The silence, here, says more than the line that follows it.", "level": "C1", "category": "dialogue-writing" },
+            { "id": "pause", "french": "une pause", "english": "a pause, a beat", "partOfSpeech": "noun", "gender": "f", "pronunciation": "oon POHZ", "example": "Marque une pause avant de répondre : ne va pas trop vite.", "exampleEnglish": "Mark a beat before answering: don't go too fast.", "level": "C1", "category": "dialogue-writing" },
+            { "id": "l-interruption", "french": "l'interruption", "english": "the interruption", "partOfSpeech": "noun", "gender": "f", "plural": "les interruptions", "pronunciation": "an-teh-rup-SYON", "example": "L'interruption tombe exactement sur le mot le plus important de la phrase.", "exampleEnglish": "The interruption lands exactly on the most important word of the sentence.", "level": "C1", "category": "dialogue-writing" },
+            { "id": "interrompre", "french": "interrompre", "english": "to interrupt", "partOfSpeech": "verb", "pronunciation": "an-teh-ROHN-pruh", "example": "Il l'interrompt avant qu'elle finisse sa phrase, et elle le laisse faire.", "exampleEnglish": "He interrupts her before she finishes her sentence, and she lets him.", "level": "C1", "category": "dialogue-writing" },
+            { "id": "b2u6-couper-la-parole", "french": "couper la parole", "english": "to cut someone off", "partOfSpeech": "expression", "pronunciation": "koo-PAY lah pah-ROL", "example": "Couper la parole à quelqu'un, sur scène, dit souvent plus qu'une longue réplique.", "exampleEnglish": "Cutting someone off, on stage, often says more than a long line.", "level": "C1", "category": "dialogue-writing" },
+            { "id": "l-hesitation", "french": "l'hésitation", "english": "the hesitation", "partOfSpeech": "noun", "gender": "f", "plural": "les hésitations", "pronunciation": "lay-zee-tah-SYON", "example": "Chaque hésitation ralentit la réplique juste assez pour paraître vraie.", "exampleEnglish": "Each hesitation slows the line down just enough to feel true.", "level": "C1", "category": "dialogue-writing" },
+            { "id": "la-tension", "french": "la tension", "english": "the tension", "partOfSpeech": "noun", "gender": "f", "plural": "les tensions", "pronunciation": "lah tahn-SYON", "example": "La tension monte sans qu'aucun mot ne soit haussé.", "exampleEnglish": "The tension rises without a single word being raised.", "level": "C1", "category": "dialogue-writing" },
+            { "id": "le-conflit", "french": "le conflit", "english": "the conflict", "partOfSpeech": "noun", "gender": "m", "plural": "les conflits", "pronunciation": "luh kohn-FLEE", "example": "Le conflit se joue entièrement dans ce que les deux personnages taisent.", "exampleEnglish": "The conflict plays out entirely in what the two characters leave unsaid.", "level": "C1", "category": "dialogue-writing" },
+            { "id": "l-enjeu", "french": "l'enjeu", "english": "what is at stake", "partOfSpeech": "noun", "gender": "m", "plural": "les enjeux", "pronunciation": "lahn-ZHUH", "example": "L'enjeu réel de l'échange n'a rien à voir avec le sujet apparent.", "exampleEnglish": "The real stakes of the exchange have nothing to do with the surface topic.", "level": "C1", "category": "dialogue-writing" },
+            { "id": "la-replique", "french": "la réplique", "english": "the line (of dialogue)", "partOfSpeech": "noun", "gender": "f", "plural": "les répliques", "pronunciation": "lah ray-PLEEK", "example": "Casser le rythme d'un coup, par une réplique très courte, frappe plus fort qu'un cri.", "exampleEnglish": "Suddenly breaking the rhythm with a very short line hits harder than a shout.", "level": "C1", "category": "dialogue-writing" },
+            { "id": "le-dialogue", "french": "le dialogue", "english": "the dialogue", "partOfSpeech": "noun", "gender": "m", "plural": "les dialogues", "pronunciation": "luh dee-ah-LOG", "example": "Écrire du dialogue vivant, c'est faire confiance à l'acteur pour porter ce que le mot ne dit pas.", "exampleEnglish": "Writing lively dialogue means trusting the actor to carry what the word does not say.", "level": "C1", "category": "dialogue-writing" },
+            { "id": "l-echange", "french": "l'échange", "english": "the exchange (of lines)", "partOfSpeech": "noun", "gender": "m", "plural": "les échanges", "pronunciation": "lay-SHAHNZH", "example": "Cet échange dure dix répliques et personne n'y gagne rien.", "exampleEnglish": "This exchange lasts ten lines and neither of them gains anything from it.", "level": "C1", "category": "dialogue-writing" },
+            { "id": "la-repetition", "french": "la répétition", "english": "the repetition (as a device)", "partOfSpeech": "noun", "gender": "f", "plural": "les répétitions", "pronunciation": "lah ray-pay-tee-SYON", "example": "La répétition du même mot, trois fois, remplace ici toute explication.", "exampleEnglish": "The repetition of the same word, three times, replaces any explanation here.", "level": "C1", "category": "dialogue-writing" },
+            { "id": "geste", "french": "le geste", "english": "the gesture", "partOfSpeech": "noun", "gender": "m", "plural": "les gestes", "pronunciation": "luh ZHEST", "example": "Un geste peut contredire la réplique qu'il accompagne.", "exampleEnglish": "A gesture can contradict the line it accompanies.", "level": "C1", "category": "dialogue-writing" },
+            { "id": "le-regard", "french": "le regard", "english": "the gaze, the look", "partOfSpeech": "noun", "gender": "m", "plural": "les regards", "pronunciation": "luh ruh-GAR", "example": "Le regard tient lieu de réplique pendant près de dix secondes.", "exampleEnglish": "The look stands in for a line for nearly ten seconds.", "level": "C1", "category": "dialogue-writing" },
+            { "id": "la-voix", "french": "la voix", "english": "the voice", "partOfSpeech": "noun", "gender": "f", "plural": "les voix", "pronunciation": "lah VWAH", "example": "Sa voix se brise sur le dernier mot, sans que le texte l'indique.", "exampleEnglish": "Her voice breaks on the last word, though the text does not indicate it.", "level": "C1", "category": "dialogue-writing" },
+            { "id": "le-ton", "french": "le ton", "english": "the tone", "partOfSpeech": "noun", "gender": "m", "plural": "les tons", "pronunciation": "luh TON", "example": "Le ton reste léger en surface, mais le sous-texte ne l'est pas.", "exampleEnglish": "The tone stays light on the surface, but the subtext is not.", "level": "C1", "category": "dialogue-writing" },
+            { "id": "vif", "french": "vif", "english": "lively, sharp, quick", "partOfSpeech": "adjective", "pronunciation": "VEEF", "example": "L'échange est vif, presque haché, et n'en est que plus convaincant.", "exampleEnglish": "The exchange is sharp, almost clipped, and only more convincing for it.", "level": "C1", "category": "dialogue-writing" },
+            { "id": "naturel", "french": "naturel", "english": "natural, unforced", "partOfSpeech": "adjective", "pronunciation": "nah-tu-REL", "example": "Une réplique inachevée sonne souvent plus naturelle qu'une phrase complète.", "exampleEnglish": "An unfinished line often sounds more natural than a complete sentence.", "level": "C1", "category": "dialogue-writing" },
+            { "id": "artificiel", "french": "artificiel", "english": "artificial, stilted", "partOfSpeech": "adjective", "pronunciation": "ar-tee-fee-SYEL", "example": "Un dialogue où chacun finit toujours sa phrase sonne vite artificiel.", "exampleEnglish": "A dialogue where everyone always finishes their sentence quickly sounds stilted.", "level": "C1", "category": "dialogue-writing" },
+            { "id": "spontane", "french": "spontané", "english": "spontaneous", "partOfSpeech": "adjective", "pronunciation": "spon-tah-NAY", "example": "L'hésitation rend la réplique plus spontanée qu'une phrase parfaitement construite.", "exampleEnglish": "The hesitation makes the line more spontaneous than a perfectly built sentence.", "level": "C1", "category": "dialogue-writing" },
+            { "id": "la-spontaneite", "french": "la spontanéité", "english": "the spontaneity", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah spon-tah-nay-ee-TAY", "example": "La spontanéité de l'échange masque un travail d'écriture très précis.", "exampleEnglish": "The spontaneity of the exchange conceals very precise craftsmanship.", "level": "C1", "category": "dialogue-writing" },
+            { "id": "credible", "french": "crédible", "english": "credible, believable", "partOfSpeech": "adjective", "pronunciation": "kray-DEE-bluh", "example": "Une hésitation bien placée rend la réplique tout à fait crédible.", "exampleEnglish": "A well-placed hesitation makes the line entirely believable.", "level": "C1", "category": "dialogue-writing" },
+            { "id": "credibilite", "french": "la crédibilité", "english": "the credibility", "partOfSpeech": "noun", "gender": "f", "plural": "les crédibilités", "pronunciation": "lah kray-dee-bee-lee-TAY", "example": "La crédibilité de la scène tient à ce léger flottement dans la voix.", "exampleEnglish": "The credibility of the scene rests on that slight waver in the voice.", "level": "C1", "category": "dialogue-writing" },
+            { "id": "convaincant", "french": "convaincant", "english": "convincing", "partOfSpeech": "adjective", "pronunciation": "kohn-van-KAHN", "example": "Le silence, ici, est plus convaincant que n'importe quelle réplique.", "exampleEnglish": "The silence, here, is more convincing than any line could be.", "level": "C1", "category": "dialogue-writing" },
+            { "id": "vraisemblable", "french": "vraisemblable", "english": "plausible, believable", "partOfSpeech": "adjective", "pronunciation": "vreh-sahm-BLAH-bluh", "example": "Un dialogue vraisemblable laisse de la place à l'hésitation et au silence.", "exampleEnglish": "A believable dialogue leaves room for hesitation and silence.", "level": "C1", "category": "dialogue-writing" },
+            { "id": "la-joute-verbale", "french": "la joute verbale", "english": "the verbal sparring match", "partOfSpeech": "expression", "pronunciation": "lah zhoot vehr-BAHL", "example": "Cette joute verbale ne laisse à aucun des deux le temps de respirer.", "exampleEnglish": "This verbal sparring match leaves neither of them time to breathe.", "level": "C1", "category": "dialogue-writing" },
+            { "id": "l-improvisation", "french": "l'improvisation", "english": "the improvisation", "partOfSpeech": "noun", "gender": "f", "plural": "les improvisations", "pronunciation": "lan-proh-vee-zah-SYON", "example": "Le comédien introduit une légère improvisation que le texte n'annonçait pas.", "exampleEnglish": "The actor introduces a slight improvisation the text did not call for.", "level": "C1", "category": "dialogue-writing" },
+            { "id": "improviser", "french": "improviser", "english": "to improvise", "partOfSpeech": "verb", "pronunciation": "an-proh-vee-ZAY", "example": "Elle improvise une hésitation qui n'était pas dans le texte, et la scène y gagne.", "exampleEnglish": "She improvises a hesitation that wasn't in the text, and the scene benefits.", "level": "C1", "category": "dialogue-writing" },
+            { "id": "l-ellipse", "french": "l'ellipse", "english": "the ellipsis (deliberate omission)", "partOfSpeech": "noun", "gender": "f", "plural": "les ellipses", "pronunciation": "ay-LEEPS", "example": "L'ellipse laisse la fin de la phrase à l'imagination du spectateur.", "exampleEnglish": "The ellipsis leaves the end of the sentence to the spectator's imagination.", "level": "C1", "category": "dialogue-writing" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Phrases nominales et ellipse syntaxique",
+              "body": "Realistic dialogue drops words a full written sentence would keep. A phrase nominale states a noun with no verb at all (Encore toi.); syntactic ellipsis lets a character skip a subject, a verb, or an entire clause the listener can reconstruct from context. Both devices compress a line toward how people actually speak — in fragments, trusting the other person to fill the gap.",
+              "examples": [
+                { "french": "Encore toi. Toujours au mauvais moment.", "english": "You again. Always at the worst moment." },
+                { "french": "— Tu pars quand ? — Demain, peut-être.", "english": "\"When are you leaving?\" \"Tomorrow, maybe.\"" },
+                { "french": "Rien à faire. Rien à dire non plus.", "english": "Nothing to be done. Nothing to say either." },
+                { "french": "— Et si elle refuse ? — Alors on verra.", "english": "\"And if she refuses?\" \"Then we'll see.\"" },
+                { "french": "Pas un mot de plus. Pas ce soir.", "english": "Not one more word. Not tonight." }
+              ],
+              "tip": "An ellipsis works only if the missing words are recoverable from the previous line — cut too much and the exchange stops making sense rather than sounding natural."
+            },
+            {
+              "heading": "La ponctuation de l'interruption : tiret et points de suspension",
+              "body": "French playtexts mark spoken interruption with two distinct tools. The tiret cadratif (em dash) at the end of a line shows a character cut off mid-word or mid-thought by another; les points de suspension (…) show a character trailing off on their own, unable or unwilling to finish. Choosing between them is a choice about cause: was the silence imposed from outside, or chosen from within?",
+              "examples": [
+                { "french": "MARC. — Je voulais juste te dire que— CLAIRE. — Je sais déjà.", "english": "MARC. — I just wanted to tell you that— CLAIRE. — I already know." },
+                { "french": "Elle commence une phrase, puis... rien.", "english": "She begins a sentence, then... nothing." },
+                { "french": "— Si tu partais maintenant, je— — Ne dis rien.", "english": "\"If you left now, I—\" \"Don't say anything.\"" },
+                { "french": "Il hésite, cherche ses mots, et finit par se taire.", "english": "He hesitates, searches for his words, and ends up falling silent." },
+                { "french": "Le tiret coupe la réplique net ; les points de suspension la laissent flotter.", "english": "The dash cuts the line off sharply; the ellipsis points let it drift." }
+              ],
+              "tip": "Reserve the em dash for a genuine interruption by another character — using it for a character's own trailing thought blurs a distinction actors rely on."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "c1_u16_l02_li01", "type": "listenChoose", "french": "Le débit s'accélère à mesure que la dispute se resserre.", "options": ["The pace of delivery speeds up as the argument tightens.", "The actors slow down before the interval.", "The lighting dims as the argument tightens.", "The audience grows quieter as the argument tightens."], "answer": "The pace of delivery speeds up as the argument tightens." },
+            { "id": "c1_u16_l02_li02", "type": "listenChoose", "french": "Le silence, ici, dit davantage que la réplique qui le suit.", "options": ["The silence, here, says more than the line that follows it.", "The silence is a mistake by the actor.", "The line that follows explains the silence completely.", "The director cut the silence from the final version."], "answer": "The silence, here, says more than the line that follows it." },
+            { "id": "c1_u16_l02_li03", "type": "listenType", "french": "Une hésitation bien placée rend la réplique tout à fait crédible.", "answer": "Une hésitation bien placée rend la réplique tout à fait crédible.", "acceptedAnswers": ["une hesitation bien placee rend la replique tout a fait credible"] },
+            { "id": "c1_u16_l02_li04", "type": "dictation", "french": "Cette joute verbale ne laisse à aucun des deux le temps de respirer.", "answer": "Cette joute verbale ne laisse à aucun des deux le temps de respirer.", "acceptedAnswers": ["cette joute verbale ne laisse a aucun des deux le temps de respirer"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "c1_u16_l02_sp01", "type": "speak", "french": "Casser le rythme d'un coup, par une réplique très courte, frappe plus fort qu'un cri.", "english": "Suddenly breaking the rhythm with a very short line hits harder than a shout.", "prompt": "Explain how a very short line can be more powerful than a long emotional speech.", "tip": "Drop your own volume on 'frappe plus fort' — let the contrast between short and loud do the work, not your voice." },
+            { "id": "c1_u16_l02_sp02", "type": "speak", "french": "Le sous-texte de cette réplique, c'est une accusation qu'aucun des deux ne formule.", "english": "The subtext of this line is an accusation neither of them puts into words.", "prompt": "Describe a line of dialogue whose real meaning is never spoken aloud.", "tip": "Keep your tone neutral while saying this — the whole point is that the accusation stays beneath the surface, even in your own voice." },
+            { "id": "c1_u16_l02_sp03", "type": "speak", "french": "Couper la parole à quelqu'un, sur scène, dit souvent plus qu'une longue réplique.", "english": "Cutting someone off, on stage, often says more than a long line.", "prompt": "Argue for interruption as a tool of characterisation rather than a flaw in dialogue.", "tip": "Practise cutting your own sentence short on 'plus qu'une longue réplique' — enacting the technique while describing it lands the point." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Le Bruit des verres — scène (Thomas Nadeau)",
+              "french": "(Une cuisine, tard le soir. SOPHIE essuie un verre. DANIEL entre, encore en manteau.)\nDANIEL. — Tu ne m'as pas attendu pour manger.\nSOPHIE. — J'avais faim.\nDANIEL. — Bien sûr.\n(Un temps.)\nSOPHIE. — Tu voulais dire autre chose ?\nDANIEL. — Non.\nSOPHIE. — Daniel.\nDANIEL. — Je pensais juste que—\nSOPHIE. — Que quoi ?\nDANIEL. — Rien. Laisse tomber.\n(Elle repose le verre, très doucement.)\nSOPHIE. — Tu rentres tard, tu dis « rien », et tu gardes ton manteau.\nDANIEL. — J'ai froid.\nSOPHIE. — Non. Tu as peur.\n(Silence. Il ne répond pas.)",
+              "english": "(A kitchen, late at night. SOPHIE dries a glass. DANIEL enters, still in his coat.)\nDANIEL. — You didn't wait for me to eat.\nSOPHIE. — I was hungry.\nDANIEL. — Of course.\n(A pause.)\nSOPHIE. — Did you want to say something else?\nDANIEL. — No.\nSOPHIE. — Daniel.\nDANIEL. — I was just thinking that—\nSOPHIE. — That what?\nDANIEL. — Nothing. Forget it.\n(She sets down the glass, very gently.)\nSOPHIE. — You come home late, you say \"nothing,\" and you keep your coat on.\nDANIEL. — I'm cold.\nSOPHIE. — No. You're afraid.\n(Silence. He does not answer.)",
+              "questions": [
+                { "id": "c1_u16_l02_rd01", "type": "multipleChoice", "prompt": "Qu'est-ce qui trahit, selon Sophie, ce que Daniel ne dit pas ?", "options": ["Le fait qu'il garde son manteau", "Le verre qu'elle essuie", "L'heure tardive de son retour", "Le ton de sa voix"], "answer": "Le fait qu'il garde son manteau" },
+                { "id": "c1_u16_l02_rd02", "type": "trueFalse", "prompt": "Daniel termine sa phrase « Je pensais juste que— » avant d'être interrompu.", "options": ["True", "False"], "answer": "False" },
+                { "id": "c1_u16_l02_rd03", "type": "multipleChoice", "prompt": "Comment la scène crée-t-elle la tension, principalement ?", "options": ["Par des répliques très courtes et un sous-texte non formulé", "Par une longue tirade de Sophie", "Par une didascalie qui explique les sentiments des personnages", "Par un changement soudain de décor"], "answer": "Par des répliques très courtes et un sous-texte non formulé" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "c1_u16_l02_wr01", "type": "translate", "prompt": "Translate: 'The tension rises without a single word being raised.'", "english": "The tension rises without a single word being raised.", "answer": "La tension monte sans qu'aucun mot ne soit haussé.", "acceptedAnswers": ["la tension monte sans qu'aucun mot ne soit hausse", "la tension monte sans quaucun mot ne soit hausse"] },
+            { "id": "c1_u16_l02_wr02", "type": "arrangeWords", "words": ["plus", "convaincant", "réplique", "silence", "le", "est", "que", "n'importe", "quelle"], "answer": "le silence est plus convaincant que n'importe quelle réplique", "english": "The silence is more convincing than any line could be." },
+            { "id": "c1_u16_l02_wr03", "type": "fillBlank", "prompt": "Le débit s'accélère à mesure que la dispute se ___. (resserrer)", "answer": "resserre" }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "c1_u16_l02_pr01", "type": "multipleChoice", "prompt": "Comment appelle-t-on ce qu'un personnage veut vraiment dire, sous la réplique littérale ?", "options": ["le sous-texte", "la didascalie", "le quiproquo", "la tirade"], "answer": "le sous-texte" },
+            { "id": "c1_u16_l02_pr02", "type": "fillBlank", "prompt": "Elle ___ sur chaque mot, comme si la phrase se construisait devant nous. (hésiter)", "answer": "hésite" },
+            { "id": "c1_u16_l02_pr03", "type": "match", "pairs": [ { "french": "le sous-entendu", "english": "the insinuation" }, { "french": "l'hésitation", "english": "the hesitation" }, { "french": "couper la parole", "english": "to cut someone off" }, { "french": "la spontanéité", "english": "the spontaneity" } ] },
+            { "id": "c1_u16_l02_pr04", "type": "translate", "prompt": "Translate: 'He interrupts her before she finishes her sentence.'", "english": "He interrupts her before she finishes her sentence.", "answer": "Il l'interrompt avant qu'elle finisse sa phrase.", "acceptedAnswers": ["il l'interrompt avant qu'elle finisse sa phrase", "il linterrompt avant quelle finisse sa phrase"] },
+            { "id": "c1_u16_l02_pr05", "type": "trueFalse", "prompt": "Une réplique grammaticalement complète sonne toujours plus naturelle qu'une réplique interrompue.", "options": ["True", "False"], "answer": "False" },
+            { "id": "c1_u16_l02_pr06", "type": "arrangeWords", "words": ["place", "hésitation", "un", "vraisemblable", "laisse", "à", "l'", "dialogue", "de"], "answer": "un dialogue vraisemblable laisse de la place à l'hésitation", "english": "A believable dialogue leaves room for hesitation." }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "c1_u16_l02_qz01", "type": "multipleChoice", "prompt": "Qu'est-ce que le sous-texte dans un dialogue ?", "options": ["Le sens ou le sentiment réel qui n'est pas exprimé directement", "Une didascalie écrite en italique", "Le résumé de la scène précédente", "Une réplique prononcée à voix haute face au public"], "answer": "Le sens ou le sentiment réel qui n'est pas exprimé directement" },
+            { "id": "c1_u16_l02_qz02", "type": "fillBlank", "prompt": "Pas un mot de plus. Pas ce ___. (an elliptical line meaning 'not tonight')", "answer": "soir" },
+            { "id": "c1_u16_l02_qz03", "type": "multipleChoice", "prompt": "Que marque généralement le tiret cadratif en fin de réplique ?", "options": ["Une interruption par un autre personnage", "Une hésitation du même personnage", "Une didascalie descriptive", "Un changement de décor"], "answer": "Une interruption par un autre personnage" },
+            { "id": "c1_u16_l02_qz04", "type": "trueFalse", "prompt": "Une série de répliques très courtes tend à accélérer le rythme et la tension d'une scène.", "options": ["True", "False"], "answer": "True" },
+            { "id": "c1_u16_l02_qz05", "type": "translate", "prompt": "Translate: 'This verbal sparring match leaves neither of them time to breathe.'", "english": "This verbal sparring match leaves neither of them time to breathe.", "answer": "Cette joute verbale ne laisse à aucun des deux le temps de respirer.", "acceptedAnswers": ["cette joute verbale ne laisse a aucun des deux le temps de respirer"] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1_u16_l03",
+      "level": "C1",
+      "unit": 16,
+      "title": "La mise en scène",
+      "description": "Move from the page to the stage: read a text the way a director does, weighing choices about décor, era, and fidelity, then judge whether a staging is convincing.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "La lecture du texte : le point de départ du metteur en scène",
+              "body": "Before a single décor is built, le metteur en scène produces une lecture — a personal, arguable interpretation of what the text is really about. Two directors can stage the same text with opposite results because they answered a different question first: is this a play about power, about grief, about language itself? Every later choice, from le décor to le rythme des répliques, follows from that initial reading.",
+              "examples": [
+                { "french": "Sa lecture de la pièce privilégie le pouvoir plutôt que l'amour.", "english": "Her reading of the play foregrounds power rather than love." },
+                { "french": "Le metteur en scène part d'une question simple : de quoi ce texte parle-t-il vraiment ?", "english": "The director starts from a simple question: what is this text really about?" },
+                { "french": "Deux lectures opposées peuvent naître d'un seul et même texte.", "english": "Two opposing readings can arise from one and the same text." },
+                { "french": "Le choix du décor découle directement de cette première lecture.", "english": "The choice of set follows directly from that first reading." },
+                { "french": "On ne monte jamais un texte de manière neutre : on en propose toujours une interprétation.", "english": "One never stages a text neutrally: one always proposes an interpretation of it." }
+              ],
+              "tip": "When you evaluate a production, ask first what question the director seems to be answering — most staging choices make sense only once you've named it."
+            },
+            {
+              "heading": "Fidélité et trahison : jusqu'où adapter ?",
+              "body": "Every mise en scène balances fidélité to the text against the freedom to make it speak to a present audience. Rester fidèle can mean respecting the period, the punctuation, even the didascalies; trahir le texte — a phrase directors use almost affectionately — means altering it in ways the author never specified. Setting a classical text in a contemporain world is not automatically a betrayal, provided the choice serves the text's own logic rather than replacing it.",
+              "examples": [
+                { "french": "Cette mise en scène reste fidèle à la lettre, mais réinvente l'esprit du texte.", "english": "This production stays faithful to the letter, but reinvents the spirit of the text." },
+                { "french": "On l'accuse de trahir le texte en supprimant la moitié des didascalies.", "english": "He is accused of betraying the text by cutting half the stage directions." },
+                { "french": "Transposer la pièce dans un monde contemporain n'est pas, en soi, une trahison.", "english": "Moving the play into a contemporary world is not, in itself, a betrayal." },
+                { "french": "La fidélité au texte ne garantit pas, à elle seule, une mise en scène réussie.", "english": "Faithfulness to the text does not, on its own, guarantee a successful production." },
+                { "french": "Toute adaptation suppose des choix que le texte original ne dictait pas.", "english": "Every adaptation involves choices the original text did not dictate." }
+              ],
+              "tip": "In director interviews, 'trahir le texte' is rarely a confession of failure — it usually introduces the director's proudest, most deliberate choice."
+            },
+            {
+              "heading": "Diriger les comédiens, juger le résultat",
+              "body": "On stage, the director's reading becomes real through le comédien: diriger an actor means shaping how they incarnent a role without simply dictating line readings. Judging a production afterwards calls for the same vocabulary critics use elsewhere — is the choice convaincant, is the performance crédible, does the whole stay vraisemblable — but applied now to a director's vraisemblance, not just a writer's.",
+              "examples": [
+                { "french": "Diriger un comédien, ce n'est pas lui imposer une intonation, mais l'aider à la trouver.", "english": "Directing an actor is not imposing an intonation on them, but helping them find it." },
+                { "french": "Elle incarne ce rôle avec une sobriété qui sert magnifiquement le texte.", "english": "She embodies this role with a restraint that magnificently serves the text." },
+                { "french": "Le choix d'un décor dépouillé rend l'ensemble d'autant plus convaincant.", "english": "The choice of a pared-down set makes the whole all the more convincing." },
+                { "french": "La vraisemblance de cette mise en scène tient à un détail : personne ne surjoue.", "english": "This production's plausibility rests on one detail: no one overacts." },
+                { "french": "Un parti pris audacieux ne vaut que s'il reste crédible du début à la fin.", "english": "A bold directorial choice is only worth it if it stays credible from beginning to end." }
+              ],
+              "tip": "When praising a director's work, separate two questions — was the parti pris interesting, and was its execution convaincant — a production can succeed at one and fail at the other."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "la-mise-en-scene", "french": "la mise en scène", "english": "the staging, the production concept", "partOfSpeech": "noun", "gender": "f", "plural": "les mises en scène", "pronunciation": "lah meez ahn SEHN", "example": "La mise en scène déplace l'action dans un présent inquiétant, sans jamais trahir le texte.", "exampleEnglish": "The staging moves the action into an unsettling present, without ever betraying the text.", "level": "C1", "category": "staging" },
+            { "id": "le-metteur-en-scene", "french": "le metteur en scène / la metteuse en scène", "english": "the director (theatre)", "partOfSpeech": "noun", "gender": "m", "plural": "les metteurs en scène", "pronunciation": "luh meh-TUR ahn SEHN", "example": "Le metteur en scène part d'une question simple : de quoi ce texte parle-t-il vraiment ?", "exampleEnglish": "The director starts from a simple question: what is this text really about?", "level": "C1", "category": "staging" },
+            { "id": "le-decor", "french": "le décor", "english": "the set, the scenery", "partOfSpeech": "noun", "gender": "m", "plural": "les décors", "pronunciation": "luh day-KOR", "example": "Le choix d'un décor dépouillé rend l'ensemble d'autant plus convaincant.", "exampleEnglish": "The choice of a pared-down set makes the whole all the more convincing.", "level": "C1", "category": "staging" },
+            { "id": "l-eclairage", "french": "l'éclairage", "english": "the lighting (design)", "partOfSpeech": "noun", "gender": "m", "plural": "les éclairages", "pronunciation": "lay-kleh-RAHZH", "example": "Un éclairage cru isole chaque comédien dans son propre halo.", "exampleEnglish": "Harsh lighting isolates each actor in their own halo.", "level": "C1", "category": "staging" },
+            { "id": "la-scenographie", "french": "la scénographie", "english": "the set design, stage design", "partOfSpeech": "noun", "gender": "f", "plural": "les scénographies", "pronunciation": "lah say-no-grah-FEE", "example": "La scénographie, minimaliste, laisse toute la place au jeu des comédiens.", "exampleEnglish": "The minimalist set design leaves all the room for the actors' performances.", "level": "C1", "category": "staging" },
+            { "id": "l-espace-scenique", "french": "l'espace scénique", "english": "the stage space", "partOfSpeech": "expression", "pronunciation": "less-pahss say-NEEK", "example": "L'espace scénique reste nu, sans un seul accessoire.", "exampleEnglish": "The stage space stays bare, without a single prop.", "level": "C1", "category": "staging" },
+            { "id": "la-scene", "french": "la scène", "english": "the stage", "partOfSpeech": "noun", "gender": "f", "plural": "les scènes", "pronunciation": "lah SEN", "example": "Rien n'occupe la scène en dehors des deux comédiens.", "exampleEnglish": "Nothing occupies the stage besides the two actors.", "level": "C1", "category": "staging" },
+            { "id": "le-public", "french": "le public", "english": "the audience", "partOfSpeech": "noun", "gender": "m", "plural": "les publics", "pronunciation": "luh poo-BLEEK", "example": "Ce parti pris déroute une partie du public avant de la convaincre.", "exampleEnglish": "This directorial choice unsettles part of the audience before winning it over.", "level": "C1", "category": "staging" },
+            { "id": "le-spectateur", "french": "le spectateur", "english": "the spectator", "partOfSpeech": "noun", "gender": "m", "plural": "les spectateurs", "pronunciation": "luh spek-tah-TUR", "example": "Le spectateur reconstruit lui-même ce que le décor refuse de montrer.", "exampleEnglish": "The spectator reconstructs for themselves what the set refuses to show.", "level": "C1", "category": "staging" },
+            { "id": "un-role", "french": "un rôle", "english": "a role", "partOfSpeech": "noun", "gender": "m", "plural": "des rôles", "pronunciation": "uhn ROHL", "example": "Elle incarne ce rôle avec une sobriété qui sert magnifiquement le texte.", "exampleEnglish": "She embodies this role with a restraint that magnificently serves the text.", "level": "C1", "category": "staging" },
+            { "id": "le-comedien", "french": "le comédien / la comédienne", "english": "the (stage) actor", "partOfSpeech": "noun", "gender": "m", "plural": "les comédiens", "pronunciation": "luh ko-may-DYAN", "example": "Diriger un comédien, ce n'est pas lui imposer une intonation, mais l'aider à la trouver.", "exampleEnglish": "Directing an actor is not imposing an intonation on them, but helping them find it.", "level": "C1", "category": "staging" },
+            { "id": "incarner", "french": "incarner", "english": "to embody, to inhabit (a role)", "partOfSpeech": "verb", "pronunciation": "an-kar-NAY", "example": "Elle incarne ce rôle avec une intensité qui surprend, même les habitués.", "exampleEnglish": "She embodies this role with an intensity that surprises even regulars.", "level": "C1", "category": "staging" },
+            { "id": "diriger", "french": "diriger", "english": "to direct (actors, rehearsals)", "partOfSpeech": "verb", "pronunciation": "dee-ree-ZHAY", "example": "Elle dirige les répétitions avec une exigence tranquille, jamais bruyante.", "exampleEnglish": "She directs rehearsals with a quiet, never noisy, rigour.", "level": "C1", "category": "staging" },
+            { "id": "interpreter", "french": "interpréter", "english": "to interpret", "partOfSpeech": "verb", "pronunciation": "an-tehr-pray-TAY", "example": "Deux metteurs en scène peuvent interpréter le même texte de façon opposée.", "exampleEnglish": "Two directors can interpret the same text in opposite ways.", "level": "C1", "category": "staging" },
+            { "id": "l-interpretation", "french": "l'interprétation", "english": "the interpretation", "partOfSpeech": "noun", "gender": "f", "plural": "les interprétations", "pronunciation": "lan-tehr-pray-tah-SYON", "example": "Cette interprétation privilégie le pouvoir plutôt que l'amour.", "exampleEnglish": "This interpretation foregrounds power rather than love.", "level": "C1", "category": "staging" },
+            { "id": "la-lecture-de-l-oeuvre", "french": "la lecture (d'une œuvre)", "english": "the reading, the interpretation (of a text)", "partOfSpeech": "expression", "pronunciation": "lah lek-TEWR duhn UVR", "example": "Sa lecture de la pièce privilégie le pouvoir plutôt que l'amour.", "exampleEnglish": "Her reading of the play foregrounds power rather than love.", "level": "C1", "category": "staging" },
+            { "id": "le-texte", "french": "le texte", "english": "the text", "partOfSpeech": "noun", "gender": "m", "plural": "les textes", "pronunciation": "luh TEKST", "example": "On ne monte jamais un texte de manière neutre.", "exampleEnglish": "One never stages a text neutrally.", "level": "C1", "category": "staging" },
+            { "id": "le-choix", "french": "le choix", "english": "the choice", "partOfSpeech": "noun", "gender": "m", "plural": "les choix", "pronunciation": "luh SHWAH", "example": "Le choix du décor découle directement de cette première lecture.", "exampleEnglish": "The choice of set follows directly from that first reading.", "level": "C1", "category": "staging" },
+            { "id": "le-parti-pris", "french": "le parti pris", "english": "the deliberate stance, the declared bias", "partOfSpeech": "noun", "gender": "m", "plural": "les partis pris", "pronunciation": "luh par-tee PREE", "example": "Un parti pris audacieux ne vaut que s'il reste crédible du début à la fin.", "exampleEnglish": "A bold directorial choice is only worth it if it stays credible from beginning to end.", "level": "C1", "category": "staging" },
+            { "id": "adaptation", "french": "l'adaptation", "english": "the adaptation", "partOfSpeech": "noun", "gender": "f", "plural": "les adaptations", "pronunciation": "lah-dahp-tah-SYON", "example": "Toute adaptation suppose des choix que le texte original ne dictait pas.", "exampleEnglish": "Every adaptation involves choices the original text did not dictate.", "level": "C1", "category": "staging" },
+            { "id": "fidele", "french": "fidèle", "english": "faithful (to the text)", "partOfSpeech": "adjective", "pronunciation": "fee-DEL", "example": "Cette mise en scène reste fidèle à la lettre, mais réinvente l'esprit du texte.", "exampleEnglish": "This production stays faithful to the letter, but reinvents the spirit of the text.", "level": "C1", "category": "staging" },
+            { "id": "la-fidelite", "french": "la fidélité", "english": "the faithfulness, the fidelity (to a text)", "partOfSpeech": "noun", "gender": "f", "plural": "les fidélités", "pronunciation": "lah fee-day-lee-TAY", "example": "La fidélité au texte ne garantit pas, à elle seule, une mise en scène réussie.", "exampleEnglish": "Faithfulness to the text does not, on its own, guarantee a successful production.", "level": "C1", "category": "staging" },
+            { "id": "trahir", "french": "trahir", "english": "to betray (a text)", "partOfSpeech": "verb", "pronunciation": "trah-EER", "example": "On l'accuse de trahir le texte en supprimant la moitié des didascalies.", "exampleEnglish": "He is accused of betraying the text by cutting half the stage directions.", "level": "C1", "category": "staging" },
+            { "id": "contemporain", "french": "contemporain", "english": "contemporary, present-day", "partOfSpeech": "adjective", "pronunciation": "kohn-tahm-poh-REHN", "example": "Transposer la pièce dans un monde contemporain n'est pas, en soi, une trahison.", "exampleEnglish": "Moving the play into a contemporary world is not, in itself, a betrayal.", "level": "C1", "category": "staging" },
+            { "id": "revisiter", "french": "revisiter", "english": "to revisit, to reinterpret (a classic)", "partOfSpeech": "verb", "pronunciation": "ruh-vee-zee-TAY", "example": "Cette troupe revisite le texte sans jamais en trahir la logique interne.", "exampleEnglish": "This company reinterprets the text without ever betraying its internal logic.", "level": "C1", "category": "staging" },
+            { "id": "sobre", "french": "sobre", "english": "restrained, understated", "partOfSpeech": "adjective", "pronunciation": "SOH-bruh", "example": "Elle incarne ce rôle avec une sobriété qui sert magnifiquement le texte.", "exampleEnglish": "She embodies this role with a restraint that magnificently serves the text.", "level": "C1", "category": "staging" },
+            { "id": "minimaliste", "french": "minimaliste", "english": "minimalist", "partOfSpeech": "adjective", "pronunciation": "mee-nee-mah-LEEST", "example": "Le choix d'une scénographie minimaliste met les répliques à nu.", "exampleEnglish": "The choice of a minimalist set design lays the lines bare.", "level": "C1", "category": "staging" },
+            { "id": "depouille-adj", "french": "dépouillé", "english": "pared-down, spare (style)", "partOfSpeech": "adjective", "pronunciation": "day-poo-YAY", "example": "Le choix d'un décor dépouillé rend l'ensemble d'autant plus convaincant.", "exampleEnglish": "The choice of a pared-down set makes the whole all the more convincing.", "level": "C1", "category": "staging" },
+            { "id": "epure", "french": "épuré", "english": "stripped back, uncluttered", "partOfSpeech": "adjective", "pronunciation": "ay-pü-RAY", "example": "Une scénographie épurée laisse chaque silence porter.", "exampleEnglish": "An uncluttered set design lets every silence land.", "level": "C1", "category": "staging" },
+            { "id": "le-realisme", "french": "le réalisme", "english": "realism", "partOfSpeech": "noun", "gender": "m", "plural": "les réalismes", "pronunciation": "ray-ah-LEESM", "example": "Le metteur en scène renonce au réalisme pour un espace presque abstrait.", "exampleEnglish": "The director abandons realism for an almost abstract space.", "level": "C1", "category": "staging" },
+            { "id": "vraisemblable", "french": "vraisemblable", "english": "plausible, believable", "partOfSpeech": "adjective", "pronunciation": "vreh-sahm-BLAH-bluh", "example": "Un parti pris audacieux ne vaut que s'il reste vraisemblable du début à la fin.", "exampleEnglish": "A bold directorial choice is only worth it if it stays plausible from beginning to end.", "level": "C1", "category": "staging" },
+            { "id": "la-vraisemblance", "french": "la vraisemblance", "english": "verisimilitude, plausibility", "partOfSpeech": "noun", "gender": "f", "plural": "les vraisemblances", "pronunciation": "lah vreh-sahm-BLAHNSS", "example": "La vraisemblance de cette mise en scène tient à un détail : personne ne surjoue.", "exampleEnglish": "This production's plausibility rests on one detail: no one overacts.", "level": "C1", "category": "staging" },
+            { "id": "convaincant", "french": "convaincant", "english": "convincing", "partOfSpeech": "adjective", "pronunciation": "kohn-van-KAHN", "example": "Le choix d'un décor dépouillé rend l'ensemble d'autant plus convaincant.", "exampleEnglish": "The choice of a pared-down set makes the whole all the more convincing.", "level": "C1", "category": "staging" },
+            { "id": "credible", "french": "crédible", "english": "credible, believable", "partOfSpeech": "adjective", "pronunciation": "kray-DEE-bluh", "example": "Un parti pris audacieux ne vaut que s'il reste crédible du début à la fin.", "exampleEnglish": "A bold directorial choice is only worth it if it stays credible from beginning to end.", "level": "C1", "category": "staging" },
+            { "id": "le-protagoniste", "french": "le protagoniste", "english": "the protagonist", "partOfSpeech": "noun", "gender": "m", "plural": "les protagonistes", "pronunciation": "luh pro-tah-go-NEEST", "example": "Le metteur en scène choisit de vieillir le protagoniste de vingt ans.", "exampleEnglish": "The director chooses to age the protagonist by twenty years.", "level": "C1", "category": "staging" },
+            { "id": "un-personnage", "french": "un personnage", "english": "a character (in a play)", "partOfSpeech": "noun", "gender": "m", "plural": "des personnages", "pronunciation": "uhn pehr-so-NAHZH", "example": "Chaque personnage reçoit, dans cette lecture, un mobile nouveau.", "exampleEnglish": "In this reading, every character is given a new motive.", "level": "C1", "category": "staging" },
+            { "id": "l-enjeu", "french": "l'enjeu", "english": "what is at stake, the key issue", "partOfSpeech": "noun", "gender": "m", "plural": "les enjeux", "pronunciation": "lahn-ZHUH", "example": "L'enjeu de cette lecture n'est pas psychologique mais politique.", "exampleEnglish": "The stakes of this reading are not psychological but political.", "level": "C1", "category": "staging" },
+            { "id": "le-ton", "french": "le ton", "english": "the tone", "partOfSpeech": "noun", "gender": "m", "plural": "les tons", "pronunciation": "luh TON", "example": "Le ton général de la mise en scène reste grave, presque austère.", "exampleEnglish": "The overall tone of the production stays solemn, almost austere.", "level": "C1", "category": "staging" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Formuler une lecture hypothétique : conditionnel et subjonctif",
+              "body": "Because a directorial reading is a proposal, not a fact, French criticism reaches for the conditionnel to float it (on pourrait imaginer que..., il faudrait que...) and for the subjonctif once a value judgement or necessity is attached to that proposal. 'Il faudrait que le décor soit nu' does not describe an existing set; it argues for one. Mastering this pair lets you discuss staging choices as possibilities worth defending, not settled facts.",
+              "examples": [
+                { "french": "On pourrait imaginer une mise en scène entièrement muette.", "english": "One could imagine a completely wordless production." },
+                { "french": "Il faudrait que le décor soit aussi nu que possible pour que le texte respire.", "english": "The set would need to be as bare as possible for the text to breathe." },
+                { "french": "Il vaudrait mieux qu'elle joue ce rôle sans aucun accessoire.", "english": "It would be better for her to play this role with no props at all." },
+                { "french": "On aurait pu situer l'action à notre époque, mais le metteur en scène a préféré s'en abstenir.", "english": "The action could have been set in our own time, but the director chose not to." },
+                { "french": "Il n'est pas certain que cette lecture convainque un public plus classique.", "english": "It is not certain that this reading will convince a more traditional audience." }
+              ],
+              "tip": "'Il faudrait que' always triggers the subjunctive that follows — treat the two as a fixed pair when you're proposing a staging idea rather than reporting one."
+            },
+            {
+              "heading": "Nuancer et concéder : bien que, quoique, alors même que",
+              "body": "Judging a production well means conceding a point before qualifying it. Bien que and quoique (both followed by the subjunctive) grant that something is true before pivoting to a 'but'; alors même que sharpens the contrast further, insisting the concession makes the criticism more surprising, not less. This is the connective tissue of sophisticated theatre criticism — it keeps praise and reservation in the same sentence instead of two separate paragraphs.",
+              "examples": [
+                { "french": "Bien que le parti pris soit audacieux, il reste parfaitement lisible.", "english": "Although the directorial choice is bold, it remains perfectly legible." },
+                { "french": "Quoique la scénographie soit minimaliste, elle ne manque jamais de force.", "english": "Although the set design is minimalist, it never lacks force." },
+                { "french": "Alors même que le texte est respecté à la lettre, la lecture proposée surprend.", "english": "Even though the text is respected to the letter, the reading proposed is surprising." },
+                { "french": "La mise en scène convainc, bien qu'elle prenne quelques libertés avec le dénouement.", "english": "The production convinces, although it takes a few liberties with the ending." },
+                { "french": "Quoi qu'il en soit du parti pris initial, l'exécution force le respect.", "english": "Whatever one thinks of the initial directorial choice, the execution commands respect." }
+              ],
+              "tip": "Quoique (one word, subjunctive) and quoi que (two words, meaning 'whatever') are not interchangeable — mixing them up is a common but very visible C1 slip."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "c1_u16_l03_li01", "type": "listenChoose", "french": "Le choix du décor découle directement de cette première lecture.", "options": ["The choice of set follows directly from that first reading.", "The set was chosen before the play was cast.", "The director refused to choose a set at all.", "The audience chose the set by vote."], "answer": "The choice of set follows directly from that first reading." },
+            { "id": "c1_u16_l03_li02", "type": "listenChoose", "french": "On l'accuse de trahir le texte en supprimant la moitié des didascalies.", "options": ["He is accused of betraying the text by cutting half the stage directions.", "He is praised for adding new stage directions.", "He is accused of adding dialogue that doesn't exist.", "He refused to direct the play at all."], "answer": "He is accused of betraying the text by cutting half the stage directions." },
+            { "id": "c1_u16_l03_li03", "type": "listenType", "french": "La vraisemblance de cette mise en scène tient à un détail : personne ne surjoue.", "answer": "La vraisemblance de cette mise en scène tient à un détail : personne ne surjoue.", "acceptedAnswers": ["la vraisemblance de cette mise en scene tient a un detail personne ne surjoue"] },
+            { "id": "c1_u16_l03_li04", "type": "dictation", "french": "Un parti pris audacieux ne vaut que s'il reste crédible du début à la fin.", "answer": "Un parti pris audacieux ne vaut que s'il reste crédible du début à la fin.", "acceptedAnswers": ["un parti pris audacieux ne vaut que s'il reste credible du debut a la fin", "un parti pris audacieux ne vaut que sil reste credible du debut a la fin"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "c1_u16_l03_sp01", "type": "speak", "french": "On ne monte jamais un texte de manière neutre : on en propose toujours une interprétation.", "english": "One never stages a text neutrally: one always proposes an interpretation of it.", "prompt": "Defend the idea that no staging of a play is ever truly neutral.", "tip": "Lean on 'toujours' — its placement right after the colon is what turns this into a firm claim rather than an observation." },
+            { "id": "c1_u16_l03_sp02", "type": "speak", "french": "Bien que le parti pris soit audacieux, il reste parfaitement lisible.", "english": "Although the directorial choice is bold, it remains perfectly legible.", "prompt": "Concede that a directorial choice is risky, then defend why it still works.", "tip": "Get the subjunctive 'soit' cleanly after 'bien que' — rushing this connector is what makes it sound uncertain rather than concessive." },
+            { "id": "c1_u16_l03_sp03", "type": "speak", "french": "Diriger un comédien, ce n'est pas lui imposer une intonation, mais l'aider à la trouver.", "english": "Directing an actor is not imposing an intonation on them, but helping them find it.", "prompt": "Explain, in your own words, what good directing of actors looks like.", "tip": "Balance the two halves of the sentence evenly around 'mais' — the contrast is the whole argument, so give both sides equal weight." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Note d'intention — Camille Aubert, metteuse en scène",
+              "french": "Monter « Le Miroir brisé » aujourd'hui pose une question simple : ce texte, écrit pour un monde disparu, a-t-il encore quelque chose à nous dire ?\nJ'ai choisi de répondre par une lecture résolument contemporaine, sans pour autant changer un seul mot du texte original.\nLe décor reste volontairement dépouillé : une chaise, une fenêtre, rien qui distraie du dialogue.\nCette sobriété n'est pas un manque de moyens, c'est un parti pris assumé depuis la première répétition.\nOn m'a parfois accusée de trahir l'esprit de la pièce en modernisant les costumes.\nJe crois au contraire que la fidélité ne se mesure pas aux vêtements, mais au rythme des répliques.\nChaque comédien a travaillé le texte comme une partition, avec ses silences autant que ses mots.\nDiriger cette troupe, c'était surtout leur apprendre à ne pas avoir peur du silence.\nLe public, au début des répétitions ouvertes, semblait déconcerté par la lenteur du premier acte.\nIl a fallu lui faire confiance : la lenteur n'est vraisemblable que si elle est tenue jusqu'au bout.\nL'éclairage, très bas, ne s'anime qu'au moment du dénouement, comme un aveu que la scène retenait depuis le début.\nCertains critiques jugeront peut-être cette mise en scène trop austère, et ils n'auront pas tort.\nMais je préfère un parti pris cohérent à un compromis qui plairait à tout le monde sans convaincre personne.\nLe texte de Julien Mercier survit, je crois, précisément parce qu'il résiste à toute lecture confortable.\nCette mise en scène ne cherche pas à plaire ; elle cherche à rester fidèle à cette résistance-là.\nLe rideau tombe sur un silence que j'espère aussi inconfortable pour le public qu'il l'a été pour nous.",
+              "english": "Staging \"The Broken Mirror\" today raises a simple question: does this text, written for a vanished world, still have something to tell us?\nI chose to answer with a resolutely contemporary reading, without changing a single word of the original text.\nThe set remains deliberately bare: a chair, a window, nothing that distracts from the dialogue.\nThis restraint is not a lack of means; it is a deliberate choice held since the very first rehearsal.\nI have sometimes been accused of betraying the spirit of the play by modernising the costumes.\nI believe, on the contrary, that faithfulness is not measured in clothing, but in the rhythm of the lines.\nEach actor worked the text like a musical score, with its silences as much as its words.\nDirecting this company was, above all, about teaching them not to fear silence.\nThe audience, at the early open rehearsals, seemed unsettled by the slowness of the first act.\nThey had to be trusted: slowness is only believable if it is sustained to the very end.\nThe lighting, kept very low, only comes alive at the moment of resolution, like a confession the stage had been withholding from the start.\nSome critics will perhaps judge this production too austere, and they will not be wrong.\nBut I prefer a coherent directorial stance to a compromise that would please everyone while convincing no one.\nJulien Mercier's text survives, I believe, precisely because it resists any comfortable reading.\nThis production does not seek to please; it seeks to stay faithful to that very resistance.\nThe curtain falls on a silence I hope is as uncomfortable for the audience as it was for us.",
+              "questions": [
+                { "id": "c1_u16_l03_rd01", "type": "multipleChoice", "prompt": "Selon Camille Aubert, sur quoi repose principalement la fidélité au texte ?", "options": ["Le rythme des répliques, plutôt que les costumes", "Le respect strict des costumes d'époque", "Le nombre de comédiens sur scène", "La durée totale du spectacle"], "answer": "Le rythme des répliques, plutôt que les costumes" },
+                { "id": "c1_u16_l03_rd02", "type": "trueFalse", "prompt": "Camille Aubert a modifié le texte original de Julien Mercier pour cette mise en scène.", "options": ["True", "False"], "answer": "False" },
+                { "id": "c1_u16_l03_rd03", "type": "multipleChoice", "prompt": "Quelle est l'attitude de la metteuse en scène face à une possible critique d'austérité ?", "options": ["Elle l'accepte, tout en défendant la cohérence de son parti pris", "Elle la rejette totalement et la juge injuste", "Elle promet de changer la mise en scène", "Elle affirme n'avoir reçu aucune critique"], "answer": "Elle l'accepte, tout en défendant la cohérence de son parti pris" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "c1_u16_l03_wr01", "type": "translate", "prompt": "Translate: 'Every adaptation involves choices the original text did not dictate.'", "english": "Every adaptation involves choices the original text did not dictate.", "answer": "Toute adaptation suppose des choix que le texte original ne dictait pas.", "acceptedAnswers": ["toute adaptation suppose des choix que le texte original ne dictait pas"] },
+            { "id": "c1_u16_l03_wr02", "type": "arrangeWords", "words": ["neutre", "jamais", "on", "de", "manière", "monte", "un", "texte", "ne"], "answer": "on ne monte jamais un texte de manière neutre", "english": "One never stages a text neutrally." },
+            { "id": "c1_u16_l03_wr03", "type": "fillBlank", "prompt": "Bien que le parti pris ___ audacieux, il reste parfaitement lisible. (être, subjonctif)", "answer": "soit" }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "c1_u16_l03_pr01", "type": "multipleChoice", "prompt": "Comment appelle-t-on la personne qui interprète le texte et dirige les comédiens pour la scène ?", "options": ["le metteur en scène", "le dramaturge", "le spectateur", "le critique"], "answer": "le metteur en scène" },
+            { "id": "c1_u16_l03_pr02", "type": "fillBlank", "prompt": "Il ___ que le décor soit aussi nu que possible pour que le texte respire. (falloir, conditionnel)", "answer": "faudrait" },
+            { "id": "c1_u16_l03_pr03", "type": "match", "pairs": [ { "french": "le parti pris", "english": "the deliberate stance" }, { "french": "trahir", "english": "to betray (a text)" }, { "french": "la vraisemblance", "english": "plausibility" }, { "french": "dépouillé", "english": "pared-down" } ] },
+            { "id": "c1_u16_l03_pr04", "type": "translate", "prompt": "Translate: 'Although the set design is minimalist, it never lacks force.'", "english": "Although the set design is minimalist, it never lacks force.", "answer": "Quoique la scénographie soit minimaliste, elle ne manque jamais de force.", "acceptedAnswers": ["quoique la scenographie soit minimaliste elle ne manque jamais de force"] },
+            { "id": "c1_u16_l03_pr05", "type": "trueFalse", "prompt": "Selon le texte de la leçon, transposer une pièce classique à notre époque constitue toujours une trahison du texte.", "options": ["True", "False"], "answer": "False" },
+            { "id": "c1_u16_l03_pr06", "type": "arrangeWords", "words": ["fidèle", "reste", "cette", "à", "mise", "en", "scène", "la", "lettre"], "answer": "cette mise en scène reste fidèle à la lettre", "english": "This production stays faithful to the letter." }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "c1_u16_l03_qz01", "type": "multipleChoice", "prompt": "Que désigne « la lecture » d'un texte, dans la bouche d'un metteur en scène ?", "options": ["Son interprétation personnelle et défendable du texte", "La simple lecture à voix haute pendant les répétitions", "Le résumé du texte distribué au public", "La traduction du texte dans une autre langue"], "answer": "Son interprétation personnelle et défendable du texte" },
+            { "id": "c1_u16_l03_qz02", "type": "fillBlank", "prompt": "Alors même que le texte ___ respecté à la lettre, la lecture proposée surprend. (être, indicatif)", "answer": "est" },
+            { "id": "c1_u16_l03_qz03", "type": "multipleChoice", "prompt": "Que signifie l'expression « trahir le texte » dans la bouche d'un metteur en scène ?", "options": ["S'éloigner délibérément des intentions ou de la lettre du texte original", "Refuser catégoriquement de monter la pièce", "Traduire le texte dans une langue étrangère", "Oublier une réplique pendant la représentation"], "answer": "S'éloigner délibérément des intentions ou de la lettre du texte original" },
+            { "id": "c1_u16_l03_qz04", "type": "trueFalse", "prompt": "Après « bien que » et « quoique », le verbe se met au subjonctif.", "options": ["True", "False"], "answer": "True" },
+            { "id": "c1_u16_l03_qz05", "type": "translate", "prompt": "Translate: 'This production's plausibility rests on one detail: no one overacts.'", "english": "This production's plausibility rests on one detail: no one overacts.", "answer": "La vraisemblance de cette mise en scène tient à un détail : personne ne surjoue.", "acceptedAnswers": ["la vraisemblance de cette mise en scene tient a un detail personne ne surjoue"] }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,892 @@
+{
+  "id": "a1_u05",
+  "level": "A1",
+  "unit": 5,
+  "title": "Countries & Nationalities",
+  "subtitle": "Say where you live, where you're from and what you speak",
+  "icon": "🌍",
+  "lessons": [
+    {
+      "id": "a1_u05_l01",
+      "level": "A1",
+      "unit": 5,
+      "title": "Les pays",
+      "description": "Name countries in French and say which country you live in.",
+      "estimatedMinutes": 12,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Every country has a gender",
+              "body": "In French, country names have a gender, just like other nouns. Most countries ending in -e are feminine: la France, l'Espagne, l'Italie. Most others are masculine: le Canada, le Japon. A few country names are plural, like les États-Unis (the United States).",
+              "examples": [
+                { "french": "la France", "english": "France", "note": "feminine" },
+                { "french": "le Canada", "english": "Canada", "note": "masculine" },
+                { "french": "les États-Unis", "english": "the United States", "note": "plural" },
+                { "french": "la Belgique", "english": "Belgium", "note": "feminine — it ends in -e" },
+                { "french": "le Portugal", "english": "Portugal", "note": "masculine" },
+                { "french": "la Chine", "english": "China", "note": "feminine" }
+              ],
+              "tip": "Before a vowel, le and la become l': l'Italie, l'Espagne, l'Allemagne."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "france", "french": "la France", "english": "France", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah FRAHNS", "example": "J'habite en France.", "exampleEnglish": "I live in France.", "level": "A1", "category": "countries" },
+            { "id": "canada", "french": "le Canada", "english": "Canada", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh kah-nah-DAH", "example": "Il habite au Canada.", "exampleEnglish": "He lives in Canada.", "level": "A1", "category": "countries" },
+            { "id": "espagne", "french": "l'Espagne", "english": "Spain", "partOfSpeech": "noun", "gender": "f", "pronunciation": "leh-SPAH-nyuh", "example": "Elle habite en Espagne.", "exampleEnglish": "She lives in Spain.", "level": "A1", "category": "countries" },
+            { "id": "italie", "french": "l'Italie", "english": "Italy", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lee-tah-LEE", "example": "J'adore l'Italie !", "exampleEnglish": "I love Italy!", "level": "A1", "category": "countries" },
+            { "id": "allemagne", "french": "l'Allemagne", "english": "Germany", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lahl-MAH-nyuh", "example": "Berlin est en Allemagne.", "exampleEnglish": "Berlin is in Germany.", "level": "A1", "category": "countries" },
+            { "id": "japon", "french": "le Japon", "english": "Japan", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh zhah-POHN", "example": "Tokyo est au Japon.", "exampleEnglish": "Tokyo is in Japan.", "level": "A1", "category": "countries" },
+            { "id": "etats-unis", "french": "les États-Unis", "english": "the United States", "partOfSpeech": "noun", "gender": "m", "pronunciation": "lay zay-tah-zoo-NEE", "example": "Elle habite aux États-Unis.", "exampleEnglish": "She lives in the United States.", "level": "A1", "category": "countries" },
+            { "id": "habiter", "french": "habiter", "english": "to live (somewhere)", "partOfSpeech": "verb", "pronunciation": "ah-bee-TAY", "example": "Tu habites où ?", "exampleEnglish": "Where do you live?", "level": "A1", "category": "countries" },
+            { "id": "pays", "french": "un pays", "english": "a country", "partOfSpeech": "noun", "gender": "m", "pronunciation": "uhn pay-EE", "example": "La France est un beau pays.", "exampleEnglish": "France is a beautiful country.", "level": "A1", "category": "countries" },
+            { "id": "portugal", "french": "le Portugal", "english": "Portugal", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh por-too-GAHL", "example": "Lisbonne est au Portugal.", "exampleEnglish": "Lisbon is in Portugal.", "level": "A1", "category": "countries" },
+            { "id": "la-suisse", "french": "la Suisse", "english": "Switzerland", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah SWEESS", "example": "Genève est en Suisse.", "exampleEnglish": "Geneva is in Switzerland.", "level": "A1", "category": "countries" },
+            { "id": "belgique", "french": "la Belgique", "english": "Belgium", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah bel-ZHEEK", "example": "Bruxelles est en Belgique.", "exampleEnglish": "Brussels is in Belgium.", "level": "A1", "category": "countries" },
+            { "id": "maroc", "french": "le Maroc", "english": "Morocco", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh mah-ROK", "example": "Il habite au Maroc.", "exampleEnglish": "He lives in Morocco.", "level": "A1", "category": "countries" },
+            { "id": "chine", "french": "la Chine", "english": "China", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah SHEEN", "example": "Pékin est en Chine.", "exampleEnglish": "Beijing is in China.", "level": "A1", "category": "countries" },
+            { "id": "mexique", "french": "le Mexique", "english": "Mexico", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh mek-SEEK", "example": "Elle habite au Mexique.", "exampleEnglish": "She lives in Mexico.", "level": "A1", "category": "countries" },
+            { "id": "capitale", "french": "une capitale", "english": "a capital city", "partOfSpeech": "noun", "gender": "f", "pronunciation": "oon kah-pee-TAHL", "example": "Paris est la capitale de la France.", "exampleEnglish": "Paris is the capital of France.", "level": "A1", "category": "countries" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "En, au or aux?",
+              "body": "To say you are IN a country, French uses a different little word depending on the country. Use \"en\" with feminine countries, \"au\" with masculine countries, and \"aux\" with plural countries.",
+              "examples": [
+                { "french": "J'habite en France.", "english": "I live in France.", "note": "en + feminine" },
+                { "french": "Il habite au Canada.", "english": "He lives in Canada.", "note": "au + masculine" },
+                { "french": "Elle habite aux États-Unis.", "english": "She lives in the United States.", "note": "aux + plural" },
+                { "french": "Nous habitons en Belgique.", "english": "We live in Belgium.", "note": "en + feminine" },
+                { "french": "Ils habitent au Portugal.", "english": "They live in Portugal.", "note": "au + masculine" },
+                { "french": "Tu habites au Maroc ?", "english": "Do you live in Morocco?", "note": "au + masculine" }
+              ],
+              "tip": "Quick trick: a country ending in -e is usually feminine, so it takes \"en\". Le Mexique is a rare exception — it's masculine: au Mexique."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a1_u05_l01_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What does it mean?",
+              "french": "J'habite en France.",
+              "options": ["I live in France.", "I live in Canada.", "I live in Italy.", "I live in Spain."],
+              "answer": "I live in France."
+            },
+            {
+              "id": "a1_u05_l01_li02",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Il habite au Canada.",
+              "answer": "Il habite au Canada.",
+              "acceptedAnswers": ["il habite au canada"]
+            },
+            {
+              "id": "a1_u05_l01_li03",
+              "type": "listenChoose",
+              "prompt": "Listen. Where does she live?",
+              "french": "Elle habite aux États-Unis.",
+              "options": ["In the United States", "In Germany", "In Japan", "In France"],
+              "answer": "In the United States"
+            },
+            {
+              "id": "a1_u05_l01_li04",
+              "type": "dictation",
+              "prompt": "Dictation: write the sentence you hear.",
+              "french": "J'habite en Italie.",
+              "answer": "J'habite en Italie.",
+              "acceptedAnswers": ["j'habite en italie", "jhabite en italie"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a1_u05_l01_sp01",
+              "type": "speak",
+              "prompt": "Say that you live in France.",
+              "french": "J'habite en France",
+              "english": "I live in France",
+              "tip": "The h is silent: zhah-BEET. Say it as one flow: j'habite-en-France."
+            },
+            {
+              "id": "a1_u05_l01_sp02",
+              "type": "speak",
+              "prompt": "Say that he lives in Canada.",
+              "french": "Il habite au Canada",
+              "english": "He lives in Canada",
+              "tip": "\"Au\" sounds like \"oh\": ee-lah-BEET oh kah-nah-DAH."
+            },
+            {
+              "id": "a1_u05_l01_sp03",
+              "type": "speak",
+              "prompt": "Say that she lives in the United States.",
+              "french": "Elle habite aux États-Unis",
+              "english": "She lives in the United States",
+              "tip": "Link everything: oh-zay-tah-zoo-NEE — the x and s glide as z sounds."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Tu habites où ?",
+              "french": "— Salut ! Je m'appelle Marco. Tu habites où ?\n— J'habite en France, à Lyon. Et toi ?\n— Moi, j'habite en Italie, à Rome.\n— J'adore l'Italie ! C'est un beau pays.",
+              "english": "— Hi! My name is Marco. Where do you live?\n— I live in France, in Lyon. And you?\n— Me, I live in Italy, in Rome.\n— I love Italy! It's a beautiful country.",
+              "questions": [
+                {
+                  "id": "a1_u05_l01_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Where does Marco live?",
+                  "options": ["In Italy", "In France", "In Canada", "In Spain"],
+                  "answer": "In Italy"
+                },
+                {
+                  "id": "a1_u05_l01_rd02",
+                  "type": "trueFalse",
+                  "prompt": "The other person lives in Lyon.",
+                  "options": ["True", "False"],
+                  "answer": "True"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a1_u05_l01_wr01",
+              "type": "translate",
+              "prompt": "Translate into French: \"I live in France.\"",
+              "english": "I live in France.",
+              "answer": "J'habite en France.",
+              "acceptedAnswers": ["j'habite en france", "jhabite en france"]
+            },
+            {
+              "id": "a1_u05_l01_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "He lives in Canada.",
+              "words": ["au", "habite", "Il", "Canada"],
+              "answer": "Il habite au Canada"
+            },
+            {
+              "id": "a1_u05_l01_wr03",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Elle habite ___ États-Unis.\"",
+              "answer": "aux",
+              "hint": "Les États-Unis is plural."
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a1_u05_l01_pr01",
+              "type": "multipleChoice",
+              "prompt": "Choose the correct word: \"Elle habite ___ Espagne.\"",
+              "options": ["en", "au", "aux", "à"],
+              "answer": "en",
+              "tip": "L'Espagne is feminine, so use \"en\"."
+            },
+            {
+              "id": "a1_u05_l01_pr02",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Il habite ___ Portugal.\"",
+              "answer": "au",
+              "hint": "Le Portugal is masculine."
+            },
+            {
+              "id": "a1_u05_l01_pr03",
+              "type": "translate",
+              "prompt": "Translate into French: \"We live in France.\"",
+              "english": "We live in France.",
+              "answer": "Nous habitons en France.",
+              "acceptedAnswers": ["nous habitons en france"]
+            },
+            {
+              "id": "a1_u05_l01_pr04",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "She lives in Switzerland.",
+              "words": ["en", "Elle", "Suisse", "habite"],
+              "answer": "Elle habite en Suisse"
+            },
+            {
+              "id": "a1_u05_l01_pr05",
+              "type": "listenChoose",
+              "prompt": "Listen. What does it mean?",
+              "french": "J'habite au Maroc.",
+              "options": ["I live in Morocco.", "I live in Mexico.", "I live in Portugal.", "I live in Belgium."],
+              "answer": "I live in Morocco."
+            },
+            {
+              "id": "a1_u05_l01_pr06",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "la Belgique", "english": "Belgium" },
+                { "french": "le Maroc", "english": "Morocco" },
+                { "french": "la Chine", "english": "China" },
+                { "french": "la Suisse", "english": "Switzerland" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a1_u05_l01_qz01",
+              "type": "multipleChoice",
+              "prompt": "Choose the correct word: \"J'habite ___ Japon.\"",
+              "options": ["au", "en", "aux", "à"],
+              "answer": "au",
+              "tip": "Le Japon is masculine, so use \"au\"."
+            },
+            {
+              "id": "a1_u05_l01_qz02",
+              "type": "multipleChoice",
+              "prompt": "Which country name is feminine?",
+              "options": ["l'Espagne", "le Canada", "le Japon", "le Mexique"],
+              "answer": "l'Espagne"
+            },
+            {
+              "id": "a1_u05_l01_qz03",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "en France", "english": "in France" },
+                { "french": "au Canada", "english": "in Canada" },
+                { "french": "aux États-Unis", "english": "in the United States" },
+                { "french": "un pays", "english": "a country" }
+              ]
+            },
+            {
+              "id": "a1_u05_l01_qz04",
+              "type": "trueFalse",
+              "prompt": "Countries ending in -e are usually feminine.",
+              "options": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "a1_u05_l01_qz05",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Nous habitons ___ France.\"",
+              "answer": "en"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1_u05_l02",
+      "level": "A1",
+      "unit": 5,
+      "title": "Je suis français",
+      "description": "Say your nationality and make the adjective agree.",
+      "estimatedMinutes": 12,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Saying your nationality",
+              "body": "To give your nationality, use \"je suis\" + a nationality adjective: Je suis français. In French, nationality adjectives are written with a small letter, not a capital. The adjective agrees with the person: a man says \"français\", a woman says \"française\".",
+              "examples": [
+                { "french": "Je suis français.", "english": "I am French.", "note": "a man speaking" },
+                { "french": "Je suis française.", "english": "I am French.", "note": "a woman speaking" },
+                { "french": "Il est canadien. Elle est canadienne.", "english": "He is Canadian. She is Canadian." },
+                { "french": "Elle est japonaise.", "english": "She is Japanese." },
+                { "french": "Nous sommes belges.", "english": "We are Belgian.", "note": "plural adds -s" }
+              ],
+              "tip": "You can often hear the difference: the final consonant is silent in the masculine (français = frahn-SEH) but pronounced in the feminine (française = frahn-SEZ)."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "francais", "french": "français / française", "english": "French", "partOfSpeech": "adjective", "pronunciation": "frahn-SEH / frahn-SEZ", "example": "Il est français, elle est française.", "exampleEnglish": "He is French, she is French.", "level": "A1", "category": "nationalities" },
+            { "id": "anglais", "french": "anglais / anglaise", "english": "English", "partOfSpeech": "adjective", "pronunciation": "ahn-GLEH / ahn-GLEZ", "example": "Elle est anglaise.", "exampleEnglish": "She is English.", "level": "A1", "category": "nationalities" },
+            { "id": "espagnol", "french": "espagnol / espagnole", "english": "Spanish", "partOfSpeech": "adjective", "pronunciation": "eh-spah-NYOL", "example": "Il est espagnol.", "exampleEnglish": "He is Spanish.", "level": "A1", "category": "nationalities" },
+            { "id": "italien", "french": "italien / italienne", "english": "Italian", "partOfSpeech": "adjective", "pronunciation": "ee-tah-LYAHN / ee-tah-LYEN", "example": "Elle est italienne.", "exampleEnglish": "She is Italian.", "level": "A1", "category": "nationalities" },
+            { "id": "allemand", "french": "allemand / allemande", "english": "German", "partOfSpeech": "adjective", "pronunciation": "ahl-MAHN / ahl-MAHND", "example": "Il est allemand.", "exampleEnglish": "He is German.", "level": "A1", "category": "nationalities" },
+            { "id": "canadien", "french": "canadien / canadienne", "english": "Canadian", "partOfSpeech": "adjective", "pronunciation": "kah-nah-DYAHN / kah-nah-DYEN", "example": "Elle est canadienne.", "exampleEnglish": "She is Canadian.", "level": "A1", "category": "nationalities" },
+            { "id": "americain", "french": "américain / américaine", "english": "American", "partOfSpeech": "adjective", "pronunciation": "ah-may-ree-KAHN / ah-may-ree-KEN", "example": "Il est américain.", "exampleEnglish": "He is American.", "level": "A1", "category": "nationalities" },
+            { "id": "nationalite", "french": "la nationalité", "english": "nationality", "partOfSpeech": "noun", "gender": "f", "pronunciation": "nah-syoh-nah-lee-TAY", "example": "Quelle est ta nationalité ?", "exampleEnglish": "What is your nationality?", "level": "A1", "category": "nationalities" },
+            { "id": "japonais", "french": "japonais / japonaise", "english": "Japanese", "partOfSpeech": "adjective", "pronunciation": "zhah-poh-NEH / zhah-poh-NEZ", "example": "Yuki est japonaise.", "exampleEnglish": "Yuki is Japanese.", "level": "A1", "category": "nationalities" },
+            { "id": "chinois", "french": "chinois / chinoise", "english": "Chinese", "partOfSpeech": "adjective", "pronunciation": "shee-NWAH / shee-NWAZ", "example": "Il est chinois, de Shanghai.", "exampleEnglish": "He is Chinese, from Shanghai.", "level": "A1", "category": "nationalities" },
+            { "id": "marocain", "french": "marocain / marocaine", "english": "Moroccan", "partOfSpeech": "adjective", "pronunciation": "mah-roh-KAHN / mah-roh-KEN", "example": "Elle est marocaine.", "exampleEnglish": "She is Moroccan.", "level": "A1", "category": "nationalities" },
+            { "id": "suisse", "french": "suisse", "english": "Swiss", "partOfSpeech": "adjective", "pronunciation": "sweess", "example": "Il est suisse, de Genève.", "exampleEnglish": "He is Swiss, from Geneva.", "level": "A1", "category": "nationalities" },
+            { "id": "belge", "french": "belge", "english": "Belgian", "partOfSpeech": "adjective", "pronunciation": "belzh", "example": "Elle est belge, de Bruxelles.", "exampleEnglish": "She is Belgian, from Brussels.", "level": "A1", "category": "nationalities" },
+            { "id": "portugais", "french": "portugais / portugaise", "english": "Portuguese", "partOfSpeech": "adjective", "pronunciation": "por-too-GEH / por-too-GEZ", "example": "Il est portugais.", "exampleEnglish": "He is Portuguese.", "level": "A1", "category": "nationalities" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Masculine → feminine",
+              "body": "Most nationality adjectives add -e in the feminine: anglais → anglaise, allemand → allemande, américain → américaine. Adjectives ending in -ien double the n: italien → italienne, canadien → canadienne. Adjectives already ending in -e, like suisse or russe, do not change.",
+              "examples": [
+                { "french": "Il est anglais. → Elle est anglaise.", "english": "He is English. → She is English.", "note": "add -e" },
+                { "french": "Il est italien. → Elle est italienne.", "english": "He is Italian. → She is Italian.", "note": "-ien → -ienne" },
+                { "french": "Il est suisse. → Elle est suisse.", "english": "He is Swiss. → She is Swiss.", "note": "no change" },
+                { "french": "Il est chinois. → Elle est chinoise.", "english": "He is Chinese. → She is Chinese.", "note": "add -e" },
+                { "french": "Il est marocain. → Elle est marocaine.", "english": "He is Moroccan. → She is Moroccan.", "note": "add -e" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a1_u05_l02_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What does it mean?",
+              "french": "Elle est italienne.",
+              "options": ["She is Italian.", "She is English.", "He is Italian.", "She is German."],
+              "answer": "She is Italian."
+            },
+            {
+              "id": "a1_u05_l02_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. Is the speaker a man or a woman?",
+              "french": "Je suis française.",
+              "options": ["A woman", "A man"],
+              "answer": "A woman",
+              "tip": "You can hear the final z sound of \"française\" — that's the feminine form."
+            },
+            {
+              "id": "a1_u05_l02_li03",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Il est anglais.",
+              "answer": "Il est anglais.",
+              "acceptedAnswers": ["il est anglais"]
+            },
+            {
+              "id": "a1_u05_l02_li04",
+              "type": "dictation",
+              "prompt": "Dictation: write the sentence you hear.",
+              "french": "Elle est allemande.",
+              "answer": "Elle est allemande.",
+              "acceptedAnswers": ["elle est allemande"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a1_u05_l02_sp01",
+              "type": "speak",
+              "prompt": "Say that you are French (as a man).",
+              "french": "Je suis français",
+              "english": "I am French",
+              "tip": "The final s of \"français\" is silent: frahn-SEH."
+            },
+            {
+              "id": "a1_u05_l02_sp02",
+              "type": "speak",
+              "prompt": "Say that she is Spanish.",
+              "french": "Elle est espagnole",
+              "english": "She is Spanish",
+              "tip": "\"Gn\" sounds like the ny in \"canyon\": eh-spah-NYOL."
+            },
+            {
+              "id": "a1_u05_l02_sp03",
+              "type": "speak",
+              "prompt": "Say that he is Canadian.",
+              "french": "Il est canadien",
+              "english": "He is Canadian",
+              "tip": "\"-ien\" is nasal: kah-nah-DYAHN, without pronouncing the n fully."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Dans le train",
+              "french": "— Bonjour ! Vous êtes française ?\n— Non, je suis italienne, de Rome. Et vous ?\n— Moi, je suis canadien, de Montréal.\n— Enchantée !",
+              "english": "— Hello! Are you French?\n— No, I am Italian, from Rome. And you?\n— Me, I am Canadian, from Montreal.\n— Nice to meet you!",
+              "questions": [
+                {
+                  "id": "a1_u05_l02_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "What nationality is the woman?",
+                  "options": ["Italian", "French", "Canadian", "German"],
+                  "answer": "Italian"
+                },
+                {
+                  "id": "a1_u05_l02_rd02",
+                  "type": "trueFalse",
+                  "prompt": "The man comes from Montreal.",
+                  "options": ["True", "False"],
+                  "answer": "True"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a1_u05_l02_wr01",
+              "type": "translate",
+              "prompt": "Translate into French: \"She is French.\"",
+              "english": "She is French.",
+              "answer": "Elle est française.",
+              "acceptedAnswers": ["elle est francaise"]
+            },
+            {
+              "id": "a1_u05_l02_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "I am Canadian. (a woman speaking)",
+              "words": ["suis", "Je", "canadienne"],
+              "answer": "Je suis canadienne"
+            },
+            {
+              "id": "a1_u05_l02_wr03",
+              "type": "fillBlank",
+              "prompt": "Marta est de Madrid. Elle est ___.",
+              "answer": "espagnole",
+              "acceptedAnswers": ["espagnole"],
+              "hint": "Feminine form — don't forget the final -e."
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a1_u05_l02_pr01",
+              "type": "multipleChoice",
+              "prompt": "What is the feminine of \"marocain\"?",
+              "options": ["marocaine", "marocainne", "marocains", "marocan"],
+              "answer": "marocaine",
+              "tip": "-ain simply adds -e: marocaine."
+            },
+            {
+              "id": "a1_u05_l02_pr02",
+              "type": "fillBlank",
+              "prompt": "Yuki est de Tokyo. Elle est ___.",
+              "answer": "japonaise",
+              "acceptedAnswers": ["japonaise"],
+              "hint": "Feminine form — japonais + e."
+            },
+            {
+              "id": "a1_u05_l02_pr03",
+              "type": "translate",
+              "prompt": "Translate into French: \"She is Belgian.\"",
+              "english": "She is Belgian.",
+              "answer": "Elle est belge.",
+              "acceptedAnswers": ["elle est belge"]
+            },
+            {
+              "id": "a1_u05_l02_pr04",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "He is Chinese.",
+              "words": ["chinois", "Il", "est"],
+              "answer": "Il est chinois"
+            },
+            {
+              "id": "a1_u05_l02_pr05",
+              "type": "listenChoose",
+              "prompt": "Listen. What does it mean?",
+              "french": "Il est portugais.",
+              "options": ["He is Portuguese.", "He is Japanese.", "She is Portuguese.", "He is Moroccan."],
+              "answer": "He is Portuguese."
+            },
+            {
+              "id": "a1_u05_l02_pr06",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "suisse", "english": "Swiss" },
+                { "french": "belge", "english": "Belgian" },
+                { "french": "japonais", "english": "Japanese (man)" },
+                { "french": "chinoise", "english": "Chinese (woman)" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a1_u05_l02_qz01",
+              "type": "multipleChoice",
+              "prompt": "Choose the correct form: \"Elle est ___.\"",
+              "options": ["allemande", "allemand", "allemands", "allemandes"],
+              "answer": "allemande"
+            },
+            {
+              "id": "a1_u05_l02_qz02",
+              "type": "multipleChoice",
+              "prompt": "What is the feminine of \"italien\"?",
+              "options": ["italienne", "italiene", "italiena", "italiens"],
+              "answer": "italienne",
+              "tip": "-ien doubles the n: -ienne."
+            },
+            {
+              "id": "a1_u05_l02_qz03",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "française", "english": "French (woman)" },
+                { "french": "anglais", "english": "English (man)" },
+                { "french": "canadienne", "english": "Canadian (woman)" },
+                { "french": "américain", "english": "American (man)" }
+              ]
+            },
+            {
+              "id": "a1_u05_l02_qz04",
+              "type": "trueFalse",
+              "prompt": "In French, nationality adjectives start with a capital letter.",
+              "options": ["True", "False"],
+              "answer": "False",
+              "tip": "Je suis français — small letter. Capitals are only for the person: un Français."
+            },
+            {
+              "id": "a1_u05_l02_qz05",
+              "type": "translate",
+              "prompt": "Translate into French: \"He is English.\"",
+              "english": "He is English.",
+              "answer": "Il est anglais.",
+              "acceptedAnswers": ["il est anglais"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1_u05_l03",
+      "level": "A1",
+      "unit": 5,
+      "title": "Les langues",
+      "description": "Say which languages you speak — and how well.",
+      "estimatedMinutes": 11,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Talking about languages",
+              "body": "\"Parler\" means \"to speak\". Names of languages are masculine (le français, l'anglais), but after \"parler\" you usually drop the article: Je parle français. Add \"un peu\" (a little), \"bien\" (well) or \"très bien\" (very well) to say how well you speak.",
+              "examples": [
+                { "french": "Je parle français.", "english": "I speak French." },
+                { "french": "Je parle un peu espagnol.", "english": "I speak a little Spanish." },
+                { "french": "Elle parle très bien anglais.", "english": "She speaks English very well." },
+                { "french": "Il parle bien italien.", "english": "He speaks Italian well." },
+                { "french": "J'apprends le japonais.", "english": "I am learning Japanese.", "note": "after \"apprendre\", keep the article: le japonais" }
+              ],
+              "tip": "Like nationality adjectives, language names never take a capital letter in French: le français, l'anglais."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "parler", "french": "parler", "english": "to speak", "partOfSpeech": "verb", "pronunciation": "pahr-LAY", "example": "Je parle français.", "exampleEnglish": "I speak French.", "level": "A1", "category": "languages" },
+            { "id": "langue", "french": "une langue", "english": "a language", "partOfSpeech": "noun", "gender": "f", "pronunciation": "oon LAHNG", "example": "Tu parles combien de langues ?", "exampleEnglish": "How many languages do you speak?", "level": "A1", "category": "languages" },
+            { "id": "le-francais", "french": "le français", "english": "French (language)", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh frahn-SEH", "example": "Le français est une belle langue.", "exampleEnglish": "French is a beautiful language.", "level": "A1", "category": "languages" },
+            { "id": "l-anglais", "french": "l'anglais", "english": "English (language)", "partOfSpeech": "noun", "gender": "m", "pronunciation": "lahn-GLEH", "example": "Il parle anglais.", "exampleEnglish": "He speaks English.", "level": "A1", "category": "languages" },
+            { "id": "l-espagnol", "french": "l'espagnol", "english": "Spanish (language)", "partOfSpeech": "noun", "gender": "m", "pronunciation": "leh-spah-NYOL", "example": "Elle parle un peu espagnol.", "exampleEnglish": "She speaks a little Spanish.", "level": "A1", "category": "languages" },
+            { "id": "un-peu", "french": "un peu", "english": "a little", "partOfSpeech": "expression", "pronunciation": "uhn PUH", "example": "Je parle un peu italien.", "exampleEnglish": "I speak a little Italian.", "level": "A1", "category": "basics" },
+            { "id": "bien", "french": "bien", "english": "well / good", "partOfSpeech": "adverb", "pronunciation": "byahn", "example": "Elle parle bien français.", "exampleEnglish": "She speaks French well.", "level": "A1", "category": "basics" },
+            { "id": "aussi", "french": "aussi", "english": "also / too", "partOfSpeech": "adverb", "pronunciation": "oh-SEE", "example": "Je parle aussi anglais.", "exampleEnglish": "I also speak English.", "level": "A1", "category": "basics" },
+            { "id": "l-italien", "french": "l'italien", "english": "Italian (language)", "partOfSpeech": "noun", "gender": "m", "pronunciation": "lee-tah-LYAHN", "example": "Il parle bien italien.", "exampleEnglish": "He speaks Italian well.", "level": "A1", "category": "languages" },
+            { "id": "l-allemand", "french": "l'allemand", "english": "German (language)", "partOfSpeech": "noun", "gender": "m", "pronunciation": "lahl-MAHN", "example": "Nous parlons allemand à la maison.", "exampleEnglish": "We speak German at home.", "level": "A1", "category": "languages" },
+            { "id": "le-japonais", "french": "le japonais", "english": "Japanese (language)", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh zhah-poh-NEH", "example": "Elle apprend le japonais.", "exampleEnglish": "She is learning Japanese.", "level": "A1", "category": "languages" },
+            { "id": "le-chinois", "french": "le chinois", "english": "Chinese (language)", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh shee-NWAH", "example": "Le chinois est difficile.", "exampleEnglish": "Chinese is difficult.", "level": "A1", "category": "languages" },
+            { "id": "apprendre", "french": "apprendre", "english": "to learn", "partOfSpeech": "verb", "pronunciation": "ah-PRAHN-druh", "example": "J'apprends le français.", "exampleEnglish": "I am learning French.", "level": "A1", "category": "languages" },
+            { "id": "tres-bien", "french": "très bien", "english": "very well", "partOfSpeech": "expression", "pronunciation": "treh byahn", "example": "Elle parle très bien anglais.", "exampleEnglish": "She speaks English very well.", "level": "A1", "category": "basics" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "The verb parler",
+              "body": "\"Parler\" is a regular -er verb. In the present tense: je parle, tu parles, il/elle parle, nous parlons, vous parlez, ils/elles parlent. Good news: je parle, tu parles, il parle and ils parlent are all pronounced exactly the same!",
+              "examples": [
+                { "french": "Je parle français.", "english": "I speak French." },
+                { "french": "Tu parles anglais ?", "english": "Do you speak English?" },
+                { "french": "Vous parlez espagnol ?", "english": "Do you speak Spanish?", "note": "formal or plural" },
+                { "french": "Nous parlons français en classe.", "english": "We speak French in class.", "note": "nous + -ons" },
+                { "french": "Ils parlent italien.", "english": "They speak Italian.", "note": "-ent is silent" }
+              ],
+              "tip": "The -s of \"tu parles\" and the -ent of \"ils parlent\" are completely silent."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a1_u05_l03_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What does it mean?",
+              "french": "Je parle un peu français.",
+              "options": ["I speak a little French.", "I speak French very well.", "I speak a little Spanish.", "I don't speak French."],
+              "answer": "I speak a little French."
+            },
+            {
+              "id": "a1_u05_l03_li02",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Tu parles anglais ?",
+              "answer": "Tu parles anglais ?",
+              "acceptedAnswers": ["tu parles anglais"]
+            },
+            {
+              "id": "a1_u05_l03_li03",
+              "type": "listenChoose",
+              "prompt": "Listen. How well does she speak Spanish?",
+              "french": "Elle parle très bien espagnol.",
+              "options": ["Very well", "A little", "Not at all", "Quite badly"],
+              "answer": "Very well"
+            },
+            {
+              "id": "a1_u05_l03_li04",
+              "type": "dictation",
+              "prompt": "Dictation: write the sentence you hear.",
+              "french": "Je parle français et anglais.",
+              "answer": "Je parle français et anglais.",
+              "acceptedAnswers": ["je parle francais et anglais"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a1_u05_l03_sp01",
+              "type": "speak",
+              "prompt": "Say that you speak French.",
+              "french": "Je parle français",
+              "english": "I speak French",
+              "tip": "\"An\" in \"français\" is nasal: frahn — let the air pass through your nose."
+            },
+            {
+              "id": "a1_u05_l03_sp02",
+              "type": "speak",
+              "prompt": "Ask a friend if they speak English.",
+              "french": "Tu parles anglais ?",
+              "english": "Do you speak English?",
+              "tip": "Make your voice rise at the end — that's what turns it into a question."
+            },
+            {
+              "id": "a1_u05_l03_sp03",
+              "type": "speak",
+              "prompt": "Say that you speak a little Spanish.",
+              "french": "Je parle un peu espagnol",
+              "english": "I speak a little Spanish",
+              "tip": "\"Peu\" sounds like \"puh\" — round your lips slightly."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Polyglotte !",
+              "french": "— Tu parles combien de langues, Nadia ?\n— Je parle trois langues : arabe, français et anglais.\n— Trois langues ! Bravo !\n— Et toi ?\n— Moi, je parle anglais et un peu espagnol.",
+              "english": "— How many languages do you speak, Nadia?\n— I speak three languages: Arabic, French and English.\n— Three languages! Well done!\n— And you?\n— Me, I speak English and a little Spanish.",
+              "questions": [
+                {
+                  "id": "a1_u05_l03_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "How many languages does Nadia speak?",
+                  "options": ["Three", "One", "Two", "Four"],
+                  "answer": "Three"
+                },
+                {
+                  "id": "a1_u05_l03_rd02",
+                  "type": "trueFalse",
+                  "prompt": "The other person speaks Spanish very well.",
+                  "options": ["True", "False"],
+                  "answer": "False",
+                  "tip": "They say \"un peu espagnol\" — only a little."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a1_u05_l03_wr01",
+              "type": "translate",
+              "prompt": "Translate into French: \"I speak French.\"",
+              "english": "I speak French.",
+              "answer": "Je parle français.",
+              "acceptedAnswers": ["je parle francais"]
+            },
+            {
+              "id": "a1_u05_l03_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "She speaks English well.",
+              "words": ["bien", "parle", "Elle", "anglais"],
+              "answer": "Elle parle bien anglais"
+            },
+            {
+              "id": "a1_u05_l03_wr03",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Tu ___ espagnol ?\" (Do you speak Spanish?)",
+              "answer": "parles",
+              "hint": "With \"tu\", the verb ends in -es."
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a1_u05_l03_pr01",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Nous ___ français.\" (We speak French.)",
+              "answer": "parlons",
+              "hint": "With \"nous\", the verb ends in -ons."
+            },
+            {
+              "id": "a1_u05_l03_pr02",
+              "type": "multipleChoice",
+              "prompt": "Which sentence is correct?",
+              "options": ["Ils parlent chinois.", "Ils parle chinois.", "Ils parlons chinois.", "Ils parler chinois."],
+              "answer": "Ils parlent chinois.",
+              "tip": "Ils/elles take -ent — and it's completely silent."
+            },
+            {
+              "id": "a1_u05_l03_pr03",
+              "type": "translate",
+              "prompt": "Translate into French: \"Do you speak Italian?\" (informal)",
+              "english": "Do you speak Italian?",
+              "answer": "Tu parles italien ?",
+              "acceptedAnswers": ["tu parles italien"]
+            },
+            {
+              "id": "a1_u05_l03_pr04",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "I also speak German.",
+              "words": ["aussi", "Je", "allemand", "parle"],
+              "answer": "Je parle aussi allemand"
+            },
+            {
+              "id": "a1_u05_l03_pr05",
+              "type": "listenChoose",
+              "prompt": "Listen. What does it mean?",
+              "french": "Elle apprend le japonais.",
+              "options": ["She is learning Japanese.", "She speaks Japanese very well.", "She is learning Chinese.", "She teaches Japanese."],
+              "answer": "She is learning Japanese."
+            },
+            {
+              "id": "a1_u05_l03_pr06",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "l'italien", "english": "Italian (language)" },
+                { "french": "l'allemand", "english": "German (language)" },
+                { "french": "le chinois", "english": "Chinese (language)" },
+                { "french": "apprendre", "english": "to learn" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a1_u05_l03_qz01",
+              "type": "multipleChoice",
+              "prompt": "Which sentence is correct?",
+              "options": ["Je parle français.", "Je parles français.", "Je parler français.", "Je parlez français."],
+              "answer": "Je parle français."
+            },
+            {
+              "id": "a1_u05_l03_qz02",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Il ___ italien.\"",
+              "answer": "parle"
+            },
+            {
+              "id": "a1_u05_l03_qz03",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "un peu", "english": "a little" },
+                { "french": "bien", "english": "well" },
+                { "french": "aussi", "english": "also" },
+                { "french": "une langue", "english": "a language" }
+              ]
+            },
+            {
+              "id": "a1_u05_l03_qz04",
+              "type": "trueFalse",
+              "prompt": "In French, names of languages are masculine: le français, l'anglais.",
+              "options": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "a1_u05_l03_qz05",
+              "type": "multipleChoice",
+              "prompt": "How do you say \"I speak a little English\"?",
+              "options": ["Je parle un peu anglais.", "Je parles un peu anglais.", "Je un peu parle anglais.", "Je parle anglais un peu très."],
+              "answer": "Je parle un peu anglais."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

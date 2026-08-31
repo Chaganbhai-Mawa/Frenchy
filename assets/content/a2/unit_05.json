@@ -1,0 +1,1036 @@
+{
+  "id": "a2_u05",
+  "level": "A2",
+  "unit": 5,
+  "title": "Travel & Transport",
+  "subtitle": "Take trains, catch flights, and hit the road in French",
+  "icon": "✈️",
+  "lessons": [
+    {
+      "id": "a2_u05_l01",
+      "level": "A2",
+      "unit": 5,
+      "title": "À la gare",
+      "description": "Buy train tickets, read schedules, and find your platform with confidence.",
+      "estimatedMinutes": 15,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Buying a train ticket",
+              "body": "At the station, you buy your ticket at \"le guichet\" (the ticket window) or at a machine. The two key words are \"un aller simple\" (a one-way ticket) and \"un aller-retour\" (a round trip). Add your destination with \"pour\" and you are ready to travel.",
+              "examples": [
+                { "french": "Je voudrais un aller-retour pour Lyon, s'il vous plaît.", "english": "I would like a round-trip ticket to Lyon, please." },
+                { "french": "Un aller simple en seconde classe, s'il vous plaît.", "english": "A one-way ticket in second class, please." },
+                { "french": "À quelle heure part le prochain train pour Paris ?", "english": "What time does the next train to Paris leave?" },
+                { "french": "C'est direct ou il y a une correspondance ?", "english": "Is it direct or is there a connection?" },
+                { "french": "Le billet coûte quarante-cinq euros.", "english": "The ticket costs forty-five euros." }
+              ],
+              "tip": "With a paper ticket, remember to \"composter\" (validate) it in the yellow machine before boarding — an unvalidated ticket can mean a fine."
+            },
+            {
+              "heading": "Reading the departure board",
+              "body": "The board shows \"le départ\" (departure), \"l'arrivée\" (arrival), and \"la voie\" or \"le quai\" (the track / platform). \"En retard\" means delayed, and \"à l'heure\" means on time. Trains in France run on the 24-hour clock.",
+              "examples": [
+                { "french": "Le train pour Marseille part de la voie huit.", "english": "The train to Marseille leaves from track eight." },
+                { "french": "Le TGV de dix heures a vingt minutes de retard.", "english": "The 10 o'clock TGV is twenty minutes late." },
+                { "french": "L'arrivée est prévue à dix-huit heures trente.", "english": "The arrival is scheduled for 6:30 p.m." },
+                { "french": "Le départ est à quinze heures dix, quai deux.", "english": "The departure is at 3:10 p.m., platform two." },
+                { "french": "Regarde l'horaire sur le panneau !", "english": "Look at the schedule on the board!" }
+              ],
+              "tip": "\"Le TGV\" (train à grande vitesse) is France's high-speed train — Paris to Lyon takes only two hours."
+            },
+            {
+              "heading": "On the train",
+              "body": "Once aboard, find your \"place\" (seat) in the right \"wagon\" (carriage). \"Le contrôleur\" (the ticket inspector) may check your ticket during the trip. If you miss a train or a connection, use the verb \"rater\".",
+              "examples": [
+                { "french": "Excusez-moi, cette place est libre ?", "english": "Excuse me, is this seat free?" },
+                { "french": "Billets, s'il vous plaît !", "english": "Tickets, please!", "note": "what the inspector says" },
+                { "french": "J'ai raté ma correspondance à Lyon.", "english": "I missed my connection in Lyon." },
+                { "french": "Nous arrivons à Paris dans dix minutes.", "english": "We arrive in Paris in ten minutes." },
+                { "french": "Le trajet dure deux heures.", "english": "The trip lasts two hours." }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "le-train", "french": "le train", "english": "train", "partOfSpeech": "noun", "gender": "m", "plural": "trains", "pronunciation": "luh tran", "example": "Le train pour Nice part à midi.", "exampleEnglish": "The train to Nice leaves at noon.", "level": "A2", "category": "transport" },
+            { "id": "gare", "french": "la gare", "english": "train station", "partOfSpeech": "noun", "gender": "f", "plural": "gares", "pronunciation": "gahr", "example": "La gare est en centre-ville.", "exampleEnglish": "The station is in the city center.", "level": "A2", "category": "transport" },
+            { "id": "le-billet", "french": "le billet", "english": "ticket", "partOfSpeech": "noun", "gender": "m", "plural": "billets", "pronunciation": "luh bee-YAY", "example": "J'ai acheté mon billet en ligne.", "exampleEnglish": "I bought my ticket online.", "level": "A2", "category": "transport" },
+            { "id": "un-aller-simple", "french": "un aller simple", "english": "one-way ticket", "partOfSpeech": "noun", "gender": "m", "plural": "allers simples", "pronunciation": "uhn ah-LAY SAM-pluh", "example": "Un aller simple pour Lille, s'il vous plaît.", "exampleEnglish": "A one-way ticket to Lille, please.", "level": "A2", "category": "transport" },
+            { "id": "un-aller-retour", "french": "un aller-retour", "english": "round-trip ticket", "partOfSpeech": "noun", "gender": "m", "plural": "allers-retours", "pronunciation": "uhn ah-LAY ruh-TOOR", "example": "L'aller-retour est moins cher.", "exampleEnglish": "The round trip is cheaper.", "level": "A2", "category": "transport" },
+            { "id": "le-guichet", "french": "le guichet", "english": "ticket window / counter", "partOfSpeech": "noun", "gender": "m", "plural": "guichets", "pronunciation": "luh ghee-SHAY", "example": "Il y a la queue au guichet.", "exampleEnglish": "There is a line at the ticket window.", "level": "A2", "category": "transport" },
+            { "id": "composter", "french": "composter", "english": "to validate (a ticket)", "partOfSpeech": "verb", "pronunciation": "kohn-poh-STAY", "example": "N'oublie pas de composter ton billet.", "exampleEnglish": "Don't forget to validate your ticket.", "level": "A2", "category": "transport" },
+            { "id": "le-quai", "french": "le quai", "english": "platform", "partOfSpeech": "noun", "gender": "m", "plural": "quais", "pronunciation": "luh kay", "example": "Le train arrive au quai trois.", "exampleEnglish": "The train arrives at platform three.", "level": "A2", "category": "transport" },
+            { "id": "la-voie", "french": "la voie", "english": "track", "partOfSpeech": "noun", "gender": "f", "plural": "voies", "pronunciation": "lah vwah", "example": "Votre train part de la voie cinq.", "exampleEnglish": "Your train leaves from track five.", "level": "A2", "category": "transport" },
+            { "id": "l-horaire", "french": "l'horaire", "english": "schedule / timetable", "partOfSpeech": "noun", "gender": "m", "plural": "horaires", "pronunciation": "loh-RAIR", "example": "Je vérifie les horaires sur mon téléphone.", "exampleEnglish": "I check the schedules on my phone.", "level": "A2", "category": "transport" },
+            { "id": "le-depart", "french": "le départ", "english": "departure", "partOfSpeech": "noun", "gender": "m", "plural": "départs", "pronunciation": "luh day-PAR", "example": "Le départ est prévu à neuf heures.", "exampleEnglish": "The departure is scheduled for nine o'clock.", "level": "A2", "category": "transport" },
+            { "id": "l-arrivee", "french": "l'arrivée", "english": "arrival", "partOfSpeech": "noun", "gender": "f", "plural": "arrivées", "pronunciation": "lah-ree-VAY", "example": "L'arrivée à Paris est à onze heures.", "exampleEnglish": "The arrival in Paris is at eleven o'clock.", "level": "A2", "category": "transport" },
+            { "id": "le-retard", "french": "le retard", "english": "delay", "partOfSpeech": "noun", "gender": "m", "plural": "retards", "pronunciation": "luh ruh-TAR", "example": "Le train a trente minutes de retard.", "exampleEnglish": "The train is thirty minutes late.", "level": "A2", "category": "transport" },
+            { "id": "la-correspondance", "french": "la correspondance", "english": "connection (transfer)", "partOfSpeech": "noun", "gender": "f", "plural": "correspondances", "pronunciation": "lah koh-reh-spohn-DAHNS", "example": "J'ai une correspondance à Lyon.", "exampleEnglish": "I have a connection in Lyon.", "level": "A2", "category": "transport" },
+            { "id": "le-controleur", "french": "le contrôleur", "english": "ticket inspector", "partOfSpeech": "noun", "gender": "m", "plural": "contrôleurs", "pronunciation": "luh kohn-troh-LUHR", "example": "Le contrôleur vérifie les billets.", "exampleEnglish": "The inspector checks the tickets.", "level": "A2", "category": "transport" },
+            { "id": "le-wagon", "french": "le wagon", "english": "carriage / train car", "partOfSpeech": "noun", "gender": "m", "plural": "wagons", "pronunciation": "luh vah-GOHN", "example": "Notre wagon est en tête de train.", "exampleEnglish": "Our carriage is at the front of the train.", "level": "A2", "category": "transport" },
+            { "id": "la-place", "french": "la place", "english": "seat", "partOfSpeech": "noun", "gender": "f", "plural": "places", "pronunciation": "lah plahs", "example": "Ma place est côté fenêtre.", "exampleEnglish": "My seat is by the window.", "level": "A2", "category": "transport" },
+            { "id": "premiere-classe", "french": "la première classe", "english": "first class", "partOfSpeech": "noun", "gender": "f", "plural": "premières classes", "pronunciation": "pruh-MYAIR klahs", "example": "La première classe est plus confortable.", "exampleEnglish": "First class is more comfortable.", "level": "A2", "category": "transport" },
+            { "id": "seconde-classe", "french": "la seconde classe", "english": "second class", "partOfSpeech": "noun", "gender": "f", "plural": "secondes classes", "pronunciation": "suh-GOHND klahs", "example": "Je voyage toujours en seconde classe.", "exampleEnglish": "I always travel in second class.", "level": "A2", "category": "transport" },
+            { "id": "le-passager", "french": "le passager", "english": "passenger", "partOfSpeech": "noun", "gender": "m", "plural": "passagers", "pronunciation": "luh pah-sah-ZHAY", "example": "Les passagers montent dans le train.", "exampleEnglish": "The passengers board the train.", "level": "A2", "category": "transport" },
+            { "id": "monter", "french": "monter", "english": "to get on / to board", "partOfSpeech": "verb", "pronunciation": "mohn-TAY", "example": "Nous montons dans le wagon sept.", "exampleEnglish": "We get on carriage seven.", "level": "A2", "category": "transport" },
+            { "id": "descendre", "french": "descendre", "english": "to get off", "partOfSpeech": "verb", "pronunciation": "deh-SAHN-druh", "example": "Je descends à la prochaine gare.", "exampleEnglish": "I get off at the next station.", "level": "A2", "category": "transport" },
+            { "id": "rater", "french": "rater", "english": "to miss (a train)", "partOfSpeech": "verb", "pronunciation": "rah-TAY", "example": "Vite, on va rater le train !", "exampleEnglish": "Quick, we're going to miss the train!", "level": "A2", "category": "transport" },
+            { "id": "le-tgv", "french": "le TGV", "english": "high-speed train", "partOfSpeech": "noun", "gender": "m", "plural": "TGV", "pronunciation": "luh tay-zhay-VAY", "example": "Le TGV va de Paris à Lyon en deux heures.", "exampleEnglish": "The TGV goes from Paris to Lyon in two hours.", "level": "A2", "category": "transport" },
+            { "id": "le-tarif", "french": "le tarif", "english": "fare / price", "partOfSpeech": "noun", "gender": "m", "plural": "tarifs", "pronunciation": "luh tah-REEF", "example": "Il y a un tarif spécial pour les étudiants.", "exampleEnglish": "There is a special fare for students.", "level": "A2", "category": "transport" },
+            { "id": "la-reduction", "french": "la réduction", "english": "discount", "partOfSpeech": "noun", "gender": "f", "plural": "réductions", "pronunciation": "lah ray-duk-SYOHN", "example": "Avec ma carte, j'ai une réduction de trente pour cent.", "exampleEnglish": "With my card, I get a thirty percent discount.", "level": "A2", "category": "transport" },
+            { "id": "direct", "french": "direct", "english": "direct / nonstop", "partOfSpeech": "adjective", "pronunciation": "dee-REKT", "example": "C'est un train direct pour Bordeaux.", "exampleEnglish": "It's a direct train to Bordeaux.", "level": "A2", "category": "transport" },
+            { "id": "le-trajet", "french": "le trajet", "english": "trip / journey (route)", "partOfSpeech": "noun", "gender": "m", "plural": "trajets", "pronunciation": "luh trah-ZHAY", "example": "Le trajet dure trois heures.", "exampleEnglish": "The journey takes three hours.", "level": "A2", "category": "travel" },
+            { "id": "le-voyage", "french": "le voyage", "english": "trip / voyage", "partOfSpeech": "noun", "gender": "m", "plural": "voyages", "pronunciation": "luh vwah-YAHZH", "example": "Bon voyage !", "exampleEnglish": "Have a good trip!", "level": "A2", "category": "travel" },
+            { "id": "voyager", "french": "voyager", "english": "to travel", "partOfSpeech": "verb", "pronunciation": "vwah-yah-ZHAY", "example": "J'adore voyager en train.", "exampleEnglish": "I love traveling by train.", "level": "A2", "category": "travel" },
+            { "id": "la-destination", "french": "la destination", "english": "destination", "partOfSpeech": "noun", "gender": "f", "plural": "destinations", "pronunciation": "lah deh-stee-nah-SYOHN", "example": "Quelle est votre destination ?", "exampleEnglish": "What is your destination?", "level": "A2", "category": "travel" },
+            { "id": "durer", "french": "durer", "english": "to last", "partOfSpeech": "verb", "pronunciation": "du-RAY", "example": "Le voyage dure quatre heures.", "exampleEnglish": "The trip lasts four hours.", "level": "A2", "category": "travel" },
+            { "id": "la-salle-d-attente", "french": "la salle d'attente", "english": "waiting room", "partOfSpeech": "noun", "gender": "f", "plural": "salles d'attente", "pronunciation": "lah sahl dah-TAHNT", "example": "On attend dans la salle d'attente.", "exampleEnglish": "We wait in the waiting room.", "level": "A2", "category": "transport" },
+            { "id": "prochain", "french": "prochain", "english": "next", "partOfSpeech": "adjective", "pronunciation": "proh-SHAN", "example": "Le prochain train part dans vingt minutes.", "exampleEnglish": "The next train leaves in twenty minutes.", "level": "A2", "category": "travel" },
+            { "id": "valable", "french": "valable", "english": "valid", "partOfSpeech": "adjective", "pronunciation": "vah-LAH-bluh", "example": "Ce billet est valable deux mois.", "exampleEnglish": "This ticket is valid for two months.", "level": "A2", "category": "transport" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Prendre — the essential travel verb",
+              "body": "\"Prendre\" (to take) is irregular: je prends, tu prends, il/elle prend, nous prenons, vous prenez, ils/elles prennent. You use it for every kind of transport: prendre le train, le bus, l'avion, le métro. In the passé composé it becomes \"j'ai pris\".",
+              "examples": [
+                { "french": "Je prends le train tous les matins.", "english": "I take the train every morning." },
+                { "french": "Nous prenons le TGV de huit heures.", "english": "We are taking the eight o'clock TGV." },
+                { "french": "Ils prennent souvent le métro.", "english": "They often take the metro." },
+                { "french": "Hier, j'ai pris un taxi pour aller à la gare.", "english": "Yesterday, I took a taxi to go to the station." },
+                { "french": "Tu as pris tes billets ?", "english": "Did you get your tickets?" }
+              ],
+              "tip": "The \"d\" is silent in the singular: \"prend\" sounds like \"prahn\". In \"prennent\", you hear the double n: \"prenn\"."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a2_u05_l01_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What does the traveler want?",
+              "french": "Je voudrais un aller-retour pour Bordeaux, s'il vous plaît.",
+              "options": ["A round-trip ticket to Bordeaux", "A one-way ticket to Bordeaux", "A schedule for Bordeaux", "A seat by the window"],
+              "answer": "A round-trip ticket to Bordeaux"
+            },
+            {
+              "id": "a2_u05_l01_li02",
+              "type": "listenChoose",
+              "prompt": "Listen to the announcement. What is the problem?",
+              "french": "Le train pour Nantes a quarante minutes de retard.",
+              "options": ["The train is delayed", "The train is cancelled", "The platform has changed", "The train is full"],
+              "answer": "The train is delayed"
+            },
+            {
+              "id": "a2_u05_l01_li03",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Le train part de la voie cinq.",
+              "answer": "Le train part de la voie cinq.",
+              "acceptedAnswers": ["le train part de la voie cinq", "le train part de la voie 5"]
+            },
+            {
+              "id": "a2_u05_l01_li04",
+              "type": "dictation",
+              "prompt": "Listen carefully and write the full sentence.",
+              "french": "J'ai raté ma correspondance à Lyon.",
+              "answer": "J'ai raté ma correspondance à Lyon.",
+              "acceptedAnswers": ["j'ai rate ma correspondance a lyon", "jai rate ma correspondance a lyon"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a2_u05_l01_sp01",
+              "type": "speak",
+              "prompt": "Ask for a one-way ticket to Paris.",
+              "french": "Un aller simple pour Paris, s'il vous plaît.",
+              "english": "A one-way ticket to Paris, please.",
+              "tip": "\"Aller\" is ah-LAY — the two l's sound like a single l, and \"simple\" ends in a soft \"pluh\"."
+            },
+            {
+              "id": "a2_u05_l01_sp02",
+              "type": "speak",
+              "prompt": "Ask what time the next train leaves.",
+              "french": "À quelle heure part le prochain train ?",
+              "english": "What time does the next train leave?",
+              "tip": "Link \"quelle heure\" together: kehl-UHR. Let your voice rise at the end of the question."
+            },
+            {
+              "id": "a2_u05_l01_sp03",
+              "type": "speak",
+              "prompt": "Ask if this seat is free.",
+              "french": "Excusez-moi, cette place est libre ?",
+              "english": "Excuse me, is this seat free?",
+              "tip": "\"Place\" is one short syllable: plahs. Keep \"libre\" light: LEE-bruh."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Au guichet de la gare de Lyon",
+              "french": "— Bonjour, je voudrais un billet pour Marseille, s'il vous plaît.\n— Bien sûr. Un aller simple ou un aller-retour ?\n— Un aller-retour, en seconde classe.\n— Vous partez quand ?\n— Demain matin, vers neuf heures.\n— Il y a un TGV direct à neuf heures quinze. Le retour est valable un mois.\n— Parfait. Le trajet dure combien de temps ?\n— Trois heures dix. Ça fait quatre-vingt-deux euros.\n— Très bien. Le train part de quelle voie ?\n— Regardez le panneau le jour du départ, madame.",
+              "english": "— Hello, I would like a ticket to Marseille, please.\n— Of course. One-way or round trip?\n— A round trip, in second class.\n— When are you leaving?\n— Tomorrow morning, around nine o'clock.\n— There is a direct TGV at 9:15. The return is valid for one month.\n— Perfect. How long does the journey take?\n— Three hours and ten minutes. That comes to eighty-two euros.\n— Very good. Which track does the train leave from?\n— Check the board on the day of departure, ma'am.",
+              "questions": [
+                {
+                  "id": "a2_u05_l01_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "What kind of ticket does the traveler buy?",
+                  "options": ["A round trip in second class", "A one-way in first class", "A round trip in first class", "A one-way in second class"],
+                  "answer": "A round trip in second class"
+                },
+                {
+                  "id": "a2_u05_l01_rd02",
+                  "type": "trueFalse",
+                  "prompt": "The TGV at 9:15 is direct.",
+                  "options": ["True", "False"],
+                  "answer": "True"
+                },
+                {
+                  "id": "a2_u05_l01_rd03",
+                  "type": "multipleChoice",
+                  "prompt": "How long is the return ticket valid?",
+                  "options": ["One month", "One week", "Two months", "One day"],
+                  "answer": "One month"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a2_u05_l01_wr01",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "I would like a round-trip ticket to Lyon.",
+              "answer": "Je voudrais un aller-retour pour Lyon.",
+              "acceptedAnswers": ["je voudrais un aller retour pour lyon", "je voudrais un aller-retour pour lyon"]
+            },
+            {
+              "id": "a2_u05_l01_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "words": ["part", "Le", "la", "train", "de", "voie", "huit"],
+              "answer": "Le train part de la voie huit",
+              "english": "The train leaves from track eight."
+            },
+            {
+              "id": "a2_u05_l01_wr03",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "The journey lasts two hours.",
+              "answer": "Le trajet dure deux heures.",
+              "acceptedAnswers": ["le trajet dure deux heures", "le voyage dure deux heures"]
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a2_u05_l01_pr01",
+              "type": "match",
+              "prompt": "Match the French and English.",
+              "pairs": [
+                { "french": "le quai", "english": "platform" },
+                { "french": "le guichet", "english": "ticket window" },
+                { "french": "le retard", "english": "delay" },
+                { "french": "la correspondance", "english": "connection" }
+              ]
+            },
+            {
+              "id": "a2_u05_l01_pr02",
+              "type": "fillBlank",
+              "prompt": "Je voudrais un aller ___ pour Nice : je reviens dimanche.",
+              "answer": "retour",
+              "tip": "You come back, so you need a return."
+            },
+            {
+              "id": "a2_u05_l01_pr03",
+              "type": "multipleChoice",
+              "prompt": "Which verb means \"to miss\" a train?",
+              "options": ["rater", "monter", "composter", "durer"],
+              "answer": "rater"
+            },
+            {
+              "id": "a2_u05_l01_pr04",
+              "type": "fillBlank",
+              "prompt": "Nous ___ le TGV de neuf heures. (prendre)",
+              "answer": "prenons"
+            },
+            {
+              "id": "a2_u05_l01_pr05",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "words": ["heure", "le", "part", "À", "quelle", "train", "prochain"],
+              "answer": "À quelle heure part le prochain train",
+              "english": "What time does the next train leave?"
+            },
+            {
+              "id": "a2_u05_l01_pr06",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "Yesterday, I took the train to Paris.",
+              "answer": "Hier, j'ai pris le train pour Paris.",
+              "acceptedAnswers": ["hier j'ai pris le train pour paris", "hier jai pris le train pour paris"]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a2_u05_l01_qz01",
+              "type": "multipleChoice",
+              "prompt": "\"Un aller simple\" is...",
+              "options": ["a one-way ticket", "a round-trip ticket", "a discount card", "a seat reservation"],
+              "answer": "a one-way ticket"
+            },
+            {
+              "id": "a2_u05_l01_qz02",
+              "type": "trueFalse",
+              "prompt": "\"Composter\" means to buy a ticket.",
+              "options": ["True", "False"],
+              "answer": "False",
+              "tip": "It means to validate your ticket in the yellow machine."
+            },
+            {
+              "id": "a2_u05_l01_qz03",
+              "type": "fillBlank",
+              "prompt": "Le train a vingt minutes de ___.",
+              "answer": "retard"
+            },
+            {
+              "id": "a2_u05_l01_qz04",
+              "type": "multipleChoice",
+              "prompt": "Choose the correct form: \"Ils ___ le métro tous les jours.\"",
+              "options": ["prennent", "prend", "prenons", "prends"],
+              "answer": "prennent"
+            },
+            {
+              "id": "a2_u05_l01_qz05",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "words": ["raté", "J'ai", "correspondance", "ma", "à", "Lyon"],
+              "answer": "J'ai raté ma correspondance à Lyon",
+              "english": "I missed my connection in Lyon."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2_u05_l02",
+      "level": "A2",
+      "unit": 5,
+      "title": "À l'aéroport et à l'hôtel",
+      "description": "Check in for a flight, get through the airport, and book a hotel room.",
+      "estimatedMinutes": 15,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "At the check-in desk",
+              "body": "At the airport, you first \"enregistrer\" (check in) your \"bagages\" (luggage) and receive your \"carte d'embarquement\" (boarding pass). Keep your \"passeport\" ready for \"le contrôle\" (security and passport control).",
+              "examples": [
+                { "french": "Je voudrais enregistrer cette valise, s'il vous plaît.", "english": "I would like to check this suitcase, please." },
+                { "french": "Voici mon passeport et ma carte d'embarquement.", "english": "Here is my passport and my boarding pass." },
+                { "french": "Vous avez un bagage à main ?", "english": "Do you have a carry-on bag?" },
+                { "french": "L'embarquement commence à dix heures vingt.", "english": "Boarding starts at 10:20." },
+                { "french": "Le vol AF 1234 part de la porte B12.", "english": "Flight AF 1234 leaves from gate B12." }
+              ],
+              "tip": "In French airports, \"la porte\" is the gate. Listen for \"embarquement immédiat\" — it means boarding now, hurry!"
+            },
+            {
+              "heading": "On the plane",
+              "body": "The plane \"décolle\" (takes off) and \"atterrit\" (lands). The crew — \"l'hôtesse de l'air\" and \"le steward\" — ask you to fasten \"votre ceinture\" (your seatbelt). \"Le vol\" is the flight itself.",
+              "examples": [
+                { "french": "L'avion décolle dans vingt minutes.", "english": "The plane takes off in twenty minutes." },
+                { "french": "Attachez votre ceinture, s'il vous plaît.", "english": "Fasten your seatbelt, please." },
+                { "french": "Le vol dure une heure et demie.", "english": "The flight lasts an hour and a half." },
+                { "french": "Nous atterrissons à Nice à quatorze heures.", "english": "We land in Nice at 2 p.m." },
+                { "french": "Mon vol a été annulé à cause de la neige.", "english": "My flight was cancelled because of the snow." }
+              ]
+            },
+            {
+              "heading": "Booking and checking in at the hotel",
+              "body": "At the hotel, you talk to \"la réception\". Ask for \"une chambre simple\" (a single room) or \"une chambre double\" (a double room), say how many \"nuits\" (nights) you are staying, and ask if breakfast is \"compris\" (included).",
+              "examples": [
+                { "french": "J'ai réservé une chambre double pour deux nuits.", "english": "I booked a double room for two nights." },
+                { "french": "Le petit-déjeuner est compris ?", "english": "Is breakfast included?" },
+                { "french": "Votre chambre est au troisième étage.", "english": "Your room is on the third floor." },
+                { "french": "Voici votre clé. L'ascenseur est à droite.", "english": "Here is your key. The elevator is on the right." },
+                { "french": "Désolé, l'hôtel est complet ce week-end.", "english": "Sorry, the hotel is full this weekend." },
+                { "french": "Le wifi est gratuit dans toutes les chambres.", "english": "The wifi is free in all the rooms." }
+              ],
+              "tip": "In France, the ground floor is \"le rez-de-chaussée\" — so \"le premier étage\" is one floor up (the American second floor)."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "l-aeroport", "french": "l'aéroport", "english": "airport", "partOfSpeech": "noun", "gender": "m", "plural": "aéroports", "pronunciation": "lah-ay-roh-POR", "example": "Nous arrivons à l'aéroport à six heures.", "exampleEnglish": "We arrive at the airport at six o'clock.", "level": "A2", "category": "travel" },
+            { "id": "l-avion", "french": "l'avion", "english": "plane", "partOfSpeech": "noun", "gender": "m", "plural": "avions", "pronunciation": "lah-VYOHN", "example": "L'avion est plus rapide que le train.", "exampleEnglish": "The plane is faster than the train.", "level": "A2", "category": "transport" },
+            { "id": "le-vol", "french": "le vol", "english": "flight", "partOfSpeech": "noun", "gender": "m", "plural": "vols", "pronunciation": "luh vohl", "example": "Le vol pour Rome est complet.", "exampleEnglish": "The flight to Rome is full.", "level": "A2", "category": "travel" },
+            { "id": "la-porte-d-embarquement", "french": "la porte d'embarquement", "english": "boarding gate", "partOfSpeech": "noun", "gender": "f", "plural": "portes d'embarquement", "pronunciation": "lah port dahn-bar-kuh-MAHN", "example": "La porte d'embarquement est la B7.", "exampleEnglish": "The boarding gate is B7.", "level": "A2", "category": "travel" },
+            { "id": "la-carte-d-embarquement", "french": "la carte d'embarquement", "english": "boarding pass", "partOfSpeech": "noun", "gender": "f", "plural": "cartes d'embarquement", "pronunciation": "lah kart dahn-bar-kuh-MAHN", "example": "Montrez votre carte d'embarquement, s'il vous plaît.", "exampleEnglish": "Show your boarding pass, please.", "level": "A2", "category": "travel" },
+            { "id": "embarquer", "french": "embarquer", "english": "to board", "partOfSpeech": "verb", "pronunciation": "ahn-bar-KAY", "example": "Les passagers embarquent maintenant.", "exampleEnglish": "The passengers are boarding now.", "level": "A2", "category": "travel" },
+            { "id": "enregistrer", "french": "enregistrer", "english": "to check in (luggage)", "partOfSpeech": "verb", "pronunciation": "ahn-ruh-zhee-STRAY", "example": "Je dois enregistrer ma valise.", "exampleEnglish": "I have to check in my suitcase.", "level": "A2", "category": "travel" },
+            { "id": "l-enregistrement", "french": "l'enregistrement", "english": "check-in", "partOfSpeech": "noun", "gender": "m", "plural": "enregistrements", "pronunciation": "lahn-ruh-zhee-struh-MAHN", "example": "L'enregistrement ouvre deux heures avant le vol.", "exampleEnglish": "Check-in opens two hours before the flight.", "level": "A2", "category": "travel" },
+            { "id": "le-bagage", "french": "le bagage", "english": "luggage", "partOfSpeech": "noun", "gender": "m", "plural": "bagages", "pronunciation": "luh bah-GAHZH", "example": "Mes bagages sont trop lourds.", "exampleEnglish": "My luggage is too heavy.", "level": "A2", "category": "travel" },
+            { "id": "la-valise", "french": "la valise", "english": "suitcase", "partOfSpeech": "noun", "gender": "f", "plural": "valises", "pronunciation": "lah vah-LEEZ", "example": "Je fais ma valise ce soir.", "exampleEnglish": "I'm packing my suitcase tonight.", "level": "A2", "category": "travel" },
+            { "id": "le-bagage-a-main", "french": "le bagage à main", "english": "carry-on bag", "partOfSpeech": "noun", "gender": "m", "plural": "bagages à main", "pronunciation": "luh bah-GAHZH ah man", "example": "Un seul bagage à main est autorisé.", "exampleEnglish": "Only one carry-on bag is allowed.", "level": "A2", "category": "travel" },
+            { "id": "la-douane", "french": "la douane", "english": "customs", "partOfSpeech": "noun", "gender": "f", "plural": "douanes", "pronunciation": "lah DWAHN", "example": "Nous passons la douane à l'arrivée.", "exampleEnglish": "We go through customs on arrival.", "level": "A2", "category": "travel" },
+            { "id": "le-passeport", "french": "le passeport", "english": "passport", "partOfSpeech": "noun", "gender": "m", "plural": "passeports", "pronunciation": "luh pahs-POR", "example": "Mon passeport est dans mon sac.", "exampleEnglish": "My passport is in my bag.", "level": "A2", "category": "travel" },
+            { "id": "decoller", "french": "décoller", "english": "to take off", "partOfSpeech": "verb", "pronunciation": "day-koh-LAY", "example": "L'avion décolle à l'heure.", "exampleEnglish": "The plane takes off on time.", "level": "A2", "category": "travel" },
+            { "id": "atterrir", "french": "atterrir", "english": "to land", "partOfSpeech": "verb", "pronunciation": "ah-tay-REER", "example": "Nous atterrissons dans dix minutes.", "exampleEnglish": "We land in ten minutes.", "level": "A2", "category": "travel" },
+            { "id": "le-pilote", "french": "le pilote", "english": "pilot", "partOfSpeech": "noun", "gender": "m", "plural": "pilotes", "pronunciation": "luh pee-LOHT", "example": "Le pilote parle aux passagers.", "exampleEnglish": "The pilot speaks to the passengers.", "level": "A2", "category": "travel" },
+            { "id": "l-hotesse-de-l-air", "french": "l'hôtesse de l'air", "english": "flight attendant (female)", "partOfSpeech": "noun", "gender": "f", "plural": "hôtesses de l'air", "pronunciation": "loh-TESS duh lair", "example": "L'hôtesse de l'air sert les boissons.", "exampleEnglish": "The flight attendant serves the drinks.", "level": "A2", "category": "travel" },
+            { "id": "le-steward", "french": "le steward", "english": "flight attendant (male)", "partOfSpeech": "noun", "gender": "m", "plural": "stewards", "pronunciation": "luh stee-WARD", "example": "Le steward ferme la porte de l'avion.", "exampleEnglish": "The flight attendant closes the plane door.", "level": "A2", "category": "travel" },
+            { "id": "la-ceinture", "french": "la ceinture", "english": "seatbelt / belt", "partOfSpeech": "noun", "gender": "f", "plural": "ceintures", "pronunciation": "lah san-TUR", "example": "Attachez votre ceinture.", "exampleEnglish": "Fasten your seatbelt.", "level": "A2", "category": "travel" },
+            { "id": "annule", "french": "annulé", "english": "cancelled", "partOfSpeech": "adjective", "pronunciation": "ah-nu-LAY", "example": "Le vol est annulé.", "exampleEnglish": "The flight is cancelled.", "level": "A2", "category": "travel" },
+            { "id": "l-hotel", "french": "l'hôtel", "english": "hotel", "partOfSpeech": "noun", "gender": "m", "plural": "hôtels", "pronunciation": "loh-TEL", "example": "L'hôtel est près de la plage.", "exampleEnglish": "The hotel is near the beach.", "level": "A2", "category": "hotel" },
+            { "id": "la-reception", "french": "la réception", "english": "reception / front desk", "partOfSpeech": "noun", "gender": "f", "plural": "réceptions", "pronunciation": "lah ray-sep-SYOHN", "example": "Demandez la clé à la réception.", "exampleEnglish": "Ask for the key at the front desk.", "level": "A2", "category": "hotel" },
+            { "id": "le-receptionniste", "french": "le réceptionniste", "english": "receptionist", "partOfSpeech": "noun", "gender": "m", "plural": "réceptionnistes", "pronunciation": "luh ray-sep-syoh-NEEST", "example": "Le réceptionniste est très gentil.", "exampleEnglish": "The receptionist is very kind.", "level": "A2", "category": "hotel" },
+            { "id": "la-chambre", "french": "la chambre", "english": "room / bedroom", "partOfSpeech": "noun", "gender": "f", "plural": "chambres", "pronunciation": "lah SHAHN-bruh", "example": "La chambre a une belle vue.", "exampleEnglish": "The room has a beautiful view.", "level": "A2", "category": "hotel" },
+            { "id": "une-chambre-double", "french": "une chambre double", "english": "double room", "partOfSpeech": "expression", "pronunciation": "un SHAHN-bruh DOO-bluh", "example": "Une chambre double pour deux nuits, s'il vous plaît.", "exampleEnglish": "A double room for two nights, please.", "level": "A2", "category": "hotel" },
+            { "id": "une-chambre-simple", "french": "une chambre simple", "english": "single room", "partOfSpeech": "expression", "pronunciation": "un SHAHN-bruh SAM-pluh", "example": "Je voyage seul, une chambre simple suffit.", "exampleEnglish": "I travel alone, a single room is enough.", "level": "A2", "category": "hotel" },
+            { "id": "la-cle", "french": "la clé", "english": "key", "partOfSpeech": "noun", "gender": "f", "plural": "clés", "pronunciation": "lah klay", "example": "J'ai perdu la clé de ma chambre.", "exampleEnglish": "I lost my room key.", "level": "A2", "category": "hotel" },
+            { "id": "la-reservation", "french": "la réservation", "english": "reservation / booking", "partOfSpeech": "noun", "gender": "f", "plural": "réservations", "pronunciation": "lah ray-zehr-vah-SYOHN", "example": "J'ai une réservation au nom de Martin.", "exampleEnglish": "I have a reservation under the name Martin.", "level": "A2", "category": "hotel" },
+            { "id": "annuler", "french": "annuler", "english": "to cancel", "partOfSpeech": "verb", "pronunciation": "ah-nu-LAY", "example": "Je voudrais annuler ma réservation.", "exampleEnglish": "I would like to cancel my reservation.", "level": "A2", "category": "travel" },
+            { "id": "confirmer", "french": "confirmer", "english": "to confirm", "partOfSpeech": "verb", "pronunciation": "kohn-feer-MAY", "example": "Pouvez-vous confirmer ma réservation ?", "exampleEnglish": "Can you confirm my reservation?", "level": "A2", "category": "travel" },
+            { "id": "compris", "french": "compris", "english": "included", "partOfSpeech": "adjective", "pronunciation": "kohn-PREE", "example": "Le petit-déjeuner est compris dans le prix.", "exampleEnglish": "Breakfast is included in the price.", "level": "A2", "category": "hotel" },
+            { "id": "l-ascenseur", "french": "l'ascenseur", "english": "elevator", "partOfSpeech": "noun", "gender": "m", "plural": "ascenseurs", "pronunciation": "lah-sahn-SUHR", "example": "L'ascenseur est en panne, prenez l'escalier.", "exampleEnglish": "The elevator is out of order, take the stairs.", "level": "A2", "category": "hotel" },
+            { "id": "l-etage", "french": "l'étage", "english": "floor / story", "partOfSpeech": "noun", "gender": "m", "plural": "étages", "pronunciation": "lay-TAHZH", "example": "Ma chambre est au deuxième étage.", "exampleEnglish": "My room is on the second floor.", "level": "A2", "category": "hotel" },
+            { "id": "la-piscine", "french": "la piscine", "english": "swimming pool", "partOfSpeech": "noun", "gender": "f", "plural": "piscines", "pronunciation": "lah pee-SEEN", "example": "L'hôtel a une piscine sur le toit.", "exampleEnglish": "The hotel has a rooftop pool.", "level": "A2", "category": "hotel" },
+            { "id": "le-wifi", "french": "le wifi", "english": "wifi", "partOfSpeech": "noun", "gender": "m", "plural": "wifis", "pronunciation": "luh wee-FEE", "example": "Quel est le mot de passe du wifi ?", "exampleEnglish": "What is the wifi password?", "level": "A2", "category": "hotel" },
+            { "id": "gratuit", "french": "gratuit", "english": "free (of charge)", "partOfSpeech": "adjective", "pronunciation": "grah-TWEE", "example": "Le parking de l'hôtel est gratuit.", "exampleEnglish": "The hotel parking is free.", "level": "A2", "category": "hotel" },
+            { "id": "complet", "french": "complet", "english": "full / fully booked", "partOfSpeech": "adjective", "pronunciation": "kohn-PLAY", "example": "Désolé, l'hôtel est complet.", "exampleEnglish": "Sorry, the hotel is fully booked.", "level": "A2", "category": "hotel" },
+            { "id": "la-vue", "french": "la vue", "english": "view", "partOfSpeech": "noun", "gender": "f", "plural": "vues", "pronunciation": "lah vu", "example": "Je voudrais une chambre avec vue sur la mer.", "exampleEnglish": "I would like a room with a sea view.", "level": "A2", "category": "hotel" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Talking about travel plans: le futur proche",
+              "body": "To talk about plans, French uses \"aller\" + infinitive: \"je vais partir\" (I am going to leave). It is the easiest future tense — just conjugate \"aller\" (je vais, tu vas, il va, nous allons, vous allez, ils vont) and add the verb.",
+              "examples": [
+                { "french": "Je vais prendre l'avion demain.", "english": "I am going to take the plane tomorrow." },
+                { "french": "Nous allons réserver un hôtel à Nice.", "english": "We are going to book a hotel in Nice." },
+                { "french": "Le vol va décoller dans dix minutes.", "english": "The flight is going to take off in ten minutes." },
+                { "french": "Tu vas enregistrer ta valise ?", "english": "Are you going to check in your suitcase?" },
+                { "french": "Ils vont passer une semaine à Paris.", "english": "They are going to spend a week in Paris." }
+              ],
+              "tip": "For the negative, wrap ne...pas around \"aller\": \"Je ne vais pas annuler mon voyage.\""
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a2_u05_l02_li01",
+              "type": "listenChoose",
+              "prompt": "Listen to the airport announcement. What should passengers do?",
+              "french": "Embarquement immédiat, porte B12.",
+              "options": ["Board now at gate B12", "Wait at gate B12", "Check in at counter B12", "Collect luggage at belt B12"],
+              "answer": "Board now at gate B12"
+            },
+            {
+              "id": "a2_u05_l02_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. What does the traveler ask at the hotel?",
+              "french": "Le petit-déjeuner est compris ?",
+              "options": ["If breakfast is included", "If the wifi is free", "If the room has a view", "If the hotel is full"],
+              "answer": "If breakfast is included"
+            },
+            {
+              "id": "a2_u05_l02_li03",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "J'ai réservé une chambre double.",
+              "answer": "J'ai réservé une chambre double.",
+              "acceptedAnswers": ["j'ai reserve une chambre double", "jai reserve une chambre double"]
+            },
+            {
+              "id": "a2_u05_l02_li04",
+              "type": "dictation",
+              "prompt": "Listen carefully and write the full sentence.",
+              "french": "L'avion va décoller dans vingt minutes.",
+              "answer": "L'avion va décoller dans vingt minutes.",
+              "acceptedAnswers": ["l'avion va decoller dans vingt minutes", "lavion va decoller dans vingt minutes"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a2_u05_l02_sp01",
+              "type": "speak",
+              "prompt": "Say that you would like to check in this suitcase.",
+              "french": "Je voudrais enregistrer cette valise.",
+              "english": "I would like to check in this suitcase.",
+              "tip": "\"Enregistrer\" has a nasal start: ahn-ruh-zhee-STRAY. Keep the syllables even."
+            },
+            {
+              "id": "a2_u05_l02_sp02",
+              "type": "speak",
+              "prompt": "Tell the receptionist you booked a double room for two nights.",
+              "french": "J'ai réservé une chambre double pour deux nuits.",
+              "english": "I booked a double room for two nights.",
+              "tip": "\"Chambre\" has a nasal \"an\": SHAHN-bruh. Don't pronounce the final e."
+            },
+            {
+              "id": "a2_u05_l02_sp03",
+              "type": "speak",
+              "prompt": "Ask if breakfast is included.",
+              "french": "Le petit-déjeuner est compris ?",
+              "english": "Is breakfast included?",
+              "tip": "\"Compris\" ends in a silent s: kohn-PREE. Raise your intonation to make it a question."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "À la réception de l'hôtel",
+              "french": "— Bonsoir, j'ai une réservation au nom de Dubois.\n— Bonsoir, madame. Oui, une chambre double pour trois nuits.\n— C'est ça. Le petit-déjeuner est compris ?\n— Oui, il est servi de sept heures à dix heures.\n— Parfait. Il y a le wifi dans la chambre ?\n— Oui, il est gratuit. Voici votre clé, chambre 24, au deuxième étage.\n— Merci. L'ascenseur est où ?\n— Au fond du couloir, à gauche. Bonne soirée, madame !",
+              "english": "— Good evening, I have a reservation under the name Dubois.\n— Good evening, ma'am. Yes, a double room for three nights.\n— That's right. Is breakfast included?\n— Yes, it is served from seven to ten.\n— Perfect. Is there wifi in the room?\n— Yes, it's free. Here is your key, room 24, on the second floor.\n— Thank you. Where is the elevator?\n— At the end of the hallway, on the left. Have a good evening, ma'am!",
+              "questions": [
+                {
+                  "id": "a2_u05_l02_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "How many nights is Mrs. Dubois staying?",
+                  "options": ["Three", "Two", "One", "Four"],
+                  "answer": "Three"
+                },
+                {
+                  "id": "a2_u05_l02_rd02",
+                  "type": "trueFalse",
+                  "prompt": "The wifi costs extra.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                },
+                {
+                  "id": "a2_u05_l02_rd03",
+                  "type": "multipleChoice",
+                  "prompt": "Where is room 24?",
+                  "options": ["On the second floor", "On the ground floor", "On the third floor", "Next to the reception"],
+                  "answer": "On the second floor"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a2_u05_l02_wr01",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "I would like a room with a sea view.",
+              "answer": "Je voudrais une chambre avec vue sur la mer.",
+              "acceptedAnswers": ["je voudrais une chambre avec vue sur la mer", "je voudrais une chambre avec une vue sur la mer"]
+            },
+            {
+              "id": "a2_u05_l02_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "words": ["vais", "Je", "l'avion", "prendre", "demain"],
+              "answer": "Je vais prendre l'avion demain",
+              "english": "I am going to take the plane tomorrow."
+            },
+            {
+              "id": "a2_u05_l02_wr03",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "The flight is cancelled.",
+              "answer": "Le vol est annulé.",
+              "acceptedAnswers": ["le vol est annule"]
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a2_u05_l02_pr01",
+              "type": "match",
+              "prompt": "Match the French and English.",
+              "pairs": [
+                { "french": "la valise", "english": "suitcase" },
+                { "french": "le vol", "english": "flight" },
+                { "french": "la clé", "english": "key" },
+                { "french": "la douane", "english": "customs" }
+              ]
+            },
+            {
+              "id": "a2_u05_l02_pr02",
+              "type": "fillBlank",
+              "prompt": "L'avion ___ à quatorze heures et atterrit à seize heures.",
+              "answer": "décolle"
+            },
+            {
+              "id": "a2_u05_l02_pr03",
+              "type": "multipleChoice",
+              "prompt": "The hotel has no rooms left. It is...",
+              "options": ["complet", "gratuit", "compris", "direct"],
+              "answer": "complet"
+            },
+            {
+              "id": "a2_u05_l02_pr04",
+              "type": "fillBlank",
+              "prompt": "Nous ___ réserver un hôtel à Nice. (aller)",
+              "answer": "allons"
+            },
+            {
+              "id": "a2_u05_l02_pr05",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "words": ["carte", "Voici", "d'embarquement", "ma", "passeport", "et", "mon"],
+              "answer": "Voici mon passeport et ma carte d'embarquement",
+              "english": "Here is my passport and my boarding pass."
+            },
+            {
+              "id": "a2_u05_l02_pr06",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "I would like to cancel my reservation.",
+              "answer": "Je voudrais annuler ma réservation.",
+              "acceptedAnswers": ["je voudrais annuler ma reservation"]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a2_u05_l02_qz01",
+              "type": "multipleChoice",
+              "prompt": "\"La carte d'embarquement\" is...",
+              "options": ["the boarding pass", "the passport", "the luggage tag", "the hotel key card"],
+              "answer": "the boarding pass"
+            },
+            {
+              "id": "a2_u05_l02_qz02",
+              "type": "trueFalse",
+              "prompt": "\"Atterrir\" means to take off.",
+              "options": ["True", "False"],
+              "answer": "False",
+              "tip": "\"Atterrir\" is to land — think of \"terre\" (earth) inside the word."
+            },
+            {
+              "id": "a2_u05_l02_qz03",
+              "type": "fillBlank",
+              "prompt": "Le petit-déjeuner est ___ dans le prix.",
+              "answer": "compris"
+            },
+            {
+              "id": "a2_u05_l02_qz04",
+              "type": "multipleChoice",
+              "prompt": "Choose the correct form: \"Ils ___ passer une semaine à Paris.\"",
+              "options": ["vont", "va", "vais", "allez"],
+              "answer": "vont"
+            },
+            {
+              "id": "a2_u05_l02_qz05",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "words": ["chambre", "réservé", "J'ai", "une", "double"],
+              "answer": "J'ai réservé une chambre double",
+              "english": "I booked a double room."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2_u05_l03",
+      "level": "A2",
+      "unit": 5,
+      "title": "En route !",
+      "description": "Rent a car, find your way on the road, and replace places and quantities with y and en.",
+      "estimatedMinutes": 16,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Renting a car",
+              "body": "At the rental desk you will need three sentences: what you want, for how long, and what is included. Prices are given \"par jour\" (per day) and the agent will ask for your \"permis de conduire\".",
+              "examples": [
+                { "french": "Je voudrais louer une petite voiture pour trois jours.", "english": "I'd like to rent a small car for three days." },
+                { "french": "Voici mon permis de conduire.", "english": "Here is my driving licence." },
+                { "french": "L'assurance est comprise dans le prix ?", "english": "Is insurance included in the price?" },
+                { "french": "Il faut rendre la voiture avec le plein.", "english": "You have to return the car with a full tank." },
+                { "french": "C'est combien par jour ?", "english": "How much is it per day?" }
+              ],
+              "tip": "In France a rental car is usually \"une boîte manuelle\" (manual). Ask for \"une boîte automatique\" if you need one."
+            },
+            {
+              "heading": "On the road",
+              "body": "French motorways (les autoroutes) are fast but you pay at a \"péage\". Speed limits are shown on round signs: 130 on the motorway, 80 or 90 on country roads, 50 in town. Stop at a \"station-service\" to fill up.",
+              "examples": [
+                { "french": "Nous avons pris l'autoroute A7 vers Marseille.", "english": "We took the A7 motorway towards Marseille." },
+                { "french": "On s'arrête à la prochaine station-service ?", "english": "Shall we stop at the next petrol station?" },
+                { "french": "Le plein, s'il vous plaît.", "english": "Fill it up, please." },
+                { "french": "Attention, il y a un radar après le péage.", "english": "Careful, there's a speed camera after the toll." },
+                { "french": "Ralentis, la limitation est à cinquante.", "english": "Slow down, the limit is fifty." }
+              ]
+            },
+            {
+              "heading": "Asking the way again",
+              "body": "Directions come back constantly on a road trip. Keep these ready: \"Pardon, je cherche...\", \"C'est loin ?\", \"On continue tout droit ?\". The answers use tournez, continuez, prenez and traversez.",
+              "examples": [
+                { "french": "Pardon, je cherche la route de Nîmes.", "english": "Excuse me, I'm looking for the road to Nîmes." },
+                { "french": "Continuez tout droit jusqu'au rond-point.", "english": "Carry straight on to the roundabout." },
+                { "french": "Au carrefour, tournez à gauche.", "english": "At the crossroads, turn left." },
+                { "french": "Prenez la deuxième sortie du rond-point.", "english": "Take the second exit at the roundabout." },
+                { "french": "C'est à dix minutes en voiture.", "english": "It's ten minutes away by car." },
+                { "french": "Vous pouvez vous garer devant la mairie.", "english": "You can park in front of the town hall." }
+              ],
+              "tip": "\"On y va !\" (Let's go!) already contains the pronoun y — literally \"we go there\"."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "la-voiture", "french": "la voiture", "english": "the car", "partOfSpeech": "noun", "gender": "f", "plural": "voitures", "pronunciation": "vwah-TUR", "example": "Nous avons loué une voiture à l'aéroport.", "exampleEnglish": "We rented a car at the airport.", "level": "A2", "category": "road" },
+            { "id": "louer", "french": "louer", "english": "to rent / to hire", "partOfSpeech": "verb", "pronunciation": "loo-AY", "example": "Je voudrais louer une voiture pour le week-end.", "exampleEnglish": "I'd like to rent a car for the weekend.", "level": "A2", "category": "road" },
+            { "id": "la-location", "french": "la location", "english": "the rental / hire", "partOfSpeech": "noun", "gender": "f", "plural": "locations", "pronunciation": "loh-kah-SYOHN", "example": "L'agence de location est en face de la gare.", "exampleEnglish": "The rental agency is opposite the station.", "level": "A2", "category": "road" },
+            { "id": "le-permis-de-conduire", "french": "le permis de conduire", "english": "the driving licence", "partOfSpeech": "noun", "gender": "m", "plural": "permis de conduire", "pronunciation": "pehr-MEE duh kohn-DWEER", "example": "Vous avez votre permis de conduire ?", "exampleEnglish": "Do you have your driving licence?", "level": "A2", "category": "road" },
+            { "id": "conduire", "french": "conduire (conduit)", "english": "to drive", "partOfSpeech": "verb", "pronunciation": "kohn-DWEER", "example": "Ma sœur conduit très prudemment.", "exampleEnglish": "My sister drives very carefully.", "level": "A2", "category": "road" },
+            { "id": "le-conducteur", "french": "le conducteur / la conductrice", "english": "the driver", "partOfSpeech": "noun", "gender": "m", "plural": "conducteurs", "pronunciation": "kohn-duk-TUR", "example": "Le conducteur s'est arrêté au feu rouge.", "exampleEnglish": "The driver stopped at the red light.", "level": "A2", "category": "road" },
+            { "id": "l-autoroute", "french": "l'autoroute", "english": "the motorway", "partOfSpeech": "noun", "gender": "f", "plural": "autoroutes", "pronunciation": "loh-toh-ROOT", "example": "Sur l'autoroute, la vitesse est limitée à 130.", "exampleEnglish": "On the motorway, the speed is limited to 130.", "level": "A2", "category": "road" },
+            { "id": "le-peage", "french": "le péage", "english": "the toll (booth)", "partOfSpeech": "noun", "gender": "m", "plural": "péages", "pronunciation": "pay-AHZH", "example": "On a payé douze euros au péage.", "exampleEnglish": "We paid twelve euros at the toll.", "level": "A2", "category": "road" },
+            { "id": "la-route", "french": "la route", "english": "the road", "partOfSpeech": "noun", "gender": "f", "plural": "routes", "pronunciation": "ROOT", "example": "La route de la montagne est très belle.", "exampleEnglish": "The mountain road is very beautiful.", "level": "A2", "category": "road" },
+            { "id": "l-essence", "french": "l'essence", "english": "the petrol / gas", "partOfSpeech": "noun", "gender": "f", "plural": "essences", "pronunciation": "leh-SAHNSS", "example": "Il n'y a presque plus d'essence.", "exampleEnglish": "There's almost no petrol left.", "level": "A2", "category": "road" },
+            { "id": "faire-le-plein", "french": "faire le plein", "english": "to fill up (the tank)", "partOfSpeech": "expression", "pronunciation": "fehr luh PLAN", "example": "On fait le plein avant de partir.", "exampleEnglish": "We'll fill up before leaving.", "level": "A2", "category": "road" },
+            { "id": "la-station-service", "french": "la station-service", "english": "the petrol station", "partOfSpeech": "noun", "gender": "f", "plural": "stations-service", "pronunciation": "stah-syohn sehr-VEES", "example": "Il y a une station-service dans deux kilomètres.", "exampleEnglish": "There's a petrol station in two kilometres.", "level": "A2", "category": "road" },
+            { "id": "le-coffre", "french": "le coffre", "english": "the boot / trunk", "partOfSpeech": "noun", "gender": "m", "plural": "coffres", "pronunciation": "KOFR", "example": "Mets les valises dans le coffre.", "exampleEnglish": "Put the suitcases in the boot.", "level": "A2", "category": "road" },
+            { "id": "le-volant", "french": "le volant", "english": "the steering wheel", "partOfSpeech": "noun", "gender": "m", "plural": "volants", "pronunciation": "voh-LAHN", "example": "C'est elle qui est au volant.", "exampleEnglish": "She is the one driving.", "level": "A2", "category": "road" },
+            { "id": "le-pneu", "french": "le pneu", "english": "the tyre", "partOfSpeech": "noun", "gender": "m", "plural": "pneus", "pronunciation": "puh-NUH", "example": "Nous avons crevé un pneu sur l'autoroute.", "exampleEnglish": "We got a flat tyre on the motorway.", "level": "A2", "category": "road" },
+            { "id": "la-ceinture-de-securite", "french": "la ceinture de sécurité", "english": "the seat belt", "partOfSpeech": "noun", "gender": "f", "plural": "ceintures de sécurité", "pronunciation": "san-TUR duh say-ku-ree-TAY", "example": "Attachez votre ceinture de sécurité.", "exampleEnglish": "Fasten your seat belt.", "level": "A2", "category": "road" },
+            { "id": "le-moteur", "french": "le moteur", "english": "the engine", "partOfSpeech": "noun", "gender": "m", "plural": "moteurs", "pronunciation": "moh-TUR", "example": "Le moteur fait un bruit bizarre.", "exampleEnglish": "The engine is making a strange noise.", "level": "A2", "category": "road" },
+            { "id": "tomber-en-panne", "french": "tomber en panne", "english": "to break down", "partOfSpeech": "expression", "pronunciation": "tohn-BAY ahn PAHN", "example": "Notre voiture est tombée en panne près de Dijon.", "exampleEnglish": "Our car broke down near Dijon.", "level": "A2", "category": "road" },
+            { "id": "le-garage", "french": "le garage", "english": "the garage", "partOfSpeech": "noun", "gender": "m", "plural": "garages", "pronunciation": "gah-RAHZH", "example": "La voiture est encore au garage.", "exampleEnglish": "The car is still at the garage.", "level": "A2", "category": "road" },
+            { "id": "le-parking", "french": "le parking", "english": "the car park", "partOfSpeech": "noun", "gender": "m", "plural": "parkings", "pronunciation": "par-KEENG", "example": "Le parking est gratuit le dimanche.", "exampleEnglish": "The car park is free on Sundays.", "level": "A2", "category": "road" },
+            { "id": "se-garer", "french": "se garer", "english": "to park", "partOfSpeech": "verb", "pronunciation": "suh gah-RAY", "example": "On peut se garer devant l'hôtel.", "exampleEnglish": "We can park in front of the hotel.", "level": "A2", "category": "road" },
+            { "id": "le-rond-point", "french": "le rond-point", "english": "the roundabout", "partOfSpeech": "noun", "gender": "m", "plural": "ronds-points", "pronunciation": "rohn-PWAN", "example": "Prenez la troisième sortie du rond-point.", "exampleEnglish": "Take the third exit at the roundabout.", "level": "A2", "category": "directions" },
+            { "id": "le-carrefour", "french": "le carrefour", "english": "the crossroads", "partOfSpeech": "noun", "gender": "m", "plural": "carrefours", "pronunciation": "kar-FOOR", "example": "Tournez à droite au carrefour.", "exampleEnglish": "Turn right at the crossroads.", "level": "A2", "category": "directions" },
+            { "id": "le-feu-rouge", "french": "le feu rouge", "english": "the traffic light / red light", "partOfSpeech": "noun", "gender": "m", "plural": "feux rouges", "pronunciation": "fuh ROOZH", "example": "Arrêtez-vous au feu rouge.", "exampleEnglish": "Stop at the red light.", "level": "A2", "category": "directions" },
+            { "id": "le-panneau", "french": "le panneau", "english": "the road sign", "partOfSpeech": "noun", "gender": "m", "plural": "panneaux", "pronunciation": "pah-NOH", "example": "Tu as vu le panneau pour Avignon ?", "exampleEnglish": "Did you see the sign for Avignon?", "level": "A2", "category": "directions" },
+            { "id": "la-limitation-de-vitesse", "french": "la limitation de vitesse", "english": "the speed limit", "partOfSpeech": "noun", "gender": "f", "plural": "limitations de vitesse", "pronunciation": "lee-mee-tah-syohn duh vee-TESS", "example": "La limitation de vitesse est de 80 km/h ici.", "exampleEnglish": "The speed limit is 80 km/h here.", "level": "A2", "category": "road" },
+            { "id": "ralentir", "french": "ralentir", "english": "to slow down", "partOfSpeech": "verb", "pronunciation": "rah-lahn-TEER", "example": "Ralentis, il y a des travaux.", "exampleEnglish": "Slow down, there are roadworks.", "level": "A2", "category": "road" },
+            { "id": "doubler", "french": "doubler", "english": "to overtake", "partOfSpeech": "verb", "pronunciation": "doo-BLAY", "example": "Ne double pas dans le virage !", "exampleEnglish": "Don't overtake on the bend!", "level": "A2", "category": "road" },
+            { "id": "tourner", "french": "tourner", "english": "to turn", "partOfSpeech": "verb", "pronunciation": "toor-NAY", "example": "Tournez à gauche après la banque.", "exampleEnglish": "Turn left after the bank.", "level": "A2", "category": "directions" },
+            { "id": "tout-droit", "french": "tout droit", "english": "straight ahead", "partOfSpeech": "expression", "pronunciation": "too DRWAH", "example": "Continuez tout droit pendant un kilomètre.", "exampleEnglish": "Carry straight on for a kilometre.", "level": "A2", "category": "directions" },
+            { "id": "jusqu-a", "french": "jusqu'à", "english": "as far as / until", "partOfSpeech": "preposition", "pronunciation": "zhus-KAH", "example": "Roulez jusqu'au prochain village.", "exampleEnglish": "Drive as far as the next village.", "level": "A2", "category": "directions" },
+            { "id": "l-itineraire", "french": "l'itinéraire", "english": "the route / itinerary", "partOfSpeech": "noun", "gender": "m", "plural": "itinéraires", "pronunciation": "lee-tee-nay-REHR", "example": "Le GPS propose un autre itinéraire.", "exampleEnglish": "The GPS is suggesting another route.", "level": "A2", "category": "directions" },
+            { "id": "le-gps", "french": "le GPS", "english": "the GPS / sat nav", "partOfSpeech": "noun", "gender": "m", "plural": "GPS", "pronunciation": "zhay-pay-ESS", "example": "Sans GPS, on se perd toujours.", "exampleEnglish": "Without a GPS, we always get lost.", "level": "A2", "category": "directions" },
+            { "id": "le-covoiturage", "french": "le covoiturage", "english": "car sharing / carpooling", "partOfSpeech": "noun", "gender": "m", "plural": "covoiturages", "pronunciation": "koh-vwah-tu-RAHZH", "example": "J'ai fait Paris-Lyon en covoiturage.", "exampleEnglish": "I did Paris to Lyon by car sharing.", "level": "A2", "category": "road" },
+            { "id": "rouler", "french": "rouler", "english": "to drive along / to run (vehicle)", "partOfSpeech": "verb", "pronunciation": "roo-LAY", "example": "Nous avons roulé pendant six heures.", "exampleEnglish": "We drove for six hours.", "level": "A2", "category": "road" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "The pronoun y = there",
+              "body": "\"Y\" replaces a place already mentioned, usually introduced by à, en, dans, sur or chez. It goes directly before the verb: J'y vais. In the passé composé it sits before the helper: J'y suis allé. With two verbs it goes before the infinitive: Je vais y aller.",
+              "examples": [
+                { "french": "Tu vas à Bordeaux ? — Oui, j'y vais demain.", "english": "Are you going to Bordeaux? — Yes, I'm going there tomorrow." },
+                { "french": "Nous y sommes restés trois jours.", "english": "We stayed there for three days." },
+                { "french": "On y va !", "english": "Let's go!" },
+                { "french": "Je n'y suis jamais allé.", "english": "I have never been there." },
+                { "french": "Elle veut y retourner cet été.", "english": "She wants to go back there this summer." }
+              ],
+              "tip": "\"Y\" also replaces à + a thing: Tu penses à la réservation ? — Oui, j'y pense."
+            },
+            {
+              "heading": "The pronoun en = some / of it / of them",
+              "body": "\"En\" replaces du / de la / des / de + noun, and any quantity. Same position as y: before the verb, or before the helper in the past. Keep the number or quantity word at the end: J'en ai deux.",
+              "examples": [
+                { "french": "Tu as de l'essence ? — Oui, j'en ai.", "english": "Do you have petrol? — Yes, I have some." },
+                { "french": "Des cartes routières ? Nous en avons acheté deux.", "english": "Road maps? We bought two of them." },
+                { "french": "Il n'y a plus de péages ? — Non, il n'y en a plus.", "english": "Are there no more tolls? — No, there aren't any more." },
+                { "french": "Elle revient de Nice. — Elle en revient ce soir.", "english": "She's coming back from Nice. — She's coming back from there tonight." },
+                { "french": "Combien de kilomètres ? — On en a fait cinq cents.", "english": "How many kilometres? — We did five hundred of them." }
+              ],
+              "tip": "Quick rule: à → y, de → en. Learn them as a pair and half the difficulty disappears."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a2_u05_l03_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What does the customer want?",
+              "french": "Bonjour, je voudrais louer une petite voiture pour trois jours.",
+              "options": ["To rent a small car for three days", "To buy a car", "To return a car", "To book a hotel room"],
+              "answer": "To rent a small car for three days"
+            },
+            {
+              "id": "a2_u05_l03_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. What should the driver do?",
+              "french": "Au rond-point, prenez la deuxième sortie.",
+              "options": ["Take the second exit", "Turn left immediately", "Stop at the red light", "Go back to the motorway"],
+              "answer": "Take the second exit"
+            },
+            {
+              "id": "a2_u05_l03_li03",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "On fait le plein à la station-service.",
+              "answer": "On fait le plein à la station-service.",
+              "acceptedAnswers": ["on fait le plein a la station-service", "on fait le plein a la station service"]
+            },
+            {
+              "id": "a2_u05_l03_li04",
+              "type": "listenChoose",
+              "prompt": "Listen. What happened to the car?",
+              "french": "Notre voiture est tombée en panne juste avant le péage.",
+              "options": ["It broke down", "It was stolen", "It ran out of petrol at the garage", "It was parked badly"],
+              "answer": "It broke down"
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a2_u05_l03_sp01",
+              "type": "speak",
+              "prompt": "Ask to rent a car for a week.",
+              "french": "Je voudrais louer une voiture pour une semaine.",
+              "english": "I'd like to rent a car for a week.",
+              "tip": "\"Louer\" is two syllables: loo-AY. Don't turn it into \"lower\"."
+            },
+            {
+              "id": "a2_u05_l03_sp02",
+              "type": "speak",
+              "prompt": "Ask if the petrol station is far.",
+              "french": "La station-service est loin d'ici ?",
+              "english": "Is the petrol station far from here?",
+              "tip": "\"Loin\" rhymes with \"coin\": lwan, with the nasal ending held short."
+            },
+            {
+              "id": "a2_u05_l03_sp03",
+              "type": "speak",
+              "prompt": "Answer using the pronoun y: say you're going there tomorrow.",
+              "french": "Oui, j'y vais demain matin.",
+              "english": "Yes, I'm going there tomorrow morning.",
+              "tip": "\"J'y\" is one short sound: zhee — never separate the j and the y."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Sur la route des vacances",
+              "french": "Samedi, nous avons loué une voiture à l'agence de la gare.\nL'employé a regardé mon permis de conduire et nous a donné les clés.\nD'abord, nous avons mis les valises dans le coffre et nous avons attaché nos ceintures.\nNous sommes partis vers huit heures pour éviter les embouteillages.\nSur l'autoroute, nous avons roulé pendant deux heures, puis nous nous sommes arrêtés à une station-service.\nJ'ai fait le plein et Julie a acheté des sandwichs : elle en a pris quatre !\nAprès le péage, le GPS a proposé un autre itinéraire par la petite route.\nNous y sommes allés et le paysage était magnifique.\nEnfin, nous sommes arrivés au village à midi et nous nous sommes garés devant l'hôtel.",
+              "english": "On Saturday, we rented a car at the agency by the station.\nThe employee looked at my driving licence and gave us the keys.\nFirst, we put the suitcases in the boot and fastened our seat belts.\nWe left around eight to avoid the traffic jams.\nOn the motorway, we drove for two hours, then we stopped at a petrol station.\nI filled up the tank and Julie bought some sandwiches: she took four of them!\nAfter the toll, the GPS suggested another route along the small road.\nWe went there and the scenery was magnificent.\nFinally, we arrived at the village at noon and parked in front of the hotel.",
+              "questions": [
+                {
+                  "id": "a2_u05_l03_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "What did the employee ask to see?",
+                  "options": ["The driving licence", "The passport", "The hotel booking", "The credit card"],
+                  "answer": "The driving licence"
+                },
+                {
+                  "id": "a2_u05_l03_rd02",
+                  "type": "trueFalse",
+                  "prompt": "They drove without stopping until the village.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                },
+                {
+                  "id": "a2_u05_l03_rd03",
+                  "type": "multipleChoice",
+                  "prompt": "In \"elle en a pris quatre\", what does \"en\" replace?",
+                  "options": ["des sandwichs", "la voiture", "l'autoroute", "les valises"],
+                  "answer": "des sandwichs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a2_u05_l03_wr01",
+              "type": "translate",
+              "prompt": "Translate into French: I'd like to rent a car for two days.",
+              "english": "I'd like to rent a car for two days.",
+              "answer": "Je voudrais louer une voiture pour deux jours.",
+              "acceptedAnswers": ["je voudrais louer une voiture pour deux jours"]
+            },
+            {
+              "id": "a2_u05_l03_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "words": ["au", "Tournez", "gauche", "à", "carrefour"],
+              "answer": "Tournez à gauche au carrefour",
+              "english": "Turn left at the crossroads"
+            },
+            {
+              "id": "a2_u05_l03_wr03",
+              "type": "fillBlank",
+              "prompt": "Tu vas à Lyon ? — Oui, ___ vais demain. (y)",
+              "answer": "j'y",
+              "acceptedAnswers": ["jy"]
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a2_u05_l03_pr01",
+              "type": "match",
+              "prompt": "Match the French word with its English meaning.",
+              "pairs": [
+                { "french": "le péage", "english": "the toll" },
+                { "french": "l'essence", "english": "the petrol" },
+                { "french": "le coffre", "english": "the boot" },
+                { "french": "le panneau", "english": "the road sign" }
+              ]
+            },
+            {
+              "id": "a2_u05_l03_pr02",
+              "type": "fillBlank",
+              "prompt": "Il n'y a plus d'essence : il faut faire le ___ .",
+              "answer": "plein"
+            },
+            {
+              "id": "a2_u05_l03_pr03",
+              "type": "multipleChoice",
+              "prompt": "Tu as des cartes routières ? — Oui, ___ ai trois.",
+              "options": ["j'en", "j'y", "je les", "j'ai"],
+              "answer": "j'en"
+            },
+            {
+              "id": "a2_u05_l03_pr04",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "words": ["voiture", "est", "en", "La", "panne", "tombée"],
+              "answer": "La voiture est tombée en panne",
+              "english": "The car broke down"
+            },
+            {
+              "id": "a2_u05_l03_pr05",
+              "type": "translate",
+              "prompt": "Translate into French: We can park in front of the hotel.",
+              "english": "We can park in front of the hotel.",
+              "answer": "On peut se garer devant l'hôtel.",
+              "acceptedAnswers": ["on peut se garer devant l'hotel", "nous pouvons nous garer devant l'hotel"]
+            },
+            {
+              "id": "a2_u05_l03_pr06",
+              "type": "multipleChoice",
+              "prompt": "Which pronoun replaces a place introduced by \"à\"?",
+              "options": ["y", "en", "le", "lui"],
+              "answer": "y"
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a2_u05_l03_qz01",
+              "type": "multipleChoice",
+              "prompt": "Where do you pay to use a French motorway?",
+              "options": ["au péage", "au parking", "au garage", "au rond-point"],
+              "answer": "au péage"
+            },
+            {
+              "id": "a2_u05_l03_qz02",
+              "type": "fillBlank",
+              "prompt": "Nous sommes allés à Nice. Nous ___ sommes restés une semaine. (y / en)",
+              "answer": "y"
+            },
+            {
+              "id": "a2_u05_l03_qz03",
+              "type": "trueFalse",
+              "prompt": "\"En\" replaces expressions with \"de\" (du café, des sandwichs).",
+              "options": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "a2_u05_l03_qz04",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "words": ["tout", "Continuez", "le", "droit", "jusqu'au", "feu"],
+              "answer": "Continuez tout droit jusqu'au feu",
+              "english": "Carry straight on as far as the traffic light"
+            },
+            {
+              "id": "a2_u05_l03_qz05",
+              "type": "translate",
+              "prompt": "Translate into French: Here is my driving licence.",
+              "english": "Here is my driving licence.",
+              "answer": "Voici mon permis de conduire.",
+              "acceptedAnswers": ["voici mon permis de conduire", "voila mon permis de conduire"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

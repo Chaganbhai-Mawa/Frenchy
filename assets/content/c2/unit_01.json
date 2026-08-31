@@ -1,0 +1,1038 @@
+{
+  "id": "c2_u01",
+  "level": "C2",
+  "unit": 1,
+  "title": "Rhetoric & Eloquence",
+  "subtitle": "Master the French art of the beautifully built argument",
+  "icon": "🎙️",
+  "lessons": [
+    {
+      "id": "c2_u01_l01",
+      "level": "C2",
+      "unit": 1,
+      "title": "L'art oratoire",
+      "description": "The French oratorical tradition: anaphora, ternary rhythm and the devices that make a speech soar.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Une tradition nationale",
+              "body": "France takes public speech seriously: from Bossuet's sermons to the revolutionary tribune, from courtroom plaidoiries to today's concours d'éloquence, the well-built speech is a cultural institution. Knowing the canonical lines — and why they work — is part of educated French culture.",
+              "examples": [
+                { "french": "Paris ! Paris outragé ! Paris brisé ! Paris martyrisé ! mais Paris libéré !", "english": "Paris! Paris outraged! Paris broken! Paris martyred! but Paris liberated!", "note": "de Gaulle, 1944 — anaphora + gradation" },
+                { "french": "Entre ici, Jean Moulin, avec ton terrible cortège.", "english": "Enter here, Jean Moulin, with your terrible procession.", "note": "Malraux, 1964 — apostrophe to the dead" },
+                { "french": "J'accuse… !", "english": "I accuse…!", "note": "Zola, 1898 — the most famous anaphora in French press history" },
+                { "french": "L'éloquence est au sublime ce que le tout est à sa partie.", "english": "Eloquence is to the sublime what the whole is to its part.", "note": "La Bruyère" },
+                { "french": "Il a fait ses armes dans les concours d'éloquence du barreau.", "english": "He cut his teeth in the bar's eloquence competitions." }
+              ],
+              "tip": "The oral tradition is alive: the bac's « grand oral », moot-court contests, and shows like « Le Grand Oral » on TV all reward classical rhetoric."
+            },
+            {
+              "heading": "L'anaphore, figure reine",
+              "body": "Anaphora — repeating the same words at the start of successive clauses — is the signature device of French political speech. It builds pressure and makes the structure audible. François Hollande's 2012 debate anaphora « Moi président… », repeated fifteen times, is the modern textbook case.",
+              "examples": [
+                { "french": "Moi président de la République, je ne serai pas le chef de la majorité.", "english": "As president of the Republic, I will not be the leader of the majority.", "note": "Hollande, 2012" },
+                { "french": "Rome, l'unique objet de mon ressentiment ! Rome, à qui vient ton bras d'immoler mon amant !", "english": "Rome, sole object of my resentment! Rome, for whom your arm has just sacrificed my lover!", "note": "Corneille — anaphora + apostrophe" },
+                { "french": "Il faut de l'audace, encore de l'audace, toujours de l'audace !", "english": "We need audacity, more audacity, always audacity!", "note": "Danton — repetition + ternary rhythm" },
+                { "french": "Chaque phrase commençait par les mêmes mots : l'effet était martelé.", "english": "Every sentence began with the same words: the effect was hammered home." }
+              ]
+            },
+            {
+              "heading": "Rythme ternaire, gradation, question rhétorique",
+              "body": "French ears expect things in threes: « Liberté, Égalité, Fraternité » is the national motto and the national rhythm. A gradation stacks terms of rising intensity; a rhetorical question asserts while pretending to ask; a litote asserts by denying the contrary — the classic French figure of elegant understatement.",
+              "examples": [
+                { "french": "Liberté, Égalité, Fraternité.", "english": "Liberty, Equality, Fraternity.", "note": "the canonical tricolon" },
+                { "french": "Va, cours, vole, et nous venge.", "english": "Go, run, fly, and avenge us.", "note": "Corneille — gradation in threes (plus one)" },
+                { "french": "Jusques à quand abuserez-vous de notre patience ?", "english": "How long will you abuse our patience?", "note": "rhetorical question, after Cicero" },
+                { "french": "Va, je ne te hais point.", "english": "Go, I do not hate you.", "note": "Corneille — the most famous litote: it means « je t'aime »" },
+                { "french": "C'était une envolée lyrique digne des grands tribuns.", "english": "It was a lyrical flight worthy of the great orators." }
+              ],
+              "tip": "When you build a list in formal French, aim for three items of increasing weight — audiences literally hear a two-item list as unfinished."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "eloquence", "french": "l'éloquence", "english": "eloquence", "partOfSpeech": "noun", "gender": "f", "plural": "éloquences", "pronunciation": "ay-loh-KAHNSS", "example": "Son éloquence a subjugué la salle entière.", "exampleEnglish": "His eloquence captivated the entire room.", "level": "C2", "category": "rhetoric" },
+            { "id": "orateur", "french": "l'orateur", "english": "orator, public speaker", "partOfSpeech": "noun", "gender": "m", "plural": "orateurs", "pronunciation": "oh-rah-TUHR", "example": "Jaurès reste l'orateur le plus célèbre de la Troisième République.", "exampleEnglish": "Jaurès remains the most famous orator of the Third Republic.", "level": "C2", "category": "rhetoric" },
+            { "id": "discours", "french": "le discours", "english": "speech, discourse", "partOfSpeech": "noun", "gender": "m", "plural": "discours", "pronunciation": "dee-SKOOR", "example": "Elle a prononcé un discours d'une rare intensité.", "exampleEnglish": "She delivered a speech of rare intensity.", "level": "C2", "category": "rhetoric" },
+            { "id": "tribune", "french": "la tribune", "english": "rostrum, platform; op-ed", "partOfSpeech": "noun", "gender": "f", "plural": "tribunes", "pronunciation": "tree-BUUN", "example": "Il est monté à la tribune sous les huées.", "exampleEnglish": "He took the rostrum amid boos.", "level": "C2", "category": "rhetoric" },
+            { "id": "auditoire", "french": "l'auditoire", "english": "audience (listeners)", "partOfSpeech": "noun", "gender": "m", "plural": "auditoires", "pronunciation": "oh-dee-TWAHR", "example": "L'auditoire retenait son souffle à chaque pause.", "exampleEnglish": "The audience held its breath at every pause.", "level": "C2", "category": "rhetoric" },
+            { "id": "anaphore", "french": "l'anaphore", "english": "anaphora", "partOfSpeech": "noun", "gender": "f", "plural": "anaphores", "pronunciation": "ah-nah-FOR", "example": "L'anaphore « Moi président » a marqué le débat de 2012.", "exampleEnglish": "The anaphora \"Moi président\" marked the 2012 debate.", "level": "C2", "category": "rhetoric" },
+            { "id": "gradation", "french": "la gradation", "english": "gradation, climax (figure)", "partOfSpeech": "noun", "gender": "f", "plural": "gradations", "pronunciation": "grah-dah-SYOHN", "example": "« Outragé, brisé, martyrisé, libéré » : la gradation est saisissante.", "exampleEnglish": "\"Outraged, broken, martyred, liberated\": the gradation is striking.", "level": "C2", "category": "rhetoric" },
+            { "id": "rythme-ternaire", "french": "le rythme ternaire", "english": "ternary rhythm, tricolon", "partOfSpeech": "expression", "pronunciation": "reetm tehr-NEHR", "example": "Le rythme ternaire donne au slogan sa force de frappe.", "exampleEnglish": "The ternary rhythm gives the slogan its punch.", "level": "C2", "category": "rhetoric" },
+            { "id": "question-rhetorique", "french": "la question rhétorique", "english": "rhetorical question", "partOfSpeech": "expression", "pronunciation": "kess-TYOHN ray-toh-REEK", "example": "Sa question rhétorique n'attendait évidemment aucune réponse.", "exampleEnglish": "His rhetorical question obviously expected no answer.", "level": "C2", "category": "rhetoric" },
+            { "id": "apostrophe-figure", "french": "l'apostrophe", "english": "apostrophe (direct address)", "partOfSpeech": "noun", "gender": "f", "plural": "apostrophes", "pronunciation": "ah-poss-TROFF", "example": "L'apostrophe aux morts est un classique de l'éloge funèbre.", "exampleEnglish": "Addressing the dead directly is a classic of the funeral oration.", "level": "C2", "category": "rhetoric" },
+            { "id": "metaphore", "french": "la métaphore", "english": "metaphor", "partOfSpeech": "noun", "gender": "f", "plural": "métaphores", "pronunciation": "may-tah-FOR", "example": "Sa métaphore filée courait sur tout le paragraphe.", "exampleEnglish": "His extended metaphor ran through the whole paragraph.", "level": "C2", "category": "rhetoric" },
+            { "id": "hyperbole", "french": "l'hyperbole", "english": "hyperbole", "partOfSpeech": "noun", "gender": "f", "plural": "hyperboles", "pronunciation": "ee-pehr-BOLL", "example": "« Mille fois merci » est une hyperbole si banale qu'on ne l'entend plus.", "exampleEnglish": "\"A thousand thanks\" is a hyperbole so common we no longer hear it.", "level": "C2", "category": "rhetoric" },
+            { "id": "litote", "french": "la litote", "english": "litotes, understatement", "partOfSpeech": "noun", "gender": "f", "plural": "litotes", "pronunciation": "lee-TOTT", "example": "« Ce n'est pas mauvais » : la litote française par excellence pour dire « c'est excellent ».", "exampleEnglish": "\"It's not bad\": the quintessential French litotes for \"it's excellent\".", "level": "C2", "category": "rhetoric" },
+            { "id": "euphemisme", "french": "l'euphémisme", "english": "euphemism", "partOfSpeech": "noun", "gender": "m", "plural": "euphémismes", "pronunciation": "uh-fay-MEESM", "example": "« Il nous a quittés » est l'euphémisme consacré pour la mort.", "exampleEnglish": "\"He has left us\" is the established euphemism for death.", "level": "C2", "category": "rhetoric" },
+            { "id": "alliteration", "french": "l'allitération", "english": "alliteration", "partOfSpeech": "noun", "gender": "f", "plural": "allitérations", "pronunciation": "ah-lee-tay-rah-SYOHN", "example": "« Pour qui sont ces serpents qui sifflent sur vos têtes ? » : allitération en s.", "exampleEnglish": "\"For whom are these serpents hissing over your heads?\": alliteration in s.", "level": "C2", "category": "rhetoric" },
+            { "id": "exorde", "french": "l'exorde", "english": "exordium, opening of a speech", "partOfSpeech": "noun", "gender": "m", "plural": "exordes", "pronunciation": "eg-ZORD", "example": "Son exorde a capté l'attention dès la première phrase.", "exampleEnglish": "His opening captured attention from the very first sentence.", "level": "C2", "category": "rhetoric" },
+            { "id": "peroraison", "french": "la péroraison", "english": "peroration, closing of a speech", "partOfSpeech": "noun", "gender": "f", "plural": "péroraisons", "pronunciation": "pay-roh-reh-ZOHN", "example": "La péroraison s'est achevée sur un appel à l'unité.", "exampleEnglish": "The peroration ended with a call for unity.", "level": "C2", "category": "rhetoric" },
+            { "id": "chute-rhetorique", "french": "la chute", "english": "punchline, closing twist", "partOfSpeech": "noun", "gender": "f", "plural": "chutes", "pronunciation": "shuut", "example": "Toute la chronique était construite pour amener la chute finale.", "exampleEnglish": "The whole column was built to set up the final punchline.", "level": "C2", "category": "rhetoric" },
+            { "id": "plaidoyer", "french": "le plaidoyer", "english": "plea, impassioned defense", "partOfSpeech": "noun", "gender": "m", "plural": "plaidoyers", "pronunciation": "pleh-dwah-YAY", "example": "Son livre est un vibrant plaidoyer pour l'école publique.", "exampleEnglish": "Her book is a vibrant plea for public schools.", "level": "C2", "category": "rhetoric" },
+            { "id": "plaidoirie", "french": "la plaidoirie", "english": "closing argument (in court)", "partOfSpeech": "noun", "gender": "f", "plural": "plaidoiries", "pronunciation": "pleh-dwah-REE", "example": "La plaidoirie de Badinter contre la peine de mort fait date.", "exampleEnglish": "Badinter's closing argument against the death penalty is a landmark.", "level": "C2", "category": "rhetoric" },
+            { "id": "harangue", "french": "la harangue", "english": "harangue, rousing address", "partOfSpeech": "noun", "gender": "f", "plural": "harangues", "pronunciation": "ah-RAHNG", "example": "Le général adressa une brève harangue à ses troupes.", "exampleEnglish": "The general delivered a brief harangue to his troops.", "level": "C2", "category": "rhetoric" },
+            { "id": "haranguer", "french": "haranguer", "english": "to harangue, to address rousingly", "partOfSpeech": "verb", "pronunciation": "ah-rahn-GAY", "example": "Il haranguait la foule depuis le balcon de la mairie.", "exampleEnglish": "He was haranguing the crowd from the town hall balcony.", "level": "C2", "category": "rhetoric" },
+            { "id": "declamer", "french": "déclamer", "english": "to declaim, to recite dramatically", "partOfSpeech": "verb", "pronunciation": "day-klah-MAY", "example": "Elle déclamait du Racine avec une diction impeccable.", "exampleEnglish": "She declaimed Racine with impeccable diction.", "level": "C2", "category": "rhetoric" },
+            { "id": "scander", "french": "scander", "english": "to chant, to stress rhythmically", "partOfSpeech": "verb", "pronunciation": "skahn-DAY", "example": "Les manifestants scandaient le même slogan en boucle.", "exampleEnglish": "The demonstrators chanted the same slogan over and over.", "level": "C2", "category": "rhetoric" },
+            { "id": "marteler", "french": "marteler", "english": "to hammer home (a message)", "partOfSpeech": "verb", "pronunciation": "mahr-tuh-LAY", "example": "Le ministre martèle le même argument depuis des semaines.", "exampleEnglish": "The minister has been hammering home the same argument for weeks.", "level": "C2", "category": "rhetoric" },
+            { "id": "captiver", "french": "captiver", "english": "to captivate", "partOfSpeech": "verb", "pronunciation": "kap-tee-VAY", "example": "Un bon exorde doit captiver l'auditoire en trente secondes.", "exampleEnglish": "A good opening must captivate the audience in thirty seconds.", "level": "C2", "category": "rhetoric" },
+            { "id": "galvaniser", "french": "galvaniser", "english": "to galvanize, to fire up", "partOfSpeech": "verb", "pronunciation": "gal-vah-nee-ZAY", "example": "Son discours a galvanisé des militants pourtant épuisés.", "exampleEnglish": "His speech galvanized activists who were nonetheless exhausted.", "level": "C2", "category": "rhetoric" },
+            { "id": "envolee", "french": "l'envolée", "english": "flight (of eloquence)", "partOfSpeech": "noun", "gender": "f", "plural": "envolées", "pronunciation": "ahn-voh-LAY", "example": "Ses envolées lyriques frisaient parfois le ridicule.", "exampleEnglish": "His lyrical flights sometimes bordered on the ridiculous.", "level": "C2", "category": "rhetoric" },
+            { "id": "verve", "french": "la verve", "english": "verve, brilliant wit in speech", "partOfSpeech": "noun", "gender": "f", "plural": "verves", "pronunciation": "vehrv", "example": "Il était ce soir-là dans une verve étourdissante.", "exampleEnglish": "That evening he was in dazzling form.", "level": "C2", "category": "rhetoric" },
+            { "id": "emphase", "french": "l'emphase", "english": "pomposity, bombast (false friend!)", "partOfSpeech": "noun", "gender": "f", "plural": "emphases", "pronunciation": "ahn-FAHZ", "example": "Il parle avec une emphase qui gâche ses meilleures idées.", "exampleEnglish": "He speaks with a bombast that spoils his best ideas.", "level": "C2", "category": "rhetoric" },
+            { "id": "grandiloquent", "french": "grandiloquent", "english": "grandiloquent", "partOfSpeech": "adjective", "pronunciation": "grahn-dee-loh-KAHN", "example": "Son style grandiloquent a fait sourire les journalistes.", "exampleEnglish": "His grandiloquent style made the journalists smile.", "level": "C2", "category": "rhetoric" },
+            { "id": "ampoule-adj", "french": "ampoulé", "english": "turgid, pompous (style)", "partOfSpeech": "adjective", "pronunciation": "ahn-poo-LAY", "example": "Évitez les formules ampoulées : la force naît de la simplicité.", "exampleEnglish": "Avoid turgid phrasing: strength comes from simplicity.", "level": "C2", "category": "rhetoric" },
+            { "id": "percutant", "french": "percutant", "english": "punchy, hard-hitting", "partOfSpeech": "adjective", "pronunciation": "pehr-kuu-TAHN", "example": "Elle a trouvé une formule percutante qui a fait la une.", "exampleEnglish": "She found a punchy phrase that made the front page.", "level": "C2", "category": "rhetoric" },
+            { "id": "solennel", "french": "solennel", "english": "solemn", "partOfSpeech": "adjective", "pronunciation": "soh-lah-NELL", "example": "Le ton solennel s'imposait en pareille circonstance.", "exampleEnglish": "A solemn tone was called for in such circumstances.", "level": "C2", "category": "rhetoric" },
+            { "id": "joute-oratoire", "french": "la joute oratoire", "english": "verbal sparring match, debate joust", "partOfSpeech": "expression", "pronunciation": "zhoot oh-rah-TWAHR", "example": "Le débat d'entre-deux-tours est la grande joute oratoire française.", "exampleEnglish": "The runoff debate is France's great oratorical joust.", "level": "C2", "category": "rhetoric" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "L'inversion oratoire",
+              "body": "Formal speech inverts subject and verb after certain adverbs placed first: « peut-être », « sans doute », « aussi » (meaning « therefore »), « à peine », « encore ». This inversion is a register marker — using it signals high style; omitting it in writing sounds casual.",
+              "examples": [
+                { "french": "Peut-être faut-il rappeler d'où nous venons.", "english": "Perhaps we should recall where we come from." },
+                { "french": "Sans doute est-il trop tôt pour juger.", "english": "It is doubtless too early to judge." },
+                { "french": "Aussi convient-il d'agir sans tarder.", "english": "Therefore it is fitting to act without delay.", "note": "« aussi » + inversion = therefore, never « also »" },
+                { "french": "À peine avait-il conclu que la salle s'est levée.", "english": "Hardly had he concluded when the room rose to its feet." },
+                { "french": "Encore faut-il que le peuple y consente.", "english": "It remains necessary that the people consent to it." }
+              ],
+              "tip": "In a speech, one well-placed inversion elevates the whole passage; three in a row sound like a pastiche of the Académie."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "c2_u01_l01_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. Which rhetorical figure carries this sentence?",
+              "french": "Il faut de l'audace, encore de l'audace, toujours de l'audace !",
+              "options": ["Repetition with gradation", "Litotes", "Euphemism", "Metaphor"],
+              "answer": "Repetition with gradation"
+            },
+            {
+              "id": "c2_u01_l01_li02",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Son éloquence a galvanisé l'auditoire.",
+              "answer": "Son éloquence a galvanisé l'auditoire.",
+              "acceptedAnswers": ["son eloquence a galvanise l'auditoire", "son eloquence a galvanise l auditoire"]
+            },
+            {
+              "id": "c2_u01_l01_li03",
+              "type": "listenChoose",
+              "prompt": "Listen. What does the speaker imply with this litote?",
+              "french": "Votre plaidoirie n'était pas inintéressante.",
+              "options": ["The argument was actually quite good", "The argument was boring", "The argument was too long", "The argument was inaudible"],
+              "answer": "The argument was actually quite good",
+              "tip": "The double negative « pas inintéressante » is understated praise."
+            },
+            {
+              "id": "c2_u01_l01_li04",
+              "type": "dictation",
+              "prompt": "Dictation: write exactly what you hear.",
+              "french": "Peut-être faut-il rappeler d'où nous venons.",
+              "answer": "Peut-être faut-il rappeler d'où nous venons.",
+              "acceptedAnswers": ["peut-etre faut-il rappeler d'ou nous venons", "peut etre faut il rappeler d ou nous venons"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "c2_u01_l01_sp01",
+              "type": "speak",
+              "prompt": "Deliver de Gaulle's famous gradation with rising intensity.",
+              "french": "Paris outragé ! Paris brisé ! Paris martyrisé ! mais Paris libéré !",
+              "english": "Paris outraged! Paris broken! Paris martyred! but Paris liberated!",
+              "tip": "Pause after each exclamation and let the pitch climb; « libéré » should land highest: lee-bay-RAY."
+            },
+            {
+              "id": "c2_u01_l01_sp02",
+              "type": "speak",
+              "prompt": "Say this oratorical inversion with formal gravity.",
+              "french": "Sans doute est-il trop tôt pour juger.",
+              "english": "It is doubtless too early to judge.",
+              "tip": "Link « est-il » smoothly: eh-TEEL, and keep an even, measured tempo."
+            },
+            {
+              "id": "c2_u01_l01_sp03",
+              "type": "speak",
+              "prompt": "Pronounce this ternary motto with equal stress on each term.",
+              "french": "Liberté, Égalité, Fraternité.",
+              "english": "Liberty, Equality, Fraternity.",
+              "tip": "Three even beats, final syllable stressed each time: -TAY, -TAY, -TAY."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Chronique : le retour de l'éloquence",
+              "french": "On croyait l'éloquence morte, étouffée sous les éléments de langage et les formats de trente secondes.\nOr voici qu'elle revient par où on ne l'attendait pas : les concours d'art oratoire font salle comble.\nÀ la Sorbonne comme en banlieue, des étudiants s'affrontent à coups d'anaphores et de péroraisons.\nLeurs modèles ? Badinter et sa plaidoirie contre la peine de mort, Malraux apostrophant Jean Moulin,\net, plus près de nous, telle avocate dont la chute, un soir de finale, fit se lever toute une salle.\nQu'on ne s'y trompe pas : cette jeunesse ne récite pas, elle s'approprie.\nElle sait qu'une gradation bien menée vaut mieux qu'un long rapport,\nqu'une litote glissée au bon moment blesse plus sûrement qu'une insulte,\nqu'une question rhétorique, jusques à quand l'ignorerons-nous, ouvre plus de portes qu'elle n'en ferme.\nSans doute certains jugeront-ils l'exercice artificiel, ampoulé, daté.\nPeut-être ont-ils oublié que la République elle-même est née à la tribune,\nque Danton réclamait de l'audace, encore de l'audace, toujours de l'audace,\net que nos slogans les plus durables battent au rythme ternaire.\nL'éloquence n'est pas un ornement : c'est une école de la pensée.\nQui structure sa phrase structure son esprit ; qui tient la tribune tient déjà un peu le monde.\nAussi convient-il de s'en réjouir : la parole publique, en France, a encore de beaux jours devant elle.",
+              "english": "We thought eloquence was dead, smothered under talking points and thirty-second formats.\nYet here it is returning where least expected: public-speaking competitions are playing to full houses.\nAt the Sorbonne as in the suburbs, students battle with anaphoras and perorations.\nTheir models? Badinter and his closing argument against the death penalty, Malraux apostrophizing Jean Moulin,\nand, closer to us, a certain lawyer whose punchline, one finals night, brought a whole room to its feet.\nMake no mistake: these young people are not reciting, they are making it their own.\nThey know that a well-run gradation is worth more than a long report,\nthat a litotes slipped in at the right moment wounds more surely than an insult,\nthat a rhetorical question — how long will we ignore it? — opens more doors than it closes.\nDoubtless some will judge the exercise artificial, turgid, dated.\nPerhaps they have forgotten that the Republic itself was born at the rostrum,\nthat Danton demanded audacity, more audacity, always audacity,\nand that our most durable slogans beat in ternary rhythm.\nEloquence is not an ornament: it is a school of thought.\nWhoever structures their sentence structures their mind; whoever holds the rostrum already holds a bit of the world.\nSo we should rejoice: public speech, in France, still has bright days ahead.",
+              "questions": [
+                {
+                  "id": "c2_u01_l01_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "What does the columnist claim about today's students of oratory?",
+                  "options": ["They appropriate the tradition rather than merely reciting it", "They merely recite the classics", "They reject the classical models entirely", "They prefer written reports to speeches"],
+                  "answer": "They appropriate the tradition rather than merely reciting it"
+                },
+                {
+                  "id": "c2_u01_l01_rd02",
+                  "type": "multipleChoice",
+                  "prompt": "« Sans doute certains jugeront-ils l'exercice artificiel » — what does this construction signal?",
+                  "options": ["A formal concession the author is about to rebut", "A firm agreement with the critics", "An informal aside", "A direct question to the reader"],
+                  "answer": "A formal concession the author is about to rebut"
+                },
+                {
+                  "id": "c2_u01_l01_rd03",
+                  "type": "trueFalse",
+                  "prompt": "The author considers eloquence a mere decorative ornament.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "c2_u01_l01_wr01",
+              "type": "translate",
+              "prompt": "Translate into French (formal inversion).",
+              "english": "Perhaps we should act without delay.",
+              "answer": "Peut-être faut-il agir sans tarder.",
+              "acceptedAnswers": ["peut-etre faut-il agir sans tarder", "peut etre faut il agir sans tarder", "peut-être devons-nous agir sans tarder"]
+            },
+            {
+              "id": "c2_u01_l01_wr02",
+              "type": "arrangeWords",
+              "prompt": "Rebuild Danton's famous line.",
+              "words": ["toujours", "Il", "de l'audace,", "faut", "de l'audace", "encore", "de l'audace,"],
+              "answer": "Il faut de l'audace, encore de l'audace, toujours de l'audace",
+              "english": "We need audacity, more audacity, always audacity"
+            },
+            {
+              "id": "c2_u01_l01_wr03",
+              "type": "translate",
+              "prompt": "Translate using a litote.",
+              "english": "Your speech was not uninteresting.",
+              "answer": "Votre discours n'était pas inintéressant.",
+              "acceptedAnswers": ["votre discours n'etait pas ininteressant", "votre discours n etait pas ininteressant"]
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "c2_u01_l01_pr01",
+              "type": "multipleChoice",
+              "prompt": "« Moi président, je… » repeated fifteen times is a textbook case of…",
+              "options": ["anaphore", "litote", "euphémisme", "allitération"],
+              "answer": "anaphore"
+            },
+            {
+              "id": "c2_u01_l01_pr02",
+              "type": "fillBlank",
+              "prompt": "L'introduction d'un discours s'appelle l'___ ; sa conclusion, la péroraison.",
+              "answer": "exorde"
+            },
+            {
+              "id": "c2_u01_l01_pr03",
+              "type": "match",
+              "pairs": [
+                { "french": "la litote", "english": "saying less to mean more" },
+                { "french": "l'hyperbole", "english": "deliberate exaggeration" },
+                { "french": "l'euphémisme", "english": "softening a harsh reality" },
+                { "french": "la gradation", "english": "terms of rising intensity" }
+              ]
+            },
+            {
+              "id": "c2_u01_l01_pr04",
+              "type": "multipleChoice",
+              "prompt": "In « Aussi convient-il d'agir », what does « aussi » mean?",
+              "options": ["Therefore", "Also", "As much", "Even"],
+              "answer": "Therefore"
+            },
+            {
+              "id": "c2_u01_l01_pr05",
+              "type": "fillBlank",
+              "prompt": "En français, « emphase » est un faux ami : il désigne un ton pompeux, non l'___ (stress) au sens anglais.",
+              "answer": "insistance"
+            },
+            {
+              "id": "c2_u01_l01_pr06",
+              "type": "trueFalse",
+              "prompt": "« Va, je ne te hais point » is a litote meaning « je t'aime ».",
+              "options": ["True", "False"],
+              "answer": "True"
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "c2_u01_l01_qz01",
+              "type": "multipleChoice",
+              "prompt": "Which sequence is a gradation?",
+              "options": ["outragé, brisé, martyrisé", "bonjour, bonsoir, salut", "un, deux, trois", "ici, là, ailleurs"],
+              "answer": "outragé, brisé, martyrisé"
+            },
+            {
+              "id": "c2_u01_l01_qz02",
+              "type": "multipleChoice",
+              "prompt": "« La péroraison » désigne…",
+              "options": ["la conclusion d'un discours", "l'introduction d'un discours", "une figure de répétition", "un discours improvisé"],
+              "answer": "la conclusion d'un discours"
+            },
+            {
+              "id": "c2_u01_l01_qz03",
+              "type": "fillBlank",
+              "prompt": "Répéter les mêmes mots en tête de phrases successives, c'est une ___.",
+              "answer": "anaphore"
+            },
+            {
+              "id": "c2_u01_l01_qz04",
+              "type": "multipleChoice",
+              "prompt": "Which adjective criticizes an overblown style?",
+              "options": ["ampoulé", "percutant", "solennel", "captivant"],
+              "answer": "ampoulé"
+            },
+            {
+              "id": "c2_u01_l01_qz05",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "His speech galvanized the audience.",
+              "answer": "Son discours a galvanisé l'auditoire.",
+              "acceptedAnswers": ["son discours a galvanise l'auditoire", "son discours a galvanise l auditoire", "son discours a galvanisé le public"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c2_u01_l02",
+      "level": "C2",
+      "unit": 1,
+      "title": "Convaincre et persuader",
+      "description": "Ethos, logos, pathos in French discourse — and the fallacies and concessions of high-level argumentation.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Convaincre n'est pas persuader",
+              "body": "French rhetoric keeps Aristotle's distinction alive in everyday vocabulary: « convaincre » targets reason with proofs (logos), while « persuader » wins over feelings and will (pathos), backed by the speaker's credibility (éthos). Every lycéen learns this triad for the bac; educated conversation assumes it.",
+              "examples": [
+                { "french": "Ses chiffres m'ont convaincu, mais son ton ne m'a pas persuadé.", "english": "His figures convinced me, but his tone didn't persuade me." },
+                { "french": "L'éthos de l'orateur repose sur sa réputation d'intégrité.", "english": "The speaker's ethos rests on his reputation for integrity." },
+                { "french": "Ce discours joue sur le pathos : orphelins, larmes, violons.", "english": "This speech plays on pathos: orphans, tears, violins." },
+                { "french": "Le logos sans éthos ne suffit pas : encore faut-il qu'on vous croie.", "english": "Logos without ethos is not enough: people still have to believe you." },
+                { "french": "Elle a fini par emporter l'adhésion de toute l'assemblée.", "english": "She ended up winning over the whole assembly." }
+              ],
+              "tip": "In French academic writing, openly flagging your own move — « je concède que… mais » — is a strength, not a weakness."
+            },
+            {
+              "heading": "La concession stratégique",
+              "body": "The most French of argumentative moves is the concession: grant your opponent a point, then pivot and strike. « Certes… mais », « il est vrai que… néanmoins », « j'entends bien, toutefois » are the hinges of every editorial and every dissertation.",
+              "examples": [
+                { "french": "Certes, la mesure coûte cher ; mais que coûte l'inaction ?", "english": "Admittedly, the measure is expensive; but what does inaction cost?" },
+                { "french": "Il est vrai que le projet a des défauts ; néanmoins, il a le mérite d'exister.", "english": "It is true the project has flaws; nevertheless, it has the merit of existing." },
+                { "french": "J'entends bien vos objections ; toutefois, elles ne changent rien au fond.", "english": "I hear your objections; however, they change nothing essential." },
+                { "french": "Si convaincant soit-il, cet argument repose sur une prémisse fausse.", "english": "However convincing it may be, this argument rests on a false premise." },
+                { "french": "Quelque habiles que soient vos sophismes, ils ne tromperont personne.", "english": "However skillful your sophisms may be, they will fool no one." }
+              ]
+            },
+            {
+              "heading": "Reconnaître les sophismes",
+              "body": "High-level debate in French names its fallacies: « l'homme de paille » (misrepresenting the opponent), « la pétition de principe » (assuming what you must prove), « l'argument d'autorité », « la pente glissante ». Calling out « C'est un homme de paille ! » is standard debating vocabulary.",
+              "examples": [
+                { "french": "Vous caricaturez ma position : c'est un homme de paille.", "english": "You're caricaturing my position: that's a straw man." },
+                { "french": "Dire « c'est vrai parce que c'est évident » relève de la pétition de principe.", "english": "Saying \"it's true because it's obvious\" is begging the question." },
+                { "french": "Un raisonnement fallacieux peut être parfaitement séduisant.", "english": "A fallacious argument can be perfectly seductive." },
+                { "french": "Il a réfuté point par point un argumentaire pourtant bien étayé.", "english": "He refuted point by point a case that was nonetheless well supported." },
+                { "french": "Attaquer la personne plutôt que l'idée, c'est l'argument ad hominem.", "english": "Attacking the person rather than the idea is the ad hominem argument." }
+              ],
+              "tip": "« Être de mauvaise foi » — arguing while knowing you're wrong — is a cardinal sin in French debate, and a very common accusation."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "convaincre", "french": "convaincre", "english": "to convince (by reason)", "partOfSpeech": "verb", "pronunciation": "kohn-VANKR", "example": "Ses données ont fini par convaincre les plus sceptiques.", "exampleEnglish": "His data ended up convincing the most skeptical.", "level": "C2", "category": "argumentation" },
+            { "id": "persuader", "french": "persuader", "english": "to persuade (by emotion, will)", "partOfSpeech": "verb", "pronunciation": "pehr-swah-DAY", "example": "Elle a su persuader la salle sans avancer un seul chiffre.", "exampleEnglish": "She managed to persuade the room without citing a single figure.", "level": "C2", "category": "argumentation" },
+            { "id": "ethos", "french": "l'éthos", "english": "ethos (speaker's credibility)", "partOfSpeech": "noun", "gender": "m", "plural": "éthos", "pronunciation": "ay-TOSS", "example": "Son éthos de médecin donne du poids à chacun de ses mots.", "exampleEnglish": "Her ethos as a doctor gives weight to her every word.", "level": "C2", "category": "argumentation" },
+            { "id": "logos", "french": "le logos", "english": "logos (appeal to reason)", "partOfSpeech": "noun", "gender": "m", "plural": "logos", "pronunciation": "loh-GOSS", "example": "Le logos structure la démonstration ; le reste emporte le cœur.", "exampleEnglish": "Logos structures the demonstration; the rest wins the heart.", "level": "C2", "category": "argumentation" },
+            { "id": "pathos", "french": "le pathos", "english": "pathos (appeal to emotion)", "partOfSpeech": "noun", "gender": "m", "plural": "pathos", "pronunciation": "pah-TOSS", "example": "« Trop de pathos ! », a soupiré le jury devant tant de trémolos.", "exampleEnglish": "\"Too much pathos!\" sighed the jury at all those tremolos.", "level": "C2", "category": "argumentation" },
+            { "id": "these", "french": "la thèse", "english": "thesis, claim defended", "partOfSpeech": "noun", "gender": "f", "plural": "thèses", "pronunciation": "tez", "example": "Sa thèse est audacieuse, mais solidement étayée.", "exampleEnglish": "His thesis is bold, but solidly supported.", "level": "C2", "category": "argumentation" },
+            { "id": "antithese", "french": "l'antithèse", "english": "antithesis, opposing view", "partOfSpeech": "noun", "gender": "f", "plural": "antithèses", "pronunciation": "ahn-tee-TEZ", "example": "Le plan dialectique enchaîne thèse, antithèse et synthèse.", "exampleEnglish": "The dialectical outline links thesis, antithesis and synthesis.", "level": "C2", "category": "argumentation" },
+            { "id": "argumentaire", "french": "l'argumentaire", "english": "set of arguments, case", "partOfSpeech": "noun", "gender": "m", "plural": "argumentaires", "pronunciation": "ar-guu-mahn-TEHR", "example": "L'équipe a peaufiné son argumentaire avant la négociation.", "exampleEnglish": "The team polished its case before the negotiation.", "level": "C2", "category": "argumentation" },
+            { "id": "argument-massue", "french": "l'argument massue", "english": "knock-out argument, clincher", "partOfSpeech": "expression", "pronunciation": "ar-guu-MAHN mah-SUU", "example": "Elle a gardé son argument massue pour la fin du débat.", "exampleEnglish": "She saved her knock-out argument for the end of the debate.", "level": "C2", "category": "argumentation" },
+            { "id": "etayer", "french": "étayer", "english": "to support, to back up (a claim)", "partOfSpeech": "verb", "pronunciation": "ay-teh-YAY", "example": "Chaque affirmation doit être étayée par des sources fiables.", "exampleEnglish": "Every claim must be backed up by reliable sources.", "level": "C2", "category": "argumentation" },
+            { "id": "refuter", "french": "réfuter", "english": "to refute", "partOfSpeech": "verb", "pronunciation": "ray-fuu-TAY", "example": "Il a réfuté l'objection d'un seul contre-exemple.", "exampleEnglish": "He refuted the objection with a single counter-example.", "level": "C2", "category": "argumentation" },
+            { "id": "refutation", "french": "la réfutation", "english": "refutation, rebuttal", "partOfSpeech": "noun", "gender": "f", "plural": "réfutations", "pronunciation": "ray-fuu-tah-SYOHN", "example": "Sa réfutation méthodique a démoli la thèse adverse.", "exampleEnglish": "His methodical rebuttal demolished the opposing thesis.", "level": "C2", "category": "argumentation" },
+            { "id": "conceder", "french": "concéder", "english": "to concede (a point)", "partOfSpeech": "verb", "pronunciation": "kohn-say-DAY", "example": "Je concède volontiers ce point, qui ne change rien à ma thèse.", "exampleEnglish": "I gladly concede that point, which changes nothing in my thesis.", "level": "C2", "category": "argumentation" },
+            { "id": "concession-arg", "french": "la concession", "english": "concession (rhetorical move)", "partOfSpeech": "noun", "gender": "f", "plural": "concessions", "pronunciation": "kohn-seh-SYOHN", "example": "Une concession bien placée désarme l'adversaire.", "exampleEnglish": "A well-placed concession disarms the opponent.", "level": "C2", "category": "argumentation" },
+            { "id": "nuancer", "french": "nuancer", "english": "to qualify, to add nuance to", "partOfSpeech": "verb", "pronunciation": "nuu-ahn-SAY", "example": "Permettez-moi de nuancer : tout dépend du contexte.", "exampleEnglish": "Allow me to qualify that: it all depends on the context.", "level": "C2", "category": "argumentation" },
+            { "id": "inflechir", "french": "infléchir", "english": "to bend, to shift (a position)", "partOfSpeech": "verb", "pronunciation": "an-flay-SHEER", "example": "La pression de l'opinion a infléchi la position du gouvernement.", "exampleEnglish": "Public pressure shifted the government's position.", "level": "C2", "category": "argumentation" },
+            { "id": "ebranler", "french": "ébranler", "english": "to shake (a conviction)", "partOfSpeech": "verb", "pronunciation": "ay-brahn-LAY", "example": "Ce témoignage a ébranlé les convictions du jury.", "exampleEnglish": "That testimony shook the jury's convictions.", "level": "C2", "category": "argumentation" },
+            { "id": "desamorcer", "french": "désamorcer", "english": "to defuse (an objection, a crisis)", "partOfSpeech": "verb", "pronunciation": "day-zah-mor-SAY", "example": "Elle a désamorcé la critique en la formulant elle-même.", "exampleEnglish": "She defused the criticism by voicing it herself first.", "level": "C2", "category": "argumentation" },
+            { "id": "objection", "french": "l'objection", "english": "objection", "partOfSpeech": "noun", "gender": "f", "plural": "objections", "pronunciation": "ob-zhek-SYOHN", "example": "Votre objection est recevable, mais elle porte à faux.", "exampleEnglish": "Your objection is admissible, but it misses the mark.", "level": "C2", "category": "argumentation" },
+            { "id": "sophisme", "french": "le sophisme", "english": "sophism, deliberate fallacy", "partOfSpeech": "noun", "gender": "m", "plural": "sophismes", "pronunciation": "soh-FEESM", "example": "Ce raisonnement brillant n'est qu'un sophisme bien déguisé.", "exampleEnglish": "That brilliant reasoning is only a well-disguised sophism.", "level": "C2", "category": "argumentation" },
+            { "id": "paralogisme", "french": "le paralogisme", "english": "paralogism, unintentional fallacy", "partOfSpeech": "noun", "gender": "m", "plural": "paralogismes", "pronunciation": "pah-rah-loh-ZHEESM", "example": "Le paralogisme est involontaire, contrairement au sophisme.", "exampleEnglish": "A paralogism is unintentional, unlike a sophism.", "level": "C2", "category": "argumentation" },
+            { "id": "homme-de-paille", "french": "l'homme de paille", "english": "straw man (fallacy)", "partOfSpeech": "expression", "pronunciation": "om duh PIE", "example": "Réfuter une position que je n'ai jamais défendue, c'est un homme de paille.", "exampleEnglish": "Refuting a position I never defended is a straw man.", "level": "C2", "category": "argumentation" },
+            { "id": "petition-de-principe", "french": "la pétition de principe", "english": "begging the question", "partOfSpeech": "expression", "pronunciation": "pay-tee-SYOHN duh pran-SEEP", "example": "Supposer vrai ce qu'il faut démontrer : pétition de principe.", "exampleEnglish": "Assuming true what must be proven: begging the question.", "level": "C2", "category": "argumentation" },
+            { "id": "fallacieux", "french": "fallacieux", "english": "fallacious, misleading", "partOfSpeech": "adjective", "pronunciation": "fah-lah-SYUH", "example": "L'argument est fallacieux, mais diablement efficace.", "exampleEnglish": "The argument is fallacious, but devilishly effective.", "level": "C2", "category": "argumentation" },
+            { "id": "specieux", "french": "spécieux", "english": "specious", "partOfSpeech": "adjective", "pronunciation": "spay-SYUH", "example": "Sous des dehors rigoureux, le raisonnement est spécieux.", "exampleEnglish": "Beneath a rigorous appearance, the reasoning is specious.", "level": "C2", "category": "argumentation" },
+            { "id": "captieux", "french": "captieux", "english": "captious, designed to deceive", "partOfSpeech": "adjective", "pronunciation": "kap-SYUH", "example": "L'avocat général a dénoncé une question captieuse.", "exampleEnglish": "The prosecutor denounced a captious question.", "level": "C2", "category": "argumentation" },
+            { "id": "mauvaise-foi", "french": "la mauvaise foi", "english": "bad faith, arguing dishonestly", "partOfSpeech": "expression", "pronunciation": "moh-VEZZ fwah", "example": "Discuter avec lui est impossible : il est d'une mauvaise foi totale.", "exampleEnglish": "Arguing with him is impossible: he is utterly in bad faith.", "level": "C2", "category": "argumentation" },
+            { "id": "adhesion", "french": "l'adhésion", "english": "assent, buy-in", "partOfSpeech": "noun", "gender": "f", "plural": "adhésions", "pronunciation": "ah-day-ZYOHN", "example": "Son plaidoyer a emporté l'adhésion des indécis.", "exampleEnglish": "His plea won the assent of the undecided.", "level": "C2", "category": "argumentation" },
+            { "id": "assentiment", "french": "l'assentiment", "english": "assent, approval", "partOfSpeech": "noun", "gender": "m", "plural": "assentiments", "pronunciation": "ah-sahn-tee-MAHN", "example": "Un murmure d'assentiment a parcouru l'assemblée.", "exampleEnglish": "A murmur of assent ran through the assembly.", "level": "C2", "category": "argumentation" },
+            { "id": "credibilite", "french": "la crédibilité", "english": "credibility", "partOfSpeech": "noun", "gender": "f", "plural": "crédibilités", "pronunciation": "kray-dee-bee-lee-TAY", "example": "Une seule exagération peut ruiner la crédibilité d'un orateur.", "exampleEnglish": "A single exaggeration can ruin a speaker's credibility.", "level": "C2", "category": "argumentation" },
+            { "id": "prejuge", "french": "le préjugé", "english": "prejudice, preconception", "partOfSpeech": "noun", "gender": "m", "plural": "préjugés", "pronunciation": "pray-zhuu-ZHAY", "example": "Un bon argumentaire commence par démonter les préjugés.", "exampleEnglish": "A good case starts by dismantling preconceptions.", "level": "C2", "category": "argumentation" },
+            { "id": "interlocuteur", "french": "l'interlocuteur", "english": "interlocutor, the person you're talking to", "partOfSpeech": "noun", "gender": "m", "plural": "interlocuteurs", "pronunciation": "an-tehr-loh-kuu-TUHR", "example": "Adaptez votre registre à votre interlocuteur.", "exampleEnglish": "Adapt your register to your interlocutor.", "level": "C2", "category": "argumentation" },
+            { "id": "registre", "french": "le registre", "english": "register (of language)", "partOfSpeech": "noun", "gender": "m", "plural": "registres", "pronunciation": "ruh-ZHEESTR", "example": "Le registre soutenu s'impose à l'écrit universitaire.", "exampleEnglish": "The formal register is required in academic writing.", "level": "C2", "category": "argumentation" },
+            { "id": "demonter", "french": "démonter", "english": "to take apart (an argument); to fluster", "partOfSpeech": "verb", "pronunciation": "day-mohn-TAY", "example": "Elle a démonté son argumentaire pièce par pièce, sans se démonter.", "exampleEnglish": "She took his case apart piece by piece, without getting flustered.", "level": "C2", "category": "argumentation" },
+            { "id": "faire-mouche", "french": "faire mouche", "english": "to hit home, to hit the bullseye", "partOfSpeech": "expression", "pronunciation": "fehr MOOSH", "example": "Sa dernière réplique a fait mouche : l'adversaire est resté coi.", "exampleEnglish": "His last retort hit home: his opponent was left speechless.", "level": "C2", "category": "argumentation" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Le ne explétif",
+              "body": "In careful French, a « ne » with no negative meaning appears after verbs of fearing, after « avant que », « à moins que », « de peur que », and after inequality comparisons. It negates nothing — « Je crains qu'il ne vienne » means you fear he WILL come. Mastering it (and not over-using it) is a C2 signature.",
+              "examples": [
+                { "french": "Je crains que la salle ne se lasse.", "english": "I fear the audience may grow weary." },
+                { "french": "Concluez avant que l'attention ne retombe.", "english": "Conclude before attention drops off." },
+                { "french": "À moins que je ne me trompe, ce chiffre est faux.", "english": "Unless I'm mistaken, that figure is wrong." },
+                { "french": "Il est plus habile qu'on ne le croit.", "english": "He is more skillful than people think.", "note": "ne explétif after a comparison of inequality" },
+                { "french": "Elle a parlé de peur que le silence ne s'installe.", "english": "She spoke for fear that silence would set in." }
+              ],
+              "tip": "The ne explétif is optional and formal: dropping it is fine in speech, but recognizing it is essential — it does NOT mean « not »."
+            },
+            {
+              "heading": "Concessions figées : si… que, quelque… que",
+              "body": "Formal concession uses subjunctive structures: « si + adjective + que + subjunctive » or inverted « si convaincant soit-il ». « Quelque… que » (invariable before an adjective) and « quoi que » (whatever) also take the subjunctive.",
+              "examples": [
+                { "french": "Si brillant que soit ce raisonnement, il reste fragile.", "english": "However brilliant this reasoning may be, it remains fragile." },
+                { "french": "Si habile soit-elle, elle n'a pas convaincu.", "english": "However skillful she may be, she did not convince." },
+                { "french": "Quelque séduisants que soient ces arguments, méfions-nous.", "english": "However seductive these arguments may be, let us beware." },
+                { "french": "Quoi qu'il en soit, la question reste ouverte.", "english": "Be that as it may, the question remains open." }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "c2_u01_l02_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. Does the speaker fear the audience will leave, or will not leave?",
+              "french": "Je crains que l'auditoire ne quitte la salle.",
+              "options": ["Fears they WILL leave (ne explétif)", "Fears they will NOT leave", "States they already left", "Hopes they will stay longer"],
+              "answer": "Fears they WILL leave (ne explétif)"
+            },
+            {
+              "id": "c2_u01_l02_li02",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Certes, la mesure coûte cher, mais elle est nécessaire.",
+              "answer": "Certes, la mesure coûte cher, mais elle est nécessaire.",
+              "acceptedAnswers": ["certes la mesure coute cher mais elle est necessaire"]
+            },
+            {
+              "id": "c2_u01_l02_li03",
+              "type": "listenChoose",
+              "prompt": "Listen. Which appeal is this speaker mainly using?",
+              "french": "Pensez aux enfants qui, ce soir encore, dormiront dehors dans le froid.",
+              "options": ["Pathos — appeal to emotion", "Logos — appeal to statistics", "Éthos — appeal to authority", "A straw-man attack"],
+              "answer": "Pathos — appeal to emotion"
+            },
+            {
+              "id": "c2_u01_l02_li04",
+              "type": "dictation",
+              "prompt": "Dictation: write exactly what you hear.",
+              "french": "Quoi qu'il en soit, votre objection ne tient pas.",
+              "answer": "Quoi qu'il en soit, votre objection ne tient pas.",
+              "acceptedAnswers": ["quoi qu'il en soit votre objection ne tient pas", "quoi qu il en soit votre objection ne tient pas"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "c2_u01_l02_sp01",
+              "type": "speak",
+              "prompt": "Deliver this concession-and-pivot with a clear contrast.",
+              "french": "Certes, la réforme est imparfaite ; mais l'immobilisme serait pire.",
+              "english": "Admittedly, the reform is imperfect; but standing still would be worse.",
+              "tip": "Drop your pitch on « imparfaite », pause at the semicolon, then attack « mais » with new energy."
+            },
+            {
+              "id": "c2_u01_l02_sp02",
+              "type": "speak",
+              "prompt": "Pronounce this formal concession with the subjunctive.",
+              "french": "Si convaincant soit-il, cet argument ne prouve rien.",
+              "english": "However convincing it may be, this argument proves nothing.",
+              "tip": "Link « soit-il » as swah-TEEL; keep the tone coolly analytical."
+            },
+            {
+              "id": "c2_u01_l02_sp03",
+              "type": "speak",
+              "prompt": "Accuse your opponent of a straw man, firmly but courteously.",
+              "french": "Vous réfutez une thèse que je n'ai jamais défendue.",
+              "english": "You are refuting a thesis I never defended.",
+              "tip": "Stress « jamais » : zhah-MEH, with a slight pause before it for effect."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Éditorial : l'art perdu de la concession",
+              "french": "Nos débats publics ressemblent de plus en plus à des dialogues de sourds.\nChacun campe sur ses positions, martèle ses éléments de langage, et tient toute nuance pour une capitulation.\nOr la rhétorique classique enseignait exactement l'inverse.\nElle faisait de la concession le geste inaugural de toute discussion digne de ce nom :\n« certes, mais » ; « il est vrai, néanmoins » ; « j'entends bien, toutefois ».\nConcéder, ce n'est pas plier : c'est prouver qu'on a écouté, et gagner le droit d'être écouté à son tour.\nL'éthos s'y construit mieux que dans mille proclamations d'intégrité.\nRegardez nos polémistes de plateau : ils confondent conviction et surdité.\nAu premier désaccord, l'homme de paille surgit : on prête à l'adversaire une thèse absurde qu'il n'a jamais soutenue,\npuis on la réfute triomphalement, sous les applaudissements.\nLe procédé est fallacieux, chacun le sait ; il prospère pourtant, car il flatte le camp qu'on sert.\nJe crains, hélas, que ce théâtre ne finisse par lasser les citoyens de bonne foi.\nSi spectaculaires que soient ces joutes, elles ne persuadent personne : elles confortent.\nRéhabiliter la concession, ce serait réapprendre à convaincre plutôt qu'à vaincre.\nCar on ne débat pas pour terrasser un ennemi, mais pour éclairer une question.\nQuoi qu'il en soit, une démocratie qui ne sait plus concéder ne sait bientôt plus délibérer.",
+              "english": "Our public debates increasingly resemble dialogues of the deaf.\nEveryone digs into their positions, hammers their talking points, and treats any nuance as capitulation.\nYet classical rhetoric taught exactly the opposite.\nIt made concession the opening gesture of any discussion worthy of the name:\n\"admittedly, but\"; \"it is true, nevertheless\"; \"I hear you, however\".\nTo concede is not to bend: it is to prove you have listened, and to earn the right to be listened to in turn.\nEthos is built better there than in a thousand proclamations of integrity.\nLook at our TV polemicists: they confuse conviction with deafness.\nAt the first disagreement, the straw man appears: the opponent is credited with an absurd thesis he never held,\nwhich is then triumphantly refuted, to applause.\nThe device is fallacious, as everyone knows; yet it thrives, because it flatters one's own side.\nI fear, alas, that this theater may end up wearying citizens of good faith.\nHowever spectacular these jousts may be, they persuade no one: they merely reassure.\nRehabilitating concession would mean relearning to convince rather than to conquer.\nFor we do not debate to crush an enemy, but to shed light on a question.\nBe that as it may, a democracy that can no longer concede will soon no longer be able to deliberate.",
+              "questions": [
+                {
+                  "id": "c2_u01_l02_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "According to the editorial, what does a well-made concession prove?",
+                  "options": ["That you have listened, earning the right to be heard", "That you have surrendered the debate", "That your opponent argued in bad faith", "That statistics matter more than emotion"],
+                  "answer": "That you have listened, earning the right to be heard"
+                },
+                {
+                  "id": "c2_u01_l02_rd02",
+                  "type": "multipleChoice",
+                  "prompt": "In « Je crains que ce théâtre ne finisse par lasser », the « ne » is…",
+                  "options": ["expletive — the author fears it WILL weary citizens", "negative — the theater will not weary anyone", "a typographical error", "part of « ne… que » meaning « only »"],
+                  "answer": "expletive — the author fears it WILL weary citizens"
+                },
+                {
+                  "id": "c2_u01_l02_rd03",
+                  "type": "trueFalse",
+                  "prompt": "The author believes televised jousts genuinely persuade undecided viewers.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "c2_u01_l02_wr01",
+              "type": "translate",
+              "prompt": "Translate with the ne explétif.",
+              "english": "I fear that he may be right.",
+              "answer": "Je crains qu'il n'ait raison.",
+              "acceptedAnswers": ["je crains qu'il n'ait raison", "je crains qu il n ait raison", "je crains qu'il ait raison"]
+            },
+            {
+              "id": "c2_u01_l02_wr02",
+              "type": "arrangeWords",
+              "prompt": "Build a formal concession.",
+              "words": ["soit", "cet argument,", "ne", "Si", "il", "convaincant", "que", "prouve rien"],
+              "answer": "Si convaincant que soit cet argument, il ne prouve rien",
+              "english": "However convincing this argument may be, it proves nothing"
+            },
+            {
+              "id": "c2_u01_l02_wr03",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "You are caricaturing my position: that's a straw man.",
+              "answer": "Vous caricaturez ma position : c'est un homme de paille.",
+              "acceptedAnswers": ["vous caricaturez ma position c'est un homme de paille", "vous caricaturez ma position c est un homme de paille"]
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "c2_u01_l02_pr01",
+              "type": "multipleChoice",
+              "prompt": "« Convaincre » s'adresse d'abord à…",
+              "options": ["la raison", "l'émotion", "la mémoire", "l'imagination"],
+              "answer": "la raison"
+            },
+            {
+              "id": "c2_u01_l02_pr02",
+              "type": "match",
+              "pairs": [
+                { "french": "l'éthos", "english": "the speaker's credibility" },
+                { "french": "le logos", "english": "the appeal to reason" },
+                { "french": "le pathos", "english": "the appeal to emotion" },
+                { "french": "le sophisme", "english": "a deliberate fallacy" }
+              ]
+            },
+            {
+              "id": "c2_u01_l02_pr03",
+              "type": "fillBlank",
+              "prompt": "Supposer démontré ce qu'on doit prouver s'appelle la pétition de ___.",
+              "answer": "principe"
+            },
+            {
+              "id": "c2_u01_l02_pr04",
+              "type": "multipleChoice",
+              "prompt": "« Il est plus rusé qu'on ne le pense. » The « ne » here…",
+              "options": ["is expletive and adds no negation", "makes the sentence negative", "means « only »", "is a mistake"],
+              "answer": "is expletive and adds no negation"
+            },
+            {
+              "id": "c2_u01_l02_pr05",
+              "type": "fillBlank",
+              "prompt": "Discuter avec quelqu'un qui sait qu'il a tort mais refuse de l'admettre, c'est affronter sa mauvaise ___.",
+              "answer": "foi"
+            },
+            {
+              "id": "c2_u01_l02_pr06",
+              "type": "trueFalse",
+              "prompt": "« Quelque habiles que soient vos arguments » requires the subjunctive.",
+              "options": ["True", "False"],
+              "answer": "True"
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "c2_u01_l02_qz01",
+              "type": "multipleChoice",
+              "prompt": "Which connector opens a classic French concession?",
+              "options": ["Certes", "Donc", "Ainsi", "Bref"],
+              "answer": "Certes"
+            },
+            {
+              "id": "c2_u01_l02_qz02",
+              "type": "multipleChoice",
+              "prompt": "« Désamorcer une objection », c'est…",
+              "options": ["la neutraliser avant qu'elle ne soit formulée", "la répéter plus fort", "l'ignorer poliment", "la noter par écrit"],
+              "answer": "la neutraliser avant qu'elle ne soit formulée"
+            },
+            {
+              "id": "c2_u01_l02_qz03",
+              "type": "fillBlank",
+              "prompt": "Attribuer à l'adversaire une thèse absurde pour mieux la réfuter, c'est l'homme de ___.",
+              "answer": "paille"
+            },
+            {
+              "id": "c2_u01_l02_qz04",
+              "type": "multipleChoice",
+              "prompt": "Which adjective describes reasoning that looks sound but is deceptive?",
+              "options": ["spécieux", "étayé", "percutant", "recevable"],
+              "answer": "spécieux"
+            },
+            {
+              "id": "c2_u01_l02_qz05",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "Her plea won over the whole assembly.",
+              "answer": "Son plaidoyer a emporté l'adhésion de toute l'assemblée.",
+              "acceptedAnswers": ["son plaidoyer a emporte l'adhesion de toute l'assemblee", "son plaidoyer a emporte l adhesion de toute l assemblee"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c2_u01_l03",
+      "level": "C2",
+      "unit": 1,
+      "title": "L'ironie et l'humour",
+      "description": "Decode the French second degré: irony, wordplay, satire — and the moments when irony misfires.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Le second degré — the French default setting",
+              "body": "Le premier degré is literal meaning; le second degré is saying the opposite of what you mean and trusting your listener to invert it. French conversation runs on it constantly, and « il est très premier degré » is a mild insult meaning someone takes everything at face value. The rhetorical engine is l'antiphrase: praise that means blame, or blame that means affection.",
+              "examples": [
+                { "french": "Bravo, tu as encore réussi à te tromper de salle.", "english": "Well done, you managed to get the wrong room again.", "note": "antiphrase — praise meaning the opposite" },
+                { "french": "C'est malin ! Tu as effacé le fichier.", "english": "Very clever! You deleted the file.", "note": "« malin » here means the reverse" },
+                { "french": "Il ne comprend pas le second degré, il prend tout au pied de la lettre.", "english": "He doesn't get irony, he takes everything literally." },
+                { "french": "Charmante idée que de convoquer une réunion un vendredi à dix-huit heures.", "english": "What a charming idea, calling a meeting on a Friday at six p.m." },
+                { "french": "J'ironise, bien sûr — enfin, à moitié.", "english": "I'm being ironic, of course — well, half of it.", "note": "the classic French escape hatch" }
+              ],
+              "tip": "Written irony is unmarked in French: there is no irony punctuation. Intonation, an exaggerated adjective, or a wildly excessive courtesy formula carries the signal instead."
+            },
+            {
+              "heading": "Du sourire au sarcasme — a scale of intent",
+              "body": "French distinguishes carefully between shades of mockery. L'humour is generous and includes the speaker; l'ironie is intellectual and distanced; le sarcasme wounds on purpose; le persiflage mocks under a veneer of politeness. And l'autodérision — mocking oneself first — is the highest social currency: it disarms everything.",
+              "examples": [
+                { "french": "Son humour n'exclut jamais personne, il inclut même ses propres défauts.", "english": "His humour never excludes anyone; it even takes in his own flaws." },
+                { "french": "Elle manie l'ironie avec une élégance redoutable.", "english": "She wields irony with formidable elegance." },
+                { "french": "Ce n'était plus de l'ironie, c'était du sarcasme pur.", "english": "That was no longer irony, it was pure sarcasm." },
+                { "french": "Sous des dehors courtois, il ne cessait de persifler ses collègues.", "english": "Beneath a courteous exterior, he never stopped sneering at his colleagues." },
+                { "french": "Un peu d'autodérision et la salle est acquise.", "english": "A touch of self-deprecation and the room is won over." },
+                { "french": "Il a un humour grinçant, presque noir.", "english": "He has a grating, almost black humour." }
+              ],
+              "tip": "« Il est pince-sans-rire » describes deadpan delivery — the joke told with a perfectly straight face. It is admired in France precisely because it refuses to signal itself."
+            },
+            {
+              "heading": "Le calembour et le jeu de mots",
+              "body": "French humour is deeply verbal. Le calembour exploits homophony (« Il n'y a que Maille qui m'aille »), la contrepèterie swaps sounds between words to reveal a hidden — usually indecent — second sentence, and le mot d'esprit compresses a whole judgement into one witty line. Wordplay is the surest sign that a speaker owns the language rather than merely using it.",
+              "examples": [
+                { "french": "Un calembour bien placé vaut mieux qu'un long discours.", "english": "A well-placed pun is worth more than a long speech." },
+                { "french": "Ce jeu de mots repose entièrement sur une homophonie.", "english": "This wordplay rests entirely on a homophony." },
+                { "french": "La contrepèterie est un sport national qu'on n'explique jamais.", "english": "The spoonerism is a national sport that is never explained." },
+                { "french": "Il a lancé une boutade qui a détendu toute la salle.", "english": "He tossed off a quip that relaxed the whole room." },
+                { "french": "Une saillie de ce genre se retient plus longtemps qu'un argument.", "english": "A witticism of that kind is remembered longer than an argument." }
+              ],
+              "tip": "When a pun is untranslatable, French speakers apologise with « jeu de mots facile, je sors » — literally \"cheap pun, I'll show myself out\". Using it correctly marks you as a native-level ironist."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "ironie", "french": "l'ironie", "english": "irony", "partOfSpeech": "noun", "gender": "f", "plural": "ironies", "pronunciation": "ee-roh-NEE", "example": "L'ironie exige un auditoire capable de la percevoir.", "exampleEnglish": "Irony requires an audience capable of perceiving it.", "level": "C2", "category": "humour" },
+            { "id": "second-degre", "french": "le second degré", "english": "irony, non-literal meaning", "partOfSpeech": "noun", "gender": "m", "pronunciation": "suh-GOHN duh-GRAY", "example": "Tout son message était au second degré.", "exampleEnglish": "His whole message was ironic.", "level": "C2", "category": "humour" },
+            { "id": "premier-degre", "french": "le premier degré", "english": "literal meaning, face value", "partOfSpeech": "noun", "gender": "m", "pronunciation": "pruh-MYAY duh-GRAY", "example": "Il a tout pris au premier degré et s'est vexé.", "exampleEnglish": "He took everything literally and got offended.", "level": "C2", "category": "humour" },
+            { "id": "antiphrase", "french": "l'antiphrase", "english": "antiphrasis (saying the opposite)", "partOfSpeech": "noun", "gender": "f", "plural": "antiphrases", "pronunciation": "ahn-tee-FRAZ", "example": "« Quel temps magnifique ! » sous la pluie est une antiphrase.", "exampleEnglish": "\"What magnificent weather!\" in the rain is an antiphrasis.", "level": "C2", "category": "rhetoric" },
+            { "id": "ironiser", "french": "ironiser", "english": "to speak ironically, to be sarcastic about", "partOfSpeech": "verb", "pronunciation": "ee-roh-nee-ZAY", "example": "Il ironise volontiers sur sa propre carrière.", "exampleEnglish": "He readily jokes ironically about his own career.", "level": "C2", "category": "humour" },
+            { "id": "sarcasme", "french": "le sarcasme", "english": "sarcasm", "partOfSpeech": "noun", "gender": "m", "plural": "sarcasmes", "pronunciation": "sar-KAZM", "example": "Ses sarcasmes ont fini par lasser l'assemblée.", "exampleEnglish": "His sarcasm eventually wearied the assembly.", "level": "C2", "category": "humour" },
+            { "id": "sarcastique", "french": "sarcastique", "english": "sarcastic", "partOfSpeech": "adjective", "pronunciation": "sar-kas-TEEK", "example": "Un sourire sarcastique valait toutes les répliques.", "exampleEnglish": "A sarcastic smile was worth any retort.", "level": "C2", "category": "humour" },
+            { "id": "caustique", "french": "caustique", "english": "caustic, scathing", "partOfSpeech": "adjective", "pronunciation": "kohs-TEEK", "example": "Sa chronique caustique lui a valu des ennemis durables.", "exampleEnglish": "His caustic column earned him lasting enemies.", "level": "C2", "category": "humour" },
+            { "id": "grincant", "french": "grinçant", "english": "grating, darkly wry", "partOfSpeech": "adjective", "pronunciation": "gran-SAHN", "example": "Une comédie grinçante sur le monde du travail.", "exampleEnglish": "A darkly wry comedy about the world of work.", "level": "C2", "category": "humour" },
+            { "id": "persiflage", "french": "le persiflage", "english": "sneering under a polite surface", "partOfSpeech": "noun", "gender": "m", "pronunciation": "pehr-see-FLAZH", "example": "Le persiflage est plus blessant que l'insulte franche.", "exampleEnglish": "Sneering is more hurtful than an outright insult.", "level": "C2", "category": "humour" },
+            { "id": "raillerie", "french": "la raillerie", "english": "mockery, jeering", "partOfSpeech": "noun", "gender": "f", "plural": "railleries", "pronunciation": "rah-yuh-REE", "example": "Il encaissa les railleries sans se départir de son calme.", "exampleEnglish": "He took the mockery without losing his composure.", "level": "C2", "category": "humour" },
+            { "id": "pince-sans-rire", "french": "pince-sans-rire", "english": "deadpan", "partOfSpeech": "adjective", "pronunciation": "pans sahn REER", "example": "Son humour pince-sans-rire déroute les étrangers.", "exampleEnglish": "His deadpan humour disconcerts foreigners.", "level": "C2", "category": "humour" },
+            { "id": "autoderision", "french": "l'autodérision", "english": "self-deprecating humour", "partOfSpeech": "noun", "gender": "f", "pronunciation": "oh-toh-day-ree-ZYOHN", "example": "Elle désarme ses détracteurs par l'autodérision.", "exampleEnglish": "She disarms her detractors through self-deprecation.", "level": "C2", "category": "humour" },
+            { "id": "derision", "french": "la dérision", "english": "derision, ridicule", "partOfSpeech": "noun", "gender": "f", "pronunciation": "day-ree-ZYOHN", "example": "Tourner en dérision un adversaire est une arme à double tranchant.", "exampleEnglish": "Holding an opponent up to ridicule is a double-edged weapon.", "level": "C2", "category": "humour" },
+            { "id": "espiegle", "french": "espiègle", "english": "mischievous, impish", "partOfSpeech": "adjective", "pronunciation": "es-PYEH-gluh", "example": "Une remarque espiègle a suffi à détendre l'atmosphère.", "exampleEnglish": "One impish remark was enough to lighten the mood.", "level": "C2", "category": "humour" },
+            { "id": "calembour", "french": "le calembour", "english": "a pun", "partOfSpeech": "noun", "gender": "m", "plural": "calembours", "pronunciation": "kah-lahn-BOOR", "example": "Le titre de l'article repose sur un calembour intraduisible.", "exampleEnglish": "The article's headline rests on an untranslatable pun.", "level": "C2", "category": "wordplay" },
+            { "id": "jeu-de-mots", "french": "un jeu de mots", "english": "wordplay", "partOfSpeech": "noun", "gender": "m", "plural": "jeux de mots", "pronunciation": "zhuh duh MOH", "example": "Il glisse un jeu de mots dans chaque paragraphe.", "exampleEnglish": "He slips a piece of wordplay into every paragraph.", "level": "C2", "category": "wordplay" },
+            { "id": "contrepeterie", "french": "la contrepèterie", "english": "a spoonerism", "partOfSpeech": "noun", "gender": "f", "plural": "contrepèteries", "pronunciation": "kohn-truh-peh-tuh-REE", "example": "Une contrepèterie ne s'explique jamais, elle se devine.", "exampleEnglish": "A spoonerism is never explained, it is guessed.", "level": "C2", "category": "wordplay" },
+            { "id": "mot-desprit", "french": "un mot d'esprit", "english": "a witticism", "partOfSpeech": "noun", "gender": "m", "plural": "mots d'esprit", "pronunciation": "moh des-PREE", "example": "Un mot d'esprit bien senti clôt le débat.", "exampleEnglish": "A well-judged witticism closes the debate.", "level": "C2", "category": "wordplay" },
+            { "id": "boutade", "french": "une boutade", "english": "a quip, a flippant remark", "partOfSpeech": "noun", "gender": "f", "plural": "boutades", "pronunciation": "boo-TAD", "example": "Ce n'était qu'une boutade, ne la prenez pas au sérieux.", "exampleEnglish": "It was only a quip, do not take it seriously.", "level": "C2", "category": "wordplay" },
+            { "id": "saillie", "french": "une saillie", "english": "a sally, a flash of wit", "partOfSpeech": "noun", "gender": "f", "plural": "saillies", "pronunciation": "sah-YEE", "example": "Ses saillies faisaient la joie des dîners parisiens.", "exampleEnglish": "His sallies were the delight of Parisian dinners.", "level": "C2", "category": "wordplay" },
+            { "id": "vanne", "french": "une vanne", "english": "a dig, a wisecrack (colloquial)", "partOfSpeech": "noun", "gender": "f", "plural": "vannes", "pronunciation": "van", "example": "Ils se balancent des vannes depuis le lycée.", "exampleEnglish": "They have been trading wisecracks since secondary school.", "level": "C2", "category": "wordplay" },
+            { "id": "canular", "french": "un canular", "english": "a hoax, a prank", "partOfSpeech": "noun", "gender": "m", "plural": "canulars", "pronunciation": "kah-nu-LAR", "example": "L'article était un canular repris au premier degré par la presse.", "exampleEnglish": "The article was a hoax taken literally by the press.", "level": "C2", "category": "humour" },
+            { "id": "potache", "french": "potache", "english": "schoolboyish, sophomoric (humour)", "partOfSpeech": "adjective", "pronunciation": "poh-TASH", "example": "Un humour potache qui ne convainc que les initiés.", "exampleEnglish": "A schoolboyish humour that convinces only the initiated.", "level": "C2", "category": "humour" },
+            { "id": "pastiche", "french": "un pastiche", "english": "a pastiche, a stylistic imitation", "partOfSpeech": "noun", "gender": "m", "plural": "pastiches", "pronunciation": "pas-TEESH", "example": "Il a écrit un pastiche irrésistible du style administratif.", "exampleEnglish": "He wrote an irresistible pastiche of administrative style.", "level": "C2", "category": "satire" },
+            { "id": "parodie", "french": "une parodie", "english": "a parody", "partOfSpeech": "noun", "gender": "f", "plural": "parodies", "pronunciation": "pah-roh-DEE", "example": "La parodie amplifie les tics pour mieux les dénoncer.", "exampleEnglish": "Parody amplifies mannerisms the better to expose them.", "level": "C2", "category": "satire" },
+            { "id": "satire", "french": "la satire", "english": "satire", "partOfSpeech": "noun", "gender": "f", "plural": "satires", "pronunciation": "sah-TEER", "example": "La satire politique jouit en France d'une longue tradition.", "exampleEnglish": "Political satire enjoys a long tradition in France.", "level": "C2", "category": "satire" },
+            { "id": "satirique", "french": "satirique", "english": "satirical", "partOfSpeech": "adjective", "pronunciation": "sah-tee-REEK", "example": "Un hebdomadaire satirique paraît chaque mercredi.", "exampleEnglish": "A satirical weekly comes out every Wednesday.", "level": "C2", "category": "satire" },
+            { "id": "humour-noir", "french": "l'humour noir", "english": "black humour", "partOfSpeech": "noun", "gender": "m", "pronunciation": "u-MOOR NWAR", "example": "L'humour noir permet de dire l'indicible.", "exampleEnglish": "Black humour makes it possible to say the unsayable.", "level": "C2", "category": "humour" },
+            { "id": "sous-entendu", "french": "un sous-entendu", "english": "an insinuation, an implied meaning", "partOfSpeech": "noun", "gender": "m", "plural": "sous-entendus", "pronunciation": "soo-zahn-tahn-DU", "example": "Sa phrase était pleine de sous-entendus.", "exampleEnglish": "His sentence was full of insinuations.", "level": "C2", "category": "humour" },
+            { "id": "clin-doeil", "french": "un clin d'œil", "english": "a knowing nod, a wink (allusion)", "partOfSpeech": "noun", "gender": "m", "plural": "clins d'œil", "pronunciation": "klan DUH-yuh", "example": "Le titre est un clin d'œil aux lecteurs les plus attentifs.", "exampleEnglish": "The title is a knowing nod to the most attentive readers.", "level": "C2", "category": "humour" },
+            { "id": "cocasse", "french": "cocasse", "english": "comical, absurdly funny", "partOfSpeech": "adjective", "pronunciation": "koh-KAS", "example": "La situation était cocasse au point d'en devenir gênante.", "exampleEnglish": "The situation was comical to the point of becoming awkward.", "level": "C2", "category": "humour" },
+            { "id": "loufoque", "french": "loufoque", "english": "zany, wacky", "partOfSpeech": "adjective", "pronunciation": "loo-FOK", "example": "Une intrigue loufoque portée par des dialogues brillants.", "exampleEnglish": "A zany plot carried by brilliant dialogue.", "level": "C2", "category": "humour" },
+            { "id": "hilarant", "french": "hilarant", "english": "hilarious", "partOfSpeech": "adjective", "pronunciation": "ee-lah-RAHN", "example": "Son imitation du directeur était hilarante.", "exampleEnglish": "His impression of the director was hilarious.", "level": "C2", "category": "humour" },
+            { "id": "desopilant", "french": "désopilant", "english": "side-splitting, uproarious", "partOfSpeech": "adjective", "pronunciation": "day-zoh-pee-LAHN", "example": "Un sketch désopilant que la salle a réclamé deux fois.", "exampleEnglish": "A side-splitting sketch that the audience demanded twice.", "level": "C2", "category": "humour" },
+            { "id": "rire-jaune", "french": "rire jaune", "english": "to laugh through gritted teeth", "partOfSpeech": "expression", "pronunciation": "reer ZHOHN", "example": "La plaisanterie l'a fait rire jaune.", "exampleEnglish": "The joke made him laugh through gritted teeth.", "level": "C2", "category": "humour" },
+            { "id": "tomber-a-plat", "french": "tomber à plat", "english": "to fall flat (of a joke)", "partOfSpeech": "expression", "pronunciation": "tohn-BAY ah PLAH", "example": "L'ironie tombe à plat dès qu'on doit l'expliquer.", "exampleEnglish": "Irony falls flat as soon as you have to explain it.", "level": "C2", "category": "humour" },
+            { "id": "esprit-de-lescalier", "french": "l'esprit de l'escalier", "english": "thinking of the perfect retort too late", "partOfSpeech": "expression", "pronunciation": "es-PREE duh les-kah-LYAY", "example": "Comme toujours, l'esprit de l'escalier : la réplique m'est venue dans le taxi.", "exampleEnglish": "As always, staircase wit: the retort came to me in the taxi.", "level": "C2", "category": "wordplay" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Les marqueurs grammaticaux de l'ironie",
+              "body": "Since French has no irony punctuation, the grammar does the signalling. An exclamative « Quel… ! » or « Comme… ! » attached to a plainly bad situation is read as antiphrasis. So is an excessive superlative, an unnecessary « bien sûr », a « si ce n'est pas malheureux ! », or a conditional presenting an absurdity as reported fact. The « voilà qui » construction adds a mock-solemn flourish.",
+              "examples": [
+                { "french": "Quelle organisation remarquable : trois réunions annulées en une matinée !", "english": "What remarkable organisation: three meetings cancelled in one morning!", "note": "exclamative + superlative = antiphrasis" },
+                { "french": "Comme c'est pratique, une panne le jour de la démonstration.", "english": "How convenient, a breakdown on the day of the demo." },
+                { "french": "Voilà qui est du plus bel effet.", "english": "Now that is a fine sight indeed.", "note": "mock-solemn, almost always ironic" },
+                { "french": "Il aurait, paraît-il, tout relu lui-même.", "english": "He apparently reread the whole thing himself.", "note": "conditional + « paraît-il » = the speaker doubts it" },
+                { "french": "Si ce n'est pas malheureux d'en arriver là !", "english": "If that isn't a sorry state of affairs!", "note": "negative exclamative, spoken register" },
+                { "french": "Merci de m'avoir prévenu — la veille, évidemment.", "english": "Thank you for warning me — the day before, of course.", "note": "the dash carries the sting" }
+              ],
+              "tip": "The little words « évidemment », « bien entendu », « naturellement » and « forcément » placed after the fact are near-infallible irony markers. Placed before it, they are sincere."
+            },
+            {
+              "heading": "Quand l'ironie échoue — pragmatics of the misfire",
+              "body": "Irony fails whenever the shared ground it depends on is missing: with a stranger, in writing, across cultures, or when the target is genuinely vulnerable. French speakers then repair with explicit meta-comments — « je plaisantais », « c'était du second degré », « au second degré, hein ». The subjunctive after « bien que » and « quoique » is common in these repairs, and « n'y voyez aucune malice » is the standard formula for defusing offence.",
+              "examples": [
+                { "french": "C'était du second degré, bien que je conçoive que cela n'ait pas été évident.", "english": "It was ironic, although I accept that it may not have been obvious.", "note": "bien que + subjunctive" },
+                { "french": "N'y voyez aucune malice : je plaisantais.", "english": "Do not read any malice into it: I was joking." },
+                { "french": "L'ironie écrite est risquée : rien ne garantit qu'elle soit perçue.", "english": "Written irony is risky: nothing guarantees it will be perceived." },
+                { "french": "Quoiqu'il ait ri, sa réponse trahissait une réelle vexation.", "english": "Although he laughed, his answer betrayed real offence." },
+                { "french": "Il vaut mieux renoncer à la boutade que devoir l'expliquer.", "english": "Better to give up the quip than to have to explain it." },
+                { "french": "Dès qu'on explique une plaisanterie, elle tombe à plat.", "english": "As soon as you explain a joke, it falls flat." }
+              ],
+              "tip": "Rule of thumb for C2 learners: irony travels safely downward in status (mocking yourself, or the powerful) and dangerously upward or sideways towards someone you have just met."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "c2_u01_l03_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What does the speaker actually mean?",
+              "french": "Quelle organisation remarquable : trois réunions annulées en une matinée !",
+              "options": ["The organisation is disastrous", "The organisation is genuinely excellent", "Three meetings were successfully held", "The morning went better than expected"],
+              "answer": "The organisation is disastrous"
+            },
+            {
+              "id": "c2_u01_l03_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. Which register of mockery is this?",
+              "french": "Sous des dehors très courtois, il n'a cessé de persifler ses collègues.",
+              "options": ["Sneering hidden behind politeness", "Warm, inclusive humour", "Open, physical aggression", "Self-deprecating humour"],
+              "answer": "Sneering hidden behind politeness"
+            },
+            {
+              "id": "c2_u01_l03_li03",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Il ne comprend pas le second degré.",
+              "answer": "Il ne comprend pas le second degré.",
+              "acceptedAnswers": ["il ne comprend pas le second degre"]
+            },
+            {
+              "id": "c2_u01_l03_li04",
+              "type": "dictation",
+              "prompt": "Dictation: write exactly what you hear.",
+              "french": "Dès qu'on explique une plaisanterie, elle tombe à plat.",
+              "answer": "Dès qu'on explique une plaisanterie, elle tombe à plat.",
+              "acceptedAnswers": ["des qu'on explique une plaisanterie elle tombe a plat", "des qu on explique une plaisanterie elle tombe a plat"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "c2_u01_l03_sp01",
+              "type": "speak",
+              "prompt": "Deliver an antiphrasis with a straight face.",
+              "french": "Comme c'est pratique, une panne le jour de la démonstration.",
+              "english": "How convenient, a breakdown on the day of the demo.",
+              "tip": "Deadpan means flat: resist the rising sarcastic pitch English uses. Keep « comme c'est pratique » level and let the pause before « une panne » do the work."
+            },
+            {
+              "id": "c2_u01_l03_sp02",
+              "type": "speak",
+              "prompt": "Repair a joke that has fallen flat.",
+              "french": "N'y voyez aucune malice : c'était du second degré.",
+              "english": "Do not read any malice into it: it was meant ironically.",
+              "tip": "Say « n'y voyez » as one glide: nee-vwah-YAY. Drop your pitch on « aucune malice » — sincerity here must sound unironic."
+            },
+            {
+              "id": "c2_u01_l03_sp03",
+              "type": "speak",
+              "prompt": "Disarm a room with self-deprecation.",
+              "french": "Je pratique l'autodérision : c'est encore le domaine où je suis le plus compétent.",
+              "english": "I practise self-deprecation: it is still the field in which I am most competent.",
+              "tip": "Land « autodérision » in five clean syllables, oh-toh-day-ree-ZYOHN, then pause before the punchline. The timing is the joke."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Le malentendu du second degré",
+              "french": "Il y a, dans toute conversation française, un contrat tacite : personne ne dit tout à fait ce qu'il pense, et tout le monde est censé le savoir.\nCe contrat porte un nom — le second degré — et son application est si constante qu'on ne le remarque plus qu'au moment où il échoue.\nJ'en ai fait l'expérience un mardi de novembre, devant un client étranger d'une politesse irréprochable.\nLa réunion avait deux heures de retard ; la salle était glaciale ; la machine à café rendait l'âme.\n« Quel accueil somptueux », ai-je lâché, avec ce demi-sourire que mes compatriotes décodent depuis l'enfance.\nMon client hocha la tête, sincèrement flatté, et me remercia de l'attention portée à son confort.\nJ'aurais dû m'arrêter là. J'ai voulu réparer.\n« Non, non, je plaisantais — c'était du second degré. »\nIl y eut ce silence particulier qui suit les plaisanteries qu'on explique, et qui les tue plus sûrement que l'incompréhension.\nCar l'ironie ne survit pas à son mode d'emploi : dès qu'on la commente, elle cesse d'être un clin d'œil pour devenir une leçon.\nLe malentendu, ce jour-là, ne venait pas de la langue. Mon client parlait un français impeccable.\nIl venait du terrain commun : je supposais partagé un réflexe qui ne l'était pas.\nL'ironie exige en effet deux choses que rien ne garantit — une complicité préalable et une hiérarchie claire.\nQu'on se moque du puissant, la salle rit ; qu'on se moque de l'invité, la salle se fige.\nJ'ai retenu la leçon sous une forme peu élégante mais efficace : quand je doute, je vise ma propre personne.\nL'autodérision, elle, ne se traduit pas — elle se comprend partout.",
+              "english": "There is, in every French conversation, a tacit contract: nobody says quite what they think, and everybody is supposed to know it.\nThat contract has a name — le second degré — and it is applied so constantly that it is noticed only when it fails.\nI experienced this one Tuesday in November, in front of a foreign client of impeccable politeness.\nThe meeting was two hours late; the room was freezing; the coffee machine was giving up the ghost.\n\"What a sumptuous welcome,\" I let slip, with that half-smile my compatriots have been decoding since childhood.\nMy client nodded, sincerely flattered, and thanked me for the attention paid to his comfort.\nI should have stopped there. I tried to repair it.\n\"No, no, I was joking — it was ironic.\"\nThere followed that particular silence which comes after jokes one explains, and which kills them more surely than incomprehension does.\nFor irony does not survive its own instruction manual: as soon as you comment on it, it stops being a knowing nod and becomes a lecture.\nThe misunderstanding, that day, did not come from the language. My client spoke impeccable French.\nIt came from common ground: I assumed a shared reflex that was not shared.\nIrony does indeed require two things that nothing guarantees — prior complicity and a clear hierarchy.\nMock the powerful and the room laughs; mock the guest and the room freezes.\nI learned the lesson in an inelegant but effective form: when in doubt, I aim at myself.\nSelf-deprecation, for its part, does not need translating — it is understood everywhere.",
+              "questions": [
+                {
+                  "id": "c2_u01_l03_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Why did « Quel accueil somptueux » misfire?",
+                  "options": ["The client took it at face value, as sincere praise", "The client found it too aggressive", "The client did not understand the French words", "The client thought it was a pun"],
+                  "answer": "The client took it at face value, as sincere praise"
+                },
+                {
+                  "id": "c2_u01_l03_rd02",
+                  "type": "multipleChoice",
+                  "prompt": "According to the narrator, what made things worse than the initial misunderstanding?",
+                  "options": ["Explaining that it had been ironic", "Repeating the joke louder", "Apologising in writing", "Leaving the room"],
+                  "answer": "Explaining that it had been ironic"
+                },
+                {
+                  "id": "c2_u01_l03_rd03",
+                  "type": "trueFalse",
+                  "prompt": "True or false: the narrator blames the client's level of French for the misunderstanding.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "c2_u01_l03_wr01",
+              "type": "translate",
+              "prompt": "Translate into idiomatic French.",
+              "english": "He doesn't get irony, he takes everything literally.",
+              "answer": "Il ne comprend pas le second degré, il prend tout au premier degré.",
+              "acceptedAnswers": ["il ne comprend pas le second degre il prend tout au premier degre", "il ne comprend pas le second degre il prend tout au pied de la lettre"]
+            },
+            {
+              "id": "c2_u01_l03_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "As soon as you explain a joke, it falls flat.",
+              "words": ["plaisanterie", "tombe", "à", "une", "explique", "elle", "Dès", "plat", "qu'on"],
+              "answer": "Dès qu'on explique une plaisanterie elle tombe à plat"
+            },
+            {
+              "id": "c2_u01_l03_wr03",
+              "type": "fillBlank",
+              "prompt": "Complete the repair formula: \"N'y voyez aucune ___ : je plaisantais.\"",
+              "answer": "malice",
+              "hint": "The set phrase asks the listener not to read ill intent into what was said."
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "c2_u01_l03_pr01",
+              "type": "multipleChoice",
+              "prompt": "« Bravo, tu as encore réussi à te tromper de salle. » Which device is at work?",
+              "options": ["L'antiphrase", "La litote", "L'anaphore", "Le pléonasme"],
+              "answer": "L'antiphrase"
+            },
+            {
+              "id": "c2_u01_l03_pr02",
+              "type": "match",
+              "prompt": "Match each word with its shade of mockery.",
+              "pairs": [
+                { "french": "l'autodérision", "english": "mocking oneself" },
+                { "french": "le persiflage", "english": "sneering behind politeness" },
+                { "french": "le sarcasme", "english": "mockery meant to wound" },
+                { "french": "la parodie", "english": "imitating a style to expose it" }
+              ]
+            },
+            {
+              "id": "c2_u01_l03_pr03",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Son humour ___-sans-rire déroute les étrangers.\"",
+              "answer": "pince",
+              "hint": "Deadpan, literally \"pinches without laughing\"."
+            },
+            {
+              "id": "c2_u01_l03_pr04",
+              "type": "multipleChoice",
+              "prompt": "Which situation makes irony most likely to fail?",
+              "options": ["A written message to someone you have just met", "A dinner with old friends", "A satirical column in a weekly", "A stand-up show"],
+              "answer": "A written message to someone you have just met"
+            },
+            {
+              "id": "c2_u01_l03_pr05",
+              "type": "multipleChoice",
+              "prompt": "What is « l'esprit de l'escalier » ?",
+              "options": ["Thinking of the perfect retort only after you have left", "A pun based on homophony", "A joke told with a straight face", "A hoax published in the press"],
+              "answer": "Thinking of the perfect retort only after you have left"
+            },
+            {
+              "id": "c2_u01_l03_pr06",
+              "type": "translate",
+              "prompt": "Translate into French, keeping the irony.",
+              "english": "What a charming idea, calling a meeting on a Friday evening.",
+              "answer": "Charmante idée que de convoquer une réunion un vendredi soir.",
+              "acceptedAnswers": ["charmante idee que de convoquer une reunion un vendredi soir", "quelle charmante idee de convoquer une reunion un vendredi soir"]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "c2_u01_l03_qz01",
+              "type": "multipleChoice",
+              "prompt": "« Il est très premier degré. » What does this say about him?",
+              "options": ["He takes everything literally", "He is extremely witty", "He is the best in his class", "He is a professional comedian"],
+              "answer": "He takes everything literally"
+            },
+            {
+              "id": "c2_u01_l03_qz02",
+              "type": "fillBlank",
+              "prompt": "Complete: \"C'était du second degré, bien que je ___ que cela n'ait pas été évident.\" (concevoir, subjunctive)",
+              "answer": "conçoive",
+              "hint": "« bien que » takes the subjunctive; the verb is concevoir."
+            },
+            {
+              "id": "c2_u01_l03_qz03",
+              "type": "multipleChoice",
+              "prompt": "A « contrepèterie » is...",
+              "options": ["a swapping of sounds between words revealing a hidden sentence", "an exaggerated compliment", "a formal apology", "a rhetorical question"],
+              "answer": "a swapping of sounds between words revealing a hidden sentence"
+            },
+            {
+              "id": "c2_u01_l03_qz04",
+              "type": "trueFalse",
+              "prompt": "True or false: French uses a special punctuation mark to signal written irony.",
+              "options": ["True", "False"],
+              "answer": "False"
+            },
+            {
+              "id": "c2_u01_l03_qz05",
+              "type": "multipleChoice",
+              "prompt": "Which reply best defuses a joke that has offended someone?",
+              "options": ["N'y voyez aucune malice : je plaisantais.", "Vous n'avez vraiment aucun humour.", "C'était pourtant évident, non ?", "Je maintiens chaque mot."],
+              "answer": "N'y voyez aucune malice : je plaisantais."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

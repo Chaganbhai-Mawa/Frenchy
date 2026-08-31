@@ -1,0 +1,583 @@
+{
+  "id": "b2_u29",
+  "level": "B2",
+  "unit": 29,
+  "title": "Complex Grammar",
+  "subtitle": "Master the subjunctive in practice, sequence of tenses, and complex clause constructions",
+  "icon": "🧩",
+  "lessons": [
+    {
+      "id": "b2_u29_l01",
+      "level": "B2",
+      "unit": 29,
+      "title": "Le subjonctif en pratique",
+      "description": "Every trigger for the subjunctive — will, doubt, emotion, necessity — and the conjunctions that demand it.",
+      "estimatedMinutes": 19,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Les verbes et expressions de volonté et de nécessité",
+              "body": "The subjunctive follows verbs of will (vouloir que, souhaiter que, exiger que) and impersonal expressions of necessity (il faut que, il est important que, il est nécessaire que, il est essentiel que) whenever the subordinate clause has a different subject from the main clause. If the subject stays the same, French switches to the infinitive instead.",
+              "examples": [
+                { "french": "Je veux que vous finissiez ce rapport avant vendredi.", "english": "I want you to finish this report before Friday." },
+                { "french": "Le comité exige que chaque membre soit présent.", "english": "The committee demands that every member be present." },
+                { "french": "Il faut que nous prenions une décision rapidement.", "english": "We need to make a decision quickly." },
+                { "french": "Il est essentiel que les faits soient vérifiés avant publication.", "english": "It is essential that the facts be verified before publication." },
+                { "french": "Je veux partir tôt.", "english": "I want to leave early.", "note": "same subject in both parts → infinitive, no subjunctive" }
+              ],
+              "tip": "Same subject in both clauses? Use the infinitive: \"je veux partir\", never \"je veux que je parte\"."
+            },
+            {
+              "heading": "Doute, opinion niée et sentiment",
+              "body": "Doubt (douter que), a negated opinion (ne pas penser que, ne pas croire que — but the affirmative penser que / croire que take the indicative), and emotion (être content/désolé/surpris/ravi que, craindre que, regretter que) all trigger the subjunctive. Craindre que and avoir peur que traditionally add a stylistic \"ne\" that carries no negative meaning.",
+              "examples": [
+                { "french": "Je doute qu'il ait raison sur ce point.", "english": "I doubt that he's right about this." },
+                { "french": "Je ne pense pas qu'elle vienne ce soir.", "english": "I don't think she's coming tonight.", "note": "affirmative: je pense qu'elle vient (indicative)" },
+                { "french": "Nous sommes ravis que vous ayez accepté notre invitation.", "english": "We are delighted that you accepted our invitation." },
+                { "french": "Je crains qu'il ne soit déjà trop tard.", "english": "I fear it may already be too late.", "note": "ne explétif — no negative value" },
+                { "french": "Elle regrette que son collègue soit parti sans prévenir.", "english": "She regrets that her colleague left without warning." }
+              ],
+              "tip": "The \"ne\" before the subjunctive after craindre / avoir peur is purely stylistic — it does not make the sentence negative."
+            },
+            {
+              "heading": "Les conjonctions qui déclenchent le subjonctif",
+              "body": "A fixed set of conjunctions always takes the subjunctive: bien que and quoique (concession), pour que and afin que (purpose), avant que and jusqu'à ce que (time), à moins que, sans que and de peur que (condition, manner, fear). Note the classic trap: après que takes the indicative, not the subjunctive.",
+              "examples": [
+                { "french": "Bien que la proposition soit imparfaite, nous l'acceptons.", "english": "Although the proposal is imperfect, we accept it." },
+                { "french": "Expliquez le projet pour que tout le monde comprenne l'enjeu.", "english": "Explain the project so that everyone understands what's at stake." },
+                { "french": "Nous devons partir avant qu'il ne pleuve.", "english": "We must leave before it rains.", "note": "ne explétif again" },
+                { "french": "Continuez jusqu'à ce que la tâche soit terminée.", "english": "Keep going until the task is finished." },
+                { "french": "À moins que vous n'ayez d'autres questions, la réunion est close.", "english": "Unless you have other questions, the meeting is closed." }
+              ],
+              "tip": "\"Après que\" actually takes the indicative — a classic trap even for advanced learners, who assume every subordinating conjunction of time takes the subjunctive."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "le-subjonctif", "french": "le subjonctif", "english": "the subjunctive (mood)", "partOfSpeech": "noun", "gender": "m", "plural": "subjonctifs", "pronunciation": "sub-zhohnk-TEEF", "example": "Le subjonctif exprime le doute, la volonté ou l'émotion.", "exampleEnglish": "The subjunctive expresses doubt, will or emotion.", "level": "B2", "category": "grammar" },
+            { "id": "le-subjonctif-present", "french": "le subjonctif présent", "english": "the present subjunctive", "partOfSpeech": "noun", "gender": "m", "pronunciation": "sub-zhohnk-TEEF pray-ZAHN", "example": "Le subjonctif présent sert pour le présent et pour le futur.", "exampleEnglish": "The present subjunctive is used for both present and future time.", "level": "B2", "category": "grammar" },
+            { "id": "le-subjonctif-passe", "french": "le subjonctif passé", "english": "the past subjunctive", "partOfSpeech": "noun", "gender": "m", "pronunciation": "sub-zhohnk-TEEF pah-SAY", "example": "On emploie le subjonctif passé pour une action déjà accomplie.", "exampleEnglish": "The past subjunctive is used for an action already completed.", "level": "B2", "category": "grammar" },
+            { "id": "l-indicatif", "french": "l'indicatif", "english": "the indicative (mood)", "partOfSpeech": "noun", "gender": "m", "pronunciation": "an-dee-kah-TEEF", "example": "Après « je pense que », on utilise l'indicatif, pas le subjonctif.", "exampleEnglish": "After \"I think that\", the indicative is used, not the subjunctive.", "level": "B2", "category": "grammar" },
+            { "id": "vouloir-que", "french": "vouloir que", "english": "to want (someone) to", "partOfSpeech": "expression", "pronunciation": "voo-LWAR kuh", "example": "Je veux que ce dossier soit prêt demain.", "exampleEnglish": "I want this file to be ready tomorrow.", "level": "B2", "category": "subjunctive" },
+            { "id": "souhaiter-que", "french": "souhaiter que", "english": "to wish that, to hope that", "partOfSpeech": "expression", "pronunciation": "sweh-TAY kuh", "example": "Nous souhaitons que la réunion se déroule sans accroc.", "exampleEnglish": "We hope the meeting goes off without a hitch.", "level": "B2", "category": "subjunctive" },
+            { "id": "exiger-que", "french": "exiger que", "english": "to demand that", "partOfSpeech": "expression", "pronunciation": "eg-zee-ZHAY kuh", "example": "Le règlement exige que chaque candidat soit présent à l'heure.", "exampleEnglish": "The rules require that every candidate be present on time.", "level": "B2", "category": "subjunctive" },
+            { "id": "il-faut-que", "french": "il faut que", "english": "it is necessary that, one must", "partOfSpeech": "expression", "pronunciation": "eel foh kuh", "example": "Il faut que nous prenions une décision avant midi.", "exampleEnglish": "We need to make a decision before noon.", "level": "B2", "category": "subjunctive" },
+            { "id": "il-est-important-que", "french": "il est important que", "english": "it is important that", "partOfSpeech": "expression", "pronunciation": "eel eh tan-por-TAHN kuh", "example": "Il est important que chacun donne son avis.", "exampleEnglish": "It is important that everyone give their opinion.", "level": "B2", "category": "subjunctive" },
+            { "id": "il-est-possible-que", "french": "il est possible que", "english": "it is possible that", "partOfSpeech": "expression", "pronunciation": "eel eh po-SEEBL kuh", "example": "Il est possible que la réunion soit reportée.", "exampleEnglish": "It is possible that the meeting will be postponed.", "level": "B2", "category": "subjunctive" },
+            { "id": "il-est-necessaire-que", "french": "il est nécessaire que", "english": "it is necessary that", "partOfSpeech": "expression", "pronunciation": "eel eh nay-say-SEHR kuh", "example": "Il est nécessaire que vous signiez ce document.", "exampleEnglish": "It is necessary that you sign this document.", "level": "B2", "category": "subjunctive" },
+            { "id": "il-est-essentiel-que", "french": "il est essentiel que", "english": "it is essential that", "partOfSpeech": "expression", "pronunciation": "eel eh tay-sahn-SYEL kuh", "example": "Il est essentiel que les faits soient vérifiés.", "exampleEnglish": "It is essential that the facts be verified.", "level": "B2", "category": "subjunctive" },
+            { "id": "il-se-peut-que", "french": "il se peut que", "english": "it may be that", "partOfSpeech": "expression", "pronunciation": "eel suh puh kuh", "example": "Il se peut que le train ait du retard.", "exampleEnglish": "It may be that the train is running late.", "level": "B2", "category": "subjunctive" },
+            { "id": "douter-que", "french": "douter que", "english": "to doubt that", "partOfSpeech": "expression", "pronunciation": "doo-TAY kuh", "example": "Je doute qu'il ait vraiment raison.", "exampleEnglish": "I doubt that he's really right.", "level": "B2", "category": "subjunctive" },
+            { "id": "ne-pas-penser-que", "french": "ne pas penser que", "english": "to not think that", "partOfSpeech": "expression", "pronunciation": "nuh pah pahn-SAY kuh", "example": "Je ne pense pas qu'elle vienne ce soir.", "exampleEnglish": "I don't think she's coming tonight.", "level": "B2", "category": "subjunctive" },
+            { "id": "ne-pas-croire-que", "french": "ne pas croire que", "english": "to not believe that", "partOfSpeech": "expression", "pronunciation": "nuh pah krwar kuh", "example": "Nous ne croyons pas que ce plan soit réaliste.", "exampleEnglish": "We don't believe this plan is realistic.", "level": "B2", "category": "subjunctive" },
+            { "id": "etre-content-que", "french": "être content que", "english": "to be glad that", "partOfSpeech": "expression", "pronunciation": "eh-truh kohn-TAHN kuh", "example": "Je suis content que vous ayez pu venir.", "exampleEnglish": "I'm glad you were able to come.", "level": "B2", "category": "subjunctive" },
+            { "id": "etre-desole-que", "french": "être désolé que", "english": "to be sorry that", "partOfSpeech": "expression", "pronunciation": "eh-truh day-zoh-LAY kuh", "example": "Je suis désolé que ce malentendu ait duré si longtemps.", "exampleEnglish": "I'm sorry that this misunderstanding lasted so long.", "level": "B2", "category": "subjunctive" },
+            { "id": "etre-surpris-que", "french": "être surpris que", "english": "to be surprised that", "partOfSpeech": "expression", "pronunciation": "eh-truh sur-PREE kuh", "example": "Nous sommes surpris que le projet ait avancé si vite.", "exampleEnglish": "We are surprised that the project has moved forward so quickly.", "level": "B2", "category": "subjunctive" },
+            { "id": "etre-ravi-que", "french": "être ravi que", "english": "to be delighted that", "partOfSpeech": "expression", "pronunciation": "eh-truh rah-VEE kuh", "example": "Elle est ravie que sa candidature ait été retenue.", "exampleEnglish": "She is delighted that her application was accepted.", "level": "B2", "category": "subjunctive" },
+            { "id": "craindre-que", "french": "craindre que", "english": "to fear that", "partOfSpeech": "expression", "pronunciation": "kran-druh kuh", "example": "Je crains qu'il ne soit déjà trop tard.", "exampleEnglish": "I fear it may already be too late.", "level": "B2", "category": "subjunctive" },
+            { "id": "regretter-que", "french": "regretter que", "english": "to regret that", "partOfSpeech": "expression", "pronunciation": "ruh-gruh-TAY kuh", "example": "Nous regrettons que vous n'ayez pas pu assister à la cérémonie.", "exampleEnglish": "We are sorry that you were unable to attend the ceremony.", "level": "B2", "category": "subjunctive" },
+            { "id": "avant-que", "french": "avant que", "english": "before", "partOfSpeech": "conjunction", "pronunciation": "ah-VAHN kuh", "example": "Signez ce contrat avant que le délai n'expire.", "exampleEnglish": "Sign this contract before the deadline expires.", "level": "B2", "category": "subjunctive" },
+            { "id": "a-moins-que", "french": "à moins que", "english": "unless", "partOfSpeech": "conjunction", "pronunciation": "ah MWAN kuh", "example": "Nous maintenons la réunion, à moins que vous ne préfériez la reporter.", "exampleEnglish": "We're keeping the meeting, unless you'd prefer to postpone it.", "level": "B2", "category": "subjunctive" },
+            { "id": "jusqu-a-ce-que", "french": "jusqu'à ce que", "english": "until", "partOfSpeech": "conjunction", "pronunciation": "zhus-kah suh kuh", "example": "Restez ici jusqu'à ce que la situation soit résolue.", "exampleEnglish": "Stay here until the situation is resolved.", "level": "B2", "category": "subjunctive" },
+            { "id": "sans-que", "french": "sans que", "english": "without (someone) ...ing", "partOfSpeech": "conjunction", "pronunciation": "sahn kuh", "example": "Elle a modifié le texte sans que personne ne s'en aperçoive.", "exampleEnglish": "She changed the text without anyone noticing.", "level": "B2", "category": "subjunctive" },
+            { "id": "de-peur-que", "french": "de peur que", "english": "for fear that, lest", "partOfSpeech": "conjunction", "pronunciation": "duh puhr kuh", "example": "Il a tout vérifié deux fois, de peur qu'une erreur ne subsiste.", "exampleEnglish": "He checked everything twice, for fear that an error might remain.", "level": "B2", "category": "subjunctive" },
+            { "id": "pour-que", "french": "pour que", "english": "so that, in order that", "partOfSpeech": "conjunction", "pronunciation": "poor kuh", "example": "Parlez plus fort pour que tout le monde vous entende.", "exampleEnglish": "Speak louder so that everyone can hear you.", "level": "B2", "category": "subjunctive" },
+            { "id": "afin-que", "french": "afin que", "english": "in order that, so that", "partOfSpeech": "conjunction", "pronunciation": "ah-FAN kuh", "example": "Nous avons résumé le rapport afin que la décision soit prise rapidement.", "exampleEnglish": "We summarised the report so that the decision could be made quickly.", "level": "B2", "category": "subjunctive" },
+            { "id": "bien-que", "french": "bien que", "english": "although (+ subjunctive)", "partOfSpeech": "conjunction", "pronunciation": "byan kuh", "example": "Bien que le projet soit ambitieux, l'équipe reste confiante.", "exampleEnglish": "Although the project is ambitious, the team remains confident.", "level": "B2", "category": "subjunctive" },
+            { "id": "quoique", "french": "quoique", "english": "although, though (+ subjunctive)", "partOfSpeech": "conjunction", "pronunciation": "KWAH-kuh", "example": "Quoique la solution paraisse simple, elle cache des difficultés.", "exampleEnglish": "Although the solution seems simple, it hides difficulties.", "level": "B2", "category": "subjunctive" },
+            { "id": "le-ne-expletif", "french": "le ne explétif", "english": "the expletive ne (stylistic, non-negative)", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh nuh eks-play-TEEF", "example": "Le ne explétif n'a aucune valeur négative après « craindre que ».", "exampleEnglish": "The expletive ne has no negative value after \"craindre que\".", "level": "B2", "category": "grammar" },
+            { "id": "le-declencheur", "french": "le déclencheur", "english": "the trigger (word that triggers a mood)", "partOfSpeech": "noun", "gender": "m", "plural": "déclencheurs", "pronunciation": "day-klahn-SHUR", "example": "« Bien que » est un déclencheur classique du subjonctif.", "exampleEnglish": "\"Bien que\" is a classic trigger for the subjunctive.", "level": "B2", "category": "grammar" },
+            { "id": "le-verbe-d-opinion", "french": "le verbe d'opinion", "english": "verb of opinion", "partOfSpeech": "noun", "gender": "m", "plural": "verbes d'opinion", "pronunciation": "vehrb doh-pee-NYOHN", "example": "Les verbes d'opinion prennent l'indicatif à la forme affirmative.", "exampleEnglish": "Verbs of opinion take the indicative in the affirmative.", "level": "B2", "category": "grammar" },
+            { "id": "douteux", "french": "douteux", "english": "doubtful", "partOfSpeech": "adjective", "pronunciation": "doo-TUH", "example": "Il est douteux que cette stratégie fonctionne à long terme.", "exampleEnglish": "It is doubtful that this strategy will work in the long run.", "level": "B2", "category": "subjunctive" },
+            { "id": "improbable", "french": "improbable", "english": "unlikely", "partOfSpeech": "adjective", "pronunciation": "an-pro-BABL", "example": "Il est improbable que le budget soit voté avant l'été.", "exampleEnglish": "It is unlikely that the budget will be passed before summer.", "level": "B2", "category": "subjunctive" },
+            { "id": "indispensable", "french": "indispensable", "english": "essential, indispensable", "partOfSpeech": "adjective", "pronunciation": "an-dees-pahn-SABL", "example": "Il est indispensable que chacun respecte le règlement.", "exampleEnglish": "It is essential that everyone respects the rules.", "level": "B2", "category": "subjunctive" },
+            { "id": "le-verbe-de-volonte", "french": "le verbe de volonté", "english": "verb of will, verb of wish", "partOfSpeech": "noun", "gender": "m", "plural": "verbes de volonté", "pronunciation": "vehrb duh vo-lohn-TAY", "example": "« Exiger » et « souhaiter » sont des verbes de volonté.", "exampleEnglish": "\"To demand\" and \"to wish\" are verbs of will.", "level": "B2", "category": "grammar" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Formation du subjonctif présent",
+              "body": "Build the present subjunctive from the third-person plural of the present indicative (ils/elles): drop -ent and add -e, -es, -e, -ions, -iez, -ent. The nous/vous forms usually match the imparfait. A handful of verbs have irregular stems that must simply be memorised: aller → aille, faire → fasse, pouvoir → puisse, savoir → sache, avoir → aie, être → sois, vouloir → veuille, falloir → faille (used only impersonally).",
+              "examples": [
+                { "french": "finir → ils finissent → que je finisse, que tu finisses, qu'il finisse, que nous finissions, que vous finissiez, qu'ils finissent", "english": "the full present subjunctive of finir, built from the ils-stem" },
+                { "french": "que j'aie, que tu aies, qu'il ait, que nous ayons, que vous ayez, qu'ils aient", "english": "avoir — a fully irregular subjunctive" },
+                { "french": "que je sois, que tu sois, qu'il soit, que nous soyons, que vous soyez, qu'ils soient", "english": "être — a fully irregular subjunctive" },
+                { "french": "que nous allions, que vous alliez", "english": "aller — nous/vous forms match the imparfait, unlike the singular and third plural" },
+                { "french": "qu'il faille agir avant demain", "english": "that action be taken before tomorrow", "note": "falloir exists only as \"il faille\"" }
+              ],
+              "tip": "Learn the ils-stem first, then memorise only the seven irregular verbs above — everything else follows the regular pattern."
+            },
+            {
+              "heading": "Formation et emploi du subjonctif passé",
+              "body": "The subjonctif passé is built like any compound tense: the subjunctive of avoir or être plus the past participle. It expresses an action completed before the time of the main verb, whether that main verb is in the present or the past — the subjunctive itself has no true future or past tense, only this present/past aspectual split.",
+              "examples": [
+                { "french": "Je suis content qu'il ait réussi son examen.", "english": "I'm glad he passed his exam.", "note": "the passing happened before the being glad" },
+                { "french": "Bien qu'elle soit déjà partie, nous continuons la réunion.", "english": "Although she has already left, we're continuing the meeting." },
+                { "french": "Il est possible que nous ayons mal compris la consigne.", "english": "It's possible that we misunderstood the instruction." },
+                { "french": "Je doute qu'ils aient eu le temps de tout relire.", "english": "I doubt they had time to reread everything." }
+              ],
+              "tip": "Ask yourself: did the subordinate action finish before the main verb's moment? If yes, use the subjonctif passé, even if the main verb is in the present."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "b2_u29_l01_li01", "type": "listenChoose", "prompt": "Listen. What does the speaker require?", "french": "Il faut que nous prenions une décision avant midi.", "options": ["A decision must be made before noon.", "The decision was made yesterday.", "No decision is needed.", "The meeting starts at noon."], "answer": "A decision must be made before noon." },
+            { "id": "b2_u29_l01_li02", "type": "listenChoose", "prompt": "Listen. Which mood does the underlined trigger require?", "french": "Bien que la proposition soit imparfaite, nous l'acceptons.", "options": ["The subjunctive", "The indicative", "The imperative", "The conditional"], "answer": "The subjunctive" },
+            { "id": "b2_u29_l01_li03", "type": "listenType", "prompt": "Listen and type what you hear.", "french": "Je doute qu'il ait vraiment raison.", "answer": "Je doute qu'il ait vraiment raison.", "acceptedAnswers": ["je doute qu'il ait vraiment raison", "je doute qu il ait vraiment raison"] },
+            { "id": "b2_u29_l01_li04", "type": "dictation", "prompt": "Dictation: write exactly what you hear.", "french": "Nous sommes ravis que vous ayez accepté notre invitation.", "answer": "Nous sommes ravis que vous ayez accepté notre invitation.", "acceptedAnswers": ["nous sommes ravis que vous ayez accepte notre invitation"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "b2_u29_l01_sp01", "type": "speak", "prompt": "State a requirement using the subjunctive.", "french": "Il est essentiel que les faits soient vérifiés avant publication.", "english": "It is essential that the facts be verified before publication.", "tip": "Land clearly on \"soient\" — it's easy to swallow the subjunctive ending under stress." },
+            { "id": "b2_u29_l01_sp02", "type": "speak", "prompt": "Express doubt about someone's claim.", "french": "Je ne pense pas qu'elle vienne ce soir.", "english": "I don't think she's coming tonight.", "tip": "Keep \"pense\" and \"vienne\" both light — this is a soft, conversational doubt, not an accusation." },
+            { "id": "b2_u29_l01_sp03", "type": "speak", "prompt": "Concede a point while maintaining your position.", "french": "Bien que le projet soit ambitieux, l'équipe reste confiante.", "english": "Although the project is ambitious, the team remains confident.", "tip": "Pause slightly after \"bien que\" — it signals the concession clause is coming." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Le subjonctif, ce mode mal-aimé",
+              "french": "Beaucoup d'apprenants redoutent le subjonctif, comme s'il s'agissait d'une exception plutôt que d'un mode à part entière.\nEn réalité, il est indispensable que l'on comprenne sa vraie logique : il n'exprime pas un fait, mais un point de vue sur ce fait.\nQuand je dis « je pense qu'il vient », j'affirme un fait ; quand je dis « je doute qu'il vienne », j'exprime mon incertitude.\nCette nuance explique pourquoi les verbes d'opinion changent de mode selon qu'ils sont affirmatifs ou négatifs.\n« Je crois qu'elle a raison » relève de l'indicatif, mais « je ne crois pas qu'elle ait raison » bascule au subjonctif.\nIl en va de même pour les sentiments : on ne se contente jamais d'un fait quand on est content, désolé ou surpris, on y ajoute une évaluation personnelle.\nLes conjonctions suivent la même règle, à condition de bien les connaître.\nBien que et quoique introduisent presque toujours une concession, tandis que pour que et afin que expriment un but.\nÀ moins que, sans que et de peur que couvrent la condition, la manière et la crainte.\nUn piège classique mérite d'être signalé : après que, malgré les apparences, se construit avec l'indicatif.\nQuiconque maîtrise ces catégories cesse de deviner et commence à raisonner.\nLe subjonctif présent suffit dans la grande majorité des cas ; le subjonctif passé n'intervient que lorsque l'action est déjà accomplie.\nAvec un peu de pratique, ce mode redouté devient un outil précis pour nuancer chaque opinion.",
+              "english": "Many learners dread the subjunctive, as if it were an exception rather than a mood in its own right.\nIn reality, it is essential to understand its true logic: it does not express a fact, but a viewpoint on that fact.\nWhen I say \"I think he's coming\", I state a fact; when I say \"I doubt he's coming\", I express my uncertainty.\nThis nuance explains why verbs of opinion change mood depending on whether they are affirmative or negative.\n\"I believe she's right\" belongs to the indicative, but \"I don't believe she's right\" shifts to the subjunctive.\nThe same goes for feelings: we never settle for a bare fact when we are glad, sorry or surprised — we add a personal evaluation to it.\nConjunctions follow the same rule, provided you know them well.\n\"Bien que\" and \"quoique\" almost always introduce a concession, while \"pour que\" and \"afin que\" express a purpose.\n\"À moins que\", \"sans que\" and \"de peur que\" cover condition, manner and fear.\nOne classic trap deserves mention: \"après que\", despite appearances, is built with the indicative.\nWhoever masters these categories stops guessing and starts reasoning.\nThe present subjunctive is enough in the vast majority of cases; the past subjunctive only comes into play when the action is already completed.\nWith a little practice, this dreaded mood becomes a precise tool for nuancing every opinion.",
+              "questions": [
+                { "id": "b2_u29_l01_rd01", "type": "multipleChoice", "prompt": "According to the passage, what does the subjunctive express?", "options": ["A viewpoint on a fact, not the fact itself", "Only actions that already happened", "The same thing as the indicative", "A command"], "answer": "A viewpoint on a fact, not the fact itself" },
+                { "id": "b2_u29_l01_rd02", "type": "trueFalse", "prompt": "Selon le texte, « après que » se construit avec le subjonctif.", "options": ["True", "False"], "answer": "False" },
+                { "id": "b2_u29_l01_rd03", "type": "multipleChoice", "prompt": "When does the passage say the past subjunctive is needed?", "options": ["When the action is already completed", "Only after negative verbs", "Only in formal letters", "Never, it is obsolete"], "answer": "When the action is already completed" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "b2_u29_l01_wr01", "type": "translate", "prompt": "Translate into French.", "english": "It is essential that the facts be verified before publication.", "answer": "Il est essentiel que les faits soient vérifiés avant publication.", "acceptedAnswers": ["il est essentiel que les faits soient verifies avant publication"] },
+            { "id": "b2_u29_l01_wr02", "type": "fillBlank", "prompt": "Je crains qu'il ne ___ déjà trop tard. (être, subjonctif)", "answer": "soit" },
+            { "id": "b2_u29_l01_wr03", "type": "arrangeWords", "prompt": "Put the words in order.", "words": ["projet", "que", "ambitieux,", "soit", "Bien", "le", "confiante", "l'équipe", "reste"], "answer": "Bien que le projet soit ambitieux, l'équipe reste confiante", "english": "Although the project is ambitious, the team remains confident" }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "b2_u29_l01_pr01", "type": "fillBlank", "prompt": "Il ___ que nous prenions une décision rapidement. (falloir)", "answer": "faut" },
+            { "id": "b2_u29_l01_pr02", "type": "multipleChoice", "prompt": "Which verb takes the indicative, not the subjunctive?", "options": ["après que", "bien que", "pour que", "avant que"], "answer": "après que" },
+            { "id": "b2_u29_l01_pr03", "type": "match", "prompt": "Match the trigger to its category.", "pairs": [ { "french": "bien que", "english": "concession" }, { "french": "pour que", "english": "purpose" }, { "french": "avant que", "english": "time" }, { "french": "à moins que", "english": "condition" } ] },
+            { "id": "b2_u29_l01_pr04", "type": "translate", "prompt": "Translate into French.", "english": "I doubt that he's really right.", "answer": "Je doute qu'il ait vraiment raison.", "acceptedAnswers": ["je doute qu'il ait vraiment raison", "je doute qu il ait vraiment raison"] },
+            { "id": "b2_u29_l01_pr05", "type": "arrangeWords", "prompt": "Put the words in order.", "words": ["ravie", "candidature", "que", "retenue", "sa", "Elle", "été", "ait", "est"], "answer": "Elle est ravie que sa candidature ait été retenue", "english": "She is delighted that her application was accepted" },
+            { "id": "b2_u29_l01_pr06", "type": "trueFalse", "prompt": "\"Je veux partir\" utilise le subjonctif car le sujet des deux verbes est identique.", "options": ["True", "False"], "answer": "False" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "b2_u29_l01_qz01", "type": "multipleChoice", "prompt": "Which expression correctly requires the subjunctive?", "options": ["il est possible que", "je pense que", "il est certain que", "je sais que"], "answer": "il est possible que" },
+            { "id": "b2_u29_l01_qz02", "type": "fillBlank", "prompt": "Je suis content qu'il ___ réussi son examen. (avoir, subjonctif)", "answer": "ait" },
+            { "id": "b2_u29_l01_qz03", "type": "multipleChoice", "prompt": "What is the \"ne explétif\" after \"craindre que\"?", "options": ["A stylistic ne with no negative meaning", "A negation that reverses the meaning", "A grammatical error", "Only used in questions"], "answer": "A stylistic ne with no negative meaning" },
+            { "id": "b2_u29_l01_qz04", "type": "translate", "prompt": "Translate into French.", "english": "We need to make a decision before noon.", "answer": "Il faut que nous prenions une décision avant midi.", "acceptedAnswers": ["il faut que nous prenions une decision avant midi"] },
+            { "id": "b2_u29_l01_qz05", "type": "match", "prompt": "Match the verb category to an example.", "pairs": [ { "french": "vouloir que", "english": "verb of will" }, { "french": "douter que", "english": "verb of doubt" }, { "french": "être content que", "english": "verb of emotion" }, { "french": "il faut que", "english": "impersonal necessity" } ] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2_u29_l02",
+      "level": "B2",
+      "unit": 29,
+      "title": "La concordance",
+      "description": "Align tenses correctly across clauses — in ordinary narration, reported speech, and with the subjunctive.",
+      "estimatedMinutes": 19,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "La concordance des temps à l'indicatif",
+              "body": "The tense of the main clause governs what is possible in the subordinate clause. When the main verb is in the present, the subordinate can use almost any tense freely. When the main verb moves to a past tense, the subordinate must shift back one step: présent becomes imparfait, passé composé becomes plus-que-parfait, futur becomes conditionnel présent, and futur antérieur becomes conditionnel passé.",
+              "examples": [
+                { "french": "Il dit qu'il est fatigué. → Il a dit qu'il était fatigué.", "english": "He says he is tired. → He said he was tired.", "note": "présent → imparfait" },
+                { "french": "Elle annonce qu'elle a fini. → Elle a annoncé qu'elle avait fini.", "english": "She announces she has finished. → She announced she had finished.", "note": "passé composé → plus-que-parfait" },
+                { "french": "Je pense qu'il viendra. → Je pensais qu'il viendrait.", "english": "I think he will come. → I thought he would come.", "note": "futur → conditionnel présent" },
+                { "french": "Il espère qu'elle aura terminé avant midi. → Il espérait qu'elle aurait terminé avant midi.", "english": "He hopes she will have finished before noon. → He hoped she would have finished before noon.", "note": "futur antérieur → conditionnel passé" }
+              ],
+              "tip": "Ask which time frame the subordinate action occupies relative to the main verb — before, at the same time, or after — then pick the tense that preserves that relationship."
+            },
+            {
+              "heading": "Le discours indirect : rapporter les paroles de quelqu'un",
+              "body": "Reported speech (le discours indirect) applies the same backward shift, plus a change of time and place markers: aujourd'hui becomes ce jour-là, hier becomes la veille, demain becomes le lendemain, and maintenant becomes à ce moment-là. The reporting verb itself matters: dire que, annoncer que, expliquer que and affirmer que introduce statements, while demander si and se demander si introduce questions.",
+              "examples": [
+                { "french": "« Je pars demain. » → Il a dit qu'il partait le lendemain.", "english": "\"I'm leaving tomorrow.\" → He said he was leaving the next day." },
+                { "french": "« J'ai fini hier. » → Elle a expliqué qu'elle avait fini la veille.", "english": "\"I finished yesterday.\" → She explained that she had finished the day before." },
+                { "french": "« Viendrez-vous ? » → Il a demandé si nous viendrions.", "english": "\"Will you come?\" → He asked whether we would come." },
+                { "french": "« Que voulez-vous ? » → Elle s'est demandé ce que nous voulions.", "english": "\"What do you want?\" → She wondered what we wanted." }
+              ],
+              "tip": "Reported speech is not just a grammar drill — it is exactly what journalists, witnesses and colleagues do every time they summarise what someone else said."
+            },
+            {
+              "heading": "La concordance avec le subjonctif",
+              "body": "Modern French has simplified subjunctive concordance to a two-tense system regardless of the main verb's tense: subjonctif présent for simultaneity or posteriority, subjonctif passé for anteriority. This holds whether the main verb is present or past — unlike the indicative, the subjunctive does not shift its own tense when the main verb moves to the past.",
+              "examples": [
+                { "french": "Je veux qu'il vienne. / Je voulais qu'il vienne.", "english": "I want him to come. / I wanted him to come.", "note": "subjonctif présent in both cases" },
+                { "french": "Je suis surpris qu'il ait accepté. / J'étais surpris qu'il ait accepté.", "english": "I'm surprised he accepted. / I was surprised he accepted.", "note": "subjonctif passé in both cases" }
+              ],
+              "tip": "Don't try to shift the subjunctive tense the way you shift the indicative — modern French keeps it simple: présent or passé, based only on the timing of the action itself."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "la-concordance-des-temps", "french": "la concordance des temps", "english": "the sequence of tenses", "partOfSpeech": "noun", "gender": "f", "pronunciation": "kohn-kor-DAHNS day TAHN", "example": "La concordance des temps régit le rapport entre proposition principale et subordonnée.", "exampleEnglish": "The sequence of tenses governs the relationship between the main and the subordinate clause.", "level": "B2", "category": "grammar" },
+            { "id": "le-discours-direct", "french": "le discours direct", "english": "direct speech", "partOfSpeech": "noun", "gender": "m", "pronunciation": "dees-KOOR dee-REKT", "example": "Le discours direct rapporte les paroles exactes entre guillemets.", "exampleEnglish": "Direct speech reports the exact words in quotation marks.", "level": "B2", "category": "grammar" },
+            { "id": "le-discours-indirect", "french": "le discours indirect", "english": "reported speech, indirect speech", "partOfSpeech": "noun", "gender": "m", "pronunciation": "dees-KOOR an-dee-REKT", "example": "Le passage au discours indirect impose un recul des temps.", "exampleEnglish": "The shift to reported speech forces the tenses to move back.", "level": "B2", "category": "grammar" },
+            { "id": "rapporter-les-paroles-de-quelqu-un", "french": "rapporter les paroles de quelqu'un", "english": "to report what someone said", "partOfSpeech": "expression", "pronunciation": "rah-por-TAY lay pah-ROL duh kel-KUHN", "example": "Le témoin doit rapporter les paroles de l'accusé avec exactitude.", "exampleEnglish": "The witness must report the accused's words exactly.", "level": "B2", "category": "grammar" },
+            { "id": "reculer-d-un-temps", "french": "reculer d'un temps", "english": "to shift back a tense", "partOfSpeech": "expression", "pronunciation": "ruh-ku-LAY duhn TAHN", "example": "Au passé, le verbe de la subordonnée doit reculer d'un temps.", "exampleEnglish": "In the past, the verb of the subordinate clause must shift back a tense.", "level": "B2", "category": "grammar" },
+            { "id": "l-anteriorite", "french": "l'antériorité", "english": "anteriority (happening before)", "partOfSpeech": "noun", "gender": "f", "pronunciation": "ahn-tay-ryoh-ree-TAY", "example": "Le plus-que-parfait exprime l'antériorité par rapport à l'imparfait.", "exampleEnglish": "The pluperfect expresses anteriority relative to the imperfect.", "level": "B2", "category": "grammar" },
+            { "id": "la-simultaneite", "french": "la simultanéité", "english": "simultaneity", "partOfSpeech": "noun", "gender": "f", "pronunciation": "see-mul-tah-nay-ee-TAY", "example": "L'imparfait marque souvent la simultanéité avec le verbe principal.", "exampleEnglish": "The imperfect often marks simultaneity with the main verb.", "level": "B2", "category": "grammar" },
+            { "id": "la-posteriorite", "french": "la postériorité", "english": "posteriority (happening after)", "partOfSpeech": "noun", "gender": "f", "pronunciation": "pos-tay-ryoh-ree-TAY", "example": "Le conditionnel exprime la postériorité dans un récit au passé.", "exampleEnglish": "The conditional expresses posteriority in a past narrative.", "level": "B2", "category": "grammar" },
+            { "id": "la-proposition-principale", "french": "la proposition principale", "english": "the main clause", "partOfSpeech": "noun", "gender": "f", "plural": "propositions principales", "pronunciation": "proh-poh-zee-SYOHN pran-see-PAL", "example": "Le temps de la proposition principale commande le temps de la subordonnée.", "exampleEnglish": "The tense of the main clause governs the tense of the subordinate clause.", "level": "B2", "category": "grammar" },
+            { "id": "la-proposition-subordonnee", "french": "la proposition subordonnée", "english": "the subordinate clause", "partOfSpeech": "noun", "gender": "f", "plural": "propositions subordonnées", "pronunciation": "proh-poh-zee-SYOHN su-bor-doh-NAY", "example": "La proposition subordonnée s'aligne sur le verbe principal.", "exampleEnglish": "The subordinate clause aligns itself with the main verb.", "level": "B2", "category": "grammar" },
+            { "id": "la-completive", "french": "la complétive", "english": "the noun clause (introduced by « que »)", "partOfSpeech": "noun", "gender": "f", "plural": "complétives", "pronunciation": "kohn-play-TEEV", "example": "La complétive change de temps quand le verbe principal passe au passé.", "exampleEnglish": "The noun clause changes tense when the main verb moves to the past.", "level": "B2", "category": "grammar" },
+            { "id": "l-imparfait-tense", "french": "l'imparfait", "english": "the imperfect tense", "partOfSpeech": "noun", "gender": "m", "pronunciation": "an-par-FEH", "example": "Le présent recule à l'imparfait quand le verbe principal est au passé.", "exampleEnglish": "The present shifts back to the imperfect when the main verb is in the past.", "level": "B2", "category": "grammar" },
+            { "id": "le-plus-que-parfait", "french": "le plus-que-parfait", "english": "the pluperfect tense", "partOfSpeech": "noun", "gender": "m", "pronunciation": "plu-kuh-par-FEH", "example": "Le passé composé recule au plus-que-parfait dans le discours indirect au passé.", "exampleEnglish": "The perfect tense shifts back to the pluperfect in past reported speech.", "level": "B2", "category": "grammar" },
+            { "id": "le-conditionnel-present", "french": "le conditionnel présent", "english": "the present conditional", "partOfSpeech": "noun", "gender": "m", "pronunciation": "kohn-dee-syoh-NEL pray-ZAHN", "example": "Le futur recule au conditionnel présent après un verbe principal au passé.", "exampleEnglish": "The future shifts back to the present conditional after a main verb in the past.", "level": "B2", "category": "grammar" },
+            { "id": "le-conditionnel-passe", "french": "le conditionnel passé", "english": "the past conditional", "partOfSpeech": "noun", "gender": "m", "pronunciation": "kohn-dee-syoh-NEL pah-SAY", "example": "Le futur antérieur recule au conditionnel passé dans un récit au passé.", "exampleEnglish": "The future perfect shifts back to the past conditional in a past narrative.", "level": "B2", "category": "grammar" },
+            { "id": "le-futur-anterieur", "french": "le futur antérieur", "english": "the future perfect", "partOfSpeech": "noun", "gender": "m", "pronunciation": "fu-TUR ahn-tay-RYUHR", "example": "Quand vous aurez lu ce rapport, contactez-moi.", "exampleEnglish": "When you have read this report, contact me.", "level": "B2", "category": "grammar" },
+            { "id": "le-futur-simple", "french": "le futur simple", "english": "the simple future", "partOfSpeech": "noun", "gender": "m", "pronunciation": "fu-TUR SANPL", "example": "Le futur simple recule au conditionnel présent au style indirect passé.", "exampleEnglish": "The simple future shifts back to the present conditional in past reported speech.", "level": "B2", "category": "grammar" },
+            { "id": "dire-que", "french": "dire que", "english": "to say that", "partOfSpeech": "expression", "pronunciation": "deer kuh", "example": "Il a dit qu'il était fatigué.", "exampleEnglish": "He said he was tired.", "level": "B2", "category": "reported-speech" },
+            { "id": "annoncer-que", "french": "annoncer que", "english": "to announce that", "partOfSpeech": "expression", "pronunciation": "ah-nohn-SAY kuh", "example": "Elle a annoncé qu'elle avait fini son rapport.", "exampleEnglish": "She announced that she had finished her report.", "level": "B2", "category": "reported-speech" },
+            { "id": "expliquer-que", "french": "expliquer que", "english": "to explain that", "partOfSpeech": "expression", "pronunciation": "eks-plee-KAY kuh", "example": "Elle a expliqué qu'elle avait fini la veille.", "exampleEnglish": "She explained that she had finished the day before.", "level": "B2", "category": "reported-speech" },
+            { "id": "demander-si", "french": "demander si", "english": "to ask whether", "partOfSpeech": "expression", "pronunciation": "duh-mahn-DAY see", "example": "Il a demandé si nous viendrions.", "exampleEnglish": "He asked whether we would come.", "level": "B2", "category": "reported-speech" },
+            { "id": "se-demander-si", "french": "se demander si", "english": "to wonder whether", "partOfSpeech": "expression", "pronunciation": "suh duh-mahn-DAY see", "example": "Je me demande si cette solution tiendra sur le long terme.", "exampleEnglish": "I wonder whether this solution will hold in the long run.", "level": "B2", "category": "reported-speech" },
+            { "id": "affirmer-que", "french": "affirmer que", "english": "to state, to affirm that", "partOfSpeech": "expression", "pronunciation": "ah-feer-MAY kuh", "example": "Le témoin a affirmé qu'il n'avait rien vu.", "exampleEnglish": "The witness stated that he had seen nothing.", "level": "B2", "category": "reported-speech" },
+            { "id": "preciser-que", "french": "préciser que", "english": "to specify, to clarify that", "partOfSpeech": "expression", "pronunciation": "pray-see-ZAY kuh", "example": "Le directeur a précisé que la réunion aurait lieu à huit heures.", "exampleEnglish": "The director specified that the meeting would take place at eight o'clock.", "level": "B2", "category": "reported-speech" },
+            { "id": "ajouter-que", "french": "ajouter que", "english": "to add that", "partOfSpeech": "expression", "pronunciation": "ah-zhoo-TAY kuh", "example": "Il a ajouté qu'il reviendrait le lendemain.", "exampleEnglish": "He added that he would come back the next day.", "level": "B2", "category": "reported-speech" },
+            { "id": "reconnaitre-que", "french": "reconnaître que", "english": "to acknowledge, to admit that", "partOfSpeech": "expression", "pronunciation": "ruh-koh-NEH-truh kuh", "example": "Elle a reconnu qu'elle s'était trompée.", "exampleEnglish": "She acknowledged that she had made a mistake.", "level": "B2", "category": "reported-speech" },
+            { "id": "la-veille", "french": "la veille", "english": "the day before", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah VAY", "example": "« Hier » devient « la veille » au discours indirect passé.", "exampleEnglish": "\"Yesterday\" becomes \"the day before\" in past reported speech.", "level": "B2", "category": "reported-speech" },
+            { "id": "le-lendemain", "french": "le lendemain", "english": "the next day", "partOfSpeech": "noun", "gender": "m", "pronunciation": "lahn-duh-MAN", "example": "« Demain » devient « le lendemain » au discours indirect passé.", "exampleEnglish": "\"Tomorrow\" becomes \"the next day\" in past reported speech.", "level": "B2", "category": "reported-speech" },
+            { "id": "ce-jour-la", "french": "ce jour-là", "english": "that day", "partOfSpeech": "expression", "pronunciation": "suh zhoor LAH", "example": "« Aujourd'hui » devient « ce jour-là » au discours indirect passé.", "exampleEnglish": "\"Today\" becomes \"that day\" in past reported speech.", "level": "B2", "category": "reported-speech" },
+            { "id": "deux-jours-plus-tot", "french": "deux jours plus tôt", "english": "two days earlier", "partOfSpeech": "expression", "pronunciation": "duh zhoor plu TOH", "example": "« Avant-hier » devient souvent « deux jours plus tôt ».", "exampleEnglish": "\"The day before yesterday\" often becomes \"two days earlier\".", "level": "B2", "category": "reported-speech" },
+            { "id": "deux-jours-plus-tard", "french": "deux jours plus tard", "english": "two days later", "partOfSpeech": "expression", "pronunciation": "duh zhoor plu TAR", "example": "« Après-demain » devient souvent « deux jours plus tard ».", "exampleEnglish": "\"The day after tomorrow\" often becomes \"two days later\".", "level": "B2", "category": "reported-speech" },
+            { "id": "le-verbe-introducteur", "french": "le verbe introducteur", "english": "the reporting verb, introductory verb", "partOfSpeech": "noun", "gender": "m", "plural": "verbes introducteurs", "pronunciation": "vehrb an-tro-duk-TUR", "example": "Le choix du verbe introducteur oriente déjà l'interprétation du propos rapporté.", "exampleEnglish": "The choice of reporting verb already shapes how the reported statement is interpreted.", "level": "B2", "category": "grammar" },
+            { "id": "l-hypothese", "french": "l'hypothèse", "english": "the hypothesis, the if-clause scenario", "partOfSpeech": "noun", "gender": "f", "plural": "hypothèses", "pronunciation": "ee-poh-TEZ", "example": "L'hypothèse à l'imparfait entraîne un conditionnel présent dans la principale.", "exampleEnglish": "The hypothesis in the imperfect requires a present conditional in the main clause.", "level": "B2", "category": "grammar" },
+            { "id": "le-systeme-hypothetique", "french": "le système hypothétique", "english": "the conditional (if-clause) system", "partOfSpeech": "noun", "gender": "m", "pronunciation": "sees-TEM ee-poh-tay-TEEK", "example": "Le système hypothétique impose sa propre concordance : si + imparfait, conditionnel présent.", "exampleEnglish": "The if-clause system has its own concordance: si + imperfect, present conditional.", "level": "B2", "category": "grammar" },
+            { "id": "la-proposition-en-si", "french": "la proposition en si", "english": "the if-clause", "partOfSpeech": "noun", "gender": "f", "plural": "propositions en si", "pronunciation": "proh-poh-zee-SYOHN ahn SEE", "example": "La proposition en si ne prend jamais le conditionnel après « si ».", "exampleEnglish": "The if-clause never takes the conditional right after \"si\".", "level": "B2", "category": "grammar" },
+            { "id": "l-aspect-verbal", "french": "l'aspect verbal", "english": "verbal aspect", "partOfSpeech": "noun", "gender": "m", "pronunciation": "as-PEH vehr-BAL", "example": "L'aspect verbal distingue l'action achevée de l'action en cours.", "exampleEnglish": "Verbal aspect distinguishes a completed action from an ongoing one.", "level": "B2", "category": "grammar" },
+            { "id": "le-temps-verbal", "french": "le temps verbal", "english": "the verb tense", "partOfSpeech": "noun", "gender": "m", "plural": "temps verbaux", "pronunciation": "tahn vehr-BAL", "example": "Chaque temps verbal situe l'action par rapport au moment de l'énonciation.", "exampleEnglish": "Each verb tense situates the action relative to the moment of speaking.", "level": "B2", "category": "grammar" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Le tableau de la concordance à l'indicatif",
+              "body": "When the main verb is in a past tense, four systematic shifts apply in the subordinate clause: présent → imparfait, passé composé → plus-que-parfait, futur simple → conditionnel présent, futur antérieur → conditionnel passé. The imparfait, plus-que-parfait and conditionnel, however, never move — they already sit in the past and stay exactly where they are.",
+              "examples": [
+                { "french": "Elle savait qu'il travaillait dur.", "english": "She knew he was working hard.", "note": "imparfait in the subordinate stays imparfait — no further shift possible" },
+                { "french": "Il a compris qu'il s'était trompé.", "english": "He understood that he had made a mistake.", "note": "plus-que-parfait: already maximally in the past" },
+                { "french": "Nous pensions qu'elle accepterait l'offre.", "english": "We thought she would accept the offer.", "note": "conditionnel présent stays as is" },
+                { "french": "Je croyais que la réunion aurait déjà commencé.", "english": "I thought the meeting would already have started.", "note": "conditionnel passé stays as is" }
+              ],
+              "tip": "Build a mental table with two columns — main verb in the present versus main verb in the past — and slot each subordinate tense into the correct row before you speak."
+            },
+            {
+              "heading": "Marqueurs de temps et de lieu au discours indirect",
+              "body": "Beyond verb tenses, reported speech shifts deictic markers — words that point to \"now\" and \"here\" from the speaker's original position. Ici becomes là or là-bas, and celui-ci often becomes celui-là. Getting these markers wrong is the most common concordance mistake even among fluent learners, because the verb tense can be correct while the time marker still betrays the direct-speech original.",
+              "examples": [
+                { "french": "« Je suis ici depuis lundi. » → Il a dit qu'il était là depuis le lundi précédent.", "english": "\"I've been here since Monday.\" → He said he had been there since the previous Monday." },
+                { "french": "« Cette proposition est excellente. » → Elle a affirmé que cette proposition-là était excellente.", "english": "\"This proposal is excellent.\" → She stated that proposal was excellent." },
+                { "french": "« Nous nous voyons la semaine prochaine. » → Il a précisé qu'ils se voyaient la semaine suivante.", "english": "\"We're seeing each other next week.\" → He specified they were seeing each other the following week." }
+              ],
+              "tip": "\"La semaine prochaine\" becomes \"la semaine suivante\", never \"la semaine prochaine\" — the reference point has shifted away from the moment of speaking."
+            },
+            {
+              "heading": "Le système hypothétique : la concordance des si",
+              "body": "If-clauses (si + condition) follow their own strict concordance, independent from reported speech: si + présent pairs with a main verb in the futur or présent or impératif (real condition); si + imparfait pairs with a conditionnel présent (unreal present); si + plus-que-parfait pairs with a conditionnel passé (unreal past). \"Si\" is never followed by a futur or a conditionnel — a very common learner error.",
+              "examples": [
+                { "french": "Si vous signez aujourd'hui, nous commencerons demain.", "english": "If you sign today, we will start tomorrow.", "note": "si + présent / futur" },
+                { "french": "Si nous avions plus de temps, nous approfondirions l'analyse.", "english": "If we had more time, we would go deeper into the analysis.", "note": "si + imparfait / conditionnel présent" },
+                { "french": "Si vous aviez signé plus tôt, nous aurions gagné une semaine.", "english": "If you had signed earlier, we would have gained a week.", "note": "si + plus-que-parfait / conditionnel passé" }
+              ],
+              "tip": "Never put a futur or a conditionnel right after \"si\" meaning \"if\" — that slot is reserved for présent, imparfait or plus-que-parfait only."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "b2_u29_l02_li01", "type": "listenChoose", "prompt": "Listen. What tense does the reported clause use?", "french": "Il a dit qu'il partait le lendemain.", "options": ["Imparfait", "Passé composé", "Futur simple", "Conditionnel passé"], "answer": "Imparfait" },
+            { "id": "b2_u29_l02_li02", "type": "listenChoose", "prompt": "Listen. What does the speaker mean?", "french": "Elle a expliqué qu'elle avait fini la veille.", "options": ["She had finished the day before.", "She will finish tomorrow.", "She is finishing now.", "She never finished."], "answer": "She had finished the day before." },
+            { "id": "b2_u29_l02_li03", "type": "listenType", "prompt": "Listen and type what you hear.", "french": "Je pensais qu'il viendrait avant midi.", "answer": "Je pensais qu'il viendrait avant midi.", "acceptedAnswers": ["je pensais qu'il viendrait avant midi", "je pensais qu il viendrait avant midi"] },
+            { "id": "b2_u29_l02_li04", "type": "dictation", "prompt": "Dictation: write exactly what you hear.", "french": "Si nous avions plus de temps, nous approfondirions l'analyse.", "answer": "Si nous avions plus de temps, nous approfondirions l'analyse.", "acceptedAnswers": ["si nous avions plus de temps nous approfondirions l'analyse", "si nous avions plus de temps nous approfondirions l analyse"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "b2_u29_l02_sp01", "type": "speak", "prompt": "Report what someone said, shifting the tense correctly.", "french": "Il a dit qu'il était fatigué.", "english": "He said he was tired.", "tip": "Slow slightly on \"était\" — it's easy to default to the present out of habit." },
+            { "id": "b2_u29_l02_sp02", "type": "speak", "prompt": "Report a question using reported speech.", "french": "Il a demandé si nous viendrions.", "english": "He asked whether we would come.", "tip": "Note there is no question mark and no inversion — reported questions read like statements." },
+            { "id": "b2_u29_l02_sp03", "type": "speak", "prompt": "Express an unreal present condition.", "french": "Si nous avions plus de temps, nous approfondirions l'analyse.", "english": "If we had more time, we would go deeper into the analysis.", "tip": "\"Avions\" and \"approfondirions\" should flow as one connected thought, not two separate sentences." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Trois versions d'une même réunion",
+              "french": "Pendant la réunion, Marc déclare : « Je suis convaincu que ce projet réussira, à condition que l'équipe reste soudée. »\nLe lendemain, en rédigeant son compte rendu, son assistante doit rapporter ces paroles au discours indirect.\nElle écrit : « Marc a affirmé qu'il était convaincu que ce projet réussirait, à condition que l'équipe reste soudée. »\nRemarquez que « suis » recule à « était », et que « réussira » recule à « réussirait » : la concordance des temps s'applique automatiquement.\nLe subjonctif, lui, ne bouge pas : « que l'équipe reste soudée » demeure au subjonctif présent, qu'on rapporte les propos au présent ou au passé.\nUne semaine plus tard, un collègue absent demande ce qui s'est dit : « Qu'est-ce que Marc a annoncé, exactement ? »\nL'assistante répond alors avec un troisième niveau de recul : « Il avait annoncé, la semaine précédente, que le projet réussirait si l'équipe restait soudée. »\nCette phrase illustre le système hypothétique : « si » à l'imparfait entraîne un conditionnel dans la principale, ici lui-même transposé au discours indirect.\nCe jeu de miroirs peut sembler complexe, mais il repose sur une seule question : à quel moment se situe l'action, par rapport à quel autre moment ?\nUne fois cette question posée clairement, chaque temps verbal se choisit presque de lui-même.\nLes journalistes, les avocats et les traducteurs vivent de cette compétence au quotidien.\nMaîtriser la concordance, c'est donc bien plus qu'un exercice scolaire : c'est savoir raconter fidèlement ce que quelqu'un d'autre a dit, pensé ou espéré.",
+              "english": "During the meeting, Marc declares: \"I am convinced this project will succeed, provided the team stays united.\"\nThe next day, while writing her report, his assistant has to relay these words in reported speech.\nShe writes: \"Marc stated that he was convinced this project would succeed, provided the team stayed united.\"\nNotice that \"am\" shifts back to \"was\", and \"will succeed\" shifts back to \"would succeed\": the sequence of tenses applies automatically.\nThe subjunctive itself does not move: \"that the team stay united\" remains in the present subjunctive, whether the statement is reported in the present or the past.\nA week later, an absent colleague asks what was said: \"What exactly did Marc announce?\"\nThe assistant then answers with a third layer of distance: \"He had announced, the previous week, that the project would succeed if the team stayed united.\"\nThis sentence illustrates the if-clause system: \"if\" in the imperfect triggers a conditional in the main clause, itself here transposed into reported speech.\nThis hall of mirrors can seem complex, but it rests on a single question: at what point in time does the action sit, relative to which other point?\nOnce that question is clearly asked, each verb tense almost chooses itself.\nJournalists, lawyers and translators live off this skill every day.\nMastering the sequence of tenses is therefore far more than a school exercise: it is knowing how to faithfully retell what someone else said, thought or hoped.",
+              "questions": [
+                { "id": "b2_u29_l02_rd01", "type": "multipleChoice", "prompt": "According to the passage, what single question determines the correct tense?", "options": ["At what point in time does the action sit, relative to another point", "Whether the sentence is a question or a statement", "Whether the speaker is male or female", "How long the sentence is"], "answer": "At what point in time does the action sit, relative to another point" },
+                { "id": "b2_u29_l02_rd02", "type": "trueFalse", "prompt": "Selon le texte, le subjonctif recule lui aussi quand on rapporte les propos au passé.", "options": ["True", "False"], "answer": "False" },
+                { "id": "b2_u29_l02_rd03", "type": "multipleChoice", "prompt": "Who does the passage say relies on this skill daily?", "options": ["Journalists, lawyers and translators", "Only schoolteachers", "Only novelists", "Nobody outside the classroom"], "answer": "Journalists, lawyers and translators" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "b2_u29_l02_wr01", "type": "translate", "prompt": "Translate into French.", "english": "He said he was tired.", "answer": "Il a dit qu'il était fatigué.", "acceptedAnswers": ["il a dit qu'il etait fatigue", "il a dit qu il etait fatigue"] },
+            { "id": "b2_u29_l02_wr02", "type": "fillBlank", "prompt": "Elle a annoncé qu'elle ___ fini son rapport. (avoir, plus-que-parfait)", "answer": "avait" },
+            { "id": "b2_u29_l02_wr03", "type": "arrangeWords", "prompt": "Put the words in order.", "words": ["temps,", "plus", "avions", "de", "nous", "Si", "l'analyse", "approfondirions", "nous"], "answer": "Si nous avions plus de temps, nous approfondirions l'analyse", "english": "If we had more time, we would go deeper into the analysis" }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "b2_u29_l02_pr01", "type": "fillBlank", "prompt": "« Demain » devient « le ___ » au discours indirect passé.", "answer": "lendemain" },
+            { "id": "b2_u29_l02_pr02", "type": "multipleChoice", "prompt": "Which tense follows \"si\" for an unreal present condition?", "options": ["l'imparfait", "le futur simple", "le conditionnel présent", "le passé composé"], "answer": "l'imparfait" },
+            { "id": "b2_u29_l02_pr03", "type": "match", "prompt": "Match the direct-speech tense to its reported-speech shift.", "pairs": [ { "french": "présent", "english": "imparfait" }, { "french": "passé composé", "english": "plus-que-parfait" }, { "french": "futur simple", "english": "conditionnel présent" }, { "french": "futur antérieur", "english": "conditionnel passé" } ] },
+            { "id": "b2_u29_l02_pr04", "type": "translate", "prompt": "Translate into French.", "english": "He asked whether we would come.", "answer": "Il a demandé si nous viendrions.", "acceptedAnswers": ["il a demande si nous viendrions"] },
+            { "id": "b2_u29_l02_pr05", "type": "arrangeWords", "prompt": "Put the words in order.", "words": ["convaincu", "réussirait", "le", "que", "était", "projet", "Il"], "answer": "Il était convaincu que le projet réussirait", "english": "He was convinced that the project would succeed" },
+            { "id": "b2_u29_l02_pr06", "type": "trueFalse", "prompt": "Le subjonctif recule au passé quand le verbe principal passe au passé.", "options": ["True", "False"], "answer": "False" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "b2_u29_l02_qz01", "type": "multipleChoice", "prompt": "What does \"la concordance des temps\" govern?", "options": ["The relationship between tenses in main and subordinate clauses", "Adjective agreement", "Word order in questions", "Pronoun placement"], "answer": "The relationship between tenses in main and subordinate clauses" },
+            { "id": "b2_u29_l02_qz02", "type": "fillBlank", "prompt": "Il pensait qu'elle ___ l'offre. (accepter, conditionnel présent)", "answer": "accepterait" },
+            { "id": "b2_u29_l02_qz03", "type": "multipleChoice", "prompt": "In the if-clause system, what follows \"si\" for an unreal past condition?", "options": ["le plus-que-parfait", "le futur simple", "le conditionnel passé", "le subjonctif"], "answer": "le plus-que-parfait" },
+            { "id": "b2_u29_l02_qz04", "type": "translate", "prompt": "Translate into French.", "english": "She explained that she had finished the day before.", "answer": "Elle a expliqué qu'elle avait fini la veille.", "acceptedAnswers": ["elle a explique qu'elle avait fini la veille", "elle a explique qu elle avait fini la veille"] },
+            { "id": "b2_u29_l02_qz05", "type": "match", "prompt": "Match the reporting verb to its meaning.", "pairs": [ { "french": "affirmer que", "english": "to state that" }, { "french": "préciser que", "english": "to specify that" }, { "french": "reconnaître que", "english": "to acknowledge that" }, { "french": "se demander si", "english": "to wonder whether" } ] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2_u29_l03",
+      "level": "B2",
+      "unit": 29,
+      "title": "Les constructions complexes",
+      "description": "Participles, gerunds and infinitive clauses — compress two ideas into one elegant sentence.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Le participe présent et l'adjectif verbal",
+              "body": "The present participle is formed from the nous-stem of the present indicative plus -ant (nous finissons → finissant), with three exceptions: étant, ayant, sachant. As a verb form it is invariable and expresses an action, often replacing a relative clause. Many participes présents also exist as verbal adjectives, which do agree in gender and number — the distinction is subtle but matters in careful writing.",
+              "examples": [
+                { "french": "Les candidats souhaitant participer doivent s'inscrire avant vendredi.", "english": "Candidates wishing to take part must register before Friday.", "note": "invariable participe présent, replaces \"qui souhaitent\"" },
+                { "french": "C'est une remarque intéressante.", "english": "That's an interesting remark.", "note": "adjectif verbal — agrees with \"remarque\", feminine" },
+                { "french": "Sachant qu'il n'y avait plus de solution, elle a abandonné.", "english": "Knowing there was no solution left, she gave up." },
+                { "french": "Ayant terminé son travail, il est rentré chez lui.", "english": "Having finished his work, he went home." }
+              ],
+              "tip": "If the word could take an intensifier like \"très\" and still make sense, it is functioning as an adjectif verbal, not a true participe présent."
+            },
+            {
+              "heading": "Le gérondif : en + participe présent",
+              "body": "The gérondif (en + present participle) is always invariable and normally shares its subject with the main verb. It expresses simultaneity, manner, means, cause or condition, all folded into one compact clause. Adding \"tout\" in front (tout en) sharpens the meaning toward simultaneity or concession — \"while doing X, at the same time / despite doing X\".",
+              "examples": [
+                { "french": "Elle a répondu au téléphone en conduisant.", "english": "She answered the phone while driving.", "note": "simultaneity" },
+                { "french": "Il a réussi en travaillant avec méthode.", "english": "He succeeded by working methodically.", "note": "means" },
+                { "french": "Tout en comprenant vos raisons, je maintiens ma décision.", "english": "While understanding your reasons, I am maintaining my decision.", "note": "tout en — concession" },
+                { "french": "En insistant un peu, vous obtiendrez sûrement une réponse.", "english": "By insisting a little, you will surely get an answer.", "note": "condition" }
+              ],
+              "tip": "The gérondif always shares its subject with the main clause — if the subjects differ, you need a different construction entirely, such as a subordinate clause."
+            },
+            {
+              "heading": "L'infinitif passé et les propositions infinitives",
+              "body": "The infinitif passé (avoir or être + past participle) marks an action completed before the main verb, most often after \"après\": après avoir fini, après être parti. Verbs of perception (voir, entendre, sentir, regarder, écouter) can take a direct infinitive clause instead of a full subordinate: \"je le vois arriver\" rather than the heavier \"je vois qu'il arrive\". The causative faire (faire faire) and laisser (laisser faire) work the same way, compressing causation into a single verb pair.",
+              "examples": [
+                { "french": "Après avoir signé le contrat, elle a informé son équipe.", "english": "After signing the contract, she informed her team.", "note": "infinitif passé with avoir" },
+                { "french": "Après être arrivés en retard, ils se sont excusés.", "english": "After arriving late, they apologised.", "note": "infinitif passé with être, participle agrees" },
+                { "french": "Nous avons entendu les négociateurs discuter pendant des heures.", "english": "We heard the negotiators talking for hours.", "note": "perception + infinitive clause" },
+                { "french": "Le directeur a fait signer le contrat par son adjoint.", "english": "The director had the contract signed by his assistant.", "note": "faire causatif" },
+                { "french": "Elle a laissé son associé prendre la décision finale.", "english": "She let her associate make the final decision.", "note": "laisser + infinitif" }
+              ],
+              "tip": "After être in the infinitif passé, the past participle still agrees with the subject: \"après être arrivées\" for a group of women."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "le-participe-present", "french": "le participe présent", "english": "the present participle", "partOfSpeech": "noun", "gender": "m", "plural": "participes présents", "pronunciation": "par-tee-SEEP pray-ZAHN", "example": "Le participe présent en -ant reste toujours invariable.", "exampleEnglish": "The present participle ending in -ant always stays invariable.", "level": "B2", "category": "grammar" },
+            { "id": "le-gerondif", "french": "le gérondif", "english": "the gerund (en + present participle)", "partOfSpeech": "noun", "gender": "m", "plural": "gérondifs", "pronunciation": "zhay-rohn-DEEF", "example": "Le gérondif partage toujours le sujet de la proposition principale.", "exampleEnglish": "The gerund always shares its subject with the main clause.", "level": "B2", "category": "grammar" },
+            { "id": "l-infinitif", "french": "l'infinitif", "english": "the infinitive", "partOfSpeech": "noun", "gender": "m", "pronunciation": "an-fee-nee-TEEF", "example": "L'infinitif remplace le subjonctif quand le sujet des deux verbes est identique.", "exampleEnglish": "The infinitive replaces the subjunctive when the subject of both verbs is the same.", "level": "B2", "category": "grammar" },
+            { "id": "l-infinitif-passe", "french": "l'infinitif passé", "english": "the perfect infinitive", "partOfSpeech": "noun", "gender": "m", "pronunciation": "an-fee-nee-TEEF pah-SAY", "example": "L'infinitif passé marque l'antériorité après « après » : après avoir lu.", "exampleEnglish": "The perfect infinitive marks anteriority after \"après\": after having read.", "level": "B2", "category": "grammar" },
+            { "id": "la-proposition-infinitive", "french": "la proposition infinitive", "english": "the infinitive clause", "partOfSpeech": "noun", "gender": "f", "plural": "propositions infinitives", "pronunciation": "proh-poh-zee-SYOHN an-fee-nee-TEEV", "example": "Après un verbe de perception, la proposition infinitive remplace souvent la complétive.", "exampleEnglish": "After a verb of perception, the infinitive clause often replaces the noun clause.", "level": "B2", "category": "grammar" },
+            { "id": "le-participe-passe", "french": "le participe passé", "english": "the past participle", "partOfSpeech": "noun", "gender": "m", "plural": "participes passés", "pronunciation": "par-tee-SEEP pah-SAY", "example": "Le participe passé s'accorde avec le sujet après l'auxiliaire être.", "exampleEnglish": "The past participle agrees with the subject after the auxiliary être.", "level": "B2", "category": "grammar" },
+            { "id": "l-accord-du-participe", "french": "l'accord du participe", "english": "participle agreement", "partOfSpeech": "noun", "gender": "m", "pronunciation": "ah-KOR du par-tee-SEEP", "example": "L'accord du participe suit des règles précises selon l'auxiliaire employé.", "exampleEnglish": "Participle agreement follows precise rules depending on the auxiliary used.", "level": "B2", "category": "grammar" },
+            { "id": "l-adjectif-verbal", "french": "l'adjectif verbal", "english": "the verbal adjective", "partOfSpeech": "noun", "gender": "m", "plural": "adjectifs verbaux", "pronunciation": "ad-zhek-TEEF vehr-BAL", "example": "Contrairement au participe présent, l'adjectif verbal s'accorde en genre et en nombre.", "exampleEnglish": "Unlike the present participle, the verbal adjective agrees in gender and number.", "level": "B2", "category": "grammar" },
+            { "id": "invariable", "french": "invariable", "english": "invariable, unchanging in form", "partOfSpeech": "adjective", "pronunciation": "an-vah-RYABL", "example": "Le gérondif est invariable, quel que soit le sujet de la phrase.", "exampleEnglish": "The gerund is invariable, whatever the subject of the sentence.", "level": "B2", "category": "grammar" },
+            { "id": "en-faisant", "french": "en faisant", "english": "by doing, while doing", "partOfSpeech": "expression", "pronunciation": "ahn fuh-ZAHN", "example": "On apprend une langue en faisant des erreurs.", "exampleEnglish": "You learn a language by making mistakes.", "level": "B2", "category": "constructions" },
+            { "id": "tout-en", "french": "tout en", "english": "while, even while (+ gerund)", "partOfSpeech": "expression", "pronunciation": "too tahn", "example": "Tout en comprenant vos raisons, je maintiens ma décision.", "exampleEnglish": "While understanding your reasons, I am maintaining my decision.", "level": "B2", "category": "constructions" },
+            { "id": "voir-quelqu-un-faire-quelque-chose", "french": "voir quelqu'un faire quelque chose", "english": "to see someone do something", "partOfSpeech": "expression", "pronunciation": "vwar kel-KUHN fehr kel-kuh SHOHZ", "example": "Je l'ai vu sortir de la salle en pleine réunion.", "exampleEnglish": "I saw him leave the room in the middle of the meeting.", "level": "B2", "category": "constructions" },
+            { "id": "entendre-quelqu-un-faire-quelque-chose", "french": "entendre quelqu'un faire quelque chose", "english": "to hear someone do something", "partOfSpeech": "expression", "pronunciation": "ahn-TAHN-druh kel-KUHN fehr kel-kuh SHOHZ", "example": "Nous avons entendu les négociateurs discuter pendant des heures.", "exampleEnglish": "We heard the negotiators talking for hours.", "level": "B2", "category": "constructions" },
+            { "id": "apres-avoir-fait", "french": "après avoir fait", "english": "after doing, after having done", "partOfSpeech": "expression", "pronunciation": "ah-PREH ah-VWAR feh", "example": "Après avoir signé le contrat, elle a informé son équipe.", "exampleEnglish": "After signing the contract, she informed her team.", "level": "B2", "category": "constructions" },
+            { "id": "apres-etre-alle", "french": "après être allé", "english": "after having gone", "partOfSpeech": "expression", "pronunciation": "ah-PREH eh-truh ah-LAY", "example": "Après être arrivés en retard, ils se sont excusés.", "exampleEnglish": "After arriving late, they apologised.", "level": "B2", "category": "constructions" },
+            { "id": "avant-de", "french": "avant de", "english": "before (+ infinitive)", "partOfSpeech": "expression", "pronunciation": "ah-VAHN duh", "example": "Relisez toujours un contrat avant de le signer.", "exampleEnglish": "Always reread a contract before signing it.", "level": "B2", "category": "constructions" },
+            { "id": "sans-faire", "french": "sans faire", "english": "without doing", "partOfSpeech": "expression", "pronunciation": "sahn fehr", "example": "Il a quitté la salle sans dire un mot.", "exampleEnglish": "He left the room without saying a word.", "level": "B2", "category": "constructions" },
+            { "id": "au-lieu-de", "french": "au lieu de", "english": "instead of (+ infinitive)", "partOfSpeech": "expression", "pronunciation": "oh lyuh duh", "example": "Au lieu de critiquer, proposez une solution.", "exampleEnglish": "Instead of criticising, propose a solution.", "level": "B2", "category": "constructions" },
+            { "id": "le-fait-de", "french": "le fait de", "english": "the fact of, the act of (+ infinitive)", "partOfSpeech": "expression", "pronunciation": "luh feh duh", "example": "Le fait de reconnaître son erreur est déjà un progrès.", "exampleEnglish": "The act of acknowledging one's mistake is already progress.", "level": "B2", "category": "constructions" },
+            { "id": "en-meme-temps-que", "french": "en même temps que", "english": "at the same time as", "partOfSpeech": "expression", "pronunciation": "ahn mem tahn kuh", "example": "Le rapport a été publié en même temps que le communiqué.", "exampleEnglish": "The report was published at the same time as the press release.", "level": "B2", "category": "constructions" },
+            { "id": "la-cause", "french": "la cause", "english": "the cause", "partOfSpeech": "noun", "gender": "f", "plural": "causes", "pronunciation": "lah KOHZ", "example": "Le gérondif peut exprimer la cause d'une action.", "exampleEnglish": "The gerund can express the cause of an action.", "level": "B2", "category": "grammar" },
+            { "id": "la-maniere", "french": "la manière", "english": "the manner, the way", "partOfSpeech": "noun", "gender": "f", "plural": "manières", "pronunciation": "lah mah-NYEHR", "example": "Le gérondif décrit souvent la manière dont une action se fait.", "exampleEnglish": "The gerund often describes the manner in which an action is done.", "level": "B2", "category": "grammar" },
+            { "id": "la-condition", "french": "la condition", "english": "the condition", "partOfSpeech": "noun", "gender": "f", "plural": "conditions", "pronunciation": "lah kohn-dee-SYOHN", "example": "Le gérondif peut aussi exprimer une condition implicite.", "exampleEnglish": "The gerund can also express an implicit condition.", "level": "B2", "category": "grammar" },
+            { "id": "exprimer-la-cause", "french": "exprimer la cause", "english": "to express cause", "partOfSpeech": "expression", "pronunciation": "eks-pree-MAY lah KOHZ", "example": "« En insistant » peut exprimer la cause d'un résultat.", "exampleEnglish": "\"By insisting\" can express the cause of a result.", "level": "B2", "category": "grammar" },
+            { "id": "exprimer-la-maniere", "french": "exprimer la manière", "english": "to express manner", "partOfSpeech": "expression", "pronunciation": "eks-pree-MAY lah mah-NYEHR", "example": "« En travaillant avec méthode » exprime la manière de réussir.", "exampleEnglish": "\"By working methodically\" expresses the manner of succeeding.", "level": "B2", "category": "grammar" },
+            { "id": "le-verbe-de-perception", "french": "le verbe de perception", "english": "verb of perception", "partOfSpeech": "noun", "gender": "m", "plural": "verbes de perception", "pronunciation": "vehrb duh pehr-sep-SYOHN", "example": "Voir, entendre et sentir sont des verbes de perception.", "exampleEnglish": "To see, to hear and to feel are verbs of perception.", "level": "B2", "category": "grammar" },
+            { "id": "laisser-faire", "french": "laisser faire", "english": "to let (someone) do, to allow to happen", "partOfSpeech": "expression", "pronunciation": "leh-SAY fehr", "example": "Elle a laissé son associé prendre la décision finale.", "exampleEnglish": "She let her associate make the final decision.", "level": "B2", "category": "constructions" },
+            { "id": "faire-faire", "french": "faire faire", "english": "to have (something) done", "partOfSpeech": "expression", "pronunciation": "fehr fehr", "example": "Le directeur a fait signer le contrat par son adjoint.", "exampleEnglish": "The director had the contract signed by his assistant.", "level": "B2", "category": "constructions" },
+            { "id": "le-verbe-pronominal", "french": "le verbe pronominal", "english": "the pronominal (reflexive) verb", "partOfSpeech": "noun", "gender": "m", "plural": "verbes pronominaux", "pronunciation": "vehrb pro-noh-mee-NAL", "example": "L'accord d'un participe pronominal suit des règles particulières.", "exampleEnglish": "The agreement of a pronominal participle follows special rules.", "level": "B2", "category": "grammar" },
+            { "id": "l-auxiliaire", "french": "l'auxiliaire", "english": "the auxiliary verb", "partOfSpeech": "noun", "gender": "m", "plural": "auxiliaires", "pronunciation": "ok-see-LYEHR", "example": "Le choix de l'auxiliaire détermine l'accord du participe passé.", "exampleEnglish": "The choice of auxiliary determines the agreement of the past participle.", "level": "B2", "category": "grammar" },
+            { "id": "le-complement-d-objet-direct", "french": "le complément d'objet direct", "english": "the direct object", "partOfSpeech": "noun", "gender": "m", "plural": "compléments d'objet direct", "pronunciation": "kohn-play-MAHN dob-ZHEH dee-REKT", "example": "Le participe passé s'accorde avec le complément d'objet direct antéposé.", "exampleEnglish": "The past participle agrees with a direct object placed before it.", "level": "B2", "category": "grammar" },
+            { "id": "anteposer", "french": "antéposer", "english": "to place before, to front (a word or phrase)", "partOfSpeech": "verb", "pronunciation": "ahn-tay-poh-ZAY", "example": "Quand on antépose le complément, le participe passé s'accorde avec lui.", "exampleEnglish": "When you front the object, the past participle agrees with it.", "level": "B2", "category": "grammar" },
+            { "id": "la-proposition-participiale", "french": "la proposition participiale", "english": "the participial clause", "partOfSpeech": "noun", "gender": "f", "plural": "propositions participiales", "pronunciation": "proh-poh-zee-SYOHN par-tee-see-PYAL", "example": "« Le dîner terminé, les invités sont partis » est une proposition participiale.", "exampleEnglish": "\"Dinner finished, the guests left\" is a participial clause.", "level": "B2", "category": "grammar" },
+            { "id": "simultanement", "french": "simultanément", "english": "simultaneously", "partOfSpeech": "adverb", "pronunciation": "see-mul-tah-nay-MAHN", "example": "Le gérondif exprime deux actions qui se produisent simultanément.", "exampleEnglish": "The gerund expresses two actions that happen simultaneously.", "level": "B2", "category": "grammar" },
+            { "id": "successivement", "french": "successivement", "english": "successively, one after another", "partOfSpeech": "adverb", "pronunciation": "suk-say-seev-MAHN", "example": "Les participes passés s'enchaînent successivement dans ce récit complexe.", "exampleEnglish": "The past participles chain successively through this complex narrative.", "level": "B2", "category": "grammar" },
+            { "id": "le-connecteur-logique", "french": "le connecteur logique", "english": "the logical connector", "partOfSpeech": "noun", "gender": "m", "plural": "connecteurs logiques", "pronunciation": "koh-nek-TUR lo-ZHEEK", "example": "Un bon connecteur logique remplace parfois toute une proposition subordonnée.", "exampleEnglish": "A good logical connector sometimes replaces a whole subordinate clause.", "level": "B2", "category": "grammar" },
+            { "id": "la-subordination", "french": "la subordination", "english": "subordination (of one clause to another)", "partOfSpeech": "noun", "gender": "f", "pronunciation": "su-bor-dee-nah-SYOHN", "example": "Le gérondif permet d'éviter une lourde subordination.", "exampleEnglish": "The gerund makes it possible to avoid heavy subordination.", "level": "B2", "category": "grammar" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "L'accord du participe passé",
+              "body": "With avoir, the past participle never agrees with the subject, but it does agree with a preceding direct object (complément d'objet direct antéposé) — typically a pronoun (le, la, les), or a relative pronoun \"que\". With être, the participle agrees with the subject, including in the passive voice and with most pronominal verbs, unless the pronominal verb has its own direct object placed after it.",
+              "examples": [
+                { "french": "J'ai lu ces rapports. → Je les ai lus.", "english": "I read these reports. → I read them.", "note": "\"les\" precedes \"ai\", so the participle agrees: lus" },
+                { "french": "Voici les documents que vous avez signés.", "english": "Here are the documents that you signed.", "note": "\"que\" refers to \"documents\", masculine plural" },
+                { "french": "Elle s'est présentée à l'entretien avec assurance.", "english": "She introduced herself to the interview with confidence.", "note": "pronominal verb, agrees with subject" },
+                { "french": "Elle s'est lavé les mains.", "english": "She washed her hands.", "note": "\"les mains\" is the direct object placed after — no agreement here" }
+              ],
+              "tip": "Ask: is there a direct object before the verb? With avoir, that's the only trigger for agreement — everything else stays invariable."
+            },
+            {
+              "heading": "La proposition participiale absolue",
+              "body": "A participial clause (proposition participiale) has its own subject, distinct from the main clause's subject, and needs no conjunction to connect the two — the participle alone carries the logical link of time, cause or condition. This construction belongs to a formal, written register and compresses what would otherwise require \"quand\", \"comme\" or \"une fois que\" plus a full clause.",
+              "examples": [
+                { "french": "Le dîner terminé, les invités sont partis les uns après les autres.", "english": "Dinner finished, the guests left one after another.", "note": "= une fois que le dîner fut terminé" },
+                { "french": "La décision prise, il ne restait plus qu'à informer l'équipe.", "english": "The decision made, all that remained was to inform the team.", "note": "= une fois que la décision fut prise" },
+                { "french": "Le contrat signé, les deux parties se sont serré la main.", "english": "The contract signed, the two parties shook hands." }
+              ],
+              "tip": "This construction is elegant in writing but rare in conversation — recognise it fluently, and reserve producing it for formal reports or literary style."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "b2_u29_l03_li01", "type": "listenChoose", "prompt": "Listen. What construction is used?", "french": "Elle a répondu au téléphone en conduisant.", "options": ["Le gérondif", "L'infinitif passé", "Le subjonctif", "Le participe passé seul"], "answer": "Le gérondif" },
+            { "id": "b2_u29_l03_li02", "type": "listenChoose", "prompt": "Listen. What does the speaker mean?", "french": "Après avoir signé le contrat, elle a informé son équipe.", "options": ["She informed her team after signing the contract.", "She signed the contract after informing her team.", "She never signed the contract.", "She informed her team instead of signing."], "answer": "She informed her team after signing the contract." },
+            { "id": "b2_u29_l03_li03", "type": "listenType", "prompt": "Listen and type what you hear.", "french": "Tout en comprenant vos raisons, je maintiens ma décision.", "answer": "Tout en comprenant vos raisons, je maintiens ma décision.", "acceptedAnswers": ["tout en comprenant vos raisons je maintiens ma decision"] },
+            { "id": "b2_u29_l03_li04", "type": "dictation", "prompt": "Dictation: write exactly what you hear.", "french": "Le contrat signé, les deux parties se sont serré la main.", "answer": "Le contrat signé, les deux parties se sont serré la main.", "acceptedAnswers": ["le contrat signe les deux parties se sont serre la main"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "b2_u29_l03_sp01", "type": "speak", "prompt": "Combine two actions with the gérondif.", "french": "Il a réussi en travaillant avec méthode.", "english": "He succeeded by working methodically.", "tip": "Link \"en travaillant\" smoothly to the verb before it — the gérondif should sound like one breath, not two clauses." },
+            { "id": "b2_u29_l03_sp02", "type": "speak", "prompt": "Use the perfect infinitive after \"après\".", "french": "Après être arrivés en retard, ils se sont excusés.", "english": "After arriving late, they apologised.", "tip": "Remember the agreement: \"arrivés\" takes an -s because the implied subject \"ils\" is plural." },
+            { "id": "b2_u29_l03_sp03", "type": "speak", "prompt": "Use the causative faire.", "french": "Le directeur a fait signer le contrat par son adjoint.", "english": "The director had the contract signed by his assistant.", "tip": "\"Fait signer\" stays glued together — never insert anything between \"faire\" and the infinitive." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Écrire sans alourdir : l'art des constructions complexes",
+              "french": "Un texte truffé de propositions subordonnées finit souvent par lasser le lecteur, même quand chaque phrase reste grammaticalement correcte.\nLes bons rédacteurs le savent : mieux vaut parfois condenser une idée que de l'étirer sur deux propositions reliées par « qui » ou « parce que ».\nC'est précisément le rôle des participes, des gérondifs et des propositions infinitives.\nAu lieu d'écrire « les candidats qui souhaitent participer doivent s'inscrire », on préfère souvent : « les candidats souhaitant participer doivent s'inscrire ».\nLe participe présent remplace ainsi toute une proposition relative, sans rien perdre du sens.\nLe gérondif, lui, excelle à exprimer deux actions menées de front : « il travaille en écoutant de la musique » dit, en quatre mots, ce qu'une subordonnée dirait en huit.\nL'infinitif passé, de son côté, marque l'antériorité sans recourir à un nouveau sujet : « après avoir terminé son rapport, elle est partie » évite la lourdeur de « après qu'elle eut terminé son rapport ».\nMême les verbes de perception profitent de cette économie : on dit « je l'ai vu partir », jamais « j'ai vu qu'il partait », qui sonnerait artificiel.\nLa proposition participiale absolue pousse cette logique encore plus loin : « le dîner terminé, les invités sont partis » se passe même de conjonction.\nCes constructions ne sont pas de simples fioritures stylistiques.\nElles reflètent une exigence de clarté : dire beaucoup, en peu de mots, sans jamais sacrifier la précision.\nMaîtriser ces outils, c'est franchir un cap décisif vers une expression réellement soutenue et fluide.",
+              "english": "A text riddled with subordinate clauses often ends up tiring the reader, even when every sentence remains grammatically correct.\nGood writers know this: it is sometimes better to condense an idea than to stretch it across two clauses joined by \"who\" or \"because\".\nThat is precisely the role of participles, gerunds and infinitive clauses.\nInstead of writing \"the candidates who wish to take part must register\", we often prefer: \"candidates wishing to take part must register\".\nThe present participle thus replaces an entire relative clause without losing any meaning.\nThe gerund, for its part, excels at expressing two actions carried out together: \"he works while listening to music\" says, in five words, what a subordinate clause would say in eight.\nThe perfect infinitive, meanwhile, marks anteriority without requiring a new subject: \"after finishing her report, she left\" avoids the heaviness of \"after she had finished her report\".\nEven verbs of perception benefit from this economy: we say \"I saw him leave\", never \"I saw that he was leaving\", which would sound artificial.\nThe absolute participial clause pushes this logic even further: \"dinner finished, the guests left\" does without a conjunction altogether.\nThese constructions are not mere stylistic flourishes.\nThey reflect a demand for clarity: saying a great deal, in few words, without ever sacrificing precision.\nMastering these tools marks a decisive step toward truly fluent, elevated expression.",
+              "questions": [
+                { "id": "b2_u29_l03_rd01", "type": "multipleChoice", "prompt": "According to the passage, what does the present participle often replace?", "options": ["An entire relative clause", "The main verb", "A noun", "A preposition"], "answer": "An entire relative clause" },
+                { "id": "b2_u29_l03_rd02", "type": "trueFalse", "prompt": "Selon le texte, la proposition participiale absolue a besoin d'une conjonction.", "options": ["True", "False"], "answer": "False" },
+                { "id": "b2_u29_l03_rd03", "type": "multipleChoice", "prompt": "What does the author say these constructions reflect?", "options": ["A demand for clarity and precision", "A need to sound complicated", "An old-fashioned habit with no purpose", "A rule with many exceptions and no logic"], "answer": "A demand for clarity and precision" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "b2_u29_l03_wr01", "type": "translate", "prompt": "Translate into French.", "english": "After signing the contract, she informed her team.", "answer": "Après avoir signé le contrat, elle a informé son équipe.", "acceptedAnswers": ["apres avoir signe le contrat elle a informe son equipe"] },
+            { "id": "b2_u29_l03_wr02", "type": "fillBlank", "prompt": "Elle a réussi ___ travaillant avec méthode. (gérondif marker)", "answer": "en" },
+            { "id": "b2_u29_l03_wr03", "type": "arrangeWords", "prompt": "Put the words in order.", "words": ["méthode,", "travaillant", "réussi", "avec", "a", "en", "Il"], "answer": "Il a réussi en travaillant avec méthode", "english": "He succeeded by working methodically" }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "b2_u29_l03_pr01", "type": "fillBlank", "prompt": "Les candidats ___ participer doivent s'inscrire avant vendredi. (souhaiter, participe présent)", "answer": "souhaitant" },
+            { "id": "b2_u29_l03_pr02", "type": "multipleChoice", "prompt": "Which construction always shares its subject with the main clause?", "options": ["le gérondif", "la proposition participiale absolue", "le discours indirect", "le subjonctif"], "answer": "le gérondif" },
+            { "id": "b2_u29_l03_pr03", "type": "match", "prompt": "Match the construction to its function.", "pairs": [ { "french": "le gérondif", "english": "simultaneity, manner, cause" }, { "french": "l'infinitif passé", "english": "anteriority" }, { "french": "le participe présent", "english": "replaces a relative clause" }, { "french": "faire faire", "english": "causation" } ] },
+            { "id": "b2_u29_l03_pr04", "type": "translate", "prompt": "Translate into French.", "english": "She let her associate make the final decision.", "answer": "Elle a laissé son associé prendre la décision finale.", "acceptedAnswers": ["elle a laisse son associe prendre la decision finale"] },
+            { "id": "b2_u29_l03_pr05", "type": "arrangeWords", "prompt": "Put the words in order.", "words": ["invités", "terminé,", "sont", "dîner", "Le", "les", "partis"], "answer": "Le dîner terminé, les invités sont partis", "english": "Dinner finished, the guests left" },
+            { "id": "b2_u29_l03_pr06", "type": "trueFalse", "prompt": "Le participe passé employé avec avoir s'accorde toujours avec le sujet.", "options": ["True", "False"], "answer": "False" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "b2_u29_l03_qz01", "type": "multipleChoice", "prompt": "What does \"tout en\" + gérondif typically add to the meaning?", "options": ["A concessive or strongly simultaneous nuance", "A future tense", "A negation", "A question"], "answer": "A concessive or strongly simultaneous nuance" },
+            { "id": "b2_u29_l03_qz02", "type": "fillBlank", "prompt": "Après être arrivé___ en retard, ils se sont excusés. (agreement with \"ils\")", "answer": "s" },
+            { "id": "b2_u29_l03_qz03", "type": "multipleChoice", "prompt": "What replaces \"je vois qu'il arrive\" in more natural French?", "options": ["Je le vois arriver.", "Je vois qu'il arrivait.", "Je verrai qu'il arrive.", "Je voyais qu'il arrive."], "answer": "Je le vois arriver." },
+            { "id": "b2_u29_l03_qz04", "type": "translate", "prompt": "Translate into French.", "english": "The director had the contract signed by his assistant.", "answer": "Le directeur a fait signer le contrat par son adjoint.", "acceptedAnswers": ["le directeur a fait signer le contrat par son adjoint"] },
+            { "id": "b2_u29_l03_qz05", "type": "match", "prompt": "Match the term to its meaning.", "pairs": [ { "french": "l'adjectif verbal", "english": "agrees in gender and number" }, { "french": "le participe présent", "english": "invariable, verbal use" }, { "french": "la proposition participiale", "english": "has its own subject, no conjunction" }, { "french": "l'accord du participe", "english": "agreement of the past participle" } ] }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1232 @@
+{
+  "id": "c1_u07",
+  "level": "C1",
+  "unit": 7,
+  "title": "Legal French",
+  "subtitle": "The language of law itself: nominalised syntax and living archaisms, reading a contract clause by clause, and building a legal argument that holds",
+  "icon": "⚖️",
+  "lessons": [
+    {
+      "id": "c1_u07_l01",
+      "level": "C1",
+      "unit": 7,
+      "title": "La langue du droit",
+      "description": "Why legal French prefers nouns to verbs, keeps words the rest of the language abandoned, and repeats itself on purpose.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "The noun does the work",
+              "body": "Ordinary French tells a story with verbs; legal French freezes the story into nouns. « Le locataire n'a pas payé » becomes « le défaut de paiement du locataire ». This is called nominalisation, and it is not decoration: a noun can be dated, quantified, referred back to and made the subject of another rule, whereas a verb drags along a tense and a person that the drafter may not want to commit to. Learning to read law is largely learning to unfold these nouns back into sentences.",
+              "examples": [
+                { "french": "Le défaut de paiement entraîne l'exigibilité immédiate du solde.", "english": "Failure to pay renders the balance immediately due.", "note": "Two nominalisations in one line: défaut de paiement, exigibilité." },
+                { "french": "La non-restitution des clés vaut prolongation de l'occupation.", "english": "Failure to return the keys amounts to an extension of the occupancy.", "note": "« non- » nominalises a negation — very common in drafting." },
+                { "french": "L'inexécution de l'une quelconque des obligations autorise la résiliation.", "english": "Non-performance of any one of the obligations permits termination." },
+                { "french": "En cas de retard dans la livraison, une pénalité est due.", "english": "In the event of delay in delivery, a penalty falls due.", "note": "« en cas de + nom » replaces a whole conditional clause." },
+                { "french": "La signature du présent acte emporte acceptation des annexes.", "english": "Signature of this instrument entails acceptance of the appendices.", "note": "« emporter » in law = to entail automatically." }
+              ],
+              "tip": "When a legal sentence resists you, translate each abstract noun back into a small clause. « Le défaut de paiement » → « il n'a pas payé ». The rule usually becomes obvious."
+            },
+            {
+              "heading": "Archaisms that never died",
+              "body": "Law kept words that the rest of French dropped two centuries ago, and it kept them because they are unambiguous. « Ledit contrat » points to one contract already named and to no other; « nonobstant » excludes an objection without arguing with it; « aux termes de » says \"according to the exact wording of\". Outside a legal text these words sound comic or pompous — inside one they are the shortest route to precision.",
+              "examples": [
+                { "french": "Ledit contrat a été signé le 12 mars ; ladite signature n'a jamais été contestée.", "english": "The said contract was signed on 12 March; the said signature has never been contested.", "note": "ledit / ladite / lesdits / lesdites agree in gender and number." },
+                { "french": "Nonobstant toute clause contraire, le présent article prévaut.", "english": "Notwithstanding any clause to the contrary, this article prevails." },
+                { "french": "Aux termes de l'article 4, le préavis est de trois mois.", "english": "Under the wording of article 4, the notice period is three months.", "note": "Not « selon » — « aux termes de » insists on the literal text." },
+                { "french": "En vertu de la convention susvisée, les parties acceptent la médiation.", "english": "By virtue of the aforementioned agreement, the parties accept mediation.", "note": "« susvisé » = mentioned above; « susmentionné » is its twin." },
+                { "french": "Le cas échéant, une indemnité forfaitaire sera versée.", "english": "Where applicable, a lump-sum indemnity will be paid.", "note": "« le cas échéant » ≈ if the case arises — hugely frequent." }
+              ],
+              "tip": "These archaisms are read far more often than they are written. Recognising them is C1; using them yourself is only expected if you actually draft."
+            },
+            {
+              "heading": "Precision beats elegance",
+              "body": "Everything your literature teacher forbade, legal French requires. Repeat the same word rather than find a synonym, because a synonym raises the question of whether you meant something else. Avoid pronouns when the antecedent could be argued about. Define a term once, capitalise it, and use only that term afterwards. The result is heavy and deliberately so: a beautiful sentence that can be read two ways is, in a contract, a defect.",
+              "examples": [
+                { "french": "Le Prestataire informe le Client ; le Client dispose alors de huit jours.", "english": "The Provider informs the Client; the Client then has eight days.", "note": "No « celui-ci » — the defined term is repeated to kill any doubt." },
+                { "french": "Par « Livraison », on entend la remise effective des marchandises au Client.", "english": "\"Delivery\" means the actual handing over of the goods to the Client.", "note": "The definition article: « on entend par », « s'entend de »." },
+                { "french": "Le délai court à compter de la réception, et non de l'expédition.", "english": "The period runs from receipt, and not from dispatch.", "note": "Explicit exclusion is cheaper than a later dispute." },
+                { "french": "Sauf stipulation contraire, les frais sont à la charge du vendeur.", "english": "Unless otherwise stipulated, the costs are borne by the seller." },
+                { "french": "Les parties conviennent expressément que cette tolérance ne vaut pas renonciation.", "english": "The parties expressly agree that this forbearance does not amount to a waiver.", "note": "« expressément » signals that the point was negotiated, not assumed." }
+              ],
+              "tip": "A good test of a clause: could a hostile reader, acting in bad faith, find a second meaning? If yes, the clause is not finished."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "la-langue-du-droit", "french": "la langue du droit", "english": "legal language", "partOfSpeech": "noun", "gender": "f", "plural": "les langues du droit", "pronunciation": "lah lahng due DRWAH", "example": "La langue du droit vise la certitude, pas la beauté.", "exampleEnglish": "Legal language aims at certainty, not beauty.", "level": "C1", "category": "legal-language" },
+            { "id": "le-droit", "french": "le droit", "english": "law (the discipline), right", "partOfSpeech": "noun", "gender": "m", "plural": "les droits", "pronunciation": "luh DRWAH", "example": "Le droit français distingue soigneusement la forme et le fond.", "exampleEnglish": "French law carefully distinguishes form from substance.", "level": "C1", "category": "legal-language" },
+            { "id": "le-juriste", "french": "le juriste", "english": "legal professional, jurist", "partOfSpeech": "noun", "gender": "m", "plural": "les juristes", "pronunciation": "luh zhue-REEST", "example": "Un bon juriste relit une phrase en cherchant sa deuxième lecture.", "exampleEnglish": "A good jurist rereads a sentence looking for its second reading.", "level": "C1", "category": "legal-language" },
+            { "id": "la-nominalisation", "french": "la nominalisation", "english": "nominalisation, turning verbs into nouns", "partOfSpeech": "noun", "gender": "f", "plural": "les nominalisations", "pronunciation": "lah noh-mee-nah-lee-zah-SYON", "example": "La nominalisation permet de renvoyer plus tard au même fait.", "exampleEnglish": "Nominalisation makes it possible to refer back to the same fact later.", "level": "C1", "category": "legal-language" },
+            { "id": "l-acte-juridique", "french": "l'acte juridique", "english": "legal instrument, legal act", "partOfSpeech": "noun", "gender": "m", "plural": "les actes juridiques", "pronunciation": "lakt zhue-ree-DEEK", "example": "Un acte juridique tire sa force de la volonté des parties.", "exampleEnglish": "A legal instrument draws its force from the will of the parties.", "level": "C1", "category": "legal-language" },
+            { "id": "la-redaction-juridique", "french": "la rédaction juridique", "english": "legal drafting", "partOfSpeech": "noun", "gender": "f", "plural": "les rédactions juridiques", "pronunciation": "lah ray-dak-SYON zhue-ree-DEEK", "example": "La rédaction juridique s'apprend en corrigeant, jamais en admirant.", "exampleEnglish": "Legal drafting is learnt by correcting, never by admiring.", "level": "C1", "category": "legal-language" },
+            { "id": "le-redacteur-d-actes", "french": "le rédacteur d'actes", "english": "the drafter (of legal instruments)", "partOfSpeech": "noun", "gender": "m", "plural": "les rédacteurs d'actes", "pronunciation": "luh ray-dak-TUHR DAKT", "example": "Le rédacteur d'actes écrit pour un lecteur de mauvaise foi.", "exampleEnglish": "The drafter writes for a reader acting in bad faith.", "level": "C1", "category": "legal-language" },
+            { "id": "le-libelle", "french": "le libellé", "english": "the wording (as written)", "partOfSpeech": "noun", "gender": "m", "plural": "les libellés", "pronunciation": "luh lee-beh-LAY", "example": "Le libellé de la clause ne dit pas ce que le client croit.", "exampleEnglish": "The wording of the clause does not say what the client believes.", "level": "C1", "category": "legal-language" },
+            { "id": "libeller", "french": "libeller", "english": "to word, to draw up in a given form", "partOfSpeech": "verb", "pronunciation": "lee-beh-LAY", "example": "La demande doit être libellée en termes précis.", "exampleEnglish": "The request must be worded in precise terms.", "level": "C1", "category": "legal-language" },
+            { "id": "la-disposition", "french": "la disposition", "english": "provision (of a text)", "partOfSpeech": "noun", "gender": "f", "plural": "les dispositions", "pronunciation": "lah dees-poh-zee-SYON", "example": "Cette disposition ne s'applique pas aux contrats antérieurs.", "exampleEnglish": "This provision does not apply to earlier contracts.", "level": "C1", "category": "legal-language" },
+            { "id": "l-alinea", "french": "l'alinéa", "english": "the sub-paragraph", "partOfSpeech": "noun", "gender": "m", "plural": "les alinéas", "pronunciation": "lah-lee-nay-AH", "example": "Le deuxième alinéa contredit le premier.", "exampleEnglish": "The second sub-paragraph contradicts the first.", "level": "C1", "category": "legal-language" },
+            { "id": "le-preambule", "french": "le préambule", "english": "the preamble, the recitals", "partOfSpeech": "noun", "gender": "m", "plural": "les préambules", "pronunciation": "luh pray-ahn-BUEL", "example": "Le préambule explique pourquoi les parties contractent.", "exampleEnglish": "The preamble explains why the parties are contracting.", "level": "C1", "category": "legal-language" },
+            { "id": "ledit", "french": "ledit / ladite", "english": "the said, the aforementioned", "partOfSpeech": "adjective", "pronunciation": "luh-DEE / lah-DEET", "example": "Ledit rapport a été communiqué à ladite commission.", "exampleEnglish": "The said report was sent to the said committee.", "level": "C1", "category": "legal-language" },
+            { "id": "susvise", "french": "susvisé / susvisée", "english": "aforementioned, referred to above", "partOfSpeech": "adjective", "pronunciation": "sue-vee-ZAY", "example": "La convention susvisée reste applicable jusqu'en décembre.", "exampleEnglish": "The aforementioned agreement remains applicable until December.", "level": "C1", "category": "legal-language" },
+            { "id": "nonobstant", "french": "nonobstant", "english": "notwithstanding", "partOfSpeech": "expression", "pronunciation": "noh-nob-STAHN", "example": "Nonobstant toute disposition contraire, cet article prévaut.", "exampleEnglish": "Notwithstanding any provision to the contrary, this article prevails.", "level": "C1", "category": "legal-language" },
+            { "id": "aux-termes-de", "french": "aux termes de", "english": "under the wording of, pursuant to", "partOfSpeech": "expression", "pronunciation": "oh TEHRM duh", "example": "Aux termes de l'article 7, la garantie couvre deux ans.", "exampleEnglish": "Under the wording of article 7, the warranty covers two years.", "level": "C1", "category": "legal-language" },
+            { "id": "en-vertu-de", "french": "en vertu de", "english": "by virtue of, under", "partOfSpeech": "expression", "pronunciation": "ahn vehr-TUE duh", "example": "En vertu de cet accord, chaque partie supporte ses frais.", "exampleEnglish": "By virtue of this agreement, each party bears its own costs.", "level": "C1", "category": "legal-language" },
+            { "id": "sous-reserve-de", "french": "sous réserve de", "english": "subject to", "partOfSpeech": "expression", "pronunciation": "soo ray-ZEHRV duh", "example": "L'accord est donné sous réserve de la remise des pièces.", "exampleEnglish": "Consent is given subject to the documents being handed over.", "level": "C1", "category": "legal-language" },
+            { "id": "par-derogation-a", "french": "par dérogation à", "english": "by way of exception to", "partOfSpeech": "expression", "pronunciation": "par day-roh-gah-SYON ah", "example": "Par dérogation à l'article 3, le délai est porté à un mois.", "exampleEnglish": "By way of exception to article 3, the period is extended to one month.", "level": "C1", "category": "legal-language" },
+            { "id": "le-cas-echeant", "french": "le cas échéant", "english": "where applicable, if the case arises", "partOfSpeech": "expression", "pronunciation": "luh kah ay-shay-AHN", "example": "Le cas échéant, une expertise contradictoire sera ordonnée.", "exampleEnglish": "Where applicable, an adversarial expert assessment will be ordered.", "level": "C1", "category": "legal-language" },
+            { "id": "attendu-que", "french": "attendu que", "english": "whereas, given that", "partOfSpeech": "conjunction", "pronunciation": "ah-tahn-DUE kuh", "example": "Attendu que le bien n'a jamais été livré, la demande est fondée.", "exampleEnglish": "Whereas the goods were never delivered, the claim is well founded.", "level": "C1", "category": "legal-language" },
+            { "id": "etant-entendu-que", "french": "étant entendu que", "english": "it being understood that", "partOfSpeech": "expression", "pronunciation": "ay-TAHN ahn-tahn-DUE kuh", "example": "Étant entendu que les frais restent à la charge du vendeur.", "exampleEnglish": "It being understood that the costs remain borne by the seller.", "level": "C1", "category": "legal-language" },
+            { "id": "par-les-presentes", "french": "par les présentes", "english": "hereby, by this instrument", "partOfSpeech": "expression", "pronunciation": "par lay pray-ZAHNT", "example": "Les parties déclarent par les présentes renoncer à toute action.", "exampleEnglish": "The parties hereby declare that they waive any action.", "level": "C1", "category": "legal-language" },
+            { "id": "la-presente-convention", "french": "la présente convention", "english": "this agreement (the present one)", "partOfSpeech": "noun", "gender": "f", "plural": "les présentes conventions", "pronunciation": "lah pray-ZAHNT kon-vahn-SYON", "example": "La présente convention annule et remplace tout accord antérieur.", "exampleEnglish": "This agreement cancels and replaces any earlier agreement.", "level": "C1", "category": "legal-language" },
+            { "id": "etre-repute", "french": "être réputé", "english": "to be deemed", "partOfSpeech": "verb", "pronunciation": "EH-truh ray-pue-TAY", "example": "Toute lettre est réputée reçue le lendemain de son envoi.", "exampleEnglish": "Any letter is deemed received on the day after it is sent.", "level": "C1", "category": "legal-language" },
+            { "id": "etre-tenu-de", "french": "être tenu de", "english": "to be bound to, to be under a duty to", "partOfSpeech": "verb", "pronunciation": "EH-truh tuh-NUE duh", "example": "Le vendeur est tenu de délivrer une chose conforme.", "exampleEnglish": "The seller is bound to deliver a conforming thing.", "level": "C1", "category": "legal-language" },
+            { "id": "il-incombe-a", "french": "il incombe à", "english": "it falls to, it is incumbent upon", "partOfSpeech": "expression", "pronunciation": "eel an-KOMB ah", "example": "Il incombe au demandeur de prouver le préjudice.", "exampleEnglish": "It falls to the claimant to prove the loss.", "level": "C1", "category": "legal-language" },
+            { "id": "s-entendre-de", "french": "s'entendre de", "english": "to be understood as meaning", "partOfSpeech": "verb", "pronunciation": "sahn-TAHN-druh duh", "example": "Le mot « livraison » s'entend de la remise matérielle du bien.", "exampleEnglish": "The word \"delivery\" is to be understood as the physical handing over of the item.", "level": "C1", "category": "legal-language" },
+            { "id": "sauf-stipulation-contraire", "french": "sauf stipulation contraire", "english": "unless otherwise stipulated", "partOfSpeech": "expression", "pronunciation": "sohf stee-pue-lah-SYON kon-TREHR", "example": "Sauf stipulation contraire, le paiement s'effectue à réception.", "exampleEnglish": "Unless otherwise stipulated, payment is made on receipt.", "level": "C1", "category": "legal-language" },
+            { "id": "la-formule-consacree", "french": "la formule consacrée", "english": "the set formula, the standard phrase", "partOfSpeech": "noun", "gender": "f", "plural": "les formules consacrées", "pronunciation": "lah for-MUEL kon-sah-KRAY", "example": "« Sous toutes réserves » est une formule consacrée du courrier d'avocat.", "exampleEnglish": "\"Without prejudice\" is a set formula in lawyers' letters.", "level": "C1", "category": "legal-language" },
+            { "id": "l-archaisme", "french": "l'archaïsme", "english": "the archaism", "partOfSpeech": "noun", "gender": "m", "plural": "les archaïsmes", "pronunciation": "lar-kah-EESM", "example": "Cet archaïsme survit parce qu'il ne se prête à aucun malentendu.", "exampleEnglish": "This archaism survives because it lends itself to no misunderstanding.", "level": "C1", "category": "legal-language" },
+            { "id": "le-doublet", "french": "le doublet", "english": "the doublet (paired synonyms)", "partOfSpeech": "noun", "gender": "m", "plural": "les doublets", "pronunciation": "luh doo-BLEH", "example": "« Annuler et remplacer » est un doublet hérité de la vieille pratique.", "exampleEnglish": "\"Cancel and replace\" is a doublet inherited from old practice.", "level": "C1", "category": "legal-language" },
+            { "id": "la-locution-latine", "french": "la locution latine", "english": "the Latin phrase", "partOfSpeech": "noun", "gender": "f", "plural": "les locutions latines", "pronunciation": "lah loh-kue-SYON lah-TEEN", "example": "Une locution latine mal employée trahit vite le débutant.", "exampleEnglish": "A misused Latin phrase quickly gives away the beginner.", "level": "C1", "category": "legal-language" },
+            { "id": "le-terme-defini", "french": "le terme défini", "english": "the defined term", "partOfSpeech": "noun", "gender": "m", "plural": "les termes définis", "pronunciation": "luh tehrm day-fee-NEE", "example": "Chaque terme défini s'écrit avec une majuscule dans tout le contrat.", "exampleEnglish": "Each defined term is capitalised throughout the contract.", "level": "C1", "category": "legal-language" },
+            { "id": "l-ambiguite", "french": "l'ambiguïté", "english": "ambiguity", "partOfSpeech": "noun", "gender": "f", "plural": "les ambiguïtés", "pronunciation": "lahn-bee-gwee-TAY", "example": "Une ambiguïté profite rarement à celui qui a rédigé le texte.", "exampleEnglish": "An ambiguity rarely benefits the person who drafted the text.", "level": "C1", "category": "legal-language" },
+            { "id": "lever-une-ambiguite", "french": "lever une ambiguïté", "english": "to remove an ambiguity", "partOfSpeech": "expression", "pronunciation": "luh-VAY uen ahn-bee-gwee-TAY", "example": "Un simple exemple suffit souvent à lever une ambiguïté.", "exampleEnglish": "A single example is often enough to remove an ambiguity.", "level": "C1", "category": "legal-language" },
+            { "id": "la-portee", "french": "la portée", "english": "the scope, the reach", "partOfSpeech": "noun", "gender": "f", "plural": "les portées", "pronunciation": "lah por-TAY", "example": "Les parties discutent la portée exacte de cette obligation.", "exampleEnglish": "The parties are arguing over the exact scope of this obligation.", "level": "C1", "category": "legal-language" },
+            { "id": "dument", "french": "dûment", "english": "duly", "partOfSpeech": "adverb", "pronunciation": "due-MAHN", "example": "Le formulaire doit être dûment complété et signé.", "exampleEnglish": "The form must be duly completed and signed.", "level": "C1", "category": "legal-language" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Saying \"must\" without saying « devoir »",
+              "body": "Legal French almost never writes « il doit ». It distributes obligation through a small family of impersonal and passive constructions, each with its own flavour. « Est tenu de » binds a named person. « Il incombe à » assigns a burden. « Il appartient à » assigns a power or a role. « Est réputé » creates a fiction that the reader may not contest. The present indicative alone is also performative: « Le Client règle la facture sous trente jours » is an obligation, not a description.",
+              "examples": [
+                { "french": "Le Prestataire est tenu de conserver les données pendant cinq ans.", "english": "The Provider is bound to keep the data for five years.", "note": "être tenu de + infinitive: personal, binding." },
+                { "french": "Il incombe à l'acquéreur de vérifier la surface avant la vente.", "english": "It falls to the buyer to check the floor area before the sale.", "note": "incomber = a burden, often of proof or diligence." },
+                { "french": "Il appartient au juge d'apprécier la gravité du manquement.", "english": "It is for the judge to assess the seriousness of the breach.", "note": "appartenir à = a power reserved to someone." },
+                { "french": "Le silence gardé plus d'un mois est réputé valoir refus.", "english": "Silence maintained for more than a month is deemed to constitute refusal.", "note": "être réputé creates a legal fiction." },
+                { "french": "Le Client règle la facture dans un délai de trente jours.", "english": "The Client pays the invoice within thirty days.", "note": "Bare present indicative = a command in contract language." },
+                { "french": "Aucune tolérance ne saurait être interprétée comme une renonciation.", "english": "No forbearance may be construed as a waiver.", "note": "« ne saurait » = a polite, absolute prohibition." }
+              ],
+              "tip": "If you find « doit » in a French contract, it is usually a translation from English. Native drafting prefers « est tenu de » or the plain present."
+            },
+            {
+              "heading": "Openings without a main clause: attendu que, considérant que",
+              "body": "Judgments and formal letters open on long participial or subordinate strings that hang before the verdict: « Attendu que… ; Attendu que… ; Par ces motifs, condamne… ». Grammatically these are subordinate clauses waiting for a main verb that arrives only at the end. « Considérant que » does the same job in administrative and European texts. In contracts, the same architecture appears in the preamble under « Il a été préalablement exposé ce qui suit ».",
+              "examples": [
+                { "french": "Attendu que la marchandise n'a jamais été livrée ;", "english": "Whereas the goods were never delivered;", "note": "The semicolon holds the clause open — no full stop yet." },
+                { "french": "Attendu que le vendeur n'a formulé aucune réserve ;", "english": "Whereas the seller raised no reservation;" },
+                { "french": "Par ces motifs, le tribunal fait droit à la demande.", "english": "On these grounds, the court grants the claim.", "note": "« Par ces motifs » closes the string and delivers the ruling." },
+                { "french": "Considérant que l'urgence est établie, il y a lieu de statuer sans délai.", "english": "Considering that urgency is established, there are grounds to rule without delay.", "note": "« il y a lieu de » = there are grounds to." },
+                { "french": "Il a été préalablement exposé ce qui suit :", "english": "The following has first been set out:", "note": "The classic gate into a contract's recitals." },
+                { "french": "Ceci exposé, les parties sont convenues de ce qui suit.", "english": "This having been set out, the parties have agreed as follows.", "note": "« sont convenues » — être, not avoir, in this fixed formula." }
+              ],
+              "tip": "Read one of these chains aloud with a rising intonation on every « attendu que » and a fall only on « par ces motifs ». The grammar and the voice do the same thing."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "c1_u07_l01_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What does the speaker say about the clause?",
+              "french": "Nonobstant toute disposition contraire, le présent article prévaut sur l'annexe technique.",
+              "options": [
+                "This article wins over the technical appendix, whatever else is written",
+                "The technical appendix cancels this article",
+                "The article applies only if the appendix says nothing",
+                "Both texts have been withdrawn by the parties"
+              ],
+              "answer": "This article wins over the technical appendix, whatever else is written"
+            },
+            {
+              "id": "c1_u07_l01_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. What kind of statement is this?",
+              "french": "Toute notification est réputée reçue le lendemain de son envoi.",
+              "options": [
+                "A legal fiction: receipt is assumed, whatever actually happened",
+                "A promise that the post office will deliver overnight",
+                "A statistic about average delivery times",
+                "A recommendation to send letters early"
+              ],
+              "answer": "A legal fiction: receipt is assumed, whatever actually happened"
+            },
+            {
+              "id": "c1_u07_l01_li03",
+              "type": "listenType",
+              "prompt": "Type the sentence you hear. It is a classic drafting formula.",
+              "french": "Sauf stipulation contraire, les frais sont à la charge du vendeur.",
+              "answer": "Sauf stipulation contraire, les frais sont à la charge du vendeur.",
+              "acceptedAnswers": [
+                "sauf stipulation contraire les frais sont a la charge du vendeur",
+                "Sauf stipulation contraire les frais sont à la charge du vendeur"
+              ]
+            },
+            {
+              "id": "c1_u07_l01_li04",
+              "type": "dictation",
+              "prompt": "Dictation. Mind the archaic determiner.",
+              "french": "Aux termes de l'article 4, ledit préavis court à compter de la réception.",
+              "answer": "Aux termes de l'article 4, ledit préavis court à compter de la réception.",
+              "acceptedAnswers": [
+                "aux termes de l article 4 ledit preavis court a compter de la reception",
+                "Aux termes de l'article 4 ledit préavis court à compter de la réception"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "c1_u07_l01_sp01",
+              "type": "speak",
+              "prompt": "Read a clause the way a lawyer reads one: flat, even, no drama.",
+              "french": "Nonobstant toute clause contraire, le présent article prévaut sur les annexes.",
+              "english": "Notwithstanding any clause to the contrary, this article prevails over the appendices.",
+              "tip": "Keep « nonobstant » completely level — no stress peak. French legal delivery signals importance by refusing emphasis, not by adding it."
+            },
+            {
+              "id": "c1_u07_l01_sp02",
+              "type": "speak",
+              "prompt": "Explain a nominalisation out loud, unfolding it into a verb.",
+              "french": "« Le défaut de paiement » signifie simplement que le débiteur n'a pas payé à l'échéance.",
+              "english": "\"Failure to pay\" simply means that the debtor did not pay when the payment fell due.",
+              "tip": "Slow down on « dé-faut de paie-ment », then speed up on the plain-language gloss. The contrast is the whole point of the sentence."
+            },
+            {
+              "id": "c1_u07_l01_sp03",
+              "type": "speak",
+              "prompt": "Deliver a chain of recitals, holding the voice open until the last clause.",
+              "french": "Attendu que la livraison n'a pas eu lieu ; attendu qu'aucune réserve n'a été formulée ; il y a lieu de faire droit à la demande.",
+              "english": "Whereas delivery did not take place; whereas no reservation was raised; there are grounds to grant the claim.",
+              "tip": "Rise slightly at each semicolon and drop only on « la demande ». If your voice falls earlier, the listener thinks the reasoning has ended."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Essai — « L'élégance est un risque »",
+              "french": "On reproche à la langue du droit d'être laide, et le reproche est fondé. Il est simplement mal dirigé.\nUn contrat n'est pas écrit pour être lu avec plaisir ; il est écrit pour résister à une lecture hostile.\nLe critère n'est donc pas : « cette phrase est-elle belle ? », mais : « un adversaire de mauvaise foi peut-il en tirer autre chose ? »\nDe cette exigence découle tout ce qui exaspère le lecteur profane.\nLa répétition d'abord. Le rédacteur écrit trois fois « le Prestataire » là où le bon goût demanderait « celui-ci », parce que « celui-ci » désigne, en toute rigueur, le dernier nom cité, et qu'un tribunal peut s'en emparer.\nLa nominalisation ensuite. « Le défaut de paiement » pèse plus lourd que « il n'a pas payé », mais on peut le dater, le compter, le rattacher à une pénalité, en faire le sujet d'une autre clause.\nLes archaïsmes enfin. « Ledit », « nonobstant », « aux termes de » ne survivent pas par nostalgie : chacun règle un problème que le français courant ne sait pas régler d'un seul mot.\n« Ledit contrat » ne peut viser qu'un contrat déjà nommé ; « le contrat en question » laisse une porte entrouverte.\nIl serait pourtant naïf de croire que tout ce qui est lourd est utile.\nUne bonne moitié des formules que l'on rencontre ne protège plus rien du tout ; elles se recopient d'un modèle à l'autre depuis deux siècles, comme des fossiles administratifs.\nLes doublets en sont l'exemple le plus visible : « annuler et remplacer », « nul et non avenu », où le second terme n'ajoute strictement rien au premier.\nLa vraie compétence du rédacteur consiste donc à distinguer la lourdeur qui travaille de celle qui décore.\nLa première se justifie clause par clause ; la seconde se supprime sans dommage, et le texte y gagne en autorité.\nUn contrat clair n'est pas un contrat court : c'est un contrat dont chaque mot supporte d'être interrogé.\nOn peut alors renverser le reproche initial : ce n'est pas la laideur du droit qui est inquiétante, c'est son élégance.\nUne phrase juridique trop bien tournée cache souvent une question que le rédacteur n'a pas voulu trancher.",
+              "english": "Legal language is reproached for being ugly, and the reproach is well founded. It is simply aimed in the wrong direction.\nA contract is not written to be read with pleasure; it is written to withstand a hostile reading.\nThe criterion is therefore not \"is this sentence beautiful?\" but \"can an opponent acting in bad faith get something else out of it?\"\nFrom that requirement flows everything that exasperates the lay reader.\nRepetition first. The drafter writes \"the Provider\" three times where good taste would call for \"the latter\", because \"the latter\", strictly speaking, refers to the last noun mentioned, and a court may seize on that.\nNominalisation next. \"Failure to pay\" is heavier than \"he did not pay\", but it can be dated, counted, tied to a penalty, made the subject of another clause.\nArchaisms last. \"The said\", \"notwithstanding\", \"under the wording of\" do not survive out of nostalgia: each settles a problem that everyday French cannot settle in a single word.\n\"The said contract\" can only point to a contract already named; \"the contract in question\" leaves a door ajar.\nIt would nonetheless be naive to believe that everything heavy is useful.\nA good half of the formulas one meets no longer protect anything at all; they are copied from one template to the next, as they have been for two centuries, like administrative fossils.\nDoublets are the most visible example: \"cancel and replace\", \"null and void\", where the second term adds strictly nothing to the first.\nThe drafter's real skill therefore consists in telling working heaviness from decorative heaviness.\nThe first is justified clause by clause; the second can be deleted without harm, and the text gains authority from it.\nA clear contract is not a short contract: it is a contract in which every word can stand being questioned.\nOne may then reverse the original reproach: it is not the ugliness of law that is worrying, it is its elegance.\nA legal sentence that is too well turned often hides a question the drafter did not want to settle.",
+              "questions": [
+                {
+                  "id": "c1_u07_l01_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "According to the text, why does the drafter repeat « le Prestataire » instead of writing « celui-ci » ?",
+                  "options": [
+                    "Because « celui-ci » strictly points to the last noun mentioned, which a court could exploit",
+                    "Because pronouns are forbidden in French contracts by law",
+                    "Because repetition makes the contract longer and therefore more expensive",
+                    "Because « celui-ci » belongs to spoken French only"
+                  ],
+                  "answer": "Because « celui-ci » strictly points to the last noun mentioned, which a court could exploit"
+                },
+                {
+                  "id": "c1_u07_l01_rd02",
+                  "type": "trueFalse",
+                  "prompt": "The author argues that every heavy formula in legal French is useful and should be kept.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                },
+                {
+                  "id": "c1_u07_l01_rd03",
+                  "type": "multipleChoice",
+                  "prompt": "What paradox does the final paragraph propose?",
+                  "options": [
+                    "That an over-elegant legal sentence is more suspect than an ugly one",
+                    "That short contracts are always clearer than long ones",
+                    "That Latin phrases should replace French ones",
+                    "That courts prefer beautiful drafting to precise drafting"
+                  ],
+                  "answer": "That an over-elegant legal sentence is more suspect than an ugly one"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "c1_u07_l01_wr01",
+              "type": "translate",
+              "prompt": "Translate: \"Under the wording of article 6, the notice period is three months.\"",
+              "english": "Under the wording of article 6, the notice period is three months.",
+              "answer": "Aux termes de l'article 6, le préavis est de trois mois.",
+              "acceptedAnswers": [
+                "aux termes de l article 6 le preavis est de trois mois",
+                "Aux termes de l'article 6, le délai de préavis est de trois mois."
+              ]
+            },
+            {
+              "id": "c1_u07_l01_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order to form a standard drafting formula.",
+              "english": "Failure to pay entails immediate termination of the agreement.",
+              "words": ["de paiement", "la résiliation", "Le défaut", "de la convention", "entraîne", "immédiate"],
+              "answer": "Le défaut de paiement entraîne la résiliation immédiate de la convention"
+            },
+            {
+              "id": "c1_u07_l01_wr03",
+              "type": "translate",
+              "prompt": "Translate: \"It falls to the claimant to prove the loss suffered.\"",
+              "english": "It falls to the claimant to prove the loss suffered.",
+              "answer": "Il incombe au demandeur de prouver le préjudice subi.",
+              "acceptedAnswers": [
+                "il incombe au demandeur de prouver le prejudice subi",
+                "Il appartient au demandeur de prouver le préjudice subi."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "c1_u07_l01_pr01",
+              "type": "multipleChoice",
+              "prompt": "Which sentence is drafted in the most legally cautious way?",
+              "options": [
+                "Sauf stipulation contraire, les frais sont à la charge du vendeur.",
+                "Normalement, c'est le vendeur qui paie, je pense.",
+                "Les frais, on verra plus tard qui les paie.",
+                "Le vendeur paiera peut-être quelque chose."
+              ],
+              "answer": "Sauf stipulation contraire, les frais sont à la charge du vendeur."
+            },
+            {
+              "id": "c1_u07_l01_pr02",
+              "type": "fillBlank",
+              "prompt": "Complete the archaism: « ___ contrat a été signé le 12 mars par les deux parties. »",
+              "answer": "Ledit",
+              "hint": "The said — masculine singular form."
+            },
+            {
+              "id": "c1_u07_l01_pr03",
+              "type": "match",
+              "prompt": "Match each legal formula with what it does.",
+              "pairs": [
+                { "french": "nonobstant", "english": "sets an objection aside without arguing" },
+                { "french": "le cas échéant", "english": "applies only if the situation arises" },
+                { "french": "est réputé", "english": "creates a fiction the reader may not contest" },
+                { "french": "il incombe à", "english": "places a burden on a named person" }
+              ]
+            },
+            {
+              "id": "c1_u07_l01_pr04",
+              "type": "fillBlank",
+              "prompt": "Complete the obligation formula: « Le vendeur est ___ de délivrer une chose conforme. »",
+              "answer": "tenu",
+              "hint": "être ___ de + infinitive = to be bound to."
+            },
+            {
+              "id": "c1_u07_l01_pr05",
+              "type": "multipleChoice",
+              "prompt": "Which is the nominalised version of « le locataire n'a pas restitué les clés » ?",
+              "options": [
+                "la non-restitution des clés par le locataire",
+                "le locataire, qui n'a pas restitué les clés",
+                "quand le locataire ne restitue pas les clés",
+                "si jamais les clés ne reviennent pas"
+              ],
+              "answer": "la non-restitution des clés par le locataire"
+            },
+            {
+              "id": "c1_u07_l01_pr06",
+              "type": "trueFalse",
+              "prompt": "« Aux termes de l'article 4 » insists on the literal wording of article 4, more strongly than « selon l'article 4 ».",
+              "options": ["True", "False"],
+              "answer": "True"
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "c1_u07_l01_qz01",
+              "type": "multipleChoice",
+              "prompt": "What does « ladite convention » tell the reader?",
+              "options": [
+                "That the agreement has already been identified earlier in the text",
+                "That the agreement is about to be defined for the first time",
+                "That the agreement is no longer in force",
+                "That the agreement was drafted by a notary"
+              ],
+              "answer": "That the agreement has already been identified earlier in the text"
+            },
+            {
+              "id": "c1_u07_l01_qz02",
+              "type": "fillBlank",
+              "prompt": "Complete: « ___ stipulation contraire, le paiement s'effectue à réception. »",
+              "answer": "Sauf",
+              "hint": "Unless otherwise stipulated."
+            },
+            {
+              "id": "c1_u07_l01_qz03",
+              "type": "multipleChoice",
+              "prompt": "In a chain of recitals, which phrase delivers the ruling at the end?",
+              "options": [
+                "Par ces motifs",
+                "Attendu que",
+                "Considérant que",
+                "Étant entendu que"
+              ],
+              "answer": "Par ces motifs"
+            },
+            {
+              "id": "c1_u07_l01_qz04",
+              "type": "translate",
+              "prompt": "Translate: \"Any notification is deemed received the day after it is sent.\"",
+              "english": "Any notification is deemed received the day after it is sent.",
+              "answer": "Toute notification est réputée reçue le lendemain de son envoi.",
+              "acceptedAnswers": [
+                "toute notification est reputee recue le lendemain de son envoi",
+                "Toute notification est réputée reçue le lendemain de l'envoi."
+              ]
+            },
+            {
+              "id": "c1_u07_l01_qz05",
+              "type": "trueFalse",
+              "prompt": "In French contracts, the bare present indicative (« Le Client règle la facture sous trente jours ») expresses an obligation.",
+              "options": ["True", "False"],
+              "answer": "True"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1_u07_l02",
+      "level": "C1",
+      "unit": 7,
+      "title": "Lire un contrat",
+      "description": "Read an agreement the way a lawyer does: clauses, obligations, suspensive conditions, and the machinery of termination.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "The anatomy of a French contract",
+              "body": "A French agreement follows a stable order, and knowing it lets you find any clause in seconds. First the identification of the parties, then the preamble (« il a été préalablement exposé ce qui suit »), then the definitions, then the substantive articles, then the boring end matter — duration, termination, confidentiality, applicable law, jurisdiction. Never start reading at article 1: start at the definitions and at the last three articles, where the real risks live.",
+              "examples": [
+                { "french": "Entre les soussignés : la société ORVENT, ci-après « le Prestataire », et Mme Lambert, ci-après « le Client ».", "english": "Between the undersigned: the company ORVENT, hereinafter \"the Provider\", and Mrs Lambert, hereinafter \"the Client\".", "note": "« ci-après » creates the defined term used for the rest of the text." },
+                { "french": "Article 1 — Objet. La présente convention a pour objet la maintenance du parc informatique du Client.", "english": "Article 1 — Purpose. The purpose of this agreement is the maintenance of the Client's computer equipment." },
+                { "french": "Article 8 — Durée. Le contrat est conclu pour une durée d'un an, renouvelable par tacite reconduction.", "english": "Article 8 — Duration. The contract is entered into for one year, renewable by tacit renewal." },
+                { "french": "Article 12 — Droit applicable et juridiction compétente.", "english": "Article 12 — Applicable law and competent court.", "note": "Almost always the last article, and often the most expensive one." },
+                { "french": "Fait à Lyon, en deux exemplaires originaux, le 4 avril.", "english": "Done at Lyon, in two original counterparts, on 4 April.", "note": "« fait à » + place is the fixed closing formula." }
+              ],
+              "tip": "Two habits of experienced readers: check whether every capitalised term is actually defined, and check whether the appendices are said to prevail over the body of the contract or the reverse."
+            },
+            {
+              "heading": "Obligations: de moyens or de résultat",
+              "body": "French contract law makes a distinction that reshapes the whole reading. An « obligation de moyens » requires the party to use all reasonable care; if the outcome fails, the other side must prove carelessness. An « obligation de résultat » requires the outcome itself; failure alone is enough. The words used in the clause matter: « s'efforcer de », « mettre en œuvre les moyens nécessaires » point to the first; « garantit », « s'engage à livrer le 3 mai » point to the second.",
+              "examples": [
+                { "french": "Le Prestataire s'efforce de rétablir le service dans les meilleurs délais.", "english": "The Provider shall endeavour to restore the service as quickly as possible.", "note": "« s'efforcer de » = obligation de moyens. Weak for the client." },
+                { "french": "Le Prestataire garantit un rétablissement du service sous quatre heures.", "english": "The Provider guarantees restoration of the service within four hours.", "note": "« garantit » = obligation de résultat. Strong for the client." },
+                { "french": "Le transporteur s'engage à livrer la marchandise le 3 mai au plus tard.", "english": "The carrier undertakes to deliver the goods on 3 May at the latest." },
+                { "french": "Le Client met à disposition les accès nécessaires à l'exécution de la prestation.", "english": "The Client makes available the access required to perform the service.", "note": "Obligations run in both directions — read your own too." },
+                { "french": "L'inexécution de cette obligation engage la responsabilité de son auteur.", "english": "Non-performance of this obligation engages the liability of the party responsible." }
+              ],
+              "tip": "When a clause promises something, look for the verb. « S'efforcer », « veiller à », « mettre en œuvre » promise effort. « Garantir », « assurer », « livrer » promise the result."
+            },
+            {
+              "heading": "Conditions, termination and the end of the story",
+              "body": "A « condition suspensive » holds the contract in suspense: nothing takes effect until the condition is met (a loan granted, a permit obtained). A « condition résolutoire » does the opposite: the contract works until the event occurs, then unwinds. Termination has its own vocabulary — « résiliation » ends the contract for the future, « résolution » erases it retroactively, and both usually require a « mise en demeure » first: a formal notice giving the defaulting party a last chance.",
+              "examples": [
+                { "french": "La vente est conclue sous la condition suspensive de l'obtention d'un prêt.", "english": "The sale is entered into subject to the suspensive condition of a loan being obtained.", "note": "No loan, no sale — and no penalty for the buyer." },
+                { "french": "La condition résolutoire joue de plein droit en cas de retrait de l'agrément.", "english": "The resolutory condition operates automatically if the approval is withdrawn.", "note": "« de plein droit » = automatically, without a court." },
+                { "french": "Le contrat pourra être résilié après une mise en demeure restée sans effet pendant quinze jours.", "english": "The contract may be terminated after a formal notice that has remained without effect for fifteen days." },
+                { "french": "La résiliation prend effet à l'expiration d'un préavis de trois mois.", "english": "Termination takes effect at the end of a three-month notice period." },
+                { "french": "La résolution du contrat remet les parties dans l'état antérieur.", "english": "Rescission of the contract restores the parties to their previous position.", "note": "Résiliation looks forward; résolution looks backward." }
+              ],
+              "tip": "This lesson teaches how these words work in French, not what to do about your own agreement. For an actual contract, read it with a qualified professional."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "le-contrat", "french": "le contrat", "english": "the contract", "partOfSpeech": "noun", "gender": "m", "plural": "les contrats", "pronunciation": "luh kon-TRAH", "example": "Le contrat compte douze articles et quatre annexes.", "exampleEnglish": "The contract has twelve articles and four appendices.", "level": "C1", "category": "contracts" },
+            { "id": "la-clause", "french": "la clause", "english": "the clause", "partOfSpeech": "noun", "gender": "f", "plural": "les clauses", "pronunciation": "lah KLOHZ", "example": "Cette clause est rédigée au bénéfice d'une seule partie.", "exampleEnglish": "This clause is drafted for the benefit of one party only.", "level": "C1", "category": "contracts" },
+            { "id": "les-parties", "french": "les parties", "english": "the parties (to a contract)", "partOfSpeech": "noun", "gender": "f", "plural": "les parties", "pronunciation": "lay par-TEE", "example": "Les parties conviennent expressément de recourir à la médiation.", "exampleEnglish": "The parties expressly agree to resort to mediation.", "level": "C1", "category": "contracts" },
+            { "id": "le-cocontractant", "french": "le cocontractant", "english": "the other contracting party", "partOfSpeech": "noun", "gender": "m", "plural": "les cocontractants", "pronunciation": "luh koh-kon-trak-TAHN", "example": "Chaque cocontractant supporte ses propres frais de conseil.", "exampleEnglish": "Each contracting party bears its own advisory costs.", "level": "C1", "category": "contracts" },
+            { "id": "signataire", "french": "le signataire", "english": "the signatory", "partOfSpeech": "noun", "gender": "m", "plural": "les signataires", "pronunciation": "luh see-nyah-TEHR", "example": "Le signataire doit justifier d'un pouvoir de représentation.", "exampleEnglish": "The signatory must show evidence of authority to represent.", "level": "C1", "category": "contracts" },
+            { "id": "l-obligation", "french": "l'obligation", "english": "the obligation", "partOfSpeech": "noun", "gender": "f", "plural": "les obligations", "pronunciation": "loh-blee-gah-SYON", "example": "Cette obligation pèse sur le prestataire, non sur le client.", "exampleEnglish": "This obligation lies on the provider, not on the client.", "level": "C1", "category": "contracts" },
+            { "id": "l-obligation-de-moyens", "french": "l'obligation de moyens", "english": "duty of best endeavours", "partOfSpeech": "noun", "gender": "f", "plural": "les obligations de moyens", "pronunciation": "loh-blee-gah-SYON duh MWAH-yan", "example": "Le médecin est en principe tenu d'une obligation de moyens.", "exampleEnglish": "A doctor is in principle bound by a duty of best endeavours.", "level": "C1", "category": "contracts" },
+            { "id": "l-obligation-de-resultat", "french": "l'obligation de résultat", "english": "duty to achieve a specified result", "partOfSpeech": "noun", "gender": "f", "plural": "les obligations de résultat", "pronunciation": "loh-blee-gah-SYON duh ray-zuel-TAH", "example": "Le transporteur assume une obligation de résultat quant à la livraison.", "exampleEnglish": "The carrier assumes a duty to achieve the result as regards delivery.", "level": "C1", "category": "contracts" },
+            { "id": "stipuler", "french": "stipuler", "english": "to stipulate, to lay down in a clause", "partOfSpeech": "verb", "pronunciation": "stee-pue-LAY", "example": "L'article 5 stipule que les frais de port sont à la charge du client.", "exampleEnglish": "Article 5 stipulates that shipping costs are borne by the client.", "level": "C1", "category": "contracts" },
+            { "id": "souscrire", "french": "souscrire", "english": "to take out, to subscribe to (an obligation, a policy)", "partOfSpeech": "verb", "pronunciation": "soo-SKREER", "example": "Le locataire souscrit une assurance couvrant les risques locatifs.", "exampleEnglish": "The tenant takes out insurance covering tenancy risks.", "level": "C1", "category": "contracts" },
+            { "id": "s-engager-a", "french": "s'engager à", "english": "to undertake to", "partOfSpeech": "verb", "pronunciation": "sahn-gah-ZHAY ah", "example": "Le fournisseur s'engage à livrer avant le 3 mai.", "exampleEnglish": "The supplier undertakes to deliver before 3 May.", "level": "C1", "category": "contracts" },
+            { "id": "la-condition-suspensive", "french": "la condition suspensive", "english": "the condition precedent, suspensive condition", "partOfSpeech": "noun", "gender": "f", "plural": "les conditions suspensives", "pronunciation": "lah kon-dee-SYON sues-pahn-SEEV", "example": "L'achat est soumis à la condition suspensive d'obtention du permis.", "exampleEnglish": "The purchase is subject to the condition precedent of obtaining the permit.", "level": "C1", "category": "contracts" },
+            { "id": "la-condition-resolutoire", "french": "la condition résolutoire", "english": "the resolutory condition", "partOfSpeech": "noun", "gender": "f", "plural": "les conditions résolutoires", "pronunciation": "lah kon-dee-SYON ray-zoh-lue-TWAR", "example": "La condition résolutoire fait disparaître le contrat rétroactivement.", "exampleEnglish": "The resolutory condition makes the contract disappear retroactively.", "level": "C1", "category": "contracts" },
+            { "id": "la-clause-resolutoire", "french": "la clause résolutoire", "english": "the termination clause (operating automatically)", "partOfSpeech": "noun", "gender": "f", "plural": "les clauses résolutoires", "pronunciation": "lah klohz ray-zoh-lue-TWAR", "example": "La clause résolutoire joue de plein droit un mois après la mise en demeure.", "exampleEnglish": "The termination clause operates automatically one month after formal notice.", "level": "C1", "category": "contracts" },
+            { "id": "de-plein-droit", "french": "de plein droit", "english": "automatically, as of right", "partOfSpeech": "expression", "pronunciation": "duh plan DRWAH", "example": "Le contrat prend fin de plein droit à l'échéance du terme.", "exampleEnglish": "The contract ends automatically when the term expires.", "level": "C1", "category": "contracts" },
+            { "id": "la-resiliation", "french": "la résiliation", "english": "termination (for the future)", "partOfSpeech": "noun", "gender": "f", "plural": "les résiliations", "pronunciation": "lah ray-zee-lyah-SYON", "example": "La résiliation ne remet pas en cause les prestations déjà exécutées.", "exampleEnglish": "Termination does not call into question the services already performed.", "level": "C1", "category": "contracts" },
+            { "id": "resilier", "french": "résilier", "english": "to terminate (a contract)", "partOfSpeech": "verb", "pronunciation": "ray-zee-LYAY", "example": "Chaque partie peut résilier le contrat moyennant un préavis écrit.", "exampleEnglish": "Either party may terminate the contract on written notice.", "level": "C1", "category": "contracts" },
+            { "id": "la-resolution-du-contrat", "french": "la résolution du contrat", "english": "rescission of the contract (retroactive)", "partOfSpeech": "noun", "gender": "f", "plural": "les résolutions du contrat", "pronunciation": "lah ray-zoh-lue-SYON due kon-TRAH", "example": "La résolution du contrat remet les parties dans l'état antérieur.", "exampleEnglish": "Rescission restores the parties to their earlier position.", "level": "C1", "category": "contracts" },
+            { "id": "le-preavis", "french": "le préavis", "english": "the notice period", "partOfSpeech": "noun", "gender": "m", "plural": "les préavis", "pronunciation": "luh pray-ah-VEE", "example": "Le préavis court à compter de la réception de la lettre recommandée.", "exampleEnglish": "The notice period runs from receipt of the registered letter.", "level": "C1", "category": "contracts" },
+            { "id": "la-mise-en-demeure", "french": "la mise en demeure", "english": "formal notice to perform", "partOfSpeech": "noun", "gender": "f", "plural": "les mises en demeure", "pronunciation": "lah meez ahn duh-MUHR", "example": "La mise en demeure est restée sans effet pendant quinze jours.", "exampleEnglish": "The formal notice remained without effect for fifteen days.", "level": "C1", "category": "contracts" },
+            { "id": "mettre-en-demeure", "french": "mettre en demeure", "english": "to serve formal notice on", "partOfSpeech": "verb", "pronunciation": "MEH-truh ahn duh-MUHR", "example": "Le client a mis le prestataire en demeure de reprendre les travaux.", "exampleEnglish": "The client served formal notice on the provider to resume the works.", "level": "C1", "category": "contracts" },
+            { "id": "la-reconduction-tacite", "french": "la reconduction tacite", "english": "tacit renewal", "partOfSpeech": "noun", "gender": "f", "plural": "les reconductions tacites", "pronunciation": "lah ruh-kon-duek-SYON tah-SEET", "example": "Sans dénonciation, la reconduction tacite joue pour un an.", "exampleEnglish": "Without notice of cancellation, tacit renewal operates for one year.", "level": "C1", "category": "contracts" },
+            { "id": "l-avenant", "french": "l'avenant", "english": "the amendment, the addendum", "partOfSpeech": "noun", "gender": "m", "plural": "les avenants", "pronunciation": "lah-vuh-NAHN", "example": "Toute modification fait l'objet d'un avenant signé des deux parties.", "exampleEnglish": "Any modification is the subject of an addendum signed by both parties.", "level": "C1", "category": "contracts" },
+            { "id": "annexe", "french": "l'annexe", "english": "the appendix, the schedule", "partOfSpeech": "noun", "gender": "f", "plural": "les annexes", "pronunciation": "lah-NEKS", "example": "L'annexe 2 précise le calendrier d'intervention.", "exampleEnglish": "Appendix 2 sets out the intervention schedule.", "level": "C1", "category": "contracts" },
+            { "id": "l-echeance", "french": "l'échéance", "english": "the due date, the maturity", "partOfSpeech": "noun", "gender": "f", "plural": "les échéances", "pronunciation": "lay-shay-AHNSS", "example": "Aucun paiement n'a été reçu à l'échéance convenue.", "exampleEnglish": "No payment was received on the agreed due date.", "level": "C1", "category": "contracts" },
+            { "id": "le-delai-de-rigueur", "french": "le délai de rigueur", "english": "a strict, non-extendable deadline", "partOfSpeech": "noun", "gender": "m", "plural": "les délais de rigueur", "pronunciation": "luh day-LEH duh ree-GUHR", "example": "Le 30 juin constitue un délai de rigueur, sans tolérance.", "exampleEnglish": "30 June is a strict deadline, with no leeway.", "level": "C1", "category": "contracts" },
+            { "id": "la-penalite-de-retard", "french": "la pénalité de retard", "english": "late payment penalty", "partOfSpeech": "noun", "gender": "f", "plural": "les pénalités de retard", "pronunciation": "lah pay-nah-lee-TAY duh ruh-TAR", "example": "Une pénalité de retard s'applique dès le premier jour de dépassement.", "exampleEnglish": "A late penalty applies from the first day of overrun.", "level": "C1", "category": "contracts" },
+            { "id": "l-indemnite-forfaitaire", "french": "l'indemnité forfaitaire", "english": "the lump-sum indemnity", "partOfSpeech": "noun", "gender": "f", "plural": "les indemnités forfaitaires", "pronunciation": "lan-dem-nee-TAY for-feh-TEHR", "example": "L'indemnité forfaitaire évite d'avoir à chiffrer le préjudice.", "exampleEnglish": "The lump-sum indemnity avoids having to quantify the loss.", "level": "C1", "category": "contracts" },
+            { "id": "la-force-majeure", "french": "la force majeure", "english": "force majeure, an irresistible event", "partOfSpeech": "noun", "gender": "f", "plural": "les cas de force majeure", "pronunciation": "lah forss mah-ZHUHR", "example": "La force majeure suspend l'exécution sans engager la responsabilité.", "exampleEnglish": "Force majeure suspends performance without engaging liability.", "level": "C1", "category": "contracts" },
+            { "id": "le-manquement", "french": "le manquement", "english": "the breach, the failing", "partOfSpeech": "noun", "gender": "m", "plural": "les manquements", "pronunciation": "luh mahn-kuh-MAHN", "example": "Un manquement isolé ne justifie pas une rupture immédiate.", "exampleEnglish": "An isolated breach does not justify immediate termination.", "level": "C1", "category": "contracts" },
+            { "id": "l-inexecution", "french": "l'inexécution", "english": "non-performance", "partOfSpeech": "noun", "gender": "f", "plural": "les inexécutions", "pronunciation": "lee-nek-zay-kue-SYON", "example": "L'inexécution doit être suffisamment grave pour justifier la résolution.", "exampleEnglish": "The non-performance must be serious enough to justify rescission.", "level": "C1", "category": "contracts" },
+            { "id": "la-clause-de-confidentialite", "french": "la clause de confidentialité", "english": "the confidentiality clause", "partOfSpeech": "noun", "gender": "f", "plural": "les clauses de confidentialité", "pronunciation": "lah klohz duh kon-fee-dahn-syah-lee-TAY", "example": "La clause de confidentialité survit deux ans à la fin du contrat.", "exampleEnglish": "The confidentiality clause survives for two years after the contract ends.", "level": "C1", "category": "contracts" },
+            { "id": "la-clause-de-non-concurrence", "french": "la clause de non-concurrence", "english": "the non-compete clause", "partOfSpeech": "noun", "gender": "f", "plural": "les clauses de non-concurrence", "pronunciation": "lah klohz duh non-kon-kue-RAHNSS", "example": "Une clause de non-concurrence doit être limitée dans le temps et l'espace.", "exampleEnglish": "A non-compete clause must be limited in time and in territory.", "level": "C1", "category": "contracts" },
+            { "id": "la-juridiction-competente", "french": "la juridiction compétente", "english": "the court having jurisdiction", "partOfSpeech": "noun", "gender": "f", "plural": "les juridictions compétentes", "pronunciation": "lah zhue-ree-deek-SYON kon-pay-TAHNT", "example": "Les parties désignent la juridiction compétente en cas de litige.", "exampleEnglish": "The parties designate the court having jurisdiction in the event of a dispute.", "level": "C1", "category": "contracts" },
+            { "id": "le-droit-applicable", "french": "le droit applicable", "english": "the governing law", "partOfSpeech": "noun", "gender": "m", "plural": "les droits applicables", "pronunciation": "luh drwah ah-plee-KAH-bluh", "example": "Le droit applicable est celui du siège du prestataire.", "exampleEnglish": "The governing law is that of the provider's registered office.", "level": "C1", "category": "contracts" },
+            { "id": "entrer-en-vigueur", "french": "entrer en vigueur", "english": "to come into force", "partOfSpeech": "verb", "pronunciation": "ahn-TRAY ahn vee-GUHR", "example": "Le contrat entre en vigueur le premier jour du mois suivant.", "exampleEnglish": "The contract comes into force on the first day of the following month.", "level": "C1", "category": "contracts" },
+            { "id": "prendre-effet", "french": "prendre effet", "english": "to take effect", "partOfSpeech": "verb", "pronunciation": "PRAHN-druh eh-FEH", "example": "La résiliation prend effet à l'expiration du préavis.", "exampleEnglish": "Termination takes effect when the notice period expires.", "level": "C1", "category": "contracts" },
+            { "id": "la-caducite", "french": "la caducité", "english": "lapse (a contract becoming void)", "partOfSpeech": "noun", "gender": "f", "plural": "les caducités", "pronunciation": "lah kah-due-see-TAY", "example": "La caducité de l'offre est acquise faute de réponse sous huit jours.", "exampleEnglish": "The offer lapses in the absence of a reply within eight days.", "level": "C1", "category": "contracts" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "The conditional as the language of the future clause",
+              "body": "Contracts describe events that may never happen, and French handles this with a precise triple: « si + présent » for a real hypothesis, « en cas de + nom » for the nominalised version, and « à défaut de » for a failure. The main clause usually sits in the future or in the modal « pourra ». Note that « pourra être résilié » (may be terminated) and « sera résilié » (shall be terminated) are not the same clause at all: the first leaves a choice, the second is automatic.",
+              "examples": [
+                { "french": "Si le Client ne règle pas la facture, le Prestataire pourra suspendre la prestation.", "english": "If the Client does not pay the invoice, the Provider may suspend the service.", "note": "« pourra » = an option, not a duty." },
+                { "french": "En cas de non-paiement, la prestation sera suspendue de plein droit.", "english": "In the event of non-payment, the service shall be suspended automatically.", "note": "Same facts, far harsher clause." },
+                { "french": "À défaut de réponse sous huit jours, l'offre devient caduque.", "english": "In the absence of a reply within eight days, the offer lapses.", "note": "« à défaut de » = failing that; extremely frequent." },
+                { "french": "Faute d'accord amiable, le litige sera porté devant la juridiction compétente.", "english": "Failing an amicable agreement, the dispute shall be brought before the competent court." },
+                { "french": "Dans l'hypothèse où le permis ne serait pas obtenu, la vente serait résolue.", "english": "In the event that the permit were not obtained, the sale would be rescinded.", "note": "« dans l'hypothèse où » takes the conditional, not the present." },
+                { "french": "Au cas où une annexe contredirait le corps du contrat, ce dernier prévaudrait.", "english": "Should an appendix contradict the body of the contract, the latter would prevail.", "note": "« au cas où » + conditional. Never « au cas où + subjonctif »." }
+              ],
+              "tip": "Two traps: « si » never takes the conditional, but « au cas où » and « dans l'hypothèse où » always do. And « pourra » versus « devra » is often the single most negotiated word in a clause."
+            },
+            {
+              "heading": "Passive, pronominal passive, and who is actually bound",
+              "body": "Contracts hide agents on purpose. « Les frais seront supportés » leaves the payer unnamed; « les frais seront supportés par le Client » names them. The pronominal passive (« le paiement s'effectue à réception ») is even more anonymous, and reads as a rule of nature. When you read a clause, restore the missing agent every time — the party that is absent from the sentence is often the one that benefits from its absence.",
+              "examples": [
+                { "french": "Les frais de livraison seront supportés par le Client.", "english": "Delivery costs shall be borne by the Client.", "note": "Agent named — safe." },
+                { "french": "Les frais de livraison seront supportés.", "english": "Delivery costs shall be borne.", "note": "Agent missing — a drafting defect, or a trap." },
+                { "french": "Le paiement s'effectue par virement dans les trente jours.", "english": "Payment is made by transfer within thirty days.", "note": "Pronominal passive: sounds like a natural law." },
+                { "french": "Il est convenu que les délais sont indicatifs.", "english": "It is agreed that the deadlines are indicative.", "note": "« il est convenu que » — impersonal, but binding." },
+                { "french": "Toute réclamation devra être formulée par écrit.", "english": "Any complaint must be made in writing.", "note": "Passive + devoir = a condition of admissibility." },
+                { "french": "Le présent contrat est régi par le droit français.", "english": "This contract is governed by French law." }
+              ],
+              "tip": "Turn every passive clause back into the active voice as you read: « qui supporte ? qui paie ? qui décide ? ». If you cannot answer, the clause needs rewriting."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "c1_u07_l02_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What kind of obligation does the provider take on?",
+              "french": "Le Prestataire s'efforce de rétablir le service dans les meilleurs délais.",
+              "options": [
+                "An obligation de moyens: effort, not a guaranteed outcome",
+                "An obligation de résultat: the service is guaranteed",
+                "No obligation at all, since the clause is void",
+                "An obligation borne by the client instead"
+              ],
+              "answer": "An obligation de moyens: effort, not a guaranteed outcome"
+            },
+            {
+              "id": "c1_u07_l02_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. What happens to the sale?",
+              "french": "La vente est conclue sous la condition suspensive de l'obtention d'un prêt.",
+              "options": [
+                "Nothing takes effect until the loan is obtained",
+                "The sale is final and the loan is irrelevant",
+                "The sale is cancelled because of the loan",
+                "The buyer must pay a penalty if the loan is granted"
+              ],
+              "answer": "Nothing takes effect until the loan is obtained"
+            },
+            {
+              "id": "c1_u07_l02_li03",
+              "type": "listenType",
+              "prompt": "Type the clause you hear.",
+              "french": "La résiliation prend effet à l'expiration d'un préavis de trois mois.",
+              "answer": "La résiliation prend effet à l'expiration d'un préavis de trois mois.",
+              "acceptedAnswers": [
+                "la resiliation prend effet a l expiration d un preavis de trois mois",
+                "La résiliation prend effet à l'expiration d'un préavis de trois mois"
+              ]
+            },
+            {
+              "id": "c1_u07_l02_li04",
+              "type": "dictation",
+              "prompt": "Dictation. A hypothetical clause in the conditional.",
+              "french": "Au cas où une annexe contredirait le corps du contrat, ce dernier prévaudrait.",
+              "answer": "Au cas où une annexe contredirait le corps du contrat, ce dernier prévaudrait.",
+              "acceptedAnswers": [
+                "au cas ou une annexe contredirait le corps du contrat ce dernier prevaudrait",
+                "Au cas où une annexe contredirait le corps du contrat ce dernier prévaudrait"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "c1_u07_l02_sp01",
+              "type": "speak",
+              "prompt": "Ask a colleague to sharpen a weak clause.",
+              "french": "« S'efforcer de » me paraît trop faible : pouvons-nous écrire « garantit un rétablissement sous quatre heures » ?",
+              "english": "\"To endeavour to\" seems too weak to me: could we write \"guarantees restoration within four hours\"?",
+              "tip": "Put the quoted clause between « guillemets » with an audible micro-pause on either side — French speakers mark quotation by silence, not by tone."
+            },
+            {
+              "id": "c1_u07_l02_sp02",
+              "type": "speak",
+              "prompt": "Explain the difference between the two ways of ending a contract.",
+              "french": "La résiliation met fin au contrat pour l'avenir ; la résolution l'efface rétroactivement.",
+              "english": "Termination ends the contract for the future; rescission erases it retroactively.",
+              "tip": "Stress « l'avenir » and « rétroactivement » equally — the sentence lives entirely on that pair."
+            },
+            {
+              "id": "c1_u07_l02_sp03",
+              "type": "speak",
+              "prompt": "Flag a missing agent in a passive clause.",
+              "french": "La clause dit que les frais seront supportés, mais elle ne dit pas par qui : il faut nommer la partie.",
+              "english": "The clause says the costs will be borne, but it does not say by whom: we need to name the party.",
+              "tip": "Let « par qui » sit slightly higher and longer than the rest — it is the whole objection compressed into two syllables."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Extrait fictif — Contrat de maintenance ORVENT / VALDIS",
+              "french": "Entre les soussignés : la société ORVENT, ci-après « le Prestataire », et la société VALDIS, ci-après « le Client ».\nIl a été préalablement exposé ce qui suit : le Client exploite un réseau de douze agences et souhaite en confier la maintenance informatique au Prestataire.\nArticle 1 — Objet. La présente convention a pour objet la maintenance préventive et corrective du parc informatique décrit en annexe 1.\nArticle 2 — Définitions. Par « Incident majeur », on entend toute interruption totale du service affectant plus de trois agences simultanément.\nArticle 4 — Obligations du Prestataire. Le Prestataire garantit une intervention sur site dans les quatre heures suivant la déclaration d'un Incident majeur.\nPour tout autre incident, le Prestataire s'efforce d'intervenir dans un délai de deux jours ouvrés.\nArticle 5 — Obligations du Client. Le Client met à disposition les accès physiques et logiques nécessaires à l'exécution de la prestation.\nArticle 7 — Durée. Le contrat entre en vigueur le 1er septembre pour une durée de vingt-quatre mois, renouvelable par tacite reconduction.\nChaque partie peut s'opposer au renouvellement par lettre recommandée adressée trois mois avant l'échéance.\nArticle 8 — Rémunération. La rémunération est payable trimestriellement, à terme échu, dans les trente jours suivant la réception de la facture.\nToute somme non réglée à l'échéance produit une pénalité de retard, sans qu'une mise en demeure préalable soit nécessaire.\nArticle 9 — Résiliation. En cas de manquement grave de l'une des parties, l'autre pourra résilier le contrat après une mise en demeure restée sans effet pendant trente jours.\nLa résiliation prend effet à l'expiration de ce délai, sans indemnité de part ni d'autre.\nArticle 10 — Force majeure. Aucune des parties ne pourra être tenue responsable d'un manquement résultant d'un événement échappant à son contrôle et rendant l'exécution impossible.\nArticle 11 — Confidentialité. Les parties s'interdisent de divulguer toute information technique ou commerciale échangée, et ce pendant deux ans après la fin du contrat.\nArticle 12 — Droit applicable. Le présent contrat est régi par le droit français ; en cas de litige, la juridiction compétente sera celle du siège du Client.\nFait à Nantes, en deux exemplaires originaux, le 12 juillet.",
+              "english": "Between the undersigned: the company ORVENT, hereinafter \"the Provider\", and the company VALDIS, hereinafter \"the Client\".\nThe following has first been set out: the Client operates a network of twelve branches and wishes to entrust their IT maintenance to the Provider.\nArticle 1 — Purpose. The purpose of this agreement is the preventive and corrective maintenance of the equipment described in appendix 1.\nArticle 2 — Definitions. \"Major Incident\" means any total interruption of service affecting more than three branches simultaneously.\nArticle 4 — Obligations of the Provider. The Provider guarantees an on-site intervention within four hours of a Major Incident being reported.\nFor any other incident, the Provider shall endeavour to intervene within two working days.\nArticle 5 — Obligations of the Client. The Client makes available the physical and logical access required to perform the service.\nArticle 7 — Duration. The contract comes into force on 1 September for a period of twenty-four months, renewable by tacit renewal.\nEither party may oppose renewal by registered letter sent three months before the expiry date.\nArticle 8 — Remuneration. The remuneration is payable quarterly, in arrears, within thirty days of receipt of the invoice.\nAny sum unpaid on the due date produces a late payment penalty, without prior formal notice being necessary.\nArticle 9 — Termination. In the event of a serious breach by one of the parties, the other may terminate the contract after a formal notice that has remained without effect for thirty days.\nTermination takes effect at the end of that period, with no indemnity on either side.\nArticle 10 — Force majeure. Neither party may be held liable for a failure resulting from an event beyond its control and making performance impossible.\nArticle 11 — Confidentiality. The parties undertake not to disclose any technical or commercial information exchanged, and this for two years after the end of the contract.\nArticle 12 — Governing law. This contract is governed by French law; in the event of a dispute, the competent court will be that of the Client's registered office.\nDone at Nantes, in two original counterparts, on 12 July.",
+              "questions": [
+                {
+                  "id": "c1_u07_l02_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Which two levels of obligation does article 4 create?",
+                  "options": [
+                    "A guaranteed four-hour response for major incidents, and mere best endeavours otherwise",
+                    "A guaranteed response for all incidents without distinction",
+                    "Best endeavours for major incidents and a guarantee for minor ones",
+                    "No obligation at all until the Client pays the first invoice"
+                  ],
+                  "answer": "A guaranteed four-hour response for major incidents, and mere best endeavours otherwise"
+                },
+                {
+                  "id": "c1_u07_l02_rd02",
+                  "type": "trueFalse",
+                  "prompt": "Under article 8, the Provider must send a formal notice before late payment penalties start to run.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                },
+                {
+                  "id": "c1_u07_l02_rd03",
+                  "type": "multipleChoice",
+                  "prompt": "A party that wants to stop the contract at the twenty-four-month mark must do what, according to article 7?",
+                  "options": [
+                    "Send a registered letter three months before the expiry date",
+                    "Wait for the other party to propose a renewal in writing",
+                    "Obtain the agreement of the competent court",
+                    "Do nothing: the contract ends automatically after twenty-four months"
+                  ],
+                  "answer": "Send a registered letter three months before the expiry date"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "c1_u07_l02_wr01",
+              "type": "translate",
+              "prompt": "Translate: \"Termination takes effect at the end of a three-month notice period.\"",
+              "english": "Termination takes effect at the end of a three-month notice period.",
+              "answer": "La résiliation prend effet à l'expiration d'un préavis de trois mois.",
+              "acceptedAnswers": [
+                "la resiliation prend effet a l expiration d un preavis de trois mois",
+                "La résiliation prend effet au terme d'un préavis de trois mois."
+              ]
+            },
+            {
+              "id": "c1_u07_l02_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order to form a suspensive condition clause.",
+              "english": "The sale is entered into subject to the suspensive condition of a loan being obtained.",
+              "words": ["sous la condition", "d'un prêt", "La vente", "suspensive", "est conclue", "de l'obtention"],
+              "answer": "La vente est conclue sous la condition suspensive de l'obtention d'un prêt"
+            },
+            {
+              "id": "c1_u07_l02_wr03",
+              "type": "translate",
+              "prompt": "Translate: \"Any modification is the subject of an addendum signed by both parties.\"",
+              "english": "Any modification is the subject of an addendum signed by both parties.",
+              "answer": "Toute modification fait l'objet d'un avenant signé des deux parties.",
+              "acceptedAnswers": [
+                "toute modification fait l objet d un avenant signe des deux parties",
+                "Toute modification fait l'objet d'un avenant signé par les deux parties."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "c1_u07_l02_pr01",
+              "type": "multipleChoice",
+              "prompt": "Which clause is the most favourable to the client?",
+              "options": [
+                "Le Prestataire garantit une intervention sous quatre heures.",
+                "Le Prestataire s'efforce d'intervenir rapidement.",
+                "Le Prestataire veillera à intervenir dans un délai raisonnable.",
+                "Le Prestataire met en œuvre les moyens dont il dispose."
+              ],
+              "answer": "Le Prestataire garantit une intervention sous quatre heures."
+            },
+            {
+              "id": "c1_u07_l02_pr02",
+              "type": "fillBlank",
+              "prompt": "Complete: « Au cas où une annexe ___ le corps du contrat, ce dernier prévaudrait. »",
+              "answer": "contredirait",
+              "hint": "« au cas où » takes the conditional, never the present."
+            },
+            {
+              "id": "c1_u07_l02_pr03",
+              "type": "match",
+              "prompt": "Match each contractual term with its effect.",
+              "pairs": [
+                { "french": "la condition suspensive", "english": "nothing takes effect until the event occurs" },
+                { "french": "la condition résolutoire", "english": "the contract unwinds if the event occurs" },
+                { "french": "la résiliation", "english": "the contract ends for the future only" },
+                { "french": "la résolution", "english": "the contract is erased retroactively" }
+              ]
+            },
+            {
+              "id": "c1_u07_l02_pr04",
+              "type": "fillBlank",
+              "prompt": "Complete: « La clause résolutoire joue de plein ___ un mois après la mise en demeure. »",
+              "answer": "droit",
+              "hint": "de plein ___ = automatically, without a court."
+            },
+            {
+              "id": "c1_u07_l02_pr05",
+              "type": "multipleChoice",
+              "prompt": "What is the practical difference between « pourra être résilié » and « sera résilié » ?",
+              "options": [
+                "The first leaves a choice; the second is automatic",
+                "The first is automatic; the second leaves a choice",
+                "They are strictly synonymous in contracts",
+                "The first applies only to consumers"
+              ],
+              "answer": "The first leaves a choice; the second is automatic"
+            },
+            {
+              "id": "c1_u07_l02_pr06",
+              "type": "trueFalse",
+              "prompt": "« Les frais seront supportés » is a complete clause, because the payer can always be guessed from context.",
+              "options": ["True", "False"],
+              "answer": "False"
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "c1_u07_l02_qz01",
+              "type": "multipleChoice",
+              "prompt": "What does « la reconduction tacite » mean for a contract?",
+              "options": [
+                "It renews itself unless a party gives notice in time",
+                "It ends automatically on the expiry date",
+                "It can only be renewed by a signed addendum",
+                "It becomes void if the parties say nothing"
+              ],
+              "answer": "It renews itself unless a party gives notice in time"
+            },
+            {
+              "id": "c1_u07_l02_qz02",
+              "type": "fillBlank",
+              "prompt": "Complete: « Le contrat pourra être résilié après une ___ en demeure restée sans effet. »",
+              "answer": "mise",
+              "hint": "The formal notice that precedes termination."
+            },
+            {
+              "id": "c1_u07_l02_qz03",
+              "type": "multipleChoice",
+              "prompt": "Which verb signals an « obligation de résultat » ?",
+              "options": ["garantir", "s'efforcer de", "veiller à", "mettre en œuvre"],
+              "answer": "garantir"
+            },
+            {
+              "id": "c1_u07_l02_qz04",
+              "type": "translate",
+              "prompt": "Translate: \"In the absence of a reply within eight days, the offer lapses.\"",
+              "english": "In the absence of a reply within eight days, the offer lapses.",
+              "answer": "À défaut de réponse sous huit jours, l'offre devient caduque.",
+              "acceptedAnswers": [
+                "a defaut de reponse sous huit jours l offre devient caduque",
+                "À défaut de réponse dans les huit jours, l'offre devient caduque."
+              ]
+            },
+            {
+              "id": "c1_u07_l02_qz05",
+              "type": "trueFalse",
+              "prompt": "« La résolution » undoes the contract retroactively, while « la résiliation » only stops it for the future.",
+              "options": ["True", "False"],
+              "answer": "True"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1_u07_l03",
+      "level": "C1",
+      "unit": 7,
+      "title": "L'argumentation juridique",
+      "description": "How French legal reasoning moves: characterising the facts, raising grounds, and using case law without hiding behind it.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Qualification: naming the facts",
+              "body": "French legal reasoning begins with an operation that has no everyday equivalent: « la qualification des faits ». Before any rule can apply, the raw facts must be given a legal name — is this a « vente » or a « prêt à usage » ? a « manquement » or a simple « retard » ? Change the name and you change the whole outcome, which is why most disputes are fought at this stage rather than over the rule itself. The French verb is « qualifier de » : « les juges ont qualifié ce comportement de manquement grave ».",
+              "examples": [
+                { "french": "Il faut d'abord qualifier les faits avant d'appliquer la règle.", "english": "The facts must first be characterised before the rule can be applied." },
+                { "french": "Ce retard répété a été qualifié de manquement grave.", "english": "This repeated delay was characterised as a serious breach.", "note": "qualifier X de Y — no preposition before X." },
+                { "french": "La qualification retenue commande l'ensemble du raisonnement.", "english": "The characterisation adopted governs the whole line of reasoning.", "note": "« commander » here = to determine." },
+                { "french": "En l'espèce, l'accord verbal constitue bien un contrat.", "english": "In the present case, the oral agreement does indeed constitute a contract.", "note": "« en l'espèce » = in this particular case. Indispensable." },
+                { "french": "La partie adverse conteste la qualification, non les faits eux-mêmes.", "english": "The opposing party disputes the characterisation, not the facts themselves." }
+              ],
+              "tip": "When a French lawyer says « tout dépend de la qualification », they are not stalling — they are saying that the name given to the facts will decide the case."
+            },
+            {
+              "heading": "The judicial syllogism",
+              "body": "The classical shape of a French legal argument is a syllogism: the major premise states the rule, the minor premise states the qualified facts, and the conclusion applies one to the other. Written out, it produces the familiar rhythm: « Aux termes de l'article… ; en l'espèce… ; il en résulte que… ». The strength of a submission is judged on whether each of the three steps is separately defensible, not on how convincing the whole sounds.",
+              "examples": [
+                { "french": "Majeure : tout manquement grave autorise la résolution du contrat.", "english": "Major premise: any serious breach permits rescission of the contract." },
+                { "french": "Mineure : en l'espèce, le fournisseur n'a livré aucune commande pendant six mois.", "english": "Minor premise: in the present case, the supplier delivered no order for six months." },
+                { "french": "Conclusion : il en résulte que la résolution est justifiée.", "english": "Conclusion: it follows that rescission is justified.", "note": "« il en résulte que » is the standard conclusive connector." },
+                { "french": "Le raisonnement pèche par sa majeure : la règle invoquée ne vise pas ce type de contrat.", "english": "The reasoning fails at its major premise: the rule relied on does not cover this type of contract.", "note": "« pécher par » = to be defective in respect of." },
+                { "french": "Dès lors, la demande doit être écartée.", "english": "Consequently, the claim must be dismissed.", "note": "« dès lors » = therefore, in legal prose." }
+              ],
+              "tip": "To attack an argument, say which premise you are attacking. « Je conteste la majeure » and « je conteste la mineure » are two completely different fights."
+            },
+            {
+              "heading": "Using case law without hiding behind it",
+              "body": "« La jurisprudence » — the body of decisions — is quoted constantly, but the way it is quoted is regulated by convention. You state the principle a decision established, not the story of the case; you then show why the present facts fall inside or outside that principle. Two moves do most of the work: « a contrario », inferring the opposite from what a text does not say, and « a fortiori », arguing that if the rule covers the lesser case it covers the greater one all the more.",
+              "examples": [
+                { "french": "La jurisprudence admet de longue date que le silence ne vaut pas acceptation.", "english": "Case law has long accepted that silence does not amount to acceptance." },
+                { "french": "Cette décision a posé un principe que les juridictions appliquent depuis.", "english": "This decision laid down a principle that the courts have applied ever since.", "note": "« poser un principe » — the standard collocation." },
+                { "french": "A contrario, un texte qui vise les seuls professionnels ne s'applique pas aux particuliers.", "english": "Conversely, a text covering professionals alone does not apply to private individuals." },
+                { "french": "Si la règle protège l'acheteur occasionnel, elle protège a fortiori le consommateur.", "english": "If the rule protects the occasional buyer, it protects the consumer all the more." },
+                { "french": "La solution n'est pas transposable : les faits sont trop éloignés de l'espèce citée.", "english": "The solution cannot be transposed: the facts are too far from the case cited.", "note": "« transposable » — the polite way of refusing a precedent." }
+              ],
+              "tip": "This lesson teaches how arguments are built in French. It is not legal advice, and the examples describe invented disputes only."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "le-raisonnement-juridique", "french": "le raisonnement juridique", "english": "legal reasoning", "partOfSpeech": "noun", "gender": "m", "plural": "les raisonnements juridiques", "pronunciation": "luh reh-zon-uh-MAHN zhue-ree-DEEK", "example": "Le raisonnement juridique avance par étapes séparables.", "exampleEnglish": "Legal reasoning proceeds in separable steps.", "level": "C1", "category": "legal-reasoning" },
+            { "id": "la-qualification-des-faits", "french": "la qualification des faits", "english": "the legal characterisation of the facts", "partOfSpeech": "noun", "gender": "f", "plural": "les qualifications des faits", "pronunciation": "lah kah-lee-fee-kah-SYON day FEH", "example": "La qualification des faits décide de la règle applicable.", "exampleEnglish": "The characterisation of the facts decides which rule applies.", "level": "C1", "category": "legal-reasoning" },
+            { "id": "qualifier-de", "french": "qualifier de", "english": "to characterise as", "partOfSpeech": "verb", "pronunciation": "kah-lee-FYAY duh", "example": "Les juges ont qualifié ce retard de manquement grave.", "exampleEnglish": "The judges characterised this delay as a serious breach.", "level": "C1", "category": "legal-reasoning" },
+            { "id": "le-fait", "french": "le fait", "english": "the fact", "partOfSpeech": "noun", "gender": "m", "plural": "les faits", "pronunciation": "luh FEH", "example": "Les faits ne sont pas contestés ; leur qualification l'est.", "exampleEnglish": "The facts are not disputed; their characterisation is.", "level": "C1", "category": "legal-reasoning" },
+            { "id": "en-l-espece", "french": "en l'espèce", "english": "in the present case", "partOfSpeech": "expression", "pronunciation": "ahn les-PESS", "example": "En l'espèce, aucune livraison n'est intervenue en six mois.", "exampleEnglish": "In the present case, no delivery took place in six months.", "level": "C1", "category": "legal-reasoning" },
+            { "id": "le-syllogisme-judiciaire", "french": "le syllogisme judiciaire", "english": "the judicial syllogism", "partOfSpeech": "noun", "gender": "m", "plural": "les syllogismes judiciaires", "pronunciation": "luh see-loh-ZHEESM zhue-dee-SYEHR", "example": "Le syllogisme judiciaire impose de séparer la règle et les faits.", "exampleEnglish": "The judicial syllogism requires the rule and the facts to be kept apart.", "level": "C1", "category": "legal-reasoning" },
+            { "id": "la-premisse", "french": "la prémisse", "english": "the premise", "partOfSpeech": "noun", "gender": "f", "plural": "les prémisses", "pronunciation": "lah pray-MEESS", "example": "La prémisse majeure énonce la règle, la mineure les faits.", "exampleEnglish": "The major premise states the rule, the minor one the facts.", "level": "C1", "category": "legal-reasoning" },
+            { "id": "le-moyen-de-droit", "french": "le moyen de droit", "english": "the legal ground (of a submission)", "partOfSpeech": "noun", "gender": "m", "plural": "les moyens de droit", "pronunciation": "luh mwah-YAN duh DRWAH", "example": "L'avocat développe trois moyens de droit distincts.", "exampleEnglish": "Counsel develops three distinct legal grounds.", "level": "C1", "category": "legal-reasoning" },
+            { "id": "invoquer", "french": "invoquer", "english": "to rely on, to invoke (a text, a rule)", "partOfSpeech": "verb", "pronunciation": "an-voh-KAY", "example": "On ne peut invoquer un texte sans en montrer la portée.", "exampleEnglish": "One cannot rely on a text without showing its scope.", "level": "C1", "category": "legal-reasoning" },
+            { "id": "soulever", "french": "soulever", "english": "to raise (an objection, a ground)", "partOfSpeech": "verb", "pronunciation": "sool-VAY", "example": "La partie adverse a soulevé l'irrecevabilité de la demande.", "exampleEnglish": "The opposing party raised the inadmissibility of the claim.", "level": "C1", "category": "legal-reasoning" },
+            { "id": "ecarter-un-moyen", "french": "écarter un moyen", "english": "to set aside a ground", "partOfSpeech": "expression", "pronunciation": "ay-kar-TAY uhn mwah-YAN", "example": "Le tribunal a écarté ce moyen comme inopérant.", "exampleEnglish": "The court set that ground aside as ineffective.", "level": "C1", "category": "legal-reasoning" },
+            { "id": "le-fondement-juridique", "french": "le fondement juridique", "english": "the legal basis", "partOfSpeech": "noun", "gender": "m", "plural": "les fondements juridiques", "pronunciation": "luh fon-duh-MAHN zhue-ree-DEEK", "example": "La demande change de fondement juridique en appel.", "exampleEnglish": "The claim changes its legal basis on appeal.", "level": "C1", "category": "legal-reasoning" },
+            { "id": "la-jurisprudence", "french": "la jurisprudence", "english": "case law", "partOfSpeech": "noun", "gender": "f", "plural": "les jurisprudences", "pronunciation": "lah zhue-rees-prue-DAHNSS", "example": "La jurisprudence admet de longue date cette solution.", "exampleEnglish": "Case law has long accepted this solution.", "level": "C1", "category": "legal-reasoning" },
+            { "id": "l-arret-de-la-cour", "french": "l'arrêt de la cour", "english": "the ruling of the court", "partOfSpeech": "noun", "gender": "m", "plural": "les arrêts de la cour", "pronunciation": "lah-REH duh lah KOOR", "example": "L'arrêt de la cour tient en quatre pages très denses.", "exampleEnglish": "The court's ruling runs to four very dense pages.", "level": "C1", "category": "legal-reasoning" },
+            { "id": "le-jugement", "french": "le jugement", "english": "the judgment (of a first-instance court)", "partOfSpeech": "noun", "gender": "m", "plural": "les jugements", "pronunciation": "luh zhuzh-MAHN", "example": "Le jugement a été rendu après six mois de délibéré.", "exampleEnglish": "The judgment was handed down after six months of deliberation.", "level": "C1", "category": "legal-reasoning" },
+            { "id": "le-considerant", "french": "le considérant", "english": "the recital (of a decision)", "partOfSpeech": "noun", "gender": "m", "plural": "les considérants", "pronunciation": "luh kon-see-day-RAHN", "example": "Le troisième considérant contient tout le raisonnement utile.", "exampleEnglish": "The third recital contains all the useful reasoning.", "level": "C1", "category": "legal-reasoning" },
+            { "id": "la-motivation-d-une-decision", "french": "la motivation d'une décision", "english": "the stated reasons for a decision", "partOfSpeech": "noun", "gender": "f", "plural": "les motivations des décisions", "pronunciation": "lah moh-tee-vah-SYON due-nuh day-see-ZYON", "example": "Une motivation trop brève fragilise la décision.", "exampleEnglish": "Reasoning that is too brief weakens the decision.", "level": "C1", "category": "legal-reasoning" },
+            { "id": "le-dispositif", "french": "le dispositif", "english": "the operative part (of a decision)", "partOfSpeech": "noun", "gender": "m", "plural": "les dispositifs", "pronunciation": "luh dees-poh-zee-TEEF", "example": "Le dispositif tient en trois lignes : c'est lui qui s'exécute.", "exampleEnglish": "The operative part runs to three lines: it is the part that is enforced.", "level": "C1", "category": "legal-reasoning" },
+            { "id": "le-motif", "french": "le motif", "english": "the ground, the stated reason", "partOfSpeech": "noun", "gender": "m", "plural": "les motifs", "pronunciation": "luh moh-TEEF", "example": "Par ces motifs, la juridiction rejette la demande.", "exampleEnglish": "On these grounds, the court rejects the claim.", "level": "C1", "category": "legal-reasoning" },
+            { "id": "la-doctrine", "french": "la doctrine", "english": "legal scholarship, academic commentary", "partOfSpeech": "noun", "gender": "f", "plural": "les doctrines", "pronunciation": "lah dok-TREEN", "example": "La doctrine est divisée sur la portée de cette solution.", "exampleEnglish": "Legal scholarship is divided on the scope of this solution.", "level": "C1", "category": "legal-reasoning" },
+            { "id": "le-precedent", "french": "le précédent", "english": "the precedent", "partOfSpeech": "noun", "gender": "m", "plural": "les précédents", "pronunciation": "luh pray-say-DAHN", "example": "Ce précédent est invoqué par les deux parties à la fois.", "exampleEnglish": "This precedent is relied on by both parties at once.", "level": "C1", "category": "legal-reasoning" },
+            { "id": "le-revirement-de-jurisprudence", "french": "le revirement de jurisprudence", "english": "a reversal of established case law", "partOfSpeech": "noun", "gender": "m", "plural": "les revirements de jurisprudence", "pronunciation": "luh ruh-veer-MAHN duh zhue-rees-prue-DAHNSS", "example": "Ce revirement de jurisprudence était annoncé depuis deux ans.", "exampleEnglish": "This reversal of case law had been signalled for two years.", "level": "C1", "category": "legal-reasoning" },
+            { "id": "poser-un-principe", "french": "poser un principe", "english": "to lay down a principle", "partOfSpeech": "expression", "pronunciation": "poh-ZAY uhn pran-SEEP", "example": "La décision pose un principe que les juges appliquent depuis.", "exampleEnglish": "The decision lays down a principle that judges have applied ever since.", "level": "C1", "category": "legal-reasoning" },
+            { "id": "transposable", "french": "transposable", "english": "transposable, applicable by extension", "partOfSpeech": "adjective", "pronunciation": "trahns-poh-ZAH-bluh", "example": "Cette solution n'est pas transposable à notre situation.", "exampleEnglish": "This solution cannot be transposed to our situation.", "level": "C1", "category": "legal-reasoning" },
+            { "id": "a-contrario", "french": "a contrario", "english": "conversely, by opposite inference", "partOfSpeech": "expression", "pronunciation": "ah kon-trah-RYOH", "example": "A contrario, un texte visant les seuls professionnels épargne les particuliers.", "exampleEnglish": "Conversely, a text covering professionals alone spares private individuals.", "level": "C1", "category": "legal-reasoning" },
+            { "id": "a-fortiori", "french": "a fortiori", "english": "all the more so", "partOfSpeech": "expression", "pronunciation": "ah for-syoh-REE", "example": "Si la règle protège l'acheteur occasionnel, elle protège a fortiori le consommateur.", "exampleEnglish": "If the rule protects the occasional buyer, it protects the consumer all the more.", "level": "C1", "category": "legal-reasoning" },
+            { "id": "l-analogie", "french": "l'analogie", "english": "analogy", "partOfSpeech": "noun", "gender": "f", "plural": "les analogies", "pronunciation": "lah-nah-loh-ZHEE", "example": "Le raisonnement par analogie suppose une ressemblance pertinente.", "exampleEnglish": "Reasoning by analogy presupposes a relevant resemblance.", "level": "C1", "category": "legal-reasoning" },
+            { "id": "la-charge-de-la-preuve", "french": "la charge de la preuve", "english": "the burden of proof", "partOfSpeech": "noun", "gender": "f", "plural": "les charges de la preuve", "pronunciation": "lah SHARZH duh lah PRUHV", "example": "La charge de la preuve pèse sur celui qui allègue le fait.", "exampleEnglish": "The burden of proof lies on the person alleging the fact.", "level": "C1", "category": "legal-reasoning" },
+            { "id": "la-pretention", "french": "la prétention", "english": "the claim as formulated", "partOfSpeech": "noun", "gender": "f", "plural": "les prétentions", "pronunciation": "lah pray-tahn-SYON", "example": "Les prétentions des parties sont récapitulées en fin de conclusions.", "exampleEnglish": "The parties' claims are summarised at the end of the submissions.", "level": "C1", "category": "legal-reasoning" },
+            { "id": "le-demandeur", "french": "le demandeur", "english": "the claimant, the plaintiff", "partOfSpeech": "noun", "gender": "m", "plural": "les demandeurs", "pronunciation": "luh duh-mahn-DUHR", "example": "Il incombe au demandeur d'établir le préjudice invoqué.", "exampleEnglish": "It falls to the claimant to establish the loss relied on.", "level": "C1", "category": "legal-reasoning" },
+            { "id": "le-defendeur", "french": "le défendeur", "english": "the defendant (in civil proceedings)", "partOfSpeech": "noun", "gender": "m", "plural": "les défendeurs", "pronunciation": "luh day-fahn-DUHR", "example": "Le défendeur conteste la qualification plus que les faits.", "exampleEnglish": "The defendant disputes the characterisation more than the facts.", "level": "C1", "category": "legal-reasoning" },
+            { "id": "debouter", "french": "débouter", "english": "to dismiss a party's claim", "partOfSpeech": "verb", "pronunciation": "day-boo-TAY", "example": "Le tribunal a débouté le demandeur de l'ensemble de ses demandes.", "exampleEnglish": "The court dismissed all of the claimant's claims.", "level": "C1", "category": "legal-reasoning" },
+            { "id": "faire-droit-a", "french": "faire droit à", "english": "to grant (a claim)", "partOfSpeech": "expression", "pronunciation": "fehr DRWAH ah", "example": "La juridiction a fait droit à la demande principale.", "exampleEnglish": "The court granted the principal claim.", "level": "C1", "category": "legal-reasoning" },
+            { "id": "trancher", "french": "trancher", "english": "to settle, to decide (a point)", "partOfSpeech": "verb", "pronunciation": "trahn-SHAY", "example": "La cour a tranché la question sans la renvoyer.", "exampleEnglish": "The court settled the question without referring it back.", "level": "C1", "category": "legal-reasoning" },
+            { "id": "il-en-resulte-que", "french": "il en résulte que", "english": "it follows that", "partOfSpeech": "expression", "pronunciation": "eel ahn ray-ZUELT kuh", "example": "Il en résulte que la résolution du contrat est justifiée.", "exampleEnglish": "It follows that rescission of the contract is justified.", "level": "C1", "category": "legal-reasoning" },
+            { "id": "des-lors", "french": "dès lors", "english": "consequently, from that point on", "partOfSpeech": "expression", "pronunciation": "deh LOR", "example": "Dès lors, le moyen manque en fait comme en droit.", "exampleEnglish": "Consequently, the ground fails both on the facts and in law.", "level": "C1", "category": "legal-reasoning" },
+            { "id": "l-interpretation-stricte", "french": "l'interprétation stricte", "english": "strict interpretation", "partOfSpeech": "noun", "gender": "f", "plural": "les interprétations strictes", "pronunciation": "lan-tehr-pray-tah-SYON STREEKT", "example": "Les exceptions appellent une interprétation stricte.", "exampleEnglish": "Exceptions call for a strict interpretation.", "level": "C1", "category": "legal-reasoning" },
+            { "id": "la-nullite", "french": "la nullité", "english": "nullity, invalidity", "partOfSpeech": "noun", "gender": "f", "plural": "les nullités", "pronunciation": "lah nue-lee-TAY", "example": "La nullité de la clause n'entraîne pas celle du contrat entier.", "exampleEnglish": "The invalidity of the clause does not entail that of the whole contract.", "level": "C1", "category": "legal-reasoning" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Connectors that carry legal weight",
+              "body": "Legal French uses a restricted set of connectors, and each marks a precise logical step. « Or » introduces the minor premise (never « but » — it means \"now, as it happens\"). « Dès lors » and « il en résulte que » deliver a conclusion. « En toute hypothèse » covers every scenario at once, often as a fallback argument. Mixing these up produces prose that sounds legal but reasons badly, which a trained reader spots immediately.",
+              "examples": [
+                { "french": "Or, en l'espèce, aucune mise en demeure n'a été adressée.", "english": "Now, in the present case, no formal notice was sent.", "note": "« Or » = the pivot into the facts. Not « however »." },
+                { "french": "Dès lors, la clause résolutoire n'a pas pu jouer.", "english": "Consequently, the termination clause could not operate." },
+                { "french": "Il en résulte que la demande de résiliation est infondée.", "english": "It follows that the application for termination is unfounded." },
+                { "french": "En toute hypothèse, le préjudice n'est pas établi.", "english": "In any event, the loss is not established.", "note": "The fallback argument: even if I lose the first point." },
+                { "french": "À titre subsidiaire, il sera demandé une réduction du montant réclamé.", "english": "In the alternative, a reduction of the amount claimed will be sought.", "note": "« à titre subsidiaire » = the second-choice argument, argued anyway." },
+                { "french": "Il n'en demeure pas moins que les faits sont anciens.", "english": "The fact remains, nonetheless, that the facts are old.", "note": "A concession that keeps its own point alive." }
+              ],
+              "tip": "Watch « or ». Beginners read it as « but » and reverse the whole argument. It simply announces: here come the facts that meet the rule."
+            },
+            {
+              "heading": "The future and conditional of submissions",
+              "body": "French written submissions use tenses that displace the writer politely. « Il sera démontré que » and « il sera demandé de » replace « je démontre » — the future makes the argument a programme rather than a boast. The conditional marks what an opponent alleges without endorsing it: « la société aurait manqué à ses obligations » means the breach is claimed, not established. Journalists borrow this same conditional; in law it is a strict marker of unproven allegation.",
+              "examples": [
+                { "french": "Il sera démontré que la clause n'a jamais été acceptée.", "english": "It will be shown that the clause was never accepted." },
+                { "french": "Il sera demandé au tribunal d'écarter ce moyen.", "english": "The court will be asked to set that ground aside." },
+                { "french": "Le prestataire aurait manqué à son obligation de conseil.", "english": "The provider allegedly failed in its duty to advise.", "note": "Conditional = alleged, not established." },
+                { "french": "Selon la partie adverse, le préjudice s'élèverait à quarante mille euros.", "english": "According to the opposing party, the loss allegedly amounts to forty thousand euros." },
+                { "french": "Il conviendra de statuer sur les dépens.", "english": "It will be appropriate to rule on costs.", "note": "« il conviendra de » — impersonal future, extremely common." },
+                { "french": "On observera que ce grief n'a jamais été formulé avant l'audience.", "english": "It will be observed that this complaint was never raised before the hearing.", "note": "« on observera » — a polite way of scoring a point." }
+              ],
+              "tip": "If you read « aurait manqué » in a French submission or news report, translate it as \"is alleged to have failed\", never as a plain past."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "c1_u07_l03_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What is the status of the alleged breach?",
+              "french": "Selon la partie adverse, le prestataire aurait manqué à son obligation de conseil.",
+              "options": [
+                "It is alleged, not established — the conditional marks the allegation",
+                "It is proved and accepted by both parties",
+                "It has been rejected by the court already",
+                "It concerns the client, not the provider"
+              ],
+              "answer": "It is alleged, not established — the conditional marks the allegation"
+            },
+            {
+              "id": "c1_u07_l03_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. What does « or » signal here?",
+              "french": "Tout manquement grave autorise la résolution. Or, en l'espèce, aucune livraison n'est intervenue.",
+              "options": [
+                "The pivot into the facts of the case, after the rule",
+                "A contradiction of the rule just stated",
+                "A concession made to the other party",
+                "A conclusion drawn from the facts"
+              ],
+              "answer": "The pivot into the facts of the case, after the rule"
+            },
+            {
+              "id": "c1_u07_l03_li03",
+              "type": "listenType",
+              "prompt": "Type the conclusion you hear.",
+              "french": "Il en résulte que la résolution du contrat est justifiée.",
+              "answer": "Il en résulte que la résolution du contrat est justifiée.",
+              "acceptedAnswers": [
+                "il en resulte que la resolution du contrat est justifiee",
+                "Il en résulte que la résolution du contrat est justifiée"
+              ]
+            },
+            {
+              "id": "c1_u07_l03_li04",
+              "type": "dictation",
+              "prompt": "Dictation. A classic move against a precedent.",
+              "french": "Cette solution n'est pas transposable : les faits sont trop éloignés de l'espèce citée.",
+              "answer": "Cette solution n'est pas transposable : les faits sont trop éloignés de l'espèce citée.",
+              "acceptedAnswers": [
+                "cette solution n est pas transposable les faits sont trop eloignes de l espece citee",
+                "Cette solution n'est pas transposable, les faits sont trop éloignés de l'espèce citée"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "c1_u07_l03_sp01",
+              "type": "speak",
+              "prompt": "Deliver a complete judicial syllogism in one breath group per step.",
+              "french": "Tout manquement grave autorise la résolution ; or, en l'espèce, aucune livraison n'est intervenue en six mois ; il en résulte que la résolution est justifiée.",
+              "english": "Any serious breach permits rescission; now, in the present case, no delivery took place in six months; it follows that rescission is justified.",
+              "tip": "Three units, three breaths. Keep « or » short and unstressed — lengthening it makes it sound like an objection."
+            },
+            {
+              "id": "c1_u07_l03_sp02",
+              "type": "speak",
+              "prompt": "Refuse a precedent politely but firmly.",
+              "french": "Je ne conteste pas la solution retenue à l'époque ; je conteste sa transposition à des faits différents.",
+              "english": "I do not dispute the solution adopted at the time; I dispute its transposition to different facts.",
+              "tip": "Match the two halves rhythmically — « je ne conteste pas… je conteste… » works only if both verbs land on the same beat."
+            },
+            {
+              "id": "c1_u07_l03_sp03",
+              "type": "speak",
+              "prompt": "Announce a fallback argument.",
+              "french": "À titre subsidiaire, et en toute hypothèse, le préjudice invoqué n'est pas établi.",
+              "english": "In the alternative, and in any event, the loss relied on is not established.",
+              "tip": "Say « à titre subsidiaire » quickly and flatly, as a label, then slow down on « n'est pas établi »."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Essai — « Ce qui se joue avant la règle »",
+              "french": "On imagine volontiers le juriste comme quelqu'un qui connaît des règles et les applique. C'est une image commode, et à peu près fausse.\nDans la plupart des dossiers, les règles ne font l'objet d'aucune discussion : les deux parties les citent, souvent les mêmes, parfois dans les mêmes termes.\nCe qui les oppose se joue avant, dans une opération que le français nomme la qualification des faits.\nUn même événement peut être un retard ou un manquement, une tolérance ou une renonciation, un service rendu ou une prestation due.\nRien dans le fait brut ne dicte le nom qu'il faut lui donner ; c'est le nom qui décidera de la règle, et non l'inverse.\nDe là vient l'impression, souvent pénible au profane, que les juristes discutent de mots.\nIls discutent effectivement de mots, mais parce que ces mots sont des portes : chacun ouvre sur un régime différent, avec ses délais, ses preuves et ses conséquences.\nLe raisonnement qui suit est, lui, presque mécanique. On énonce la règle, on rappelle les faits qualifiés, on conclut.\nCette architecture en trois temps a l'avantage d'être attaquable point par point : on peut refuser la règle, refuser la qualification, ou accepter les deux et contester la conséquence.\nUne bonne plaidoirie dit toujours lequel des trois elle attaque, et une mauvaise laisse le lecteur le deviner.\nReste la jurisprudence, dont l'usage demande une prudence particulière.\nCiter une décision ne prouve rien tant que l'on n'a pas montré en quoi les faits d'aujourd'hui ressemblent à ceux d'hier sur le point qui compte.\nLa ressemblance doit être pertinente, non pittoresque : deux affaires peuvent se ressembler beaucoup et ne rien avoir de commun juridiquement.\nC'est pourquoi l'argument le plus efficace contre un précédent n'est presque jamais qu'il serait mal jugé, mais qu'il ne serait pas transposable.\nOn ne conteste pas la sagesse du juge d'hier ; on conteste la parenté des situations.\nLà réside sans doute la véritable difficulté de la langue du droit : elle demande moins de mémoire que de discernement, et le discernement, lui, ne se cite pas.",
+              "english": "One readily imagines the lawyer as someone who knows rules and applies them. It is a convenient image, and roughly false.\nIn most files, the rules are not disputed at all: both parties cite them, often the same ones, sometimes in the same words.\nWhat divides them happens earlier, in an operation that French calls the characterisation of the facts.\nOne and the same event may be a delay or a breach, a forbearance or a waiver, a favour done or a service owed.\nNothing in the raw fact dictates the name it should be given; it is the name that will decide the rule, and not the other way round.\nHence the impression, often painful to the layperson, that lawyers argue about words.\nThey do indeed argue about words, but because those words are doors: each opens onto a different regime, with its own time limits, its own proofs and its own consequences.\nThe reasoning that follows is, for its part, almost mechanical. One states the rule, recalls the characterised facts, and concludes.\nThis three-part architecture has the advantage of being attackable point by point: one may reject the rule, reject the characterisation, or accept both and dispute the consequence.\nA good oral submission always says which of the three it is attacking, and a bad one leaves the reader to guess.\nThere remains case law, the use of which calls for particular caution.\nCiting a decision proves nothing until one has shown how today's facts resemble yesterday's on the point that matters.\nThe resemblance must be relevant, not picturesque: two cases may look very alike and have nothing in common legally.\nThat is why the most effective argument against a precedent is almost never that it was wrongly decided, but that it cannot be transposed.\nOne does not dispute the wisdom of yesterday's judge; one disputes the kinship of the situations.\nTherein lies, no doubt, the real difficulty of legal language: it requires less memory than discernment, and discernment cannot be cited.",
+              "questions": [
+                {
+                  "id": "c1_u07_l03_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "According to the text, why do lawyers appear to argue about words?",
+                  "options": [
+                    "Because each name given to the facts opens onto a different legal regime",
+                    "Because the rules themselves are usually unknown to them",
+                    "Because judges reward elegant vocabulary",
+                    "Because French has no precise legal terminology"
+                  ],
+                  "answer": "Because each name given to the facts opens onto a different legal regime"
+                },
+                {
+                  "id": "c1_u07_l03_rd02",
+                  "type": "trueFalse",
+                  "prompt": "The text says the most effective attack on a precedent is usually to argue that it was wrongly decided.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                },
+                {
+                  "id": "c1_u07_l03_rd03",
+                  "type": "multipleChoice",
+                  "prompt": "What does the text say distinguishes a good oral submission from a bad one?",
+                  "options": [
+                    "It states which of the three steps of the reasoning it is attacking",
+                    "It cites more decisions than the opposing party",
+                    "It avoids naming the facts at all",
+                    "It quotes the rule in its original Latin form"
+                  ],
+                  "answer": "It states which of the three steps of the reasoning it is attacking"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "c1_u07_l03_wr01",
+              "type": "translate",
+              "prompt": "Translate: \"It falls to the claimant to establish the loss relied on.\"",
+              "english": "It falls to the claimant to establish the loss relied on.",
+              "answer": "Il incombe au demandeur d'établir le préjudice invoqué.",
+              "acceptedAnswers": [
+                "il incombe au demandeur d etablir le prejudice invoque",
+                "Il appartient au demandeur d'établir le préjudice invoqué."
+              ]
+            },
+            {
+              "id": "c1_u07_l03_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order to form the conclusion of a syllogism.",
+              "english": "It follows that rescission of the contract is justified.",
+              "words": ["que la résolution", "Il en résulte", "est justifiée", "du contrat"],
+              "answer": "Il en résulte que la résolution du contrat est justifiée"
+            },
+            {
+              "id": "c1_u07_l03_wr03",
+              "type": "translate",
+              "prompt": "Translate: \"The court dismissed all of the claimant's claims.\"",
+              "english": "The court dismissed all of the claimant's claims.",
+              "answer": "Le tribunal a débouté le demandeur de l'ensemble de ses demandes.",
+              "acceptedAnswers": [
+                "le tribunal a deboute le demandeur de l ensemble de ses demandes",
+                "Le tribunal a débouté le demandeur de toutes ses demandes."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "c1_u07_l03_pr01",
+              "type": "multipleChoice",
+              "prompt": "In legal prose, « or » is best translated as:",
+              "options": [
+                "now, as it happens (the pivot into the facts)",
+                "but (a contradiction)",
+                "or (an alternative)",
+                "therefore (a conclusion)"
+              ],
+              "answer": "now, as it happens (the pivot into the facts)"
+            },
+            {
+              "id": "c1_u07_l03_pr02",
+              "type": "fillBlank",
+              "prompt": "Complete: « En l'___, aucune livraison n'est intervenue depuis six mois. »",
+              "answer": "espèce",
+              "hint": "In the present case."
+            },
+            {
+              "id": "c1_u07_l03_pr03",
+              "type": "match",
+              "prompt": "Match each move with what it does in an argument.",
+              "pairs": [
+                { "french": "a contrario", "english": "infers the opposite from what a text omits" },
+                { "french": "a fortiori", "english": "extends a rule to a stronger case" },
+                { "french": "à titre subsidiaire", "english": "argues a fallback position anyway" },
+                { "french": "en toute hypothèse", "english": "covers every scenario at once" }
+              ]
+            },
+            {
+              "id": "c1_u07_l03_pr04",
+              "type": "fillBlank",
+              "prompt": "Complete the allegation: « Le prestataire ___ manqué à son obligation de conseil, selon la partie adverse. »",
+              "answer": "aurait",
+              "hint": "The conditional of avoir marks an unproven allegation."
+            },
+            {
+              "id": "c1_u07_l03_pr05",
+              "type": "multipleChoice",
+              "prompt": "Which sentence refuses a precedent in the way the reading recommends?",
+              "options": [
+                "Cette solution n'est pas transposable à des faits aussi différents.",
+                "Cette décision est manifestement absurde.",
+                "Ce juge n'avait sans doute pas lu le dossier.",
+                "Ce précédent est trop ancien pour intéresser qui que ce soit."
+              ],
+              "answer": "Cette solution n'est pas transposable à des faits aussi différents."
+            },
+            {
+              "id": "c1_u07_l03_pr06",
+              "type": "trueFalse",
+              "prompt": "« Le dispositif » of a decision is the part that is actually enforced, while « les motifs » explain it.",
+              "options": ["True", "False"],
+              "answer": "True"
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "c1_u07_l03_qz01",
+              "type": "multipleChoice",
+              "prompt": "What is « la qualification des faits » ?",
+              "options": [
+                "Giving the facts their legal name, which determines the applicable rule",
+                "Assessing whether a witness is qualified to testify",
+                "Ranking the parties by seniority",
+                "Translating the facts into Latin terminology"
+              ],
+              "answer": "Giving the facts their legal name, which determines the applicable rule"
+            },
+            {
+              "id": "c1_u07_l03_qz02",
+              "type": "fillBlank",
+              "prompt": "Complete: « Le tribunal a ___ le demandeur de l'ensemble de ses demandes. »",
+              "answer": "débouté",
+              "hint": "The verb for dismissing a party's claims."
+            },
+            {
+              "id": "c1_u07_l03_qz03",
+              "type": "multipleChoice",
+              "prompt": "« Si la règle protège l'acheteur occasionnel, elle protège a fortiori le consommateur. » What kind of inference is this?",
+              "options": [
+                "A fortiori: the stronger case is covered all the more",
+                "A contrario: the opposite is inferred",
+                "By analogy with an unrelated field",
+                "A reversal of established case law"
+              ],
+              "answer": "A fortiori: the stronger case is covered all the more"
+            },
+            {
+              "id": "c1_u07_l03_qz04",
+              "type": "translate",
+              "prompt": "Translate: \"The court granted the principal claim.\"",
+              "english": "The court granted the principal claim.",
+              "answer": "La juridiction a fait droit à la demande principale.",
+              "acceptedAnswers": [
+                "la juridiction a fait droit a la demande principale",
+                "Le tribunal a fait droit à la demande principale."
+              ]
+            },
+            {
+              "id": "c1_u07_l03_qz05",
+              "type": "trueFalse",
+              "prompt": "In a French submission, « le préjudice s'élèverait à quarante mille euros » states an established figure.",
+              "options": ["True", "False"],
+              "answer": "False"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

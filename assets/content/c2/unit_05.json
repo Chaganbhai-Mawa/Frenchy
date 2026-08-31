@@ -1,0 +1,584 @@
+{
+  "id": "c2_u05",
+  "level": "C2",
+  "unit": 5,
+  "title": "Stylistics",
+  "subtitle": "How a sentence sounds like someone: rhythm, lexical choice, distance — and how to borrow, bend or rebuild a manner at will",
+  "icon": "🪄",
+  "lessons": [
+    {
+      "id": "c2_u05_l01",
+      "level": "C2",
+      "unit": 5,
+      "title": "Le style et la voix",
+      "description": "What actually makes a personal style: the rhythm of the sentence, the lexical register a writer keeps returning to, and the distance held from the subject.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Le rythme : la première signature",
+              "body": "Before a reader notices your vocabulary, they hear your rhythm. French stylistics distinguishes « la parataxe » — short clauses juxtaposed, often without conjunctions — from « l'hypotaxe », where subordinate clauses hang from a main clause and build a long balanced « période ». Neither is better; each produces an effect. Parataxis accelerates, fragments, and lets the reader draw the links; hypotaxis subordinates, hierarchises, and tells the reader exactly which idea depends on which.",
+              "examples": [
+                { "french": "Il est entré. Il n'a rien dit. Il a posé les clés sur la table.", "english": "He came in. He said nothing. He put the keys on the table.", "note": "parataxe : three blocks, no connector — the reader supplies the causality" },
+                { "french": "Comme il n'avait rien à dire et que la nuit avait été longue, il posa les clés sur la table sans même ôter son manteau.", "english": "Since he had nothing to say and the night had been long, he set the keys on the table without even taking off his coat.", "note": "hypotaxe : the same scene, hierarchised — one main clause, everything else subordinate" },
+                { "french": "Sa phrase est courte, nerveuse, presque haletante.", "english": "His sentence is short, tense, almost breathless.", "note": "the rhythm of the description imitates what it describes" },
+                { "french": "Il écrit par vagues : la phrase enfle, se déploie, retombe.", "english": "He writes in waves: the sentence swells, unfurls, subsides.", "note": "« le souffle » — the long sweep of a sentence that carries several beats" },
+                { "french": "Un ternaire bien placé donne à la période son point d'appui.", "english": "A well-placed ternary rhythm gives the periodic sentence its footing.", "note": "groups of three remain the most audible rhythmic unit in French prose" }
+              ],
+              "tip": "Read your paragraph aloud and mark where you breathe. If you never breathe, the reader never rests; if you breathe every four words, the text stumbles. Style is largely the management of that breath."
+            },
+            {
+              "heading": "Le lexique : ce que l'on choisit sans y penser",
+              "body": "A writer's lexicon is rarely a conscious decision — it is a set of habits. Some authors reach systematically for concrete nouns, others for abstractions; some keep a « champ lexical » running for pages (water, machinery, illness) so that the whole text is quietly coloured. The revealing detail is repetition: a word that returns three times in a page is a signature, whether the writer meant it or not.",
+              "examples": [
+                { "french": "Chez elle, tout est verbe : on court, on cogne, on recommence.", "english": "With her, everything is verbs: you run, you knock, you start again.", "note": "verb-driven prose reads as energy; noun-driven prose reads as analysis" },
+                { "french": "Il file un champ lexical marin sur trois pages : houle, dérive, naufrage.", "english": "He runs a nautical lexical field for three pages: swell, drift, shipwreck.", "note": "« filer » a lexical field = keeping it going deliberately" },
+                { "french": "Son idiolecte se reconnaît à deux mots : « or » et « précisément ».", "english": "You can recognise his idiolect from two words: “now” and “precisely”.", "note": "l'idiolecte = the individual's own private dialect" },
+                { "french": "Elle bannit les adverbes en -ment ; c'est un parti pris, pas un hasard.", "english": "She bans -ly adverbs; it is a deliberate stance, not chance.", "note": "what a style refuses defines it as much as what it uses" },
+                { "french": "Le mot juste vaut mieux que trois mots approchants.", "english": "The right word is worth more than three approximate ones.", "note": "the classic French stylistic creed, from Flaubert onwards" }
+              ],
+              "tip": "Take any page you have written and list every noun. If the list looks like a dictionary of abstractions — situation, élément, aspect, niveau — your style has no body yet."
+            },
+            {
+              "heading": "La distance : où se tient celui qui parle",
+              "body": "The third variable is distance: how close the speaking voice stands to what it describes. A narrator can be inside a character's head (free indirect style), at their shoulder, or high above with the cold eye of a report. French marks this distance through tense, through modalisation (« sans doute », « paraît-il ») and above all through irony, which is distance made audible.",
+              "examples": [
+                { "french": "Il était, paraît-il, un homme remarquable.", "english": "He was, so they say, a remarkable man.", "note": "« paraît-il » inserts distance: the narrator declines to vouch for it" },
+                { "french": "Quelle chance il avait eue ! Enfin quelqu'un l'écoutait.", "english": "What luck he had had! At last someone was listening to him.", "note": "style indirect libre — the narrator borrows the character's voice without quotation marks" },
+                { "french": "Le sujet a manifesté une certaine irritation.", "english": "The subject displayed a certain irritation.", "note": "maximum distance: the clinical register of a report" },
+                { "french": "On l'aurait dit heureux ; il ne l'était pas.", "english": "You would have thought him happy; he was not.", "note": "the narrator corrects the reader — a very controlled, slightly ironic distance" },
+                { "french": "Elle prend du recul et son ironie devient tendresse.", "english": "She steps back and her irony turns into tenderness.", "note": "distance is not coldness: the same recul can produce affection" }
+              ],
+              "tip": "Change nothing but the distance and the text changes genre. The same funeral, told from inside, at the shoulder, or from a police report, gives you an elegy, a novel, or a satire."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "c2u5-le-style", "french": "le style", "english": "style", "partOfSpeech": "noun", "gender": "m", "plural": "les styles", "pronunciation": "luh steel", "example": "Son style se reconnaît dès la première ligne.", "exampleEnglish": "His style is recognisable from the very first line.", "level": "C2", "category": "stylistics" },
+            { "id": "c2u5-la-voix", "french": "la voix", "english": "voice (of an author)", "partOfSpeech": "noun", "gender": "f", "plural": "les voix", "pronunciation": "lah vwah", "example": "Elle a mis dix ans à trouver sa voix.", "exampleEnglish": "It took her ten years to find her voice.", "level": "C2", "category": "stylistics" },
+            { "id": "c2u5-le-ton", "french": "le ton", "english": "tone", "partOfSpeech": "noun", "gender": "m", "plural": "les tons", "pronunciation": "luh tohn", "example": "Le ton du texte est faussement détaché.", "exampleEnglish": "The tone of the text is deceptively detached.", "level": "C2", "category": "stylistics" },
+            { "id": "c2u5-la-tonalite", "french": "la tonalité", "english": "overall tone, key", "partOfSpeech": "noun", "gender": "f", "plural": "les tonalités", "pronunciation": "lah toh-nah-lee-tay", "example": "La tonalité générale du recueil est mélancolique.", "exampleEnglish": "The general key of the collection is melancholy.", "level": "C2", "category": "stylistics" },
+            { "id": "c2u5-le-rythme", "french": "le rythme", "english": "rhythm", "partOfSpeech": "noun", "gender": "m", "plural": "les rythmes", "pronunciation": "luh reetm", "example": "Le rythme s'accélère dès que le personnage ment.", "exampleEnglish": "The rhythm speeds up as soon as the character lies.", "level": "C2", "category": "stylistics" },
+            { "id": "c2u5-la-cadence", "french": "la cadence", "english": "cadence, measured beat", "partOfSpeech": "noun", "gender": "f", "plural": "les cadences", "pronunciation": "lah kah-dahnss", "example": "Ses phrases retombent toujours sur la même cadence.", "exampleEnglish": "His sentences always come to rest on the same cadence.", "level": "C2", "category": "stylistics" },
+            { "id": "c2u5-le-souffle", "french": "le souffle", "english": "breath, sweep (of a sentence)", "partOfSpeech": "noun", "gender": "m", "plural": "les souffles", "pronunciation": "luh soofl", "example": "Cette page a un souffle que la précédente n'avait pas.", "exampleEnglish": "This page has a sweep the previous one lacked.", "level": "C2", "category": "stylistics" },
+            { "id": "c2u5-la-periode", "french": "la période", "english": "periodic sentence", "partOfSpeech": "noun", "gender": "f", "plural": "les périodes", "pronunciation": "lah pay-ree-ohd", "example": "La période classique se déploie puis se referme sur une chute brève.", "exampleEnglish": "The classical periodic sentence unfolds, then closes on a short fall.", "level": "C2", "category": "stylistics" },
+            { "id": "c2u5-la-parataxe", "french": "la parataxe", "english": "parataxis (juxtaposed clauses)", "partOfSpeech": "noun", "gender": "f", "plural": "les parataxes", "pronunciation": "lah pah-rah-taks", "example": "La parataxe donne au récit une allure de constat.", "exampleEnglish": "Parataxis gives the narrative the feel of a statement of fact.", "level": "C2", "category": "stylistics" },
+            { "id": "c2u5-l-hypotaxe", "french": "l'hypotaxe", "english": "hypotaxis (subordination)", "partOfSpeech": "noun", "gender": "f", "plural": "les hypotaxes", "pronunciation": "lee-poh-taks", "example": "L'hypotaxe hiérarchise ce que la parataxe se contente de poser.", "exampleEnglish": "Hypotaxis ranks what parataxis merely sets down.", "level": "C2", "category": "stylistics" },
+            { "id": "c2u5-la-syntaxe", "french": "la syntaxe", "english": "syntax", "partOfSpeech": "noun", "gender": "f", "plural": "les syntaxes", "pronunciation": "lah seen-taks", "example": "Sa syntaxe est tordue, mais jamais fautive.", "exampleEnglish": "His syntax is twisted, but never incorrect.", "level": "C2", "category": "stylistics" },
+            { "id": "c2u5-le-lexique", "french": "le lexique", "english": "lexicon, word stock", "partOfSpeech": "noun", "gender": "m", "plural": "les lexiques", "pronunciation": "luh lek-seek", "example": "Le lexique du texte reste volontairement pauvre.", "exampleEnglish": "The text's lexicon is deliberately kept sparse.", "level": "C2", "category": "stylistics" },
+            { "id": "c2u5-le-champ-lexical", "french": "le champ lexical", "english": "lexical field", "partOfSpeech": "noun", "gender": "m", "plural": "les champs lexicaux", "pronunciation": "luh shahn lek-see-kal", "example": "Il file un champ lexical de la maladie sur tout le chapitre.", "exampleEnglish": "He runs a lexical field of illness through the whole chapter.", "level": "C2", "category": "stylistics" },
+            { "id": "c2u5-la-distance", "french": "la distance", "english": "distance (between voice and subject)", "partOfSpeech": "noun", "gender": "f", "plural": "les distances", "pronunciation": "lah dee-stahnss", "example": "La distance du narrateur rend la scène supportable.", "exampleEnglish": "The narrator's distance makes the scene bearable.", "level": "C2", "category": "stylistics" },
+            { "id": "c2u5-le-recul", "french": "le recul", "english": "detachment, stepping back", "partOfSpeech": "noun", "gender": "m", "plural": "les reculs", "pronunciation": "luh ruh-kül", "example": "Elle raconte son enfance avec un recul désarmant.", "exampleEnglish": "She tells of her childhood with disarming detachment.", "level": "C2", "category": "stylistics" },
+            { "id": "c2u5-la-sobriete", "french": "la sobriété", "english": "restraint, sobriety", "partOfSpeech": "noun", "gender": "f", "plural": "les sobriétés", "pronunciation": "lah soh-bree-ay-tay", "example": "La sobriété de la description en fait toute la force.", "exampleEnglish": "The restraint of the description is exactly what makes it powerful.", "level": "C2", "category": "stylistics" },
+            { "id": "c2u5-l-ampleur", "french": "l'ampleur", "english": "breadth, amplitude", "partOfSpeech": "noun", "gender": "f", "plural": "les ampleurs", "pronunciation": "lahm-pluhr", "example": "On admire l'ampleur de la phrase sans en perdre le fil.", "exampleEnglish": "One admires the breadth of the sentence without losing its thread.", "level": "C2", "category": "stylistics" },
+            { "id": "c2u5-la-brievete", "french": "la brièveté", "english": "brevity", "partOfSpeech": "noun", "gender": "f", "plural": "les brièvetés", "pronunciation": "lah bree-ev-tay", "example": "Sa brièveté n'est jamais de la sécheresse.", "exampleEnglish": "His brevity is never dryness.", "level": "C2", "category": "stylistics" },
+            { "id": "c2u5-la-concision", "french": "la concision", "english": "conciseness", "partOfSpeech": "noun", "gender": "f", "plural": "les concisions", "pronunciation": "lah kohn-see-zyohn", "example": "La concision s'obtient à la relecture, jamais au premier jet.", "exampleEnglish": "Conciseness is achieved at the rereading stage, never in the first draft.", "level": "C2", "category": "stylistics" },
+            { "id": "c2u5-le-depouillement", "french": "le dépouillement", "english": "bareness, stripped-down manner", "partOfSpeech": "noun", "gender": "m", "plural": "les dépouillements", "pronunciation": "luh day-poo-ee-mahn", "example": "Le dépouillement de son écriture désarçonne les lecteurs pressés.", "exampleEnglish": "The bareness of his writing throws hurried readers off.", "level": "C2", "category": "stylistics" },
+            { "id": "c2u5-l-emphase", "french": "l'emphase", "english": "grandiloquence, emphasis", "partOfSpeech": "noun", "gender": "f", "plural": "les emphases", "pronunciation": "lahm-fahz", "example": "Il parle sans emphase, ce qui rend ses mots plus lourds.", "exampleEnglish": "He speaks without grandiloquence, which makes his words weigh more.", "level": "C2", "category": "stylistics" },
+            { "id": "c2u5-la-preciosite", "french": "la préciosité", "english": "affectation, preciousness", "partOfSpeech": "noun", "gender": "f", "plural": "les préciosités", "pronunciation": "lah pray-syoh-zee-tay", "example": "Sa préciosité finit par lasser dès la deuxième page.", "exampleEnglish": "His affectation ends up tiring you by the second page.", "level": "C2", "category": "stylistics" },
+            { "id": "c2u5-l-idiolecte", "french": "l'idiolecte", "english": "idiolect (one person's own usage)", "partOfSpeech": "noun", "gender": "m", "plural": "les idiolectes", "pronunciation": "lee-dyoh-lekt", "example": "Chaque idiolecte tient à trois ou quatre habitudes de langue.", "exampleEnglish": "Every idiolect comes down to three or four habits of language.", "level": "C2", "category": "stylistics" },
+            { "id": "c2u5-la-tournure", "french": "la tournure", "english": "turn of phrase", "partOfSpeech": "noun", "gender": "f", "plural": "les tournures", "pronunciation": "lah toor-nür", "example": "Cette tournure sent son dix-neuvième siècle.", "exampleEnglish": "That turn of phrase reeks of the nineteenth century.", "level": "C2", "category": "stylistics" },
+            { "id": "c2u5-le-procede", "french": "le procédé", "english": "device, technique", "partOfSpeech": "noun", "gender": "m", "plural": "les procédés", "pronunciation": "luh proh-say-day", "example": "Le procédé est visible, donc il ne fonctionne plus.", "exampleEnglish": "The device is visible, so it no longer works.", "level": "C2", "category": "stylistics" },
+            { "id": "c2u5-l-inflexion", "french": "l'inflexion", "english": "inflection, shift of tone", "partOfSpeech": "noun", "gender": "f", "plural": "les inflexions", "pronunciation": "lan-flek-syohn", "example": "Une inflexion suffit pour faire basculer la phrase dans l'ironie.", "exampleEnglish": "One inflection is enough to tip the sentence into irony.", "level": "C2", "category": "stylistics" },
+            { "id": "c2u5-le-tic-de-langage", "french": "le tic de langage", "english": "verbal tic", "partOfSpeech": "noun", "gender": "m", "plural": "les tics de langage", "pronunciation": "luh teek duh lahn-gahzh", "example": "« En fait » est devenu chez lui un tic de langage.", "exampleEnglish": "“Actually” has become a verbal tic with him.", "level": "C2", "category": "stylistics" },
+            { "id": "c2u5-la-scansion", "french": "la scansion", "english": "scansion, beat-marking", "partOfSpeech": "noun", "gender": "f", "plural": "les scansions", "pronunciation": "lah skahn-syohn", "example": "La scansion en trois temps donne au discours son autorité.", "exampleEnglish": "The three-beat scansion gives the speech its authority.", "level": "C2", "category": "stylistics" },
+            { "id": "c2u5-ciseler", "french": "ciseler", "english": "to chisel, to craft finely", "partOfSpeech": "verb", "pronunciation": "seez-lay", "example": "Il cisèle ses fins de chapitre pendant des semaines.", "exampleEnglish": "He chisels his chapter endings for weeks.", "level": "C2", "category": "stylistics" },
+            { "id": "c2u5-affuter", "french": "affûter", "english": "to sharpen (a style, an argument)", "partOfSpeech": "verb", "pronunciation": "ah-fü-tay", "example": "Affûtez vos verbes avant de toucher aux adjectifs.", "exampleEnglish": "Sharpen your verbs before you touch the adjectives.", "level": "C2", "category": "stylistics" },
+            { "id": "c2u5-alourdir", "french": "alourdir", "english": "to weigh down, to make heavy", "partOfSpeech": "verb", "pronunciation": "ah-loor-deer", "example": "Ces incises alourdissent une phrase déjà longue.", "exampleEnglish": "These interpolated clauses weigh down an already long sentence.", "level": "C2", "category": "stylistics" },
+            { "id": "c2u5-resserrer", "french": "resserrer", "english": "to tighten (a text)", "partOfSpeech": "verb", "pronunciation": "ruh-seh-ray", "example": "Resserrez le paragraphe : il dit deux fois la même chose.", "exampleEnglish": "Tighten the paragraph: it says the same thing twice.", "level": "C2", "category": "stylistics" },
+            { "id": "c2u5-ampoule", "french": "ampoulé", "english": "bombastic, inflated", "partOfSpeech": "adjective", "pronunciation": "ahn-poo-lay", "example": "Un style ampoulé cache souvent une pensée courte.", "exampleEnglish": "A bombastic style often hides a short thought.", "level": "C2", "category": "stylistics" },
+            { "id": "c2u5-chatie", "french": "châtié", "english": "polished, refined (language)", "partOfSpeech": "adjective", "pronunciation": "shah-tyay", "example": "Il s'exprime dans une langue châtiée, même à table.", "exampleEnglish": "He expresses himself in polished language, even at the dinner table.", "level": "C2", "category": "stylistics" },
+            { "id": "c2u5-heurte", "french": "heurté", "english": "jerky, abrupt (style)", "partOfSpeech": "adjective", "pronunciation": "uhr-tay", "example": "Son phrasé heurté épouse l'angoisse du personnage.", "exampleEnglish": "His jerky phrasing matches the character's anxiety.", "level": "C2", "category": "stylistics" },
+            { "id": "c2u5-fluide", "french": "fluide", "english": "flowing, smooth", "partOfSpeech": "adjective", "pronunciation": "flü-eed", "example": "Une prose fluide n'est pas forcément une prose facile.", "exampleEnglish": "Flowing prose is not necessarily easy prose.", "level": "C2", "category": "stylistics" },
+            { "id": "c2u5-feutre", "french": "feutré", "english": "hushed, muted", "partOfSpeech": "adjective", "pronunciation": "fuh-tray", "example": "Le récit avance sur un ton feutré, presque chuchoté.", "exampleEnglish": "The narrative advances in a hushed, almost whispered tone.", "level": "C2", "category": "stylistics" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Le style indirect libre",
+              "body": "Free indirect style lets a narrator speak a character's thoughts in the third person, with no « il pensa que » and no quotation marks. Keep the tense of narration (imparfait, plus-que-parfait, conditionnel as future-in-the-past) but import the character's vocabulary, exclamations and questions. It is the single most efficient way to control distance: the voice is simultaneously outside and inside.",
+              "examples": [
+                { "french": "Il regarda la porte. Non, il n'irait pas. Pourquoi se serait-il excusé ?", "english": "He looked at the door. No, he would not go. Why should he have apologised?", "note": "« n'irait pas » = conditional as future-in-the-past; the question is the character's, not the narrator's" },
+                { "french": "Elle rangea ses affaires. Demain, tout serait différent.", "english": "She put away her things. Tomorrow everything would be different.", "note": "« demain » kept as the character says it, not converted to « le lendemain »" },
+                { "french": "Il pensa qu'il n'irait pas et qu'il n'avait pas à s'excuser.", "english": "He thought that he would not go and that he did not have to apologise.", "note": "the same content in ordinary indirect speech — flatter, more distant" },
+                { "french": "Quelle idée, aussi, d'avoir accepté !", "english": "What an idea, too, to have accepted!", "note": "« aussi » in this position is spoken French — the character's own tone leaking in" },
+                { "french": "Le vieil homme haussa les épaules. Ces gens-là ne changeraient jamais.", "english": "The old man shrugged. Those people would never change.", "note": "« ces gens-là » carries his contempt without the narrator endorsing it" }
+              ],
+              "tip": "Test: can you insert « pensa-t-il » without changing a single word? If yes, you are in free indirect style."
+            },
+            {
+              "heading": "Ordre des mots et mise en relief",
+              "body": "French word order is less free than in many languages, so writers get emphasis from dislocation and from cleft constructions. « C'est … que / qui » highlights one element; a dislocated noun with a resumptive pronoun (« Ce livre, je l'ai lu ») fronts a topic; inversion after certain adverbs (à peine, aussi, peut-être, ainsi) raises the register instantly.",
+              "examples": [
+                { "french": "C'est ce silence-là qui m'a inquiété, pas ses paroles.", "english": "It was that silence that worried me, not his words.", "note": "cleft with « qui » — the highlighted element is the subject" },
+                { "french": "Ce livre, je l'ai lu trois fois sans le comprendre.", "english": "That book, I read it three times without understanding it.", "note": "left dislocation + resumptive « l' » — spoken French, but usable in prose for topic-setting" },
+                { "french": "À peine était-il sorti que le téléphone sonna.", "english": "Hardly had he gone out when the telephone rang.", "note": "inversion after « à peine » — literary and instantly formal" },
+                { "french": "Peut-être avons-nous mal lu ce texte.", "english": "Perhaps we have misread this text.", "note": "« peut-être » + inversion; « peut-être qu'on a mal lu » is the neutral version" },
+                { "french": "Ainsi s'achève une carrière commencée dans l'indifférence.", "english": "Thus ends a career begun in indifference.", "note": "inversion after « ainsi » gives a closing, almost oratorical fall" }
+              ],
+              "tip": "Use one emphatic construction per paragraph at most. Stacked clefts and dislocations sound like someone shouting every word."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "c2_u05_l01_li01", "type": "listenChoose", "french": "Sa phrase est courte, nerveuse, presque haletante.", "options": ["Sa phrase est courte, nerveuse, presque haletante.", "Sa phrase est longue, ample, presque solennelle.", "Ses phrases sont courtes, nerveuses, presque hachées.", "Sa page est courte, nerveuse, presque illisible."], "answer": "Sa phrase est courte, nerveuse, presque haletante.", "prompt": "Listen and choose the sentence you hear." },
+            { "id": "c2_u05_l01_li02", "type": "listenChoose", "french": "Il était, paraît-il, un homme remarquable.", "options": ["Il était, paraît-il, un homme remarquable.", "Il était, semble-t-il, un homme respectable.", "Il paraissait être un homme remarquable.", "Il était, disait-il, un homme remarquable."], "answer": "Il était, paraît-il, un homme remarquable.", "prompt": "Which version keeps the narrator's distance with « paraît-il » ?" },
+            { "id": "c2_u05_l01_li03", "type": "listenType", "french": "La sobriété de la description en fait toute la force.", "answer": "La sobriété de la description en fait toute la force.", "acceptedAnswers": ["La sobriete de la description en fait toute la force", "la sobriété de la description en fait toute la force"], "prompt": "Type what you hear." },
+            { "id": "c2_u05_l01_li04", "type": "dictation", "french": "À peine avait-il trouvé sa voix qu'il se mit à imiter les autres.", "answer": "À peine avait-il trouvé sa voix qu'il se mit à imiter les autres.", "acceptedAnswers": ["A peine avait-il trouve sa voix qu'il se mit a imiter les autres", "à peine avait-il trouvé sa voix qu'il se mit à imiter les autres"], "prompt": "Dictation: mind the inversion after « à peine »." }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "c2_u05_l01_sp01", "type": "speak", "french": "Il est entré. Il n'a rien dit. Il a posé les clés sur la table.", "english": "He came in. He said nothing. He put the keys on the table.", "prompt": "Read this paratactic sequence aloud, letting each full stop land.", "tip": "Drop the pitch clearly at each full stop and pause a full beat. If the three clauses run together, the parataxis is lost." },
+            { "id": "c2_u05_l01_sp02", "type": "speak", "french": "Comme il n'avait rien à dire et que la nuit avait été longue, il posa les clés sur la table sans même ôter son manteau.", "english": "Since he had nothing to say and the night had been long, he set the keys on the table without even taking off his coat.", "prompt": "Now the hypotactic version: keep the voice suspended until the main clause.", "tip": "Hold a slightly rising pitch through « longue », then let the main clause fall. Do not breathe before « il posa »." },
+            { "id": "c2_u05_l01_sp03", "type": "speak", "french": "Ce n'est pas ce qu'il dit qui me gêne, c'est la manière dont il le dit.", "english": "It is not what he says that bothers me, it is the way he says it.", "prompt": "Say this cleft sentence with the stress on the highlighted elements.", "tip": "Push slightly on « ce qu'il dit » and on « la manière » — French emphasis is carried by the construction, so keep the volume even elsewhere." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Deux pages, deux voix",
+              "french": "On m'avait confié deux manuscrits anonymes et prié de dire lequel des deux auteurs avait du style.\nLe premier commençait ainsi : « La pluie tombait. La rue était vide. J'ai attendu. »\nTrois phrases, onze mots, aucune conjonction : le lecteur devait relier lui-même les morceaux.\nLe second ouvrait sur une période de six lignes où la pluie, la rue et l'attente se tenaient par la main, chaque proposition suspendue à la précédente, jusqu'à une chute très brève.\nJ'ai lu les deux à voix haute, comme on m'a appris à le faire.\nLe premier respirait vite ; on l'entendait presque courir.\nLe second respirait lentement, mais il ne s'essoufflait jamais : c'était un nageur, pas un sprinteur.\nEnsuite j'ai compté les mots. Chez l'un, quatre-vingts pour cent de verbes et de noms concrets ; chez l'autre, une abstraction toutes les deux lignes.\nEnfin j'ai cherché la distance, ce que personne ne pense à mesurer.\nLe premier narrateur restait collé à son personnage : il ne savait rien de plus que lui, ni ce qui l'attendait, ni pourquoi il avait froid.\nLe second se tenait très au-dessus, avec une ironie polie qui le protégeait de ce qu'il racontait.\nJ'ai rendu mon verdict : les deux avaient du style, et ce n'était pas le même métier.\nLe premier écrivait pour qu'on voie ; le second, pour qu'on comprenne.\nOn m'a répondu que je n'avais pas répondu à la question.\nC'était vrai. Mais la question était mal posée : on ne classe pas les voix, on les reconnaît.",
+              "english": "I had been handed two anonymous manuscripts and asked to say which of the two authors had style.\nThe first began like this: “The rain was falling. The street was empty. I waited.”\nThree sentences, eleven words, not a single conjunction: the reader had to join the pieces up himself.\nThe second opened on a six-line periodic sentence in which the rain, the street and the waiting held hands, each clause suspended from the one before, up to a very short fall.\nI read both aloud, as I was taught to do.\nThe first breathed fast; you could almost hear it running.\nThe second breathed slowly, but it never ran out of breath: it was a swimmer, not a sprinter.\nThen I counted the words. In one, eighty per cent verbs and concrete nouns; in the other, an abstraction every two lines.\nFinally I looked for the distance, which nobody thinks to measure.\nThe first narrator stayed glued to his character: he knew no more than the character did, neither what awaited him nor why he was cold.\nThe second stood well above, with a polite irony that shielded him from what he was recounting.\nI delivered my verdict: both had style, and it was not the same trade.\nThe first wrote so that we would see; the second, so that we would understand.\nI was told that I had not answered the question.\nThat was true. But the question was badly put: you do not rank voices, you recognise them.",
+              "questions": [
+                { "id": "c2_u05_l01_rd01", "type": "multipleChoice", "prompt": "Quel procédé caractérise le premier manuscrit ?", "options": ["La parataxe", "L'hypotaxe", "Le style indirect libre", "La périphrase"], "answer": "La parataxe" },
+                { "id": "c2_u05_l01_rd02", "type": "trueFalse", "prompt": "Selon le narrateur, le second auteur se tient à distance de ce qu'il raconte.", "options": ["True", "False"], "answer": "True" },
+                { "id": "c2_u05_l01_rd03", "type": "multipleChoice", "prompt": "Pourquoi le narrateur juge-t-il la question « mal posée » ?", "options": ["Parce qu'on ne hiérarchise pas deux voix différentes", "Parce que les deux manuscrits étaient anonymes", "Parce qu'il n'avait pas lu les textes à voix haute", "Parce que le second texte était trop long"], "answer": "Parce qu'on ne hiérarchise pas deux voix différentes" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "c2_u05_l01_wr01", "type": "translate", "prompt": "Translate into French.", "english": "His restraint is exactly what gives the scene its power.", "answer": "Sa sobriété est précisément ce qui donne à la scène sa force.", "acceptedAnswers": ["Sa sobriete est precisement ce qui donne a la scene sa force", "C'est sa sobriété qui donne à la scène toute sa force"] },
+            { "id": "c2_u05_l01_wr02", "type": "translate", "prompt": "Translate into French, keeping the free indirect style.", "english": "He closed the door. No, he would not write to her again.", "answer": "Il ferma la porte. Non, il ne lui écrirait plus.", "acceptedAnswers": ["Il ferma la porte. Non, il ne lui ecrirait plus", "Il a fermé la porte. Non, il ne lui écrirait plus"] },
+            { "id": "c2_u05_l01_wr03", "type": "arrangeWords", "words": ["dit", "ce", "gêne", "n'est", "la", "qu'il", "me", "c'est", "pas", "dont", "dit", "ce", "manière", "qui", "il", "le"], "answer": "ce n'est pas ce qu'il dit qui me gêne c'est la manière dont il le dit", "english": "It is not what he says that bothers me, it is the way he says it.", "prompt": "Rebuild the cleft sentence." }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "c2_u05_l01_pr01", "type": "match", "prompt": "Match each stylistic term with its definition.", "pairs": [ { "french": "la parataxe", "english": "clauses juxtaposed without connectors" }, { "french": "l'hypotaxe", "english": "clauses subordinated to a main clause" }, { "french": "l'idiolecte", "english": "one speaker's own private usage" }, { "french": "le champ lexical", "english": "a set of words sharing one theme" } ] },
+            { "id": "c2_u05_l01_pr02", "type": "fillBlank", "prompt": "Il file un ___ lexical de la mer sur tout le chapitre.", "answer": "champ" },
+            { "id": "c2_u05_l01_pr03", "type": "multipleChoice", "prompt": "Quelle phrase relève du style indirect libre ?", "options": ["Demain, tout serait différent.", "Il pensa que tout serait différent.", "Il se dit : « Demain, tout sera différent. »", "On lui annonça que tout changerait."], "answer": "Demain, tout serait différent." },
+            { "id": "c2_u05_l01_pr04", "type": "fillBlank", "prompt": "À peine ___-il sorti que le téléphone sonna.", "answer": "était" },
+            { "id": "c2_u05_l01_pr05", "type": "translate", "prompt": "Translate into French.", "english": "A bombastic style often hides a short thought.", "answer": "Un style ampoulé cache souvent une pensée courte.", "acceptedAnswers": ["Un style ampoule cache souvent une pensee courte", "Un style ampoulé dissimule souvent une pensée courte"] },
+            { "id": "c2_u05_l01_pr06", "type": "arrangeWords", "words": ["nerveuse,", "haletante", "phrase", "presque", "courte,", "sa", "est"], "answer": "sa phrase est courte, nerveuse, presque haletante", "english": "His sentence is short, tense, almost breathless.", "prompt": "Rebuild the sentence about rhythm." }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "c2_u05_l01_qz01", "type": "multipleChoice", "prompt": "« Le souffle » d'une phrase désigne :", "options": ["son ampleur rythmique", "sa longueur en signes", "son vocabulaire savant", "sa ponctuation"], "answer": "son ampleur rythmique" },
+            { "id": "c2_u05_l01_qz02", "type": "multipleChoice", "prompt": "Quel mot désigne un excès d'affectation dans le style ?", "options": ["la préciosité", "la sobriété", "la concision", "le dépouillement"], "answer": "la préciosité" },
+            { "id": "c2_u05_l01_qz03", "type": "trueFalse", "prompt": "« Paraît-il » sert à marquer la distance du narrateur.", "options": ["True", "False"], "answer": "True" },
+            { "id": "c2_u05_l01_qz04", "type": "fillBlank", "prompt": "Elle raconte son enfance avec un ___ désarmant.", "answer": "recul" },
+            { "id": "c2_u05_l01_qz05", "type": "multipleChoice", "prompt": "Quelle construction met en relief le sujet ?", "options": ["C'est ce silence qui m'a inquiété.", "Ce silence m'a inquiété.", "Le silence, il m'inquiétait.", "Il y avait un silence inquiétant."], "answer": "C'est ce silence qui m'a inquiété." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c2_u05_l02",
+      "level": "C2",
+      "unit": 5,
+      "title": "Le pastiche",
+      "description": "Imitating a manner on purpose: spotting the two or three traits that make a style recognisable, then reproducing them without tipping into parody.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Pastiche, parodie, plagiat : trois choses différentes",
+              "body": "French criticism separates them carefully. « Le pastiche » reproduces a manner on new material, with the reader in on the game — it is an admiring exercise. « La parodie » reuses the manner to mock it or to deflate its subject. « Le plagiat » hides the borrowing and passes it off as one's own: it is a fault, not a genre. The line between pastiche and parody is drawn by intention and by how far you « forcez le trait ».",
+              "examples": [
+                { "french": "Ce chapitre est un pastiche affectueux du roman policier des années trente.", "english": "This chapter is an affectionate pastiche of the 1930s detective novel.", "note": "pastiche = same manner, new content, complicity with the reader" },
+                { "french": "En parodiant le discours officiel, il en montre le vide.", "english": "By parodying official discourse, he shows how empty it is.", "note": "parodie = the manner is turned against itself" },
+                { "french": "Il ne cite pas ses sources : ce n'est plus un emprunt, c'est un plagiat.", "english": "He does not cite his sources: this is no longer a borrowing, it is plagiarism.", "note": "the difference is disclosure, not similarity" },
+                { "french": "L'exercice de style consiste à raconter la même anecdote de vingt façons.", "english": "The exercise in style consists of telling the same anecdote twenty ways.", "note": "a French school tradition: the content is trivial so the manner becomes visible" },
+                { "french": "À la manière de… : trois mots qui autorisent tout, à condition de le dire.", "english": "In the manner of…: three words that allow anything, provided you say so.", "note": "the standard heading of a declared pastiche" }
+              ],
+              "tip": "One honest sentence — « à la manière de » — turns a suspicious resemblance into a recognised genre. Declare the model and the reader becomes your accomplice."
+            },
+            {
+              "heading": "Repérer les traits : la fiche de pastiche",
+              "body": "You cannot imitate everything at once. Practised pasticheurs build a short list: average sentence length, favourite connectors, tense of narration, one or two syntactic habits, a lexical field, and a tic. Four or five traits are enough — beyond that the imitation becomes a museum piece and loses its life. The trick is to choose the traits a reader can hear, not the ones only a grammarian would notice.",
+              "examples": [
+                { "french": "Trait n° 1 : phrases de trois à cinq mots, jamais davantage.", "english": "Trait no. 1: sentences of three to five words, never more.", "note": "sentence length is the most audible trait of all" },
+                { "french": "Trait n° 2 : le passé simple, systématiquement, même pour les gestes banals.", "english": "Trait no. 2: the passé simple, systematically, even for ordinary gestures.", "note": "tense of narration instantly dates and situates a voice" },
+                { "french": "Trait n° 3 : une incise ironique par paragraphe, jamais deux.", "english": "Trait no. 3: one ironic aside per paragraph, never two.", "note": "frequency matters as much as the device itself" },
+                { "french": "Trait n° 4 : les adjectifs vont par paires, et la seconde surprend.", "english": "Trait no. 4: adjectives come in pairs, and the second one surprises.", "note": "a habit of construction is easier to copy than a whole vocabulary" },
+                { "french": "Trait n° 5 : il commence une phrase sur deux par « Or ».", "english": "Trait no. 5: he begins every other sentence with “Now”.", "note": "the tic — use it sparingly or the pastiche turns into a charge" }
+              ],
+              "tip": "Write your five traits on a card before you write a word. If you cannot state a trait in one line, it is not a trait, it is an impression."
+            },
+            {
+              "heading": "Le dosage : où le pastiche devient charge",
+              "body": "A pastiche fails in two directions. Too faint, and nobody recognises the model; too heavy, and it becomes « une charge », a caricature. The French term « forcer le trait » names the tipping point exactly. Good practice: keep the model's syntax faithful and let the content be slightly, quietly wrong for it — the humour comes from the mismatch, not from exaggeration.",
+              "examples": [
+                { "french": "Il a forcé le trait : on ne reconnaît plus l'auteur, on ne voit que le pasticheur.", "english": "He laid it on too thick: you no longer recognise the author, only the pasticheur.", "note": "the classic failure mode" },
+                { "french": "Le décalage vient du sujet : la grande période classique appliquée à un ticket de métro.", "english": "The mismatch comes from the subject: the grand classical period applied to a metro ticket.", "note": "keep the manner intact, downgrade the material" },
+                { "french": "Un clin d'œil suffit ; deux, c'est déjà de la parodie.", "english": "One wink is enough; two, and you are already in parody.", "note": "« le clin d'œil » = the nod to the reader" },
+                { "french": "Sa patte est reconnaissable entre mille, même sans signature.", "english": "His touch is recognisable among a thousand, even unsigned.", "note": "« la patte » — the hand, the personal touch that a pastiche tries to borrow" },
+                { "french": "Le faussaire copie ; le pasticheur avoue.", "english": "The forger copies; the pasticheur owns up.", "note": "the moral distinction in one line" }
+              ],
+              "tip": "Give your pastiche to someone who knows the model and someone who does not. If the first laughs and the second is merely intrigued, the dosage is right."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "c2u5-le-pastiche", "french": "le pastiche", "english": "pastiche", "partOfSpeech": "noun", "gender": "m", "plural": "les pastiches", "pronunciation": "luh pah-steesh", "example": "Le pastiche suppose que le lecteur connaisse le modèle.", "exampleEnglish": "Pastiche assumes the reader knows the model.", "level": "C2", "category": "pastiche" },
+            { "id": "c2u5-pasticher", "french": "pasticher", "english": "to pastiche, to imitate the manner of", "partOfSpeech": "verb", "pronunciation": "pah-stee-shay", "example": "On apprend à écrire en pastichant ceux qu'on admire.", "exampleEnglish": "You learn to write by pastiching those you admire.", "level": "C2", "category": "pastiche" },
+            { "id": "c2u5-la-parodie", "french": "la parodie", "english": "parody", "partOfSpeech": "noun", "gender": "f", "plural": "les parodies", "pronunciation": "lah pah-roh-dee", "example": "La parodie retourne le style contre son auteur.", "exampleEnglish": "Parody turns the style against its author.", "level": "C2", "category": "pastiche" },
+            { "id": "c2u5-parodier", "french": "parodier", "english": "to parody", "partOfSpeech": "verb", "pronunciation": "pah-roh-dyay", "example": "Il parodie le journal télévisé sans jamais le nommer.", "exampleEnglish": "He parodies the TV news without ever naming it.", "level": "C2", "category": "pastiche" },
+            { "id": "c2u5-le-plagiat", "french": "le plagiat", "english": "plagiarism", "partOfSpeech": "noun", "gender": "m", "plural": "les plagiats", "pronunciation": "luh plah-zhyah", "example": "Le plagiat commence là où l'aveu s'arrête.", "exampleEnglish": "Plagiarism begins where the admission stops.", "level": "C2", "category": "pastiche" },
+            { "id": "c2u5-l-imitation", "french": "l'imitation", "english": "imitation", "partOfSpeech": "noun", "gender": "f", "plural": "les imitations", "pronunciation": "lee-mee-tah-syohn", "example": "L'imitation reste la meilleure école de style.", "exampleEnglish": "Imitation remains the best school of style.", "level": "C2", "category": "pastiche" },
+            { "id": "c2u5-imiter", "french": "imiter", "english": "to imitate", "partOfSpeech": "verb", "pronunciation": "ee-mee-tay", "example": "Imitez sa syntaxe, pas ses idées.", "exampleEnglish": "Imitate his syntax, not his ideas.", "level": "C2", "category": "pastiche" },
+            { "id": "c2u5-la-maniere", "french": "la manière", "english": "manner (an artist's way)", "partOfSpeech": "noun", "gender": "f", "plural": "les manières", "pronunciation": "lah mah-nyair", "example": "Ce texte est écrit à la manière des moralistes classiques.", "exampleEnglish": "This text is written in the manner of the classical moralists.", "level": "C2", "category": "pastiche" },
+            { "id": "c2u5-a-la-maniere-de", "french": "à la manière de", "english": "in the manner of", "partOfSpeech": "expression", "pronunciation": "ah lah mah-nyair duh", "example": "« À la manière de » désamorce d'avance le soupçon de copie.", "exampleEnglish": "“In the manner of” disarms any suspicion of copying in advance.", "level": "C2", "category": "pastiche" },
+            { "id": "c2u5-le-trait-stylistique", "french": "le trait stylistique", "english": "stylistic trait", "partOfSpeech": "noun", "gender": "m", "plural": "les traits stylistiques", "pronunciation": "luh tray stee-lee-steek", "example": "Quatre traits stylistiques suffisent pour un bon pastiche.", "exampleEnglish": "Four stylistic traits are enough for a good pastiche.", "level": "C2", "category": "pastiche" },
+            { "id": "c2u5-forcer-le-trait", "french": "forcer le trait", "english": "to lay it on thick, to overdo it", "partOfSpeech": "expression", "pronunciation": "for-say luh tray", "example": "Ne force pas le trait : le lecteur avait déjà compris.", "exampleEnglish": "Do not lay it on: the reader had already got it.", "level": "C2", "category": "pastiche" },
+            { "id": "c2u5-le-modele", "french": "le modèle", "english": "model (author imitated)", "partOfSpeech": "noun", "gender": "m", "plural": "les modèles", "pronunciation": "luh moh-dell", "example": "On reconnaît le modèle dès la troisième phrase.", "exampleEnglish": "You recognise the model from the third sentence on.", "level": "C2", "category": "pastiche" },
+            { "id": "c2u5-le-decalque", "french": "le décalque", "english": "tracing, slavish copy", "partOfSpeech": "noun", "gender": "m", "plural": "les décalques", "pronunciation": "luh day-kalk", "example": "Ce n'est pas un pastiche, c'est un décalque sans invention.", "exampleEnglish": "This is not a pastiche, it is a tracing with no invention.", "level": "C2", "category": "pastiche" },
+            { "id": "c2u5-la-charge", "french": "la charge", "english": "caricature, heavy satire", "partOfSpeech": "noun", "gender": "f", "plural": "les charges", "pronunciation": "lah sharzh", "example": "Le portrait vire à la charge dès le second paragraphe.", "exampleEnglish": "The portrait turns into caricature from the second paragraph.", "level": "C2", "category": "pastiche" },
+            { "id": "c2u5-le-clin-d-oeil", "french": "le clin d'œil", "english": "wink, knowing nod", "partOfSpeech": "noun", "gender": "m", "plural": "les clins d'œil", "pronunciation": "luh klan duhy", "example": "Le titre est un clin d'œil aux lecteurs avertis.", "exampleEnglish": "The title is a nod to knowing readers.", "level": "C2", "category": "pastiche" },
+            { "id": "c2u5-l-hommage", "french": "l'hommage", "english": "homage, tribute", "partOfSpeech": "noun", "gender": "m", "plural": "les hommages", "pronunciation": "loh-mahzh", "example": "Ce chapitre est un hommage, non une raillerie.", "exampleEnglish": "This chapter is a tribute, not a mockery.", "level": "C2", "category": "pastiche" },
+            { "id": "c2u5-le-faussaire", "french": "le faussaire", "english": "forger", "partOfSpeech": "noun", "gender": "m", "plural": "les faussaires", "pronunciation": "luh foh-sair", "example": "Le faussaire imite pour tromper, le pasticheur pour saluer.", "exampleEnglish": "The forger imitates to deceive, the pasticheur to salute.", "level": "C2", "category": "pastiche" },
+            { "id": "c2u5-contrefaire", "french": "contrefaire", "english": "to counterfeit, to feign", "partOfSpeech": "verb", "pronunciation": "kohn-truh-fair", "example": "Il contrefait la voix du ministre à la perfection.", "exampleEnglish": "He counterfeits the minister's voice to perfection.", "level": "C2", "category": "pastiche" },
+            { "id": "c2u5-singer", "french": "singer", "english": "to ape, to mimic mockingly", "partOfSpeech": "verb", "pronunciation": "san-zhay", "example": "Il singe les tics de son professeur pour amuser la classe.", "exampleEnglish": "He apes his teacher's mannerisms to amuse the class.", "level": "C2", "category": "pastiche" },
+            { "id": "c2u5-emprunter", "french": "emprunter", "english": "to borrow (a device, a voice)", "partOfSpeech": "verb", "pronunciation": "ahn-pran-tay", "example": "Elle emprunte au conte sa formule d'ouverture.", "exampleEnglish": "She borrows its opening formula from the fairy tale.", "level": "C2", "category": "pastiche" },
+            { "id": "c2u5-l-emprunt", "french": "l'emprunt", "english": "borrowing", "partOfSpeech": "noun", "gender": "m", "plural": "les emprunts", "pronunciation": "lahn-pran", "example": "L'emprunt assumé n'a jamais déshonoré personne.", "exampleEnglish": "An acknowledged borrowing has never dishonoured anyone.", "level": "C2", "category": "pastiche" },
+            { "id": "c2u5-le-poncif", "french": "le poncif", "english": "hackneyed formula, stock device", "partOfSpeech": "noun", "gender": "m", "plural": "les poncifs", "pronunciation": "luh pohn-seef", "example": "Le pastiche vit de poncifs, à condition de les choisir.", "exampleEnglish": "Pastiche lives on stock devices, provided you choose them.", "level": "C2", "category": "pastiche" },
+            { "id": "c2u5-le-cliche", "french": "le cliché", "english": "cliché", "partOfSpeech": "noun", "gender": "m", "plural": "les clichés", "pronunciation": "luh klee-shay", "example": "Un cliché repris au second degré cesse d'en être un.", "exampleEnglish": "A cliché used ironically stops being one.", "level": "C2", "category": "pastiche" },
+            { "id": "c2u5-la-marotte", "french": "la marotte", "english": "hobby-horse, pet obsession", "partOfSpeech": "noun", "gender": "f", "plural": "les marottes", "pronunciation": "lah mah-rot", "example": "Les trains de nuit sont sa marotte : ils reviennent partout.", "exampleEnglish": "Night trains are his hobby-horse: they turn up everywhere.", "level": "C2", "category": "pastiche" },
+            { "id": "c2u5-l-outrance", "french": "l'outrance", "english": "excess, over-the-top quality", "partOfSpeech": "noun", "gender": "f", "plural": "les outrances", "pronunciation": "loo-trahnss", "example": "L'outrance tue le pastiche et nourrit la parodie.", "exampleEnglish": "Excess kills pastiche and feeds parody.", "level": "C2", "category": "pastiche" },
+            { "id": "c2u5-le-tour-de-main", "french": "le tour de main", "english": "knack, deft touch", "partOfSpeech": "noun", "gender": "m", "plural": "les tours de main", "pronunciation": "luh toor duh man", "example": "Ce tour de main s'apprend en recopiant, pas en théorisant.", "exampleEnglish": "That knack is learnt by copying out, not by theorising.", "level": "C2", "category": "pastiche" },
+            { "id": "c2u5-la-patte", "french": "la patte", "english": "personal touch, hand (of an artist)", "partOfSpeech": "noun", "gender": "f", "plural": "les pattes", "pronunciation": "lah paht", "example": "On reconnaît sa patte à la ponctuation seule.", "exampleEnglish": "You can recognise his hand from the punctuation alone.", "level": "C2", "category": "pastiche" },
+            { "id": "c2u5-l-empreinte", "french": "l'empreinte", "english": "imprint, mark", "partOfSpeech": "noun", "gender": "f", "plural": "les empreintes", "pronunciation": "lahm-prant", "example": "Le maître a laissé son empreinte sur toute une génération.", "exampleEnglish": "The master left his imprint on a whole generation.", "level": "C2", "category": "pastiche" },
+            { "id": "c2u5-reconnaissable", "french": "reconnaissable", "english": "recognisable", "partOfSpeech": "adjective", "pronunciation": "ruh-koh-neh-sahbl", "example": "Sa manière est reconnaissable dès l'incipit.", "exampleEnglish": "His manner is recognisable from the opening line.", "level": "C2", "category": "pastiche" },
+            { "id": "c2u5-flagrant", "french": "flagrant", "english": "blatant, glaring", "partOfSpeech": "adjective", "pronunciation": "flah-grahn", "example": "L'emprunt est flagrant, mais parfaitement assumé.", "exampleEnglish": "The borrowing is blatant, but entirely owned.", "level": "C2", "category": "pastiche" },
+            { "id": "c2u5-l-ironie", "french": "l'ironie", "english": "irony", "partOfSpeech": "noun", "gender": "f", "plural": "les ironies", "pronunciation": "lee-roh-nee", "example": "Son ironie ne se voit qu'à la relecture.", "exampleEnglish": "His irony only shows on a second reading.", "level": "C2", "category": "pastiche" },
+            { "id": "c2u5-le-second-degre", "french": "le second degré", "english": "irony, tongue-in-cheek reading", "partOfSpeech": "noun", "gender": "m", "plural": "les seconds degrés", "pronunciation": "luh suh-gohn duh-gray", "example": "Tout le texte est au second degré, du titre à la chute.", "exampleEnglish": "The whole text is tongue-in-cheek, from title to punchline.", "level": "C2", "category": "pastiche" },
+            { "id": "c2u5-la-connivence", "french": "la connivence", "english": "complicity (with the reader)", "partOfSpeech": "noun", "gender": "f", "plural": "les connivences", "pronunciation": "lah koh-nee-vahnss", "example": "Le pastiche repose sur une connivence avec le lecteur.", "exampleEnglish": "Pastiche rests on a complicity with the reader.", "level": "C2", "category": "pastiche" },
+            { "id": "c2u5-le-detournement", "french": "le détournement", "english": "hijacking, repurposing (of a form)", "partOfSpeech": "noun", "gender": "m", "plural": "les détournements", "pronunciation": "luh day-toor-nuh-mahn", "example": "Le détournement d'affiches est devenu un genre à part entière.", "exampleEnglish": "The repurposing of posters has become a genre in its own right.", "level": "C2", "category": "pastiche" },
+            { "id": "c2u5-detourner", "french": "détourner", "english": "to hijack, to repurpose", "partOfSpeech": "verb", "pronunciation": "day-toor-nay", "example": "Il détourne la formule administrative pour parler d'amour.", "exampleEnglish": "He repurposes bureaucratic phrasing to talk about love.", "level": "C2", "category": "pastiche" },
+            { "id": "c2u5-l-exercice-de-style", "french": "l'exercice de style", "english": "exercise in style", "partOfSpeech": "noun", "gender": "m", "plural": "les exercices de style", "pronunciation": "leg-zair-seess duh steel", "example": "Racontez la même scène en dix exercices de style.", "exampleEnglish": "Tell the same scene in ten exercises in style.", "level": "C2", "category": "pastiche" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Le passé simple : la marque du récit littéraire",
+              "body": "Nothing signals a literary manner faster than the passé simple. In pastiche you need to produce it, not merely recognise it. Third person forms carry almost all the weight: -a / -èrent for -er verbs, -it / -irent for most -ir and -re verbs, and a family of -ut / -urent forms (il fut, il eut, il put, il voulut, il dut, il sut, il vécut). Pair it with the imparfait for background, and never mix it with the passé composé inside the same narration.",
+              "examples": [
+                { "french": "Il entra, salua l'assemblée et se tut.", "english": "He came in, greeted the assembly and fell silent.", "note": "-er verbs → entra, salua; « se taire » → il se tut" },
+                { "french": "Ils descendirent sans un mot ; personne ne les retint.", "english": "They went down without a word; no one held them back.", "note": "descendirent (-re verb), retint (« retenir » → il retint)" },
+                { "french": "Elle voulut répondre, mais elle n'en eut pas le temps.", "english": "She wanted to reply, but she did not have the time.", "note": "the -ut family: voulut, eut" },
+                { "french": "La nuit tombait ; il s'assit et attendit.", "english": "Night was falling; he sat down and waited.", "note": "imparfait for the setting, passé simple for the events" },
+                { "french": "Il fut sans doute le dernier à savoir la vérité.", "english": "He was doubtless the last to know the truth.", "note": "« il fut » — irreplaceable in a literary pastiche, impossible in speech" }
+              ],
+              "tip": "The first-person plural (nous entrâmes, nous vînmes) exists but sounds comic outside a genuine literary frame. In pastiche, stay in the third person and you will never sound accidental."
+            },
+            {
+              "heading": "L'imparfait du subjonctif : reconnaître, doser",
+              "body": "The imperfect subjunctive is dead in speech and alive in pastiche. It follows a past main verb where modern French simply uses the present subjunctive. Forms are built on the passé simple: qu'il entrât, qu'il finît, qu'il fût, qu'il eût, qu'il pût. In a pastiche of classical or nineteenth-century prose, one or two occurrences per page are enough; more, and you have written a charge instead of a pastiche.",
+              "examples": [
+                { "french": "Il fallait qu'elle partît avant l'aube.", "english": "She had to leave before dawn.", "note": "modern French: « qu'elle parte » — the imperfect subjunctive dates the sentence at once" },
+                { "french": "Je craignais qu'il ne fût déjà trop tard.", "english": "I feared it might already be too late.", "note": "« ne » explétif + fût: the full classical apparatus" },
+                { "french": "Bien qu'il eût tout prévu, il perdit son calme.", "english": "Although he had foreseen everything, he lost his composure.", "note": "plus-que-parfait du subjonctif — the past of the same register" },
+                { "french": "Elle attendit qu'il finît sa phrase.", "english": "She waited for him to finish his sentence.", "note": "note the circumflex: finît, never finit, in the subjunctive" },
+                { "french": "Il aurait voulu qu'on le crût sur parole.", "english": "He would have liked to be taken at his word.", "note": "« qu'on le crût » (croire) — reserved for deliberate archaism" }
+              ],
+              "tip": "Beware the circumflex: « qu'il fût » (subjunctive) versus « il fut » (passé simple). One accent is the whole difference between two tenses."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "c2_u05_l02_li01", "type": "listenChoose", "french": "Ce chapitre est un pastiche affectueux du roman policier des années trente.", "options": ["Ce chapitre est un pastiche affectueux du roman policier des années trente.", "Ce chapitre est une parodie féroce du roman policier des années trente.", "Ce chapitre est un plagiat du roman policier des années trente.", "Ce chapitre est un pastiche affecté du roman policier des années soixante."], "answer": "Ce chapitre est un pastiche affectueux du roman policier des années trente.", "prompt": "Listen and choose the sentence you hear." },
+            { "id": "c2_u05_l02_li02", "type": "listenChoose", "french": "Il entra, salua l'assemblée et se tut.", "options": ["Il entra, salua l'assemblée et se tut.", "Il est entré, a salué l'assemblée et s'est tu.", "Il entrait, saluait l'assemblée et se taisait.", "Il entra, salua l'assistance et s'assit."], "answer": "Il entra, salua l'assemblée et se tut.", "prompt": "Which version is entirely in the passé simple?" },
+            { "id": "c2_u05_l02_li03", "type": "listenType", "french": "Le faussaire imite pour tromper, le pasticheur pour saluer.", "answer": "Le faussaire imite pour tromper, le pasticheur pour saluer.", "acceptedAnswers": ["Le faussaire imite pour tromper le pasticheur pour saluer", "le faussaire imite pour tromper, le pasticheur pour saluer"], "prompt": "Type what you hear." },
+            { "id": "c2_u05_l02_li04", "type": "dictation", "french": "Il fallait qu'elle partît avant l'aube, bien qu'elle n'eût rien préparé.", "answer": "Il fallait qu'elle partît avant l'aube, bien qu'elle n'eût rien préparé.", "acceptedAnswers": ["Il fallait qu'elle partit avant l'aube bien qu'elle n'eut rien prepare", "il fallait qu'elle partît avant l'aube, bien qu'elle n'eût rien préparé"], "prompt": "Dictation: two imperfect subjunctives — mind the circumflexes." }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "c2_u05_l02_sp01", "type": "speak", "french": "Il entra, salua l'assemblée et se tut.", "english": "He came in, greeted the assembly and fell silent.", "prompt": "Read this passé simple sequence with a narrator's calm.", "tip": "Keep the three verbs on the same pitch and give « se tut » a clean final fall — /sə ty/, with no audible t at the end." },
+            { "id": "c2_u05_l02_sp02", "type": "speak", "french": "À la manière des moralistes, il n'écrit jamais deux phrases quand une suffit.", "english": "In the manner of the moralists, he never writes two sentences where one will do.", "prompt": "Announce a pastiche out loud, with the slight irony the formula carries.", "tip": "Mark a small pause after « moralistes » — the comma is the wink. Keep « qu'une suffit » light and quick." },
+            { "id": "c2_u05_l02_sp03", "type": "speak", "french": "Ne force pas le trait : le lecteur avait déjà compris.", "english": "Do not lay it on: the reader had already got it.", "prompt": "Deliver this piece of workshop advice, friendly but firm.", "tip": "French uses a space before the colon; let it become a real half-beat of silence. Stress « déjà », not « compris »." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "À la manière d'un moraliste (pastiche original)",
+              "french": "Il est un genre d'hommes qui ne parlent jamais d'eux-mêmes et qui, par ce silence même, ne parlent que d'eux.\nIls entrent tard dans une pièce, saluent peu, s'assoient loin de la lampe, et attendent qu'on les prie.\nOn les prie ; ils refusent ; on insiste ; ils cèdent, et l'on croit leur devoir quelque chose.\nJ'en connus un, autrefois, qui portait sa modestie comme d'autres portent un titre.\nIl fallait, pour obtenir de lui trois mots, qu'on lui en offrît cent.\nOn le disait profond parce qu'il était lent ; on l'eût dit sage s'il eût été moins soucieux de le paraître.\nLa Cour, qui juge vite et se corrige rarement, l'admira douze ans sans savoir de quoi.\nIl mourut fort estimé, laissant deux maximes, dont l'une était de son frère.\nJe ne blâme point ces gens-là : ils occupent la place que notre paresse leur abandonne.\nNous aimons mieux deviner un mérite que le vérifier.\nCe qui coûte à trouver nous semble toujours plus précieux que ce qui s'offre.\nAinsi le mystère tient lieu de talent, et l'ennui de gravité.\nLe grand art de ces hommes n'est pas de se taire : c'est de se taire au bon moment.\nQuiconque saura cela n'aura plus besoin d'esprit ; il lui suffira d'une bonne montre.",
+              "english": "There is a kind of man who never speaks of himself and who, by that very silence, speaks of nothing else.\nThey come late into a room, greet few people, sit far from the lamp, and wait to be asked.\nThey are asked; they refuse; one insists; they yield, and one believes oneself in their debt.\nI knew one, long ago, who wore his modesty as others wear a title.\nTo obtain three words from him, one had to offer him a hundred.\nHe was called deep because he was slow; he would have been called wise had he been less anxious to seem so.\nThe Court, which judges quickly and rarely corrects itself, admired him for twelve years without knowing what for.\nHe died much esteemed, leaving two maxims, one of which was his brother's.\nI do not blame such people: they occupy the place our own laziness leaves them.\nWe would rather guess at a merit than verify it.\nWhat costs us effort to find always seems more precious than what offers itself.\nSo mystery stands in for talent, and boredom for gravity.\nThe great art of these men is not to keep silent: it is to keep silent at the right moment.\nWhoever grasps that will have no further need of wit; a good watch will do.",
+              "questions": [
+                { "id": "c2_u05_l02_rd01", "type": "multipleChoice", "prompt": "Quels traits stylistiques ce pastiche imite-t-il en priorité ?", "options": ["Maximes brèves, passé simple et subjonctif imparfait", "Phrases longues, argot et dialogue", "Style indirect libre et présent de narration", "Vocabulaire technique et énumérations"], "answer": "Maximes brèves, passé simple et subjonctif imparfait" },
+                { "id": "c2_u05_l02_rd02", "type": "trueFalse", "prompt": "Le narrateur affirme que la modestie de cet homme était sincère.", "options": ["True", "False"], "answer": "False" },
+                { "id": "c2_u05_l02_rd03", "type": "multipleChoice", "prompt": "Que signifie la chute sur « une bonne montre » ?", "options": ["Que tout repose sur le choix du moment où l'on se tait", "Que l'homme était riche et ponctuel", "Que le temps guérit la vanité", "Que la Cour se levait tôt"], "answer": "Que tout repose sur le choix du moment où l'on se tait" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "c2_u05_l02_wr01", "type": "translate", "prompt": "Translate into French, using the passé simple.", "english": "He came in, said nothing and sat down far from the lamp.", "answer": "Il entra, ne dit rien et s'assit loin de la lampe.", "acceptedAnswers": ["Il entra, ne dit rien et s'assit loin de la lampe", "Il entra, ne dit mot et s'assit loin de la lampe"] },
+            { "id": "c2_u05_l02_wr02", "type": "translate", "prompt": "Translate into French.", "english": "The forger imitates in order to deceive; the pasticheur, in order to salute.", "answer": "Le faussaire imite pour tromper ; le pasticheur, pour saluer.", "acceptedAnswers": ["Le faussaire imite pour tromper, le pasticheur pour saluer", "Le faussaire imite pour tromper ; le pasticheur pour saluer"] },
+            { "id": "c2_u05_l02_wr03", "type": "arrangeWords", "words": ["qu'elle", "avant", "fallait", "partît", "l'aube", "il"], "answer": "il fallait qu'elle partît avant l'aube", "english": "She had to leave before dawn.", "prompt": "Rebuild the sentence with an imperfect subjunctive." }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "c2_u05_l02_pr01", "type": "match", "prompt": "Match each term with its definition.", "pairs": [ { "french": "le pastiche", "english": "declared imitation of a manner" }, { "french": "la parodie", "english": "imitation that mocks its model" }, { "french": "le plagiat", "english": "hidden borrowing passed off as one's own" }, { "french": "la charge", "english": "imitation pushed into caricature" } ] },
+            { "id": "c2_u05_l02_pr02", "type": "fillBlank", "prompt": "Ne ___ pas le trait : le lecteur avait déjà compris.", "answer": "force" },
+            { "id": "c2_u05_l02_pr03", "type": "multipleChoice", "prompt": "Quelle forme est un passé simple ?", "options": ["il voulut", "qu'il voulût", "il voudrait", "il veuille"], "answer": "il voulut" },
+            { "id": "c2_u05_l02_pr04", "type": "fillBlank", "prompt": "Bien qu'il ___ tout prévu, il perdit son calme.", "answer": "eût" },
+            { "id": "c2_u05_l02_pr05", "type": "translate", "prompt": "Translate into French.", "english": "This text is written in the manner of the classical moralists.", "answer": "Ce texte est écrit à la manière des moralistes classiques.", "acceptedAnswers": ["Ce texte est ecrit a la maniere des moralistes classiques", "Ce texte est rédigé à la manière des moralistes classiques"] },
+            { "id": "c2_u05_l02_pr06", "type": "arrangeWords", "words": ["une", "sur", "repose", "connivence", "le", "lecteur", "le", "avec", "pastiche"], "answer": "le pastiche repose sur une connivence avec le lecteur", "english": "Pastiche rests on a complicity with the reader.", "prompt": "Rebuild the sentence." }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "c2_u05_l02_qz01", "type": "multipleChoice", "prompt": "Qu'est-ce qui distingue le pastiche du plagiat ?", "options": ["L'aveu de l'emprunt", "La longueur du texte", "Le siècle du modèle", "Le nombre de traits imités"], "answer": "L'aveu de l'emprunt" },
+            { "id": "c2_u05_l02_qz02", "type": "multipleChoice", "prompt": "« Qu'il fût » est :", "options": ["un imparfait du subjonctif", "un passé simple", "un conditionnel passé", "un participe passé"], "answer": "un imparfait du subjonctif" },
+            { "id": "c2_u05_l02_qz03", "type": "trueFalse", "prompt": "Dans un pastiche, quatre ou cinq traits bien choisis valent mieux qu'une imitation exhaustive.", "options": ["True", "False"], "answer": "True" },
+            { "id": "c2_u05_l02_qz04", "type": "fillBlank", "prompt": "On reconnaît sa ___ à la ponctuation seule : c'est sa marque personnelle.", "answer": "patte" },
+            { "id": "c2_u05_l02_qz05", "type": "multipleChoice", "prompt": "Quelle phrase relève du détournement ?", "options": ["Il emploie la formule administrative pour déclarer sa flamme.", "Il cite le texte administratif sans le modifier.", "Il traduit le texte administratif en anglais.", "Il résume le texte administratif en trois lignes."], "answer": "Il emploie la formule administrative pour déclarer sa flamme." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c2_u05_l03",
+      "level": "C2",
+      "unit": 5,
+      "title": "Réécrire",
+      "description": "The same content, rebuilt for a different effect and a different register: cutting, thickening, softening, hardening — and knowing which lever produces which result.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Réécrire n'est pas corriger",
+              "body": "Correcting removes mistakes; rewriting changes the effect. French editorial vocabulary keeps the two apart: « la relecture » hunts errors, « le remaniement » redistributes material, « la refonte » rebuilds from the plan up. Before touching a sentence, decide which of the three you are doing — most bad rewriting is a refonte attempted with the tools of a relecture.",
+              "examples": [
+                { "french": "La relecture a corrigé douze fautes ; le texte reste illisible.", "english": "The proofread fixed twelve mistakes; the text is still unreadable.", "note": "clean does not mean effective" },
+                { "french": "Le remaniement a déplacé la conclusion en tête.", "english": "The reworking moved the conclusion to the front.", "note": "same material, new order — often the biggest gain for the least effort" },
+                { "french": "Après trois moutures, il a fini par tout refondre.", "english": "After three drafts, he ended up rebuilding the whole thing.", "note": "« une mouture » = a version, a pass" },
+                { "french": "Ce paragraphe ne demande pas d'être allégé, mais étoffé.", "english": "This paragraph does not need lightening; it needs fleshing out.", "note": "the two opposite moves: élaguer / étoffer" },
+                { "french": "Peaufiner un texte qu'il faudrait réécrire, c'est perdre deux fois son temps.", "english": "Polishing a text that ought to be rewritten wastes your time twice over.", "note": "polish last, never first" }
+              ],
+              "tip": "Ask what the reader should feel after the paragraph, not what it says. If you cannot answer, no amount of tightening will help."
+            },
+            {
+              "heading": "Les leviers : sept gestes qui changent tout",
+              "body": "Rewriting in French runs on a small number of repeatable moves. Nominalise to make a text abstract and administrative, or de-nominalise to bring it back to life. Move from passive to active to restore an agent. Cut fillers (« il y a », « le fait que », « au niveau de »). Replace an abstract noun with a concrete one. Shorten the sentence, or fuse two into a period. Change the tense. Change the person. Each lever has a predictable effect — learn them singly before combining them.",
+              "examples": [
+                { "french": "Une décision a été prise par la direction. → La direction a décidé.", "english": "A decision was taken by management. → Management decided.", "note": "passive + nominalisation removed: five words saved and an agent restored" },
+                { "french": "Le fait qu'il soit parti nous a surpris. → Son départ nous a surpris.", "english": "The fact that he left surprised us. → His departure surprised us.", "note": "here nominalisation helps: it kills a heavy subordinate clause" },
+                { "french": "Il y a beaucoup de gens qui pensent que… → Beaucoup pensent que…", "english": "There are many people who think that… → Many think that…", "note": "« il y a … qui » is the most common filler frame in written French" },
+                { "french": "Au niveau du budget, c'est compliqué. → Le budget pose problème.", "english": "At the level of the budget, it's complicated. → The budget is a problem.", "note": "« au niveau de » is the classic tic to hunt down" },
+                { "french": "Nous constatons une amélioration. → Ça va mieux.", "english": "We observe an improvement. → Things are better.", "note": "same information, two registers apart" }
+              ],
+              "tip": "Apply one lever at a time and reread. If you pull three at once you will never know which one produced the improvement — or the damage."
+            },
+            {
+              "heading": "Changer de registre sans changer de sens",
+              "body": "Register is not politeness; it is the social distance encoded in the words. French moves between « familier », « courant » and « soutenu » through vocabulary, through syntax (question forms, negation with or without « ne »), and through figures: « la litote » says less to mean more, « l'euphémisme » softens, « l'hyperbole » inflates. The exercise that teaches this fastest is to write the same three facts three times, changing only the register.",
+              "examples": [
+                { "french": "Familier : Ils ont annulé, on n'a rien pu faire.", "english": "Casual: They cancelled, we couldn't do a thing.", "note": "dropped « ne », « on » for « nous »" },
+                { "french": "Courant : Ils ont annulé la réunion et nous n'avons rien pu faire.", "english": "Neutral: They cancelled the meeting and we could do nothing.", "note": "full negation, explicit object" },
+                { "french": "Soutenu : L'annulation nous a privés de tout moyen d'action.", "english": "Formal: The cancellation deprived us of any means of action.", "note": "nominalisation + abstract vocabulary = instant elevation" },
+                { "french": "Litote : Ce n'est pas un mauvais texte.", "english": "Understatement: It is not a bad text.", "note": "in French this normally means it is very good" },
+                { "french": "Euphémisme : Il nous a quittés. / Hyperbole : Un désastre absolu.", "english": "Euphemism: He passed away. / Hyperbole: An absolute disaster.", "note": "the same event can be softened or inflated without lying about the facts" }
+              ],
+              "tip": "Elevation is not about long words. A soutenu text with a familiar syntax sounds pretentious; keep the whole sentence consistent or the register cracks."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "c2u5-la-reecriture", "french": "la réécriture", "english": "rewriting", "partOfSpeech": "noun", "gender": "f", "plural": "les réécritures", "pronunciation": "lah ray-ay-kree-tür", "example": "La réécriture occupe plus de temps que l'écriture.", "exampleEnglish": "Rewriting takes up more time than writing.", "level": "C2", "category": "rewriting" },
+            { "id": "c2u5-reecrire", "french": "réécrire", "english": "to rewrite", "partOfSpeech": "verb", "pronunciation": "ray-ay-kreer", "example": "Réécrivez ce paragraphe pour un public non spécialiste.", "exampleEnglish": "Rewrite this paragraph for a non-specialist audience.", "level": "C2", "category": "rewriting" },
+            { "id": "c2u5-le-remaniement", "french": "le remaniement", "english": "reworking, reshuffle", "partOfSpeech": "noun", "gender": "m", "plural": "les remaniements", "pronunciation": "luh ruh-mah-nee-mahn", "example": "Le remaniement du plan a sauvé l'article.", "exampleEnglish": "Reworking the outline saved the article.", "level": "C2", "category": "rewriting" },
+            { "id": "c2u5-remanier", "french": "remanier", "english": "to rework, to reorganise", "partOfSpeech": "verb", "pronunciation": "ruh-mah-nyay", "example": "Il a remanié la fin sans toucher au reste.", "exampleEnglish": "He reworked the ending without touching the rest.", "level": "C2", "category": "rewriting" },
+            { "id": "c2u5-la-refonte", "french": "la refonte", "english": "complete overhaul", "partOfSpeech": "noun", "gender": "f", "plural": "les refontes", "pronunciation": "lah ruh-fohnt", "example": "Une refonte complète s'impose : le plan ne tient pas.", "exampleEnglish": "A complete overhaul is needed: the outline does not hold.", "level": "C2", "category": "rewriting" },
+            { "id": "c2u5-le-brouillon", "french": "le brouillon", "english": "rough draft", "partOfSpeech": "noun", "gender": "m", "plural": "les brouillons", "pronunciation": "luh broo-yohn", "example": "Ses brouillons sont plus intéressants que le texte publié.", "exampleEnglish": "His drafts are more interesting than the published text.", "level": "C2", "category": "rewriting" },
+            { "id": "c2u5-la-mouture", "french": "la mouture", "english": "version, pass (of a text)", "partOfSpeech": "noun", "gender": "f", "plural": "les moutures", "pronunciation": "lah moo-tür", "example": "C'est la quatrième mouture, et sans doute pas la dernière.", "exampleEnglish": "This is the fourth version, and probably not the last.", "level": "C2", "category": "rewriting" },
+            { "id": "c2u5-elaguer", "french": "élaguer", "english": "to prune, to cut back", "partOfSpeech": "verb", "pronunciation": "ay-lah-gay", "example": "Élaguez d'abord, vous polirez ensuite.", "exampleEnglish": "Prune first, polish afterwards.", "level": "C2", "category": "rewriting" },
+            { "id": "c2u5-etoffer", "french": "étoffer", "english": "to flesh out, to expand", "partOfSpeech": "verb", "pronunciation": "ay-toh-fay", "example": "Ce passage mérite d'être étoffé, pas raccourci.", "exampleEnglish": "This passage deserves to be fleshed out, not shortened.", "level": "C2", "category": "rewriting" },
+            { "id": "c2u5-condenser", "french": "condenser", "english": "to condense", "partOfSpeech": "verb", "pronunciation": "kohn-dahn-say", "example": "Condensez ces trois paragraphes en dix lignes.", "exampleEnglish": "Condense these three paragraphs into ten lines.", "level": "C2", "category": "rewriting" },
+            { "id": "c2u5-delayer", "french": "délayer", "english": "to water down, to pad out", "partOfSpeech": "verb", "pronunciation": "day-lay-yay", "example": "Il délaye une idée en quatre pages faute d'une seconde.", "exampleEnglish": "He pads one idea out over four pages for lack of a second one.", "level": "C2", "category": "rewriting" },
+            { "id": "c2u5-alleger", "french": "alléger", "english": "to lighten", "partOfSpeech": "verb", "pronunciation": "ah-lay-zhay", "example": "On allège la phrase en supprimant deux incises.", "exampleEnglish": "You lighten the sentence by deleting two asides.", "level": "C2", "category": "rewriting" },
+            { "id": "c2u5-peaufiner", "french": "peaufiner", "english": "to polish, to fine-tune", "partOfSpeech": "verb", "pronunciation": "poh-fee-nay", "example": "Ne peaufinez jamais un texte que vous allez refondre.", "exampleEnglish": "Never polish a text you are going to overhaul.", "level": "C2", "category": "rewriting" },
+            { "id": "c2u5-tronquer", "french": "tronquer", "english": "to truncate, to cut short", "partOfSpeech": "verb", "pronunciation": "trohn-kay", "example": "La citation tronquée dit le contraire de l'original.", "exampleEnglish": "The truncated quotation says the opposite of the original.", "level": "C2", "category": "rewriting" },
+            { "id": "c2u5-la-coupe", "french": "la coupe", "english": "cut (editorial)", "partOfSpeech": "noun", "gender": "f", "plural": "les coupes", "pronunciation": "lah koop", "example": "L'éditeur a proposé deux coupes ; j'en ai accepté une.", "exampleEnglish": "The editor suggested two cuts; I accepted one.", "level": "C2", "category": "rewriting" },
+            { "id": "c2u5-la-redondance", "french": "la redondance", "english": "redundancy", "partOfSpeech": "noun", "gender": "f", "plural": "les redondances", "pronunciation": "lah ruh-dohn-dahnss", "example": "Cette redondance affaiblit un argument déjà fragile.", "exampleEnglish": "This redundancy weakens an already fragile argument.", "level": "C2", "category": "rewriting" },
+            { "id": "c2u5-la-cheville", "french": "la cheville", "english": "filler word or phrase", "partOfSpeech": "noun", "gender": "f", "plural": "les chevilles", "pronunciation": "lah shuh-veey", "example": "« En quelque sorte » n'est ici qu'une cheville.", "exampleEnglish": "“In a way” is nothing but a filler here.", "level": "C2", "category": "rewriting" },
+            { "id": "c2u5-le-remplissage", "french": "le remplissage", "english": "padding", "partOfSpeech": "noun", "gender": "m", "plural": "les remplissages", "pronunciation": "luh rahn-plee-sahzh", "example": "Les deux premières pages sont du remplissage.", "exampleEnglish": "The first two pages are padding.", "level": "C2", "category": "rewriting" },
+            { "id": "c2u5-la-lourdeur", "french": "la lourdeur", "english": "clumsiness, heaviness", "partOfSpeech": "noun", "gender": "f", "plural": "les lourdeurs", "pronunciation": "lah loor-duhr", "example": "Le correcteur a signalé trois lourdeurs par page.", "exampleEnglish": "The copy-editor flagged three clumsy patches per page.", "level": "C2", "category": "rewriting" },
+            { "id": "c2u5-la-nominalisation", "french": "la nominalisation", "english": "nominalisation", "partOfSpeech": "noun", "gender": "f", "plural": "les nominalisations", "pronunciation": "lah noh-mee-nah-lee-zah-syohn", "example": "La nominalisation rend le texte plus abstrait et plus court.", "exampleEnglish": "Nominalisation makes the text more abstract and shorter.", "level": "C2", "category": "rewriting" },
+            { "id": "c2u5-la-voix-passive", "french": "la voix passive", "english": "the passive voice", "partOfSpeech": "noun", "gender": "f", "plural": "les voix passives", "pronunciation": "lah vwah pah-seev", "example": "La voix passive efface l'agent : parfois c'est le but.", "exampleEnglish": "The passive voice erases the agent: sometimes that is the point.", "level": "C2", "category": "rewriting" },
+            { "id": "c2u5-la-voix-active", "french": "la voix active", "english": "the active voice", "partOfSpeech": "noun", "gender": "f", "plural": "les voix actives", "pronunciation": "lah vwah ak-teev", "example": "Repassez à la voix active pour rendre le responsable visible.", "exampleEnglish": "Switch back to the active voice to make the responsible party visible.", "level": "C2", "category": "rewriting" },
+            { "id": "c2u5-la-transposition", "french": "la transposition", "english": "transposition (change of word class)", "partOfSpeech": "noun", "gender": "f", "plural": "les transpositions", "pronunciation": "lah trahns-poh-zee-syohn", "example": "Une simple transposition du verbe au nom suffit à élever le ton.", "exampleEnglish": "A simple transposition from verb to noun is enough to raise the tone.", "level": "C2", "category": "rewriting" },
+            { "id": "c2u5-la-modulation", "french": "la modulation", "english": "modulation (change of viewpoint)", "partOfSpeech": "noun", "gender": "f", "plural": "les modulations", "pronunciation": "lah moh-dü-lah-syohn", "example": "« Ce n'est pas difficile » : une modulation de « c'est simple ».", "exampleEnglish": "“It isn't difficult”: a modulation of “it's simple”.", "level": "C2", "category": "rewriting" },
+            { "id": "c2u5-le-registre-soutenu", "french": "le registre soutenu", "english": "formal register", "partOfSpeech": "noun", "gender": "m", "plural": "les registres soutenus", "pronunciation": "luh ruh-zheestr soo-tuh-nü", "example": "Le registre soutenu exige une syntaxe complète.", "exampleEnglish": "The formal register demands complete syntax.", "level": "C2", "category": "rewriting" },
+            { "id": "c2u5-le-registre-familier", "french": "le registre familier", "english": "casual register", "partOfSpeech": "noun", "gender": "m", "plural": "les registres familiers", "pronunciation": "luh ruh-zheestr fah-mee-lyay", "example": "En registre familier, le « ne » de négation disparaît.", "exampleEnglish": "In the casual register, the negative “ne” disappears.", "level": "C2", "category": "rewriting" },
+            { "id": "c2u5-l-euphemisme", "french": "l'euphémisme", "english": "euphemism", "partOfSpeech": "noun", "gender": "m", "plural": "les euphémismes", "pronunciation": "luh-fay-meesm", "example": "« Un plan social » est l'euphémisme habituel du licenciement.", "exampleEnglish": "“A restructuring plan” is the usual euphemism for redundancies.", "level": "C2", "category": "rewriting" },
+            { "id": "c2u5-la-litote", "french": "la litote", "english": "litotes, understatement", "partOfSpeech": "noun", "gender": "f", "plural": "les litotes", "pronunciation": "lah lee-tot", "example": "« Ce n'est pas mauvais » est une litote très française.", "exampleEnglish": "“It isn't bad” is a very French piece of understatement.", "level": "C2", "category": "rewriting" },
+            { "id": "c2u5-l-hyperbole", "french": "l'hyperbole", "english": "hyperbole", "partOfSpeech": "noun", "gender": "f", "plural": "les hyperboles", "pronunciation": "lee-pair-bol", "example": "L'hyperbole publicitaire finit par ne plus rien signifier.", "exampleEnglish": "Advertising hyperbole ends up meaning nothing at all.", "level": "C2", "category": "rewriting" },
+            { "id": "c2u5-attenuer", "french": "atténuer", "english": "to tone down, to soften", "partOfSpeech": "verb", "pronunciation": "ah-tay-nü-ay", "example": "Atténuez le reproche : le destinataire est un partenaire.", "exampleEnglish": "Tone down the reproach: the addressee is a partner.", "level": "C2", "category": "rewriting" },
+            { "id": "c2u5-durcir", "french": "durcir", "english": "to harden, to toughen (a text)", "partOfSpeech": "verb", "pronunciation": "dür-seer", "example": "Le service juridique a durci la formulation.", "exampleEnglish": "The legal department hardened the wording.", "level": "C2", "category": "rewriting" },
+            { "id": "c2u5-adoucir", "french": "adoucir", "english": "to soften", "partOfSpeech": "verb", "pronunciation": "ah-doo-seer", "example": "Un conditionnel suffit à adoucir une demande.", "exampleEnglish": "A conditional is enough to soften a request.", "level": "C2", "category": "rewriting" },
+            { "id": "c2u5-la-relecture", "french": "la relecture", "english": "proofreading, rereading", "partOfSpeech": "noun", "gender": "f", "plural": "les relectures", "pronunciation": "lah ruh-lek-tür", "example": "La relecture à voix haute repère ce que l'œil laisse passer.", "exampleEnglish": "Reading aloud catches what the eye lets through.", "level": "C2", "category": "rewriting" },
+            { "id": "c2u5-le-destinataire", "french": "le destinataire", "english": "addressee, target reader", "partOfSpeech": "noun", "gender": "m", "plural": "les destinataires", "pronunciation": "luh des-tee-nah-tair", "example": "Changez de destinataire et tout le texte change.", "exampleEnglish": "Change the addressee and the whole text changes.", "level": "C2", "category": "rewriting" },
+            { "id": "c2u5-la-version-definitive", "french": "la version définitive", "english": "final version", "partOfSpeech": "noun", "gender": "f", "plural": "les versions définitives", "pronunciation": "lah vair-syohn day-fee-nee-teev", "example": "La version définitive n'existe pas : il y a des dates de rendu.", "exampleEnglish": "There is no final version: there are deadlines.", "level": "C2", "category": "rewriting" },
+            { "id": "c2u5-le-fil-conducteur", "french": "le fil conducteur", "english": "through-line, guiding thread", "partOfSpeech": "noun", "gender": "m", "plural": "les fils conducteurs", "pronunciation": "luh feel kohn-dük-tuhr", "example": "Réécrire, c'est souvent retrouver le fil conducteur perdu.", "exampleEnglish": "Rewriting often means finding the lost through-line again.", "level": "C2", "category": "rewriting" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Nominalisation et dénominalisation",
+              "body": "Turning a verb into a noun is the main gear-change of French written style. Verb → noun (« il a été nommé » → « sa nomination ») compresses and abstracts, which suits reports, headlines and administrative prose. The reverse move restores agency and movement. Watch the suffixes: -tion, -ment, -ance/-ence, -age, -ure, and the bare deverbal (l'accueil, le rejet, l'appel). Each nominalisation you keep costs the reader an agent.",
+              "examples": [
+                { "french": "Les prix ont augmenté. → L'augmentation des prix inquiète.", "english": "Prices have risen. → The rise in prices is worrying.", "note": "-tion: the fact becomes a topic you can then comment on" },
+                { "french": "Le texte a été remanié. → Le remaniement du texte a pris deux mois.", "english": "The text was reworked. → The reworking of the text took two months.", "note": "-ment on a verb of process" },
+                { "french": "On l'a accueilli froidement. → Son accueil fut glacial.", "english": "He was received coldly. → His reception was icy.", "note": "bare deverbal noun — the most compact and the most literary" },
+                { "french": "La mise en œuvre de la réforme a échoué. → La réforme n'a pas été appliquée.", "english": "The implementation of the reform failed. → The reform was not applied.", "note": "de-nominalising is what makes a bureaucratic text readable again" },
+                { "french": "Après vérification, refus. → Nous avons vérifié, puis nous avons refusé.", "english": "After verification, refusal. → We checked, then we refused.", "note": "extreme nominal style versus plain verbal style: same facts, opposite effect" }
+              ],
+              "tip": "Count the -tion words in your paragraph. Above two, the reader is reading a summary of a text rather than the text itself."
+            },
+            {
+              "heading": "Atténuer et durcir : les outils de la modalisation",
+              "body": "French softens or hardens a statement without touching its content, through modalisation. Softeners: conditional (« il conviendrait »), impersonal framing (« il semblerait que »), hedges (« une certaine », « quelque peu »), litotes. Hardeners: present indicative, deontic verbs (« devoir », « exiger »), intensifiers (« sans réserve », « en aucun cas »), and fronting the demand. The subjunctive after « il faut que », « exiger que » belongs to the hard end; « il serait souhaitable que » to the soft.",
+              "examples": [
+                { "french": "Il conviendrait de revoir ce paragraphe.", "english": "It would be advisable to revise this paragraph.", "note": "maximum softening: conditional + impersonal, no agent named" },
+                { "french": "Nous exigeons que ce paragraphe soit revu.", "english": "We demand that this paragraph be revised.", "note": "same request at the hard end: named agent + subjunctive" },
+                { "french": "Il semblerait que le calendrier ait glissé.", "english": "It would appear that the timetable has slipped.", "note": "conditional + subjunctive: the writer refuses to assert" },
+                { "french": "Le calendrier n'a pas été tenu.", "english": "The timetable was not met.", "note": "flat indicative — a hardening obtained purely by removing hedges" },
+                { "french": "Votre analyse n'est pas dénuée d'intérêt.", "english": "Your analysis is not without interest.", "note": "double litotes: polite on the surface, decidedly cool underneath" }
+              ],
+              "tip": "Never soften twice in the same sentence. « Il conviendrait peut-être éventuellement de… » reads as fear, not as courtesy."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "c2_u05_l03_li01", "type": "listenChoose", "french": "Élaguez d'abord, vous polirez ensuite.", "options": ["Élaguez d'abord, vous polirez ensuite.", "Étoffez d'abord, vous polirez ensuite.", "Élaguez ensuite, vous polirez d'abord.", "Relisez d'abord, vous couperez ensuite."], "answer": "Élaguez d'abord, vous polirez ensuite.", "prompt": "Listen and choose the sentence you hear." },
+            { "id": "c2_u05_l03_li02", "type": "listenChoose", "french": "Il conviendrait de revoir ce paragraphe.", "options": ["Il conviendrait de revoir ce paragraphe.", "Nous exigeons que ce paragraphe soit revu.", "Il faut revoir ce paragraphe.", "Ce paragraphe a été revu."], "answer": "Il conviendrait de revoir ce paragraphe.", "prompt": "Which sentence softens the request the most?" },
+            { "id": "c2_u05_l03_li03", "type": "listenType", "french": "La direction a décidé sans consulter personne.", "answer": "La direction a décidé sans consulter personne.", "acceptedAnswers": ["La direction a decide sans consulter personne", "la direction a décidé sans consulter personne"], "prompt": "Type what you hear." },
+            { "id": "c2_u05_l03_li04", "type": "dictation", "french": "Après trois moutures, il a fini par tout refondre, y compris le titre.", "answer": "Après trois moutures, il a fini par tout refondre, y compris le titre.", "acceptedAnswers": ["Apres trois moutures, il a fini par tout refondre, y compris le titre", "après trois moutures il a fini par tout refondre y compris le titre"], "prompt": "Dictation: an editorial sentence." }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "c2_u05_l03_sp01", "type": "speak", "french": "Ils ont annulé, on n'a rien pu faire.", "english": "They cancelled, we couldn't do a thing.", "prompt": "Say the casual version, at conversational speed.", "tip": "In real speech the « ne » is barely there: /õ na ʁjɛ̃ py fɛʁ/. Let the two clauses run together with no pause." },
+            { "id": "c2_u05_l03_sp02", "type": "speak", "french": "L'annulation nous a privés de tout moyen d'action.", "english": "The cancellation deprived us of any means of action.", "prompt": "Now the formal rewrite of the same fact.", "tip": "Slow down and keep the liaison in « nous a » (/nu.za/). The nominal subject wants a small pause after « L'annulation »." },
+            { "id": "c2_u05_l03_sp03", "type": "speak", "french": "Il conviendrait de revoir ce paragraphe avant diffusion.", "english": "It would be advisable to revise this paragraph before circulation.", "prompt": "Deliver a softened criticism in a meeting.", "tip": "Keep the pitch flat and low — softening comes from the grammar, so any vocal insistence contradicts it." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Une note de service, trois fois",
+              "french": "Le stage de réécriture commençait toujours par le même exercice, et personne n'y échappait.\nOn distribuait une note de service authentique, dix lignes, sur la fermeture d'un parking.\nPremière consigne : « Réécrivez-la pour un enfant de dix ans. »\nLes stagiaires découvraient alors que le texte, une fois débarrassé de ses nominalisations, tenait en deux phrases.\n« Le parking sera fermé lundi. Garez-vous dans la rue. » Rien d'autre n'était vrai.\nDeuxième consigne : « Réécrivez-la pour un tribunal. »\nIl fallait cette fois nommer les responsables, dater les décisions, écarter tout ce qui n'était pas vérifiable.\nLe texte doublait de longueur et perdait son ton d'excuse ; on y voyait enfin qui avait décidé quoi.\nTroisième consigne, la plus redoutée : « Réécrivez-la pour ceux qui vont la lire en arrivant, à sept heures, sous la pluie. »\nLà, aucune règle ne suffisait plus.\nIl ne s'agissait ni d'élaguer ni d'étoffer, mais de savoir ce que l'on devait au lecteur : une excuse, une solution, ou les deux.\nLes meilleurs textes de la journée furent les plus courts, et pas un seul ne commençait par « Nous vous informons que ».\nÀ la fin, le formateur relisait les trois versions à voix haute, sans dire laquelle il préférait.\nIl répétait seulement, en rendant les copies, que réécrire n'est jamais changer d'avis : c'est changer de destinataire.\nPuis il ajoutait, comme s'il s'en excusait, que la plupart des textes illisibles n'avaient tout simplement jamais eu de destinataire du tout.",
+              "english": "The rewriting workshop always began with the same exercise, and nobody escaped it.\nAn authentic internal memo was handed out, ten lines, about the closure of a car park.\nFirst instruction: “Rewrite it for a ten-year-old.”\nThe trainees then discovered that the text, once stripped of its nominalisations, fitted into two sentences.\n“The car park will be closed on Monday. Park in the street.” Nothing else in it was true.\nSecond instruction: “Rewrite it for a court.”\nThis time you had to name those responsible, date the decisions, and set aside anything unverifiable.\nThe text doubled in length and lost its apologetic tone; at last you could see who had decided what.\nThird instruction, the most dreaded: “Rewrite it for the people who will read it on arrival, at seven in the morning, in the rain.”\nAt that point no rule was enough any more.\nIt was a matter neither of pruning nor of fleshing out, but of knowing what you owed the reader: an apology, a solution, or both.\nThe best texts of the day were the shortest, and not one of them began with “We hereby inform you that”.\nAt the end, the trainer read the three versions aloud, without saying which he preferred.\nHe merely repeated, as he handed back the papers, that rewriting is never changing your mind: it is changing your addressee.\nThen he would add, as if apologising for it, that most unreadable texts had quite simply never had any addressee at all.",
+              "questions": [
+                { "id": "c2_u05_l03_rd01", "type": "multipleChoice", "prompt": "Que découvrent les stagiaires en réécrivant la note pour un enfant ?", "options": ["Que le texte se réduit à deux phrases une fois les nominalisations ôtées", "Que la note contenait des fautes de grammaire", "Que le parking ne fermait pas vraiment", "Que le texte était trop court au départ"], "answer": "Que le texte se réduit à deux phrases une fois les nominalisations ôtées" },
+                { "id": "c2_u05_l03_rd02", "type": "trueFalse", "prompt": "La version destinée au tribunal est plus longue que l'originale.", "options": ["True", "False"], "answer": "True" },
+                { "id": "c2_u05_l03_rd03", "type": "multipleChoice", "prompt": "Quelle est la thèse du formateur ?", "options": ["Réécrire, c'est changer de destinataire", "Réécrire, c'est toujours raccourcir", "Réécrire, c'est corriger les fautes", "Réécrire, c'est changer d'avis"], "answer": "Réécrire, c'est changer de destinataire" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "c2_u05_l03_wr01", "type": "translate", "prompt": "Rewrite in French, active voice, no nominalisation.", "english": "A decision was taken by management without any consultation.", "answer": "La direction a décidé sans consulter personne.", "acceptedAnswers": ["La direction a decide sans consulter personne", "La direction a pris sa décision sans consulter personne"] },
+            { "id": "c2_u05_l03_wr02", "type": "translate", "prompt": "Translate into French in the formal register.", "english": "It would be advisable to revise this paragraph before circulation.", "answer": "Il conviendrait de revoir ce paragraphe avant diffusion.", "acceptedAnswers": ["Il conviendrait de revoir ce paragraphe avant diffusion", "Il serait souhaitable de revoir ce paragraphe avant diffusion"] },
+            { "id": "c2_u05_l03_wr03", "type": "arrangeWords", "words": ["destinataire", "changer", "réécrire", "de", "c'est"], "answer": "réécrire c'est changer de destinataire", "english": "To rewrite is to change your addressee.", "prompt": "Rebuild the trainer's formula." }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "c2_u05_l03_pr01", "type": "match", "prompt": "Match each editorial move with its result.", "pairs": [ { "french": "élaguer", "english": "to cut back what is not needed" }, { "french": "étoffer", "english": "to flesh out what is too thin" }, { "french": "délayer", "english": "to pad one idea over many pages" }, { "french": "peaufiner", "english": "to polish at the very last stage" } ] },
+            { "id": "c2_u05_l03_pr02", "type": "fillBlank", "prompt": "Le fait qu'il soit parti nous a surpris. → Son ___ nous a surpris.", "answer": "départ" },
+            { "id": "c2_u05_l03_pr03", "type": "multipleChoice", "prompt": "Quelle phrase relève du registre soutenu ?", "options": ["L'annulation nous a privés de tout moyen d'action.", "Ils ont annulé, on n'a rien pu faire.", "Ils ont annulé la réunion et nous n'avons rien pu faire.", "Annulé, comme d'habitude."], "answer": "L'annulation nous a privés de tout moyen d'action." },
+            { "id": "c2_u05_l03_pr04", "type": "fillBlank", "prompt": "« Ce n'est pas mauvais » est une ___ : on dit moins pour signifier plus.", "answer": "litote" },
+            { "id": "c2_u05_l03_pr05", "type": "translate", "prompt": "Translate into French.", "english": "Prune first, polish afterwards.", "answer": "Élaguez d'abord, vous polirez ensuite.", "acceptedAnswers": ["Elaguez d'abord, vous polirez ensuite", "Élaguez d'abord, peaufinez ensuite"] },
+            { "id": "c2_u05_l03_pr06", "type": "arrangeWords", "words": ["destinataire", "tout", "et", "de", "changez", "change", "texte", "le"], "answer": "changez de destinataire et tout le texte change", "english": "Change the addressee and the whole text changes.", "prompt": "Rebuild the sentence." }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "c2_u05_l03_qz01", "type": "multipleChoice", "prompt": "Quelle opération rebâtit un texte à partir du plan ?", "options": ["la refonte", "la relecture", "le peaufinage", "la coupe"], "answer": "la refonte" },
+            { "id": "c2_u05_l03_qz02", "type": "multipleChoice", "prompt": "« Une décision a été prise par la direction » devient, à la voix active :", "options": ["La direction a décidé.", "Il y a eu une décision de la direction.", "La décision de la direction a été prise.", "On a pris une décision."], "answer": "La direction a décidé." },
+            { "id": "c2_u05_l03_qz03", "type": "trueFalse", "prompt": "« Il semblerait que le calendrier ait glissé » atténue l'affirmation.", "options": ["True", "False"], "answer": "True" },
+            { "id": "c2_u05_l03_qz04", "type": "fillBlank", "prompt": "« En quelque sorte » n'est ici qu'une ___ : un mot de remplissage.", "answer": "cheville" },
+            { "id": "c2_u05_l03_qz05", "type": "multipleChoice", "prompt": "Quel geste rend un texte administratif plus lisible ?", "options": ["Dénominaliser et rendre les agents visibles", "Multiplier les mots en -tion", "Généraliser la voix passive", "Ajouter des formules de politesse"], "answer": "Dénominaliser et rendre les agents visibles" }
+          ]
+        }
+      ]
+    }
+  ]
+}

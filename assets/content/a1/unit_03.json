@@ -1,0 +1,880 @@
+{
+  "id": "a1_u03",
+  "level": "A1",
+  "unit": 3,
+  "title": "Numbers",
+  "subtitle": "Count from zero to one hundred and talk about prices",
+  "icon": "🔢",
+  "lessons": [
+    {
+      "id": "a1_u03_l01",
+      "level": "A1",
+      "unit": 3,
+      "title": "De zéro à vingt",
+      "description": "Master the numbers from zero to twenty.",
+      "estimatedMinutes": 12,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Zero to ten",
+              "body": "Let's review and complete the first numbers: zéro (0), un (1), deux (2), trois (3), quatre (4), cinq (5), six (6), sept (7), huit (8), neuf (9), dix (10). You already met most of them when talking about age.",
+              "examples": [
+                { "french": "zéro, un, deux, trois, quatre, cinq", "english": "zero, one, two, three, four, five" },
+                { "french": "six, sept, huit, neuf, dix", "english": "six, seven, eight, nine, ten" },
+                { "french": "J'ai dix doigts.", "english": "I have ten fingers." },
+                { "french": "Il y a sept jours dans une semaine.", "english": "There are seven days in a week." }
+              ],
+              "tip": "\"Six\" and \"dix\" end in an s sound on their own (seess, deess), but before a consonant the x goes silent: six livres = \"see leevr\"."
+            },
+            {
+              "heading": "Eleven to twenty",
+              "body": "Eleven to sixteen are single words: onze (11), douze (12), treize (13), quatorze (14), quinze (15), seize (16). Then French builds on ten: dix-sept (17), dix-huit (18), dix-neuf (19) — literally \"ten-seven, ten-eight, ten-nine\". Twenty is vingt.",
+              "examples": [
+                { "french": "onze, douze, treize", "english": "eleven, twelve, thirteen" },
+                { "french": "quatorze, quinze, seize", "english": "fourteen, fifteen, sixteen" },
+                { "french": "dix-sept, dix-huit, dix-neuf, vingt", "english": "seventeen, eighteen, nineteen, twenty" },
+                { "french": "Ma sœur a quinze ans.", "english": "My sister is fifteen years old." },
+                { "french": "J'habite au numéro douze.", "english": "I live at number twelve." }
+              ],
+              "tip": "The g and t of \"vingt\" are silent — it sounds like \"van\" with a nasal vowel."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "zero", "french": "zéro", "english": "zero", "partOfSpeech": "number", "pronunciation": "zay-ROH", "example": "Il fait zéro degré.", "exampleEnglish": "It is zero degrees.", "level": "A1", "category": "numbers" },
+            { "id": "onze", "french": "onze", "english": "eleven", "partOfSpeech": "number", "pronunciation": "ohnz", "example": "Il est onze heures.", "exampleEnglish": "It is eleven o'clock.", "level": "A1", "category": "numbers" },
+            { "id": "douze", "french": "douze", "english": "twelve", "partOfSpeech": "number", "pronunciation": "dooz", "example": "J'ai douze ans.", "exampleEnglish": "I am twelve years old.", "level": "A1", "category": "numbers" },
+            { "id": "treize", "french": "treize", "english": "thirteen", "partOfSpeech": "number", "pronunciation": "trehz", "example": "Le bus treize arrive.", "exampleEnglish": "Bus thirteen is coming.", "level": "A1", "category": "numbers" },
+            { "id": "quatorze", "french": "quatorze", "english": "fourteen", "partOfSpeech": "number", "pronunciation": "kah-TORZ", "example": "Elle a quatorze ans.", "exampleEnglish": "She is fourteen years old.", "level": "A1", "category": "numbers" },
+            { "id": "quinze", "french": "quinze", "english": "fifteen", "partOfSpeech": "number", "pronunciation": "kanz", "example": "Quinze euros, s'il vous plaît.", "exampleEnglish": "Fifteen euros, please.", "level": "A1", "category": "numbers" },
+            { "id": "seize", "french": "seize", "english": "sixteen", "partOfSpeech": "number", "pronunciation": "sehz", "example": "Mon frère a seize ans.", "exampleEnglish": "My brother is sixteen years old.", "level": "A1", "category": "numbers" },
+            { "id": "dix-sept", "french": "dix-sept", "english": "seventeen", "partOfSpeech": "number", "pronunciation": "dee-SET", "example": "J'ai dix-sept ans.", "exampleEnglish": "I am seventeen years old.", "level": "A1", "category": "numbers" },
+            { "id": "dix-huit", "french": "dix-huit", "english": "eighteen", "partOfSpeech": "number", "pronunciation": "dee-ZWEET", "example": "Elle a dix-huit ans.", "exampleEnglish": "She is eighteen years old.", "level": "A1", "category": "numbers" },
+            { "id": "vingt", "french": "vingt", "english": "twenty", "partOfSpeech": "number", "pronunciation": "van", "example": "Vingt étudiants sont ici.", "exampleEnglish": "Twenty students are here.", "level": "A1", "category": "numbers" },
+            { "id": "dix-neuf", "french": "dix-neuf", "english": "nineteen", "partOfSpeech": "number", "pronunciation": "deez-NUHF", "example": "J'ai dix-neuf ans.", "exampleEnglish": "I am nineteen years old.", "level": "A1", "category": "numbers" },
+            { "id": "compter", "french": "compter", "english": "to count", "partOfSpeech": "verb", "pronunciation": "kohn-TAY", "example": "Je compte de un à vingt.", "exampleEnglish": "I count from one to twenty.", "level": "A1", "category": "numbers" },
+            { "id": "le-chiffre", "french": "le chiffre", "english": "digit / figure", "partOfSpeech": "noun", "gender": "m", "plural": "chiffres", "pronunciation": "SHEE-fruh", "example": "Il y a dix chiffres, de zéro à neuf.", "exampleEnglish": "There are ten digits, from zero to nine.", "level": "A1", "category": "numbers" },
+            { "id": "le-nombre", "french": "le nombre", "english": "number", "partOfSpeech": "noun", "gender": "m", "plural": "nombres", "pronunciation": "NOHN-bruh", "example": "Choisis un nombre entre un et vingt.", "exampleEnglish": "Choose a number between one and twenty.", "level": "A1", "category": "numbers" },
+            { "id": "l-eleve", "french": "l'élève", "english": "pupil", "partOfSpeech": "noun", "gender": "m", "plural": "élèves", "pronunciation": "ay-LEV", "example": "L'élève compte jusqu'à vingt.", "exampleEnglish": "The pupil counts up to twenty.", "level": "A1", "category": "people" },
+            { "id": "la-classe", "french": "la classe", "english": "class / classroom", "partOfSpeech": "noun", "gender": "f", "plural": "classes", "pronunciation": "klahss", "example": "Il y a seize élèves dans la classe.", "exampleEnglish": "There are sixteen pupils in the class.", "level": "A1", "category": "school" }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a1_u03_l01_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. Which number do you hear?",
+              "french": "treize",
+              "options": ["13", "3", "16", "12"],
+              "answer": "13"
+            },
+            {
+              "id": "a1_u03_l01_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. Which number do you hear?",
+              "french": "quinze",
+              "options": ["15", "5", "14", "16"],
+              "answer": "15"
+            },
+            {
+              "id": "a1_u03_l01_li03",
+              "type": "listenType",
+              "prompt": "Listen and type the number as a word.",
+              "french": "dix-huit",
+              "answer": "dix-huit",
+              "acceptedAnswers": ["dix huit", "dix-huit", "18"]
+            },
+            {
+              "id": "a1_u03_l01_li04",
+              "type": "dictation",
+              "prompt": "Dictation: write the sentence you hear.",
+              "french": "J'ai seize ans.",
+              "answer": "J'ai seize ans.",
+              "acceptedAnswers": ["j ai seize ans", "jai seize ans"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a1_u03_l01_sp01",
+              "type": "speak",
+              "prompt": "Count from eleven to thirteen.",
+              "french": "onze, douze, treize",
+              "english": "eleven, twelve, thirteen",
+              "tip": "All three end in a soft z sound: ohnz, dooz, trehz."
+            },
+            {
+              "id": "a1_u03_l01_sp02",
+              "type": "speak",
+              "prompt": "Say the number 17.",
+              "french": "dix-sept",
+              "english": "seventeen",
+              "tip": "Here the x of dix sounds like s, and the p stays silent: dee-SET."
+            },
+            {
+              "id": "a1_u03_l01_sp03",
+              "type": "speak",
+              "prompt": "Say you are twenty years old.",
+              "french": "J'ai vingt ans",
+              "english": "I am twenty years old",
+              "tip": "Before \"ans\", the t of vingt is pronounced: van-TAHN."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Dans la classe",
+              "french": "Dans la classe de Madame Martin, il y a vingt élèves : onze filles et neuf garçons. Aujourd'hui, quatre élèves sont absents. Alors, il y a seize élèves dans la classe.",
+              "english": "In Mrs. Martin's class, there are twenty pupils: eleven girls and nine boys. Today, four pupils are absent. So there are sixteen pupils in the class.",
+              "questions": [
+                {
+                  "id": "a1_u03_l01_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "How many girls are in the class?",
+                  "options": ["11", "9", "20", "16"],
+                  "answer": "11"
+                },
+                {
+                  "id": "a1_u03_l01_rd02",
+                  "type": "trueFalse",
+                  "prompt": "Today there are sixteen pupils in the class.",
+                  "options": ["True", "False"],
+                  "answer": "True"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a1_u03_l01_wr01",
+              "type": "translate",
+              "prompt": "Translate into French: \"I am seventeen years old.\"",
+              "english": "I am seventeen years old.",
+              "answer": "J'ai dix-sept ans.",
+              "acceptedAnswers": ["j ai dix sept ans", "jai dix sept ans", "j ai dix-sept ans"]
+            },
+            {
+              "id": "a1_u03_l01_wr02",
+              "type": "fillBlank",
+              "prompt": "Complete the sequence: \"dix, onze, ___, treize\"",
+              "answer": "douze"
+            },
+            {
+              "id": "a1_u03_l01_wr03",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "There are twenty pupils.",
+              "words": ["vingt", "Il", "élèves", "a", "y"],
+              "answer": "Il y a vingt élèves"
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a1_u03_l01_pr01",
+              "type": "listenChoose",
+              "prompt": "Listen. Which number do you hear?",
+              "french": "dix-neuf",
+              "options": ["19", "18", "9", "17"],
+              "answer": "19"
+            },
+            {
+              "id": "a1_u03_l01_pr02",
+              "type": "fillBlank",
+              "prompt": "Complete the sequence: \"quatorze, quinze, ___, dix-sept\"",
+              "answer": "seize"
+            },
+            {
+              "id": "a1_u03_l01_pr03",
+              "type": "multipleChoice",
+              "prompt": "What does \"compter\" mean?",
+              "options": ["to count", "to buy", "to sing", "to listen"],
+              "answer": "to count"
+            },
+            {
+              "id": "a1_u03_l01_pr04",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "The pupil counts up to twenty.",
+              "words": ["compte", "L'élève", "vingt", "jusqu'à"],
+              "answer": "L'élève compte jusqu'à vingt"
+            },
+            {
+              "id": "a1_u03_l01_pr05",
+              "type": "translate",
+              "prompt": "Translate into French: \"I am nineteen years old.\"",
+              "english": "I am nineteen years old.",
+              "answer": "J'ai dix-neuf ans.",
+              "acceptedAnswers": ["j ai dix neuf ans", "jai dix neuf ans", "j ai dix-neuf ans"]
+            },
+            {
+              "id": "a1_u03_l01_pr06",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "le chiffre", "english": "the digit" },
+                { "french": "le nombre", "english": "the number" },
+                { "french": "l'élève", "english": "the pupil" },
+                { "french": "la classe", "english": "the class" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a1_u03_l01_qz01",
+              "type": "multipleChoice",
+              "prompt": "What is \"quatorze\"?",
+              "options": ["14", "4", "40", "15"],
+              "answer": "14"
+            },
+            {
+              "id": "a1_u03_l01_qz02",
+              "type": "match",
+              "prompt": "Match the number to the word.",
+              "pairs": [
+                { "french": "onze", "english": "11" },
+                { "french": "treize", "english": "13" },
+                { "french": "seize", "english": "16" },
+                { "french": "dix-neuf", "english": "19" }
+              ]
+            },
+            {
+              "id": "a1_u03_l01_qz03",
+              "type": "trueFalse",
+              "prompt": "\"Dix-sept\" is built from \"dix\" (ten) + \"sept\" (seven).",
+              "options": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "a1_u03_l01_qz04",
+              "type": "fillBlank",
+              "prompt": "Write 18 as a French word: \"___\"",
+              "answer": "dix-huit",
+              "acceptedAnswers": ["dix huit"]
+            },
+            {
+              "id": "a1_u03_l01_qz05",
+              "type": "multipleChoice",
+              "prompt": "Which number word means 20?",
+              "options": ["vingt", "quinze", "douze", "dix"],
+              "answer": "vingt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1_u03_l02",
+      "level": "A1",
+      "unit": 3,
+      "title": "De vingt à cent",
+      "description": "Count by tens to one hundred — including the famous French seventies, eighties and nineties.",
+      "estimatedMinutes": 14,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "The tens",
+              "body": "The tens up to sixty are easy: vingt (20), trente (30), quarante (40), cinquante (50), soixante (60). One hundred is \"cent\".",
+              "examples": [
+                { "french": "vingt, trente, quarante", "english": "twenty, thirty, forty" },
+                { "french": "cinquante, soixante", "english": "fifty, sixty" },
+                { "french": "cent", "english": "one hundred" },
+                { "french": "Mon père a cinquante ans.", "english": "My father is fifty years old." },
+                { "french": "Cent euros, c'est cher !", "english": "A hundred euros, that's expensive!" }
+              ]
+            },
+            {
+              "heading": "70, 80, 90 — French does math!",
+              "body": "There is no single word for seventy, eighty or ninety. French counts: soixante-dix (70 = 60 + 10), quatre-vingts (80 = 4 × 20), quatre-vingt-dix (90 = 80 + 10). After 70 and 90, keep counting with the teens: soixante-quinze (75 = 60 + 15), quatre-vingt-quinze (95 = 80 + 15).",
+              "examples": [
+                { "french": "soixante-dix", "english": "seventy (60 + 10)" },
+                { "french": "quatre-vingts", "english": "eighty (4 × 20)" },
+                { "french": "quatre-vingt-dix", "english": "ninety (80 + 10)" },
+                { "french": "quatre-vingt-quinze", "english": "ninety-five (80 + 15)" },
+                { "french": "soixante-douze", "english": "seventy-two (60 + 12)" },
+                { "french": "quatre-vingt-huit", "english": "eighty-eight (80 + 8)" }
+              ],
+              "tip": "In Belgium and Switzerland you'll hear \"septante\" (70) and \"nonante\" (90) — much simpler, but France sticks to the math!"
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "trente", "french": "trente", "english": "thirty", "partOfSpeech": "number", "pronunciation": "trahnt", "example": "Ma tante a trente ans.", "exampleEnglish": "My aunt is thirty years old.", "level": "A1", "category": "numbers" },
+            { "id": "quarante", "french": "quarante", "english": "forty", "partOfSpeech": "number", "pronunciation": "kah-RAHNT", "example": "Le livre coûte quarante euros.", "exampleEnglish": "The book costs forty euros.", "level": "A1", "category": "numbers" },
+            { "id": "cinquante", "french": "cinquante", "english": "fifty", "partOfSpeech": "number", "pronunciation": "san-KAHNT", "example": "Il y a cinquante personnes.", "exampleEnglish": "There are fifty people.", "level": "A1", "category": "numbers" },
+            { "id": "soixante", "french": "soixante", "english": "sixty", "partOfSpeech": "number", "pronunciation": "swah-SAHNT", "example": "Soixante secondes font une minute.", "exampleEnglish": "Sixty seconds make one minute.", "level": "A1", "category": "numbers" },
+            { "id": "soixante-dix", "french": "soixante-dix", "english": "seventy", "partOfSpeech": "number", "pronunciation": "swah-sahnt-DEESS", "example": "Ma grand-mère a soixante-dix ans.", "exampleEnglish": "My grandmother is seventy years old.", "level": "A1", "category": "numbers" },
+            { "id": "quatre-vingts", "french": "quatre-vingts", "english": "eighty", "partOfSpeech": "number", "pronunciation": "kah-truh-VAN", "example": "Mon grand-père a quatre-vingts ans.", "exampleEnglish": "My grandfather is eighty years old.", "level": "A1", "category": "numbers" },
+            { "id": "quatre-vingt-dix", "french": "quatre-vingt-dix", "english": "ninety", "partOfSpeech": "number", "pronunciation": "kah-truh-van-DEESS", "example": "Quatre-vingt-dix euros, c'est cher !", "exampleEnglish": "Ninety euros, that's expensive!", "level": "A1", "category": "numbers" },
+            { "id": "cent", "french": "cent", "english": "one hundred", "partOfSpeech": "number", "pronunciation": "sahn", "example": "Cent ans, c'est un siècle.", "exampleEnglish": "One hundred years is a century.", "level": "A1", "category": "numbers" },
+            { "id": "vingt-et-un", "french": "vingt et un", "english": "twenty-one", "partOfSpeech": "number", "pronunciation": "van-tay-UHN", "example": "Elle a vingt et un ans.", "exampleEnglish": "She is twenty-one years old.", "level": "A1", "category": "numbers" },
+            { "id": "soixante-et-onze", "french": "soixante et onze", "english": "seventy-one", "partOfSpeech": "number", "pronunciation": "swah-sahnt-ay-OHNZ", "example": "Elle a soixante et onze ans.", "exampleEnglish": "She is seventy-one years old.", "level": "A1", "category": "numbers" },
+            { "id": "quatre-vingt-un", "french": "quatre-vingt-un", "english": "eighty-one", "partOfSpeech": "number", "pronunciation": "kah-truh-van-UHN", "example": "Ma grand-mère a quatre-vingt-un ans.", "exampleEnglish": "My grandmother is eighty-one years old.", "level": "A1", "category": "numbers" },
+            { "id": "mille", "french": "mille", "english": "one thousand", "partOfSpeech": "number", "pronunciation": "meel", "example": "Mille euros, c'est beaucoup !", "exampleEnglish": "A thousand euros, that's a lot!", "level": "A1", "category": "numbers" },
+            { "id": "la-fete", "french": "la fête", "english": "party / celebration", "partOfSpeech": "noun", "gender": "f", "plural": "fêtes", "pronunciation": "feht", "example": "Il y a trente personnes à la fête.", "exampleEnglish": "There are thirty people at the party.", "level": "A1", "category": "celebrations" },
+            { "id": "le-gateau", "french": "le gâteau", "english": "cake", "partOfSpeech": "noun", "gender": "m", "plural": "gâteaux", "pronunciation": "gah-TOH", "example": "Le gâteau est délicieux !", "exampleEnglish": "The cake is delicious!", "level": "A1", "category": "food" },
+            { "id": "la-bougie", "french": "la bougie", "english": "candle", "partOfSpeech": "noun", "gender": "f", "plural": "bougies", "pronunciation": "boo-ZHEE", "example": "Il y a quatre-vingts bougies sur le gâteau.", "exampleEnglish": "There are eighty candles on the cake.", "level": "A1", "category": "celebrations" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Building numbers",
+              "body": "For 21, 31, 41, 51, 61 and 71, French adds \"et un\" (and one): vingt et un, trente et un... soixante et onze (71). All other combinations use a hyphen: vingt-deux (22), trente-cinq (35), quarante-huit (48). \"Quatre-vingts\" keeps its final s only when nothing follows: quatre-vingts (80) but quatre-vingt-un (81).",
+              "examples": [
+                { "french": "vingt et un", "english": "twenty-one", "note": "with \"et\"" },
+                { "french": "vingt-deux", "english": "twenty-two", "note": "with a hyphen" },
+                { "french": "soixante et onze", "english": "seventy-one (60 + 11)" },
+                { "french": "quatre-vingt-un", "english": "eighty-one", "note": "no s on vingt" },
+                { "french": "cinquante et un", "english": "fifty-one", "note": "with \"et\"" },
+                { "french": "trente-cinq", "english": "thirty-five", "note": "with a hyphen" }
+              ],
+              "tip": "Say the math out loud while you learn: 75 = \"sixty-fifteen\", 92 = \"four-twenty-twelve\". It quickly becomes natural!"
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a1_u03_l02_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. Which number do you hear?",
+              "french": "quarante-deux",
+              "options": ["42", "52", "40", "62"],
+              "answer": "42"
+            },
+            {
+              "id": "a1_u03_l02_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. Which number do you hear?",
+              "french": "quatre-vingt-quinze",
+              "options": ["95", "85", "75", "90"],
+              "answer": "95"
+            },
+            {
+              "id": "a1_u03_l02_li03",
+              "type": "listenType",
+              "prompt": "Listen and type the number as a word.",
+              "french": "trente-trois",
+              "answer": "trente-trois",
+              "acceptedAnswers": ["trente trois", "trente-trois", "33"]
+            },
+            {
+              "id": "a1_u03_l02_li04",
+              "type": "dictation",
+              "prompt": "Dictation: write the sentence you hear.",
+              "french": "Ma grand-mère a soixante-dix ans.",
+              "answer": "Ma grand-mère a soixante-dix ans.",
+              "acceptedAnswers": ["ma grand mere a soixante dix ans", "ma grand-mere a soixante-dix ans"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a1_u03_l02_sp01",
+              "type": "speak",
+              "prompt": "Count by tens: 20, 30, 40, 50.",
+              "french": "vingt, trente, quarante, cinquante",
+              "english": "twenty, thirty, forty, fifty",
+              "tip": "All these tens end in a nasal \"ahnt\" sound with a soft final t."
+            },
+            {
+              "id": "a1_u03_l02_sp02",
+              "type": "speak",
+              "prompt": "Say the number 70.",
+              "french": "soixante-dix",
+              "english": "seventy",
+              "tip": "The x in \"soixante\" sounds like ss: swah-SAHNT-deess."
+            },
+            {
+              "id": "a1_u03_l02_sp03",
+              "type": "speak",
+              "prompt": "Say the number 80.",
+              "french": "quatre-vingts",
+              "english": "eighty",
+              "tip": "The final s and t are silent: kah-truh-VAN."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "L'anniversaire de Mamie",
+              "french": "Aujourd'hui, c'est l'anniversaire de ma grand-mère : elle a quatre-vingts ans ! Il y a trente personnes à la fête. Mon grand-père a quatre-vingt-deux ans. Sur le gâteau, il y a quatre-vingts bougies.",
+              "english": "Today is my grandmother's birthday: she is eighty years old! There are thirty people at the party. My grandfather is eighty-two. On the cake, there are eighty candles.",
+              "questions": [
+                {
+                  "id": "a1_u03_l02_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "How old is the grandmother?",
+                  "options": ["80", "82", "70", "90"],
+                  "answer": "80"
+                },
+                {
+                  "id": "a1_u03_l02_rd02",
+                  "type": "trueFalse",
+                  "prompt": "There are forty people at the party.",
+                  "options": ["True", "False"],
+                  "answer": "False",
+                  "tip": "\"Trente personnes\" — thirty people."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a1_u03_l02_wr01",
+              "type": "translate",
+              "prompt": "Translate into French: \"I am thirty years old.\"",
+              "english": "I am thirty years old.",
+              "answer": "J'ai trente ans.",
+              "acceptedAnswers": ["j ai trente ans", "jai trente ans"]
+            },
+            {
+              "id": "a1_u03_l02_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "She is twenty-one years old.",
+              "words": ["vingt", "a", "Elle", "ans", "un", "et"],
+              "answer": "Elle a vingt et un ans"
+            },
+            {
+              "id": "a1_u03_l02_wr03",
+              "type": "fillBlank",
+              "prompt": "Complete the sequence: \"soixante, ___, quatre-vingts\"",
+              "answer": "soixante-dix",
+              "acceptedAnswers": ["soixante dix"]
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a1_u03_l02_pr01",
+              "type": "multipleChoice",
+              "prompt": "How do you say 71 in France?",
+              "options": ["soixante et onze", "septante et un", "soixante-onze", "quatre-vingt-onze"],
+              "answer": "soixante et onze"
+            },
+            {
+              "id": "a1_u03_l02_pr02",
+              "type": "fillBlank",
+              "prompt": "Complete the math with a word: \"quarante + vingt = ___\"",
+              "answer": "soixante"
+            },
+            {
+              "id": "a1_u03_l02_pr03",
+              "type": "listenChoose",
+              "prompt": "Listen. Which number do you hear?",
+              "french": "quatre-vingt-un",
+              "options": ["81", "91", "71", "80"],
+              "answer": "81"
+            },
+            {
+              "id": "a1_u03_l02_pr04",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "There are eighty candles on the cake.",
+              "words": ["bougies", "Il", "le", "quatre-vingts", "y", "a", "sur", "gâteau"],
+              "answer": "Il y a quatre-vingts bougies sur le gâteau"
+            },
+            {
+              "id": "a1_u03_l02_pr05",
+              "type": "translate",
+              "prompt": "Translate into French: \"My grandmother is seventy years old.\"",
+              "english": "My grandmother is seventy years old.",
+              "answer": "Ma grand-mère a soixante-dix ans.",
+              "acceptedAnswers": ["ma grand mere a soixante dix ans", "ma grand-mere a soixante-dix ans"]
+            },
+            {
+              "id": "a1_u03_l02_pr06",
+              "type": "match",
+              "prompt": "Match the number to the word.",
+              "pairs": [
+                { "french": "soixante", "english": "60" },
+                { "french": "quatre-vingts", "english": "80" },
+                { "french": "quatre-vingt-dix", "english": "90" },
+                { "french": "mille", "english": "1000" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a1_u03_l02_qz01",
+              "type": "multipleChoice",
+              "prompt": "What is \"quatre-vingts\"?",
+              "options": ["80", "20", "90", "4"],
+              "answer": "80"
+            },
+            {
+              "id": "a1_u03_l02_qz02",
+              "type": "multipleChoice",
+              "prompt": "How do you say 75 in French?",
+              "options": ["soixante-quinze", "septante-cinq", "soixante-cinq", "quatre-vingt-quinze"],
+              "answer": "soixante-quinze"
+            },
+            {
+              "id": "a1_u03_l02_qz03",
+              "type": "match",
+              "prompt": "Match the number to the word.",
+              "pairs": [
+                { "french": "trente", "english": "30" },
+                { "french": "cinquante", "english": "50" },
+                { "french": "soixante-dix", "english": "70" },
+                { "french": "cent", "english": "100" }
+              ]
+            },
+            {
+              "id": "a1_u03_l02_qz04",
+              "type": "trueFalse",
+              "prompt": "\"Quatre-vingt-dix\" means 80.",
+              "options": ["True", "False"],
+              "answer": "False",
+              "tip": "Quatre-vingt-dix = 80 + 10 = 90."
+            },
+            {
+              "id": "a1_u03_l02_qz05",
+              "type": "fillBlank",
+              "prompt": "Complete the math: \"cinquante + dix = ___\"",
+              "answer": "soixante"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1_u03_l03",
+      "level": "A1",
+      "unit": 3,
+      "title": "Combien ?",
+      "description": "Ask how much things cost, give your phone number, and pay in euros.",
+      "estimatedMinutes": 13,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "How much? How many?",
+              "body": "\"Combien\" means \"how much\" or \"how many\". To ask a price, say \"C'est combien ?\" (How much is it?) or \"Combien ça coûte ?\" (How much does it cost?). The answer uses euros: \"Ça coûte dix euros.\"",
+              "examples": [
+                { "french": "C'est combien ?", "english": "How much is it?" },
+                { "french": "Combien ça coûte ?", "english": "How much does it cost?" },
+                { "french": "Ça coûte dix euros.", "english": "It costs ten euros." },
+                { "french": "C'est trois euros cinquante.", "english": "It's three euros fifty." },
+                { "french": "Ça coûte cinquante centimes.", "english": "It costs fifty cents." },
+                { "french": "C'est gratuit !", "english": "It's free!" }
+              ],
+              "tip": "For prices like €3.50, French says \"trois euros cinquante\" — the word \"euros\" goes in the middle."
+            },
+            {
+              "heading": "Phone numbers",
+              "body": "French phone numbers have ten digits, read in five pairs: 06 12 34 56 78 = zéro six, douze, trente-quatre, cinquante-six, soixante-dix-huit. To ask, say \"Quel est ton numéro de téléphone ?\"",
+              "examples": [
+                { "french": "Quel est ton numéro de téléphone ?", "english": "What is your phone number? (informal)" },
+                { "french": "Mon numéro, c'est le 06 12 34 56 78.", "english": "My number is 06 12 34 56 78." },
+                { "french": "Quel est votre numéro de téléphone ?", "english": "What is your phone number? (formal)" },
+                { "french": "Tu peux répéter, s'il te plaît ?", "english": "Can you repeat, please?" }
+              ],
+              "tip": "Practise reading numbers two digits at a time — that's how every French speaker says a phone number."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "combien", "french": "combien", "english": "how much / how many", "partOfSpeech": "adverb", "pronunciation": "kohn-BYAHN", "example": "C'est combien ?", "exampleEnglish": "How much is it?", "level": "A1", "category": "shopping" },
+            { "id": "couter", "french": "coûter", "english": "to cost", "partOfSpeech": "verb", "pronunciation": "koo-TAY", "example": "Combien ça coûte ?", "exampleEnglish": "How much does it cost?", "level": "A1", "category": "shopping" },
+            { "id": "l-euro", "french": "l'euro", "english": "euro", "partOfSpeech": "noun", "gender": "m", "pronunciation": "uh-ROH", "example": "Ça coûte cinq euros.", "exampleEnglish": "It costs five euros.", "level": "A1", "category": "shopping" },
+            { "id": "le-prix", "french": "le prix", "english": "price", "partOfSpeech": "noun", "gender": "m", "pronunciation": "pree", "example": "Le prix est sur l'étiquette.", "exampleEnglish": "The price is on the label.", "level": "A1", "category": "shopping" },
+            { "id": "l-argent", "french": "l'argent", "english": "money", "partOfSpeech": "noun", "gender": "m", "pronunciation": "ar-ZHAHN", "example": "Je n'ai pas d'argent.", "exampleEnglish": "I don't have any money.", "level": "A1", "category": "shopping" },
+            { "id": "le-numero", "french": "le numéro", "english": "number (phone, house)", "partOfSpeech": "noun", "gender": "m", "pronunciation": "nu-may-ROH", "example": "Quel est ton numéro ?", "exampleEnglish": "What is your number?", "level": "A1", "category": "numbers" },
+            { "id": "le-telephone", "french": "le téléphone", "english": "telephone", "partOfSpeech": "noun", "gender": "m", "pronunciation": "tay-lay-FUN", "example": "Mon téléphone est ici.", "exampleEnglish": "My phone is here.", "level": "A1", "category": "objects" },
+            { "id": "cher", "french": "cher", "english": "expensive", "partOfSpeech": "adjective", "pronunciation": "shehr", "example": "C'est trop cher !", "exampleEnglish": "It's too expensive!", "level": "A1", "category": "shopping" },
+            { "id": "acheter", "french": "acheter", "english": "to buy", "partOfSpeech": "verb", "pronunciation": "ahsh-TAY", "example": "J'achète du pain au marché.", "exampleEnglish": "I buy bread at the market.", "level": "A1", "category": "shopping" },
+            { "id": "gratuit", "french": "gratuit", "english": "free (no cost)", "partOfSpeech": "adjective", "pronunciation": "grah-TWEE", "example": "C'est gratuit !", "exampleEnglish": "It's free!", "level": "A1", "category": "shopping" },
+            { "id": "le-centime", "french": "le centime", "english": "cent (money)", "partOfSpeech": "noun", "gender": "m", "plural": "centimes", "pronunciation": "sahn-TEEM", "example": "Ça coûte cinquante centimes.", "exampleEnglish": "It costs fifty cents.", "level": "A1", "category": "shopping" },
+            { "id": "la-piece", "french": "la pièce", "english": "coin", "partOfSpeech": "noun", "gender": "f", "plural": "pièces", "pronunciation": "pyess", "example": "J'ai une pièce de deux euros.", "exampleEnglish": "I have a two-euro coin.", "level": "A1", "category": "shopping" },
+            { "id": "le-billet", "french": "le billet", "english": "banknote / bill", "partOfSpeech": "noun", "gender": "m", "plural": "billets", "pronunciation": "bee-YEH", "example": "Voici un billet de dix euros.", "exampleEnglish": "Here is a ten-euro note.", "level": "A1", "category": "shopping" },
+            { "id": "la-monnaie", "french": "la monnaie", "english": "change (money)", "partOfSpeech": "noun", "gender": "f", "plural": "monnaies", "pronunciation": "moh-NEH", "example": "Vous avez la monnaie ?", "exampleEnglish": "Do you have change?", "level": "A1", "category": "shopping" }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a1_u03_l03_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What is the price?",
+              "french": "Ça coûte neuf euros.",
+              "options": ["9 euros", "19 euros", "2 euros", "90 euros"],
+              "answer": "9 euros"
+            },
+            {
+              "id": "a1_u03_l03_li02",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "C'est combien ?",
+              "answer": "C'est combien ?",
+              "acceptedAnswers": ["c est combien", "cest combien"]
+            },
+            {
+              "id": "a1_u03_l03_li03",
+              "type": "listenChoose",
+              "prompt": "Listen. Which pair of digits starts the phone number?",
+              "french": "zéro six, quarante-deux, treize",
+              "options": ["06", "07", "60", "16"],
+              "answer": "06"
+            },
+            {
+              "id": "a1_u03_l03_li04",
+              "type": "dictation",
+              "prompt": "Dictation: write the sentence you hear.",
+              "french": "Ça coûte vingt euros.",
+              "answer": "Ça coûte vingt euros.",
+              "acceptedAnswers": ["ca coute vingt euros"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a1_u03_l03_sp01",
+              "type": "speak",
+              "prompt": "Ask how much it is.",
+              "french": "C'est combien ?",
+              "english": "How much is it?",
+              "tip": "\"Combien\" ends with a nasal vowel: kohn-BYAHN, no final n sound."
+            },
+            {
+              "id": "a1_u03_l03_sp02",
+              "type": "speak",
+              "prompt": "Say it costs ten euros.",
+              "french": "Ça coûte dix euros",
+              "english": "It costs ten euros",
+              "tip": "Link \"dix euros\": the x becomes a z sound — dee-zuh-ROH."
+            },
+            {
+              "id": "a1_u03_l03_sp03",
+              "type": "speak",
+              "prompt": "Ask a friend for their phone number.",
+              "french": "Quel est ton numéro de téléphone ?",
+              "english": "What is your phone number?",
+              "tip": "\"Quel est\" links together: keh-LEH."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Au marché",
+              "french": "— Bonjour, madame ! Combien coûtent les pommes ?\n— Deux euros le kilo, monsieur.\n— Très bien. Un kilo, s'il vous plaît. Et le fromage, c'est combien ?\n— Le fromage coûte huit euros.\n— Oh, c'est cher ! Juste les pommes, alors. Voilà deux euros.\n— Merci, monsieur. Bonne journée !",
+              "english": "— Hello, ma'am! How much are the apples?\n— Two euros a kilo, sir.\n— Very good. One kilo, please. And the cheese, how much is it?\n— The cheese costs eight euros.\n— Oh, that's expensive! Just the apples, then. Here's two euros.\n— Thank you, sir. Have a good day!",
+              "questions": [
+                {
+                  "id": "a1_u03_l03_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "How much does a kilo of apples cost?",
+                  "options": ["2 euros", "8 euros", "10 euros", "5 euros"],
+                  "answer": "2 euros"
+                },
+                {
+                  "id": "a1_u03_l03_rd02",
+                  "type": "trueFalse",
+                  "prompt": "The man buys the cheese.",
+                  "options": ["True", "False"],
+                  "answer": "False",
+                  "tip": "He finds it too expensive — \"c'est cher !\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a1_u03_l03_wr01",
+              "type": "translate",
+              "prompt": "Translate into French: \"How much is it?\"",
+              "english": "How much is it?",
+              "answer": "C'est combien ?",
+              "acceptedAnswers": ["c est combien", "cest combien"]
+            },
+            {
+              "id": "a1_u03_l03_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "It costs two euros.",
+              "words": ["euros", "coûte", "Ça", "deux"],
+              "answer": "Ça coûte deux euros"
+            },
+            {
+              "id": "a1_u03_l03_wr03",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Combien ça ___ ?\" (How much does it cost?)",
+              "answer": "coûte",
+              "acceptedAnswers": ["coute"]
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a1_u03_l03_pr01",
+              "type": "multipleChoice",
+              "prompt": "You want to pay with coins. What do you need?",
+              "options": ["des pièces", "des billets", "des gâteaux", "des chiffres"],
+              "answer": "des pièces"
+            },
+            {
+              "id": "a1_u03_l03_pr02",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Ça coûte cinquante ___.\" (It costs fifty cents.)",
+              "answer": "centimes"
+            },
+            {
+              "id": "a1_u03_l03_pr03",
+              "type": "translate",
+              "prompt": "Translate into French: \"It's free!\"",
+              "english": "It's free!",
+              "answer": "C'est gratuit !",
+              "acceptedAnswers": ["c est gratuit", "cest gratuit"]
+            },
+            {
+              "id": "a1_u03_l03_pr04",
+              "type": "listenChoose",
+              "prompt": "Listen. What is the price?",
+              "french": "Ça coûte soixante euros.",
+              "options": ["60 euros", "70 euros", "16 euros", "6 euros"],
+              "answer": "60 euros"
+            },
+            {
+              "id": "a1_u03_l03_pr05",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "I buy bread at the market.",
+              "words": ["du", "J'achète", "marché", "pain", "au"],
+              "answer": "J'achète du pain au marché"
+            },
+            {
+              "id": "a1_u03_l03_pr06",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "acheter", "english": "to buy" },
+                { "french": "gratuit", "english": "free" },
+                { "french": "le billet", "english": "the banknote" },
+                { "french": "la monnaie", "english": "change" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a1_u03_l03_qz01",
+              "type": "multipleChoice",
+              "prompt": "How do you ask the price of something?",
+              "options": ["C'est combien ?", "Quel âge as-tu ?", "Où habites-tu ?", "Comment allez-vous ?"],
+              "answer": "C'est combien ?"
+            },
+            {
+              "id": "a1_u03_l03_qz02",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "combien", "english": "how much" },
+                { "french": "cher", "english": "expensive" },
+                { "french": "le prix", "english": "the price" },
+                { "french": "l'argent", "english": "money" }
+              ]
+            },
+            {
+              "id": "a1_u03_l03_qz03",
+              "type": "trueFalse",
+              "prompt": "French phone numbers are read two digits at a time.",
+              "options": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "a1_u03_l03_qz04",
+              "type": "multipleChoice",
+              "prompt": "How does French say €3.50?",
+              "options": ["trois euros cinquante", "trois cinquante euros", "cinquante euros trois", "trois virgule euros"],
+              "answer": "trois euros cinquante"
+            },
+            {
+              "id": "a1_u03_l03_qz05",
+              "type": "fillBlank",
+              "prompt": "Complete: \"C'est trop ___ !\" (It's too expensive!)",
+              "answer": "cher"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

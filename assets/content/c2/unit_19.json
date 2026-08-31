@@ -1,0 +1,588 @@
+{
+  "id": "c2_u19",
+  "level": "C2",
+  "unit": 19,
+  "title": "Literary Criticism",
+  "subtitle": "Read a text like a critic: choose a lens, build a commentaire composé, and close-read the line",
+  "icon": "🔬",
+  "lessons": [
+    {
+      "id": "c2_u19_l01",
+      "level": "C2",
+      "unit": 19,
+      "title": "Les écoles critiques",
+      "description": "Survey the major lenses through which French criticism reads a text — structuralism, sociocriticism, psychocriticism, genetic criticism, reader-response theory — and the vocabulary to name a reading without confusing it with an opinion.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Une discipline, plusieurs regards",
+              "body": "Literary criticism is not one method but several coexisting schools, each asking different questions of the same text. A structuralist and a sociocritic can read the same page and find almost nothing in common, yet neither is wrong — they are simply asking different things of the text. At C2, naming your lens explicitly is what separates argued criticism from mere personal taste.",
+              "examples": [
+                { "french": "La critique littéraire ne cherche pas à juger un texte, mais à expliquer comment il produit son sens.", "english": "Literary criticism does not seek to judge a text, but to explain how it produces its meaning." },
+                { "french": "Deux écoles peuvent lire la même page et n'y voir presque rien de commun.", "english": "Two schools can read the same page and see almost nothing in common." },
+                { "french": "Le structuralisme interroge la forme ; la sociocritique interroge le monde dont elle est issue.", "english": "Structuralism questions the form; sociocriticism questions the world it comes from." },
+                { "french": "Choisir une école critique, c'est choisir les questions que l'on va poser au texte.", "english": "Choosing a critical school means choosing the questions you will ask of the text." },
+                { "french": "Aucune théorie n'épuise un grand texte ; chacune en éclaire une face.", "english": "No theory exhausts a great text; each one lights up one facet of it." }
+              ],
+              "tip": "At C2, name your lens explicitly — 'une lecture structuraliste suggère que...' — rather than presenting one interpretation as the only possible one."
+            },
+            {
+              "heading": "Le structuralisme et le formalisme : la forme d'abord",
+              "body": "Formalism and structuralism focus on the internal workings of a text — its devices, its structure, its internal oppositions — rather than the author's life or the surrounding society. Meaning, for these schools, arises from relations between elements, not from any single element read in isolation.",
+              "examples": [
+                { "french": "Le formalisme russe affirmait que la littérarité tient aux procédés, non au sujet traité.", "english": "Russian formalism claimed that literariness lies in its devices, not in its subject matter." },
+                { "french": "Le structuralisme cherche les oppositions et les structures qui organisent un texte de l'intérieur.", "english": "Structuralism looks for the oppositions and structures that organise a text from within." },
+                { "french": "Pour un structuraliste, le sens naît des relations entre les éléments, non de chaque élément isolé.", "english": "For a structuralist, meaning arises from the relations between elements, not from any single element in isolation." },
+                { "french": "Cette approche met entre parenthèses la biographie de l'auteur pour se concentrer sur le texte lui-même.", "english": "This approach brackets off the author's biography to focus on the text itself." },
+                { "french": "On lui a reproché de traiter le texte comme un mécanisme froid, coupé de son contexte.", "english": "It has been criticised for treating the text as a cold mechanism, cut off from its context." }
+              ],
+              "tip": "Remember 'texte' vs 'œuvre': le texte designates the words on the page; l'œuvre includes its reception and status."
+            },
+            {
+              "heading": "La sociocritique, la psychocritique et la critique génétique : trois autres portes d'entrée",
+              "body": "Other schools open the text from elsewhere: sociocriticism reads it against social relations, psychocriticism tracks an author's unconscious obsessions, genetic criticism studies drafts and manuscripts, and reception theory asks what readers do with a text rather than what the author meant. None of these replaces close reading — each one orients it.",
+              "examples": [
+                { "french": "La sociocritique replace le texte dans les rapports sociaux qui l'ont rendu possible.", "english": "Sociocriticism places the text back within the social relations that made it possible." },
+                { "french": "La psychocritique, héritière de la psychanalyse, traque les obsessions inconscientes d'un auteur à travers son œuvre.", "english": "Psychocriticism, a descendant of psychoanalysis, tracks an author's unconscious obsessions throughout their work." },
+                { "french": "La critique génétique étudie l'avant-texte — brouillons, ratures, versions successives — pour comprendre comment l'œuvre s'est construite.", "english": "Genetic criticism studies the pre-text — drafts, crossings-out, successive versions — to understand how the work was built." },
+                { "french": "La théorie de la réception déplace la question : que fait le lecteur du texte, plutôt que que veut dire l'auteur ?", "english": "Reception theory shifts the question: what does the reader do with the text, rather than what did the author mean?" },
+                { "french": "Aucune de ces écoles ne se substitue à une lecture attentive ; elle l'oriente, elle ne la remplace pas.", "english": "None of these schools replaces close reading; it orients it, it does not replace it." }
+              ],
+              "tip": "In an oral exam, naming a school precisely (la sociocritique, la psychocritique) signals mastery — vague phrases like 'une approche moderne' cost points."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "la-critique-litteraire", "french": "la critique littéraire", "english": "literary criticism (the discipline)", "partOfSpeech": "noun", "gender": "f", "plural": "les critiques littéraires", "pronunciation": "lah kree-TEEK lee-tay-REHR", "example": "La critique littéraire universitaire s'est multipliée en écoles depuis un siècle.", "exampleEnglish": "Academic literary criticism has multiplied into schools over the last century.", "level": "C2", "category": "critical-schools" },
+            { "id": "un-critique-litteraire", "french": "un critique littéraire", "english": "a literary critic (person)", "partOfSpeech": "noun", "gender": "m", "plural": "des critiques littéraires", "pronunciation": "uhn kree-TEEK lee-tay-REHR", "example": "Un critique littéraire ne doit jamais confondre son goût personnel avec une démonstration.", "exampleEnglish": "A literary critic must never confuse personal taste with a demonstration.", "level": "C2", "category": "critical-schools" },
+            { "id": "une-ecole-critique", "french": "une école critique", "english": "a critical school (of thought)", "partOfSpeech": "noun", "gender": "f", "plural": "des écoles critiques", "pronunciation": "uen ay-KOL kree-TEEK", "example": "Chaque école critique privilégie un aspect du texte au détriment des autres.", "exampleEnglish": "Each critical school favours one aspect of the text at the expense of others.", "level": "C2", "category": "critical-schools" },
+            { "id": "un-courant-litteraire", "french": "un courant littéraire", "english": "a literary movement, trend", "partOfSpeech": "noun", "gender": "m", "plural": "des courants littéraires", "pronunciation": "uhn koo-RAHN lee-tay-REHR", "example": "Le courant qui a porté cette théorie a marqué toute une génération de critiques.", "exampleEnglish": "The movement that carried this theory marked a whole generation of critics.", "level": "C2", "category": "critical-schools" },
+            { "id": "la-theorie-litteraire", "french": "la théorie littéraire", "english": "literary theory", "partOfSpeech": "noun", "gender": "f", "plural": "les théories littéraires", "pronunciation": "lah tay-oh-REE lee-tay-REHR", "example": "La théorie littéraire du XXe siècle a profondément renouvelé la notion d'auteur.", "exampleEnglish": "Twentieth-century literary theory profoundly renewed the notion of the author.", "level": "C2", "category": "critical-schools" },
+            { "id": "le-structuralisme", "french": "le structuralisme", "english": "structuralism", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh strook-tu-rah-LEESM", "example": "Le structuralisme a dominé la critique française dans les années 1960.", "exampleEnglish": "Structuralism dominated French criticism in the 1960s.", "level": "C2", "category": "critical-schools" },
+            { "id": "le-formalisme", "french": "le formalisme", "english": "formalism", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh for-mah-LEESM", "example": "Le formalisme russe a posé les bases de l'analyse des procédés narratifs.", "exampleEnglish": "Russian formalism laid the groundwork for the analysis of narrative devices.", "level": "C2", "category": "critical-schools" },
+            { "id": "la-sociocritique", "french": "la sociocritique", "english": "sociocriticism", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah soh-syoh-kree-TEEK", "example": "La sociocritique lit le roman comme un document sur les tensions de son époque.", "exampleEnglish": "Sociocriticism reads the novel as a document on the tensions of its time.", "level": "C2", "category": "critical-schools" },
+            { "id": "la-psychocritique", "french": "la psychocritique", "english": "psychocriticism, psychoanalytic criticism", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah psee-koh-kree-TEEK", "example": "La psychocritique retrouve, d'une œuvre à l'autre, les mêmes images obsédantes.", "exampleEnglish": "Psychocriticism finds the same obsessive images recurring from one work to another.", "level": "C2", "category": "critical-schools" },
+            { "id": "la-deconstruction", "french": "la déconstruction", "english": "deconstruction", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah day-kon-strook-SYON", "example": "La déconstruction traque les contradictions qu'un texte tente de dissimuler.", "exampleEnglish": "Deconstruction tracks the contradictions a text tries to conceal.", "level": "C2", "category": "critical-schools" },
+            { "id": "la-critique-genetique", "french": "la critique génétique", "english": "genetic criticism (study of drafts and manuscripts)", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah kree-TEEK zhay-nay-TEEK", "example": "La critique génétique compare les brouillons pour reconstituer la genèse du roman.", "exampleEnglish": "Genetic criticism compares drafts to reconstruct the novel's genesis.", "level": "C2", "category": "critical-schools" },
+            { "id": "l-avant-texte", "french": "l'avant-texte", "english": "the pre-text (drafts and manuscript materials before the final version)", "partOfSpeech": "noun", "gender": "m", "plural": "les avant-textes", "pronunciation": "lah-vahn-TEKST", "example": "L'avant-texte révèle des hésitations que le texte publié efface entièrement.", "exampleEnglish": "The pre-text reveals hesitations that the published text erases entirely.", "level": "C2", "category": "critical-schools" },
+            { "id": "la-theorie-de-la-reception", "french": "la théorie de la réception", "english": "reception theory, reader-response theory", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah tay-oh-REE duh lah ray-sep-SYON", "example": "La théorie de la réception s'intéresse à ce que chaque génération de lecteurs fait d'un texte.", "exampleEnglish": "Reception theory is interested in what each generation of readers does with a text.", "level": "C2", "category": "critical-schools" },
+            { "id": "l-horizon-d-attente", "french": "l'horizon d'attente", "english": "the horizon of expectation (a reader's assumptions when approaching a text)", "partOfSpeech": "noun", "gender": "m", "pronunciation": "loh-ree-ZOHN dah-TAHNT", "example": "Un texte novateur bouscule l'horizon d'attente du public de son temps.", "exampleEnglish": "An innovative text disrupts the horizon of expectation of its contemporary audience.", "level": "C2", "category": "critical-schools" },
+            { "id": "l-intertextualite", "french": "l'intertextualité", "english": "intertextuality", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lan-tehr-tex-tu-ah-lee-TAY", "example": "L'intertextualité tisse un dialogue silencieux entre ce roman et ses modèles.", "exampleEnglish": "Intertextuality weaves a silent dialogue between this novel and its models.", "level": "C2", "category": "critical-schools" },
+            { "id": "un-theoricien", "french": "un théoricien / une théoricienne", "english": "a theorist", "partOfSpeech": "noun", "gender": "m", "plural": "des théoriciens", "pronunciation": "uhn tay-oh-ree-SYAN", "example": "Ce théoricien a renouvelé la définition même de la littérarité.", "exampleEnglish": "This theorist renewed the very definition of literariness.", "level": "C2", "category": "critical-schools" },
+            { "id": "interpreter", "french": "interpréter", "english": "to interpret", "partOfSpeech": "verb", "pronunciation": "an-tehr-pray-TAY", "example": "Interpréter un texte, ce n'est pas lui faire dire n'importe quoi.", "exampleEnglish": "To interpret a text is not to make it say just anything.", "level": "C2", "category": "critical-schools" },
+            { "id": "l-interpretation", "french": "l'interprétation", "english": "the interpretation, the reading (of a text)", "partOfSpeech": "noun", "gender": "f", "plural": "les interprétations", "pronunciation": "lan-tehr-pray-tah-SYON", "example": "Deux interprétations opposées peuvent toutes deux se défendre à partir du même passage.", "exampleEnglish": "Two opposing interpretations can both be defended from the same passage.", "level": "C2", "category": "critical-schools" },
+            { "id": "le-sens", "french": "le sens", "english": "meaning, sense", "partOfSpeech": "noun", "gender": "m", "plural": "les sens", "pronunciation": "luh SAHNS", "example": "Le sens d'un texte ne se réduit jamais à l'intention déclarée de son auteur.", "exampleEnglish": "The meaning of a text is never reducible to its author's declared intention.", "level": "C2", "category": "critical-schools" },
+            { "id": "le-contexte", "french": "le contexte", "english": "the context", "partOfSpeech": "noun", "gender": "m", "plural": "les contextes", "pronunciation": "luh kohn-TEKST", "example": "Ignorer le contexte d'écriture appauvrit souvent la lecture d'un texte ancien.", "exampleEnglish": "Ignoring the context of writing often impoverishes the reading of an old text.", "level": "C2", "category": "critical-schools" },
+            { "id": "l-intention-de-l-auteur", "french": "l'intention de l'auteur", "english": "the author's intention", "partOfSpeech": "expression", "pronunciation": "lan-tahn-SYON duh loh-TUHR", "example": "Réduire un texte à l'intention de l'auteur, c'est fermer d'avance la discussion.", "exampleEnglish": "Reducing a text to the author's intention closes the discussion in advance.", "level": "C2", "category": "critical-schools" },
+            { "id": "la-mort-de-l-auteur", "french": "la mort de l'auteur", "english": "the death of the author (Barthes's concept: meaning belongs to the reader, not the author's intention)", "partOfSpeech": "expression", "pronunciation": "lah mor duh loh-TUHR", "example": "Après « la mort de l'auteur », le sens appartient autant au lecteur qu'à celui qui a écrit.", "exampleEnglish": "After 'the death of the author', meaning belongs to the reader as much as to the one who wrote.", "level": "C2", "category": "critical-schools" },
+            { "id": "le-canon-litteraire", "french": "le canon littéraire", "english": "the literary canon", "partOfSpeech": "noun", "gender": "m", "plural": "les canons littéraires", "pronunciation": "luh kah-NON lee-tay-REHR", "example": "Les écoles critiques ont profondément remis en question le canon littéraire hérité du XIXe siècle.", "exampleEnglish": "Critical schools have profoundly questioned the literary canon inherited from the nineteenth century.", "level": "C2", "category": "critical-schools" },
+            { "id": "la-subjectivite", "french": "la subjectivité", "english": "subjectivity", "partOfSpeech": "noun", "gender": "f", "plural": "les subjectivités", "pronunciation": "soob-zhek-tee-vee-TAY", "example": "Aucune lecture n'échappe entièrement à la subjectivité du lecteur.", "exampleEnglish": "No reading entirely escapes the reader's subjectivity.", "level": "C2", "category": "critical-schools" },
+            { "id": "le-lecteur", "french": "le lecteur", "english": "the reader", "partOfSpeech": "noun", "gender": "m", "plural": "les lecteurs", "pronunciation": "luh lek-TUHR", "example": "Le lecteur complète toujours le texte par ce qu'il y projette.", "exampleEnglish": "The reader always completes the text with what they project onto it.", "level": "C2", "category": "critical-schools" },
+            { "id": "l-auteur", "french": "l'auteur", "english": "the author", "partOfSpeech": "noun", "gender": "m", "plural": "les auteurs", "pronunciation": "loh-TUHR", "example": "Certaines écoles s'intéressent moins à l'auteur qu'au texte qu'il a laissé derrière lui.", "exampleEnglish": "Some schools are less interested in the author than in the text left behind.", "level": "C2", "category": "critical-schools" },
+            { "id": "l-oeuvre", "french": "l'œuvre", "english": "the (literary) work", "partOfSpeech": "noun", "gender": "f", "plural": "les œuvres", "pronunciation": "LUHVR", "example": "Une œuvre continue de produire du sens bien après la mort de celui qui l'a écrite.", "exampleEnglish": "A work keeps producing meaning long after the death of the one who wrote it.", "level": "C2", "category": "critical-schools" },
+            { "id": "le-texte", "french": "le texte", "english": "the text", "partOfSpeech": "noun", "gender": "m", "plural": "les textes", "pronunciation": "luh TEKST", "example": "Le texte résiste toujours un peu à la grille qu'on lui applique.", "exampleEnglish": "The text always resists, to some degree, the framework applied to it.", "level": "C2", "category": "critical-schools" },
+            { "id": "une-approche", "french": "une approche", "english": "an approach (critical method)", "partOfSpeech": "noun", "gender": "f", "plural": "des approches", "pronunciation": "uen ah-PROSH", "example": "Combiner deux approches critiques éclaire souvent un texte mieux qu'une seule.", "exampleEnglish": "Combining two critical approaches often illuminates a text better than one alone.", "level": "C2", "category": "critical-schools" },
+            { "id": "un-cadre-theorique", "french": "un cadre théorique", "english": "a theoretical framework", "partOfSpeech": "noun", "gender": "m", "plural": "des cadres théoriques", "pronunciation": "uhn kadr tay-oh-REEK", "example": "Annoncer son cadre théorique dès l'introduction évite bien des malentendus.", "exampleEnglish": "Stating your theoretical framework from the introduction avoids many misunderstandings.", "level": "C2", "category": "critical-schools" },
+            { "id": "un-outil-d-analyse", "french": "un outil d'analyse", "english": "an analytical tool", "partOfSpeech": "noun", "gender": "m", "plural": "des outils d'analyse", "pronunciation": "uhn oo-TEE dah-nah-LEEZ", "example": "La notion de focalisation reste un outil d'analyse précieux, quelle que soit l'école choisie.", "exampleEnglish": "The notion of focalisation remains a precious analytical tool, whichever school one chooses.", "level": "C2", "category": "critical-schools" },
+            { "id": "la-critique-marxiste", "french": "la critique marxiste", "english": "Marxist criticism", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah kree-TEEK mark-SEEST", "example": "La critique marxiste lit la littérature à la lumière des rapports de classe.", "exampleEnglish": "Marxist criticism reads literature in the light of class relations.", "level": "C2", "category": "critical-schools" },
+            { "id": "la-critique-feministe", "french": "la critique féministe", "english": "feminist criticism", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah kree-TEEK fay-mee-NEEST", "example": "La critique féministe a révélé des autrices longtemps effacées du canon.", "exampleEnglish": "Feminist criticism has revealed women authors long erased from the canon.", "level": "C2", "category": "critical-schools" },
+            { "id": "une-perspective", "french": "une perspective", "english": "a perspective, an angle (critical viewpoint)", "partOfSpeech": "noun", "gender": "f", "plural": "des perspectives", "pronunciation": "uen pehr-spek-TEEV", "example": "Changer de perspective critique fait parfois surgir un tout autre texte.", "exampleEnglish": "Changing critical perspective sometimes brings out an entirely different text.", "level": "C2", "category": "critical-schools" },
+            { "id": "un-postulat", "french": "un postulat", "english": "a premise, a starting assumption", "partOfSpeech": "noun", "gender": "m", "plural": "des postulats", "pronunciation": "uhn poss-tu-LAH", "example": "Toute école critique repose sur un postulat qu'elle ne démontre jamais entièrement.", "exampleEnglish": "Every critical school rests on a premise it never entirely proves.", "level": "C2", "category": "critical-schools" },
+            { "id": "remettre-en-question", "french": "remettre en question", "english": "to call into question", "partOfSpeech": "expression", "pronunciation": "ruh-METR ahn kess-TYOHN", "example": "La déconstruction remet en question jusqu'à l'idée d'un sens stable.", "exampleEnglish": "Deconstruction calls into question even the idea of a stable meaning.", "level": "C2", "category": "critical-schools" },
+            { "id": "la-nouvelle-critique", "french": "la Nouvelle Critique", "english": "the Nouvelle Critique (mid-20th-century French critical movement, e.g. Barthes)", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah noo-VEL kree-TEEK", "example": "La Nouvelle Critique a rompu avec la biographie comme clé unique du texte.", "exampleEnglish": "The Nouvelle Critique broke with biography as the sole key to a text.", "level": "C2", "category": "critical-schools" },
+            { "id": "une-lecture-plurielle", "french": "une lecture plurielle", "english": "a plural reading (a text open to several valid interpretations)", "partOfSpeech": "noun", "gender": "f", "plural": "des lectures plurielles", "pronunciation": "uen lek-TUER plue-RYEL", "example": "Un grand texte supporte une lecture plurielle sans se dissoudre dans le n'importe quoi.", "exampleEnglish": "A great text supports a plural reading without dissolving into anything-goes.", "level": "C2", "category": "critical-schools" },
+            { "id": "la-reception-critique", "french": "la réception critique", "english": "the critical reception (of a work)", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah ray-sep-SYON kree-TEEK", "example": "La réception critique d'une œuvre change parfois plus que l'œuvre elle-même.", "exampleEnglish": "The critical reception of a work sometimes changes more than the work itself.", "level": "C2", "category": "critical-schools" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Formuler une lecture : tournures de la démonstration critique",
+              "body": "Presenting an interpretation as argued rather than asserted as fact calls for a family of hedging constructions: on peut lire... comme, tout se passe comme si, il est permis d'y voir, rien n'interdit de penser que, cette lecture suppose que. These are not timidity — at C2 they signal that an interpretation is a construction, not a fact the text simply hands over.",
+              "examples": [
+                { "french": "On peut lire ce silence comme un aveu, sans jamais pouvoir l'affirmer avec certitude.", "english": "This silence can be read as a confession, without ever being able to state it with certainty.", "note": "on peut lire... comme" },
+                { "french": "Tout se passe comme si le narrateur refusait de nommer ce qu'il redoute le plus.", "english": "It is as if the narrator refused to name what he fears most.", "note": "tout se passe comme si + imparfait" },
+                { "french": "Il est permis d'y voir une critique voilée de la société de son temps.", "english": "One may see in it a veiled critique of the society of his time." },
+                { "french": "Rien n'interdit de penser que cette image annonce déjà le dénouement.", "english": "Nothing forbids thinking that this image already announces the ending." },
+                { "french": "Cette lecture suppose que le lecteur accepte de suspendre son jugement moral.", "english": "This reading presupposes that the reader agrees to suspend moral judgement." }
+              ],
+              "tip": "These hedges are not timidity — at C2 they signal that you know an interpretation is a construction, not a fact the text simply hands you."
+            },
+            {
+              "heading": "Nuancer et concéder : le contrepoint critique",
+              "body": "Weighing one critical school against another calls for concession and subjunctive structures: bien que + subjunctive, quelle que soit l'école choisie, sans nier que... il n'en demeure pas moins que, and the literary-register 'si/aussi + adjective + subjunctive + inversion' meaning 'however [adjective]'.",
+              "examples": [
+                { "french": "Bien que le structuralisme ait renouvelé l'analyse du récit, il néglige parfois le contexte historique.", "english": "Although structuralism renewed narrative analysis, it sometimes neglects historical context.", "note": "bien que + subjunctive" },
+                { "french": "Quelle que soit l'école choisie, la lecture doit rester fidèle au texte.", "english": "Whichever school is chosen, the reading must remain faithful to the text.", "note": "quel(le) que + subjunctive of être" },
+                { "french": "Sans nier l'apport de la psychocritique, il n'en demeure pas moins que le texte résiste à toute biographie.", "english": "Without denying psychocriticism's contribution, the fact remains that the text resists any biography." },
+                { "french": "Si utile soit cet outil, il ne remplace jamais une lecture attentive du texte lui-même.", "english": "Useful as this tool may be, it never replaces a careful reading of the text itself.", "note": "si + adjective + subjunctive + inversion" },
+                { "french": "Aussi séduisante soit-elle, une théorie ne vaut que par ce qu'elle permet de voir dans le texte.", "english": "However seductive it may be, a theory is only worth what it lets us see in the text.", "note": "aussi + adjective + subjunctive + inversion" }
+              ],
+              "tip": "'Si/aussi + adjective + subjunctive + inversion' is the literary-register way to say 'however [adjective]' — reserve it for formal written or oral C2 register."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "c2_u19_l01_li01", "type": "listenChoose", "prompt": "Listen. Which critical school is being described?", "french": "Cette école étudie les brouillons et les versions successives d'une œuvre pour en comprendre la genèse.", "options": ["La critique génétique", "Le structuralisme", "La sociocritique", "La théorie de la réception"], "answer": "La critique génétique" },
+            { "id": "c2_u19_l01_li02", "type": "listenChoose", "prompt": "Listen. Which concept is being described?", "french": "Selon Barthes, le sens d'un texte n'appartient plus seulement à celui qui l'a écrit.", "options": ["La mort de l'auteur", "L'horizon d'attente", "L'avant-texte", "Le canon littéraire"], "answer": "La mort de l'auteur" },
+            { "id": "c2_u19_l01_li03", "type": "listenType", "prompt": "Listen and type this sentence exactly.", "french": "Aucune théorie n'épuise un grand texte ; chacune en éclaire une face.", "answer": "Aucune théorie n'épuise un grand texte ; chacune en éclaire une face.", "acceptedAnswers": ["aucune theorie n'epuise un grand texte chacune en eclaire une face", "aucune theorie nepuise un grand texte chacune en eclaire une face"] },
+            { "id": "c2_u19_l01_li04", "type": "dictation", "prompt": "Dictation: write down this sentence exactly.", "french": "Le texte résiste toujours un peu à la grille qu'on lui applique.", "answer": "Le texte résiste toujours un peu à la grille qu'on lui applique.", "acceptedAnswers": ["le texte resiste toujours un peu a la grille qu'on lui applique", "le texte resiste toujours un peu a la grille quon lui applique"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "c2_u19_l01_sp01", "type": "speak", "prompt": "Present this hedge with the deliberate caution of a critical reading.", "french": "On peut lire ce silence comme un aveu, sans jamais pouvoir l'affirmer avec certitude.", "english": "This silence can be read as a confession, without ever being able to state it with certainty.", "tip": "Slow down on 'sans jamais pouvoir l'affirmer' — the hesitation is the point." },
+            { "id": "c2_u19_l01_sp02", "type": "speak", "prompt": "State this concession with the balanced firmness of an oral exam answer.", "french": "Bien que le structuralisme ait renouvelé l'analyse du récit, il néglige parfois le contexte historique.", "english": "Although structuralism renewed narrative analysis, it sometimes neglects historical context.", "tip": "Stress 'bien que' and 'néglige' equally — the sentence lives on that tension." },
+            { "id": "c2_u19_l01_sp03", "type": "speak", "prompt": "Deliver this definition as if introducing the concept to a seminar.", "french": "La théorie de la réception s'intéresse à ce que chaque génération de lecteurs fait d'un texte.", "english": "Reception theory is interested in what each generation of readers does with a text.", "tip": "Put a small pause before 'fait d'un texte' — it is the pivot of the whole sentence." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Choisir une école, changer de texte",
+              "french": "Un même roman, lu par cinq critiques différents, peut donner naissance à cinq textes presque étrangers l'un à l'autre.\nLe premier, formaliste, ne voit que des procédés : un rythme de phrase, une répétition savamment placée, un point de vue qui se déplace sans prévenir.\nLe deuxième, sociocritique, y lit d'abord une société : des rapports de pouvoir, une classe qui parle et une autre qui se tait.\nLe troisième, psychocritique, y traque une obsession : une image qui revient, d'un chapitre à l'autre, comme un symptôme.\nLe quatrième, généticien du texte, s'intéresse moins au roman publié qu'à ses brouillons, à ce qu'il aurait pu devenir et n'est pas devenu.\nLe cinquième, enfin, s'attache à la réception : comment le public de 1880 a-t-il lu ce que le public d'aujourd'hui lit si différemment ?\nAucun de ces cinq lecteurs n'a tort, et aucun n'épuise le texte à lui seul.\nC'est précisément ce qui distingue une école critique d'un simple goût personnel : elle assume ses questions, elle les nomme, et elle accepte qu'une autre école, avec d'autres questions, obtienne d'autres réponses également légitimes.\nLe danger n'est donc pas de choisir une école plutôt qu'une autre.\nIl est de croire qu'une seule grille suffit à épuiser un texte qui, par définition, résiste à toute grille unique.\nLe bon lecteur critique se déplace : il sait quand la question sociale éclaire un passage, et quand elle l'appauvrit au contraire.\nIl sait aussi que la subjectivité ne disparaît jamais tout à fait — elle se discipline, elle s'argumente, elle se justifie ligne à ligne.\nC'est cette discipline, plus que la théorie elle-même, qui distingue la critique littéraire du commentaire impressionniste.\nChoisir une école, en somme, ce n'est pas trouver la bonne réponse.\nC'est choisir la bonne question à poser à un texte qui, lui, n'a jamais fini de répondre.",
+              "english": "The same novel, read by five different critics, can give rise to five texts almost foreign to one another.\nThe first, a formalist, sees only devices: a sentence rhythm, a cleverly placed repetition, a point of view that shifts without warning.\nThe second, a sociocritic, first reads a society in it: power relations, one class that speaks and another that stays silent.\nThe third, a psychocritic, tracks an obsession in it: an image that recurs, from chapter to chapter, like a symptom.\nThe fourth, a genetic critic, is less interested in the published novel than in its drafts, in what it could have become and did not become.\nThe fifth, finally, focuses on reception: how did the public of 1880 read what today's public reads so differently?\nNone of these five readers is wrong, and none exhausts the text on their own.\nThis is precisely what distinguishes a critical school from mere personal taste: it owns its questions, it names them, and it accepts that another school, with other questions, may obtain other, equally legitimate answers.\nThe danger, then, is not choosing one school over another.\nIt is believing that a single grid suffices to exhaust a text that, by definition, resists any single grid.\nThe good critical reader shifts position: they know when the social question illuminates a passage, and when it impoverishes it instead.\nThey also know that subjectivity never entirely disappears — it is disciplined, argued, justified line by line.\nIt is this discipline, more than the theory itself, that distinguishes literary criticism from impressionistic commentary.\nChoosing a school, in short, is not finding the right answer.\nIt is choosing the right question to put to a text that, itself, has never finished answering.",
+              "questions": [
+                { "id": "c2_u19_l01_rd01", "type": "multipleChoice", "prompt": "According to the passage, what does genetic criticism focus on?", "options": ["The drafts and what the novel could have become", "The society reflected in the novel", "The recurring obsessive images", "The reception of the novel over time"], "answer": "The drafts and what the novel could have become" },
+                { "id": "c2_u19_l01_rd02", "type": "multipleChoice", "prompt": "According to the passage, what distinguishes a critical school from mere personal taste?", "options": ["It names and owns its own questions", "It always agrees with other schools", "It ignores the reader's subjectivity entirely", "It proves the text has only one meaning"], "answer": "It names and owns its own questions" },
+                { "id": "c2_u19_l01_rd03", "type": "trueFalse", "prompt": "According to the passage, the good critical reader relies on a single grid for every text.", "options": ["True", "False"], "answer": "False" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "c2_u19_l01_wr01", "type": "translate", "prompt": "Translate into French.", "english": "No theory exhausts a great text; each one lights up one facet of it.", "answer": "Aucune théorie n'épuise un grand texte ; chacune en éclaire une face.", "acceptedAnswers": ["aucune theorie n'epuise un grand texte chacune en eclaire une face", "aucune theorie nepuise un grand texte chacune en eclaire une face"] },
+            { "id": "c2_u19_l01_wr02", "type": "arrangeWords", "prompt": "Rebuild this sentence from the reading passage.", "words": ["de", "tort", "Aucun", "cinq", "ces", "lecteurs", "n'a"], "answer": "Aucun de ces cinq lecteurs n'a tort", "english": "None of these five readers is wrong." },
+            { "id": "c2_u19_l01_wr03", "type": "fillBlank", "prompt": "La ___ de la réception s'intéresse à ce que le lecteur fait du texte.", "answer": "théorie", "tip": "This is the school that studies readers across generations, not just the author's intention." }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "c2_u19_l01_pr01", "type": "multipleChoice", "prompt": "Quelle école étudie les brouillons et les versions successives d'un texte ?", "options": ["La critique génétique", "Le formalisme", "La sociocritique", "La théorie de la réception"], "answer": "La critique génétique" },
+            { "id": "c2_u19_l01_pr02", "type": "match", "prompt": "Match each school with its meaning.", "pairs": [ { "french": "le structuralisme", "english": "structuralism" }, { "french": "la sociocritique", "english": "sociocriticism" }, { "french": "la psychocritique", "english": "psychoanalytic criticism" }, { "french": "la théorie de la réception", "english": "reader-response theory" } ] },
+            { "id": "c2_u19_l01_pr03", "type": "fillBlank", "prompt": "Selon Barthes, le sens n'appartient plus seulement à l'auteur : c'est « la ___ de l'auteur ».", "answer": "mort" },
+            { "id": "c2_u19_l01_pr04", "type": "multipleChoice", "prompt": "Que signifie « l'avant-texte » ?", "options": ["Les brouillons et versions antérieures à l'œuvre publiée", "Le résumé du texte avant lecture", "La préface écrite par un critique", "Le texte source d'une traduction"], "answer": "Les brouillons et versions antérieures à l'œuvre publiée" },
+            { "id": "c2_u19_l01_pr05", "type": "translate", "prompt": "Translate: A great text supports a plural reading without dissolving into anything-goes.", "english": "A great text supports a plural reading without dissolving into anything-goes.", "answer": "Un grand texte supporte une lecture plurielle sans se dissoudre dans le n'importe quoi.", "acceptedAnswers": ["un grand texte supporte une lecture plurielle sans se dissoudre dans le n'importe quoi", "un grand texte supporte une lecture plurielle sans se dissoudre dans le nimporte quoi"] },
+            { "id": "c2_u19_l01_pr06", "type": "trueFalse", "prompt": "Marxist criticism reads literature primarily through the biography of the author.", "options": ["True", "False"], "answer": "False", "tip": "Marxist criticism reads literature through class relations, not biography — that is psychocriticism's territory." }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "c2_u19_l01_qz01", "type": "multipleChoice", "prompt": "Que fait la sociocritique ?", "options": ["Elle relit le texte à travers les rapports sociaux de son époque", "Elle étudie uniquement la métrique du vers", "Elle traque les obsessions inconscientes de l'auteur", "Elle compare les brouillons successifs d'une œuvre"], "answer": "Elle relit le texte à travers les rapports sociaux de son époque" },
+            { "id": "c2_u19_l01_qz02", "type": "fillBlank", "prompt": "La critique ___ lit le texte à la lumière des rapports de classe.", "answer": "marxiste" },
+            { "id": "c2_u19_l01_qz03", "type": "multipleChoice", "prompt": "What best defines 'l'horizon d'attente'?", "options": ["A reader's assumptions when approaching a text", "The author's biography", "The final published version of a text", "A rhyme scheme"], "answer": "A reader's assumptions when approaching a text" },
+            { "id": "c2_u19_l01_qz04", "type": "trueFalse", "prompt": "Une lecture plurielle signifie qu'un texte n'a qu'une seule interprétation valable.", "options": ["True", "False"], "answer": "False" },
+            { "id": "c2_u19_l01_qz05", "type": "multipleChoice", "prompt": "Quelle expression désigne l'idée que le sens d'un texte échappe à l'auteur, selon Barthes ?", "options": ["La mort de l'auteur", "L'horizon d'attente", "Le canon littéraire", "L'avant-texte"], "answer": "La mort de l'auteur" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c2_u19_l02",
+      "level": "C2",
+      "unit": 19,
+      "title": "Le commentaire composé",
+      "description": "Master the French commentaire composé: choosing reading axes instead of a thesis, following a text's mouvements, and proving a stylistic claim with a quoted, analysed detail.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Le commentaire composé : une méthode, pas un résumé",
+              "body": "The commentaire composé does not retell a text — it explains how the text produces its effects. Unlike the dissertation, it does not start from a thesis to defend but from axes de lecture to explore: several observations gathered around one question put to the text. Paraphrasing a line is never a commentary; every claim must rest on a precise quotation, never a vague impression.",
+              "examples": [
+                { "french": "Le commentaire composé ne raconte pas un texte : il explique comment ce texte produit ses effets.", "english": "The commentaire composé does not retell a text: it explains how the text produces its effects." },
+                { "french": "Contrairement à la dissertation, il ne part pas d'une thèse à défendre, mais d'axes de lecture à explorer.", "english": "Unlike the dissertation, it does not start from a thesis to defend, but from reading axes to explore." },
+                { "french": "Un axe de lecture regroupe plusieurs observations autour d'une même question posée au texte.", "english": "A reading axis gathers several observations around a single question put to the text." },
+                { "french": "Paraphraser un vers n'est jamais un commentaire ; commenter, c'est expliquer pourquoi ce vers produit tel effet.", "english": "Paraphrasing a line is never a commentary; to comment is to explain why that line produces a given effect." },
+                { "french": "Chaque affirmation doit s'appuyer sur une citation précise, jamais sur une impression vague.", "english": "Every claim must rest on a precise quotation, never on a vague impression." }
+              ],
+              "tip": "Two solid axes, thoroughly developed, always outscore three axes barely sketched."
+            },
+            {
+              "heading": "Construire les mouvements et les sous-parties",
+              "body": "The commentaire first follows the text's mouvements — moments where something shifts: the tone changes, the rhythm speeds up, an image takes hold — before regrouping them under reading axes. Each sous-partie develops a single idea, illustrated by a citation and followed by its stylistic analysis, and a commentary that stays faithful to these movements avoids the trap of an artificially imposed plan.",
+              "examples": [
+                { "french": "Le commentaire suit d'abord les mouvements du texte, avant de les regrouper sous des axes de lecture.", "english": "The commentary first follows the text's movements, before regrouping them under reading axes." },
+                { "french": "Un mouvement correspond à un moment du texte où quelque chose bascule : le ton change, le rythme s'accélère, une image s'impose.", "english": "A movement corresponds to a moment in the text where something shifts: the tone changes, the rhythm speeds up, an image takes hold." },
+                { "french": "Chaque sous-partie développe une seule idée, illustrée par une citation et suivie de son analyse stylistique.", "english": "Each sub-section develops a single idea, illustrated by a quotation and followed by its stylistic analysis." },
+                { "french": "Repérer le champ lexical dominant révèle souvent, à lui seul, tout un axe de lecture.", "english": "Spotting the dominant lexical field often reveals, on its own, an entire reading axis." },
+                { "french": "Un commentaire qui suit fidèlement les mouvements du texte évite le piège du plan artificiellement plaqué.", "english": "A commentary that faithfully follows the text's movements avoids the trap of an artificially imposed plan." }
+              ],
+              "tip": "Ask of every paragraph: does this follow from what the text does, or from what I wanted to say regardless of the text?"
+            },
+            {
+              "heading": "Citer, analyser, interpréter : la triade du commentaire",
+              "body": "Every developed observation follows the same triad: the citation isolates the detail, the analysis names the stylistic device that produces it, and the interpretation draws out its effect. Content and form are not opposites — form is the way content offers itself to be read — so a device pointed out but never interpreted remains a mere observation, not a commentary.",
+              "examples": [
+                { "french": "La citation isole le détail ; l'analyse nomme le procédé stylistique qui le produit ; l'interprétation en dégage l'effet.", "english": "The quotation isolates the detail; the analysis names the stylistic device that produces it; the interpretation draws out its effect." },
+                { "french": "Une métaphore filée relevée sans être interprétée reste une simple observation, pas un commentaire.", "english": "An extended metaphor identified but not interpreted remains a mere observation, not a commentary." },
+                { "french": "Le fond et la forme ne s'opposent pas : la forme est la façon dont le fond se donne à lire.", "english": "Content and form are not opposites: form is the way content offers itself to be read." },
+                { "french": "Souligner une anaphore ne suffit pas ; il faut dire ce que cette répétition impose au rythme de la phrase.", "english": "Pointing out an anaphora is not enough; you must say what that repetition imposes on the sentence's rhythm." },
+                { "french": "Un bon commentaire relève peu de procédés, mais les analyse avec une précision extrême.", "english": "A good commentary identifies few devices, but analyses them with extreme precision." }
+              ],
+              "tip": "Never quote more than you can analyse — a long, unexplained citation reads as padding, not as evidence."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "le-commentaire-compose", "french": "le commentaire composé", "english": "the composed commentary (French close-reading essay form)", "partOfSpeech": "noun", "gender": "m", "plural": "les commentaires composés", "pronunciation": "luh koh-mahn-TEHR kohn-poh-ZAY", "example": "Le commentaire composé explique comment un texte produit ses effets, plutôt qu'il ne le résume.", "exampleEnglish": "The commentaire composé explains how a text produces its effects, rather than summarising it.", "level": "C2", "category": "commentaire-compose" },
+            { "id": "un-axe-de-lecture", "french": "un axe de lecture", "english": "a reading axis, an analytical thread", "partOfSpeech": "noun", "gender": "m", "plural": "des axes de lecture", "pronunciation": "uhn aks duh lek-TUER", "example": "Deux axes de lecture bien développés valent mieux que trois esquissés à la hâte.", "exampleEnglish": "Two well-developed reading axes are worth more than three sketched in haste.", "level": "C2", "category": "commentaire-compose" },
+            { "id": "le-mouvement", "french": "le mouvement", "english": "the movement, the shift (a moment where a text changes register or direction)", "partOfSpeech": "noun", "gender": "m", "plural": "les mouvements", "pronunciation": "luh moov-MAHN", "example": "Le deuxième mouvement du texte bascule sans prévenir vers l'ironie.", "exampleEnglish": "The text's second movement shifts without warning into irony.", "level": "C2", "category": "commentaire-compose" },
+            { "id": "une-sous-partie", "french": "une sous-partie", "english": "a sub-section", "partOfSpeech": "noun", "gender": "f", "plural": "des sous-parties", "pronunciation": "uen soo-par-TEE", "example": "Chaque sous-partie développe une seule idée, jamais deux à la fois.", "exampleEnglish": "Each sub-section develops a single idea, never two at once.", "level": "C2", "category": "commentaire-compose" },
+            { "id": "un-paragraphe", "french": "un paragraphe", "english": "a paragraph", "partOfSpeech": "noun", "gender": "m", "plural": "des paragraphes", "pronunciation": "uhn pah-rah-GRAF", "example": "Un paragraphe de commentaire s'ouvre toujours sur l'idée, jamais sur la citation.", "exampleEnglish": "A commentary paragraph always opens on the idea, never on the quotation.", "level": "C2", "category": "commentaire-compose" },
+            { "id": "le-procede-stylistique", "french": "le procédé stylistique", "english": "the stylistic device", "partOfSpeech": "noun", "gender": "m", "plural": "les procédés stylistiques", "pronunciation": "luh pro-say-DAY stee-lees-TEEK", "example": "Chaque procédé stylistique relevé doit être immédiatement interprété.", "exampleEnglish": "Every stylistic device identified must be interpreted immediately.", "level": "C2", "category": "commentaire-compose" },
+            { "id": "la-figure-de-style", "french": "la figure de style", "english": "the figure of speech", "partOfSpeech": "noun", "gender": "f", "plural": "les figures de style", "pronunciation": "lah fee-GUR duh STEEL", "example": "Relever une figure de style sans l'analyser ne prouve rien.", "exampleEnglish": "Pointing out a figure of speech without analysing it proves nothing.", "level": "C2", "category": "commentaire-compose" },
+            { "id": "la-metaphore", "french": "la métaphore", "english": "the metaphor", "partOfSpeech": "noun", "gender": "f", "plural": "les métaphores", "pronunciation": "may-tah-FOR", "example": "La métaphore filée du naufrage traverse tout le second mouvement.", "exampleEnglish": "The extended shipwreck metaphor runs through the entire second movement.", "level": "C2", "category": "commentaire-compose" },
+            { "id": "la-comparaison", "french": "la comparaison", "english": "the simile, the comparison", "partOfSpeech": "noun", "gender": "f", "plural": "les comparaisons", "pronunciation": "kom-pah-reh-ZON", "example": "La comparaison se reconnaît à l'outil « comme », la métaphore s'en passe.", "exampleEnglish": "A simile is recognised by the word 'like', a metaphor does without it.", "level": "C2", "category": "commentaire-compose" },
+            { "id": "une-anaphore", "french": "une anaphore", "english": "an anaphora (rhetorical repetition at the start of successive clauses)", "partOfSpeech": "noun", "gender": "f", "plural": "des anaphores", "pronunciation": "uen ah-nah-FOR", "example": "L'anaphore de « rien » martèle le refus du personnage sur trois phrases.", "exampleEnglish": "The anaphora of 'nothing' hammers home the character's refusal across three sentences.", "level": "C2", "category": "commentaire-compose" },
+            { "id": "le-champ-lexical", "french": "le champ lexical", "english": "the lexical field", "partOfSpeech": "noun", "gender": "m", "plural": "les champs lexicaux", "pronunciation": "luh shahn lek-see-KAL", "example": "Le champ lexical de l'enfermement domine tout le second mouvement du texte.", "exampleEnglish": "The lexical field of confinement dominates the entire second movement of the text.", "level": "C2", "category": "commentaire-compose" },
+            { "id": "la-tonalite", "french": "la tonalité", "english": "the overall tone, mood", "partOfSpeech": "noun", "gender": "f", "plural": "les tonalités", "pronunciation": "lah toh-nah-lee-TAY", "example": "La tonalité bascule de l'ironie légère à une gravité presque tragique.", "exampleEnglish": "The tone shifts from light irony to an almost tragic gravity.", "level": "C2", "category": "commentaire-compose" },
+            { "id": "le-registre", "french": "le registre", "english": "the register (of language)", "partOfSpeech": "noun", "gender": "m", "plural": "les registres", "pronunciation": "luh ruh-ZHEESTR", "example": "Le changement de registre, du soutenu au familier, signale une rupture de ton.", "exampleEnglish": "The shift in register, from formal to colloquial, signals a change of tone.", "level": "C2", "category": "commentaire-compose" },
+            { "id": "l-implicite", "french": "l'implicite", "english": "the implicit, what is not said outright", "partOfSpeech": "noun", "gender": "m", "plural": "les implicites", "pronunciation": "lan-plee-SEET", "example": "Le commentaire consiste largement à rendre l'implicite visible.", "exampleEnglish": "Commentary consists largely in making the implicit visible.", "level": "C2", "category": "commentaire-compose" },
+            { "id": "l-explicite", "french": "l'explicite", "english": "the explicit, what is stated outright", "partOfSpeech": "noun", "gender": "m", "pronunciation": "leks-plee-SEET", "example": "L'explicite du texte contredit parfois son implicite le plus profond.", "exampleEnglish": "A text's explicit content sometimes contradicts its deepest implicit meaning.", "level": "C2", "category": "commentaire-compose" },
+            { "id": "la-problematique", "french": "la problématique", "english": "the central question, the guiding question of a commentary", "partOfSpeech": "noun", "gender": "f", "plural": "les problématiques", "pronunciation": "lah proh-blay-mah-TEEK", "example": "La problématique d'un commentaire naît des axes de lecture, jamais l'inverse.", "exampleEnglish": "A commentary's guiding question arises from its reading axes, never the other way round.", "level": "C2", "category": "commentaire-compose" },
+            { "id": "l-introduction", "french": "l'introduction", "english": "the introduction", "partOfSpeech": "noun", "gender": "f", "plural": "les introductions", "pronunciation": "lan-tro-dük-SYON", "example": "L'introduction du commentaire situe le texte avant d'annoncer les axes de lecture.", "exampleEnglish": "The introduction of a commentary situates the text before announcing the reading axes.", "level": "C2", "category": "commentaire-compose" },
+            { "id": "la-conclusion", "french": "la conclusion", "english": "the conclusion", "partOfSpeech": "noun", "gender": "f", "plural": "les conclusions", "pronunciation": "lah kohn-kloo-ZYOHN", "example": "La conclusion rassemble les axes sans jamais répéter l'analyse mot pour mot.", "exampleEnglish": "The conclusion gathers the reading axes without ever repeating the analysis word for word.", "level": "C2", "category": "commentaire-compose" },
+            { "id": "la-citation", "french": "la citation", "english": "the quotation", "partOfSpeech": "noun", "gender": "f", "plural": "les citations", "pronunciation": "lah see-tah-SYON", "example": "Une citation courte, bien choisie, vaut mieux qu'un long passage récopié.", "exampleEnglish": "A short, well-chosen quotation is worth more than a long copied-out passage.", "level": "C2", "category": "commentaire-compose" },
+            { "id": "analyser", "french": "analyser", "english": "to analyse", "partOfSpeech": "verb", "pronunciation": "ah-nah-lee-ZAY", "example": "Analyser une citation, c'est expliquer comment elle produit son effet, pas seulement ce qu'elle dit.", "exampleEnglish": "To analyse a quotation is to explain how it produces its effect, not merely what it says.", "level": "C2", "category": "commentaire-compose" },
+            { "id": "une-analyse", "french": "une analyse", "english": "an analysis", "partOfSpeech": "noun", "gender": "f", "plural": "des analyses", "pronunciation": "uen ah-nah-LEEZ", "example": "Une analyse précise s'appuie toujours sur un détail du texte, jamais sur une impression générale.", "exampleEnglish": "A precise analysis always rests on a detail of the text, never on a general impression.", "level": "C2", "category": "commentaire-compose" },
+            { "id": "degager", "french": "dégager", "english": "to bring out, to identify (an idea)", "partOfSpeech": "verb", "pronunciation": "day-gah-ZHAY", "example": "Il s'agit de dégager l'effet produit par cette rupture syntaxique.", "exampleEnglish": "The task is to bring out the effect produced by this syntactic break.", "level": "C2", "category": "commentaire-compose" },
+            { "id": "souligner", "french": "souligner", "english": "to underline, to point out", "partOfSpeech": "verb", "pronunciation": "soo-lee-NYAY", "example": "Il ne suffit pas de souligner un procédé ; il faut en dire l'effet.", "exampleEnglish": "It is not enough to point out a device; you must state its effect.", "level": "C2", "category": "commentaire-compose" },
+            { "id": "mettre-en-evidence", "french": "mettre en évidence", "english": "to bring out, to highlight", "partOfSpeech": "expression", "pronunciation": "METR ahn ay-vee-DAHNS", "example": "Cette citation met en évidence un contraste que le résumé seul ne révélerait jamais.", "exampleEnglish": "This quotation brings out a contrast that a summary alone would never reveal.", "level": "C2", "category": "commentaire-compose" },
+            { "id": "un-extrait", "french": "un extrait", "english": "an excerpt", "partOfSpeech": "noun", "gender": "m", "plural": "des extraits", "pronunciation": "uhn ex-TREH", "example": "L'extrait proposé au commentaire compte rarement plus d'une vingtaine de lignes.", "exampleEnglish": "The excerpt set for commentary rarely exceeds about twenty lines.", "level": "C2", "category": "commentaire-compose" },
+            { "id": "la-structure-du-texte", "french": "la structure du texte", "english": "the structure of the text", "partOfSpeech": "expression", "pronunciation": "lah strook-TUR due TEKST", "example": "Comprendre la structure du texte précède toujours le choix des axes de lecture.", "exampleEnglish": "Understanding the text's structure always precedes the choice of reading axes.", "level": "C2", "category": "commentaire-compose" },
+            { "id": "l-unite-de-sens", "french": "l'unité de sens", "english": "the unit of meaning (a segment of text analysed as a whole)", "partOfSpeech": "expression", "pronunciation": "lue-nee-TAY duh SAHNS", "example": "Chaque unité de sens correspond à un moment précis du texte, pas à une phrase isolée.", "exampleEnglish": "Each unit of meaning corresponds to a precise moment of the text, not an isolated sentence.", "level": "C2", "category": "commentaire-compose" },
+            { "id": "rediger", "french": "rédiger", "english": "to draft, to write up", "partOfSpeech": "verb", "pronunciation": "ray-dee-ZHAY", "example": "Il vaut mieux rédiger l'introduction en dernier, une fois les axes vérifiés.", "exampleEnglish": "It is better to draft the introduction last, once the axes have been checked.", "level": "C2", "category": "commentaire-compose" },
+            { "id": "une-remarque", "french": "une remarque", "english": "a remark, an observation", "partOfSpeech": "noun", "gender": "f", "plural": "des remarques", "pronunciation": "uen ruh-MARK", "example": "Une remarque isolée, sans lien avec l'axe annoncé, affaiblit tout le paragraphe.", "exampleEnglish": "An isolated remark, unconnected to the stated axis, weakens the whole paragraph.", "level": "C2", "category": "commentaire-compose" },
+            { "id": "constater", "french": "constater", "english": "to note, to observe (a fact in the text)", "partOfSpeech": "verb", "pronunciation": "kohn-stah-TAY", "example": "On constate d'abord une accélération du rythme avant d'en chercher la raison.", "exampleEnglish": "One first notes an acceleration of rhythm before looking for its cause.", "level": "C2", "category": "commentaire-compose" },
+            { "id": "mettre-en-relation", "french": "mettre en relation", "english": "to relate, to connect (two elements of a text)", "partOfSpeech": "expression", "pronunciation": "METR ahn ruh-lah-SYON", "example": "Mettre en relation deux citations éloignées révèle souvent une cohérence cachée.", "exampleEnglish": "Relating two distant quotations often reveals a hidden coherence.", "level": "C2", "category": "commentaire-compose" },
+            { "id": "le-fond-et-la-forme", "french": "le fond et la forme", "english": "content and form", "partOfSpeech": "expression", "pronunciation": "luh fohn ay lah FORM", "example": "Séparer le fond et la forme, c'est déjà mal poser le commentaire.", "exampleEnglish": "Separating content and form is already to frame the commentary poorly.", "level": "C2", "category": "commentaire-compose" },
+            { "id": "un-effet-de-style", "french": "un effet de style", "english": "a stylistic effect", "partOfSpeech": "noun", "gender": "m", "plural": "des effets de style", "pronunciation": "uhn eh-FEH duh STEEL", "example": "Cet effet de style repose entièrement sur la place inhabituelle du verbe.", "exampleEnglish": "This stylistic effect rests entirely on the unusual placement of the verb.", "level": "C2", "category": "commentaire-compose" },
+            { "id": "relever", "french": "relever", "english": "to identify, to spot (a device in a text)", "partOfSpeech": "verb", "pronunciation": "ruh-luh-VAY", "example": "Relever un procédé n'a de valeur que suivi de son interprétation.", "exampleEnglish": "Identifying a device has value only when followed by its interpretation.", "level": "C2", "category": "commentaire-compose" },
+            { "id": "la-coherence", "french": "la cohérence", "english": "coherence, consistency", "partOfSpeech": "noun", "gender": "f", "plural": "les cohérences", "pronunciation": "lah koh-ay-RAHNSS", "example": "La cohérence du commentaire se juge à la clarté du lien entre les axes.", "exampleEnglish": "The coherence of a commentary is judged by the clarity of the link between its axes.", "level": "C2", "category": "commentaire-compose" },
+            { "id": "le-fil-conducteur", "french": "le fil conducteur", "english": "the guiding thread, the through-line", "partOfSpeech": "noun", "gender": "m", "plural": "les fils conducteurs", "pronunciation": "luh feel kohn-duek-TUHR", "example": "Le fil conducteur relie les mouvements du texte à l'axe de lecture annoncé.", "exampleEnglish": "The through-line connects the text's movements to the stated reading axis.", "level": "C2", "category": "commentaire-compose" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Introduire une observation textuelle",
+              "body": "Textual observations are introduced through gerund and 'à travers' constructions, and through a scale of certainty: on remarque que + indicative for a confident observation, il semble que + subjunctive for a genuinely hedged one, il apparaît que + indicative when you are in fact sure.",
+              "examples": [
+                { "french": "En multipliant les phrases courtes, l'auteur impose un rythme haletant au passage.", "english": "By multiplying short sentences, the author imposes a breathless rhythm on the passage.", "note": "en + gérondif" },
+                { "french": "À travers cette image, le narrateur suggère un malaise qu'il ne nomme jamais directement.", "english": "Through this image, the narrator suggests an unease he never names directly." },
+                { "french": "On remarque que le champ lexical de l'enfermement domine tout le second mouvement.", "english": "It can be observed that the lexical field of confinement dominates the entire second movement.", "note": "on remarque que + indicative" },
+                { "french": "Il semble que cette répétition ne soit pas un hasard, mais un choix délibéré.", "english": "It seems that this repetition is not chance, but a deliberate choice.", "note": "il semble que + subjunctive" },
+                { "french": "Tout porte à croire que cette rupture syntaxique traduit une émotion que les mots ne peuvent contenir.", "english": "Everything suggests that this syntactic break conveys an emotion that words cannot contain." }
+              ],
+              "tip": "'Il semble que' takes the subjunctive when it expresses genuine doubt; when you are certain, prefer 'il apparaît que' + indicative."
+            },
+            {
+              "heading": "Relier citation et analyse sans lourdeur",
+              "body": "Integrating a quotation smoothly into the analysis calls for relative clauses interrupting the main clause, 'loin de' + infinitive, 'non que... mais...' + subjunctive, and the cleft construction 'c'est... qui' for emphasis.",
+              "examples": [
+                { "french": "Cette image, qui revient à trois reprises dans l'extrait, structure à elle seule tout le mouvement final.", "english": "This image, which recurs three times in the extract, structures the entire final movement on its own.", "note": "relative clause interrupting the main clause" },
+                { "french": "Loin de simplifier la scène, cette accumulation de détails en accentue la confusion.", "english": "Far from simplifying the scene, this accumulation of details heightens its confusion." },
+                { "french": "Non que le vocabulaire soit rare, mais son agencement surprend à chaque phrase.", "english": "Not that the vocabulary is rare, but its arrangement surprises at every sentence.", "note": "non que + subjunctive" },
+                { "french": "Telle qu'elle apparaît ici, la métaphore filée dépasse la simple image décorative.", "english": "As it appears here, the extended metaphor goes beyond mere decorative imagery." },
+                { "french": "C'est bien cette hésitation syntaxique, et non le vocabulaire, qui installe le doute chez le lecteur.", "english": "It is indeed this syntactic hesitation, and not the vocabulary, that plants doubt in the reader.", "note": "c'est... qui, cleft structure for emphasis" }
+              ],
+              "tip": "A relative clause embedded mid-sentence (', qui revient à trois reprises,') keeps the citation and its analysis in the same breath — native critics use this constantly."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "c2_u19_l02_li01", "type": "listenChoose", "prompt": "Listen. Which term is being defined?", "french": "Ce moment du texte correspond à un basculement : le ton change, le rythme s'accélère.", "options": ["Un mouvement", "Une sous-partie", "Un axe de lecture", "Une problématique"], "answer": "Un mouvement" },
+            { "id": "c2_u19_l02_li02", "type": "listenChoose", "prompt": "Listen. Which term is being defined?", "french": "Ce terme regroupe plusieurs observations autour d'une même question posée au texte.", "options": ["Un axe de lecture", "Une citation", "Un extrait", "Une anaphore"], "answer": "Un axe de lecture" },
+            { "id": "c2_u19_l02_li03", "type": "listenType", "prompt": "Listen and type this sentence exactly.", "french": "Une métaphore filée relevée sans être interprétée reste une simple observation.", "answer": "Une métaphore filée relevée sans être interprétée reste une simple observation.", "acceptedAnswers": ["une metaphore filee relevee sans etre interpretee reste une simple observation"] },
+            { "id": "c2_u19_l02_li04", "type": "dictation", "prompt": "Dictation: write down this sentence exactly.", "french": "Le fond et la forme ne s'opposent pas : la forme est la façon dont le fond se donne à lire.", "answer": "Le fond et la forme ne s'opposent pas : la forme est la façon dont le fond se donne à lire.", "acceptedAnswers": ["le fond et la forme ne s'opposent pas la forme est la facon dont le fond se donne a lire", "le fond et la forme ne sopposent pas la forme est la facon dont le fond se donne a lire"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "c2_u19_l02_sp01", "type": "speak", "prompt": "Perform this sentence so its rhythm matches what it describes.", "french": "En multipliant les phrases courtes, l'auteur impose un rythme haletant au passage.", "english": "By multiplying short sentences, the author imposes a breathless rhythm on the passage.", "tip": "Speed up your own delivery slightly on 'rythme haletant' — let the sentence perform what it describes." },
+            { "id": "c2_u19_l02_sp02", "type": "speak", "prompt": "Deliver this analytical sentence with its embedded relative clause set off clearly.", "french": "Cette image, qui revient à trois reprises dans l'extrait, structure à elle seule tout le mouvement final.", "english": "This image, which recurs three times in the extract, structures the entire final movement on its own.", "tip": "Set off 'qui revient à trois reprises' with a brief pause on each side, like spoken commas." },
+            { "id": "c2_u19_l02_sp03", "type": "speak", "prompt": "State this rule with the confidence of a seasoned examiner.", "french": "Un bon commentaire relève peu de procédés, mais les analyse avec une précision extrême.", "english": "A good commentary identifies few devices, but analyses them with extreme precision.", "tip": "Stress 'peu' and 'extrême' — the whole method rests on that contrast between quantity and depth." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Le retour",
+              "french": "La maison n'avait pas changé, et c'était bien là ce qui la troublait.\nLe même portail vert, la même rouille au coin du gond, la même odeur de buis mouillé dès la première marche.\nElle avança lentement, comme si le gravier sous ses pieds pouvait encore la trahir, comme autrefois.\nRien n'avait bougé, et pourtant tout semblait plus petit : le mur du jardin, l'arbre qu'elle croyait immense, la fenêtre de sa chambre d'enfant.\nElle posa la main sur la porte sans l'ouvrir, comme on hésite avant de rouvrir une lettre qu'on sait triste.\nDerrière cette porte, elle le savait, il n'y aurait que des meubles recouverts de draps et un silence qu'aucun bruit ne viendrait plus jamais interrompre.\nElle se souvint alors de sa mère, debout à cette même place, appelant son nom dans la lumière déclinante d'un soir d'août.\nLa voix s'était tue depuis longtemps, mais le prénom, lui, semblait encore suspendu entre les murs.\nElle recula d'un pas, puis d'un autre, sans quitter la porte des yeux, comme on recule devant un miroir trop honnête.\nCe n'était pas la maison qu'elle avait fui pendant vingt ans.\nC'était ce qu'elle était devenue, mesurée sans pitié à l'aune de ce qu'elle avait été.\nLe vent se leva, fit crisser les feuilles mortes contre le portail vert, et elle comprit qu'il fallait partir avant que le silence ne devienne une réponse.\nElle tourna les talons, referma le portail derrière elle avec un soin presque excessif, et ne se retourna pas.\nCertaines portes, songea-t-elle en s'éloignant, ne s'ouvrent que pour confirmer qu'on ne doit plus les franchir.",
+              "english": "The house had not changed, and that was exactly what troubled her.\nThe same green gate, the same rust at the corner of the hinge, the same smell of wet boxwood from the very first step.\nShe walked forward slowly, as if the gravel underfoot might still betray her, as it had before.\nNothing had moved, and yet everything seemed smaller: the garden wall, the tree she had thought immense, the window of her childhood bedroom.\nShe laid her hand on the door without opening it, the way one hesitates before reopening a letter one knows will be sad.\nBehind that door, she knew, there would only be furniture covered in sheets and a silence no sound would ever interrupt again.\nShe remembered then her mother, standing in that very spot, calling her name in the fading light of an August evening.\nThe voice had fallen silent long ago, but the name itself still seemed suspended between the walls.\nShe stepped back once, then again, without taking her eyes off the door, the way one backs away from too honest a mirror.\nThis was not the house she had fled for twenty years.\nIt was what she had become, measured without mercy against what she had been.\nThe wind rose, made the dead leaves rustle against the green gate, and she understood she had to leave before the silence became an answer.\nShe turned on her heel, closed the gate behind her with almost excessive care, and did not look back.\nSome doors, she thought as she walked away, open only to confirm that one must no longer cross them.",
+              "questions": [
+                { "id": "c2_u19_l02_rd01", "type": "multipleChoice", "prompt": "What does the woman do at the door of the house?", "options": ["She places her hand on it without opening it", "She opens it immediately", "She knocks on it", "She breaks a window to get in"], "answer": "She places her hand on it without opening it" },
+                { "id": "c2_u19_l02_rd02", "type": "multipleChoice", "prompt": "According to the passage, what does the woman conclude the house represents?", "options": ["What she has become, measured against what she once was", "A place she wants to move back into", "A house she has never seen before", "A house that has completely changed"], "answer": "What she has become, measured against what she once was" },
+                { "id": "c2_u19_l02_rd03", "type": "trueFalse", "prompt": "According to the passage, the woman finally goes inside the house.", "options": ["True", "False"], "answer": "False" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "c2_u19_l02_wr01", "type": "translate", "prompt": "Translate into French.", "english": "Not that the vocabulary is rare, but its arrangement surprises at every sentence.", "answer": "Non que le vocabulaire soit rare, mais son agencement surprend à chaque phrase.", "acceptedAnswers": ["non que le vocabulaire soit rare mais son agencement surprend a chaque phrase"] },
+            { "id": "c2_u19_l02_wr02", "type": "arrangeWords", "prompt": "Rebuild this sentence from the reading passage.", "words": ["pas", "La", "changé", "maison", "n'avait"], "answer": "La maison n'avait pas changé", "english": "The house had not changed." },
+            { "id": "c2_u19_l02_wr03", "type": "fillBlank", "prompt": "Cette image, qui revient à trois reprises dans l'extrait, ___ à elle seule tout le mouvement final.", "answer": "structure", "tip": "This verb means 'to give structure to' — it takes 'à elle seule' as an adverbial phrase meaning 'on its own'." }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "c2_u19_l02_pr01", "type": "multipleChoice", "prompt": "Que doit faire une citation dans un commentaire composé ?", "options": ["Être suivie d'une analyse précise du procédé qu'elle illustre", "Remplacer l'analyse elle-même", "Rester la plus longue possible", "Être citée sans être expliquée"], "answer": "Être suivie d'une analyse précise du procédé qu'elle illustre" },
+            { "id": "c2_u19_l02_pr02", "type": "match", "prompt": "Match each term with its meaning.", "pairs": [ { "french": "un axe de lecture", "english": "a reading axis" }, { "french": "un mouvement", "english": "a shift, a movement in the text" }, { "french": "le champ lexical", "english": "the lexical field" }, { "french": "une anaphore", "english": "an anaphora (rhetorical repetition)" } ] },
+            { "id": "c2_u19_l02_pr03", "type": "fillBlank", "prompt": "Le commentaire composé part d'axes de lecture, non d'une ___ à défendre.", "answer": "thèse" },
+            { "id": "c2_u19_l02_pr04", "type": "multipleChoice", "prompt": "Quelle expression signale une hypothèse de lecture prudente, plutôt qu'une certitude ?", "options": ["Il semble que", "Il est certain que", "Il est évident que", "Sans aucun doute"], "answer": "Il semble que" },
+            { "id": "c2_u19_l02_pr05", "type": "translate", "prompt": "Translate: Through this image, the narrator suggests an unease he never names directly.", "english": "Through this image, the narrator suggests an unease he never names directly.", "answer": "À travers cette image, le narrateur suggère un malaise qu'il ne nomme jamais directement.", "acceptedAnswers": ["a travers cette image le narrateur suggere un malaise qu'il ne nomme jamais directement", "a travers cette image le narrateur suggere un malaise quil ne nomme jamais directement"] },
+            { "id": "c2_u19_l02_pr06", "type": "trueFalse", "prompt": "In a commentaire composé, a paraphrase of a line counts as a full literary commentary.", "options": ["True", "False"], "answer": "False", "tip": "Paraphrase restates what the text says; commentary explains how and why it produces its effect." }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "c2_u19_l02_qz01", "type": "multipleChoice", "prompt": "Qu'est-ce qu'un axe de lecture ?", "options": ["Un ensemble d'observations regroupées autour d'une même question posée au texte", "Une citation isolée sans analyse", "La thèse défendue dans une dissertation", "Le résumé chronologique du texte"], "answer": "Un ensemble d'observations regroupées autour d'une même question posée au texte" },
+            { "id": "c2_u19_l02_qz02", "type": "fillBlank", "prompt": "Un ___ du texte correspond à un moment où le ton ou le rythme bascule.", "answer": "mouvement" },
+            { "id": "c2_u19_l02_qz03", "type": "multipleChoice", "prompt": "What is the correct order of the commentary triad?", "options": ["Citation, analyse, interprétation", "Interprétation, citation, analyse", "Analyse, interprétation, citation", "Citation, interprétation, analyse"], "answer": "Citation, analyse, interprétation" },
+            { "id": "c2_u19_l02_qz04", "type": "trueFalse", "prompt": "Le fond et la forme s'opposent toujours dans un texte littéraire.", "options": ["True", "False"], "answer": "False" },
+            { "id": "c2_u19_l02_qz05", "type": "multipleChoice", "prompt": "Quelle notion désigne le fait que la forme est la façon dont le fond se donne à lire ?", "options": ["Le fond et la forme", "La mort de l'auteur", "L'horizon d'attente", "La critique génétique"], "answer": "Le fond et la forme" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c2_u19_l03",
+      "level": "C2",
+      "unit": 19,
+      "title": "La lecture analytique",
+      "description": "Close-read a literary excerpt line by line: narrative voice and focalisation, sound and rhythm, the unsaid, and the disciplined art of building a reading hypothesis from textual evidence.",
+      "estimatedMinutes": 19,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "La lecture analytique : lire avec une grille",
+              "body": "Analytical reading breaks a text down into observable elements before risking the slightest interpretation. A grille de lecture recalls the questions to ask systematically — who speaks, how, with what rhythm, to say what — and a rigorous listing of devices always precedes, in a good reader, the formulation of a hypothesis. The method applies as well to a poem as to a paragraph of prose.",
+              "examples": [
+                { "french": "La lecture analytique décompose un texte en éléments observables avant de risquer la moindre interprétation.", "english": "Analytical reading breaks a text down into observable elements before risking the slightest interpretation." },
+                { "french": "Une grille de lecture rappelle les questions à poser systématiquement : qui parle, comment, avec quel rythme, pour dire quoi.", "english": "A reading grid recalls the questions to ask systematically: who speaks, how, with what rhythm, to say what." },
+                { "french": "Repérer avant d'interpréter : cette règle simple évite les lectures qui projettent plus qu'elles n'observent.", "english": "Spot before you interpret: this simple rule avoids readings that project more than they observe." },
+                { "french": "Un relevé rigoureux des procédés précède toujours, chez un bon lecteur, la formulation d'une hypothèse.", "english": "A rigorous listing of devices always precedes, in a good reader, the formulation of a hypothesis." },
+                { "french": "La lecture analytique s'applique aussi bien à un poème qu'à un paragraphe de prose.", "english": "Analytical reading applies just as well to a poem as to a paragraph of prose." }
+              ],
+              "tip": "Underline before you write a single sentence of commentary — a text marked up in three colours (voice, rhythm, image) already contains half the analysis."
+            },
+            {
+              "heading": "Voix, point de vue et focalisation",
+              "body": "The narrator and the author are never entirely the same, even in the first person. Internal focalisation locks the reader inside a single character's consciousness, and a sudden change of point of view deliberately destabilises them. Identifying who sees and who speaks — two questions that can have different answers in the same sentence — remains the first question of any analytical reading of a narrative.",
+              "examples": [
+                { "french": "Le narrateur et l'auteur ne se confondent jamais complètement, même à la première personne.", "english": "The narrator and the author are never entirely the same, even in the first person." },
+                { "french": "La focalisation interne enferme le lecteur dans la conscience d'un seul personnage.", "english": "Internal focalisation locks the reader inside a single character's consciousness." },
+                { "french": "Un changement soudain de point de vue déstabilise volontairement le lecteur.", "english": "A sudden change of point of view deliberately destabilises the reader." },
+                { "french": "La voix narrative se reconnaît autant à son rythme qu'à ce qu'elle choisit de taire.", "english": "The narrative voice is recognised as much by its rhythm as by what it chooses to leave unsaid." },
+                { "french": "Repérer qui voit et qui parle reste la première question de toute lecture analytique d'un récit.", "english": "Identifying who sees and who speaks remains the first question of any analytical reading of a narrative." }
+              ],
+              "tip": "'Qui parle ?' and 'qui voit ?' can have different answers in the same sentence — that gap is often where the real irony lives."
+            },
+            {
+              "heading": "Rythme, sonorités et le non-dit",
+              "body": "The rhythm of a sentence is read in its syntax as much as in its punctuation. A hard-consonant alliteration can, on its own, create a tension the meaning has not yet announced, and enjambment spills the meaning of one line onto the next, creating a suspense the rhyme then closes. The unsaid often weighs more than what is explicitly stated — and a reading hypothesis is only valid if it rests on a precise inventory, never on impression alone.",
+              "examples": [
+                { "french": "Le rythme d'une phrase se lit dans sa syntaxe autant que dans sa ponctuation.", "english": "The rhythm of a sentence is read in its syntax as much as in its punctuation." },
+                { "french": "Une allitération en consonnes dures peut à elle seule installer une tension que le sens n'annonce pas encore.", "english": "A hard-consonant alliteration can, on its own, create a tension the meaning has not yet announced." },
+                { "french": "L'enjambement fait déborder le sens d'un vers sur le suivant, créant une attente que la rime referme.", "english": "Enjambment spills the meaning of one line onto the next, creating a suspense that the rhyme then closes." },
+                { "french": "Le non-dit pèse souvent plus lourd, dans un texte, que ce qui y est explicitement formulé.", "english": "The unsaid often weighs more, in a text, than what is explicitly stated." },
+                { "french": "Une hypothèse de lecture ne vaut que si elle s'appuie sur un relevé précis, jamais sur une impression seule.", "english": "A reading hypothesis is only valid if it rests on a precise inventory, never on impression alone." }
+              ],
+              "tip": "When a text goes quiet on a subject, ask why — silence is a stylistic choice as deliberate as any word."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "la-lecture-analytique", "french": "la lecture analytique", "english": "analytical reading, close reading", "partOfSpeech": "noun", "gender": "f", "plural": "les lectures analytiques", "pronunciation": "lah lek-TUER ah-nah-lee-TEEK", "example": "La lecture analytique repère d'abord les procédés, avant de risquer une interprétation.", "exampleEnglish": "Analytical reading first spots the devices, before risking an interpretation.", "level": "C2", "category": "close-reading" },
+            { "id": "une-grille-de-lecture", "french": "une grille de lecture", "english": "a reading grid, an analytical framework", "partOfSpeech": "noun", "gender": "f", "plural": "des grilles de lecture", "pronunciation": "uen greel duh lek-TUER", "example": "Une grille de lecture rappelle les questions à poser à chaque paragraphe.", "exampleEnglish": "A reading grid recalls the questions to ask of every paragraph.", "level": "C2", "category": "close-reading" },
+            { "id": "le-narrateur", "french": "le narrateur", "english": "the narrator", "partOfSpeech": "noun", "gender": "m", "plural": "les narrateurs", "pronunciation": "luh nah-rah-TUHR", "example": "Le narrateur ne dit jamais explicitement ce qu'il redoute.", "exampleEnglish": "The narrator never explicitly says what he dreads.", "level": "C2", "category": "close-reading" },
+            { "id": "la-focalisation", "french": "la focalisation", "english": "focalisation, narrative point of view", "partOfSpeech": "noun", "gender": "f", "plural": "les focalisations", "pronunciation": "foh-kah-lee-zah-SYON", "example": "La focalisation interne enferme le lecteur dans la conscience d'un seul personnage.", "exampleEnglish": "Internal focalisation locks the reader inside a single character's consciousness.", "level": "C2", "category": "close-reading" },
+            { "id": "le-point-de-vue", "french": "le point de vue", "english": "the point of view", "partOfSpeech": "noun", "gender": "m", "plural": "les points de vue", "pronunciation": "luh pwan duh VU", "example": "Un changement soudain de point de vue déstabilise volontairement le lecteur.", "exampleEnglish": "A sudden change of point of view deliberately destabilises the reader.", "level": "C2", "category": "close-reading" },
+            { "id": "la-voix-narrative", "french": "la voix narrative", "english": "the narrative voice", "partOfSpeech": "expression", "pronunciation": "lah vwah nah-rah-TEEV", "example": "La voix narrative se reconnaît autant à son rythme qu'à ce qu'elle choisit de taire.", "exampleEnglish": "The narrative voice is recognised as much by its rhythm as by what it chooses to leave unsaid.", "level": "C2", "category": "close-reading" },
+            { "id": "le-rythme", "french": "le rythme", "english": "the rhythm", "partOfSpeech": "noun", "gender": "m", "plural": "les rythmes", "pronunciation": "luh REETM", "example": "Le rythme de la phrase s'accélère au moment précis où le danger apparaît.", "exampleEnglish": "The sentence's rhythm speeds up at the exact moment danger appears.", "level": "C2", "category": "close-reading" },
+            { "id": "la-syntaxe", "french": "la syntaxe", "english": "the syntax", "partOfSpeech": "noun", "gender": "f", "plural": "les syntaxes", "pronunciation": "lah sen-TAKS", "example": "La syntaxe hachée traduit une émotion que le narrateur ne nomme jamais.", "exampleEnglish": "The choppy syntax conveys an emotion the narrator never names.", "level": "C2", "category": "close-reading" },
+            { "id": "la-ponctuation", "french": "la ponctuation", "english": "punctuation", "partOfSpeech": "noun", "gender": "f", "plural": "les ponctuations", "pronunciation": "lah ponk-tü-ah-SYON", "example": "L'absence de ponctuation force le lecteur à retenir son souffle jusqu'à la fin.", "exampleEnglish": "The absence of punctuation forces the reader to hold their breath until the end.", "level": "C2", "category": "close-reading" },
+            { "id": "l-allitteration", "french": "l'allitération", "english": "alliteration (repeated consonant sound)", "partOfSpeech": "noun", "gender": "f", "plural": "les allitérations", "pronunciation": "lah-lee-tay-rah-SYON", "example": "Une allitération en consonnes dures installe une tension que le sens n'annonce pas encore.", "exampleEnglish": "A hard-consonant alliteration creates a tension the meaning has not yet announced.", "level": "C2", "category": "close-reading" },
+            { "id": "l-assonance", "french": "l'assonance", "english": "assonance (repeated vowel sound)", "partOfSpeech": "noun", "gender": "f", "plural": "les assonances", "pronunciation": "lah-so-NAHNSS", "example": "L'assonance en « ou » adoucit toute la dernière strophe.", "exampleEnglish": "The assonance in 'ou' softens the whole final stanza.", "level": "C2", "category": "close-reading" },
+            { "id": "le-vers", "french": "le vers", "english": "the line of verse", "partOfSpeech": "noun", "gender": "m", "plural": "les vers", "pronunciation": "luh VEHR", "example": "Le premier vers pose l'image que tout le poème va reprendre.", "exampleEnglish": "The first line sets the image the whole poem will pick up again.", "level": "C2", "category": "close-reading" },
+            { "id": "la-strophe", "french": "la strophe", "english": "the stanza", "partOfSpeech": "noun", "gender": "f", "plural": "les strophes", "pronunciation": "lah STROHF", "example": "Chaque strophe déplace légèrement le regard, sans jamais changer de sujet.", "exampleEnglish": "Each stanza shifts the gaze slightly, without ever changing subject.", "level": "C2", "category": "close-reading" },
+            { "id": "la-rime", "french": "la rime", "english": "the rhyme", "partOfSpeech": "noun", "gender": "f", "plural": "les rimes", "pronunciation": "lah REEM", "example": "La rime referme, presque trop tôt, l'attente créée par l'enjambement.", "exampleEnglish": "The rhyme closes, almost too soon, the suspense created by the enjambment.", "level": "C2", "category": "close-reading" },
+            { "id": "le-metre", "french": "le mètre", "english": "the metre (the syllable count of a line)", "partOfSpeech": "noun", "gender": "m", "plural": "les mètres", "pronunciation": "luh MEH-truh", "example": "Le mètre reste régulier, mais la césure, elle, se déplace d'une strophe à l'autre.", "exampleEnglish": "The metre stays regular, but the caesura shifts from one stanza to the next.", "level": "C2", "category": "close-reading" },
+            { "id": "le-vers-libre", "french": "le vers libre", "english": "free verse", "partOfSpeech": "noun", "gender": "m", "plural": "les vers libres", "pronunciation": "luh VEHR LEE-bruh", "example": "Le vers libre abandonne le compte fixe de syllabes, mais garde une cohérence rythmique.", "exampleEnglish": "Free verse abandons the fixed syllable count, but keeps a rhythmic coherence.", "level": "C2", "category": "close-reading" },
+            { "id": "l-enjambement", "french": "l'enjambement", "english": "the enjambment (a sentence spilling onto the next line)", "partOfSpeech": "noun", "gender": "m", "plural": "les enjambements", "pronunciation": "lahn-zhahm-bmahn", "example": "L'enjambement fait déborder le sens d'un vers sur le suivant.", "exampleEnglish": "The enjambment spills the meaning of one line onto the next.", "level": "C2", "category": "close-reading" },
+            { "id": "la-cesure", "french": "la césure", "english": "the caesura (the mid-line pause)", "partOfSpeech": "noun", "gender": "f", "plural": "les césures", "pronunciation": "lah say-ZUR", "example": "La césure coupe le vers en deux souffles inégaux.", "exampleEnglish": "The caesura cuts the line into two unequal breaths.", "level": "C2", "category": "close-reading" },
+            { "id": "la-connotation", "french": "la connotation", "english": "the connotation", "partOfSpeech": "noun", "gender": "f", "plural": "les connotations", "pronunciation": "koh-noh-tah-SYON", "example": "Le mot choisi porte une connotation funèbre que le contexte confirme aussitôt.", "exampleEnglish": "The word chosen carries a funereal connotation the context immediately confirms.", "level": "C2", "category": "close-reading" },
+            { "id": "la-denotation", "french": "la dénotation", "english": "denotation, literal meaning", "partOfSpeech": "noun", "gender": "f", "plural": "les dénotations", "pronunciation": "day-noh-tah-SYON", "example": "La dénotation reste neutre ; c'est la connotation qui installe le malaise.", "exampleEnglish": "The denotation stays neutral; it is the connotation that installs the unease.", "level": "C2", "category": "close-reading" },
+            { "id": "le-symbole", "french": "le symbole", "english": "the symbol", "partOfSpeech": "noun", "gender": "m", "plural": "les symboles", "pronunciation": "luh san-BOL", "example": "La porte fermée devient, au fil du texte, le symbole d'un renoncement.", "exampleEnglish": "The closed door becomes, over the course of the text, the symbol of a renunciation.", "level": "C2", "category": "close-reading" },
+            { "id": "la-polysemie", "french": "la polysémie", "english": "polysemy (multiple related senses in one word)", "partOfSpeech": "noun", "gender": "f", "pronunciation": "poh-lee-say-MEE", "example": "La polysémie du mot choisi entretient volontairement l'ambiguïté du vers.", "exampleEnglish": "The polysemy of the chosen word deliberately maintains the line's ambiguity.", "level": "C2", "category": "close-reading" },
+            { "id": "l-ambiguite", "french": "l'ambiguïté", "english": "ambiguity", "partOfSpeech": "noun", "gender": "f", "plural": "les ambiguïtés", "pronunciation": "lahn-bee-gwee-TAY", "example": "Cette ambiguïté n'est sans doute pas un défaut du texte, mais son projet même.", "exampleEnglish": "This ambiguity is probably not a flaw in the text, but its very design.", "level": "C2", "category": "close-reading" },
+            { "id": "la-polyphonie", "french": "la polyphonie", "english": "polyphony (multiple voices coexisting within a text)", "partOfSpeech": "noun", "gender": "f", "pronunciation": "poh-lee-foh-NEE", "example": "La polyphonie du dialogue laisse entendre trois voix sans jamais les hiérarchiser.", "exampleEnglish": "The polyphony of the dialogue lets three voices be heard without ever ranking them.", "level": "C2", "category": "close-reading" },
+            { "id": "le-sous-texte", "french": "le sous-texte", "english": "the subtext", "partOfSpeech": "noun", "gender": "m", "plural": "les sous-textes", "pronunciation": "luh soo-TEKST", "example": "Le sous-texte de cette réplique porte une accusation qu'aucun mot ne formule.", "exampleEnglish": "The subtext of this line carries an accusation no word states outright.", "level": "C2", "category": "close-reading" },
+            { "id": "une-cle-de-lecture", "french": "une clé de lecture", "english": "a key to reading, an interpretive key", "partOfSpeech": "noun", "gender": "f", "plural": "des clés de lecture", "pronunciation": "uen klay duh lek-TUER", "example": "Ce seul détail fournit une clé de lecture pour tout le reste du texte.", "exampleEnglish": "This single detail provides a key to reading the rest of the text.", "level": "C2", "category": "close-reading" },
+            { "id": "le-non-dit", "french": "le non-dit", "english": "the unsaid, what remains unspoken", "partOfSpeech": "noun", "gender": "m", "plural": "les non-dits", "pronunciation": "luh nohn-DEE", "example": "Le non-dit pèse souvent plus lourd que ce qui est explicitement formulé.", "exampleEnglish": "The unsaid often weighs more than what is explicitly stated.", "level": "C2", "category": "close-reading" },
+            { "id": "la-tension-narrative", "french": "la tension narrative", "english": "narrative tension", "partOfSpeech": "expression", "pronunciation": "lah tahn-SYON nah-rah-TEEV", "example": "La tension narrative monte sans qu'aucun événement extérieur ne se produise.", "exampleEnglish": "Narrative tension rises without any external event taking place.", "level": "C2", "category": "close-reading" },
+            { "id": "l-image-poetique", "french": "l'image poétique", "english": "the poetic image", "partOfSpeech": "expression", "pronunciation": "lee-mazh poh-ay-TEEK", "example": "L'image poétique de la marée basse résume, à elle seule, tout le poème.", "exampleEnglish": "The poetic image of the low tide sums up, on its own, the entire poem.", "level": "C2", "category": "close-reading" },
+            { "id": "la-sonorite", "french": "la sonorité", "english": "the sound quality", "partOfSpeech": "noun", "gender": "f", "plural": "les sonorités", "pronunciation": "lah soh-noh-ree-TAY", "example": "Les sonorités douces du dernier vers contrastent avec la dureté du premier.", "exampleEnglish": "The soft sound qualities of the last line contrast with the harshness of the first.", "level": "C2", "category": "close-reading" },
+            { "id": "la-cadence", "french": "la cadence", "english": "the cadence, the pacing", "partOfSpeech": "noun", "gender": "f", "plural": "les cadences", "pronunciation": "lah kah-DAHNSS", "example": "La cadence régulière de la phrase berce presque le lecteur avant la rupture finale.", "exampleEnglish": "The regular cadence of the sentence almost lulls the reader before the final break.", "level": "C2", "category": "close-reading" },
+            { "id": "un-releve", "french": "un relevé", "english": "a systematic listing, an inventory (of textual evidence)", "partOfSpeech": "noun", "gender": "m", "plural": "des relevés", "pronunciation": "uhn ruh-luh-VAY", "example": "Un relevé précis des occurrences précède toute hypothèse de lecture sérieuse.", "exampleEnglish": "A precise listing of occurrences precedes any serious reading hypothesis.", "level": "C2", "category": "close-reading" },
+            { "id": "une-hypothese-de-lecture", "french": "une hypothèse de lecture", "english": "a reading hypothesis", "partOfSpeech": "noun", "gender": "f", "plural": "des hypothèses de lecture", "pronunciation": "uen ee-poh-TEZ duh lek-TUER", "example": "Une hypothèse de lecture ne vaut que si elle s'appuie sur un relevé précis.", "exampleEnglish": "A reading hypothesis is only valid if it rests on a precise inventory.", "level": "C2", "category": "close-reading" },
+            { "id": "mettre-en-tension", "french": "mettre en tension", "english": "to set in tension, to juxtapose (two elements of a text)", "partOfSpeech": "expression", "pronunciation": "METR ahn tahn-SYON", "example": "Le poème met en tension le mouvement de la mer et l'immobilité du souvenir.", "exampleEnglish": "The poem sets the movement of the sea in tension with the stillness of memory.", "level": "C2", "category": "close-reading" },
+            { "id": "une-piste-d-interpretation", "french": "une piste d'interprétation", "english": "an interpretive lead, an avenue of interpretation", "partOfSpeech": "noun", "gender": "f", "plural": "des pistes d'interprétation", "pronunciation": "uen peest dan-tehr-pray-tah-SYON", "example": "Deux pistes d'interprétation coexistent ici sans que le texte ne tranche jamais entre elles.", "exampleEnglish": "Two interpretive leads coexist here without the text ever settling between them.", "level": "C2", "category": "close-reading" },
+            { "id": "le-double-sens", "french": "le double sens", "english": "the double meaning", "partOfSpeech": "noun", "gender": "m", "plural": "les doubles sens", "pronunciation": "luh DOO-bluh SAHNSS", "example": "Le double sens du dernier mot renverse la lecture de tout le poème.", "exampleEnglish": "The double meaning of the last word overturns the reading of the entire poem.", "level": "C2", "category": "close-reading" },
+            { "id": "une-observation", "french": "une observation", "english": "an observation (a noted textual detail)", "partOfSpeech": "noun", "gender": "f", "plural": "des observations", "pronunciation": "uen ob-sehr-vah-SYON", "example": "Une observation isolée ne vaut rien tant qu'elle n'est pas reliée à une autre.", "exampleEnglish": "An isolated observation is worth nothing until it is connected to another.", "level": "C2", "category": "close-reading" },
+            { "id": "la-trame", "french": "la trame", "english": "the underlying thread, the narrative fabric", "partOfSpeech": "noun", "gender": "f", "plural": "les trames", "pronunciation": "lah TRAHM", "example": "La trame sonore du poème se resserre à mesure que le sens se dérobe.", "exampleEnglish": "The poem's sonic thread tightens as its meaning slips away.", "level": "C2", "category": "close-reading" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Le présent de l'analyse littéraire",
+              "body": "Literary analysis uses the present tense even for a text written in the past — the text 'does' something every time it is read, not just once when it was written. This literary present pairs naturally with strong, precise verbs: évoquer, multiplier, opposer, installer, suspendre, ménager.",
+              "examples": [
+                { "french": "Le poète multiplie les sonorités en [k] pour évoquer la dureté du paysage.", "english": "The poet multiplies [k] sounds to evoke the harshness of the landscape.", "note": "literary present + strong verb" },
+                { "french": "Le narrateur oppose, dès la première phrase, le silence de la maison au vacarme de la rue.", "english": "The narrator contrasts, from the first sentence, the silence of the house with the noise of the street." },
+                { "french": "Cette répétition installe un doute que la suite du texte ne dissipe jamais tout à fait.", "english": "This repetition installs a doubt that the rest of the text never entirely dispels." },
+                { "french": "Le vers suivant suspend le sens, avant que la césure ne le referme d'un coup sec.", "english": "The next line suspends the meaning, before the caesura closes it with a sharp snap." },
+                { "french": "L'auteur ménage un silence, puis le rompt d'une image inattendue.", "english": "The author leaves a silence, then breaks it with an unexpected image." }
+              ],
+              "tip": "Analyse literary texts in the present, even for a text written in the past tense — the text 'does' something every time it is read, not just once when it was written."
+            },
+            {
+              "heading": "Exprimer une hypothèse sans trancher",
+              "body": "Holding two readings in tension without settling between them calls for a family of constructions: tout porte à croire que... sans qu'on puisse pourtant exclure..., on pourrait tout aussi bien lire X que Y, à moins que + subjunctive, and sans que + subjunctive.",
+              "examples": [
+                { "french": "Tout porte à croire que ce silence est un aveu, sans qu'on puisse pourtant exclure une simple pudeur.", "english": "Everything suggests this silence is a confession, though a simple reticence cannot be ruled out.", "note": "sans que + subjunctive" },
+                { "french": "On pourrait tout aussi bien lire cette image comme un regret que comme une menace.", "english": "This image could just as well be read as regret as it could as a threat." },
+                { "french": "À moins que cette hésitation syntaxique ne traduise, déjà, l'incertitude du personnage lui-même.", "english": "Unless this syntactic hesitation already conveys the character's own uncertainty.", "note": "à moins que + subjunctive" },
+                { "french": "Cette ambiguïté n'est sans doute pas un défaut du texte, mais son projet même.", "english": "This ambiguity is probably not a flaw in the text, but its very design." },
+                { "french": "Deux pistes d'interprétation coexistent ici sans que le texte ne tranche jamais entre elles.", "english": "Two interpretive avenues coexist here without the text ever settling between them.", "note": "sans que + subjunctive" }
+              ],
+              "tip": "'Sans que' and 'à moins que' both take the subjunctive and often the optional 'ne explétif' (sans qu'on ne puisse) — keep it light, it adds no negative meaning."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "c2_u19_l03_li01", "type": "listenChoose", "prompt": "Listen. Which term is being described?", "french": "Ce type de focalisation enferme le lecteur dans la conscience d'un seul personnage.", "options": ["La focalisation interne", "La focalisation externe", "La voix narrative", "Le champ lexical"], "answer": "La focalisation interne" },
+            { "id": "c2_u19_l03_li02", "type": "listenChoose", "prompt": "Listen. Which device is being described?", "french": "Ce procédé fait déborder le sens d'un vers sur le suivant.", "options": ["L'enjambement", "La césure", "L'assonance", "La rime"], "answer": "L'enjambement" },
+            { "id": "c2_u19_l03_li03", "type": "listenType", "prompt": "Listen and type this sentence exactly.", "french": "Le non-dit pèse souvent plus lourd, dans un texte, que ce qui y est explicitement formulé.", "answer": "Le non-dit pèse souvent plus lourd, dans un texte, que ce qui y est explicitement formulé.", "acceptedAnswers": ["le non-dit pese souvent plus lourd dans un texte que ce qui y est explicitement formule", "le non dit pese souvent plus lourd dans un texte que ce qui y est explicitement formule"] },
+            { "id": "c2_u19_l03_li04", "type": "dictation", "prompt": "Dictation: write down this sentence exactly.", "french": "Une hypothèse de lecture ne vaut que si elle s'appuie sur un relevé précis.", "answer": "Une hypothèse de lecture ne vaut que si elle s'appuie sur un relevé précis.", "acceptedAnswers": ["une hypothese de lecture ne vaut que si elle s'appuie sur un releve precis", "une hypothese de lecture ne vaut que si elle sappuie sur un releve precis"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "c2_u19_l03_sp01", "type": "speak", "prompt": "Perform this sentence so your own sounds echo what it describes.", "french": "Le poète multiplie les sonorités en [k] pour évoquer la dureté du paysage.", "english": "The poet multiplies [k] sounds to evoke the harshness of the landscape.", "tip": "Let your own consonants land hard on 'dureté' — perform the sound effect you are describing." },
+            { "id": "c2_u19_l03_sp02", "type": "speak", "prompt": "Deliver this hedged hypothesis with genuine hesitation in your voice.", "french": "Tout porte à croire que ce silence est un aveu, sans qu'on puisse pourtant exclure une simple pudeur.", "english": "Everything suggests this silence is a confession, though a simple reticence cannot be ruled out.", "tip": "Keep 'sans qu'on puisse pourtant exclure' light and fast — it is a qualifier, not the main claim." },
+            { "id": "c2_u19_l03_sp03", "type": "speak", "prompt": "State this balanced observation giving equal weight to both readings.", "french": "Deux pistes d'interprétation coexistent ici sans que le texte ne tranche jamais entre elles.", "english": "Two interpretive avenues coexist here without the text ever settling between them.", "tip": "Give equal weight to both halves of the sentence — the whole point is that neither reading wins." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Marée basse",
+              "french": "La mer se retire et laisse\nSur le sable un grand silence,\nOù chaque pas qui s'y presse\nEfface une autre présence.\n\nJe reconnais cette rive\nSans savoir ce qu'elle attend,\nComme une phrase qui vive\nEncore, mais sans plus d'instant.\n\nLe vent reprend ce que j'aime,\nLe sel garde ce qu'il prend,\nEt je marche vers moi-même\nEn suivant l'eau qui descend.\n\nRien ne reste que l'empreinte\nD'un pas déjà recouvert —\nAinsi s'écrit, sans contrainte,\nCe que la mer a ouvert.",
+              "english": "The sea withdraws and leaves\nUpon the sand a great silence,\nWhere every hurried step\nErases another presence.\n\nI recognise this shore\nWithout knowing what it awaits,\nLike a sentence still alive\nBut with no more time left.\n\nThe wind takes back what I love,\nThe salt keeps what it takes,\nAnd I walk towards myself\nFollowing the receding water.\n\nNothing remains but the print\nOf a footstep already covered —\nThus is written, without constraint,\nWhat the sea has opened.",
+              "questions": [
+                { "id": "c2_u19_l03_rd01", "type": "multipleChoice", "prompt": "What recurring image structures the poem?", "options": ["The sea and the shore", "A city street", "A forest at night", "A childhood classroom"], "answer": "The sea and the shore" },
+                { "id": "c2_u19_l03_rd02", "type": "multipleChoice", "prompt": "According to the last stanza, what is compared to writing (s'écrit)?", "options": ["What the sea has left behind", "A letter never sent", "A song half-remembered", "A name carved in stone"], "answer": "What the sea has left behind" },
+                { "id": "c2_u19_l03_rd03", "type": "trueFalse", "prompt": "The poem is written in free verse with no rhyme at all.", "options": ["True", "False"], "answer": "False" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "c2_u19_l03_wr01", "type": "translate", "prompt": "Translate into French.", "english": "This ambiguity is probably not a flaw in the text, but its very design.", "answer": "Cette ambiguïté n'est sans doute pas un défaut du texte, mais son projet même.", "acceptedAnswers": ["cette ambiguite n'est sans doute pas un defaut du texte mais son projet meme", "cette ambiguite nest sans doute pas un defaut du texte mais son projet meme"] },
+            { "id": "c2_u19_l03_wr02", "type": "arrangeWords", "prompt": "Rebuild this line from the poem.", "words": ["se", "La", "et", "retire", "laisse", "mer"], "answer": "La mer se retire et laisse", "english": "The sea withdraws and leaves" },
+            { "id": "c2_u19_l03_wr03", "type": "fillBlank", "prompt": "L'___ fait déborder le sens d'un vers sur le suivant.", "answer": "enjambement", "tip": "This device lets a sentence's meaning spill past the end of the line." }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "c2_u19_l03_pr01", "type": "multipleChoice", "prompt": "Qu'est-ce que la focalisation interne ?", "options": ["Le fait d'enfermer le lecteur dans la conscience d'un seul personnage", "Une figure de répétition en début de phrase", "Un procédé de rime croisée", "Le résumé chronologique d'un récit"], "answer": "Le fait d'enfermer le lecteur dans la conscience d'un seul personnage" },
+            { "id": "c2_u19_l03_pr02", "type": "match", "prompt": "Match each term with its meaning.", "pairs": [ { "french": "la strophe", "english": "the stanza" }, { "french": "la césure", "english": "the caesura" }, { "french": "l'enjambement", "english": "the enjambment" }, { "french": "l'assonance", "english": "assonance" } ] },
+            { "id": "c2_u19_l03_pr03", "type": "fillBlank", "prompt": "Une hypothèse de lecture s'appuie sur un ___ précis des procédés du texte.", "answer": "relevé" },
+            { "id": "c2_u19_l03_pr04", "type": "multipleChoice", "prompt": "Que révèle un changement soudain de point de vue ?", "options": ["Une volonté de déstabiliser le lecteur", "Une erreur de l'auteur", "Un manque de rigueur du texte", "Une figure de style sonore"], "answer": "Une volonté de déstabiliser le lecteur" },
+            { "id": "c2_u19_l03_pr05", "type": "translate", "prompt": "Translate: The rhythm of a sentence is read in its syntax as much as in its punctuation.", "english": "The rhythm of a sentence is read in its syntax as much as in its punctuation.", "answer": "Le rythme d'une phrase se lit dans sa syntaxe autant que dans sa ponctuation.", "acceptedAnswers": ["le rythme d'une phrase se lit dans sa syntaxe autant que dans sa ponctuation", "le rythme dune phrase se lit dans sa syntaxe autant que dans sa ponctuation"] },
+            { "id": "c2_u19_l03_pr06", "type": "trueFalse", "prompt": "In a literary analysis, the unsaid (le non-dit) can carry more meaning than what is explicitly written.", "options": ["True", "False"], "answer": "True" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "c2_u19_l03_qz01", "type": "multipleChoice", "prompt": "Que signifie « la focalisation » ?", "options": ["Le point de vue à travers lequel un récit est raconté", "La longueur d'un vers", "La forme fixe d'un poème", "La rime d'un poème"], "answer": "Le point de vue à travers lequel un récit est raconté" },
+            { "id": "c2_u19_l03_qz02", "type": "fillBlank", "prompt": "L'___ fait déborder le sens d'un vers sur le vers suivant.", "answer": "enjambement" },
+            { "id": "c2_u19_l03_qz03", "type": "multipleChoice", "prompt": "What does 'le non-dit' refer to in close reading?", "options": ["What a text leaves unspoken but implies", "A grammatical error", "A footnote added by an editor", "A rhyme scheme"], "answer": "What a text leaves unspoken but implies" },
+            { "id": "c2_u19_l03_qz04", "type": "trueFalse", "prompt": "Une lecture analytique se contente d'une impression générale, sans relevé précis des procédés.", "options": ["True", "False"], "answer": "False" },
+            { "id": "c2_u19_l03_qz05", "type": "multipleChoice", "prompt": "Quel terme désigne la pause qui coupe un vers en deux ?", "options": ["La césure", "La rime", "L'assonance", "Le mètre"], "answer": "La césure" }
+          ]
+        }
+      ]
+    }
+  ]
+}

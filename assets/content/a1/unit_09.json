@@ -1,0 +1,881 @@
+{
+  "id": "a1_u09",
+  "level": "A1",
+  "unit": 9,
+  "title": "Shopping",
+  "subtitle": "Buy food and clothes and ask about prices",
+  "icon": "🛍️",
+  "lessons": [
+    {
+      "id": "a1_u09_l01",
+      "level": "A1",
+      "unit": 9,
+      "title": "Au marché",
+      "description": "Buy fruit and vegetables at the market and ask for quantities.",
+      "estimatedMinutes": 12,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "At the market",
+              "body": "French markets are full of fresh fruits (les fruits) and vegetables (les légumes). To ask for something politely, start with \"Je voudrais...\" (I would like...).",
+              "examples": [
+                { "french": "Je voudrais des pommes, s'il vous plaît.", "english": "I would like some apples, please." },
+                { "french": "Vous désirez ?", "english": "What would you like?", "note": "what the seller asks you" },
+                { "french": "Et avec ça ?", "english": "Anything else?", "note": "literally: and with that?" },
+                { "french": "Je voudrais aussi une salade, s'il vous plaît.", "english": "I would also like a lettuce, please." },
+                { "french": "Voilà, madame !", "english": "Here you are, ma'am!", "note": "what the seller says when handing you something" }
+              ],
+              "tip": "Always greet the seller with \"Bonjour !\" before ordering — it is the golden rule of French shopping."
+            },
+            {
+              "heading": "Quantities and prices",
+              "body": "After a quantity, use \"de\" (or \"d'\" before a vowel): \"un kilo de tomates\", never \"un kilo des tomates\". To ask a price, use \"Combien coûte...?\" for one thing and \"Combien coûtent...?\" for several.",
+              "examples": [
+                { "french": "Un kilo de pommes, s'il vous plaît.", "english": "A kilo of apples, please." },
+                { "french": "Combien coûte le melon ?", "english": "How much does the melon cost?" },
+                { "french": "Combien coûtent les fraises ?", "english": "How much do the strawberries cost?" },
+                { "french": "Un kilo d'oignons, s'il vous plaît.", "english": "A kilo of onions, please.", "note": "de becomes d' before a vowel" },
+                { "french": "Ça fait trois euros.", "english": "That comes to three euros." }
+              ],
+              "tip": "You can also simply ask \"C'est combien ?\" — how much is it?"
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "marche", "french": "le marché", "english": "market", "partOfSpeech": "noun", "gender": "m", "pronunciation": "mar-SHAY", "example": "Je vais au marché.", "exampleEnglish": "I am going to the market.", "level": "A1", "category": "shopping" },
+            { "id": "pomme", "french": "la pomme", "english": "apple", "partOfSpeech": "noun", "gender": "f", "pronunciation": "pom", "example": "Je voudrais trois pommes.", "exampleEnglish": "I would like three apples.", "level": "A1", "category": "food" },
+            { "id": "banane", "french": "la banane", "english": "banana", "partOfSpeech": "noun", "gender": "f", "pronunciation": "bah-NAHN", "example": "La banane est jaune.", "exampleEnglish": "The banana is yellow.", "level": "A1", "category": "food" },
+            { "id": "fraise", "french": "la fraise", "english": "strawberry", "partOfSpeech": "noun", "gender": "f", "pronunciation": "frez", "example": "J'adore les fraises !", "exampleEnglish": "I love strawberries!", "level": "A1", "category": "food" },
+            { "id": "tomate", "french": "la tomate", "english": "tomato", "partOfSpeech": "noun", "gender": "f", "pronunciation": "toh-MAHT", "example": "Un kilo de tomates, s'il vous plaît.", "exampleEnglish": "A kilo of tomatoes, please.", "level": "A1", "category": "food" },
+            { "id": "carotte", "french": "la carotte", "english": "carrot", "partOfSpeech": "noun", "gender": "f", "pronunciation": "kah-ROT", "example": "Les carottes sont orange.", "exampleEnglish": "Carrots are orange.", "level": "A1", "category": "food" },
+            { "id": "legume", "french": "le légume", "english": "vegetable", "partOfSpeech": "noun", "gender": "m", "pronunciation": "lay-GUHM", "example": "Je mange des légumes.", "exampleEnglish": "I eat vegetables.", "level": "A1", "category": "food" },
+            { "id": "fruit", "french": "le fruit", "english": "fruit", "partOfSpeech": "noun", "gender": "m", "pronunciation": "frwee", "example": "La pomme est un fruit.", "exampleEnglish": "The apple is a fruit.", "level": "A1", "category": "food" },
+            { "id": "kilo", "french": "le kilo", "english": "kilo", "partOfSpeech": "noun", "gender": "m", "pronunciation": "kee-LOH", "example": "Un kilo de carottes, s'il vous plaît.", "exampleEnglish": "A kilo of carrots, please.", "level": "A1", "category": "shopping" },
+            { "id": "orange", "french": "l'orange", "english": "orange", "partOfSpeech": "noun", "gender": "f", "pronunciation": "oh-RAHNZH", "example": "Je voudrais un kilo d'oranges.", "exampleEnglish": "I would like a kilo of oranges.", "level": "A1", "category": "food" },
+            { "id": "poire", "french": "la poire", "english": "pear", "partOfSpeech": "noun", "gender": "f", "pronunciation": "pwahr", "example": "Les poires sont très bonnes.", "exampleEnglish": "The pears are very good.", "level": "A1", "category": "food" },
+            { "id": "melon", "french": "le melon", "english": "melon", "partOfSpeech": "noun", "gender": "m", "pronunciation": "muh-LOHN", "example": "Combien coûte le melon ?", "exampleEnglish": "How much does the melon cost?", "level": "A1", "category": "food" },
+            { "id": "pomme-de-terre", "french": "la pomme de terre", "english": "potato", "partOfSpeech": "noun", "gender": "f", "pronunciation": "pom duh TEHR", "example": "Un kilo de pommes de terre, s'il vous plaît.", "exampleEnglish": "A kilo of potatoes, please.", "level": "A1", "category": "food" },
+            { "id": "oignon", "french": "l'oignon", "english": "onion", "partOfSpeech": "noun", "gender": "m", "pronunciation": "oh-NYOHN", "example": "Je voudrais trois oignons.", "exampleEnglish": "I would like three onions.", "level": "A1", "category": "food" },
+            { "id": "vendeur", "french": "le vendeur", "english": "seller / vendor", "partOfSpeech": "noun", "gender": "m", "pronunciation": "vahn-DUHR", "example": "Le vendeur est très gentil.", "exampleEnglish": "The seller is very kind.", "level": "A1", "category": "shopping" }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a1_u09_l01_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What does it mean?",
+              "french": "Je voudrais un kilo de pommes.",
+              "options": ["I would like a kilo of apples.", "I would like a kilo of tomatoes.", "I would like three bananas.", "I would like some strawberries."],
+              "answer": "I would like a kilo of apples."
+            },
+            {
+              "id": "a1_u09_l01_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. What is the customer asking?",
+              "french": "Combien coûtent les fraises ?",
+              "options": ["The price of the strawberries", "The price of the tomatoes", "Where the market is", "What time it is"],
+              "answer": "The price of the strawberries"
+            },
+            {
+              "id": "a1_u09_l01_li03",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Je voudrais des tomates.",
+              "answer": "Je voudrais des tomates.",
+              "acceptedAnswers": ["je voudrais des tomates"]
+            },
+            {
+              "id": "a1_u09_l01_li04",
+              "type": "dictation",
+              "prompt": "Dictation: write the sentence you hear.",
+              "french": "Un kilo de carottes, s'il vous plaît.",
+              "answer": "Un kilo de carottes, s'il vous plaît.",
+              "acceptedAnswers": ["un kilo de carottes sil vous plait", "un kilo de carottes s il vous plait"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a1_u09_l01_sp01",
+              "type": "speak",
+              "prompt": "Ask for a kilo of apples.",
+              "french": "Je voudrais un kilo de pommes",
+              "english": "I would like a kilo of apples",
+              "tip": "\"Voudrais\" is voo-DREH — the final s is silent."
+            },
+            {
+              "id": "a1_u09_l01_sp02",
+              "type": "speak",
+              "prompt": "Ask how much the tomatoes cost.",
+              "french": "Combien coûtent les tomates ?",
+              "english": "How much do the tomatoes cost?",
+              "tip": "\"Combien\" ends with a nasal sound: kohm-BYAN."
+            },
+            {
+              "id": "a1_u09_l01_sp03",
+              "type": "speak",
+              "prompt": "Ask politely for a kilo of strawberries.",
+              "french": "Un kilo de fraises, s'il vous plaît",
+              "english": "A kilo of strawberries, please",
+              "tip": "\"Fraises\" is frez — one syllable, with a soft z at the end."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Au marché",
+              "french": "— Bonjour, monsieur ! Vous désirez ?\n— Bonjour ! Je voudrais un kilo de tomates et des fraises, s'il vous plaît.\n— Voilà. Et avec ça ?\n— C'est tout, merci. Combien ça coûte ?\n— Quatre euros cinquante, s'il vous plaît.",
+              "english": "— Hello, sir! What would you like?\n— Hello! I would like a kilo of tomatoes and some strawberries, please.\n— Here you are. Anything else?\n— That's all, thanks. How much is it?\n— Four euros fifty, please.",
+              "questions": [
+                {
+                  "id": "a1_u09_l01_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "What does the customer buy?",
+                  "options": ["Tomatoes and strawberries", "Apples and bananas", "Carrots and tomatoes", "Only strawberries"],
+                  "answer": "Tomatoes and strawberries"
+                },
+                {
+                  "id": "a1_u09_l01_rd02",
+                  "type": "trueFalse",
+                  "prompt": "The customer pays four euros fifty.",
+                  "options": ["True", "False"],
+                  "answer": "True"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a1_u09_l01_wr01",
+              "type": "translate",
+              "prompt": "Translate into French: \"I would like a kilo of bananas.\"",
+              "english": "I would like a kilo of bananas.",
+              "answer": "Je voudrais un kilo de bananes.",
+              "acceptedAnswers": ["je voudrais un kilo de bananes"]
+            },
+            {
+              "id": "a1_u09_l01_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "How much do the apples cost?",
+              "words": ["les", "Combien", "pommes", "coûtent"],
+              "answer": "Combien coûtent les pommes"
+            },
+            {
+              "id": "a1_u09_l01_wr03",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Un kilo ___ pommes, s'il vous plaît.\"",
+              "answer": "de",
+              "hint": "After a quantity, always this little word."
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a1_u09_l01_pr01",
+              "type": "multipleChoice",
+              "prompt": "Which one is a fruit?",
+              "options": ["la poire", "la carotte", "l'oignon", "la pomme de terre"],
+              "answer": "la poire"
+            },
+            {
+              "id": "a1_u09_l01_pr02",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Je ___ des pommes, s'il vous plaît.\" (would like)",
+              "answer": "voudrais"
+            },
+            {
+              "id": "a1_u09_l01_pr03",
+              "type": "translate",
+              "prompt": "Translate into French: \"I would like a kilo of oranges.\"",
+              "english": "I would like a kilo of oranges.",
+              "answer": "Je voudrais un kilo d'oranges.",
+              "acceptedAnswers": ["je voudrais un kilo doranges", "je voudrais un kilo d oranges", "je voudrais un kilo d'oranges"]
+            },
+            {
+              "id": "a1_u09_l01_pr04",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "How much does the melon cost?",
+              "words": ["coûte", "melon", "Combien", "le"],
+              "answer": "Combien coûte le melon"
+            },
+            {
+              "id": "a1_u09_l01_pr05",
+              "type": "listenChoose",
+              "prompt": "Listen. What does the customer want?",
+              "french": "Un kilo de pommes de terre, s'il vous plaît.",
+              "options": ["A kilo of potatoes", "A kilo of apples", "A kilo of onions", "Three pears"],
+              "answer": "A kilo of potatoes"
+            },
+            {
+              "id": "a1_u09_l01_pr06",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "l'orange", "english": "orange" },
+                { "french": "la poire", "english": "pear" },
+                { "french": "l'oignon", "english": "onion" },
+                { "french": "le vendeur", "english": "seller" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a1_u09_l01_qz01",
+              "type": "multipleChoice",
+              "prompt": "Which one is a vegetable?",
+              "options": ["la carotte", "la fraise", "la banane", "la pomme"],
+              "answer": "la carotte"
+            },
+            {
+              "id": "a1_u09_l01_qz02",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "la pomme", "english": "apple" },
+                { "french": "la fraise", "english": "strawberry" },
+                { "french": "la carotte", "english": "carrot" },
+                { "french": "le marché", "english": "market" }
+              ]
+            },
+            {
+              "id": "a1_u09_l01_qz03",
+              "type": "trueFalse",
+              "prompt": "After \"un kilo\", French uses \"de\": un kilo de tomates.",
+              "options": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "a1_u09_l01_qz04",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Combien ___ les bananes ?\" (cost)",
+              "answer": "coûtent",
+              "acceptedAnswers": ["coutent"]
+            },
+            {
+              "id": "a1_u09_l01_qz05",
+              "type": "multipleChoice",
+              "prompt": "At the market, \"Vous désirez ?\" means:",
+              "options": ["What would you like?", "How are you?", "How much is it?", "Anything else?"],
+              "answer": "What would you like?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1_u09_l02",
+      "level": "A1",
+      "unit": 9,
+      "title": "Les vêtements",
+      "description": "Name clothes and describe them with colors that agree.",
+      "estimatedMinutes": 13,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "What are you wearing?",
+              "body": "The verb \"porter\" means \"to wear\". Common clothes: un pantalon (trousers), une robe (a dress), une chemise (a shirt), un manteau (a coat), des chaussures (shoes).",
+              "examples": [
+                { "french": "Je porte un pantalon.", "english": "I am wearing trousers." },
+                { "french": "Elle porte une robe.", "english": "She is wearing a dress." },
+                { "french": "Il porte un manteau et des chaussures.", "english": "He is wearing a coat and shoes." },
+                { "french": "Elle porte une jupe et un pull.", "english": "She is wearing a skirt and a sweater." },
+                { "french": "Qu'est-ce que tu portes aujourd'hui ?", "english": "What are you wearing today?" }
+              ],
+              "tip": "\"Un pantalon\" is singular in French — one pair of trousers is one pantalon."
+            },
+            {
+              "heading": "Colors come after",
+              "body": "In French, the color follows the noun: \"un pantalon noir\" (black trousers), \"une robe rouge\" (a red dress). Common colors: noir (black), blanc (white), rouge (red), bleu (blue), vert (green).",
+              "examples": [
+                { "french": "un pantalon noir", "english": "black trousers" },
+                { "french": "une robe rouge", "english": "a red dress" },
+                { "french": "des chaussures blanches", "english": "white shoes" },
+                { "french": "un chapeau vert", "english": "a green hat" },
+                { "french": "une jupe jaune", "english": "a yellow skirt" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "pantalon", "french": "le pantalon", "english": "trousers / pants", "partOfSpeech": "noun", "gender": "m", "pronunciation": "pahn-tah-LOHN", "example": "Je porte un pantalon noir.", "exampleEnglish": "I am wearing black trousers.", "level": "A1", "category": "clothes" },
+            { "id": "robe", "french": "la robe", "english": "dress", "partOfSpeech": "noun", "gender": "f", "pronunciation": "rob", "example": "Elle porte une robe rouge.", "exampleEnglish": "She is wearing a red dress.", "level": "A1", "category": "clothes" },
+            { "id": "chemise", "french": "la chemise", "english": "shirt", "partOfSpeech": "noun", "gender": "f", "pronunciation": "shuh-MEEZ", "example": "Il porte une chemise blanche.", "exampleEnglish": "He is wearing a white shirt.", "level": "A1", "category": "clothes" },
+            { "id": "manteau", "french": "le manteau", "english": "coat", "partOfSpeech": "noun", "gender": "m", "pronunciation": "mahn-TOH", "example": "En hiver, je porte un manteau.", "exampleEnglish": "In winter, I wear a coat.", "level": "A1", "category": "clothes" },
+            { "id": "chaussures", "french": "les chaussures", "english": "shoes", "partOfSpeech": "noun", "gender": "f", "pronunciation": "shoh-SUHR", "example": "J'aime tes chaussures !", "exampleEnglish": "I like your shoes!", "level": "A1", "category": "clothes" },
+            { "id": "porter", "french": "porter", "english": "to wear / to carry", "partOfSpeech": "verb", "pronunciation": "por-TAY", "example": "Je porte une chemise bleue.", "exampleEnglish": "I am wearing a blue shirt.", "level": "A1", "category": "clothes" },
+            { "id": "noir", "french": "noir / noire", "english": "black", "partOfSpeech": "adjective", "pronunciation": "nwahr", "example": "Il porte un pantalon noir.", "exampleEnglish": "He is wearing black trousers.", "level": "A1", "category": "colors" },
+            { "id": "rouge", "french": "rouge", "english": "red", "partOfSpeech": "adjective", "pronunciation": "roozh", "example": "La robe rouge est jolie.", "exampleEnglish": "The red dress is pretty.", "level": "A1", "category": "colors" },
+            { "id": "bleu", "french": "bleu / bleue", "english": "blue", "partOfSpeech": "adjective", "pronunciation": "bluh", "example": "Je voudrais la chemise bleue.", "exampleEnglish": "I would like the blue shirt.", "level": "A1", "category": "colors" },
+            { "id": "blanc", "french": "blanc / blanche", "english": "white", "partOfSpeech": "adjective", "pronunciation": "blahn", "example": "Elle porte une chemise blanche.", "exampleEnglish": "She is wearing a white shirt.", "level": "A1", "category": "colors" },
+            { "id": "jupe", "french": "la jupe", "english": "skirt", "partOfSpeech": "noun", "gender": "f", "pronunciation": "zhuhp", "example": "Elle porte une jupe noire.", "exampleEnglish": "She is wearing a black skirt.", "level": "A1", "category": "clothes" },
+            { "id": "pull", "french": "le pull", "english": "sweater / jumper", "partOfSpeech": "noun", "gender": "m", "pronunciation": "puhl", "example": "En hiver, je porte un pull.", "exampleEnglish": "In winter, I wear a sweater.", "level": "A1", "category": "clothes" },
+            { "id": "tee-shirt", "french": "le tee-shirt", "english": "t-shirt", "partOfSpeech": "noun", "gender": "m", "pronunciation": "tee-SHUHRT", "example": "Il porte un tee-shirt blanc.", "exampleEnglish": "He is wearing a white t-shirt.", "level": "A1", "category": "clothes" },
+            { "id": "chapeau", "french": "le chapeau", "english": "hat", "partOfSpeech": "noun", "gender": "m", "pronunciation": "shah-POH", "example": "J'aime ton chapeau !", "exampleEnglish": "I like your hat!", "level": "A1", "category": "clothes" },
+            { "id": "vert", "french": "vert / verte", "english": "green", "partOfSpeech": "adjective", "pronunciation": "vehr", "example": "Elle porte une robe verte.", "exampleEnglish": "She is wearing a green dress.", "level": "A1", "category": "colors" },
+            { "id": "jaune", "french": "jaune", "english": "yellow", "partOfSpeech": "adjective", "pronunciation": "zhohn", "example": "La banane est jaune.", "exampleEnglish": "The banana is yellow.", "level": "A1", "category": "colors" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Color adjectives agree",
+              "body": "Colors change to match the noun. Feminine usually adds -e: noir → noire, bleu → bleue, vert → verte. \"Blanc\" becomes \"blanche\". \"Rouge\" already ends in -e, so it never changes. Plural adds -s: des chaussures noires.",
+              "examples": [
+                { "french": "un pantalon noir", "english": "black trousers", "note": "masculine" },
+                { "french": "une robe noire", "english": "a black dress", "note": "feminine: + e" },
+                { "french": "un manteau blanc, une chemise blanche", "english": "a white coat, a white shirt" },
+                { "french": "des chaussures bleues", "english": "blue shoes", "note": "feminine plural: + es" },
+                { "french": "un pull vert, une jupe verte", "english": "a green sweater, a green skirt", "note": "you hear the t in \"verte\"" },
+                { "french": "un tee-shirt jaune, une robe jaune", "english": "a yellow t-shirt, a yellow dress", "note": "\"jaune\" already ends in -e, so it never changes" }
+              ],
+              "tip": "For many colors, the extra -e is silent: \"bleu\" and \"bleue\" sound the same. But you hear it in \"vert / verte\" and \"blanc / blanche\"."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a1_u09_l02_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What does it mean?",
+              "french": "Je porte une robe rouge.",
+              "options": ["I am wearing a red dress.", "I am wearing a blue dress.", "I am wearing a red shirt.", "I am wearing black trousers."],
+              "answer": "I am wearing a red dress."
+            },
+            {
+              "id": "a1_u09_l02_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. What is he wearing?",
+              "french": "Il porte un manteau noir.",
+              "options": ["A black coat", "A white coat", "A black shirt", "Black shoes"],
+              "answer": "A black coat"
+            },
+            {
+              "id": "a1_u09_l02_li03",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Je porte un pantalon bleu.",
+              "answer": "Je porte un pantalon bleu.",
+              "acceptedAnswers": ["je porte un pantalon bleu"]
+            },
+            {
+              "id": "a1_u09_l02_li04",
+              "type": "dictation",
+              "prompt": "Dictation: write the sentence you hear.",
+              "french": "Elle porte une chemise blanche.",
+              "answer": "Elle porte une chemise blanche.",
+              "acceptedAnswers": ["elle porte une chemise blanche"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a1_u09_l02_sp01",
+              "type": "speak",
+              "prompt": "Say that you are wearing black trousers.",
+              "french": "Je porte un pantalon noir",
+              "english": "I am wearing black trousers",
+              "tip": "\"Noir\" is nwahr — one syllable, like \"nwar\"."
+            },
+            {
+              "id": "a1_u09_l02_sp02",
+              "type": "speak",
+              "prompt": "Say that she is wearing a red dress.",
+              "french": "Elle porte une robe rouge",
+              "english": "She is wearing a red dress",
+              "tip": "\"Rouge\" is roozh — the soft French j sound again."
+            },
+            {
+              "id": "a1_u09_l02_sp03",
+              "type": "speak",
+              "prompt": "Say that you are wearing white shoes.",
+              "french": "Je porte des chaussures blanches",
+              "english": "I am wearing white shoes",
+              "tip": "\"Chaussures\" is shoh-SUHR; \"blanches\" is blahnsh — the final -es is silent."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Dans le magasin",
+              "french": "Emma est dans un magasin de vêtements.\n— Bonjour ! Je cherche une robe.\n— Nous avons cette robe bleue et cette robe noire.\n— J'aime la robe bleue. Elle est très jolie !\nEmma achète la robe bleue et un manteau blanc.",
+              "english": "Emma is in a clothes shop.\n— Hello! I am looking for a dress.\n— We have this blue dress and this black dress.\n— I like the blue dress. It is very pretty!\nEmma buys the blue dress and a white coat.",
+              "questions": [
+                {
+                  "id": "a1_u09_l02_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Which dress does Emma like?",
+                  "options": ["The blue dress", "The black dress", "The red dress", "The white dress"],
+                  "answer": "The blue dress"
+                },
+                {
+                  "id": "a1_u09_l02_rd02",
+                  "type": "trueFalse",
+                  "prompt": "Emma buys a black coat.",
+                  "options": ["True", "False"],
+                  "answer": "False",
+                  "tip": "She buys a white coat — un manteau blanc."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a1_u09_l02_wr01",
+              "type": "translate",
+              "prompt": "Translate into French: \"He is wearing black trousers.\"",
+              "english": "He is wearing black trousers.",
+              "answer": "Il porte un pantalon noir.",
+              "acceptedAnswers": ["il porte un pantalon noir"]
+            },
+            {
+              "id": "a1_u09_l02_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "She is wearing a red dress.",
+              "words": ["rouge", "Elle", "robe", "porte", "une"],
+              "answer": "Elle porte une robe rouge"
+            },
+            {
+              "id": "a1_u09_l02_wr03",
+              "type": "fillBlank",
+              "prompt": "Complete with the correct form of \"blanc\": \"une chemise ___\"",
+              "answer": "blanche",
+              "hint": "\"Chemise\" is feminine — the adjective must agree."
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a1_u09_l02_pr01",
+              "type": "multipleChoice",
+              "prompt": "Which phrase is correct?",
+              "options": ["une jupe verte", "une jupe vert", "un jupe verte", "une verte jupe"],
+              "answer": "une jupe verte"
+            },
+            {
+              "id": "a1_u09_l02_pr02",
+              "type": "fillBlank",
+              "prompt": "Complete with the correct form of \"vert\": \"Elle porte une robe ___.\"",
+              "answer": "verte",
+              "hint": "\"Robe\" is feminine — add an -e."
+            },
+            {
+              "id": "a1_u09_l02_pr03",
+              "type": "translate",
+              "prompt": "Translate into French: \"I am wearing a green sweater.\"",
+              "english": "I am wearing a green sweater.",
+              "answer": "Je porte un pull vert.",
+              "acceptedAnswers": ["je porte un pull vert"]
+            },
+            {
+              "id": "a1_u09_l02_pr04",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "He is wearing a hat and a coat.",
+              "words": ["porte", "un", "Il", "et", "chapeau", "manteau", "un"],
+              "answer": "Il porte un chapeau et un manteau"
+            },
+            {
+              "id": "a1_u09_l02_pr05",
+              "type": "listenChoose",
+              "prompt": "Listen. What is she wearing?",
+              "french": "Elle porte une jupe jaune.",
+              "options": ["A yellow skirt", "A yellow dress", "A green skirt", "A white t-shirt"],
+              "answer": "A yellow skirt"
+            },
+            {
+              "id": "a1_u09_l02_pr06",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "la jupe", "english": "skirt" },
+                { "french": "le pull", "english": "sweater" },
+                { "french": "le chapeau", "english": "hat" },
+                { "french": "le tee-shirt", "english": "t-shirt" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a1_u09_l02_qz01",
+              "type": "multipleChoice",
+              "prompt": "Which phrase is correct?",
+              "options": ["une robe noire", "une robe noir", "un robe noire", "une noire robe"],
+              "answer": "une robe noire"
+            },
+            {
+              "id": "a1_u09_l02_qz02",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "le pantalon", "english": "trousers" },
+                { "french": "la robe", "english": "dress" },
+                { "french": "le manteau", "english": "coat" },
+                { "french": "les chaussures", "english": "shoes" }
+              ]
+            },
+            {
+              "id": "a1_u09_l02_qz03",
+              "type": "trueFalse",
+              "prompt": "In French, color adjectives usually come after the noun.",
+              "options": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "a1_u09_l02_qz04",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Il porte un pantalon ___.\" (blue)",
+              "answer": "bleu"
+            },
+            {
+              "id": "a1_u09_l02_qz05",
+              "type": "multipleChoice",
+              "prompt": "What is \"une chemise\"?",
+              "options": ["A shirt", "A dress", "A coat", "A shoe"],
+              "answer": "A shirt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1_u09_l03",
+      "level": "A1",
+      "unit": 9,
+      "title": "Ça coûte combien ?",
+      "description": "Talk about prices, sizes and how to pay in a shop.",
+      "estimatedMinutes": 12,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Talking about prices",
+              "body": "To ask a price: \"Ça coûte combien ?\" or simply \"C'est combien ?\". If something is expensive, say \"C'est cher !\". If it is a good deal: \"Ce n'est pas cher.\"",
+              "examples": [
+                { "french": "Ça coûte combien ?", "english": "How much does it cost?" },
+                { "french": "Ça coûte vingt euros.", "english": "It costs twenty euros." },
+                { "french": "C'est trop cher !", "english": "It's too expensive!" },
+                { "french": "Ce n'est pas cher.", "english": "It's not expensive." },
+                { "french": "C'est gratuit !", "english": "It's free!" },
+                { "french": "Les soldes commencent en janvier.", "english": "The sales start in January." }
+              ]
+            },
+            {
+              "heading": "In the shop",
+              "body": "Use \"je cherche...\" (I am looking for...) to say what you want. The assistant may ask \"Quelle taille faites-vous ?\" (What size are you?). To pay, ask \"Je peux payer par carte ?\" — can I pay by card?",
+              "examples": [
+                { "french": "Je cherche un manteau.", "english": "I am looking for a coat." },
+                { "french": "Quelle taille faites-vous ? — Du trente-huit.", "english": "What size are you? — Size 38." },
+                { "french": "Je peux payer par carte ?", "english": "Can I pay by card?" },
+                { "french": "Je peux essayer cette robe ?", "english": "Can I try on this dress?" },
+                { "french": "Vous payez en espèces ou par carte ?", "english": "Are you paying in cash or by card?" }
+              ],
+              "tip": "In France, clothing sizes are numbers like 36, 38, 40 — not S, M, L."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "couter", "french": "coûter", "english": "to cost", "partOfSpeech": "verb", "pronunciation": "koo-TAY", "example": "Ça coûte dix euros.", "exampleEnglish": "It costs ten euros.", "level": "A1", "category": "shopping" },
+            { "id": "cher", "french": "cher / chère", "english": "expensive", "partOfSpeech": "adjective", "pronunciation": "shehr", "example": "Cette robe est trop chère !", "exampleEnglish": "This dress is too expensive!", "level": "A1", "category": "shopping" },
+            { "id": "euro", "french": "l'euro", "english": "euro", "partOfSpeech": "noun", "gender": "m", "pronunciation": "uh-ROH", "example": "Ça coûte cinq euros.", "exampleEnglish": "It costs five euros.", "level": "A1", "category": "shopping" },
+            { "id": "taille", "french": "la taille", "english": "size", "partOfSpeech": "noun", "gender": "f", "pronunciation": "tie", "example": "Quelle taille faites-vous ?", "exampleEnglish": "What size are you?", "level": "A1", "category": "shopping" },
+            { "id": "payer", "french": "payer", "english": "to pay", "partOfSpeech": "verb", "pronunciation": "pay-YAY", "example": "Je peux payer par carte ?", "exampleEnglish": "Can I pay by card?", "level": "A1", "category": "shopping" },
+            { "id": "carte", "french": "la carte", "english": "card", "partOfSpeech": "noun", "gender": "f", "pronunciation": "kart", "example": "Je paie par carte.", "exampleEnglish": "I pay by card.", "level": "A1", "category": "shopping" },
+            { "id": "argent", "french": "l'argent", "english": "money", "partOfSpeech": "noun", "gender": "m", "pronunciation": "ar-ZHAHN", "example": "Je n'ai pas beaucoup d'argent.", "exampleEnglish": "I don't have much money.", "level": "A1", "category": "shopping" },
+            { "id": "magasin", "french": "le magasin", "english": "shop / store", "partOfSpeech": "noun", "gender": "m", "pronunciation": "mah-gah-ZAN", "example": "Le magasin ouvre à neuf heures.", "exampleEnglish": "The shop opens at nine o'clock.", "level": "A1", "category": "shopping" },
+            { "id": "chercher", "french": "chercher", "english": "to look for", "partOfSpeech": "verb", "pronunciation": "shehr-SHAY", "example": "Je cherche une robe.", "exampleEnglish": "I am looking for a dress.", "level": "A1", "category": "shopping" },
+            { "id": "acheter", "french": "acheter", "english": "to buy", "partOfSpeech": "verb", "pronunciation": "ahsh-TAY", "example": "J'achète un manteau pour l'hiver.", "exampleEnglish": "I am buying a coat for the winter.", "level": "A1", "category": "shopping" },
+            { "id": "essayer", "french": "essayer", "english": "to try on", "partOfSpeech": "verb", "pronunciation": "eh-say-YAY", "example": "Je peux essayer cette robe ?", "exampleEnglish": "Can I try on this dress?", "level": "A1", "category": "shopping" },
+            { "id": "monnaie", "french": "la monnaie", "english": "change (money)", "partOfSpeech": "noun", "gender": "f", "pronunciation": "moh-NEH", "example": "Voici votre monnaie, madame.", "exampleEnglish": "Here is your change, ma'am.", "level": "A1", "category": "shopping" },
+            { "id": "en-especes", "french": "en espèces", "english": "in cash", "partOfSpeech": "expression", "pronunciation": "ahn es-PES", "example": "Je paie en espèces.", "exampleEnglish": "I pay in cash.", "level": "A1", "category": "shopping" },
+            { "id": "gratuit", "french": "gratuit / gratuite", "english": "free (no cost)", "partOfSpeech": "adjective", "pronunciation": "grah-TWEE", "example": "L'entrée est gratuite.", "exampleEnglish": "Entry is free.", "level": "A1", "category": "shopping" },
+            { "id": "soldes", "french": "les soldes", "english": "the sales", "partOfSpeech": "noun", "gender": "m", "pronunciation": "sold", "example": "J'adore les soldes !", "exampleEnglish": "I love the sales!", "level": "A1", "category": "shopping" }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a1_u09_l03_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What is the customer asking?",
+              "french": "Ça coûte combien ?",
+              "options": ["How much it costs", "What size it is", "Where the shop is", "If they take cards"],
+              "answer": "How much it costs"
+            },
+            {
+              "id": "a1_u09_l03_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. What does it mean?",
+              "french": "C'est trop cher !",
+              "options": ["It's too expensive!", "It's very cheap!", "It's very pretty!", "It's too small!"],
+              "answer": "It's too expensive!"
+            },
+            {
+              "id": "a1_u09_l03_li03",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Je cherche un manteau.",
+              "answer": "Je cherche un manteau.",
+              "acceptedAnswers": ["je cherche un manteau"]
+            },
+            {
+              "id": "a1_u09_l03_li04",
+              "type": "dictation",
+              "prompt": "Dictation: write the sentence you hear.",
+              "french": "Ça coûte vingt euros.",
+              "answer": "Ça coûte vingt euros.",
+              "acceptedAnswers": ["ca coute vingt euros"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a1_u09_l03_sp01",
+              "type": "speak",
+              "prompt": "Ask how much it costs.",
+              "french": "Ça coûte combien ?",
+              "english": "How much does it cost?",
+              "tip": "\"Coûte\" is koot — the circumflex doesn't change the sound."
+            },
+            {
+              "id": "a1_u09_l03_sp02",
+              "type": "speak",
+              "prompt": "Ask if you can pay by card.",
+              "french": "Je peux payer par carte ?",
+              "english": "Can I pay by card?",
+              "tip": "\"Peux\" is puh — round your lips as if blowing out a candle."
+            },
+            {
+              "id": "a1_u09_l03_sp03",
+              "type": "speak",
+              "prompt": "Say that you are looking for a dress.",
+              "french": "Je cherche une robe",
+              "english": "I am looking for a dress",
+              "tip": "\"Cherche\" is shersh — both ch sounds are soft, like \"sh\" in English."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Dans la boutique",
+              "french": "— Bonjour ! Je cherche une robe pour l'été.\n— Bien sûr. Quelle taille faites-vous ?\n— Du trente-huit.\n— Voici une jolie robe rouge. Elle coûte vingt-cinq euros.\n— Ce n'est pas cher ! Je peux payer par carte ?\n— Bien sûr, madame.",
+              "english": "— Hello! I am looking for a dress for the summer.\n— Of course. What size are you?\n— Size 38.\n— Here is a pretty red dress. It costs twenty-five euros.\n— That's not expensive! Can I pay by card?\n— Of course, ma'am.",
+              "questions": [
+                {
+                  "id": "a1_u09_l03_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "How much does the dress cost?",
+                  "options": ["Twenty-five euros", "Twenty euros", "Thirty-five euros", "Fifteen euros"],
+                  "answer": "Twenty-five euros"
+                },
+                {
+                  "id": "a1_u09_l03_rd02",
+                  "type": "trueFalse",
+                  "prompt": "The customer wants to pay in cash.",
+                  "options": ["True", "False"],
+                  "answer": "False",
+                  "tip": "She asks to pay by card — par carte."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a1_u09_l03_wr01",
+              "type": "translate",
+              "prompt": "Translate into French: \"How much does it cost?\"",
+              "english": "How much does it cost?",
+              "answer": "Ça coûte combien ?",
+              "acceptedAnswers": ["ca coute combien"]
+            },
+            {
+              "id": "a1_u09_l03_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "Can I pay by card?",
+              "words": ["payer", "carte", "Je", "par", "peux"],
+              "answer": "Je peux payer par carte"
+            },
+            {
+              "id": "a1_u09_l03_wr03",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Quelle ___ faites-vous ?\" (size)",
+              "answer": "taille"
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a1_u09_l03_pr01",
+              "type": "multipleChoice",
+              "prompt": "The cashier asks \"Vous payez en espèces ou par carte ?\". She wants to know:",
+              "options": ["How you want to pay", "What size you are", "What you are looking for", "If you like the dress"],
+              "answer": "How you want to pay"
+            },
+            {
+              "id": "a1_u09_l03_pr02",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Je peux ___ cette robe ?\" (try on)",
+              "answer": "essayer"
+            },
+            {
+              "id": "a1_u09_l03_pr03",
+              "type": "translate",
+              "prompt": "Translate into French: \"It is too expensive.\"",
+              "english": "It is too expensive.",
+              "answer": "C'est trop cher.",
+              "acceptedAnswers": ["cest trop cher", "c est trop cher", "c'est trop cher"]
+            },
+            {
+              "id": "a1_u09_l03_pr04",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "I pay in cash.",
+              "words": ["en", "paie", "Je", "espèces"],
+              "answer": "Je paie en espèces"
+            },
+            {
+              "id": "a1_u09_l03_pr05",
+              "type": "listenChoose",
+              "prompt": "Listen. What does the cashier say?",
+              "french": "Voici votre monnaie, madame.",
+              "options": ["Here is your change, ma'am.", "Here is your card, ma'am.", "That is too expensive, ma'am.", "The sales start today, ma'am."],
+              "answer": "Here is your change, ma'am."
+            },
+            {
+              "id": "a1_u09_l03_pr06",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "acheter", "english": "to buy" },
+                { "french": "la monnaie", "english": "change" },
+                { "french": "gratuit", "english": "free" },
+                { "french": "les soldes", "english": "the sales" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a1_u09_l03_qz01",
+              "type": "multipleChoice",
+              "prompt": "\"C'est cher\" means:",
+              "options": ["It's expensive", "It's cheap", "It's pretty", "It's small"],
+              "answer": "It's expensive"
+            },
+            {
+              "id": "a1_u09_l03_qz02",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "cher", "english": "expensive" },
+                { "french": "la taille", "english": "size" },
+                { "french": "payer", "english": "to pay" },
+                { "french": "l'argent", "english": "money" }
+              ]
+            },
+            {
+              "id": "a1_u09_l03_qz03",
+              "type": "trueFalse",
+              "prompt": "\"Ce n'est pas cher\" means something is cheap.",
+              "options": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "a1_u09_l03_qz04",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Je peux payer ___ carte ?\"",
+              "answer": "par"
+            },
+            {
+              "id": "a1_u09_l03_qz05",
+              "type": "multipleChoice",
+              "prompt": "You want to find a coat. What do you say to the shop assistant?",
+              "options": ["Je cherche un manteau.", "Je paie un manteau.", "C'est trop cher.", "Quelle taille faites-vous ?"],
+              "answer": "Je cherche un manteau."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

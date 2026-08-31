@@ -1,0 +1,12 @@
+# app-ads.txt for Bonjourney (frenchly@fran.com)
+#
+# Authorized Digital Sellers file — IAB Tech Lab spec (https://iabtechlab.com/ads-txt/).
+# Google/AdMob and other ad exchanges crawl this file at your site's root to confirm
+# who's allowed to sell ad inventory on your behalf.
+#
+# STATUS: AdMob (banner, interstitial, rewarded, rewarded interstitial, native advanced,
+# app open) is wired into the app on both Android and iOS as of versionCode 2. This file
+# must be served at exactly https://<your-domain>/app-ads.txt — deploy it to Netlify
+# (see netlify-site/README.md) so ad exchanges can crawl it; allow 24-48h to be picked up.
+#
+google.com, pub-9960557555177349, DIRECT, f08c47fec0942fa0

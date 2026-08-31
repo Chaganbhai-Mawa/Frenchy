@@ -1,0 +1,1035 @@
+{
+  "id": "a2_u21",
+  "level": "A2",
+  "unit": 21,
+  "title": "Nature & Animals",
+  "subtitle": "Talk about animals, the countryside and protecting the planet",
+  "icon": "🌳",
+  "lessons": [
+    {
+      "id": "a2_u21_l01",
+      "level": "A2",
+      "unit": 21,
+      "title": "Les animaux",
+      "description": "Name pets, farm animals and wild animals, and say what they do.",
+      "estimatedMinutes": 16,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Pets: les animaux de compagnie",
+              "body": "An animal you keep at home is un animal de compagnie. To say you have one, use avoir: J'ai un chien. To say what kind, add the adjective after the noun: un petit chat noir. Remember that every animal name has a fixed gender, so learn it with le or la.",
+              "examples": [
+                { "french": "J'ai un chien et deux chats.", "english": "I have a dog and two cats." },
+                { "french": "Mon lapin s'appelle Caramel.", "english": "My rabbit is called Caramel." },
+                { "french": "Nous avons un poisson rouge dans le salon.", "english": "We have a goldfish in the living room." },
+                { "french": "Ma sœur voudrait une tortue.", "english": "My sister would like a tortoise." },
+                { "french": "Tu as un animal de compagnie ?", "english": "Do you have a pet?" }
+              ],
+              "tip": "In French you say un poisson rouge (a red fish) for a goldfish, even when it is orange."
+            },
+            {
+              "heading": "On the farm: à la ferme",
+              "body": "Farm animals are very common in French children's songs and expressions, so they are worth knowing. Use il y a to list what a farm contains. The verb élever means to raise animals, and the farmer is le fermier or la fermière.",
+              "examples": [
+                { "french": "À la ferme, il y a des vaches et des moutons.", "english": "On the farm there are cows and sheep." },
+                { "french": "Le coq chante très tôt le matin.", "english": "The rooster crows very early in the morning." },
+                { "french": "Ma grand-mère a trois poules et un canard.", "english": "My grandmother has three hens and a duck." },
+                { "french": "Le cheval mange de l'herbe dans le pré.", "english": "The horse eats grass in the meadow." },
+                { "french": "La chèvre donne un très bon lait.", "english": "The goat gives very good milk." }
+              ],
+              "tip": "Le cheval becomes les chevaux in the plural — an irregular plural you will meet again below."
+            },
+            {
+              "heading": "Wild animals: les animaux sauvages",
+              "body": "Un animal sauvage lives free in nature, not with people. To say where an animal lives, use vivre or habiter plus dans: Le lion vit dans la savane. To say what an animal eats, use manger.",
+              "examples": [
+                { "french": "L'éléphant est le plus grand animal terrestre.", "english": "The elephant is the biggest land animal." },
+                { "french": "Le loup vit dans la forêt.", "english": "The wolf lives in the forest." },
+                { "french": "Les singes mangent des fruits.", "english": "Monkeys eat fruit." },
+                { "french": "J'ai vu un renard près de la maison.", "english": "I saw a fox near the house." },
+                { "french": "Les abeilles sont très utiles pour la nature.", "english": "Bees are very useful for nature." }
+              ],
+              "tip": "Sauvage never changes for gender in the singular: un animal sauvage, une abeille sauvage."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "l-animal", "french": "l'animal", "english": "the animal", "partOfSpeech": "noun", "gender": "m", "plural": "les animaux", "pronunciation": "lah-nee-MAL", "example": "Cet animal est très doux.", "exampleEnglish": "This animal is very gentle.", "level": "A2", "category": "animals" },
+            { "id": "l-animal-de-compagnie", "french": "l'animal de compagnie", "english": "the pet", "partOfSpeech": "noun", "gender": "m", "plural": "les animaux de compagnie", "pronunciation": "lah-nee-MAL duh kom-pah-NYEE", "example": "Tu as un animal de compagnie ?", "exampleEnglish": "Do you have a pet?", "level": "A2", "category": "animals" },
+            { "id": "le-chien", "french": "le chien", "english": "the dog", "partOfSpeech": "noun", "gender": "m", "plural": "les chiens", "pronunciation": "luh shyan", "example": "Mon chien dort devant la porte.", "exampleEnglish": "My dog sleeps in front of the door.", "level": "A2", "category": "animals" },
+            { "id": "le-chat", "french": "le chat", "english": "the cat", "partOfSpeech": "noun", "gender": "m", "plural": "les chats", "pronunciation": "luh shah", "example": "Le chat est monté sur le toit.", "exampleEnglish": "The cat climbed onto the roof.", "level": "A2", "category": "animals" },
+            { "id": "l-oiseau", "french": "l'oiseau", "english": "the bird", "partOfSpeech": "noun", "gender": "m", "plural": "les oiseaux", "pronunciation": "lwah-ZOH", "example": "Un oiseau chante dans l'arbre.", "exampleEnglish": "A bird is singing in the tree.", "level": "A2", "category": "animals" },
+            { "id": "le-poisson-rouge", "french": "le poisson rouge", "english": "the goldfish", "partOfSpeech": "noun", "gender": "m", "plural": "les poissons rouges", "pronunciation": "luh pwah-SON roozh", "example": "Le poisson rouge nage lentement.", "exampleEnglish": "The goldfish swims slowly.", "level": "A2", "category": "animals" },
+            { "id": "le-lapin", "french": "le lapin", "english": "the rabbit", "partOfSpeech": "noun", "gender": "m", "plural": "les lapins", "pronunciation": "luh lah-PAN", "example": "Le lapin mange une carotte.", "exampleEnglish": "The rabbit is eating a carrot.", "level": "A2", "category": "animals" },
+            { "id": "la-souris", "french": "la souris", "english": "the mouse", "partOfSpeech": "noun", "gender": "f", "plural": "les souris", "pronunciation": "lah soo-REE", "example": "Une petite souris grise court dans le jardin.", "exampleEnglish": "A little grey mouse is running in the garden.", "level": "A2", "category": "animals" },
+            { "id": "le-hamster", "french": "le hamster", "english": "the hamster", "partOfSpeech": "noun", "gender": "m", "plural": "les hamsters", "pronunciation": "luh ahm-STAIR", "example": "Mon hamster dort toute la journée.", "exampleEnglish": "My hamster sleeps all day long.", "level": "A2", "category": "animals" },
+            { "id": "la-tortue", "french": "la tortue", "english": "the tortoise, the turtle", "partOfSpeech": "noun", "gender": "f", "plural": "les tortues", "pronunciation": "lah tor-TÜ", "example": "La tortue marche très lentement.", "exampleEnglish": "The tortoise walks very slowly.", "level": "A2", "category": "animals" },
+            { "id": "le-cheval", "french": "le cheval", "english": "the horse", "partOfSpeech": "noun", "gender": "m", "plural": "les chevaux", "pronunciation": "luh shuh-VAL", "example": "Elle monte à cheval le dimanche.", "exampleEnglish": "She goes horse riding on Sundays.", "level": "A2", "category": "animals" },
+            { "id": "la-vache", "french": "la vache", "english": "the cow", "partOfSpeech": "noun", "gender": "f", "plural": "les vaches", "pronunciation": "lah vahsh", "example": "Les vaches sont dans le champ.", "exampleEnglish": "The cows are in the field.", "level": "A2", "category": "animals" },
+            { "id": "le-cochon", "french": "le cochon", "english": "the pig", "partOfSpeech": "noun", "gender": "m", "plural": "les cochons", "pronunciation": "luh ko-SHON", "example": "Le cochon dort dans la boue.", "exampleEnglish": "The pig is sleeping in the mud.", "level": "A2", "category": "animals" },
+            { "id": "la-poule", "french": "la poule", "english": "the hen", "partOfSpeech": "noun", "gender": "f", "plural": "les poules", "pronunciation": "lah pool", "example": "La poule a pondu un œuf.", "exampleEnglish": "The hen laid an egg.", "level": "A2", "category": "animals" },
+            { "id": "le-coq", "french": "le coq", "english": "the rooster", "partOfSpeech": "noun", "gender": "m", "plural": "les coqs", "pronunciation": "luh kok", "example": "Le coq nous réveille à six heures.", "exampleEnglish": "The rooster wakes us up at six o'clock.", "level": "A2", "category": "animals" },
+            { "id": "le-mouton", "french": "le mouton", "english": "the sheep", "partOfSpeech": "noun", "gender": "m", "plural": "les moutons", "pronunciation": "luh moo-TON", "example": "Il y a cent moutons sur la colline.", "exampleEnglish": "There are a hundred sheep on the hill.", "level": "A2", "category": "animals" },
+            { "id": "la-chevre", "french": "la chèvre", "english": "the goat", "partOfSpeech": "noun", "gender": "f", "plural": "les chèvres", "pronunciation": "lah SHEHV-ruh", "example": "J'aime beaucoup le fromage de chèvre.", "exampleEnglish": "I really like goat cheese.", "level": "A2", "category": "animals" },
+            { "id": "l-ane", "french": "l'âne", "english": "the donkey", "partOfSpeech": "noun", "gender": "m", "plural": "les ânes", "pronunciation": "lahn", "example": "L'âne porte les sacs sur le chemin.", "exampleEnglish": "The donkey carries the bags along the path.", "level": "A2", "category": "animals" },
+            { "id": "le-canard", "french": "le canard", "english": "the duck", "partOfSpeech": "noun", "gender": "m", "plural": "les canards", "pronunciation": "luh kah-NAR", "example": "Les canards nagent sur le lac.", "exampleEnglish": "The ducks are swimming on the lake.", "level": "A2", "category": "animals" },
+            { "id": "la-ferme", "french": "la ferme", "english": "the farm", "partOfSpeech": "noun", "gender": "f", "plural": "les fermes", "pronunciation": "lah fairm", "example": "Nous avons visité une ferme en Normandie.", "exampleEnglish": "We visited a farm in Normandy.", "level": "A2", "category": "animals" },
+            { "id": "le-lion", "french": "le lion", "english": "the lion", "partOfSpeech": "noun", "gender": "m", "plural": "les lions", "pronunciation": "luh lyon", "example": "Le lion dort à l'ombre.", "exampleEnglish": "The lion is sleeping in the shade.", "level": "A2", "category": "animals" },
+            { "id": "le-tigre", "french": "le tigre", "english": "the tiger", "partOfSpeech": "noun", "gender": "m", "plural": "les tigres", "pronunciation": "luh TEE-gruh", "example": "Le tigre est un animal sauvage magnifique.", "exampleEnglish": "The tiger is a magnificent wild animal.", "level": "A2", "category": "animals" },
+            { "id": "l-elephant", "french": "l'éléphant", "english": "the elephant", "partOfSpeech": "noun", "gender": "m", "plural": "les éléphants", "pronunciation": "lay-lay-FAHN", "example": "L'éléphant boit beaucoup d'eau.", "exampleEnglish": "The elephant drinks a lot of water.", "level": "A2", "category": "animals" },
+            { "id": "le-singe", "french": "le singe", "english": "the monkey", "partOfSpeech": "noun", "gender": "m", "plural": "les singes", "pronunciation": "luh sanzh", "example": "Le singe grimpe dans les arbres.", "exampleEnglish": "The monkey climbs in the trees.", "level": "A2", "category": "animals" },
+            { "id": "l-ours", "french": "l'ours", "english": "the bear", "partOfSpeech": "noun", "gender": "m", "plural": "les ours", "pronunciation": "loorss", "example": "Il y a encore des ours dans les Pyrénées.", "exampleEnglish": "There are still bears in the Pyrenees.", "level": "A2", "category": "animals" },
+            { "id": "le-loup", "french": "le loup", "english": "the wolf", "partOfSpeech": "noun", "gender": "m", "plural": "les loups", "pronunciation": "luh loo", "example": "Le loup vit en groupe.", "exampleEnglish": "The wolf lives in a group.", "level": "A2", "category": "animals" },
+            { "id": "le-renard", "french": "le renard", "english": "the fox", "partOfSpeech": "noun", "gender": "m", "plural": "les renards", "pronunciation": "luh ruh-NAR", "example": "Un renard traverse le champ.", "exampleEnglish": "A fox is crossing the field.", "level": "A2", "category": "animals" },
+            { "id": "le-serpent", "french": "le serpent", "english": "the snake", "partOfSpeech": "noun", "gender": "m", "plural": "les serpents", "pronunciation": "luh sair-PAHN", "example": "J'ai peur des serpents.", "exampleEnglish": "I am afraid of snakes.", "level": "A2", "category": "animals" },
+            { "id": "le-papillon", "french": "le papillon", "english": "the butterfly", "partOfSpeech": "noun", "gender": "m", "plural": "les papillons", "pronunciation": "luh pah-pee-YON", "example": "Un papillon jaune s'est posé sur la fleur.", "exampleEnglish": "A yellow butterfly landed on the flower.", "level": "A2", "category": "animals" },
+            { "id": "l-abeille", "french": "l'abeille", "english": "the bee", "partOfSpeech": "noun", "gender": "f", "plural": "les abeilles", "pronunciation": "lah-BAY-yuh", "example": "Les abeilles font le miel.", "exampleEnglish": "Bees make honey.", "level": "A2", "category": "animals" },
+            { "id": "la-patte", "french": "la patte", "english": "the paw, the leg (of an animal)", "partOfSpeech": "noun", "gender": "f", "plural": "les pattes", "pronunciation": "lah paht", "example": "Le chien a mal à la patte.", "exampleEnglish": "The dog's paw hurts.", "level": "A2", "category": "animals" },
+            { "id": "l-aile", "french": "l'aile", "english": "the wing", "partOfSpeech": "noun", "gender": "f", "plural": "les ailes", "pronunciation": "lell", "example": "L'oiseau ouvre ses ailes.", "exampleEnglish": "The bird opens its wings.", "level": "A2", "category": "animals" },
+            { "id": "sauvage", "french": "sauvage", "english": "wild", "partOfSpeech": "adjective", "pronunciation": "soh-VAHZH", "example": "Il ne faut pas toucher un animal sauvage.", "exampleEnglish": "You must not touch a wild animal.", "level": "A2", "category": "animals" },
+            { "id": "aboyer", "french": "aboyer", "english": "to bark", "partOfSpeech": "verb", "pronunciation": "ah-bwah-YAY", "example": "Le chien aboie quand quelqu'un arrive.", "exampleEnglish": "The dog barks when someone arrives.", "level": "A2", "category": "animals" },
+            { "id": "miauler", "french": "miauler", "english": "to meow", "partOfSpeech": "verb", "pronunciation": "myoh-LAY", "example": "Mon chat miaule devant la porte.", "exampleEnglish": "My cat meows in front of the door.", "level": "A2", "category": "animals" },
+            { "id": "nourrir", "french": "nourrir", "english": "to feed", "partOfSpeech": "verb", "pronunciation": "noo-REER", "example": "Je nourris les poules tous les matins.", "exampleEnglish": "I feed the hens every morning.", "level": "A2", "category": "animals" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Irregular plurals: -al → -aux, -eau → -eaux",
+              "body": "Most French nouns add -s in the plural, but two groups do not. Nouns ending in -al usually change to -aux, and nouns ending in -eau (or -eu) add -x instead of -s. A few animal names, like le nez or la souris, already end in -s or -x and never change.",
+              "examples": [
+                { "french": "un animal → des animaux", "english": "an animal → animals" },
+                { "french": "un cheval → des chevaux", "english": "a horse → horses" },
+                { "french": "un oiseau → des oiseaux", "english": "a bird → birds" },
+                { "french": "une souris → des souris", "english": "a mouse → mice", "note": "no change: it already ends in -s" },
+                { "french": "un ours → des ours", "english": "a bear → bears" }
+              ],
+              "tip": "Le carnaval and le festival are exceptions: they take a normal -s (des carnavals)."
+            },
+            {
+              "heading": "Verbs followed by de: avoir peur de, s'occuper de",
+              "body": "Some very useful verbs need de before their object. Avoir peur de means to be afraid of, and s'occuper de means to look after. Remember that de + le becomes du and de + les becomes des.",
+              "examples": [
+                { "french": "J'ai peur des araignées.", "english": "I am afraid of spiders.", "note": "de + les = des" },
+                { "french": "Elle a peur du chien du voisin.", "english": "She is afraid of the neighbour's dog.", "note": "de + le = du" },
+                { "french": "Je m'occupe de mon lapin tous les jours.", "english": "I look after my rabbit every day." },
+                { "french": "Qui s'occupe des chevaux ?", "english": "Who looks after the horses?" },
+                { "french": "Nous nous occupons de la ferme le week-end.", "english": "We look after the farm at the weekend." }
+              ],
+              "tip": "Before a vowel, de becomes d' : J'ai peur d'un serpent."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a2_u21_l01_li01",
+              "type": "listenChoose",
+              "french": "Mon chat dort sur le canapé.",
+              "options": ["My cat is sleeping on the sofa.", "My dog is sleeping on the sofa.", "My cat is eating on the sofa.", "My cat is playing under the sofa."],
+              "answer": "My cat is sleeping on the sofa."
+            },
+            {
+              "id": "a2_u21_l01_li02",
+              "type": "listenChoose",
+              "french": "À la ferme, il y a des vaches, des poules et un âne.",
+              "options": ["On the farm there are cows, hens and a donkey.", "On the farm there are cows, sheep and a horse.", "At the zoo there are cows, hens and a donkey.", "On the farm there are ducks, hens and a goat."],
+              "answer": "On the farm there are cows, hens and a donkey."
+            },
+            {
+              "id": "a2_u21_l01_li03",
+              "type": "listenType",
+              "french": "Le loup est un animal sauvage.",
+              "answer": "Le loup est un animal sauvage.",
+              "acceptedAnswers": ["Le loup est un animal sauvage", "le loup est un animal sauvage"]
+            },
+            {
+              "id": "a2_u21_l01_li04",
+              "type": "dictation",
+              "french": "Je nourris les oiseaux tous les matins.",
+              "answer": "Je nourris les oiseaux tous les matins.",
+              "acceptedAnswers": ["Je nourris les oiseaux tous les matins", "je nourris les oiseaux tous les matins"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a2_u21_l01_sp01",
+              "type": "speak",
+              "french": "J'ai un chien et un poisson rouge.",
+              "english": "I have a dog and a goldfish.",
+              "prompt": "Say what pets you have.",
+              "tip": "Chien is one syllable: the -ien ending sounds like \"yan\", with the n barely touched."
+            },
+            {
+              "id": "a2_u21_l01_sp02",
+              "type": "speak",
+              "french": "Les chevaux mangent de l'herbe dans le pré.",
+              "english": "The horses eat grass in the meadow.",
+              "prompt": "Describe the horses on a farm.",
+              "tip": "Chevaux ends in a rounded \"voh\" sound; do not pronounce the final x."
+            },
+            {
+              "id": "a2_u21_l01_sp03",
+              "type": "speak",
+              "french": "J'ai peur des serpents, mais j'adore les papillons.",
+              "english": "I am afraid of snakes, but I love butterflies.",
+              "prompt": "Say which animal you fear and which one you love.",
+              "tip": "In serpents and papillons the final -ent and -ons are nasal; never say the final t or s."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "La ferme de mes grands-parents",
+              "french": "Mes grands-parents habitent à la campagne, près de Tours.\nIls ont une petite ferme avec beaucoup d'animaux.\nIl y a six vaches, douze poules, un coq et deux ânes.\nChaque matin, mon grand-père nourrit les poules et ramasse les œufs.\nMoi, j'aime beaucoup m'occuper des chevaux.\nIls s'appellent Tempête et Filou.\nDans le jardin, il y a aussi un vieux chien qui aboie tout le temps.\nLe soir, on entend les oiseaux et parfois un renard passe près de la maison.\nMa sœur a peur du renard, mais moi, je le trouve magnifique.",
+              "english": "My grandparents live in the countryside, near Tours.\nThey have a small farm with many animals.\nThere are six cows, twelve hens, a rooster and two donkeys.\nEvery morning my grandfather feeds the hens and collects the eggs.\nAs for me, I really like looking after the horses.\nThey are called Tempête and Filou.\nIn the garden there is also an old dog that barks all the time.\nIn the evening you hear the birds and sometimes a fox passes near the house.\nMy sister is afraid of the fox, but I find it magnificent.",
+              "questions": [
+                {
+                  "id": "a2_u21_l01_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Combien de poules y a-t-il à la ferme ?",
+                  "options": ["Six", "Douze", "Deux", "Vingt"],
+                  "answer": "Douze"
+                },
+                {
+                  "id": "a2_u21_l01_rd02",
+                  "type": "trueFalse",
+                  "prompt": "Le grand-père nourrit les poules chaque matin.",
+                  "options": ["True", "False"],
+                  "answer": "True"
+                },
+                {
+                  "id": "a2_u21_l01_rd03",
+                  "type": "multipleChoice",
+                  "prompt": "Qui a peur du renard ?",
+                  "options": ["Le narrateur", "Le grand-père", "La sœur du narrateur", "Le chien"],
+                  "answer": "La sœur du narrateur"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a2_u21_l01_wr01",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "I have two cats and a rabbit.",
+              "answer": "J'ai deux chats et un lapin.",
+              "acceptedAnswers": ["J'ai deux chats et un lapin", "j'ai deux chats et un lapin"]
+            },
+            {
+              "id": "a2_u21_l01_wr02",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "The wolf is a wild animal.",
+              "answer": "Le loup est un animal sauvage.",
+              "acceptedAnswers": ["Le loup est un animal sauvage", "le loup est un animal sauvage"]
+            },
+            {
+              "id": "a2_u21_l01_wr03",
+              "type": "arrangeWords",
+              "words": ["ferme", "à", "des", "il", "y", "la", "a", "vaches"],
+              "answer": "à la ferme il y a des vaches",
+              "english": "On the farm there are cows."
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a2_u21_l01_pr01",
+              "type": "match",
+              "pairs": [
+                { "french": "le mouton", "english": "the sheep" },
+                { "french": "le canard", "english": "the duck" },
+                { "french": "la chèvre", "english": "the goat" },
+                { "french": "le cochon", "english": "the pig" }
+              ]
+            },
+            {
+              "id": "a2_u21_l01_pr02",
+              "type": "fillBlank",
+              "prompt": "Le chien ___ quand quelqu'un arrive.",
+              "answer": "aboie"
+            },
+            {
+              "id": "a2_u21_l01_pr03",
+              "type": "multipleChoice",
+              "prompt": "Quel est le pluriel de « un cheval » ?",
+              "options": ["des chevals", "des chevaux", "des chevals-x", "des chevales"],
+              "answer": "des chevaux"
+            },
+            {
+              "id": "a2_u21_l01_pr04",
+              "type": "fillBlank",
+              "prompt": "J'ai peur ___ serpents.",
+              "answer": "des"
+            },
+            {
+              "id": "a2_u21_l01_pr05",
+              "type": "arrangeWords",
+              "words": ["singe", "les", "grimpe", "dans", "le", "arbres"],
+              "answer": "le singe grimpe dans les arbres",
+              "english": "The monkey climbs in the trees."
+            },
+            {
+              "id": "a2_u21_l01_pr06",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "I feed the hens every morning.",
+              "answer": "Je nourris les poules tous les matins.",
+              "acceptedAnswers": ["Je nourris les poules tous les matins", "je nourris les poules tous les matins"]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a2_u21_l01_qz01",
+              "type": "multipleChoice",
+              "prompt": "Comment dit-on « the bee » en français ?",
+              "options": ["l'abeille", "le papillon", "l'oiseau", "la souris"],
+              "answer": "l'abeille"
+            },
+            {
+              "id": "a2_u21_l01_qz02",
+              "type": "multipleChoice",
+              "prompt": "Quel animal n'est pas un animal de la ferme ?",
+              "options": ["la vache", "le tigre", "la poule", "le mouton"],
+              "answer": "le tigre"
+            },
+            {
+              "id": "a2_u21_l01_qz03",
+              "type": "fillBlank",
+              "prompt": "Le pluriel de « un animal » est « des ___ ».",
+              "answer": "animaux"
+            },
+            {
+              "id": "a2_u21_l01_qz04",
+              "type": "trueFalse",
+              "prompt": "« Miauler » est le cri du chat.",
+              "options": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "a2_u21_l01_qz05",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "My sister looks after the horses.",
+              "answer": "Ma sœur s'occupe des chevaux.",
+              "acceptedAnswers": ["Ma sœur s'occupe des chevaux", "Ma soeur s'occupe des chevaux", "ma soeur s'occupe des chevaux"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2_u21_l02",
+      "level": "A2",
+      "unit": 21,
+      "title": "La campagne",
+      "description": "Describe the countryside, the landscape and what you do outdoors.",
+      "estimatedMinutes": 16,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Landscape words: le paysage",
+              "body": "La campagne is the countryside, the opposite of la ville. Inside it you find la forêt, la rivière, la montagne and les champs. Use aller à la campagne to talk about going there, and habiter à la campagne to say you live there.",
+              "examples": [
+                { "french": "Nous allons à la campagne chaque week-end.", "english": "We go to the countryside every weekend." },
+                { "french": "Il y a une grande forêt derrière le village.", "english": "There is a big forest behind the village." },
+                { "french": "La rivière traverse la vallée.", "english": "The river crosses the valley." },
+                { "french": "On voit la montagne depuis la fenêtre.", "english": "You can see the mountain from the window." },
+                { "french": "Le paysage est vraiment magnifique ici.", "english": "The landscape is really magnificent here." }
+              ],
+              "tip": "Une rivière flows into another river; un fleuve flows into the sea. La Seine is un fleuve."
+            },
+            {
+              "heading": "Describing a place",
+              "body": "To describe a place, start with c'est plus an adjective, or il y a plus a noun. Useful adjectives are calme, tranquille, joli, vert and magnifique. Adjectives agree with the noun: une région tranquille, des villages tranquilles.",
+              "examples": [
+                { "french": "C'est très calme ici.", "english": "It is very quiet here." },
+                { "french": "Le village est petit et tranquille.", "english": "The village is small and quiet." },
+                { "french": "Il y a des fleurs partout au printemps.", "english": "There are flowers everywhere in spring." },
+                { "french": "La vue sur le lac est magnifique.", "english": "The view over the lake is magnificent." },
+                { "french": "Ce n'est pas bruyant comme en ville.", "english": "It is not noisy like in the city." }
+              ],
+              "tip": "Calme describes a place with no noise; tranquille suggests peaceful and relaxing."
+            },
+            {
+              "heading": "Outdoor activities",
+              "body": "In the countryside people se promènent (go for a walk), font une randonnée (go hiking) or font un pique-nique. Use faire for most activities, and se promener as a reflexive verb: je me promène, nous nous promenons.",
+              "examples": [
+                { "french": "On se promène dans la forêt le dimanche.", "english": "We go for a walk in the forest on Sundays." },
+                { "french": "Nous avons fait une randonnée en montagne.", "english": "We went hiking in the mountains." },
+                { "french": "Ils ont fait un pique-nique au bord de la rivière.", "english": "They had a picnic by the river." },
+                { "french": "Les enfants grimpent dans les arbres.", "english": "The children climb in the trees." },
+                { "french": "J'aime cueillir des fleurs dans les champs.", "english": "I like picking flowers in the fields." }
+              ],
+              "tip": "Au bord de means at the edge of: au bord de la rivière, au bord du lac."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "la-campagne", "french": "la campagne", "english": "the countryside", "partOfSpeech": "noun", "gender": "f", "plural": "les campagnes", "pronunciation": "lah kahm-PAHN-yuh", "example": "Je préfère la campagne à la ville.", "exampleEnglish": "I prefer the countryside to the city.", "level": "A2", "category": "nature" },
+            { "id": "la-foret", "french": "la forêt", "english": "the forest", "partOfSpeech": "noun", "gender": "f", "plural": "les forêts", "pronunciation": "lah fo-REH", "example": "Nous marchons dans la forêt.", "exampleEnglish": "We are walking in the forest.", "level": "A2", "category": "nature" },
+            { "id": "riviere", "french": "la rivière", "english": "the river", "partOfSpeech": "noun", "gender": "f", "plural": "les rivières", "pronunciation": "lah ree-VYAIR", "example": "L'eau de la rivière est froide.", "exampleEnglish": "The water of the river is cold.", "level": "A2", "category": "nature" },
+            { "id": "fleuve", "french": "le fleuve", "english": "the river (flowing into the sea)", "partOfSpeech": "noun", "gender": "m", "plural": "les fleuves", "pronunciation": "luh fluhv", "example": "La Loire est le plus long fleuve de France.", "exampleEnglish": "The Loire is the longest river in France.", "level": "A2", "category": "nature" },
+            { "id": "la-montagne", "french": "la montagne", "english": "the mountain", "partOfSpeech": "noun", "gender": "f", "plural": "les montagnes", "pronunciation": "lah mon-TAHN-yuh", "example": "Nous passons nos vacances à la montagne.", "exampleEnglish": "We spend our holidays in the mountains.", "level": "A2", "category": "nature" },
+            { "id": "colline", "french": "la colline", "english": "the hill", "partOfSpeech": "noun", "gender": "f", "plural": "les collines", "pronunciation": "lah ko-LEEN", "example": "Le village est sur une colline.", "exampleEnglish": "The village is on a hill.", "level": "A2", "category": "nature" },
+            { "id": "vallee", "french": "la vallée", "english": "the valley", "partOfSpeech": "noun", "gender": "f", "plural": "les vallées", "pronunciation": "lah vah-LAY", "example": "La vallée est verte au printemps.", "exampleEnglish": "The valley is green in spring.", "level": "A2", "category": "nature" },
+            { "id": "champ", "french": "le champ", "english": "the field", "partOfSpeech": "noun", "gender": "m", "plural": "les champs", "pronunciation": "luh shahn", "example": "Les champs de blé sont immenses.", "exampleEnglish": "The wheat fields are huge.", "level": "A2", "category": "nature" },
+            { "id": "le-pre", "french": "le pré", "english": "the meadow", "partOfSpeech": "noun", "gender": "m", "plural": "les prés", "pronunciation": "luh pray", "example": "Les vaches sont dans le pré.", "exampleEnglish": "The cows are in the meadow.", "level": "A2", "category": "nature" },
+            { "id": "le-lac", "french": "le lac", "english": "the lake", "partOfSpeech": "noun", "gender": "m", "plural": "les lacs", "pronunciation": "luh lahk", "example": "On peut nager dans le lac en été.", "exampleEnglish": "You can swim in the lake in summer.", "level": "A2", "category": "nature" },
+            { "id": "l-arbre", "french": "l'arbre", "english": "the tree", "partOfSpeech": "noun", "gender": "m", "plural": "les arbres", "pronunciation": "LAR-bruh", "example": "Cet arbre a plus de cent ans.", "exampleEnglish": "This tree is more than a hundred years old.", "level": "A2", "category": "nature" },
+            { "id": "la-feuille", "french": "la feuille", "english": "the leaf", "partOfSpeech": "noun", "gender": "f", "plural": "les feuilles", "pronunciation": "lah FUH-yuh", "example": "Les feuilles tombent en automne.", "exampleEnglish": "The leaves fall in autumn.", "level": "A2", "category": "nature" },
+            { "id": "la-branche", "french": "la branche", "english": "the branch", "partOfSpeech": "noun", "gender": "f", "plural": "les branches", "pronunciation": "lah brahnsh", "example": "Un oiseau est posé sur la branche.", "exampleEnglish": "A bird is sitting on the branch.", "level": "A2", "category": "nature" },
+            { "id": "fleur", "french": "la fleur", "english": "the flower", "partOfSpeech": "noun", "gender": "f", "plural": "les fleurs", "pronunciation": "lah fluhr", "example": "Il y a des fleurs jaunes dans le champ.", "exampleEnglish": "There are yellow flowers in the field.", "level": "A2", "category": "nature" },
+            { "id": "l-herbe", "french": "l'herbe", "english": "the grass", "partOfSpeech": "noun", "gender": "f", "plural": "les herbes", "pronunciation": "LAIRB", "example": "Nous sommes assis dans l'herbe.", "exampleEnglish": "We are sitting on the grass.", "level": "A2", "category": "nature" },
+            { "id": "le-bois", "french": "le bois", "english": "the wood, the woods", "partOfSpeech": "noun", "gender": "m", "plural": "les bois", "pronunciation": "luh bwah", "example": "Il y a un petit bois derrière la maison.", "exampleEnglish": "There is a small wood behind the house.", "level": "A2", "category": "nature" },
+            { "id": "le-chemin", "french": "le chemin", "english": "the path, the way", "partOfSpeech": "noun", "gender": "m", "plural": "les chemins", "pronunciation": "luh shuh-MAN", "example": "Ce chemin va jusqu'à la rivière.", "exampleEnglish": "This path goes as far as the river.", "level": "A2", "category": "nature" },
+            { "id": "sentier", "french": "le sentier", "english": "the trail, the footpath", "partOfSpeech": "noun", "gender": "m", "plural": "les sentiers", "pronunciation": "luh sahn-TYAY", "example": "Le sentier monte vers la forêt.", "exampleEnglish": "The trail goes up towards the forest.", "level": "A2", "category": "nature" },
+            { "id": "le-pont", "french": "le pont", "english": "the bridge", "partOfSpeech": "noun", "gender": "m", "plural": "les ponts", "pronunciation": "luh pon", "example": "On traverse la rivière par un vieux pont.", "exampleEnglish": "You cross the river over an old bridge.", "level": "A2", "category": "nature" },
+            { "id": "le-village", "french": "le village", "english": "the village", "partOfSpeech": "noun", "gender": "m", "plural": "les villages", "pronunciation": "luh vee-LAHZH", "example": "Notre village a trois cents habitants.", "exampleEnglish": "Our village has three hundred inhabitants.", "level": "A2", "category": "nature" },
+            { "id": "paysage", "french": "le paysage", "english": "the landscape, the scenery", "partOfSpeech": "noun", "gender": "m", "plural": "les paysages", "pronunciation": "luh pay-ee-ZAHZH", "example": "J'adore le paysage de cette région.", "exampleEnglish": "I love the landscape of this region.", "level": "A2", "category": "nature" },
+            { "id": "la-nature", "french": "la nature", "english": "nature", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah nah-TÜR", "example": "En vacances, je passe du temps dans la nature.", "exampleEnglish": "On holiday I spend time in nature.", "level": "A2", "category": "nature" },
+            { "id": "le-ciel", "french": "le ciel", "english": "the sky", "partOfSpeech": "noun", "gender": "m", "plural": "les cieux", "pronunciation": "luh syel", "example": "Le ciel est bleu ce matin.", "exampleEnglish": "The sky is blue this morning.", "level": "A2", "category": "nature" },
+            { "id": "soleil", "french": "le soleil", "english": "the sun", "partOfSpeech": "noun", "gender": "m", "plural": "les soleils", "pronunciation": "luh so-LAY", "example": "Le soleil se couche derrière la colline.", "exampleEnglish": "The sun sets behind the hill.", "level": "A2", "category": "nature" },
+            { "id": "le-nuage", "french": "le nuage", "english": "the cloud", "partOfSpeech": "noun", "gender": "m", "plural": "les nuages", "pronunciation": "luh nü-AHZH", "example": "Il y a beaucoup de nuages aujourd'hui.", "exampleEnglish": "There are a lot of clouds today.", "level": "A2", "category": "nature" },
+            { "id": "l-etoile", "french": "l'étoile", "english": "the star", "partOfSpeech": "noun", "gender": "f", "plural": "les étoiles", "pronunciation": "lay-TWAHL", "example": "À la campagne, on voit toutes les étoiles.", "exampleEnglish": "In the countryside you can see all the stars.", "level": "A2", "category": "nature" },
+            { "id": "la-pierre", "french": "la pierre", "english": "the stone", "partOfSpeech": "noun", "gender": "f", "plural": "les pierres", "pronunciation": "lah pyair", "example": "La maison est construite en pierre.", "exampleEnglish": "The house is built of stone.", "level": "A2", "category": "nature" },
+            { "id": "calme", "french": "calme", "english": "quiet, calm", "partOfSpeech": "adjective", "pronunciation": "kahlm", "example": "Le village est très calme la nuit.", "exampleEnglish": "The village is very quiet at night.", "level": "A2", "category": "nature" },
+            { "id": "tranquille", "french": "tranquille", "english": "peaceful, quiet", "partOfSpeech": "adjective", "pronunciation": "trahn-KEEL", "example": "C'est un endroit tranquille pour lire.", "exampleEnglish": "It is a peaceful place to read.", "level": "A2", "category": "nature" },
+            { "id": "magnifique", "french": "magnifique", "english": "magnificent, beautiful", "partOfSpeech": "adjective", "pronunciation": "mah-nyee-FEEK", "example": "La vue est magnifique depuis le sommet.", "exampleEnglish": "The view is magnificent from the top.", "level": "A2", "category": "nature" },
+            { "id": "la-promenade", "french": "la promenade", "english": "the walk, the stroll", "partOfSpeech": "noun", "gender": "f", "plural": "les promenades", "pronunciation": "lah pro-muh-NAHD", "example": "On fait une promenade après le déjeuner.", "exampleEnglish": "We take a walk after lunch.", "level": "A2", "category": "nature" },
+            { "id": "le-pique-nique", "french": "le pique-nique", "english": "the picnic", "partOfSpeech": "noun", "gender": "m", "plural": "les pique-niques", "pronunciation": "luh peek-NEEK", "example": "Nous organisons un pique-nique au bord du lac.", "exampleEnglish": "We are organising a picnic by the lake.", "level": "A2", "category": "nature" },
+            { "id": "la-randonnee", "french": "la randonnée", "english": "the hike", "partOfSpeech": "noun", "gender": "f", "plural": "les randonnées", "pronunciation": "lah rahn-do-NAY", "example": "La randonnée dure trois heures.", "exampleEnglish": "The hike lasts three hours.", "level": "A2", "category": "nature" },
+            { "id": "se-promener", "french": "se promener", "english": "to go for a walk", "partOfSpeech": "verb", "pronunciation": "suh prom-NAY", "example": "Je me promène souvent dans les champs.", "exampleEnglish": "I often go for a walk in the fields.", "level": "A2", "category": "nature" },
+            { "id": "grimper", "french": "grimper", "english": "to climb", "partOfSpeech": "verb", "pronunciation": "gran-PAY", "example": "Les enfants grimpent sur les rochers.", "exampleEnglish": "The children climb on the rocks.", "level": "A2", "category": "nature" },
+            { "id": "cueillir", "french": "cueillir", "english": "to pick (flowers, fruit)", "partOfSpeech": "verb", "pronunciation": "kuh-YEER", "example": "Nous allons cueillir des fraises.", "exampleEnglish": "We are going to pick strawberries.", "level": "A2", "category": "nature" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Saying where things are: prepositions of place",
+              "body": "To place things in a landscape, French uses short prepositions. Dans means inside, sur means on, sous means under, entre means between, and derrière means behind. Longer ones end in de and contract: au bord de, au milieu de, à côté de, près de, loin de.",
+              "examples": [
+                { "french": "La maison est au bord du lac.", "english": "The house is at the edge of the lake.", "note": "de + le = du" },
+                { "french": "Il y a un arbre au milieu du champ.", "english": "There is a tree in the middle of the field." },
+                { "french": "Le village est entre la forêt et la rivière.", "english": "The village is between the forest and the river." },
+                { "french": "Nous marchons sur le sentier.", "english": "We are walking on the trail." },
+                { "french": "La ferme est loin de la ville.", "english": "The farm is far from the town." }
+              ],
+              "tip": "With à la campagne and à la montagne, French uses à, not dans: Je vais à la montagne."
+            },
+            {
+              "heading": "L'imparfait to describe places in the past",
+              "body": "To describe how a place used to be, use l'imparfait. Take the nous form of the present, drop -ons, and add -ais, -ais, -ait, -ions, -iez, -aient. Être is the only irregular stem: ét-. This tense sets the scene, while the passé composé tells what happened.",
+              "examples": [
+                { "french": "Quand j'étais petit, j'allais souvent à la campagne.", "english": "When I was little, I often went to the countryside." },
+                { "french": "Le village était très calme.", "english": "The village was very quiet." },
+                { "french": "Il y avait une rivière derrière la maison.", "english": "There was a river behind the house." },
+                { "french": "Nous nous promenions dans la forêt tous les jours.", "english": "We used to walk in the forest every day." },
+                { "french": "Les enfants grimpaient dans les arbres.", "english": "The children used to climb in the trees." }
+              ],
+              "tip": "Il y a becomes il y avait in the imparfait — the single most useful form for describing a place."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a2_u21_l02_li01",
+              "type": "listenChoose",
+              "french": "Le village est au bord de la rivière.",
+              "options": ["The village is by the river.", "The village is on the mountain.", "The village is far from the river.", "The bridge is by the river."],
+              "answer": "The village is by the river."
+            },
+            {
+              "id": "a2_u21_l02_li02",
+              "type": "listenChoose",
+              "french": "Quand j'étais petite, il y avait une forêt derrière la maison.",
+              "options": ["When I was little, there was a forest behind the house.", "When I was little, there was a field behind the house.", "When I am little, there is a forest behind the house.", "When I was little, there was a forest in front of the house."],
+              "answer": "When I was little, there was a forest behind the house."
+            },
+            {
+              "id": "a2_u21_l02_li03",
+              "type": "listenType",
+              "french": "Le paysage est magnifique.",
+              "answer": "Le paysage est magnifique.",
+              "acceptedAnswers": ["Le paysage est magnifique", "le paysage est magnifique"]
+            },
+            {
+              "id": "a2_u21_l02_li04",
+              "type": "dictation",
+              "french": "Nous faisons une randonnée en montagne.",
+              "answer": "Nous faisons une randonnée en montagne.",
+              "acceptedAnswers": ["Nous faisons une randonnee en montagne", "nous faisons une randonnée en montagne", "Nous faisons une randonnée en montagne"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a2_u21_l02_sp01",
+              "type": "speak",
+              "french": "J'habite dans un petit village à la campagne.",
+              "english": "I live in a small village in the countryside.",
+              "prompt": "Say where you live.",
+              "tip": "Campagne ends with the \"gn\" sound of onion: kahm-PAHN-yuh."
+            },
+            {
+              "id": "a2_u21_l02_sp02",
+              "type": "speak",
+              "french": "Il y a une rivière, des champs et une grande forêt.",
+              "english": "There is a river, fields and a big forest.",
+              "prompt": "Describe what you can see around you.",
+              "tip": "Forêt has a long open \"eh\" at the end; the circumflex just marks a lost s."
+            },
+            {
+              "id": "a2_u21_l02_sp03",
+              "type": "speak",
+              "french": "Le dimanche, nous nous promenions au bord du lac.",
+              "english": "On Sundays we used to walk by the lake.",
+              "prompt": "Say what you used to do at the weekend.",
+              "tip": "In promenions, keep the -ions ending light: pro-muh-NYON."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Un week-end à la campagne",
+              "french": "Samedi dernier, nous sommes allés à la campagne avec des amis.\nLe village se trouve dans une vallée, entre deux collines.\nIl y a une petite rivière, un vieux pont en pierre et beaucoup d'arbres.\nLe matin, nous avons fait une randonnée sur un sentier au milieu des champs.\nLe paysage était vraiment magnifique : des fleurs partout et un ciel tout bleu.\nÀ midi, nous avons fait un pique-nique dans l'herbe, au bord de l'eau.\nL'après-midi, les enfants ont grimpé dans les arbres et ont cueilli des fleurs.\nLe soir, le village était très calme ; on entendait seulement les oiseaux.\nQuand la nuit est tombée, on voyait toutes les étoiles.\nNous voulons revenir le mois prochain.",
+              "english": "Last Saturday we went to the countryside with some friends.\nThe village is in a valley, between two hills.\nThere is a small river, an old stone bridge and lots of trees.\nIn the morning we went on a hike along a trail in the middle of the fields.\nThe landscape was really magnificent: flowers everywhere and a completely blue sky.\nAt midday we had a picnic on the grass, by the water.\nIn the afternoon the children climbed in the trees and picked flowers.\nIn the evening the village was very quiet; you could only hear the birds.\nWhen night fell, you could see all the stars.\nWe want to come back next month.",
+              "questions": [
+                {
+                  "id": "a2_u21_l02_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Où se trouve le village ?",
+                  "options": ["Au bord de la mer", "Dans une vallée, entre deux collines", "Sur une montagne", "Dans une grande ville"],
+                  "answer": "Dans une vallée, entre deux collines"
+                },
+                {
+                  "id": "a2_u21_l02_rd02",
+                  "type": "trueFalse",
+                  "prompt": "Le pique-nique a eu lieu au bord de l'eau.",
+                  "options": ["True", "False"],
+                  "answer": "True"
+                },
+                {
+                  "id": "a2_u21_l02_rd03",
+                  "type": "multipleChoice",
+                  "prompt": "Que faisaient les enfants l'après-midi ?",
+                  "options": ["Ils nageaient dans la rivière", "Ils dormaient dans l'herbe", "Ils grimpaient dans les arbres et cueillaient des fleurs", "Ils regardaient les étoiles"],
+                  "answer": "Ils grimpaient dans les arbres et cueillaient des fleurs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a2_u21_l02_wr01",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "The landscape is magnificent.",
+              "answer": "Le paysage est magnifique.",
+              "acceptedAnswers": ["Le paysage est magnifique", "le paysage est magnifique"]
+            },
+            {
+              "id": "a2_u21_l02_wr02",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "There was a small river behind the village.",
+              "answer": "Il y avait une petite rivière derrière le village.",
+              "acceptedAnswers": ["Il y avait une petite riviere derriere le village", "il y avait une petite rivière derrière le village", "Il y avait une petite rivière derrière le village"]
+            },
+            {
+              "id": "a2_u21_l02_wr03",
+              "type": "arrangeWords",
+              "words": ["forêt", "nous", "la", "promenons", "dans", "nous"],
+              "answer": "nous nous promenons dans la forêt",
+              "english": "We go for a walk in the forest."
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a2_u21_l02_pr01",
+              "type": "match",
+              "pairs": [
+                { "french": "la colline", "english": "the hill" },
+                { "french": "le pré", "english": "the meadow" },
+                { "french": "le sentier", "english": "the trail" },
+                { "french": "l'étoile", "english": "the star" }
+              ]
+            },
+            {
+              "id": "a2_u21_l02_pr02",
+              "type": "fillBlank",
+              "prompt": "La maison est au bord ___ lac.",
+              "answer": "du"
+            },
+            {
+              "id": "a2_u21_l02_pr03",
+              "type": "multipleChoice",
+              "prompt": "Quel mot désigne un cours d'eau qui va jusqu'à la mer ?",
+              "options": ["la rivière", "le fleuve", "le lac", "la vallée"],
+              "answer": "le fleuve"
+            },
+            {
+              "id": "a2_u21_l02_pr04",
+              "type": "fillBlank",
+              "prompt": "Quand j'étais petit, il y ___ une forêt derrière la maison.",
+              "answer": "avait"
+            },
+            {
+              "id": "a2_u21_l02_pr05",
+              "type": "arrangeWords",
+              "words": ["calme", "village", "très", "le", "est"],
+              "answer": "le village est très calme",
+              "english": "The village is very quiet."
+            },
+            {
+              "id": "a2_u21_l02_pr06",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "We are going to have a picnic in the meadow.",
+              "answer": "Nous allons faire un pique-nique dans le pré.",
+              "acceptedAnswers": ["Nous allons faire un pique-nique dans le pre", "nous allons faire un pique-nique dans le pré", "On va faire un pique-nique dans le pré"]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a2_u21_l02_qz01",
+              "type": "multipleChoice",
+              "prompt": "Comment dit-on « the leaf » en français ?",
+              "options": ["la branche", "la feuille", "la fleur", "l'herbe"],
+              "answer": "la feuille"
+            },
+            {
+              "id": "a2_u21_l02_qz02",
+              "type": "multipleChoice",
+              "prompt": "Complétez : « Nous ___ une randonnée en montagne samedi dernier. »",
+              "options": ["avons fait", "faisons", "ferons", "faire"],
+              "answer": "avons fait"
+            },
+            {
+              "id": "a2_u21_l02_qz03",
+              "type": "fillBlank",
+              "prompt": "Quand j'étais enfant, j'___ souvent à la campagne. (aller, imparfait)",
+              "answer": "allais"
+            },
+            {
+              "id": "a2_u21_l02_qz04",
+              "type": "trueFalse",
+              "prompt": "« Tranquille » veut dire « bruyant ».",
+              "options": ["True", "False"],
+              "answer": "False"
+            },
+            {
+              "id": "a2_u21_l02_qz05",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "There is a stone bridge in the village.",
+              "answer": "Il y a un pont en pierre dans le village.",
+              "acceptedAnswers": ["Il y a un pont en pierre dans le village", "il y a un pont en pierre dans le village"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2_u21_l03",
+      "level": "A2",
+      "unit": 21,
+      "title": "Protéger la nature",
+      "description": "Talk about sorting waste, recycling and simple things we must do for the planet.",
+      "estimatedMinutes": 15,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Sorting and recycling: le tri",
+              "body": "Le tri means sorting your rubbish, and the verb is trier. Each material goes in a different bin: le verre, le papier, le carton, le plastique. Recycler means to recycle and le recyclage is the process.",
+              "examples": [
+                { "french": "Chez nous, on trie les déchets.", "english": "At home we sort the waste." },
+                { "french": "Le verre va dans la poubelle verte.", "english": "Glass goes in the green bin." },
+                { "french": "On peut recycler le papier et le carton.", "english": "You can recycle paper and cardboard." },
+                { "french": "Le tri est obligatoire dans notre immeuble.", "english": "Sorting is compulsory in our building." },
+                { "french": "Ces bouteilles en plastique sont recyclables.", "english": "These plastic bottles are recyclable." }
+              ],
+              "tip": "In France, bin lids are colour-coded: jaune for packaging, vert for glass, bleu for paper."
+            },
+            {
+              "heading": "Small everyday habits",
+              "body": "Simple actions are called des gestes. Useful verbs are éteindre (to switch off), économiser (to save), gaspiller (to waste), ramasser (to pick up) and réutiliser (to reuse). Use ne pas + infinitive after il faut for things to avoid.",
+              "examples": [
+                { "french": "J'éteins la lumière quand je sors.", "english": "I switch off the light when I leave." },
+                { "french": "Il ne faut pas gaspiller l'eau.", "english": "You must not waste water." },
+                { "french": "Nous économisons l'énergie à la maison.", "english": "We save energy at home." },
+                { "french": "Elle ramasse les déchets sur la plage.", "english": "She picks up the litter on the beach." },
+                { "french": "J'utilise un sac réutilisable pour les courses.", "english": "I use a reusable bag for the shopping." }
+              ],
+              "tip": "Éteindre is irregular: j'éteins, tu éteins, il éteint, nous éteignons, vous éteignez, ils éteignent."
+            },
+            {
+              "heading": "Talking about the planet",
+              "body": "La planète and la Terre both mean our world. La pollution comes from polluer, and le réchauffement climatique is global warming. Écologique describes anything good for the environment.",
+              "examples": [
+                { "french": "La pollution de l'air est un grand problème.", "english": "Air pollution is a big problem." },
+                { "french": "Il faut protéger la planète.", "english": "We must protect the planet." },
+                { "french": "Le réchauffement climatique change les saisons.", "english": "Global warming is changing the seasons." },
+                { "french": "Le vélo est un moyen de transport écologique.", "english": "The bicycle is an environmentally friendly means of transport." },
+                { "french": "Chaque petit geste compte pour l'environnement.", "english": "Every small action counts for the environment." }
+              ],
+              "tip": "La Terre takes a capital letter when it means the planet, but la terre means soil or ground."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "environnement", "french": "l'environnement", "english": "the environment", "partOfSpeech": "noun", "gender": "m", "plural": "les environnements", "pronunciation": "lahn-vee-ron-MAHN", "example": "Il faut respecter l'environnement.", "exampleEnglish": "We must respect the environment.", "level": "A2", "category": "environment" },
+            { "id": "proteger", "french": "protéger", "english": "to protect", "partOfSpeech": "verb", "pronunciation": "pro-tay-ZHAY", "example": "Nous devons protéger la nature.", "exampleEnglish": "We must protect nature.", "level": "A2", "category": "environment" },
+            { "id": "la-protection", "french": "la protection", "english": "the protection", "partOfSpeech": "noun", "gender": "f", "plural": "les protections", "pronunciation": "lah pro-tek-SYON", "example": "La protection des animaux est importante.", "exampleEnglish": "The protection of animals is important.", "level": "A2", "category": "environment" },
+            { "id": "tri", "french": "le tri", "english": "the sorting (of waste)", "partOfSpeech": "noun", "gender": "m", "plural": "les tris", "pronunciation": "luh tree", "example": "Le tri des déchets est simple.", "exampleEnglish": "Sorting waste is simple.", "level": "A2", "category": "environment" },
+            { "id": "trier", "french": "trier", "english": "to sort", "partOfSpeech": "verb", "pronunciation": "tree-YAY", "example": "Je trie le verre et le carton.", "exampleEnglish": "I sort the glass and the cardboard.", "level": "A2", "category": "environment" },
+            { "id": "recyclage", "french": "le recyclage", "english": "recycling", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh ruh-see-KLAHZH", "example": "Le recyclage du plastique est difficile.", "exampleEnglish": "Recycling plastic is difficult.", "level": "A2", "category": "environment" },
+            { "id": "recycler", "french": "recycler", "english": "to recycle", "partOfSpeech": "verb", "pronunciation": "ruh-see-KLAY", "example": "On peut recycler ces bouteilles.", "exampleEnglish": "You can recycle these bottles.", "level": "A2", "category": "environment" },
+            { "id": "la-poubelle", "french": "la poubelle", "english": "the bin, the rubbish bin", "partOfSpeech": "noun", "gender": "f", "plural": "les poubelles", "pronunciation": "lah poo-BELL", "example": "Mets le papier dans la poubelle bleue.", "exampleEnglish": "Put the paper in the blue bin.", "level": "A2", "category": "environment" },
+            { "id": "le-dechet", "french": "le déchet", "english": "the piece of waste, the rubbish", "partOfSpeech": "noun", "gender": "m", "plural": "les déchets", "pronunciation": "luh day-SHEH", "example": "Nous produisons trop de déchets.", "exampleEnglish": "We produce too much waste.", "level": "A2", "category": "environment" },
+            { "id": "plastique", "french": "le plastique", "english": "plastic", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh plah-STEEK", "example": "Il y a trop de plastique dans la mer.", "exampleEnglish": "There is too much plastic in the sea.", "level": "A2", "category": "environment" },
+            { "id": "verre-matiere", "french": "le verre", "english": "glass (the material)", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh vair", "example": "Le verre se recycle à l'infini.", "exampleEnglish": "Glass can be recycled endlessly.", "level": "A2", "category": "environment" },
+            { "id": "le-papier", "french": "le papier", "english": "paper", "partOfSpeech": "noun", "gender": "m", "plural": "les papiers", "pronunciation": "luh pah-PYAY", "example": "N'utilise pas trop de papier.", "exampleEnglish": "Do not use too much paper.", "level": "A2", "category": "environment" },
+            { "id": "le-carton", "french": "le carton", "english": "cardboard", "partOfSpeech": "noun", "gender": "m", "plural": "les cartons", "pronunciation": "luh kar-TON", "example": "Le carton va avec le papier.", "exampleEnglish": "Cardboard goes with the paper.", "level": "A2", "category": "environment" },
+            { "id": "la-bouteille", "french": "la bouteille", "english": "the bottle", "partOfSpeech": "noun", "gender": "f", "plural": "les bouteilles", "pronunciation": "lah boo-TAY-yuh", "example": "J'ai une bouteille réutilisable.", "exampleEnglish": "I have a reusable bottle.", "level": "A2", "category": "environment" },
+            { "id": "l-emballage", "french": "l'emballage", "english": "the packaging", "partOfSpeech": "noun", "gender": "m", "plural": "les emballages", "pronunciation": "lahn-bah-LAHZH", "example": "Il y a trop d'emballages dans ce produit.", "exampleEnglish": "There is too much packaging in this product.", "level": "A2", "category": "environment" },
+            { "id": "pollution", "french": "la pollution", "english": "the pollution", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah po-lü-SYON", "example": "La pollution augmente en ville.", "exampleEnglish": "Pollution is increasing in the city.", "level": "A2", "category": "environment" },
+            { "id": "polluer", "french": "polluer", "english": "to pollute", "partOfSpeech": "verb", "pronunciation": "po-lü-AY", "example": "Les voitures polluent beaucoup.", "exampleEnglish": "Cars pollute a lot.", "level": "A2", "category": "environment" },
+            { "id": "propre", "french": "propre", "english": "clean", "partOfSpeech": "adjective", "pronunciation": "PRO-pruh", "example": "La rivière est propre depuis deux ans.", "exampleEnglish": "The river has been clean for two years.", "level": "A2", "category": "environment" },
+            { "id": "sale", "french": "sale", "english": "dirty", "partOfSpeech": "adjective", "pronunciation": "sahl", "example": "La plage est sale après l'été.", "exampleEnglish": "The beach is dirty after the summer.", "level": "A2", "category": "environment" },
+            { "id": "gaspiller", "french": "gaspiller", "english": "to waste", "partOfSpeech": "verb", "pronunciation": "gah-spee-YAY", "example": "Il ne faut pas gaspiller la nourriture.", "exampleEnglish": "You must not waste food.", "level": "A2", "category": "environment" },
+            { "id": "economiser", "french": "économiser", "english": "to save (energy, money)", "partOfSpeech": "verb", "pronunciation": "ay-ko-no-mee-ZAY", "example": "Nous économisons l'eau en été.", "exampleEnglish": "We save water in the summer.", "level": "A2", "category": "environment" },
+            { "id": "l-energie", "french": "l'énergie", "english": "the energy", "partOfSpeech": "noun", "gender": "f", "plural": "les énergies", "pronunciation": "lay-nair-ZHEE", "example": "Cette maison consomme peu d'énergie.", "exampleEnglish": "This house uses little energy.", "level": "A2", "category": "environment" },
+            { "id": "l-electricite", "french": "l'électricité", "english": "the electricity", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lay-lek-tree-see-TAY", "example": "On économise l'électricité avec des ampoules LED.", "exampleEnglish": "We save electricity with LED bulbs.", "level": "A2", "category": "environment" },
+            { "id": "eau", "french": "l'eau", "english": "the water", "partOfSpeech": "noun", "gender": "f", "plural": "les eaux", "pronunciation": "loh", "example": "Ferme le robinet pour économiser l'eau.", "exampleEnglish": "Turn off the tap to save water.", "level": "A2", "category": "environment" },
+            { "id": "eteindre", "french": "éteindre", "english": "to switch off, to turn off", "partOfSpeech": "verb", "pronunciation": "ay-TAN-druh", "example": "Éteins la lumière, s'il te plaît.", "exampleEnglish": "Switch off the light, please.", "level": "A2", "category": "environment" },
+            { "id": "jeter", "french": "jeter", "english": "to throw away", "partOfSpeech": "verb", "pronunciation": "zhuh-TAY", "example": "Ne jette pas les piles à la poubelle.", "exampleEnglish": "Do not throw batteries in the bin.", "level": "A2", "category": "environment" },
+            { "id": "ramasser", "french": "ramasser", "english": "to pick up", "partOfSpeech": "verb", "pronunciation": "rah-mah-SAY", "example": "Les élèves ramassent les déchets dans le parc.", "exampleEnglish": "The pupils pick up the litter in the park.", "level": "A2", "category": "environment" },
+            { "id": "reutiliser", "french": "réutiliser", "english": "to reuse", "partOfSpeech": "verb", "pronunciation": "ray-ü-tee-lee-ZAY", "example": "On peut réutiliser ce sac plusieurs fois.", "exampleEnglish": "You can reuse this bag several times.", "level": "A2", "category": "environment" },
+            { "id": "planete", "french": "la planète", "english": "the planet", "partOfSpeech": "noun", "gender": "f", "plural": "les planètes", "pronunciation": "lah plah-NET", "example": "Notre planète a besoin de nous.", "exampleEnglish": "Our planet needs us.", "level": "A2", "category": "environment" },
+            { "id": "terre-planete", "french": "la Terre", "english": "the Earth", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah tair", "example": "La Terre est la seule planète habitée.", "exampleEnglish": "The Earth is the only inhabited planet.", "level": "A2", "category": "environment" },
+            { "id": "climat", "french": "le climat", "english": "the climate", "partOfSpeech": "noun", "gender": "m", "plural": "les climats", "pronunciation": "luh klee-MAH", "example": "Le climat change très vite.", "exampleEnglish": "The climate is changing very fast.", "level": "A2", "category": "environment" },
+            { "id": "rechauffement-climatique", "french": "le réchauffement climatique", "english": "global warming", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh ray-shohf-MAHN klee-mah-TEEK", "example": "Le réchauffement climatique inquiète les jeunes.", "exampleEnglish": "Global warming worries young people.", "level": "A2", "category": "environment" },
+            { "id": "ecologique", "french": "écologique", "english": "ecological, eco-friendly", "partOfSpeech": "adjective", "pronunciation": "ay-ko-lo-ZHEEK", "example": "Ce produit est plus écologique.", "exampleEnglish": "This product is more eco-friendly.", "level": "A2", "category": "environment" },
+            { "id": "geste", "french": "le geste", "english": "the gesture, the action", "partOfSpeech": "noun", "gender": "m", "plural": "les gestes", "pronunciation": "luh zhest", "example": "Un petit geste pour la planète, c'est déjà bien.", "exampleEnglish": "A small action for the planet is already good.", "level": "A2", "category": "environment" },
+            { "id": "il-faut", "french": "il faut", "english": "you must, it is necessary to", "partOfSpeech": "expression", "pronunciation": "eel foh", "example": "Il faut trier ses déchets.", "exampleEnglish": "You must sort your waste.", "level": "A2", "category": "environment" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Il faut + infinitive",
+              "body": "Il faut comes from the verb falloir and exists only in the il form. Followed by an infinitive it means one must, we must, you must — a general rule, with no particular person. For the opposite, put ne … pas around faut: il ne faut pas jeter.",
+              "examples": [
+                { "french": "Il faut trier les déchets.", "english": "You must sort the waste." },
+                { "french": "Il faut éteindre la lumière en sortant.", "english": "You must switch off the light when leaving." },
+                { "french": "Il ne faut pas gaspiller l'eau.", "english": "You must not waste water." },
+                { "french": "Il ne faut pas jeter le verre à la poubelle.", "english": "You must not throw glass in the rubbish bin." },
+                { "french": "Il fallait déjà faire attention il y a dix ans.", "english": "People already had to be careful ten years ago.", "note": "imparfait: il fallait" }
+              ],
+              "tip": "Il faut never changes person. To say what a specific person must do, use devoir: je dois trier."
+            },
+            {
+              "heading": "L'impératif for advice",
+              "body": "The imperative gives direct advice. Take the present tense and drop the subject pronoun: tu tries → Trie !, nous trions → Trions !, vous triez → Triez ! With -er verbs, the tu form loses its final -s. For a negative order, put ne … pas around the verb.",
+              "examples": [
+                { "french": "Trie tes déchets !", "english": "Sort your waste!", "note": "tu form of an -er verb: no final -s" },
+                { "french": "Éteignez vos ordinateurs le soir.", "english": "Switch off your computers in the evening." },
+                { "french": "Ne jetons rien par terre.", "english": "Let's not throw anything on the ground." },
+                { "french": "Prends ton sac réutilisable.", "english": "Take your reusable bag." },
+                { "french": "N'utilise pas de bouteilles en plastique.", "english": "Do not use plastic bottles." }
+              ],
+              "tip": "Être and avoir are irregular: sois / soyons / soyez and aie / ayons / ayez."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a2_u21_l03_li01",
+              "type": "listenChoose",
+              "french": "Il faut trier le verre et le carton.",
+              "options": ["You must sort glass and cardboard.", "You must recycle glass and plastic.", "You must not sort glass and cardboard.", "You can buy glass and cardboard."],
+              "answer": "You must sort glass and cardboard."
+            },
+            {
+              "id": "a2_u21_l03_li02",
+              "type": "listenChoose",
+              "french": "Il ne faut pas gaspiller l'eau.",
+              "options": ["You must not waste water.", "You must drink water.", "You must not waste energy.", "You have to pay for water."],
+              "answer": "You must not waste water."
+            },
+            {
+              "id": "a2_u21_l03_li03",
+              "type": "listenType",
+              "french": "J'éteins la lumière quand je sors.",
+              "answer": "J'éteins la lumière quand je sors.",
+              "acceptedAnswers": ["J'eteins la lumiere quand je sors", "j'éteins la lumière quand je sors", "J'éteins la lumière quand je sors"]
+            },
+            {
+              "id": "a2_u21_l03_li04",
+              "type": "dictation",
+              "french": "Chaque petit geste compte pour la planète.",
+              "answer": "Chaque petit geste compte pour la planète.",
+              "acceptedAnswers": ["Chaque petit geste compte pour la planete", "chaque petit geste compte pour la planète", "Chaque petit geste compte pour la planète"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a2_u21_l03_sp01",
+              "type": "speak",
+              "french": "Chez moi, on trie les déchets tous les jours.",
+              "english": "At my house we sort the waste every day.",
+              "prompt": "Say what you do with your rubbish.",
+              "tip": "Déchets ends in a clear \"eh\": day-SHEH, with no final t sound."
+            },
+            {
+              "id": "a2_u21_l03_sp02",
+              "type": "speak",
+              "french": "Il faut protéger la planète pour nos enfants.",
+              "english": "We must protect the planet for our children.",
+              "prompt": "Give a reason for protecting the planet.",
+              "tip": "In il faut, the t is silent: say \"eel foh\" as one smooth group."
+            },
+            {
+              "id": "a2_u21_l03_sp03",
+              "type": "speak",
+              "french": "Je vais au travail à vélo pour moins polluer.",
+              "english": "I go to work by bike to pollute less.",
+              "prompt": "Say one eco-friendly habit you have.",
+              "tip": "Polluer has three syllables: po-lü-AY; keep the u tight and rounded."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Une journée verte à l'école",
+              "french": "Samedi, notre école a organisé une journée pour l'environnement.\nLe matin, nous sommes allés au bord de la rivière avec des sacs.\nNous avons ramassé les déchets : des bouteilles en plastique, du papier et du carton.\nEn deux heures, nous avons rempli douze grands sacs.\nAprès, un monsieur de la mairie nous a expliqué le tri.\nIl a dit : « Il faut trier le verre, mais il ne faut pas jeter les piles à la poubelle. »\nL'après-midi, chaque classe a planté un arbre dans le jardin de l'école.\nMa professeure a répété qu'il faut économiser l'eau et l'électricité.\nMaintenant, dans ma famille, nous éteignons toujours les lumières.\nCe n'est pas difficile, et la rivière est beaucoup plus propre.",
+              "english": "On Saturday our school organised a day for the environment.\nIn the morning we went to the riverside with bags.\nWe picked up the litter: plastic bottles, paper and cardboard.\nIn two hours we filled twelve big bags.\nAfterwards, a man from the town hall explained sorting to us.\nHe said: \"You must sort glass, but you must not throw batteries in the bin.\"\nIn the afternoon each class planted a tree in the school garden.\nMy teacher repeated that we must save water and electricity.\nNow, in my family, we always switch off the lights.\nIt is not difficult, and the river is much cleaner.",
+              "questions": [
+                {
+                  "id": "a2_u21_l03_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Qu'est-ce que les élèves ont fait le matin ?",
+                  "options": ["Ils ont planté des arbres", "Ils ont ramassé des déchets au bord de la rivière", "Ils ont visité la mairie", "Ils ont nettoyé la classe"],
+                  "answer": "Ils ont ramassé des déchets au bord de la rivière"
+                },
+                {
+                  "id": "a2_u21_l03_rd02",
+                  "type": "trueFalse",
+                  "prompt": "D'après le monsieur de la mairie, on peut jeter les piles à la poubelle.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                },
+                {
+                  "id": "a2_u21_l03_rd03",
+                  "type": "multipleChoice",
+                  "prompt": "Qu'est-ce que la famille du narrateur fait maintenant ?",
+                  "options": ["Elle plante un arbre chaque mois", "Elle éteint toujours les lumières", "Elle va à l'école à vélo", "Elle achète des bouteilles en plastique"],
+                  "answer": "Elle éteint toujours les lumières"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a2_u21_l03_wr01",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "You must sort the waste.",
+              "answer": "Il faut trier les déchets.",
+              "acceptedAnswers": ["Il faut trier les dechets", "il faut trier les déchets", "Il faut trier les déchets"]
+            },
+            {
+              "id": "a2_u21_l03_wr02",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "You must not waste water.",
+              "answer": "Il ne faut pas gaspiller l'eau.",
+              "acceptedAnswers": ["Il ne faut pas gaspiller l'eau", "il ne faut pas gaspiller l'eau"]
+            },
+            {
+              "id": "a2_u21_l03_wr03",
+              "type": "arrangeWords",
+              "words": ["planète", "protéger", "faut", "la", "il"],
+              "answer": "il faut protéger la planète",
+              "english": "We must protect the planet."
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a2_u21_l03_pr01",
+              "type": "match",
+              "pairs": [
+                { "french": "le tri", "english": "the sorting of waste" },
+                { "french": "la poubelle", "english": "the bin" },
+                { "french": "l'emballage", "english": "the packaging" },
+                { "french": "le climat", "english": "the climate" }
+              ]
+            },
+            {
+              "id": "a2_u21_l03_pr02",
+              "type": "fillBlank",
+              "prompt": "Il ___ trier ses déchets.",
+              "answer": "faut"
+            },
+            {
+              "id": "a2_u21_l03_pr03",
+              "type": "multipleChoice",
+              "prompt": "Quel verbe signifie « to waste » ?",
+              "options": ["économiser", "gaspiller", "ramasser", "recycler"],
+              "answer": "gaspiller"
+            },
+            {
+              "id": "a2_u21_l03_pr04",
+              "type": "fillBlank",
+              "prompt": "___ la lumière quand tu sors ! (éteindre, impératif tu)",
+              "answer": "Éteins"
+            },
+            {
+              "id": "a2_u21_l03_pr05",
+              "type": "arrangeWords",
+              "words": ["gaspiller", "il", "pas", "faut", "l'eau", "ne"],
+              "answer": "il ne faut pas gaspiller l'eau",
+              "english": "You must not waste water."
+            },
+            {
+              "id": "a2_u21_l03_pr06",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "We can recycle paper and cardboard.",
+              "answer": "On peut recycler le papier et le carton.",
+              "acceptedAnswers": ["On peut recycler le papier et le carton", "on peut recycler le papier et le carton", "Nous pouvons recycler le papier et le carton"]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a2_u21_l03_qz01",
+              "type": "multipleChoice",
+              "prompt": "Comment dit-on « the bin » en français ?",
+              "options": ["le déchet", "la poubelle", "le carton", "le tri"],
+              "answer": "la poubelle"
+            },
+            {
+              "id": "a2_u21_l03_qz02",
+              "type": "multipleChoice",
+              "prompt": "Complétez : « Il ___ pas jeter le verre à la poubelle. »",
+              "options": ["ne faut", "n'est", "ne doit", "ne va"],
+              "answer": "ne faut"
+            },
+            {
+              "id": "a2_u21_l03_qz03",
+              "type": "fillBlank",
+              "prompt": "Le contraire de « sale », c'est « ___ ».",
+              "answer": "propre"
+            },
+            {
+              "id": "a2_u21_l03_qz04",
+              "type": "trueFalse",
+              "prompt": "« Il faut » peut être suivi d'un infinitif.",
+              "options": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "a2_u21_l03_qz05",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "We save energy at home.",
+              "answer": "Nous économisons l'énergie à la maison.",
+              "acceptedAnswers": ["Nous economisons l'energie a la maison", "nous économisons l'énergie à la maison", "On économise l'énergie à la maison"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

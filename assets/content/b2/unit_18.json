@@ -1,0 +1,1053 @@
+{
+  "id": "b2_u18",
+  "level": "B2",
+  "unit": 18,
+  "title": "Urbanism & Territory",
+  "subtitle": "Talk about how cities are planned, described and preserved",
+  "icon": "🏗️",
+  "lessons": [
+    {
+      "id": "b2_u18_l01",
+      "level": "B2",
+      "unit": 18,
+      "title": "La ville de demain",
+      "description": "The vocabulary of urban planning: density, mixed use, mobility and heat islands.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Densifier ou s'étaler ?",
+              "body": "French urban debate turns on one central pair of opposites: la densification (building more homes on land already built on) and l'étalement urbain (urban sprawl at the edges). Planners argue that density is what makes shops, schools and buses viable, while sprawl consumes farmland. Note that dense and la densité are neutral technical words in French — the criticism is usually carried by the surrounding sentence, not by the noun itself.",
+              "examples": [
+                { "french": "La densification permet de loger plus de monde sans consommer de terres agricoles.", "english": "Densification makes it possible to house more people without using up farmland." },
+                { "french": "L'étalement urbain allonge les trajets et rend la voiture indispensable.", "english": "Urban sprawl lengthens journeys and makes the car indispensable." },
+                { "french": "On ne peut pas densifier partout de la même manière.", "english": "You cannot densify everywhere in the same way." },
+                { "french": "Ce quartier est dense, mais il reste très vert.", "english": "This district is dense, but it is still very green." },
+                { "french": "Construire en hauteur n'est qu'une des formes possibles de densification.", "english": "Building upwards is only one of the possible forms of densification." },
+                { "french": "L'artificialisation des sols est devenue un enjeu réglementaire majeur.", "english": "Soil sealing has become a major regulatory issue." }
+              ],
+              "tip": "Say « densifier » for the action and « la densité » for the measurement: on densifie un quartier pour augmenter sa densité."
+            },
+            {
+              "heading": "La mixité fonctionnelle",
+              "body": "La mixité fonctionnelle means putting housing, workplaces, shops and public facilities in the same area instead of separating them by zone. It is the opposite of le zonage strict inherited from the 1960s. The related expression la ville du quart d'heure claims that daily needs should be reachable within fifteen minutes on foot or by bike.",
+              "examples": [
+                { "french": "La mixité fonctionnelle réduit le besoin de se déplacer loin.", "english": "Mixed-use development reduces the need to travel far." },
+                { "french": "Ici, les bureaux, les logements et les commerces cohabitent dans le même îlot.", "english": "Here, offices, housing and shops coexist in the same block." },
+                { "french": "Le zonage séparait strictement l'habitat de l'activité.", "english": "Zoning strictly separated housing from economic activity." },
+                { "french": "Une friche industrielle a été reconvertie en pôle culturel.", "english": "An industrial brownfield site was converted into a cultural hub." },
+                { "french": "Les habitants réclament des commerces de proximité.", "english": "Residents are asking for local shops." },
+                { "french": "Un écoquartier associe logements, écoles et espaces verts.", "english": "An eco-district combines housing, schools and green spaces." }
+              ],
+              "tip": "« La mixité » alone can mean social mixing; add « fonctionnelle » when you mean mixed land use."
+            },
+            {
+              "heading": "Mobilité et îlots de chaleur",
+              "body": "Two more themes dominate: la mobilité (how people move, beyond just transport infrastructure) and les îlots de chaleur urbains (urban heat islands, where asphalt and concrete keep a district several degrees hotter at night). The standard responses are la végétalisation, l'ombre and the removal of le bitume. Use desservir to say that a line or a service reaches a place.",
+              "examples": [
+                { "french": "Le nouveau tramway dessert enfin la périphérie ouest.", "english": "The new tram at last serves the western outskirts." },
+                { "french": "La mobilité ne se résume pas aux infrastructures : elle dépend aussi des horaires.", "english": "Mobility is not limited to infrastructure: it also depends on timetables." },
+                { "french": "En pleine canicule, cet îlot de chaleur dépasse de cinq degrés le reste de la ville.", "english": "In the middle of a heatwave, this heat island is five degrees hotter than the rest of the city." },
+                { "french": "On a végétalisé la cour de l'école pour la rafraîchir.", "english": "The school playground was planted with greenery to cool it down." },
+                { "french": "Remplacer le bitume par des sols perméables limite le ruissellement.", "english": "Replacing asphalt with permeable surfaces limits run-off." },
+                { "french": "La rue est devenue piétonnière du lundi au samedi.", "english": "The street became pedestrianised from Monday to Saturday." }
+              ],
+              "tip": "« Desservir » is transitive: le bus dessert le quartier — never « dessert au quartier »."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "l-urbanisme", "french": "l'urbanisme", "english": "urban planning", "partOfSpeech": "noun", "gender": "m", "plural": "—", "pronunciation": "lür-ba-NEEZM", "example": "Elle a fait des études d'urbanisme à Lyon.", "exampleEnglish": "She studied urban planning in Lyon.", "level": "B2", "category": "urbanism" },
+            { "id": "l-urbaniste", "french": "l'urbaniste", "english": "the urban planner", "partOfSpeech": "noun", "gender": "m", "plural": "les urbanistes", "pronunciation": "lür-ba-NEEST", "example": "L'urbaniste a présenté trois scénarios aux élus.", "exampleEnglish": "The urban planner presented three scenarios to the elected officials.", "level": "B2", "category": "urbanism" },
+            { "id": "l-amenagement", "french": "l'aménagement", "english": "development, planning, layout", "partOfSpeech": "noun", "gender": "m", "plural": "les aménagements", "pronunciation": "la-may-nazh-MAHN", "example": "L'aménagement des berges a duré quatre ans.", "exampleEnglish": "The development of the riverbanks took four years.", "level": "B2", "category": "urbanism" },
+            { "id": "amenager", "french": "aménager", "english": "to develop, to lay out, to fit out", "partOfSpeech": "verb", "pronunciation": "a-may-na-ZHAY", "example": "La commune veut aménager une place ombragée devant la mairie.", "exampleEnglish": "The town wants to lay out a shaded square in front of the town hall.", "level": "B2", "category": "urbanism" },
+            { "id": "la-densification", "french": "la densification", "english": "densification", "partOfSpeech": "noun", "gender": "f", "plural": "les densifications", "pronunciation": "lah dahn-see-fee-ka-SYON", "example": "La densification douce passe par la surélévation des immeubles existants.", "exampleEnglish": "Gentle densification works by adding storeys to existing buildings.", "level": "B2", "category": "urbanism" },
+            { "id": "dense", "french": "dense", "english": "dense", "partOfSpeech": "adjective", "pronunciation": "dahnss", "example": "Ce quartier est dense mais très agréable à vivre.", "exampleEnglish": "This district is dense but very pleasant to live in.", "level": "B2", "category": "urbanism" },
+            { "id": "l-etalement-urbain", "french": "l'étalement urbain", "english": "urban sprawl", "partOfSpeech": "noun", "gender": "m", "plural": "—", "pronunciation": "lay-tal-MAHN ür-BAN", "example": "L'étalement urbain grignote les terres agricoles.", "exampleEnglish": "Urban sprawl nibbles away at farmland.", "level": "B2", "category": "urbanism" },
+            { "id": "la-mixite-fonctionnelle", "french": "la mixité fonctionnelle", "english": "mixed-use development", "partOfSpeech": "noun", "gender": "f", "plural": "—", "pronunciation": "lah meek-see-TAY fonk-syo-NEL", "example": "La mixité fonctionnelle évite les quartiers vides le soir.", "exampleEnglish": "Mixed-use development avoids districts that are empty in the evening.", "level": "B2", "category": "urbanism" },
+            { "id": "la-mobilite", "french": "la mobilité", "english": "mobility", "partOfSpeech": "noun", "gender": "f", "plural": "les mobilités", "pronunciation": "lah mo-bee-lee-TAY", "example": "Le plan de mobilité prévoit deux nouvelles lignes de bus.", "exampleEnglish": "The mobility plan provides for two new bus lines.", "level": "B2", "category": "urbanism" },
+            { "id": "l-ilot-de-chaleur", "french": "l'îlot de chaleur", "english": "the heat island", "partOfSpeech": "noun", "gender": "m", "plural": "les îlots de chaleur", "pronunciation": "lee-LOH duh sha-LEUR", "example": "Cette place minérale est un véritable îlot de chaleur en août.", "exampleEnglish": "This paved square is a real heat island in August.", "level": "B2", "category": "urbanism" },
+            { "id": "le-quartier", "french": "le quartier", "english": "the district, the neighbourhood", "partOfSpeech": "noun", "gender": "m", "plural": "les quartiers", "pronunciation": "luh kar-TYAY", "example": "Le quartier a beaucoup changé depuis dix ans.", "exampleEnglish": "The neighbourhood has changed a lot over the last ten years.", "level": "B2", "category": "urbanism" },
+            { "id": "la-ville", "french": "la ville", "english": "the city, the town", "partOfSpeech": "noun", "gender": "f", "plural": "les villes", "pronunciation": "lah VEEL", "example": "La ville a lancé une consultation sur son plan climat.", "exampleEnglish": "The city has launched a consultation on its climate plan.", "level": "B2", "category": "urbanism" },
+            { "id": "le-centre-ville", "french": "le centre-ville", "english": "the town centre", "partOfSpeech": "noun", "gender": "m", "plural": "les centres-villes", "pronunciation": "luh sahntr-VEEL", "example": "Le centre-ville sera interdit aux voitures les dimanches.", "exampleEnglish": "The town centre will be closed to cars on Sundays.", "level": "B2", "category": "urbanism" },
+            { "id": "la-peripherie", "french": "la périphérie", "english": "the outskirts, the periphery", "partOfSpeech": "noun", "gender": "f", "plural": "les périphéries", "pronunciation": "lah pay-ree-fay-REE", "example": "Les emplois se sont déplacés vers la périphérie.", "exampleEnglish": "Jobs have moved out towards the outskirts.", "level": "B2", "category": "urbanism" },
+            { "id": "le-logement", "french": "le logement", "english": "housing, accommodation", "partOfSpeech": "noun", "gender": "m", "plural": "les logements", "pronunciation": "luh lozh-MAHN", "example": "Le logement reste le premier poste de dépenses des ménages.", "exampleEnglish": "Housing remains households' largest expense.", "level": "B2", "category": "urbanism" },
+            { "id": "l-immeuble", "french": "l'immeuble", "english": "the block of flats, the building", "partOfSpeech": "noun", "gender": "m", "plural": "les immeubles", "pronunciation": "lee-MEUBL", "example": "L'immeuble date des années soixante.", "exampleEnglish": "The building dates from the sixties.", "level": "B2", "category": "urbanism" },
+            { "id": "habitant", "french": "l'habitant", "english": "the resident, the inhabitant", "partOfSpeech": "noun", "gender": "m", "plural": "les habitants", "pronunciation": "la-bee-TAHN", "example": "Les habitants ont été associés au projet dès le début.", "exampleEnglish": "Residents were involved in the project from the outset.", "level": "B2", "category": "urbanism" },
+            { "id": "le-promoteur-immobilier", "french": "le promoteur immobilier", "english": "the property developer", "partOfSpeech": "noun", "gender": "m", "plural": "les promoteurs immobiliers", "pronunciation": "luh pro-mo-TEUR ee-mo-bee-LYAY", "example": "Le promoteur immobilier a dû revoir la hauteur du bâtiment.", "exampleEnglish": "The property developer had to reduce the height of the building.", "level": "B2", "category": "urbanism" },
+            { "id": "concertation", "french": "la concertation", "english": "public consultation, joint discussion", "partOfSpeech": "noun", "gender": "f", "plural": "les concertations", "pronunciation": "lah kon-ser-ta-SYON", "example": "La concertation a duré six mois avant le dépôt du permis.", "exampleEnglish": "The consultation lasted six months before the permit was filed.", "level": "B2", "category": "urbanism" },
+            { "id": "le-permis-de-construire", "french": "le permis de construire", "english": "the building permit", "partOfSpeech": "noun", "gender": "m", "plural": "les permis de construire", "pronunciation": "luh per-MEE duh kon-STRWEER", "example": "Le permis de construire a été délivré en mars.", "exampleEnglish": "The building permit was issued in March.", "level": "B2", "category": "urbanism" },
+            { "id": "le-foncier", "french": "le foncier", "english": "land (as property), land assets", "partOfSpeech": "noun", "gender": "m", "plural": "—", "pronunciation": "luh fon-SYAY", "example": "Le prix du foncier détermine ce qu'on peut construire.", "exampleEnglish": "The price of land determines what can be built.", "level": "B2", "category": "urbanism" },
+            { "id": "la-friche", "french": "la friche", "english": "the brownfield site, the wasteland", "partOfSpeech": "noun", "gender": "f", "plural": "les friches", "pronunciation": "lah FREESH", "example": "Cette friche accueillera bientôt une halle alimentaire.", "exampleEnglish": "This brownfield site will soon host a food market hall.", "level": "B2", "category": "urbanism" },
+            { "id": "reconvertir", "french": "reconvertir", "english": "to convert, to repurpose", "partOfSpeech": "verb", "pronunciation": "ruh-kon-ver-TEER", "example": "On a reconverti l'ancienne gare en médiathèque.", "exampleEnglish": "The old station was converted into a media library.", "level": "B2", "category": "urbanism" },
+            { "id": "l-ecoquartier", "french": "l'écoquartier", "english": "the eco-district", "partOfSpeech": "noun", "gender": "m", "plural": "les écoquartiers", "pronunciation": "lay-ko-kar-TYAY", "example": "L'écoquartier récupère l'eau de pluie pour arroser les jardins.", "exampleEnglish": "The eco-district collects rainwater to water the gardens.", "level": "B2", "category": "urbanism" },
+            { "id": "la-piste-cyclable", "french": "la piste cyclable", "english": "the cycle path", "partOfSpeech": "noun", "gender": "f", "plural": "les pistes cyclables", "pronunciation": "lah PEEST see-KLABL", "example": "La piste cyclable relie enfin les deux rives.", "exampleEnglish": "The cycle path finally links the two riverbanks.", "level": "B2", "category": "urbanism" },
+            { "id": "pietonnier", "french": "piétonnier", "english": "pedestrian, pedestrianised", "partOfSpeech": "adjective", "pronunciation": "pyay-to-NYAY", "example": "La zone piétonnière s'étend jusqu'au marché.", "exampleEnglish": "The pedestrian zone stretches as far as the market.", "level": "B2", "category": "urbanism" },
+            { "id": "desservir", "french": "desservir", "english": "to serve (a place), to provide access to", "partOfSpeech": "verb", "pronunciation": "day-ser-VEER", "example": "Aucune ligne ne dessert ce secteur après vingt heures.", "exampleEnglish": "No line serves this area after eight in the evening.", "level": "B2", "category": "urbanism" },
+            { "id": "la-desserte", "french": "la desserte", "english": "the service, the transport links", "partOfSpeech": "noun", "gender": "f", "plural": "les dessertes", "pronunciation": "lah day-SERT", "example": "La desserte du soir reste insuffisante.", "exampleEnglish": "The evening service remains inadequate.", "level": "B2", "category": "urbanism" },
+            { "id": "l-espace-vert", "french": "l'espace vert", "english": "the green space", "partOfSpeech": "noun", "gender": "m", "plural": "les espaces verts", "pronunciation": "less-PASS VER", "example": "Chaque habitant devrait avoir un espace vert à moins de trois cents mètres.", "exampleEnglish": "Every resident should have a green space less than three hundred metres away.", "level": "B2", "category": "urbanism" },
+            { "id": "vegetaliser", "french": "végétaliser", "english": "to plant with greenery, to green", "partOfSpeech": "verb", "pronunciation": "vay-zhay-ta-lee-ZAY", "example": "La mairie veut végétaliser toutes les cours d'école.", "exampleEnglish": "The town hall wants to green every school playground.", "level": "B2", "category": "urbanism" },
+            { "id": "la-vegetalisation", "french": "la végétalisation", "english": "greening, planting", "partOfSpeech": "noun", "gender": "f", "plural": "les végétalisations", "pronunciation": "lah vay-zhay-ta-lee-za-SYON", "example": "La végétalisation des toits fait baisser la température intérieure.", "exampleEnglish": "Greening the roofs lowers the indoor temperature.", "level": "B2", "category": "urbanism" },
+            { "id": "l-artificialisation-des-sols", "french": "l'artificialisation des sols", "english": "soil sealing, land take", "partOfSpeech": "noun", "gender": "f", "plural": "—", "pronunciation": "lar-tee-fee-sya-lee-za-SYON day SOL", "example": "La loi vise à réduire de moitié l'artificialisation des sols.", "exampleEnglish": "The law aims to halve the rate of soil sealing.", "level": "B2", "category": "urbanism" },
+            { "id": "canicule", "french": "la canicule", "english": "the heatwave", "partOfSpeech": "noun", "gender": "f", "plural": "les canicules", "pronunciation": "lah ka-nee-KÜL", "example": "Pendant la canicule, la ville a ouvert des salles rafraîchies.", "exampleEnglish": "During the heatwave, the city opened cooled rooms.", "level": "B2", "category": "urbanism" },
+            { "id": "le-bitume", "french": "le bitume", "english": "asphalt, tarmac", "partOfSpeech": "noun", "gender": "m", "plural": "les bitumes", "pronunciation": "luh bee-TÜM", "example": "Le bitume restitue la nuit la chaleur accumulée le jour.", "exampleEnglish": "Asphalt gives back at night the heat it stored during the day.", "level": "B2", "category": "urbanism" },
+            { "id": "la-sobriete", "french": "la sobriété", "english": "restraint, frugality", "partOfSpeech": "noun", "gender": "f", "plural": "—", "pronunciation": "lah so-bree-ay-TAY", "example": "La sobriété foncière consiste à construire sur le déjà-construit.", "exampleEnglish": "Land frugality means building on already built-up land.", "level": "B2", "category": "urbanism" },
+            { "id": "la-resilience", "french": "la résilience", "english": "resilience", "partOfSpeech": "noun", "gender": "f", "plural": "—", "pronunciation": "lah ray-zee-LYAHNSS", "example": "La résilience d'une ville se mesure aussi à sa capacité à absorber l'eau.", "exampleEnglish": "A city's resilience is also measured by its capacity to absorb water.", "level": "B2", "category": "urbanism" },
+            { "id": "le-tissu-urbain", "french": "le tissu urbain", "english": "the urban fabric", "partOfSpeech": "noun", "gender": "m", "plural": "les tissus urbains", "pronunciation": "luh tee-SÜ ür-BAN", "example": "Le tissu urbain ancien supporte mal les grandes emprises.", "exampleEnglish": "The historic urban fabric copes badly with large footprints.", "level": "B2", "category": "urbanism" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Purpose clauses: afin de, afin que, de manière à",
+              "body": "Planning documents are full of purpose clauses. With one subject, use afin de / de manière à / dans le but de + infinitive. With two different subjects, use afin que / pour que + subjunctive. De sorte que takes the indicative when it states a result that actually happened, and the subjunctive when it states an intention.",
+              "examples": [
+                { "french": "La ville plante des arbres afin de réduire les îlots de chaleur.", "english": "The city plants trees in order to reduce heat islands.", "note": "one subject → infinitive" },
+                { "french": "La ville plante des arbres afin que les rues soient plus fraîches.", "english": "The city plants trees so that the streets are cooler.", "note": "two subjects → subjunctive" },
+                { "french": "Les bancs ont été déplacés de manière à créer de l'ombre.", "english": "The benches were moved so as to create shade." },
+                { "french": "On a élargi le trottoir de sorte que les poussettes puissent passer.", "english": "The pavement was widened so that pushchairs can get through.", "note": "intention → subjunctive" },
+                { "french": "On a élargi le trottoir, de sorte que les poussettes passent enfin.", "english": "The pavement was widened, so pushchairs now get through.", "note": "result → indicative" },
+                { "french": "Dans le but de limiter l'étalement, la commune a gelé les terrains agricoles.", "english": "In order to limit sprawl, the town froze agricultural land." }
+              ],
+              "tip": "Never write « afin de que ». It is afin de + infinitive or afin que + subjunctive, never both."
+            },
+            {
+              "heading": "The passive and se voir + infinitive",
+              "body": "Institutional French prefers the passive to name the decision rather than the decider: le projet a été validé. When you want to keep a human subject but still avoid saying who acted, French uses se voir + infinitive, which is very common in press and administrative writing. On + active voice remains the neutral spoken alternative.",
+              "examples": [
+                { "french": "Le permis a été refusé en raison de la hauteur du bâtiment.", "english": "The permit was refused because of the building's height." },
+                { "french": "Les riverains se sont vu proposer trois scénarios.", "english": "Local residents were offered three scenarios.", "note": "past participle vu stays invariable here" },
+                { "french": "Le quartier s'est vu attribuer une enveloppe de deux millions d'euros.", "english": "The district was allocated a budget of two million euros." },
+                { "french": "On a supprimé quarante places de stationnement.", "english": "Forty parking spaces were removed.", "note": "spoken equivalent of the passive" },
+                { "french": "La friche sera reconvertie d'ici à 2030.", "english": "The brownfield site will be converted by 2030." },
+                { "french": "Ce secteur est desservi par deux lignes de bus.", "english": "This area is served by two bus lines.", "note": "par + agent when the agent matters" }
+              ],
+              "tip": "Use « par » for an acting agent (desservi par le tram) and « de » for a state (bordé de platanes)."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "b2_u18_l01_li01",
+              "type": "listenChoose",
+              "french": "Le tramway desservira la périphérie ouest dès l'année prochaine.",
+              "options": ["The tram will serve the western outskirts from next year.", "The tram serves the town centre every year.", "The tram will be removed from the western outskirts next year.", "The tram used to serve the western suburbs last year."],
+              "answer": "The tram will serve the western outskirts from next year."
+            },
+            {
+              "id": "b2_u18_l01_li02",
+              "type": "listenChoose",
+              "french": "On a végétalisé la place afin de limiter l'îlot de chaleur.",
+              "options": ["The square was planted with greenery in order to limit the heat island.", "The square was paved in order to create a heat island.", "The square will be planted so that cars can park there.", "The square was closed because of the heatwave."],
+              "answer": "The square was planted with greenery in order to limit the heat island."
+            },
+            {
+              "id": "b2_u18_l01_li03",
+              "type": "listenType",
+              "french": "La densification reste préférable à l'étalement urbain.",
+              "answer": "La densification reste préférable à l'étalement urbain.",
+              "acceptedAnswers": ["La densification reste preferable a l'etalement urbain", "la densification reste préférable à l'étalement urbain"]
+            },
+            {
+              "id": "b2_u18_l01_li04",
+              "type": "dictation",
+              "french": "Le promoteur immobilier a déposé un permis de construire pour cette friche.",
+              "answer": "Le promoteur immobilier a déposé un permis de construire pour cette friche.",
+              "acceptedAnswers": ["Le promoteur immobilier a depose un permis de construire pour cette friche", "le promoteur immobilier a déposé un permis de construire pour cette friche"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "b2_u18_l01_sp01",
+              "type": "speak",
+              "french": "La mixité fonctionnelle évite les quartiers déserts après dix-huit heures.",
+              "english": "Mixed-use development avoids districts that are deserted after six in the evening.",
+              "prompt": "Argue for mixed use in one sentence.",
+              "tip": "In « mixité », the x is pronounced [ks] and the final é is closed: meek-see-TAY."
+            },
+            {
+              "id": "b2_u18_l01_sp02",
+              "type": "speak",
+              "french": "Il faudrait végétaliser cette rue afin qu'elle soit vivable en été.",
+              "english": "This street should be planted with greenery so that it is liveable in summer.",
+              "prompt": "Make a recommendation using afin que + subjunctive.",
+              "tip": "Link « afin qu'elle » smoothly: a-fan-KEL, with a nasal AN and no pause."
+            },
+            {
+              "id": "b2_u18_l01_sp03",
+              "type": "speak",
+              "french": "Cette friche pourrait être reconvertie en logements et en espaces verts.",
+              "english": "This brownfield site could be converted into housing and green spaces.",
+              "prompt": "Propose a reuse for a disused site.",
+              "tip": "« Friche » has a short i and a soft final -che: FREESH, no vowel after it."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Trois degrés de trop",
+              "french": "À Villebrune, une ville moyenne de soixante mille habitants, le service d'urbanisme a passé l'été 2024 à mesurer la température de ses rues.\nLes relevés ont confirmé ce que les habitants disaient depuis longtemps : la place de la Gare reste, la nuit, trois degrés plus chaude que le parc situé à huit cents mètres.\nRien de mystérieux à cela. La place est entièrement minérale ; le bitume et les façades claires restituent après le coucher du soleil la chaleur accumulée dans la journée.\n« Nous n'avons pas découvert un phénomène, nous l'avons chiffré », résume Nadia Perrot, cheffe du service.\nLe chiffre a suffi à débloquer un débat qui tournait en rond depuis trois ans.\nLa municipalité a d'abord envisagé de planter une centaine d'arbres, avant de constater que les réseaux enterrés rendaient l'opération impossible sur la moitié de la surface.\nLe projet retenu est donc plus modeste : des sols perméables, une trentaine d'arbres en pleine terre et une fontaine remise en service.\nLa concertation, elle, a été longue. Les commerçants craignaient de perdre des places de stationnement ; les riverains réclamaient de l'ombre depuis des années.\nUn compromis a fini par émerger : quarante places supprimées, mais une desserte de bus renforcée le samedi.\n« On ne peut pas demander aux gens de renoncer à la voiture sans leur proposer autre chose », reconnaît l'adjointe à la mobilité.\nLe chantier commencera au printemps prochain et durera dix-huit mois.\nVillebrune n'a rien inventé : des dizaines de communes mènent des projets comparables, avec des résultats encore difficiles à comparer faute d'indicateurs communs.\nMais l'expérience a changé une habitude locale. Désormais, chaque projet d'aménagement est accompagné d'une mesure de température avant et après les travaux.\nC'est peu, et c'est déjà beaucoup.",
+              "english": "In Villebrune, a mid-sized town of sixty thousand residents, the planning department spent the summer of 2024 measuring the temperature of its streets.\nThe readings confirmed what residents had been saying for a long time: at night, the Place de la Gare stays three degrees warmer than the park eight hundred metres away.\nThere is nothing mysterious about this. The square is entirely paved; the asphalt and the pale façades give back after sunset the heat accumulated during the day.\n\"We did not discover a phenomenon, we put a number on it,\" sums up Nadia Perrot, head of the department.\nThe figure was enough to unblock a debate that had been going round in circles for three years.\nThe council first considered planting about a hundred trees, before discovering that buried utility networks made the operation impossible over half the surface.\nThe chosen project is therefore more modest: permeable surfaces, some thirty trees in open ground and a fountain brought back into service.\nThe consultation, for its part, was long. Shopkeepers feared losing parking spaces; local residents had been asking for shade for years.\nA compromise finally emerged: forty spaces removed, but a stronger bus service on Saturdays.\n\"You cannot ask people to give up the car without offering them something else,\" acknowledges the deputy mayor for mobility.\nWork will start next spring and will last eighteen months.\nVillebrune has invented nothing: dozens of towns are running comparable projects, with results that are still hard to compare for lack of common indicators.\nBut the experiment has changed a local habit. From now on, every development project comes with a temperature measurement before and after the works.\nIt is little, and it is already a lot.",
+              "questions": [
+                {
+                  "id": "b2_u18_l01_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Pourquoi la place de la Gare reste-t-elle plus chaude la nuit ?",
+                  "options": ["Parce qu'elle est entièrement minérale et restitue la chaleur du jour", "Parce qu'elle est située à huit cents mètres du parc", "Parce que les bus y circulent toute la nuit", "Parce que la fontaine a été mise hors service"],
+                  "answer": "Parce qu'elle est entièrement minérale et restitue la chaleur du jour"
+                },
+                {
+                  "id": "b2_u18_l01_rd02",
+                  "type": "multipleChoice",
+                  "prompt": "Pourquoi le projet initial de cent arbres a-t-il été réduit ?",
+                  "options": ["Les réseaux enterrés empêchaient de planter sur la moitié de la surface", "Les habitants s'opposaient à la présence d'arbres", "Le budget de la ville avait été supprimé", "Les commerçants voulaient davantage d'ombre"],
+                  "answer": "Les réseaux enterrés empêchaient de planter sur la moitié de la surface"
+                },
+                {
+                  "id": "b2_u18_l01_rd03",
+                  "type": "trueFalse",
+                  "prompt": "Selon le texte, les résultats des projets comparables sont faciles à comparer entre communes.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "b2_u18_l01_wr01",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "Urban sprawl lengthens journeys and makes the car indispensable.",
+              "answer": "L'étalement urbain allonge les trajets et rend la voiture indispensable.",
+              "acceptedAnswers": ["L'etalement urbain allonge les trajets et rend la voiture indispensable", "L'étalement urbain allonge les trajets et rend la voiture indispensable"]
+            },
+            {
+              "id": "b2_u18_l01_wr02",
+              "type": "translate",
+              "prompt": "Translate into French, using afin que + subjunctive",
+              "english": "The town is widening the pavements so that everyone can walk there safely.",
+              "answer": "La ville élargit les trottoirs afin que tout le monde puisse y marcher en sécurité.",
+              "acceptedAnswers": ["La ville elargit les trottoirs afin que tout le monde puisse y marcher en securite", "La commune élargit les trottoirs afin que tout le monde puisse y marcher en sécurité"]
+            },
+            {
+              "id": "b2_u18_l01_wr03",
+              "type": "arrangeWords",
+              "words": ["reconvertie", "friche", "en", "cette", "sera", "logements"],
+              "answer": "cette friche sera reconvertie en logements",
+              "english": "this brownfield site will be converted into housing"
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "b2_u18_l01_pr01",
+              "type": "fillBlank",
+              "prompt": "La nouvelle ligne de bus ___ enfin le quartier nord.",
+              "answer": "dessert"
+            },
+            {
+              "id": "b2_u18_l01_pr02",
+              "type": "multipleChoice",
+              "prompt": "Choisissez la forme correcte : « On plante des arbres ___ les rues soient plus fraîches. »",
+              "options": ["afin que", "afin de", "afin de que", "pour de"],
+              "answer": "afin que"
+            },
+            {
+              "id": "b2_u18_l01_pr03",
+              "type": "match",
+              "pairs": [
+                { "french": "l'îlot de chaleur", "english": "the heat island" },
+                { "french": "la friche", "english": "the brownfield site" },
+                { "french": "le foncier", "english": "land as property" },
+                { "french": "la desserte", "english": "the transport links" }
+              ]
+            },
+            {
+              "id": "b2_u18_l01_pr04",
+              "type": "fillBlank",
+              "prompt": "La loi veut réduire l'___ des sols de moitié d'ici à 2050.",
+              "answer": "artificialisation"
+            },
+            {
+              "id": "b2_u18_l01_pr05",
+              "type": "arrangeWords",
+              "words": ["vert", "espace", "chaque", "un", "mérite", "quartier"],
+              "answer": "chaque quartier mérite un espace vert",
+              "english": "every district deserves a green space"
+            },
+            {
+              "id": "b2_u18_l01_pr06",
+              "type": "multipleChoice",
+              "prompt": "Quel mot désigne le fait de mêler logements, bureaux et commerces dans un même secteur ?",
+              "options": ["la mixité fonctionnelle", "l'étalement urbain", "le zonage strict", "la desserte"],
+              "answer": "la mixité fonctionnelle"
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "b2_u18_l01_qz01",
+              "type": "multipleChoice",
+              "prompt": "« Densifier » signifie :",
+              "options": ["construire davantage sur des terrains déjà urbanisés", "étendre la ville vers les champs", "supprimer des logements", "interdire la construction"],
+              "answer": "construire davantage sur des terrains déjà urbanisés"
+            },
+            {
+              "id": "b2_u18_l01_qz02",
+              "type": "fillBlank",
+              "prompt": "Le bitume accumule la chaleur : cette place est un véritable ___ de chaleur.",
+              "answer": "îlot"
+            },
+            {
+              "id": "b2_u18_l01_qz03",
+              "type": "multipleChoice",
+              "prompt": "Complétez : « Les riverains se sont ___ proposer trois scénarios. »",
+              "options": ["vu", "vus", "vue", "voir"],
+              "answer": "vu"
+            },
+            {
+              "id": "b2_u18_l01_qz04",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "The consultation lasted six months.",
+              "answer": "La concertation a duré six mois.",
+              "acceptedAnswers": ["La concertation a dure six mois", "la concertation a duré six mois"]
+            },
+            {
+              "id": "b2_u18_l01_qz05",
+              "type": "trueFalse",
+              "prompt": "« Afin de » est suivi d'un infinitif, « afin que » d'un subjonctif.",
+              "options": ["True", "False"],
+              "answer": "True"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2_u18_l02",
+      "level": "B2",
+      "unit": 18,
+      "title": "Les quartiers populaires",
+      "description": "Describe working-class neighbourhoods with precision and dignity, avoiding clichés and attributing contested claims.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Décrire un lieu, pas juger ses habitants",
+              "body": "French public debate about les quartiers populaires (working-class neighbourhoods) is full of loaded shortcuts. Good B2 usage separates description of a place and its policies from any judgement of the people who live there. Say le quartier connaît un taux de chômage élevé, not les habitants sont un problème. La banlieue itself is a neutral geographic word — it simply means the suburbs — and only becomes negative through the sentence around it.",
+              "examples": [
+                { "french": "Ce quartier connaît un taux de chômage supérieur à la moyenne nationale.", "english": "This neighbourhood has an unemployment rate above the national average." },
+                { "french": "La banlieue de Rouville regroupe plusieurs grands ensembles construits dans les années 1960.", "english": "The suburbs of Rouville include several large housing estates built in the 1960s." },
+                { "french": "Le manque d'équipements publics explique en partie ce chiffre.", "english": "The lack of public facilities partly explains this figure." },
+                { "french": "On parle de relégation quand un quartier est coupé des emplois et des transports.", "english": "We speak of relegation when a district is cut off from jobs and transport." },
+                { "french": "Les politiques publiques, pas les habitants, sont ici en cause.", "english": "Public policy, not the residents, is what is at issue here." },
+                { "french": "Ce grand ensemble a été conçu pour loger vite une population en forte croissance.", "english": "This housing estate was designed to quickly house a fast-growing population." }
+              ],
+              "tip": "In B2 writing, keep the grammatical subject on the place or the policy (le quartier, la politique du logement), not on the people, whenever you discuss a difficulty."
+            },
+            {
+              "heading": "Éviter le cliché, chercher la nuance",
+              "body": "A cliché reduces a whole neighbourhood to a single trait (violence, pauvreté) as if it explained everything. Good practice: name the specific policy or history behind an issue, use nuancer and il serait réducteur de dire que to signal complexity, and remember that un quartier populaire is also home to associations, festivals, family businesses and long-standing community life that the same clichés erase.",
+              "examples": [
+                { "french": "Il serait réducteur de résumer ce quartier à ses difficultés.", "english": "It would be reductive to sum up this district by its difficulties alone." },
+                { "french": "Il faut nuancer : le taux de pauvreté varie fortement d'un immeuble à l'autre.", "english": "This needs nuance: the poverty rate varies a lot from one building to another." },
+                { "french": "Le cliché du quartier dangereux ignore la vie associative très dense qui s'y trouve.", "english": "The cliché of the dangerous neighbourhood ignores the very dense community life found there." },
+                { "french": "On ne peut pas généraliser à partir d'un seul fait divers.", "english": "You cannot generalise from a single news item." },
+                { "french": "L'amalgame entre pauvreté et délinquance est fréquent mais infondé.", "english": "The conflation of poverty with crime is common but unfounded." },
+                { "french": "La stigmatisation d'un quartier a des conséquences concrètes sur l'emploi de ses habitants.", "english": "The stigmatisation of a neighbourhood has concrete consequences for its residents' employment." }
+              ],
+              "tip": "Reach for « il serait réducteur de dire que » whenever you are tempted to state a sweeping claim about a place."
+            },
+            {
+              "heading": "Attribuer une affirmation : selon, d'après",
+              "body": "Contested claims about neighbourhoods should be attributed to a source rather than stated as fact: selon une étude, d'après l'INSEE, un habitant témoigne que. This lets you report a claim precisely while marking that it is one perspective among others, which is essential when writing about social geography.",
+              "examples": [
+                { "french": "Selon une enquête de l'INSEE, le revenu médian du quartier a progressé de dix pour cent en cinq ans.", "english": "According to an INSEE survey, the district's median income rose by ten percent in five years." },
+                { "french": "D'après les associations locales, l'accompagnement scolaire manque de moyens.", "english": "According to local associations, school support lacks funding." },
+                { "french": "Un habitant témoigne que la vie de quartier repose sur une forte entraide.", "english": "One resident reports that neighbourhood life relies on strong mutual support." },
+                { "french": "Ce chiffre est contesté par certains chercheurs, qui pointent une méthode discutable.", "english": "This figure is disputed by some researchers, who point to a questionable method." },
+                { "french": "La mairie affirme que la rénovation a désenclavé le secteur.", "english": "The town hall claims that the renovation has opened up the area." },
+                { "french": "Il convient de distinguer ce que disent les chiffres de ce que ressentent les habitants.", "english": "One should distinguish what the figures say from what residents feel." }
+              ],
+              "tip": "« Selon X » and « d'après X » both mean 'according to X' and are interchangeable in formal writing."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "le-quartier-populaire", "french": "le quartier populaire", "english": "the working-class neighbourhood", "partOfSpeech": "noun", "gender": "m", "plural": "les quartiers populaires", "pronunciation": "luh kar-TYAY po-pü-LAIR", "example": "Ce quartier populaire fête chaque année son marché historique.", "exampleEnglish": "This working-class neighbourhood celebrates its historic market every year.", "level": "B2", "category": "social geography" },
+            { "id": "la-banlieue", "french": "la banlieue", "english": "the suburbs", "partOfSpeech": "noun", "gender": "f", "plural": "les banlieues", "pronunciation": "lah bahn-LYEUH", "example": "La banlieue de Rouville s'est beaucoup transformée en vingt ans.", "exampleEnglish": "The suburbs of Rouville have changed a great deal in twenty years.", "level": "B2", "category": "social geography" },
+            { "id": "le-grand-ensemble", "french": "le grand ensemble", "english": "the large housing estate", "partOfSpeech": "noun", "gender": "m", "plural": "les grands ensembles", "pronunciation": "luh grahn tahn-SAHMBL", "example": "Le grand ensemble a été construit pour loger les familles venues travailler en usine.", "exampleEnglish": "The housing estate was built to house families who came to work in the factory.", "level": "B2", "category": "social geography" },
+            { "id": "la-cite", "french": "la cité", "english": "the housing estate, the projects", "partOfSpeech": "noun", "gender": "f", "plural": "les cités", "pronunciation": "lah see-TAY", "example": "La cité des Tilleuls organise chaque été une fête de quartier.", "exampleEnglish": "The Tilleuls estate holds a neighbourhood festival every summer.", "level": "B2", "category": "social geography" },
+            { "id": "la-geographie", "french": "la géographie sociale", "english": "social geography", "partOfSpeech": "noun", "gender": "f", "plural": "—", "pronunciation": "lah zhay-o-gra-FEE so-SYAL", "example": "Le cours de géographie sociale étudie la répartition des revenus dans la ville.", "exampleEnglish": "The social geography course studies how income is distributed across the city.", "level": "B2", "category": "social geography" },
+            { "id": "la-mixite-sociale", "french": "la mixité sociale", "english": "social mix, social diversity", "partOfSpeech": "noun", "gender": "f", "plural": "—", "pronunciation": "lah meek-see-TAY so-SYAL", "example": "La mixité sociale reste un objectif difficile à atteindre par la seule construction.", "exampleEnglish": "Social diversity remains a goal that is hard to reach through construction alone.", "level": "B2", "category": "social geography" },
+            { "id": "le-logement-social", "french": "le logement social", "english": "social housing", "partOfSpeech": "noun", "gender": "m", "plural": "les logements sociaux", "pronunciation": "luh lozh-MAHN so-SYAL", "example": "La commune manque encore de logements sociaux pour répondre à la demande.", "exampleEnglish": "The town still lacks enough social housing to meet demand.", "level": "B2", "category": "social geography" },
+            { "id": "le-bailleur-social", "french": "le bailleur social", "english": "the social housing landlord", "partOfSpeech": "noun", "gender": "m", "plural": "les bailleurs sociaux", "pronunciation": "luh bah-YEUR so-SYAL", "example": "Le bailleur social a lancé des travaux d'isolation dans tout l'immeuble.", "exampleEnglish": "The social landlord launched insulation works throughout the building.", "level": "B2", "category": "social geography" },
+            { "id": "le-loyer", "french": "le loyer", "english": "the rent", "partOfSpeech": "noun", "gender": "m", "plural": "les loyers", "pronunciation": "luh lwa-YAY", "example": "Les loyers restent modérés dans ce secteur.", "exampleEnglish": "Rents remain moderate in this area.", "level": "B2", "category": "social geography" },
+            { "id": "la-renovation-urbaine", "french": "la rénovation urbaine", "english": "urban renewal", "partOfSpeech": "noun", "gender": "f", "plural": "—", "pronunciation": "lah ray-no-va-SYON ür-BEN", "example": "Le programme de rénovation urbaine a remplacé trois tours par des immeubles plus bas.", "exampleEnglish": "The urban renewal programme replaced three towers with lower buildings.", "level": "B2", "category": "social geography" },
+            { "id": "le-desenclavement", "french": "le désenclavement", "english": "opening up (of an isolated area)", "partOfSpeech": "noun", "gender": "m", "plural": "—", "pronunciation": "luh day-zahn-klav-MAHN", "example": "Le désenclavement du quartier passe d'abord par une nouvelle ligne de bus.", "exampleEnglish": "Opening up the district starts with a new bus line.", "level": "B2", "category": "social geography" },
+            { "id": "desenclaver", "french": "désenclaver", "english": "to open up, to end the isolation of", "partOfSpeech": "verb", "pronunciation": "day-zahn-kla-VAY", "example": "Une nouvelle route doit désenclaver le hameau de la Roche.", "exampleEnglish": "A new road is meant to end the isolation of the Roche hamlet.", "level": "B2", "category": "social geography" },
+            { "id": "l-enclavement", "french": "l'enclavement", "english": "isolation, being cut off", "partOfSpeech": "noun", "gender": "m", "plural": "—", "pronunciation": "lahn-klav-MAHN", "example": "L'enclavement du quartier explique en partie la difficulté à trouver un emploi.", "exampleEnglish": "The district's isolation partly explains the difficulty in finding work.", "level": "B2", "category": "social geography" },
+            { "id": "association", "french": "l'association", "english": "the association", "partOfSpeech": "noun", "gender": "f", "plural": "les associations", "pronunciation": "la-so-sya-SYON", "example": "L'association du quartier organise un atelier d'aide aux devoirs chaque mercredi.", "exampleEnglish": "The neighbourhood association runs a homework help workshop every Wednesday.", "level": "B2", "category": "social geography" },
+            { "id": "le-tissu-associatif", "french": "le tissu associatif", "english": "the network of local associations", "partOfSpeech": "noun", "gender": "m", "plural": "—", "pronunciation": "luh tee-SÜ a-so-sya-TEEF", "example": "Le tissu associatif du quartier est particulièrement dense.", "exampleEnglish": "The neighbourhood's network of associations is particularly dense.", "level": "B2", "category": "social geography" },
+            { "id": "la-maison-de-quartier", "french": "la maison de quartier", "english": "the community centre", "partOfSpeech": "noun", "gender": "f", "plural": "les maisons de quartier", "pronunciation": "lah may-ZON duh kar-TYAY", "example": "La maison de quartier propose des cours de français gratuits.", "exampleEnglish": "The community centre offers free French classes.", "level": "B2", "category": "social geography" },
+            { "id": "la-relegation", "french": "la relégation", "english": "relegation, marginalisation (of a place)", "partOfSpeech": "noun", "gender": "f", "plural": "—", "pronunciation": "lah ray-lay-ga-SYON", "example": "Les chercheurs parlent de relégation quand un quartier cumule éloignement et manque de services.", "exampleEnglish": "Researchers speak of relegation when a district combines remoteness with a lack of services.", "level": "B2", "category": "social geography" },
+            { "id": "le-decrochage", "french": "le décrochage scolaire", "english": "dropping out of school", "partOfSpeech": "noun", "gender": "m", "plural": "—", "pronunciation": "luh day-kro-SHAZH sko-LAIR", "example": "Un dispositif de tutorat vise à réduire le décrochage scolaire.", "exampleEnglish": "A mentoring scheme aims to reduce dropping out of school.", "level": "B2", "category": "social geography" },
+            { "id": "l-attractivite", "french": "l'attractivité", "english": "attractiveness, appeal", "partOfSpeech": "noun", "gender": "f", "plural": "—", "pronunciation": "la-trak-tee-vee-TAY", "example": "Le nouveau marché a redonné de l'attractivité au quartier.", "exampleEnglish": "The new market has given the district renewed appeal.", "level": "B2", "category": "social geography" },
+            { "id": "la-fierte", "french": "la fierté", "english": "pride", "partOfSpeech": "noun", "gender": "f", "plural": "—", "pronunciation": "lah fyer-TAY", "example": "Beaucoup d'habitants expriment une réelle fierté d'appartenance à leur quartier.", "exampleEnglish": "Many residents express real pride in belonging to their neighbourhood.", "level": "B2", "category": "social geography" },
+            { "id": "le-stereotype", "french": "le stéréotype", "english": "the stereotype", "partOfSpeech": "noun", "gender": "m", "plural": "les stéréotypes", "pronunciation": "luh stay-ray-o-TEEP", "example": "Ce reportage reproduit malheureusement plusieurs stéréotypes sur la banlieue.", "exampleEnglish": "This report unfortunately repeats several stereotypes about the suburbs.", "level": "B2", "category": "social geography" },
+            { "id": "c2u5-le-cliche", "french": "le cliché", "english": "the cliché", "partOfSpeech": "noun", "gender": "m", "plural": "les clichés", "pronunciation": "luh klee-SHAY", "example": "Il faut se méfier du cliché du quartier sans avenir.", "exampleEnglish": "One must be wary of the cliché of the neighbourhood with no future.", "level": "B2", "category": "social geography" },
+            { "id": "stigmatiser", "french": "stigmatiser", "english": "to stigmatise", "partOfSpeech": "verb", "pronunciation": "steeg-ma-tee-ZAY", "example": "La presse a été accusée de stigmatiser tout un quartier après un seul incident.", "exampleEnglish": "The press was accused of stigmatising an entire neighbourhood after a single incident.", "level": "B2", "category": "social geography" },
+            { "id": "la-stigmatisation", "french": "la stigmatisation", "english": "stigmatisation", "partOfSpeech": "noun", "gender": "f", "plural": "—", "pronunciation": "lah steeg-ma-tee-za-SYON", "example": "La stigmatisation d'une adresse peut compliquer une recherche d'emploi.", "exampleEnglish": "The stigmatisation of an address can make finding a job harder.", "level": "B2", "category": "social geography" },
+            { "id": "la-generalisation", "french": "la généralisation", "english": "generalisation", "partOfSpeech": "noun", "gender": "f", "plural": "les généralisations", "pronunciation": "lah zhay-nay-ra-lee-za-SYON", "example": "Cette généralisation ne résiste pas à l'examen des chiffres.", "exampleEnglish": "This generalisation does not hold up when the figures are examined.", "level": "B2", "category": "social geography" },
+            { "id": "generaliser", "french": "généraliser", "english": "to generalise", "partOfSpeech": "verb", "pronunciation": "zhay-nay-ra-lee-ZAY", "example": "On ne peut pas généraliser à partir d'un cas isolé.", "exampleEnglish": "You cannot generalise from a single isolated case.", "level": "B2", "category": "social geography" },
+            { "id": "nuancer", "french": "nuancer", "english": "to add nuance to, to qualify", "partOfSpeech": "verb", "pronunciation": "nü-ahn-SAY", "example": "Il faut nuancer ce constat en tenant compte de l'âge des immeubles.", "exampleEnglish": "This finding needs nuance once you take the age of the buildings into account.", "level": "B2", "category": "social geography" },
+            { "id": "la-nuance", "french": "la nuance", "english": "the nuance", "partOfSpeech": "noun", "gender": "f", "plural": "les nuances", "pronunciation": "lah nü-AHNSS", "example": "Le reportage manquait de nuance sur un sujet pourtant complexe.", "exampleEnglish": "The report lacked nuance on what is actually a complex subject.", "level": "B2", "category": "social geography" },
+            { "id": "attribuer", "french": "attribuer", "english": "to attribute", "partOfSpeech": "verb", "pronunciation": "a-tree-bü-AY", "example": "On ne peut pas attribuer cette hausse à une seule cause.", "exampleEnglish": "This rise cannot be attributed to a single cause.", "level": "B2", "category": "social geography" },
+            { "id": "la-source", "french": "la source", "english": "the source", "partOfSpeech": "noun", "gender": "f", "plural": "les sources", "pronunciation": "lah SOORSS", "example": "Chaque chiffre cité doit être accompagné de sa source.", "exampleEnglish": "Every figure quoted must be accompanied by its source.", "level": "B2", "category": "social geography" },
+            { "id": "selon", "french": "selon", "english": "according to", "partOfSpeech": "conjunction", "pronunciation": "suh-LON", "example": "Selon une enquête récente, la situation s'améliore lentement.", "exampleEnglish": "According to a recent survey, the situation is slowly improving.", "level": "B2", "category": "social geography" },
+            { "id": "d-apres", "french": "d'après", "english": "according to", "partOfSpeech": "conjunction", "pronunciation": "da-PREH", "example": "D'après les associations locales, le manque de moyens reste le principal frein.", "exampleEnglish": "According to local associations, the lack of resources remains the main obstacle.", "level": "B2", "category": "social geography" },
+            { "id": "l-enquete", "french": "l'enquête", "english": "the survey, the investigation", "partOfSpeech": "noun", "gender": "f", "plural": "les enquêtes", "pronunciation": "lahn-KET", "example": "L'enquête a porté sur trois cents ménages du quartier.", "exampleEnglish": "The survey covered three hundred households in the district.", "level": "B2", "category": "social geography" },
+            { "id": "le-chiffre", "french": "le chiffre", "english": "the figure, the number", "partOfSpeech": "noun", "gender": "m", "plural": "les chiffres", "pronunciation": "luh SHEEFR", "example": "Ce chiffre doit être lu avec précaution.", "exampleEnglish": "This figure should be read with caution.", "level": "B2", "category": "social geography" },
+            { "id": "le-taux", "french": "le taux", "english": "the rate", "partOfSpeech": "noun", "gender": "m", "plural": "les taux", "pronunciation": "luh TOH", "example": "Le taux de chômage varie fortement d'un quartier à l'autre.", "exampleEnglish": "The unemployment rate varies a great deal from one district to another.", "level": "B2", "category": "social geography" },
+            { "id": "la-mediane", "french": "la médiane", "english": "the median", "partOfSpeech": "noun", "gender": "f", "plural": "les médianes", "pronunciation": "lah may-DYAN", "example": "Le revenu médian y est inférieur de vingt pour cent à la moyenne de la ville.", "exampleEnglish": "The median income there is twenty percent below the city average.", "level": "B2", "category": "social geography" },
+            { "id": "le-revenu", "french": "le revenu", "english": "the income", "partOfSpeech": "noun", "gender": "m", "plural": "les revenus", "pronunciation": "luh ruh-vuh-NÜ", "example": "Le revenu des ménages a légèrement augmenté depuis la rénovation.", "exampleEnglish": "Household income has risen slightly since the renovation.", "level": "B2", "category": "social geography" },
+            { "id": "precarite", "french": "la précarité", "english": "precariousness, insecurity", "partOfSpeech": "noun", "gender": "f", "plural": "—", "pronunciation": "lah pray-ka-ree-TAY", "example": "La précarité touche surtout les familles monoparentales.", "exampleEnglish": "Precariousness mainly affects single-parent families.", "level": "B2", "category": "social geography" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Concession: bien que, quoique + subjunctive",
+              "body": "To hold two true things in tension — a difficulty and a strength — B2 French uses bien que or quoique with the subjunctive. This is the grammar of nuance: it lets you avoid the cliché of a single-note description by naming the counterpoint in the same sentence. Malgré + noun is the lighter, everyday alternative.",
+              "examples": [
+                { "french": "Bien que le taux de chômage soit élevé, le quartier compte de nombreuses réussites entrepreneuriales.", "english": "Although the unemployment rate is high, the district has many entrepreneurial success stories." },
+                { "french": "Quoique la rénovation ait pris du retard, les habitants restent optimistes.", "english": "Although the renovation has fallen behind schedule, residents remain optimistic." },
+                { "french": "Bien que ce chiffre soit inquiétant, il ne dit rien du vécu des habitants.", "english": "Although this figure is worrying, it says nothing about residents' lived experience." },
+                { "french": "Malgré des moyens limités, l'association accompagne une centaine de familles chaque année.", "english": "Despite limited resources, the association supports about a hundred families every year." },
+                { "french": "Quoiqu'on en dise, ce quartier attire de nouveaux habitants depuis deux ans.", "english": "Whatever people may say, this district has been attracting new residents for two years." },
+                { "french": "Bien que la presse en parle peu, la vie associative y est très riche.", "english": "Although the press rarely talks about it, community life there is very rich." }
+              ],
+              "tip": "Do not confuse « quoique » (although, one word, + subjunctive) with « quoi que » (whatever, two words, + subjunctive)."
+            },
+            {
+              "heading": "Reported claims: indicative vs subjunctive after verbs of opinion",
+              "body": "After verbs that report a claim as fact (affirmer que, constater que, une étude montre que), use the indicative. After verbs that cast doubt or express a subjective reaction (il est contestable que, on peut douter que, il semble injuste que), use the subjunctive. This distinction is exactly how B2 French signals whether a claim is being endorsed or questioned.",
+              "examples": [
+                { "french": "Une étude montre que le revenu médian a progressé.", "english": "A study shows that median income has risen.", "note": "fact reported → indicative" },
+                { "french": "Il est contestable que ce chiffre reflète toute la réalité du quartier.", "english": "It is questionable that this figure reflects the full reality of the district.", "note": "doubt → subjunctive" },
+                { "french": "La mairie affirme que la sécurité s'est améliorée.", "english": "The town hall claims that safety has improved." },
+                { "french": "On peut douter que la stigmatisation disparaisse aussi vite qu'on l'annonce.", "english": "One may doubt that the stigma will disappear as fast as announced." },
+                { "french": "Il semble injuste que tout un quartier soit jugé sur un seul fait divers.", "english": "It seems unfair that a whole district should be judged on a single incident." },
+                { "french": "Les statistiques confirment que la mixité sociale progresse lentement.", "english": "The statistics confirm that social mixing is slowly progressing." }
+              ],
+              "tip": "« Il semble que » alone tends toward subjunctive; « il me semble que » (a personal certainty) takes the indicative."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "b2_u18_l02_li01",
+              "type": "listenChoose",
+              "french": "Il serait réducteur de résumer ce quartier à ses seules difficultés.",
+              "options": ["It would be reductive to sum up this district by its difficulties alone.", "This district has no difficulties at all.", "It would be fair to judge this district only by its problems.", "This district is easy to summarise in one sentence."],
+              "answer": "It would be reductive to sum up this district by its difficulties alone."
+            },
+            {
+              "id": "b2_u18_l02_li02",
+              "type": "listenChoose",
+              "french": "Selon une enquête de l'INSEE, le revenu médian a progressé de dix pour cent.",
+              "options": ["According to an INSEE survey, median income has risen by ten percent.", "According to the town hall, rents have fallen by ten percent.", "An INSEE survey found no change in income.", "According to residents, income has fallen by ten percent."],
+              "answer": "According to an INSEE survey, median income has risen by ten percent."
+            },
+            {
+              "id": "b2_u18_l02_li03",
+              "type": "listenType",
+              "french": "Bien que le taux de chômage soit élevé, le tissu associatif reste très actif.",
+              "answer": "Bien que le taux de chômage soit élevé, le tissu associatif reste très actif.",
+              "acceptedAnswers": ["Bien que le taux de chomage soit eleve, le tissu associatif reste tres actif", "bien que le taux de chômage soit élevé, le tissu associatif reste très actif"]
+            },
+            {
+              "id": "b2_u18_l02_li04",
+              "type": "dictation",
+              "french": "La stigmatisation d'un quartier a des conséquences concrètes sur l'emploi.",
+              "answer": "La stigmatisation d'un quartier a des conséquences concrètes sur l'emploi.",
+              "acceptedAnswers": ["La stigmatisation d'un quartier a des consequences concretes sur l'emploi", "la stigmatisation d'un quartier a des conséquences concrètes sur l'emploi"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "b2_u18_l02_sp01",
+              "type": "speak",
+              "french": "Il serait réducteur de dire que ce quartier se limite à ses difficultés.",
+              "english": "It would be reductive to say that this district is limited to its difficulties.",
+              "prompt": "Push back against a clichéd description in one sentence.",
+              "tip": "Stress « réducteur » on the last syllable: ray-dük-TEUR."
+            },
+            {
+              "id": "b2_u18_l02_sp02",
+              "type": "speak",
+              "french": "Selon les associations locales, le tissu de solidarité y est particulièrement fort.",
+              "english": "According to local associations, the fabric of solidarity there is particularly strong.",
+              "prompt": "Attribute a positive claim about a neighbourhood to a specific source.",
+              "tip": "« Selon » never takes « que » afterward — selon les associations, not selon que les associations."
+            },
+            {
+              "id": "b2_u18_l02_sp03",
+              "type": "speak",
+              "french": "Bien que la rénovation ait pris du retard, les habitants restent mobilisés.",
+              "english": "Although the renovation has fallen behind, residents remain mobilised.",
+              "prompt": "Concede a setback and immediately balance it, using bien que.",
+              "tip": "« Ait pris » is the subjunctive past: liaise it smoothly, eh-pree, no separate stop."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Ce que les chiffres ne disent pas",
+              "french": "La cité des Tilleuls, à Rouville, revient souvent dans les journaux régionaux, presque toujours pour les mêmes raisons : un taux de chômage élevé, un revenu médian inférieur à la moyenne, un immeuble sur trois classé en rénovation urbaine.\nCes chiffres sont réels. Selon l'INSEE, le taux de chômage y dépasse de huit points la moyenne de l'agglomération.\nMais Yamina Belkacem, qui y habite depuis vingt-trois ans, s'agace du portrait qu'on en tire trop souvent. « On nous décrit comme un problème, jamais comme un endroit où les gens vivent, travaillent, s'entraident », dit-elle.\nElle dirige l'association Tilleuls Solidaires, qui propose de l'aide aux devoirs, un jardin partagé et un atelier de réparation de vélos.\nD'après elle, il serait réducteur de résumer le quartier à ses difficultés statistiques. « Le tissu associatif est plus dense ici que dans bien des quartiers aisés », affirme-t-elle, un constat que confirme, chiffres à l'appui, le service municipal de la vie associative.\nÀ deux pas de là, Malik Souissi a ouvert sa boulangerie il y a six ans, après avoir grandi dans la cité. « Beaucoup de mes clients me connaissent depuis que je suis enfant ; ça crée une confiance qu'on ne trouve pas partout », raconte-t-il.\nLe désenclavement reste pourtant un vrai sujet. La nouvelle ligne de bus, promise depuis 2019, n'a été mise en service qu'au printemps dernier.\n« On ne peut pas demander aux gens de trouver un emploi loin d'ici si le trajet prend une heure et demie », note Karim Ferrand, éducateur de rue depuis quinze ans.\nIl reconnaît que certains faits divers ont marqué le quartier, mais refuse qu'on en fasse une généralité. « Un incident n'explique pas une population entière. »\nUn hebdomadaire régional a d'ailleurs été critiqué, l'an dernier, pour avoir illustré un article sur le chômage avec une photo de la cité, sans lien direct avec le sujet traité.\nLa mairie affirme que la rénovation en cours va améliorer la desserte et l'isolation des logements. Certains habitants restent prudents : les précédents chantiers ont pris du retard.\nQuoi qu'il en soit, personne aux Tilleuls ne se reconnaît dans le raccourci qu'on lit parfois : « quartier difficile ». On y entend plutôt : un quartier populaire, avec ses forces, ses manques, et surtout ses habitants.",
+              "english": "The Tilleuls estate, in Rouville, often appears in the regional press, almost always for the same reasons: a high unemployment rate, a median income below average, one building in three under urban renewal.\nThese figures are real. According to INSEE, the unemployment rate there is eight points above the metropolitan average.\nBut Yamina Belkacem, who has lived there for twenty-three years, is irritated by the portrait that is too often drawn from them. \"We're described as a problem, never as a place where people live, work, and help each other,\" she says.\nShe runs the association Tilleuls Solidaires, which offers homework help, a shared garden and a bike-repair workshop.\nIn her view, it would be reductive to sum up the district by its statistical difficulties alone. \"The network of associations is denser here than in many wealthier districts,\" she states, a claim the municipal community-life department confirms with figures of its own.\nNearby, Malik Souissi opened his bakery six years ago, after growing up in the estate. \"Many of my customers have known me since I was a child; that builds a trust you don't find everywhere,\" he says.\nOpening up the area, however, remains a real issue. The new bus line, promised since 2019, only started running last spring.\n\"You cannot ask people to find work far from here if the journey takes an hour and a half,\" notes Karim Ferrand, a street youth worker for fifteen years.\nHe acknowledges that certain incidents have marked the neighbourhood, but refuses to let them stand for a generalisation. \"One incident does not explain an entire population.\"\nA regional weekly was in fact criticised last year for illustrating an article on unemployment with a photo of the estate that had no direct connection to the subject.\nThe town hall states that the renovation under way will improve transport links and insulate homes. Some residents remain cautious: previous projects have fallen behind schedule.\nEither way, no one in the Tilleuls estate recognises themselves in the shorthand sometimes used: \"a rough neighbourhood.\" What you hear instead is: a working-class neighbourhood, with its strengths, its gaps, and above all its residents.",
+              "questions": [
+                {
+                  "id": "b2_u18_l02_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Que reproche Yamina Belkacem à la manière dont son quartier est souvent décrit ?",
+                  "options": ["De réduire le quartier à un problème, sans montrer les gens qui y vivent et s'entraident", "De trop parler de la vie associative locale", "De ne jamais citer de chiffres officiels", "D'annoncer trop tôt l'ouverture de la nouvelle ligne de bus"],
+                  "answer": "De réduire le quartier à un problème, sans montrer les gens qui y vivent et s'entraident"
+                },
+                {
+                  "id": "b2_u18_l02_rd02",
+                  "type": "multipleChoice",
+                  "prompt": "Selon Karim Ferrand, pourquoi ne faut-il pas généraliser à partir d'un fait divers ?",
+                  "options": ["Parce qu'un incident n'explique pas une population entière", "Parce que les faits divers sont toujours inventés", "Parce que la mairie l'interdit", "Parce que les statistiques de l'INSEE sont fausses"],
+                  "answer": "Parce qu'un incident n'explique pas une population entière"
+                },
+                {
+                  "id": "b2_u18_l02_rd03",
+                  "type": "trueFalse",
+                  "prompt": "D'après le texte, tous les habitants font entièrement confiance aux annonces de la mairie sur la rénovation.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "b2_u18_l02_wr01",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "It would be reductive to sum up this district by its difficulties alone.",
+              "answer": "Il serait réducteur de résumer ce quartier à ses seules difficultés.",
+              "acceptedAnswers": ["Il serait reducteur de resumer ce quartier a ses seules difficultes", "Il serait réducteur de résumer ce quartier à ses difficultés"]
+            },
+            {
+              "id": "b2_u18_l02_wr02",
+              "type": "translate",
+              "prompt": "Translate into French, using bien que + subjunctive",
+              "english": "Although the unemployment rate is high, the association supports a hundred families every year.",
+              "answer": "Bien que le taux de chômage soit élevé, l'association accompagne cent familles chaque année.",
+              "acceptedAnswers": ["Bien que le taux de chomage soit eleve, l'association accompagne cent familles chaque annee"]
+            },
+            {
+              "id": "b2_u18_l02_wr03",
+              "type": "arrangeWords",
+              "words": ["une", "selon", "le", "progressé", "enquête", "revenu", "a"],
+              "answer": "selon une enquête le revenu a progressé",
+              "english": "according to a survey, income has risen"
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "b2_u18_l02_pr01",
+              "type": "fillBlank",
+              "prompt": "___ une étude de l'INSEE, le revenu médian a progressé de dix pour cent.",
+              "answer": "Selon"
+            },
+            {
+              "id": "b2_u18_l02_pr02",
+              "type": "multipleChoice",
+              "prompt": "Choisissez la forme correcte : « Bien que le quartier ___ des difficultés, la vie associative y est très riche. »",
+              "options": ["connaisse", "connaît", "connaîtra", "a connu"],
+              "answer": "connaisse"
+            },
+            {
+              "id": "b2_u18_l02_pr03",
+              "type": "match",
+              "pairs": [
+                { "french": "le cliché", "english": "the cliché" },
+                { "french": "la relégation", "english": "relegation, marginalisation" },
+                { "french": "le tissu associatif", "english": "the network of local associations" },
+                { "french": "attribuer", "english": "to attribute" }
+              ]
+            },
+            {
+              "id": "b2_u18_l02_pr04",
+              "type": "fillBlank",
+              "prompt": "Il serait ___ de résumer ce quartier à ses seules difficultés.",
+              "answer": "réducteur"
+            },
+            {
+              "id": "b2_u18_l02_pr05",
+              "type": "arrangeWords",
+              "words": ["explique", "pas", "un", "incident", "n'", "population", "une", "entière"],
+              "answer": "un incident n'explique pas une population entière",
+              "english": "one incident does not explain an entire population"
+            },
+            {
+              "id": "b2_u18_l02_pr06",
+              "type": "multipleChoice",
+              "prompt": "Quelle expression permet d'attribuer une affirmation à sa source ?",
+              "options": ["selon une enquête de l'INSEE", "on dit que", "tout le monde sait que", "c'est évident que"],
+              "answer": "selon une enquête de l'INSEE"
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "b2_u18_l02_qz01",
+              "type": "multipleChoice",
+              "prompt": "Que signifie « stigmatiser un quartier » ?",
+              "options": ["le marquer négativement de façon injuste et durable", "l'aider financièrement", "le rénover entièrement", "y construire de nouveaux logements"],
+              "answer": "le marquer négativement de façon injuste et durable"
+            },
+            {
+              "id": "b2_u18_l02_qz02",
+              "type": "fillBlank",
+              "prompt": "D'après les associations locales, l'___ scolaire manque de moyens.",
+              "answer": "accompagnement"
+            },
+            {
+              "id": "b2_u18_l02_qz03",
+              "type": "multipleChoice",
+              "prompt": "Complétez : « Quoique la rénovation ___ du retard, les habitants restent mobilisés. »",
+              "options": ["ait pris", "a pris", "prend", "prendra"],
+              "answer": "ait pris"
+            },
+            {
+              "id": "b2_u18_l02_qz04",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "One should distinguish what the figures say from what residents feel.",
+              "answer": "Il convient de distinguer ce que disent les chiffres de ce que ressentent les habitants.",
+              "acceptedAnswers": ["Il convient de distinguer ce que disent les chiffres de ce que ressentent les habitants"]
+            },
+            {
+              "id": "b2_u18_l02_qz05",
+              "type": "trueFalse",
+              "prompt": "« Quoique » (un mot) et « quoi que » (deux mots) ont le même sens.",
+              "options": ["True", "False"],
+              "answer": "False"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2_u18_l03",
+      "level": "B2",
+      "unit": 18,
+      "title": "Le patrimoine",
+      "description": "Heritage versus development: preservation, restoration and the trade-offs debate.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Préserver, conserver, restaurer",
+              "body": "Three verbs structure the heritage debate. Préserver means to protect something from harm before it happens; conserver means to keep something as it is over time; restaurer means to actively repair a damaged building or artwork, sometimes controversially. Le patrimoine covers buildings, but also know-how, landscapes and traditions — le patrimoine immatériel.",
+              "examples": [
+                { "french": "La ville cherche à préserver ses halles du dix-neuvième siècle.", "english": "The town is trying to preserve its nineteenth-century market halls." },
+                { "french": "Le musée conserve des archives municipales depuis 1850.", "english": "The museum has kept municipal archives since 1850." },
+                { "french": "La façade a été restaurée à l'identique après l'incendie.", "english": "The façade was restored to its original state after the fire." },
+                { "french": "Le savoir-faire des tailleurs de pierre fait partie du patrimoine immatériel de la région.", "english": "The stonemasons' know-how is part of the region's intangible heritage." },
+                { "french": "Certains classent ce monument sans consulter les habitants du quartier.", "english": "Some list this monument as protected without consulting local residents." },
+                { "french": "L'édifice a été inscrit au patrimoine mondial en 1998.", "english": "The building was listed as a World Heritage site in 1998." }
+              ],
+              "tip": "Say « restaurer un bâtiment » but « préserver un paysage » — restauration implies visible repair work, préservation does not."
+            },
+            {
+              "heading": "Classer, inscrire : le vocabulaire administratif",
+              "body": "French heritage law uses precise administrative verbs: classer (to give a monument the highest protection status) and inscrire (a lighter, more common protection). Le classement is a legal decision, not a simple opinion, and it comes with obligations for the owner. Une fouille archéologique can delay or cancel a construction project when significant remains are found.",
+              "examples": [
+                { "french": "L'État a classé ce château monument historique en 1998.", "english": "The state gave this château listed heritage status in 1998." },
+                { "french": "Le classement impose des règles strictes pour toute modification.", "english": "Listed status imposes strict rules for any alteration." },
+                { "french": "L'immeuble est seulement inscrit, ce qui laisse plus de liberté au propriétaire.", "english": "The building is only registered, which leaves the owner more freedom." },
+                { "french": "Une fouille archéologique a repoussé le chantier de six mois.", "english": "An archaeological dig delayed the building work by six months." },
+                { "french": "L'architecte des Bâtiments de France doit valider les travaux dans ce secteur.", "english": "The state heritage architect must approve any work in this area." },
+                { "french": "Le chantier a mis au jour une charpente médiévale.", "english": "The building work uncovered a medieval roof frame." }
+              ],
+              "tip": "« Classé » outranks « inscrit » in the French heritage system — always the stricter category when in doubt."
+            },
+            {
+              "heading": "Le débat : préserver ou développer ?",
+              "body": "Heritage debates weigh a monument's value against the cost of preservation and the needs of a living town: le coût de la restauration, la fréquentation touristique, le besoin de logements. Concession structures (bien que, quoique, même si) are ideal here, alongside expressions like il faut trouver un équilibre entre... et...",
+              "examples": [
+                { "french": "Même si la restauration coûte cher, elle attire des touristes toute l'année.", "english": "Even though the restoration is costly, it attracts tourists all year round." },
+                { "french": "Il faut trouver un équilibre entre préservation du patrimoine et besoin de logements.", "english": "A balance must be found between heritage preservation and the need for housing." },
+                { "french": "Certains reprochent au tourisme de masse de dénaturer le centre historique.", "english": "Some blame mass tourism for spoiling the character of the historic centre." },
+                { "french": "La reconversion d'une usine en musée permet de concilier mémoire et développement.", "english": "Converting a factory into a museum reconciles memory with development." },
+                { "french": "La municipalité a obtenu une subvention pour financer la restauration.", "english": "The town secured a grant to fund the restoration." },
+                { "french": "Le débat oppose souvent les défenseurs du patrimoine aux partisans de la modernisation.", "english": "The debate often pits heritage advocates against those in favour of modernisation." }
+              ],
+              "tip": "« Dénaturer » is a strong verb — use it to say something has lost its authentic character, not merely changed."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "patrimoine", "french": "le patrimoine", "english": "heritage", "partOfSpeech": "noun", "gender": "m", "plural": "—", "pronunciation": "luh pa-tree-MWAHN", "example": "Le patrimoine de la région attire des visiteurs du monde entier.", "exampleEnglish": "The region's heritage attracts visitors from all over the world.", "level": "B2", "category": "heritage" },
+            { "id": "monument", "french": "le monument", "english": "the monument", "partOfSpeech": "noun", "gender": "m", "plural": "les monuments", "pronunciation": "luh mo-nü-MAHN", "example": "Ce monument a été classé en 1998.", "exampleEnglish": "This monument was listed in 1998.", "level": "B2", "category": "heritage" },
+            { "id": "l-edifice", "french": "l'édifice", "english": "the building, the edifice", "partOfSpeech": "noun", "gender": "m", "plural": "les édifices", "pronunciation": "lay-dee-FEESS", "example": "L'édifice a été construit au treizième siècle.", "exampleEnglish": "The building was constructed in the thirteenth century.", "level": "B2", "category": "heritage" },
+            { "id": "preserver", "french": "préserver", "english": "to preserve, to protect", "partOfSpeech": "verb", "pronunciation": "pray-zer-VAY", "example": "L'association milite pour préserver les halles anciennes.", "exampleEnglish": "The association campaigns to preserve the old market halls.", "level": "B2", "category": "heritage" },
+            { "id": "la-preservation", "french": "la préservation", "english": "preservation", "partOfSpeech": "noun", "gender": "f", "plural": "—", "pronunciation": "lah pray-zer-va-SYON", "example": "La préservation du site a coûté plus cher que prévu.", "exampleEnglish": "Preserving the site cost more than expected.", "level": "B2", "category": "heritage" },
+            { "id": "conserver", "french": "conserver", "english": "to keep, to preserve, to conserve", "partOfSpeech": "verb", "pronunciation": "kon-ser-VAY", "example": "Le musée conserve des documents rares du dix-huitième siècle.", "exampleEnglish": "The museum keeps rare documents from the eighteenth century.", "level": "B2", "category": "heritage" },
+            { "id": "la-conservation", "french": "la conservation", "english": "conservation", "partOfSpeech": "noun", "gender": "f", "plural": "—", "pronunciation": "lah kon-ser-va-SYON", "example": "L'état de conservation de la fresque reste bon.", "exampleEnglish": "The fresco's state of conservation remains good.", "level": "B2", "category": "heritage" },
+            { "id": "restaurer", "french": "restaurer", "english": "to restore", "partOfSpeech": "verb", "pronunciation": "res-toh-RAY", "example": "L'équipe a restauré le vitrail pièce par pièce.", "exampleEnglish": "The team restored the stained-glass window piece by piece.", "level": "B2", "category": "heritage" },
+            { "id": "la-restauration", "french": "la restauration", "english": "restoration", "partOfSpeech": "noun", "gender": "f", "plural": "—", "pronunciation": "lah res-toh-ra-SYON", "example": "La restauration a duré près de dix ans.", "exampleEnglish": "The restoration took nearly ten years.", "level": "B2", "category": "heritage" },
+            { "id": "la-rehabilitation", "french": "la réhabilitation", "english": "rehabilitation, refurbishment", "partOfSpeech": "noun", "gender": "f", "plural": "—", "pronunciation": "lah ray-a-bee-lee-ta-SYON", "example": "La réhabilitation a conservé la façade tout en modernisant l'intérieur.", "exampleEnglish": "The refurbishment kept the façade while modernising the interior.", "level": "B2", "category": "heritage" },
+            { "id": "rehabiliter", "french": "réhabiliter", "english": "to rehabilitate, to refurbish", "partOfSpeech": "verb", "pronunciation": "ray-a-bee-lee-TAY", "example": "L'ancienne caserne a été réhabilitée en logements étudiants.", "exampleEnglish": "The old barracks were refurbished into student housing.", "level": "B2", "category": "heritage" },
+            { "id": "la-reconversion", "french": "la reconversion", "english": "conversion, repurposing", "partOfSpeech": "noun", "gender": "f", "plural": "—", "pronunciation": "lah ruh-kon-ver-SYON", "example": "La reconversion de l'usine en musée a redonné vie au quartier.", "exampleEnglish": "The conversion of the factory into a museum brought the district back to life.", "level": "B2", "category": "heritage" },
+            { "id": "la-demolition", "french": "la démolition", "english": "demolition", "partOfSpeech": "noun", "gender": "f", "plural": "—", "pronunciation": "lah day-mo-lee-SYON", "example": "La démolition de la tour a été annulée après la mobilisation des riverains.", "exampleEnglish": "The demolition of the tower was cancelled after residents mobilised.", "level": "B2", "category": "heritage" },
+            { "id": "demolir", "french": "démolir", "english": "to demolish", "partOfSpeech": "verb", "pronunciation": "day-mo-LEER", "example": "Il est prévu de démolir l'aile la plus abîmée du bâtiment.", "exampleEnglish": "The most damaged wing of the building is due to be demolished.", "level": "B2", "category": "heritage" },
+            { "id": "classer-monument", "french": "classer", "english": "to give protected heritage status", "partOfSpeech": "verb", "pronunciation": "kla-SAY", "example": "L'État a classé ce site en 1998.", "exampleEnglish": "The state gave this site protected heritage status in 1998.", "level": "B2", "category": "heritage" },
+            { "id": "le-classement", "french": "le classement", "english": "the listing, the protected status", "partOfSpeech": "noun", "gender": "m", "plural": "les classements", "pronunciation": "luh klas-MAHN", "example": "Le classement impose des règles strictes pour toute rénovation.", "exampleEnglish": "Listed status imposes strict rules for any renovation.", "level": "B2", "category": "heritage" },
+            { "id": "inscrit", "french": "inscrit", "english": "registered, listed (lighter protection)", "partOfSpeech": "adjective", "pronunciation": "an-SKREE", "example": "Le bâtiment est inscrit, mais pas classé.", "exampleEnglish": "The building is registered, but not fully listed.", "level": "B2", "category": "heritage" },
+            { "id": "patrimonial", "french": "patrimonial", "english": "related to heritage", "partOfSpeech": "adjective", "pronunciation": "pa-tree-mo-NYAL", "example": "La valeur patrimoniale du site est reconnue depuis longtemps.", "exampleEnglish": "The site's heritage value has long been recognised.", "level": "B2", "category": "heritage" },
+            { "id": "la-facade", "french": "la façade", "english": "the façade, the front", "partOfSpeech": "noun", "gender": "f", "plural": "les façades", "pronunciation": "lah fa-SAD", "example": "La façade a retrouvé sa couleur d'origine.", "exampleEnglish": "The façade regained its original colour.", "level": "B2", "category": "heritage" },
+            { "id": "la-pierre", "french": "la pierre", "english": "the stone", "partOfSpeech": "noun", "gender": "f", "plural": "les pierres", "pronunciation": "lah PYAIR", "example": "Chaque pierre a été numérotée avant d'être déposée.", "exampleEnglish": "Every stone was numbered before being taken down.", "level": "B2", "category": "heritage" },
+            { "id": "la-charpente", "french": "la charpente", "english": "the roof frame, the timberwork", "partOfSpeech": "noun", "gender": "f", "plural": "les charpentes", "pronunciation": "lah shar-PAHNT", "example": "La charpente médiévale a été entièrement restaurée après l'incendie.", "exampleEnglish": "The medieval roof frame was fully restored after the fire.", "level": "B2", "category": "heritage" },
+            { "id": "le-vitrail", "french": "le vitrail", "english": "the stained-glass window", "partOfSpeech": "noun", "gender": "m", "plural": "les vitraux", "pronunciation": "luh vee-TRY", "example": "Les vitraux de la cathédrale datent du douzième siècle.", "exampleEnglish": "The cathedral's stained-glass windows date from the twelfth century.", "level": "B2", "category": "heritage" },
+            { "id": "la-fouille", "french": "la fouille archéologique", "english": "the archaeological dig", "partOfSpeech": "noun", "gender": "f", "plural": "les fouilles archéologiques", "pronunciation": "lah FOOY ar-kay-o-lo-ZHEEK", "example": "La fouille archéologique a mis au jour des vestiges romains.", "exampleEnglish": "The archaeological dig uncovered Roman remains.", "level": "B2", "category": "heritage" },
+            { "id": "l-architecte", "french": "l'architecte", "english": "the architect", "partOfSpeech": "noun", "gender": "m", "plural": "les architectes", "pronunciation": "lar-shee-TEKT", "example": "L'architecte des Bâtiments de France a validé le projet.", "exampleEnglish": "The state heritage architect approved the project.", "level": "B2", "category": "heritage" },
+            { "id": "l-artisan", "french": "l'artisan", "english": "the craftsman, the artisan", "partOfSpeech": "noun", "gender": "m", "plural": "les artisans", "pronunciation": "lar-tee-ZAHN", "example": "Seuls quelques artisans maîtrisent encore cette technique de taille de pierre.", "exampleEnglish": "Only a few craftsmen still master this stone-cutting technique.", "level": "B2", "category": "heritage" },
+            { "id": "le-savoir-faire", "french": "le savoir-faire", "english": "the know-how, the craft skill", "partOfSpeech": "noun", "gender": "m", "plural": "—", "pronunciation": "luh sa-vwar-FAIR", "example": "Ce savoir-faire est transmis de génération en génération.", "exampleEnglish": "This know-how is passed down from generation to generation.", "level": "B2", "category": "heritage" },
+            { "id": "l-authenticite", "french": "l'authenticité", "english": "authenticity", "partOfSpeech": "noun", "gender": "f", "plural": "—", "pronunciation": "loh-tahn-tee-see-TAY", "example": "Les habitants tiennent à l'authenticité du centre historique.", "exampleEnglish": "Residents care about the authenticity of the historic centre.", "level": "B2", "category": "heritage" },
+            { "id": "subvention", "french": "la subvention", "english": "the grant, the subsidy", "partOfSpeech": "noun", "gender": "f", "plural": "les subventions", "pronunciation": "lah süb-vahn-SYON", "example": "La région a versé une subvention pour financer la restauration.", "exampleEnglish": "The region paid a grant to fund the restoration.", "level": "B2", "category": "heritage" },
+            { "id": "le-cout", "french": "le coût", "english": "the cost", "partOfSpeech": "noun", "gender": "m", "plural": "les coûts", "pronunciation": "luh KOO", "example": "Le coût de la restauration a dépassé le budget initial.", "exampleEnglish": "The cost of the restoration exceeded the initial budget.", "level": "B2", "category": "heritage" },
+            { "id": "l-enjeu", "french": "l'enjeu", "english": "the stake, the issue at stake", "partOfSpeech": "noun", "gender": "m", "plural": "les enjeux", "pronunciation": "lahn-ZHEUH", "example": "L'enjeu est de préserver le site sans le transformer en musée figé.", "exampleEnglish": "The challenge is to preserve the site without turning it into a frozen museum.", "level": "B2", "category": "heritage" },
+            { "id": "le-compromis", "french": "le compromis", "english": "the compromise", "partOfSpeech": "noun", "gender": "m", "plural": "les compromis", "pronunciation": "luh kom-pro-MEE", "example": "Un compromis a été trouvé entre les défenseurs du patrimoine et la mairie.", "exampleEnglish": "A compromise was found between heritage advocates and the town hall.", "level": "B2", "category": "heritage" },
+            { "id": "l-arbitrage", "french": "l'arbitrage", "english": "the trade-off, the arbitration", "partOfSpeech": "noun", "gender": "m", "plural": "les arbitrages", "pronunciation": "lar-bee-TRAZH", "example": "L'arbitrage entre patrimoine et logement reste délicat.", "exampleEnglish": "The trade-off between heritage and housing remains delicate.", "level": "B2", "category": "heritage" },
+            { "id": "la-frequentation", "french": "la fréquentation touristique", "english": "tourist numbers, visitor footfall", "partOfSpeech": "noun", "gender": "f", "plural": "—", "pronunciation": "lah fray-kahn-ta-SYON too-rees-TEEK", "example": "La fréquentation touristique a doublé depuis la restauration.", "exampleEnglish": "Tourist numbers have doubled since the restoration.", "level": "B2", "category": "heritage" },
+            { "id": "le-tourisme-de-masse", "french": "le tourisme de masse", "english": "mass tourism", "partOfSpeech": "noun", "gender": "m", "plural": "—", "pronunciation": "luh too-REESM duh MASS", "example": "Certains habitants craignent que le tourisme de masse dénature le quartier.", "exampleEnglish": "Some residents fear that mass tourism is spoiling the neighbourhood's character.", "level": "B2", "category": "heritage" },
+            { "id": "l-identite", "french": "l'identité", "english": "identity", "partOfSpeech": "noun", "gender": "f", "plural": "les identités", "pronunciation": "lee-dahn-tee-TAY", "example": "Ce marché fait partie de l'identité du quartier.", "exampleEnglish": "This market is part of the district's identity.", "level": "B2", "category": "heritage" },
+            { "id": "la-memoire", "french": "la mémoire", "english": "memory", "partOfSpeech": "noun", "gender": "f", "plural": "—", "pronunciation": "lah may-MWAHR", "example": "Le musée entretient la mémoire ouvrière du quartier.", "exampleEnglish": "The museum keeps alive the working-class memory of the district.", "level": "B2", "category": "heritage" },
+            { "id": "transmettre", "french": "transmettre", "english": "to pass on, to hand down", "partOfSpeech": "verb", "pronunciation": "trahns-METR", "example": "L'artisan transmet son savoir-faire à trois apprentis.", "exampleEnglish": "The craftsman passes on his know-how to three apprentices.", "level": "B2", "category": "heritage" },
+            { "id": "la-sauvegarde", "french": "la sauvegarde", "english": "safeguarding, protection", "partOfSpeech": "noun", "gender": "f", "plural": "—", "pronunciation": "lah sohv-GARD", "example": "L'association milite pour la sauvegarde du patrimoine industriel.", "exampleEnglish": "The association campaigns for the safeguarding of industrial heritage.", "level": "B2", "category": "heritage" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Even though / even if: même si vs bien que",
+              "body": "Même si + indicative states a real or hypothetical fact and its consequence: même si la restauration coûte cher, elle en vaut la peine. Bien que + subjunctive frames the same idea as a concession about which the speaker takes a stance. The two are not interchangeable: même si can also refer to the future (même si les coûts augmentent), which bien que rarely does in spoken French.",
+              "examples": [
+                { "french": "Même si la restauration coûte cher, elle profite à tout le quartier.", "english": "Even though the restoration is costly, it benefits the whole district.", "note": "même si + indicative" },
+                { "french": "Bien que la restauration soit coûteuse, le conseil municipal l'a votée à l'unanimité.", "english": "Although the restoration is costly, the town council voted for it unanimously.", "note": "bien que + subjunctive" },
+                { "french": "Même si le classement protège le bâtiment, il n'empêche pas sa dégradation naturelle.", "english": "Even though the listing protects the building, it does not prevent natural decay." },
+                { "french": "Bien que l'édifice soit classé, certains travaux restent autorisés.", "english": "Although the building is listed, some work is still permitted." },
+                { "french": "Même si les subventions augmentent, elles ne couvrent jamais tout le coût.", "english": "Even if the grants increase, they never cover the whole cost." },
+                { "french": "Quoique rare, ce savoir-faire n'a pas totalement disparu.", "english": "Although rare, this know-how has not entirely disappeared.", "note": "quoique + adjective, subject and verb être omitted" }
+              ],
+              "tip": "After « quoique » or « bien que », you may drop the subject and « être » before an adjective: quoique rare = quoiqu'il soit rare."
+            },
+            {
+              "heading": "Weighing a trade-off: entre... et..., d'un côté... de l'autre...",
+              "body": "Heritage debates need balanced structures to present two legitimate sides before taking a position: trouver un équilibre entre X et Y, d'un côté... de l'autre..., certains estiment que... d'autres, au contraire, pensent que... These frames let you present a debate fairly, which matters when a contested claim has no single right answer.",
+              "examples": [
+                { "french": "Il faut trouver un équilibre entre préservation et modernisation.", "english": "A balance must be found between preservation and modernisation." },
+                { "french": "D'un côté, le classement protège le patrimoine ; de l'autre, il freine les propriétaires.", "english": "On one hand, listing protects heritage; on the other, it constrains owners." },
+                { "french": "Certains estiment que la restauration a dénaturé le bâtiment ; d'autres, au contraire, la saluent.", "english": "Some believe the restoration spoiled the building's character; others, on the contrary, praise it." },
+                { "french": "Entre le coût de l'entretien et la valeur symbolique du site, le choix n'est jamais simple.", "english": "Between the cost of upkeep and the symbolic value of the site, the choice is never simple." },
+                { "french": "D'un côté, la fréquentation touristique finance la restauration ; de l'autre, elle use le monument.", "english": "On one hand, tourist numbers fund the restoration; on the other, they wear down the monument." },
+                { "french": "Le débat oppose, d'un côté, les défenseurs du patrimoine et, de l'autre, les partisans du logement neuf.", "english": "The debate pits heritage advocates on one side against supporters of new housing on the other." }
+              ],
+              "tip": "« D'un côté... de l'autre... » is more elegant in writing than « d'une part... d'autre part... », though both work."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "b2_u18_l03_li01",
+              "type": "listenChoose",
+              "french": "L'État a classé ce monument en 1998, ce qui impose des règles strictes.",
+              "options": ["The state listed this monument in 1998, which imposes strict rules.", "The state demolished this monument in 1998.", "The state will classify this monument next year.", "The town refused to list this monument in 1998."],
+              "answer": "The state listed this monument in 1998, which imposes strict rules."
+            },
+            {
+              "id": "b2_u18_l03_li02",
+              "type": "listenChoose",
+              "french": "Il faut trouver un équilibre entre préservation du patrimoine et besoin de logements.",
+              "options": ["A balance must be found between heritage preservation and the need for housing.", "Heritage preservation is more important than housing.", "Housing needs must always come before heritage.", "There is no possible balance between heritage and housing."],
+              "answer": "A balance must be found between heritage preservation and the need for housing."
+            },
+            {
+              "id": "b2_u18_l03_li03",
+              "type": "listenType",
+              "french": "Même si la restauration coûte cher, elle profite à tout le quartier.",
+              "answer": "Même si la restauration coûte cher, elle profite à tout le quartier.",
+              "acceptedAnswers": ["Meme si la restauration coute cher, elle profite a tout le quartier", "même si la restauration coûte cher, elle profite à tout le quartier"]
+            },
+            {
+              "id": "b2_u18_l03_li04",
+              "type": "dictation",
+              "french": "Une fouille archéologique a repoussé le chantier de six mois.",
+              "answer": "Une fouille archéologique a repoussé le chantier de six mois.",
+              "acceptedAnswers": ["Une fouille archeologique a repousse le chantier de six mois", "une fouille archéologique a repoussé le chantier de six mois"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "b2_u18_l03_sp01",
+              "type": "speak",
+              "french": "D'un côté, le classement protège le bâtiment ; de l'autre, il freine les propriétaires.",
+              "english": "On one hand, listing protects the building; on the other, it constrains owners.",
+              "prompt": "Present both sides of the heritage-listing trade-off.",
+              "tip": "Pause briefly at the semicolon to mark the shift from one side to the other."
+            },
+            {
+              "id": "b2_u18_l03_sp02",
+              "type": "speak",
+              "french": "Bien que l'édifice soit classé, certains travaux restent autorisés.",
+              "english": "Although the building is listed, some work is still permitted.",
+              "prompt": "Make a concession about a heritage rule using bien que.",
+              "tip": "« Soit » is pronounced SWA — do not sound the final t."
+            },
+            {
+              "id": "b2_u18_l03_sp03",
+              "type": "speak",
+              "french": "La reconversion de l'usine en musée concilie mémoire et développement.",
+              "english": "Converting the factory into a museum reconciles memory with development.",
+              "prompt": "Explain how a reconversion project balances heritage and progress.",
+              "tip": "Link « en musée » smoothly: ahn mü-ZAY, no pause before the nasal vowel."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "La filature de Vasserol",
+              "french": "Fermée en 1987, la filature de Vasserol a longtemps dominé le paysage sans que personne ne sache vraiment quoi en faire.\nLe bâtiment, inscrit à l'inventaire supplémentaire des monuments historiques depuis 1994, ne pouvait être démoli sans l'accord de l'architecte des Bâtiments de France.\nMais l'entretenir coûtait cher, et la mairie de Vasserol ne disposait pas des moyens nécessaires.\nEn 2018, un cabinet d'architectes a proposé une reconversion : conserver la charpente et la façade de brique, tout en installant à l'intérieur des logements, un espace de coworking et une médiathèque.\nLe projet a immédiatement divisé le conseil municipal. « On ne peut pas transformer notre mémoire ouvrière en produit immobilier », a lancé un élu d'opposition lors du débat.\nD'autres ont répondu que l'alternative n'était pas la préservation parfaite, mais l'abandon : sans reconversion, la filature risquait de s'effondrer d'ici dix ans.\nUne fouille archéologique préalable a mis au jour d'anciennes machines à tisser, aujourd'hui exposées dans le hall d'entrée.\nLe chantier, financé pour moitié par une subvention régionale, a duré quatre ans.\nSelon l'office du tourisme, la fréquentation du site a été multipliée par six depuis son ouverture au public en 2022.\nCertains habitants regrettent que l'ancienne cheminée, jugée trop fragile, n'ait pas pu être conservée.\nD'autres, comme l'ancienne ouvrière Odile Ferrand, aujourd'hui bénévole à la médiathèque, voient les choses autrement : « L'important, c'est que les gens continuent à passer la porte. Un bâtiment vide, ça ne transmet plus rien. »\nLe débat, lui, n'est pas clos : la mairie envisage désormais un projet comparable pour l'ancienne gare de marchandises, à quelques rues de là.",
+              "english": "Closed in 1987, the Vasserol spinning mill long dominated the landscape without anyone quite knowing what to do with it.\nThe building, registered on the supplementary inventory of historic monuments since 1994, could not be demolished without the approval of the state heritage architect.\nBut maintaining it was costly, and the Vasserol town hall did not have the necessary funds.\nIn 2018, an architecture firm proposed a conversion: keep the roof frame and the brick façade, while installing housing, a coworking space and a media library inside.\nThe project immediately divided the town council. \"We cannot turn our working-class memory into a real-estate product,\" declared an opposition councillor during the debate.\nOthers replied that the alternative was not perfect preservation, but abandonment: without conversion, the mill risked collapsing within ten years.\nA preliminary archaeological dig uncovered old weaving machines, now displayed in the entrance hall.\nThe project, half-funded by a regional grant, took four years.\nAccording to the tourist office, visitor numbers at the site have multiplied by six since it opened to the public in 2022.\nSome residents regret that the old chimney, judged too fragile, could not be kept.\nOthers, like former mill worker Odile Ferrand, now a volunteer at the media library, see things differently: \"What matters is that people keep walking through the door. An empty building no longer passes anything on.\"\nThe debate, for its part, is not over: the town hall is now considering a similar project for the old freight station, a few streets away.",
+              "questions": [
+                {
+                  "id": "b2_u18_l03_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Pourquoi la filature ne pouvait-elle pas être démolie facilement ?",
+                  "options": ["Parce qu'elle était inscrite à l'inventaire des monuments historiques", "Parce que la mairie manquait d'argent pour la démolir", "Parce que les habitants s'y opposaient tous", "Parce qu'elle appartenait encore à une entreprise privée"],
+                  "answer": "Parce qu'elle était inscrite à l'inventaire des monuments historiques"
+                },
+                {
+                  "id": "b2_u18_l03_rd02",
+                  "type": "multipleChoice",
+                  "prompt": "Quel argument avancent les défenseurs de la reconversion ?",
+                  "options": ["Sans reconversion, le bâtiment risquait de s'effondrer d'ici dix ans", "La reconversion coûte moins cher que l'entretien courant", "Le bâtiment n'a aucune valeur patrimoniale", "La fouille archéologique n'a rien trouvé d'intéressant"],
+                  "answer": "Sans reconversion, le bâtiment risquait de s'effondrer d'ici dix ans"
+                },
+                {
+                  "id": "b2_u18_l03_rd03",
+                  "type": "trueFalse",
+                  "prompt": "D'après le texte, tous les habitants de Vasserol sont d'accord sur le résultat de la reconversion.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "b2_u18_l03_wr01",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "A balance must be found between heritage preservation and the need for housing.",
+              "answer": "Il faut trouver un équilibre entre préservation du patrimoine et besoin de logements.",
+              "acceptedAnswers": ["Il faut trouver un equilibre entre preservation du patrimoine et besoin de logements"]
+            },
+            {
+              "id": "b2_u18_l03_wr02",
+              "type": "translate",
+              "prompt": "Translate into French, using bien que + subjunctive",
+              "english": "Although the building is listed, some work is still permitted.",
+              "answer": "Bien que l'édifice soit classé, certains travaux restent autorisés.",
+              "acceptedAnswers": ["Bien que l'edifice soit classe, certains travaux restent autorises"]
+            },
+            {
+              "id": "b2_u18_l03_wr03",
+              "type": "arrangeWords",
+              "words": ["a", "mis", "vestiges", "des", "au", "jour", "romains", "la", "fouille"],
+              "answer": "la fouille a mis au jour des vestiges romains",
+              "english": "the dig uncovered Roman remains"
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "b2_u18_l03_pr01",
+              "type": "fillBlank",
+              "prompt": "Le bâtiment est seulement ___, ce qui laisse plus de liberté au propriétaire.",
+              "answer": "inscrit"
+            },
+            {
+              "id": "b2_u18_l03_pr02",
+              "type": "multipleChoice",
+              "prompt": "Choisissez la forme correcte : « Même si la restauration ___ cher, elle profite au quartier. »",
+              "options": ["coûte", "coûté", "coûtât", "aurait coûté"],
+              "answer": "coûte"
+            },
+            {
+              "id": "b2_u18_l03_pr03",
+              "type": "match",
+              "pairs": [
+                { "french": "classer", "english": "to give protected heritage status" },
+                { "french": "la charpente", "english": "the roof frame" },
+                { "french": "la reconversion", "english": "conversion, repurposing" },
+                { "french": "l'enjeu", "english": "the stake, the issue at stake" }
+              ]
+            },
+            {
+              "id": "b2_u18_l03_pr04",
+              "type": "fillBlank",
+              "prompt": "Le débat oppose souvent les défenseurs du patrimoine aux partisans de la ___.",
+              "answer": "modernisation"
+            },
+            {
+              "id": "b2_u18_l03_pr05",
+              "type": "arrangeWords",
+              "words": ["a", "façade", "identique", "restaurée", "été", "la", "à", "l'"],
+              "answer": "la façade a été restaurée à l'identique",
+              "english": "the façade was restored to its original state"
+            },
+            {
+              "id": "b2_u18_l03_pr06",
+              "type": "multipleChoice",
+              "prompt": "Quelle protection est la plus stricte ?",
+              "options": ["classé", "inscrit", "patrimonial", "restauré"],
+              "answer": "classé"
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "b2_u18_l03_qz01",
+              "type": "multipleChoice",
+              "prompt": "Quelle est la différence principale entre « préserver » et « restaurer » ?",
+              "options": ["préserver protège avant la dégradation, restaurer répare après", "les deux mots sont parfaitement synonymes", "restaurer signifie seulement démolir", "préserver s'applique uniquement aux paysages"],
+              "answer": "préserver protège avant la dégradation, restaurer répare après"
+            },
+            {
+              "id": "b2_u18_l03_qz02",
+              "type": "fillBlank",
+              "prompt": "L'architecte des Bâtiments de ___ doit valider les travaux dans ce secteur.",
+              "answer": "France"
+            },
+            {
+              "id": "b2_u18_l03_qz03",
+              "type": "multipleChoice",
+              "prompt": "Complétez : « Bien que l'édifice ___ classé, certains travaux restent autorisés. »",
+              "options": ["soit", "est", "sera", "était"],
+              "answer": "soit"
+            },
+            {
+              "id": "b2_u18_l03_qz04",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "The debate pits heritage advocates against supporters of new housing.",
+              "answer": "Le débat oppose les défenseurs du patrimoine aux partisans du logement neuf.",
+              "acceptedAnswers": ["Le debat oppose les defenseurs du patrimoine aux partisans du logement neuf"]
+            },
+            {
+              "id": "b2_u18_l03_qz05",
+              "type": "trueFalse",
+              "prompt": "« Classé » est une protection plus forte qu'« inscrit » dans le droit du patrimoine français.",
+              "options": ["True", "False"],
+              "answer": "True"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1037 @@
+{
+  "id": "c2_u13",
+  "level": "C2",
+  "unit": 13,
+  "title": "Media Register",
+  "subtitle": "How French sounds different on air, on screen, and in your ears",
+  "icon": "📻",
+  "lessons": [
+    {
+      "id": "c2_u13_l01",
+      "level": "C2",
+      "unit": 13,
+      "title": "La radio",
+      "description": "How radio French is written to be heard: a hybrid register between the page and live speech.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "L'écrit pour être entendu",
+              "body": "Radio French sits between the written and the spoken: scripts are drafted on paper but built to sound spontaneous once read aloud. Sentences stay short because the ear has no comma to pause on, ideas get repeated for listeners who cannot re-read, and connectors are chosen for rhythm rather than logic on the page.",
+              "examples": [
+                { "french": "Le Premier ministre, qui s'exprimait ce matin devant l'Assemblée, a annoncé une réforme dont les contours restent flous.", "english": "The Prime Minister, who was speaking this morning before the Assembly, announced a reform whose outlines remain unclear.", "note": "written-press version — too dense for the ear" },
+                { "french": "Le Premier ministre a parlé ce matin. Il annonce une réforme. Les détails, on ne les connaît pas encore.", "english": "The Prime Minister spoke this morning. He's announcing a reform. The details, we don't know them yet.", "note": "radio version — short units, present tense, redundant subject" },
+                { "french": "Je le répète, pour ceux qui nous rejoignent : il est huit heures dix.", "english": "I'll say it again, for those just joining us: it's ten past eight.", "note": "redundancy built in for listeners tuning in late" },
+                { "french": "Alors, très concrètement, qu'est-ce que ça change pour vous ?", "english": "So, in very concrete terms, what does this change for you?", "note": "oral discourse marker 'alors' opens the segment" },
+                { "french": "On y reviendra dans un instant, mais d'abord, un mot sur la météo.", "english": "We'll come back to that in a moment, but first, a word on the weather.", "note": "explicit signposting replaces a paragraph break" }
+              ],
+              "tip": "Listen for 'alors', 'bon', 'eh bien' at the start of sentences — they aren't filler mistakes, they're oral punctuation that helps the ear locate a new idea."
+            },
+            {
+              "heading": "Les codes du direct",
+              "body": "Live radio runs on set conventions: ritual time-checks, formulaic handoffs between hosts, call-in etiquette, and fillers used deliberately for pacing. Reproducing these formulas exactly sounds far more natural than inventing new ones on the spot.",
+              "examples": [
+                { "french": "Il est neuf heures tapantes sur Fréquence Ouverte, bonjour à tous !", "english": "It's nine o'clock sharp on Fréquence Ouverte, good morning everyone!", "note": "time-check as ritual opening" },
+                { "french": "On garde la ligne, madame, ne quittez pas.", "english": "We're keeping you on the line, madam, don't hang up.", "note": "set call-in show formula" },
+                { "french": "Je vous le donne dans quelques secondes, le temps de retrouver mes notes.", "english": "I'll give it to you in a few seconds, just long enough to find my notes.", "note": "acknowledging live imperfection builds intimacy" },
+                { "french": "Merci d'être avec nous ce matin, on se retrouve juste après la page de publicité.", "english": "Thanks for being with us this morning, we'll be back right after the ad break.", "note": "explicit handoff to a break" },
+                { "french": "À vous les studios de Marseille, je vous laisse l'antenne.", "english": "Over to you, Marseille studios, I'm handing you the airwaves.", "note": "'antenne' = broadcasting airtime" }
+              ],
+              "tip": "'Ne quittez pas' and 'je vous laisse l'antenne' are set formulas — learn them as fixed blocks, not as sentences you build word by word."
+            },
+            {
+              "heading": "De la page au micro",
+              "body": "A bulletin meant to be read aloud avoids written-only constructions: journalists round numbers, isolate them for the ear, and chunk information into short breath groups instead of long written sentences with subordinate clauses.",
+              "examples": [
+                { "french": "Deux cent cinquante personnes, environ, ont manifesté hier.", "english": "About two hundred and fifty people took to the streets yesterday.", "note": "'environ' placed after the figure eases the spoken rhythm" },
+                { "french": "Un chiffre à retenir : sept sur dix.", "english": "One figure to remember: seven out of ten.", "note": "a rounded, isolated figure replaces decimal precision" },
+                { "french": "Attaque informatique, hôpital paralysé, ministre convoqué : trois nouvelles en une phrase.", "english": "Cyberattack, hospital paralysed, minister summoned: three headlines in one sentence.", "note": "verbless nominal groups speed up delivery" },
+                { "french": "Nous y reviendrons en détail à onze heures.", "english": "We'll come back to it in detail at eleven.", "note": "explicit forward reference replaces a written table of contents" },
+                { "french": "C'est un dossier que Claire Vasseur a suivi pour nous.", "english": "This is a story Claire Vasseur has been following for us.", "note": "the byline is read aloud, unlike a printed credit line" }
+              ],
+              "tip": "Numbers are rounded and spaced out on air — 'sept sur dix' lands; '71,4 %' does not."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "le-journaliste", "french": "le journaliste", "english": "the journalist", "partOfSpeech": "noun", "gender": "m", "plural": "les journalistes", "pronunciation": "luh zhoor-nah-LEEST", "example": "Le journaliste résume l'info en trente secondes, montre en main.", "exampleEnglish": "The journalist sums up the story in thirty seconds, stopwatch in hand.", "level": "C2", "category": "radio" },
+            { "id": "l-animateur", "french": "l'animateur", "english": "the (male) host, presenter", "partOfSpeech": "noun", "gender": "m", "plural": "les animateurs", "pronunciation": "lah-nee-mah-TUR", "example": "L'animateur relance l'auditeur d'une voix posée.", "exampleEnglish": "The host prompts the caller in a calm voice.", "level": "C2", "category": "radio" },
+            { "id": "l-animatrice", "french": "l'animatrice", "english": "the (female) host, presenter", "partOfSpeech": "noun", "gender": "f", "plural": "les animatrices", "pronunciation": "lah-nee-mah-TREESS", "example": "L'animatrice enchaîne les chroniques sans un seul blanc.", "exampleEnglish": "The host runs through the segments without a single dead air.", "level": "C2", "category": "radio" },
+            { "id": "l-auditeur", "french": "l'auditeur", "english": "the (male) listener", "partOfSpeech": "noun", "gender": "m", "plural": "les auditeurs", "pronunciation": "loh-dee-TUR", "example": "Un auditeur appelle pour donner son avis sur l'antenne.", "exampleEnglish": "A listener calls in to give his opinion on air.", "level": "C2", "category": "radio" },
+            { "id": "l-auditrice", "french": "l'auditrice", "english": "the (female) listener", "partOfSpeech": "noun", "gender": "f", "plural": "les auditrices", "pronunciation": "loh-dee-TREESS", "example": "L'auditrice pose une question à laquelle personne n'avait pensé.", "exampleEnglish": "The listener asks a question nobody had thought of.", "level": "C2", "category": "radio" },
+            { "id": "le-micro", "french": "le micro", "english": "the microphone", "partOfSpeech": "noun", "gender": "m", "plural": "les micros", "pronunciation": "luh mee-KROH", "example": "Le micro reste ouvert une seconde de trop.", "exampleEnglish": "The microphone stays open one second too long.", "level": "C2", "category": "radio" },
+            { "id": "le-studio", "french": "le studio", "english": "the (recording) studio", "partOfSpeech": "noun", "gender": "m", "plural": "les studios", "pronunciation": "luh stew-DYOH", "example": "Deux invités patientent déjà dans le studio.", "exampleEnglish": "Two guests are already waiting in the studio.", "level": "C2", "category": "radio" },
+            { "id": "l-antenne", "french": "l'antenne", "english": "the airwaves, being on air", "partOfSpeech": "noun", "gender": "f", "plural": "les antennes", "pronunciation": "lahn-TEN", "example": "On coupe l'antenne pile à l'heure, jamais une seconde de plus.", "exampleEnglish": "They cut the broadcast right on time, never a second more.", "level": "C2", "category": "radio" },
+            { "id": "le-direct", "french": "le direct", "english": "the live broadcast", "partOfSpeech": "noun", "gender": "m", "plural": "les directs", "pronunciation": "luh dee-REKT", "example": "Rien ne remplace la tension d'un direct.", "exampleEnglish": "Nothing replaces the tension of a live broadcast.", "level": "C2", "category": "radio" },
+            { "id": "en-direct", "french": "en direct", "english": "live", "partOfSpeech": "expression", "pronunciation": "ahn dee-REKT", "example": "L'entretien est diffusé en direct, sans aucun montage.", "exampleEnglish": "The interview is broadcast live, with no editing at all.", "level": "C2", "category": "radio" },
+            { "id": "la-retransmission", "french": "la retransmission", "english": "the broadcast, the coverage", "partOfSpeech": "noun", "gender": "f", "plural": "les retransmissions", "pronunciation": "lah ruh-trahns-mee-SYON", "example": "La retransmission du concert commence à vingt-deux heures.", "exampleEnglish": "The concert broadcast starts at ten p.m.", "level": "C2", "category": "radio" },
+            { "id": "le-flash-info", "french": "le flash info", "english": "the news flash", "partOfSpeech": "noun", "gender": "m", "plural": "les flashs info", "pronunciation": "luh flash an-FOH", "example": "Un flash info interrompt le programme pour l'annonce.", "exampleEnglish": "A news flash interrupts the programme for the announcement.", "level": "C2", "category": "radio" },
+            { "id": "le-bulletin-meteo", "french": "le bulletin météo", "english": "the weather bulletin", "partOfSpeech": "noun", "gender": "m", "plural": "les bulletins météo", "pronunciation": "luh bewl-tan may-tay-OH", "example": "Le bulletin météo dure exactement quarante secondes.", "exampleEnglish": "The weather bulletin lasts exactly forty seconds.", "level": "C2", "category": "radio" },
+            { "id": "la-station-de-radio", "french": "la station de radio", "english": "the radio station", "partOfSpeech": "noun", "gender": "f", "plural": "les stations de radio", "pronunciation": "lah stah-syon duh rah-DYOH", "example": "Cette station de radio diffuse vingt-quatre heures sur vingt-quatre.", "exampleEnglish": "This radio station broadcasts around the clock.", "level": "C2", "category": "radio" },
+            { "id": "la-frequence", "french": "la fréquence", "english": "the frequency", "partOfSpeech": "noun", "gender": "f", "plural": "les fréquences", "pronunciation": "lah fray-KAHNSS", "example": "Réglez votre poste sur cette fréquence pour nous suivre.", "exampleEnglish": "Tune your set to this frequency to follow us.", "level": "C2", "category": "radio" },
+            { "id": "l-oreille", "french": "l'oreille", "english": "the ear", "partOfSpeech": "noun", "gender": "f", "plural": "les oreilles", "pronunciation": "loh-RAY", "example": "Ça marche à l'oreille : si la phrase est trop longue, on la coupe.", "exampleEnglish": "It's judged by ear: if the sentence is too long, you cut it.", "level": "C2", "category": "radio" },
+            { "id": "la-libre-antenne", "french": "la libre antenne", "english": "the phone-in show, the open-line show", "partOfSpeech": "noun", "gender": "f", "plural": "les libres antennes", "pronunciation": "lah leebr ahn-TEN", "example": "La libre antenne du vendredi soir reçoit les auditeurs en direct.", "exampleEnglish": "Friday night's phone-in show takes listeners' calls live.", "level": "C2", "category": "radio" },
+            { "id": "le-standard", "french": "le standard", "english": "the switchboard", "partOfSpeech": "noun", "gender": "m", "plural": "les standards", "pronunciation": "luh stahn-DAR", "example": "Le standard est saturé d'appels depuis le début de l'émission.", "exampleEnglish": "The switchboard has been jammed with calls since the show began.", "level": "C2", "category": "radio" },
+            { "id": "la-revue-de-presse", "french": "la revue de presse", "english": "the press review", "partOfSpeech": "noun", "gender": "f", "plural": "les revues de presse", "pronunciation": "lah ruh-vew duh PRESS", "example": "La revue de presse ouvre l'émission chaque matin à sept heures.", "exampleEnglish": "The press review opens the show every morning at seven.", "level": "C2", "category": "radio" },
+            { "id": "l-editorial", "french": "l'éditorial", "english": "the editorial", "partOfSpeech": "noun", "gender": "m", "plural": "les éditoriaux", "pronunciation": "lay-dee-toh-RYAL", "example": "Son éditorial dure deux minutes, pas une seconde de plus.", "exampleEnglish": "Her editorial lasts two minutes, not a second more.", "level": "C2", "category": "radio" },
+            { "id": "l-editorialiste", "french": "l'éditorialiste", "english": "the editorial writer, the commentator", "partOfSpeech": "noun", "gender": "m", "plural": "les éditorialistes", "pronunciation": "lay-dee-toh-rya-LEEST", "example": "L'éditorialiste donne son avis, tranché, juste après les titres.", "exampleEnglish": "The commentator gives his sharp opinion right after the headlines.", "level": "C2", "category": "radio" },
+            { "id": "improviser", "french": "improviser", "english": "to improvise", "partOfSpeech": "verb", "pronunciation": "an-proh-vee-ZAY", "example": "Sur ce sujet imprévu, l'animateur doit improviser.", "exampleEnglish": "On this unexpected topic, the host has to improvise.", "level": "C2", "category": "radio" },
+            { "id": "la-repetition", "french": "la répétition", "english": "the rehearsal", "partOfSpeech": "noun", "gender": "f", "plural": "les répétitions", "pronunciation": "lah ray-pay-tee-SYON", "example": "Une répétition rapide précède chaque passage à l'antenne.", "exampleEnglish": "A quick rehearsal precedes each time on air.", "level": "C2", "category": "radio" },
+            { "id": "le-script", "french": "le script", "english": "the script", "partOfSpeech": "noun", "gender": "m", "plural": "les scripts", "pronunciation": "luh SKREEPT", "example": "Le script est écrit pour sonner comme s'il n'existait pas.", "exampleEnglish": "The script is written to sound as if it doesn't exist.", "level": "C2", "category": "radio" },
+            { "id": "la-phrase", "french": "la phrase", "english": "the sentence", "partOfSpeech": "noun", "gender": "f", "plural": "les phrases", "pronunciation": "lah FRAHZ", "example": "Une phrase de radio se termine avant que l'oreille ne se perde.", "exampleEnglish": "A radio sentence ends before the ear can lose track.", "level": "C2", "category": "radio" },
+            { "id": "la-redondance", "french": "la redondance", "english": "the redundancy, the repetitiveness", "partOfSpeech": "noun", "gender": "f", "plural": "les redondances", "pronunciation": "lah ruh-don-DAHNSS", "example": "La redondance n'est pas un défaut ici : elle aide qui vient d'allumer la radio.", "exampleEnglish": "Redundancy isn't a flaw here: it helps whoever just switched the radio on.", "level": "C2", "category": "radio" },
+            { "id": "le-chiffre", "french": "le chiffre", "english": "the figure, the number", "partOfSpeech": "noun", "gender": "m", "plural": "les chiffres", "pronunciation": "luh SHEE-fruh", "example": "On arrondit le chiffre pour qu'il reste en mémoire.", "exampleEnglish": "The figure gets rounded so it sticks in memory.", "level": "C2", "category": "radio" },
+            { "id": "arrondir", "french": "arrondir", "english": "to round (a number)", "partOfSpeech": "verb", "pronunciation": "ah-rohn-DEER", "example": "On arrondit toujours les chiffres à l'antenne.", "exampleEnglish": "Figures are always rounded on air.", "level": "C2", "category": "radio" },
+            { "id": "l-auditoire", "french": "l'auditoire", "english": "the audience, the listenership", "partOfSpeech": "noun", "gender": "m", "plural": "les auditoires", "pronunciation": "loh-dee-TWAHR", "example": "L'auditoire d'une station généraliste est très large.", "exampleEnglish": "A general-interest station's audience is very broad.", "level": "C2", "category": "radio" },
+            { "id": "le-public", "french": "le public", "english": "the audience, the public", "partOfSpeech": "noun", "gender": "m", "plural": "les publics", "pronunciation": "luh pew-BLEEK", "example": "Le public de cette tranche horaire est surtout composé d'automobilistes.", "exampleEnglish": "The audience for this time slot is mostly made up of drivers.", "level": "C2", "category": "radio" },
+            { "id": "enchainer", "french": "enchaîner", "english": "to move straight on, to follow up smoothly", "partOfSpeech": "verb", "pronunciation": "ahn-sheh-NAY", "example": "L'animateur enchaîne directement sur la chronique suivante.", "exampleEnglish": "The host moves straight on to the next segment.", "level": "C2", "category": "radio" },
+            { "id": "l-enchainement", "french": "l'enchaînement", "english": "the transition, the sequencing", "partOfSpeech": "noun", "gender": "m", "plural": "les enchaînements", "pronunciation": "lahn-shen-MAHN", "example": "L'enchaînement entre les rubriques doit sembler naturel.", "exampleEnglish": "The transition between segments has to sound natural.", "level": "C2", "category": "radio" },
+            { "id": "reformuler", "french": "reformuler", "english": "to rephrase, to reformulate", "partOfSpeech": "verb", "pronunciation": "ruh-for-mew-LAY", "example": "Le journaliste reformule la question de l'auditeur avant d'y répondre.", "exampleEnglish": "The journalist rephrases the listener's question before answering it.", "level": "C2", "category": "radio" },
+            { "id": "le-debit", "french": "le débit", "english": "the speaking pace, the delivery", "partOfSpeech": "noun", "gender": "m", "plural": "les débits", "pronunciation": "luh day-BEE", "example": "Un débit trop rapide fatigue l'auditeur.", "exampleEnglish": "A pace that's too fast tires the listener.", "level": "C2", "category": "radio" },
+            { "id": "l-intonation", "french": "l'intonation", "english": "the intonation", "partOfSpeech": "noun", "gender": "f", "plural": "les intonations", "pronunciation": "lan-toh-nah-SYON", "example": "L'intonation remplace la ponctuation qu'on ne voit pas.", "exampleEnglish": "Intonation replaces the punctuation you can't see.", "level": "C2", "category": "radio" },
+            { "id": "articuler", "french": "articuler", "english": "to articulate, to enunciate", "partOfSpeech": "verb", "pronunciation": "ar-tee-kew-LAY", "example": "Il faut articuler davantage quand le débit s'accélère.", "exampleEnglish": "You need to articulate more when the pace speeds up.", "level": "C2", "category": "radio" },
+            { "id": "la-transition", "french": "la transition", "english": "the transition", "partOfSpeech": "noun", "gender": "f", "plural": "les transitions", "pronunciation": "lah trahn-zee-SYON", "example": "La transition entre deux invités ne dure jamais plus de dix secondes.", "exampleEnglish": "The transition between two guests never lasts more than ten seconds.", "level": "C2", "category": "radio" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Le présent de l'actualité",
+              "body": "Radio bulletins favour the present tense even for events that already happened, creating a sense of immediacy the passé composé cannot give. 'Venir de + infinitif' handles the very recent past, and the present combined with 'depuis' frames a situation still unfolding.",
+              "examples": [
+                { "french": "Le gouvernement annonce une baisse des impôts.", "english": "The government announces a tax cut.", "note": "present used even though the announcement already happened" },
+                { "french": "L'incendie vient d'être maîtrisé.", "english": "The fire has just been brought under control.", "note": "'venir de + infinitif' for the very recent past" },
+                { "french": "Les secours interviennent depuis ce matin.", "english": "Rescue teams have been responding since this morning.", "note": "present + depuis for an event still unfolding" },
+                { "french": "On apprend à l'instant que la séance est suspendue.", "english": "We're just learning that the session has been suspended.", "note": "'à l'instant' flags breaking news inside a live present" },
+                { "french": "Le procès s'ouvre dans une heure.", "english": "The trial opens in an hour.", "note": "the same present also covers the near future" }
+              ],
+              "tip": "Written press keeps tenses strict; radio blurs past, present, and future into one continuous 'now' — that blur is the register, not an error."
+            },
+            {
+              "heading": "Phrases nominales et ellipse",
+              "body": "Dropping the main verb for a headline-like rhythm is a deliberate oral device: apposed noun phrases, colons, and short fragments replace full written sentences so the ear can keep pace with the story.",
+              "examples": [
+                { "french": "Grève des trains : la circulation reste perturbée.", "english": "Train strike: traffic remains disrupted.", "note": "a nominal sentence, no main verb in the first clause" },
+                { "french": "Trois blessés, aucun décès, selon les premiers bilans.", "english": "Three injured, no fatalities, according to initial reports.", "note": "apposed noun phrases replace a full sentence" },
+                { "french": "Ce qui est sûr, c'est que le débat va continuer.", "english": "What's certain is that the debate will go on.", "note": "the cleft 'ce qui... c'est que' gives the ear time to catch up" },
+                { "french": "Un mot, avant de terminer, sur la circulation.", "english": "A word, before we finish, on the traffic.", "note": "a deliberate fragment used as a transition" },
+                { "french": "Résultat : le prix du billet augmente de dix pour cent.", "english": "Result: the ticket price goes up by ten percent.", "note": "'résultat :' replaces a causal conjunction" }
+              ],
+              "tip": "In a written article this ellipsis would look careless; read aloud, it is exactly what keeps a bulletin moving."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "c2_u13_l01_li01",
+              "type": "listenChoose",
+              "french": "Il est neuf heures tapantes sur Fréquence Ouverte, bonjour à tous !",
+              "options": ["It's nine o'clock sharp on Fréquence Ouverte, good morning everyone!", "It's nine o'clock sharp on Fréquence Ouverte, good night everyone!", "It's ninety minutes into the show on Fréquence Ouverte.", "It's nine o'clock sharp on Fréquence Fermée, good morning everyone!"],
+              "answer": "It's nine o'clock sharp on Fréquence Ouverte, good morning everyone!"
+            },
+            {
+              "id": "c2_u13_l01_li02",
+              "type": "listenChoose",
+              "french": "On y reviendra dans un instant, mais d'abord, un mot sur la météo.",
+              "options": ["We'll come back to that in a moment, but first, a word on the weather.", "We already covered that, so let's skip the weather.", "We'll come back to that tomorrow, after the weather.", "We'll come back to that in a moment, but first, a word on traffic."],
+              "answer": "We'll come back to that in a moment, but first, a word on the weather."
+            },
+            {
+              "id": "c2_u13_l01_li03",
+              "type": "listenType",
+              "french": "Un auditeur appelle pour donner son avis sur l'antenne.",
+              "answer": "Un auditeur appelle pour donner son avis sur l'antenne.",
+              "acceptedAnswers": ["Un auditeur appelle pour donner son avis sur l'antenne", "un auditeur appelle pour donner son avis sur l antenne"]
+            },
+            {
+              "id": "c2_u13_l01_li04",
+              "type": "dictation",
+              "french": "La rédaction reformule chaque dépêche pour qu'elle sonne juste à l'oral.",
+              "answer": "La rédaction reformule chaque dépêche pour qu'elle sonne juste à l'oral.",
+              "acceptedAnswers": ["La redaction reformule chaque depeche pour qu'elle sonne juste a l'oral", "la rédaction reformule chaque dépêche pour qu elle sonne juste a l oral"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "c2_u13_l01_sp01",
+              "type": "speak",
+              "french": "Il est huit heures dix, bonjour à toutes et à tous.",
+              "english": "It's ten past eight, good morning everyone.",
+              "prompt": "Open a radio segment with a time-check greeting.",
+              "tip": "Keep 'huit heures dix' crisp: weet-ur deess, with no pause before 'dix'."
+            },
+            {
+              "id": "c2_u13_l01_sp02",
+              "type": "speak",
+              "french": "Je vous le redis, pour ceux qui nous rejoignent à l'instant.",
+              "english": "I'll say it again, for those just joining us.",
+              "prompt": "Signal deliberate redundancy for late-joining listeners.",
+              "tip": "Stress falls on 'l'instant' at the very end — French rhythm groups build toward the last syllable."
+            },
+            {
+              "id": "c2_u13_l01_sp03",
+              "type": "speak",
+              "french": "On enchaîne tout de suite avec notre invité du jour.",
+              "english": "We're moving straight on to today's guest.",
+              "prompt": "Deliver a smooth on-air handoff to a guest.",
+              "tip": "Link 'enchaîne' and 'tout' with no glottal stop: ahn-shen-too-sweet."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "La radio, un art de l'oreille",
+              "french": "On dit souvent que la radio est le média de l'oral, mais c'est une demi-vérité : ce que l'auditeur entend a presque toujours été écrit.\nSur Fréquence Ouverte, l'équipe du Grand Direct, l'émission de Karim Zeroual, appelle cela « l'écriture blanche » : une écriture qui doit disparaître au moment où elle est lue.\nLe script existe, noirci de ratures, annoté au marqueur, mais il ne doit jamais s'entendre.\nUne phrase trop littéraire trahit sa page ; une phrase trop plate ennuie l'oreille.\nEntre les deux, les journalistes de la station cherchent un français parlé, mais tenu, débarrassé des scories du direct sans perdre son souffle.\nKarim Zeroual résume la règle à ses jeunes recrues d'une formule qu'il répète chaque saison : « Écris comme tu parles, mais parle comme si tu avais réfléchi. »\nConcrètement, cela suppose des phrases courtes, des sujets répétés, des chiffres arrondis.\nCela suppose aussi d'accepter la redondance, cette faute que l'on corrigerait sans hésiter dans un article : à la radio, elle rattrape l'auditeur qui vient d'allumer son poste.\nLe silence, lui, n'est jamais un vide mais un choix : deux secondes avant une mauvaise nouvelle en disent plus qu'un adjectif.\nLes animateurs du Grand Direct s'entraînent d'ailleurs à le tenir, ce silence, comme on s'entraîne à une gamme.\nLe paradoxe, c'est que cette spontanéité si travaillée doit rester invisible : le public ne doit jamais soupçonner l'heure de répétition qui la précède.\nCertains auditeurs fidèles affirment reconnaître une hésitation calculée, un « alors » placé exactement où il faut.\nKarim Zeroual s'en amuse : selon lui, le jour où l'on cesse d'entendre le travail, c'est que le travail a réussi.\nReste une question, plus ancienne que la station elle-même : peut-on vraiment parler naturellement quand on sait que des milliers de personnes écoutent ?\nLa réponse du Grand Direct tient en une phrase, affichée au-dessus de la console : « Ici, on n'improvise que ce qui a été préparé. »",
+              "english": "It is often said that radio is the medium of the spoken word, but that is only half true: what the listener hears has almost always been written.\nAt Fréquence Ouverte, the team behind Le Grand Direct, Karim Zeroual's programme, call this 'invisible writing': writing that must disappear the moment it is read aloud.\nThe script exists, crossed out, annotated in marker pen, but it must never be heard.\nA sentence that is too literary betrays its page; one that is too flat bores the ear.\nBetween the two, the station's journalists look for a spoken French that still holds together, stripped of live slip-ups without losing its breath.\nKarim Zeroual sums up the rule for his young recruits with a line he repeats every season: 'Write as you speak, but speak as if you had thought it through.'\nIn practice, that means short sentences, repeated subjects, rounded figures.\nIt also means accepting redundancy, a fault that would be corrected without hesitation in a written article: on the radio, it catches the listener who has just switched the set on.\nSilence, for its part, is never empty but a choice: two seconds before bad news say more than any adjective.\nThe Grand Direct's presenters actually train to hold that silence, the way one practises scales.\nThe paradox is that this so carefully crafted spontaneity has to remain invisible: the audience must never suspect the hour of rehearsal behind it.\nSome loyal listeners claim they can recognise a calculated hesitation, an 'alors' placed exactly where it belongs.\nKarim Zeroual finds this amusing: in his view, the day you stop hearing the work, the work has succeeded.\nOne question remains, older than the station itself: can you really speak naturally when you know thousands of people are listening?\nLe Grand Direct's answer fits in one sentence, pinned above the console: 'Here, we only improvise what has been prepared.'",
+              "questions": [
+                {
+                  "id": "c2_u13_l01_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Que signifie l'expression « écriture blanche » selon le texte ?",
+                  "options": ["Une écriture qui doit disparaître au moment où elle est lue", "Une écriture réservée aux bulletins météo", "Une écriture sans aucune préparation", "Une écriture strictement improvisée"],
+                  "answer": "Une écriture qui doit disparaître au moment où elle est lue"
+                },
+                {
+                  "id": "c2_u13_l01_rd02",
+                  "type": "multipleChoice",
+                  "prompt": "D'après le texte, pourquoi la redondance est-elle acceptée à la radio ?",
+                  "options": ["Parce qu'elle rattrape l'auditeur qui vient d'allumer son poste", "Parce qu'elle remplace la ponctuation écrite", "Parce que les journalistes manquent de vocabulaire", "Parce qu'elle raccourcit la durée de l'émission"],
+                  "answer": "Parce qu'elle rattrape l'auditeur qui vient d'allumer son poste"
+                },
+                {
+                  "id": "c2_u13_l01_rd03",
+                  "type": "trueFalse",
+                  "prompt": "Selon le texte, les animateurs du Grand Direct improvisent sans aucune préparation.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "c2_u13_l01_wr01",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "The journalist rephrases the news so that it sounds natural when read aloud.",
+              "answer": "Le journaliste reformule l'info pour qu'elle sonne naturelle à l'oral.",
+              "acceptedAnswers": ["Le journaliste reformule l'info pour qu'elle sonne naturelle a l'oral", "le journaliste reformule l info pour qu elle sonne naturelle a l oral"]
+            },
+            {
+              "id": "c2_u13_l01_wr02",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "A short silence can say more than an adjective.",
+              "answer": "Un court silence peut en dire plus qu'un adjectif.",
+              "acceptedAnswers": ["Un court silence peut en dire plus qu'un adjectif", "un court silence peut en dire plus qu un adjectif"]
+            },
+            {
+              "id": "c2_u13_l01_wr03",
+              "type": "arrangeWords",
+              "words": ["jamais", "le", "doit", "soupçonner", "public", "la", "ne", "répétition"],
+              "answer": "le public ne doit jamais soupçonner la répétition",
+              "english": "the audience must never suspect the rehearsal"
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "c2_u13_l01_pr01",
+              "type": "fillBlank",
+              "prompt": "On ___ tout de suite avec notre invité du jour.",
+              "answer": "enchaîne"
+            },
+            {
+              "id": "c2_u13_l01_pr02",
+              "type": "multipleChoice",
+              "prompt": "Quelle formule ouvre traditionnellement une émission de libre antenne ?",
+              "options": ["Ne quittez pas, on garde la ligne.", "On ferme l'antenne.", "Coupez le son.", "Fin de l'émission."],
+              "answer": "Ne quittez pas, on garde la ligne."
+            },
+            {
+              "id": "c2_u13_l01_pr03",
+              "type": "match",
+              "pairs": [
+                { "french": "l'auditeur", "english": "the listener" },
+                { "french": "le direct", "english": "the live broadcast" },
+                { "french": "le débit", "english": "the speaking pace" },
+                { "french": "la redondance", "english": "the redundancy" }
+              ]
+            },
+            {
+              "id": "c2_u13_l01_pr04",
+              "type": "fillBlank",
+              "prompt": "Un chiffre à ___ : sept sur dix.",
+              "answer": "retenir"
+            },
+            {
+              "id": "c2_u13_l01_pr05",
+              "type": "multipleChoice",
+              "prompt": "Pourquoi les chiffres sont-ils arrondis à la radio ?",
+              "options": ["Pour qu'ils restent en mémoire de l'auditeur", "Parce que les journalistes ne savent pas compter", "Pour respecter le temps d'antenne à la seconde près", "Parce que la loi l'impose"],
+              "answer": "Pour qu'ils restent en mémoire de l'auditeur"
+            },
+            {
+              "id": "c2_u13_l01_pr06",
+              "type": "arrangeWords",
+              "words": ["un", "le", "vide", "silence", "jamais", "n'est"],
+              "answer": "le silence n'est jamais un vide",
+              "english": "silence is never a void"
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "c2_u13_l01_qz01",
+              "type": "multipleChoice",
+              "prompt": "Quel temps domine dans les bulletins d'information radio, même pour des faits récents ?",
+              "options": ["Le présent", "Le passé simple", "L'imparfait", "Le plus-que-parfait"],
+              "answer": "Le présent"
+            },
+            {
+              "id": "c2_u13_l01_qz02",
+              "type": "multipleChoice",
+              "prompt": "« Ne quittez pas » signifie…",
+              "options": ["Restez en ligne", "Raccrochez immédiatement", "Changez de fréquence", "Coupez le micro"],
+              "answer": "Restez en ligne"
+            },
+            {
+              "id": "c2_u13_l01_qz03",
+              "type": "fillBlank",
+              "prompt": "Le journaliste ___ la question de l'auditeur avant d'y répondre.",
+              "answer": "reformule"
+            },
+            {
+              "id": "c2_u13_l01_qz04",
+              "type": "trueFalse",
+              "prompt": "À la radio, une phrase trop longue et trop littéraire est facile à suivre à l'oreille.",
+              "options": ["True", "False"],
+              "answer": "False"
+            },
+            {
+              "id": "c2_u13_l01_qz05",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "The host hands the airwaves over to the Marseille studios.",
+              "answer": "L'animateur laisse l'antenne aux studios de Marseille.",
+              "acceptedAnswers": ["L'animateur laisse l'antenne aux studios de Marseille", "l animateur laisse l antenne aux studios de marseille"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c2_u13_l02",
+      "level": "C2",
+      "unit": 13,
+      "title": "La télévision",
+      "description": "Formal news-anchor register versus conversational talk-show register on French television.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Le plateau, deux régimes de parole",
+              "body": "French television runs on two clearly separate registers: the anchor's controlled, invariable diction on the evening news, and the host's conversational banter on a talk show. Openings and closings are codified markers of which register is in play.",
+              "examples": [
+                { "french": "Bonsoir à toutes et à tous, voici les titres de ce vingt heures.", "english": "Good evening everyone, here are tonight's headlines.", "note": "formal news-bulletin opening, an invariable formula" },
+                { "french": "Alors dites-moi, franchement, ça s'est passé comment ?", "english": "So tell me, honestly, how did it go?", "note": "conversational talk-show register despite the polite vous" },
+                { "french": "Nous y reviendrons juste après ce reportage.", "english": "We'll come back to that right after this report.", "note": "neutral anchor transition" },
+                { "french": "Franchement, entre nous, vous y avez cru ?", "english": "Honestly, between us, did you believe it?", "note": "'entre nous' fakes intimacy in front of a camera" },
+                { "french": "Merci d'avoir suivi ce journal, à demain.", "english": "Thank you for watching this newscast, see you tomorrow.", "note": "closing formula, always identical" }
+              ],
+              "tip": "The evening news never varies its sign-off; a talk show invents a new one every episode — that unpredictability is itself a register marker."
+            },
+            {
+              "heading": "Tu, vous, et la distance jouée",
+              "body": "Hosts default to vouvoiement as basic courtesy but slip into tu with recurring guests or younger audiences to manufacture closeness on screen. The choice of pronoun, and the negotiation around it, is itself a register signal the viewer is meant to notice.",
+              "examples": [
+                { "french": "Vous êtes venu nous parler de votre dernier film.", "english": "You've come to talk to us about your latest film.", "note": "formal vous, first-time guest" },
+                { "french": "Tu nous avais dit, la dernière fois, que ce serait différent.", "english": "You told us last time that it would be different.", "note": "tu for a recurring, familiar guest" },
+                { "french": "On se tutoie, si tu veux bien.", "english": "Let's use tu, if that's alright with you.", "note": "negotiating register live, on air" },
+                { "french": "Restons-en au vouvoiement, si ça ne vous dérange pas.", "english": "Let's stick with vous, if you don't mind.", "note": "an explicit refusal signals distance or formality" },
+                { "french": "Vous permettez que je vous appelle par votre prénom ?", "english": "May I call you by your first name?", "note": "partial closeness — vous is kept, but the first name is used" }
+              ],
+              "tip": "A host asking permission to switch to tu is itself part of the show — the negotiation is performed for the audience, not just for the guest."
+            },
+            {
+              "heading": "La petite phrase et le sound bite",
+              "body": "Interviews are edited and quoted for a single striking remark, 'la petite phrase.' Guests under pressure to speak in quotable units respond with set techniques: reframing (recadrer), dodging (botter en touche), and pre-emptive defusing (désamorcer).",
+              "examples": [
+                { "french": "Cette petite phrase a fait le tour des chaînes d'info dès le lendemain.", "english": "That soundbite went round every news channel the very next day.", "note": "'petite phrase' = a short, quotable remark" },
+                { "french": "Je ne répondrai pas par une formule choc, ce serait trop simple.", "english": "I won't answer with a punchy line, that would be too easy.", "note": "a guest resisting the soundbite format" },
+                { "french": "Vous bottez en touche, il me semble.", "english": "You're dodging the question, it seems to me.", "note": "the host calling out evasion live" },
+                { "french": "Permettez-moi de recadrer la question.", "english": "Allow me to reframe the question.", "note": "polite pushback, common in political interviews" },
+                { "french": "Une petite phrase désamorcée d'avance, en quelque sorte.", "english": "A soundbite defused in advance, in a way.", "note": "a guest pre-empting their own quotable gaffe" }
+              ],
+              "tip": "Trained guests often prepare one deliberate soundbite in advance — the goal is to control which quote survives the edit, not to avoid quoting altogether."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "le-plateau-tele", "french": "le plateau télé", "english": "the TV studio floor, the set", "partOfSpeech": "noun", "gender": "m", "plural": "les plateaux télé", "pronunciation": "luh plah-toh tay-LAY", "example": "Deux caméras balaient le plateau avant le direct.", "exampleEnglish": "Two cameras sweep the set before the live broadcast.", "level": "C2", "category": "television" },
+            { "id": "le-presentateur", "french": "le présentateur", "english": "the (male) newsreader, presenter", "partOfSpeech": "noun", "gender": "m", "plural": "les présentateurs", "pronunciation": "luh pray-zahn-tah-TUR", "example": "Le présentateur garde un ton neutre pendant tout le journal.", "exampleEnglish": "The anchor keeps a neutral tone throughout the news.", "level": "C2", "category": "television" },
+            { "id": "la-presentatrice", "french": "la présentatrice", "english": "the (female) newsreader, presenter", "partOfSpeech": "noun", "gender": "f", "plural": "les présentatrices", "pronunciation": "lah pray-zahn-tah-TREESS", "example": "La présentatrice recadre le débat qui part dans tous les sens.", "exampleEnglish": "The host reins in the debate, which is going off in every direction.", "level": "C2", "category": "television" },
+            { "id": "l-invite", "french": "l'invité", "english": "the (male) guest", "partOfSpeech": "noun", "gender": "m", "plural": "les invités", "pronunciation": "lan-vee-TAY", "example": "L'invité s'installe sur le canapé, un peu tendu.", "exampleEnglish": "The guest sits down on the sofa, a little tense.", "level": "C2", "category": "television" },
+            { "id": "l-invitee", "french": "l'invitée", "english": "the (female) guest", "partOfSpeech": "noun", "gender": "f", "plural": "les invitées", "pronunciation": "lan-vee-TAY", "example": "L'invitée corrige aussitôt la présentatrice, sans agressivité.", "exampleEnglish": "The guest immediately corrects the host, without any hostility.", "level": "C2", "category": "television" },
+            { "id": "l-interview", "french": "l'interview", "english": "the interview", "partOfSpeech": "noun", "gender": "f", "plural": "les interviews", "pronunciation": "lan-tair-VYOO", "example": "L'interview dure douze minutes, coupures publicitaires comprises.", "exampleEnglish": "The interview lasts twelve minutes, including ad breaks.", "level": "C2", "category": "television" },
+            { "id": "interviewer", "french": "interviewer", "english": "to interview", "partOfSpeech": "verb", "pronunciation": "an-tair-vyoo-VAY", "example": "Elle a interviewé trois ministres en une semaine.", "exampleEnglish": "She interviewed three ministers in one week.", "level": "C2", "category": "television" },
+            { "id": "question-ouverte", "french": "la question ouverte", "english": "the open question", "partOfSpeech": "noun", "gender": "f", "plural": "les questions ouvertes", "pronunciation": "kess-tyon oo-VEHRT", "example": "Une question ouverte laisse le plateau respirer un instant.", "exampleEnglish": "An open question lets the set breathe for a moment.", "level": "C2", "category": "television" },
+            { "id": "question-fermee", "french": "la question fermée", "english": "the closed question", "partOfSpeech": "noun", "gender": "f", "plural": "les questions fermées", "pronunciation": "kess-tyon fer-MAY", "example": "Une question fermée précède souvent la relance.", "exampleEnglish": "A closed question often precedes the follow-up.", "level": "C2", "category": "television" },
+            { "id": "couper-la-parole", "french": "couper la parole à", "english": "to interrupt, to cut someone off", "partOfSpeech": "expression", "pronunciation": "koo-pay lah pah-ROL ah", "example": "Le présentateur coupe la parole à son invité, poliment mais fermement.", "exampleEnglish": "The host cuts his guest off, politely but firmly.", "level": "C2", "category": "television" },
+            { "id": "tutoyer", "french": "tutoyer", "english": "to use tu with (someone)", "partOfSpeech": "verb", "pronunciation": "tew-twah-YAY", "example": "L'animateur tutoie ses invités les plus fidèles.", "exampleEnglish": "The host uses tu with his most regular guests.", "level": "C2", "category": "television" },
+            { "id": "vouvoyer", "french": "vouvoyer", "english": "to use vous with (someone)", "partOfSpeech": "verb", "pronunciation": "voo-vwah-YAY", "example": "On vouvoie systématiquement un invité qu'on reçoit pour la première fois.", "exampleEnglish": "You always use vous with a guest appearing for the first time.", "level": "C2", "category": "television" },
+            { "id": "le-tutoiement", "french": "le tutoiement", "english": "the use of tu, the informal address", "partOfSpeech": "noun", "gender": "m", "plural": "les tutoiements", "pronunciation": "luh tew-twah-MAHN", "example": "Le tutoiement s'est imposé sur la plupart des chaînes jeunes.", "exampleEnglish": "The use of tu has become the norm on most youth-oriented channels.", "level": "C2", "category": "television" },
+            { "id": "le-vouvoiement", "french": "le vouvoiement", "english": "the use of vous, the formal address", "partOfSpeech": "noun", "gender": "m", "plural": "les vouvoiements", "pronunciation": "luh voo-vwah-MAHN", "example": "Le vouvoiement reste la règle sur les chaînes d'information.", "exampleEnglish": "The use of vous remains the rule on news channels.", "level": "C2", "category": "television" },
+            { "id": "la-petite-phrase", "french": "la petite phrase", "english": "the soundbite, the short quotable remark", "partOfSpeech": "noun", "gender": "f", "plural": "les petites phrases", "pronunciation": "lah puh-teet FRAHZ", "example": "Une petite phrase a occupé tous les débats du lendemain.", "exampleEnglish": "One soundbite dominated every debate the next day.", "level": "C2", "category": "television" },
+            { "id": "la-formule-choc", "french": "la formule choc", "english": "the punchy line, the striking phrase", "partOfSpeech": "noun", "gender": "f", "plural": "les formules choc", "pronunciation": "lah for-mewl SHOK", "example": "Le conseiller en communication lui avait préparé une formule choc.", "exampleEnglish": "His media adviser had prepared a punchy line for him.", "level": "C2", "category": "television" },
+            { "id": "botter-en-touche", "french": "botter en touche", "english": "to dodge the question, to punt", "partOfSpeech": "expression", "pronunciation": "boh-tay ahn TOOSH", "example": "Le ministre a botté en touche sur la question du budget.", "exampleEnglish": "The minister dodged the question about the budget.", "level": "C2", "category": "television" },
+            { "id": "eluder", "french": "éluder", "english": "to evade, to skirt (a question)", "partOfSpeech": "verb", "pronunciation": "ay-lew-DAY", "example": "Elle élude la question d'un sourire et enchaîne.", "exampleEnglish": "She dodges the question with a smile and moves on.", "level": "C2", "category": "television" },
+            { "id": "la-joute-verbale", "french": "la joute verbale", "english": "the verbal joust, the sparring match", "partOfSpeech": "noun", "gender": "f", "plural": "les joutes verbales", "pronunciation": "lah zhoot vair-BAL", "example": "L'entretien tourne vite à la joute verbale.", "exampleEnglish": "The interview quickly turns into a verbal sparring match.", "level": "C2", "category": "television" },
+            { "id": "le-contradicteur", "french": "le contradicteur", "english": "the opposing speaker, the counter-arguer", "partOfSpeech": "noun", "gender": "m", "plural": "les contradicteurs", "pronunciation": "luh kon-trah-deek-TUR", "example": "Chaque invité fait face à un contradicteur choisi par la rédaction.", "exampleEnglish": "Each guest faces an opposing speaker chosen by the newsroom.", "level": "C2", "category": "television" },
+            { "id": "le-debat-contradictoire", "french": "le débat contradictoire", "english": "the adversarial debate", "partOfSpeech": "noun", "gender": "m", "plural": "les débats contradictoires", "pronunciation": "luh day-bah kon-trah-deek-TWAHR", "example": "Le débat contradictoire de ce soir oppose deux visions du budget.", "exampleEnglish": "Tonight's adversarial debate pits two views of the budget against each other.", "level": "C2", "category": "television" },
+            { "id": "l-incrustation", "french": "l'incrustation", "english": "the on-screen graphic, the chyron overlay", "partOfSpeech": "noun", "gender": "f", "plural": "les incrustations", "pronunciation": "lan-krews-tah-SYON", "example": "Une incrustation rappelle le nom de l'invité tout au long de l'entretien.", "exampleEnglish": "An on-screen graphic reminds viewers of the guest's name throughout the interview.", "level": "C2", "category": "television" },
+            { "id": "le-bandeau", "french": "le bandeau", "english": "the news ticker, the banner", "partOfSpeech": "noun", "gender": "m", "plural": "les bandeaux", "pronunciation": "luh bahn-DOH", "example": "Le bandeau défile en bas de l'écran pendant tout le journal.", "exampleEnglish": "The ticker scrolls along the bottom of the screen throughout the news.", "level": "C2", "category": "television" },
+            { "id": "la-chaine-d-info", "french": "la chaîne d'info", "english": "the news channel", "partOfSpeech": "noun", "gender": "f", "plural": "les chaînes d'info", "pronunciation": "lah shen dan-FOH", "example": "Cette chaîne d'info commente le plateau en temps réel sur les réseaux.", "exampleEnglish": "This news channel comments on the studio in real time on social media.", "level": "C2", "category": "television" },
+            { "id": "le-duplex", "french": "le duplex", "english": "the remote link-up, the live cross", "partOfSpeech": "noun", "gender": "m", "plural": "les duplex", "pronunciation": "luh dew-PLEKS", "example": "On termine avec un duplex depuis l'Assemblée nationale.", "exampleEnglish": "We finish with a live cross from the National Assembly.", "level": "C2", "category": "television" },
+            { "id": "la-connexion", "french": "la connexion", "english": "the connection", "partOfSpeech": "noun", "gender": "f", "plural": "les connexions", "pronunciation": "koh-nek-SYON", "example": "La connexion en duplex se coupe juste avant la question la plus attendue.", "exampleEnglish": "The remote link drops right before the most anticipated question.", "level": "C2", "category": "television" },
+            { "id": "couper-le-son", "french": "couper le son", "english": "to cut someone's audio, to mute", "partOfSpeech": "expression", "pronunciation": "koo-pay luh SOHN", "example": "La régie a coupé le son quelques secondes, par précaution.", "exampleEnglish": "The control room cut the audio for a few seconds, as a precaution.", "level": "C2", "category": "television" },
+            { "id": "le-generique", "french": "le générique", "english": "the opening theme, the credits", "partOfSpeech": "noun", "gender": "m", "plural": "les génériques", "pronunciation": "luh zhay-nay-REEK", "example": "Le générique du journal n'a pas changé depuis vingt ans.", "exampleEnglish": "The news programme's opening theme hasn't changed in twenty years.", "level": "C2", "category": "television" },
+            { "id": "l-audimat", "french": "l'audimat", "english": "the TV ratings, the audience measurement", "partOfSpeech": "noun", "gender": "m", "pronunciation": "loh-dee-MAT", "example": "L'audimat de l'émission grimpe dès qu'un invité polémique passe sur le plateau.", "exampleEnglish": "The ratings climb the moment a controversial guest appears on set.", "level": "C2", "category": "television" },
+            { "id": "la-part-d-audience", "french": "la part d'audience", "english": "the audience share", "partOfSpeech": "noun", "gender": "f", "plural": "les parts d'audience", "pronunciation": "lah par doh-DYAHNSS", "example": "La part d'audience du journal de la mi-journée recule légèrement.", "exampleEnglish": "The midday news bulletin's audience share is slipping slightly.", "level": "C2", "category": "television" },
+            { "id": "faire-le-buzz", "french": "faire le buzz", "english": "to go viral, to create a buzz", "partOfSpeech": "expression", "pronunciation": "fair luh BUZZ", "example": "L'échange a fait le buzz avant même la fin de l'émission.", "exampleEnglish": "The exchange went viral before the programme had even ended.", "level": "C2", "category": "television" },
+            { "id": "l-accroche", "french": "l'accroche", "english": "the hook, the teaser line", "partOfSpeech": "noun", "gender": "f", "plural": "les accroches", "pronunciation": "lah-KROSH", "example": "L'accroche du journal annonce trois sujets en dix secondes.", "exampleEnglish": "The news programme's teaser announces three stories in ten seconds.", "level": "C2", "category": "television" },
+            { "id": "le-decryptage", "french": "le décryptage", "english": "the analysis, the breakdown (of an event)", "partOfSpeech": "noun", "gender": "m", "plural": "les décryptages", "pronunciation": "luh day-kreep-TAHZH", "example": "Place au décryptage de cette déclaration, minute par minute.", "exampleEnglish": "Now for a breakdown of that statement, minute by minute.", "level": "C2", "category": "television" },
+            { "id": "decrypter", "french": "décrypter", "english": "to decipher, to break down", "partOfSpeech": "verb", "pronunciation": "day-kreep-TAY", "example": "L'éditorialiste décrypte la petite phrase avant la coupure publicitaire.", "exampleEnglish": "The commentator breaks down the soundbite before the ad break.", "level": "C2", "category": "television" },
+            { "id": "recadrer", "french": "recadrer", "english": "to reframe, to put back in context", "partOfSpeech": "verb", "pronunciation": "ruh-kah-DRAY", "example": "La présentatrice recadre le débat qui part dans tous les sens.", "exampleEnglish": "The host reins in the debate, which is going off in every direction.", "level": "C2", "category": "television" },
+            { "id": "desamorcer", "french": "désamorcer", "english": "to defuse (a conflict, an objection)", "partOfSpeech": "verb", "pronunciation": "day-zah-mor-SAY", "example": "Un sourire suffit parfois à désamorcer une question piège.", "exampleEnglish": "A smile is sometimes enough to defuse a trick question.", "level": "C2", "category": "television" },
+            { "id": "la-connivence", "french": "la connivence", "english": "the complicity, the knowing rapport", "partOfSpeech": "noun", "gender": "f", "plural": "les connivences", "pronunciation": "lah koh-nee-VAHNSS", "example": "Une certaine connivence s'installe entre l'animateur et ses invités réguliers.", "exampleEnglish": "A certain rapport builds up between the host and his regular guests.", "level": "C2", "category": "television" },
+            { "id": "la-voix-off", "french": "la voix off", "english": "the voice-over", "partOfSpeech": "noun", "gender": "f", "plural": "les voix off", "pronunciation": "lah vwah OFF", "example": "Une voix off présente chaque invité avant son entrée sur le plateau.", "exampleEnglish": "A voice-over introduces each guest before they walk onto the set.", "level": "C2", "category": "television" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Les interrogatives : de l'inversion à l'intonation seule",
+              "body": "Question forms sit on a register scale: formal inversion for a political interview, neutral est-ce que as the safe all-purpose default, and intonation alone for a conversational talk show. Tag questions like 'n'est-ce pas' or the very casual 'non ?' solicit agreement on camera.",
+              "examples": [
+                { "french": "Pensez-vous que cette réforme sera adoptée ?", "english": "Do you think this reform will be passed?", "note": "formal inversion — political-interview register" },
+                { "french": "Est-ce que vous pensez que cette réforme sera adoptée ?", "english": "Do you think this reform will be passed?", "note": "neutral est-ce que — the safest all-purpose register" },
+                { "french": "Vous pensez que cette réforme sera adoptée ?", "english": "You think this reform will be passed?", "note": "intonation only — conversational talk-show register" },
+                { "french": "C'était compliqué à négocier, n'est-ce pas ?", "english": "It was tricky to negotiate, wasn't it?", "note": "tag question soliciting on-camera agreement" },
+                { "french": "On peut dire que c'est un échec, non ?", "english": "You could call it a failure, couldn't you?", "note": "'non ?' is an even more casual tag, typical of talk shows" }
+              ],
+              "tip": "Choosing inversion over intonation is a register decision before it is a grammar decision — both are correct, but they signal very different shows."
+            },
+            {
+              "heading": "La relance et l'interruption maîtrisée",
+              "body": "Follow-up questioning (la relance) and interruption norms differ sharply by genre: formal political interviews interrupt rarely and with set formulas, while conversational shows interrupt constantly and treat it as expected banter.",
+              "examples": [
+                { "french": "Si je peux me permettre, vous n'avez pas répondu à la question.", "english": "If I may, you haven't answered the question.", "note": "polite interruption formula in a formal interview" },
+                { "french": "Pardon, mais je ne vous laisse pas dire ça.", "english": "Sorry, but I won't let you say that.", "note": "abrupt interruption, acceptable in political-debate register" },
+                { "french": "Juste un mot avant qu'on ne passe à autre chose.", "english": "Just one word before we move on.", "note": "a brief interjection signalling a coming interruption" },
+                { "french": "Vous disiez, avant que je vous coupe ?", "english": "You were saying, before I cut you off?", "note": "the host acknowledges their own interruption and returns the floor" },
+                { "french": "Je vous relance sur ce point précis.", "english": "I'll press you further on this exact point.", "note": "'relancer' = to follow up, a standard interview verb" }
+              ],
+              "tip": "'Si je peux me permettre' buys a host the right to interrupt without seeming rude — memorise it as one block."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "c2_u13_l02_li01",
+              "type": "listenChoose",
+              "french": "Pensez-vous que cette réforme sera adoptée ?",
+              "options": ["Do you think this reform will be passed?", "Do you think this reform will be rejected?", "Did this reform get passed?", "Will you vote for this reform?"],
+              "answer": "Do you think this reform will be passed?"
+            },
+            {
+              "id": "c2_u13_l02_li02",
+              "type": "listenChoose",
+              "french": "Si je peux me permettre, vous n'avez pas répondu à la question.",
+              "options": ["If I may, you haven't answered the question.", "If I may, you answered the question perfectly.", "If I may, let's change the subject.", "If I may, I'll answer for you."],
+              "answer": "If I may, you haven't answered the question."
+            },
+            {
+              "id": "c2_u13_l02_li03",
+              "type": "listenType",
+              "french": "Le présentateur coupe la parole à son invité, poliment mais fermement.",
+              "answer": "Le présentateur coupe la parole à son invité, poliment mais fermement.",
+              "acceptedAnswers": ["Le presentateur coupe la parole a son invite, poliment mais fermement", "le presentateur coupe la parole a son invite poliment mais fermement"]
+            },
+            {
+              "id": "c2_u13_l02_li04",
+              "type": "dictation",
+              "french": "Une petite phrase a occupé tous les débats du lendemain.",
+              "answer": "Une petite phrase a occupé tous les débats du lendemain.",
+              "acceptedAnswers": ["Une petite phrase a occupe tous les debats du lendemain", "une petite phrase a occupe tous les debats du lendemain"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "c2_u13_l02_sp01",
+              "type": "speak",
+              "french": "Vous permettez que je vous appelle par votre prénom ?",
+              "english": "May I call you by your first name?",
+              "prompt": "Negotiate a shift toward a friendlier register on air.",
+              "tip": "Keep 'permettez' light: pair-meh-TAY, with the stress landing only on the final syllable."
+            },
+            {
+              "id": "c2_u13_l02_sp02",
+              "type": "speak",
+              "french": "Pardon, mais je ne vous laisse pas dire ça.",
+              "english": "Sorry, but I won't let you say that.",
+              "prompt": "Interrupt firmly but politely, the way a host would.",
+              "tip": "'Pardon, mais' is one breath group with no pause between the two words, then a clean break before 'je'."
+            },
+            {
+              "id": "c2_u13_l02_sp03",
+              "type": "speak",
+              "french": "Permettez-moi de recadrer la question.",
+              "english": "Allow me to reframe the question.",
+              "prompt": "Push back on a question without sounding rude.",
+              "tip": "'Recadrer' has three even syllables: ruh-kah-DRAY — don't rush the middle one."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Deux visages du petit écran",
+              "french": "Le vingt heures et Face à Face n'ont, en apparence, presque rien en commun, si ce n'est la même chaîne et parfois le même bâtiment.\nLe premier ouvre sur une formule invariable, prononcée depuis trente ans avec la même sobriété : « Bonsoir à toutes et à tous. »\nLe second, animé par Élise Cantin, commence différemment chaque semaine, par une private joke, un clin d'œil au générique précédent, une plaisanterie sur le retard de l'invité.\nSur le plateau du vingt heures, le vouvoiement est la règle absolue, même envers un ministre que le présentateur connaît depuis quinze ans.\nSur celui de Face à Face, Élise Cantin tutoie sans complexe les habitués, tout en vouvoyant, la première fois, quiconque franchit ses portes.\nLa semaine dernière, l'écrivain Thomas Berge en a fait l'expérience : accueilli par un vous poli, il a eu droit, dès la deuxième question, à un tu presque affectueux.\n« On se tutoie, si tu veux bien », avait proposé Élise Cantin, et Thomas Berge n'a pas eu le temps de refuser.\nCe glissement n'a rien d'accidentel : il fabrique, en direct, une proximité que le spectateur perçoit sans toujours l'analyser.\nLe vingt heures, lui, se refuse cette complicité : il pose des questions fermées, attend des réponses brèves, et coupe la parole dès qu'une phrase s'égare.\nFace à Face, à l'inverse, cultive la relance : « Vous disiez, avant que je vous coupe ? », demande régulièrement Élise Cantin, feignant de réparer une interruption qu'elle a elle-même provoquée.\nLes deux émissions partagent pourtant une même obsession : la petite phrase, cette formule qui survivra seule à l'entretien tout entier.\nLe service de presse de Thomas Berge le savait : il lui avait conseillé, avant l'émission, d'éviter toute formule choc sur son dernier roman.\nPeine perdue : interrogé sur ses habitudes d'écriture, l'auteur a lâché, sans y penser, une phrase que trois chaînes d'info reprendraient dès le lendemain matin.\nÉlise Cantin, en professionnelle, n'a rien laissé paraître ; elle a simplement recadré la conversation vers le sujet suivant, un léger sourire aux lèvres.\nEntre le vingt heures et Face à Face, ce n'est donc pas l'information qui change de nature, mais la distance qu'on choisit de mettre, ou non, entre soi et la caméra.",
+              "english": "The eight o'clock news and Face à Face have, on the surface, almost nothing in common, apart from the same channel and sometimes the same building.\nThe former opens with an unchanging formula, spoken for thirty years with the same restraint: 'Good evening, everyone.'\nThe latter, hosted by Élise Cantin, begins differently every week, with an in-joke, a nod to the previous episode's ending, a joke about the guest running late.\nOn the set of the eight o'clock news, the use of vous is an absolute rule, even toward a minister the anchor has known for fifteen years.\nOn the set of Face à Face, Élise Cantin freely uses tu with regulars, while still addressing anyone new as vous the first time.\nLast week, the writer Thomas Berge experienced this firsthand: greeted with a polite vous, he was treated, by the second question, to an almost affectionate tu.\n'Let's use tu, if that's alright with you,' Élise Cantin had suggested, and Thomas Berge had no time to refuse.\nThis shift is nothing accidental: it manufactures, live, a closeness the viewer senses without always analysing it.\nThe eight o'clock news, for its part, refuses that complicity: it asks closed questions, expects short answers, and cuts in the moment a sentence wanders.\nFace à Face, by contrast, cultivates the follow-up: 'You were saying, before I cut you off?' Élise Cantin regularly asks, pretending to repair an interruption she caused herself.\nBoth programmes nonetheless share one obsession: the soundbite, the single phrase that will outlive the entire interview.\nThomas Berge's press office knew this: they had advised him, before the show, to avoid any punchy lines about his latest novel.\nIt was no use: asked about his writing habits, the author let slip, without thinking, a line that three news channels would be running by the next morning.\nÉlise Cantin, ever the professional, betrayed nothing; she simply steered the conversation toward the next topic, with a faint smile.\nBetween the eight o'clock news and Face à Face, then, it is not the information that changes in nature, but the distance one chooses, or not, to put between oneself and the camera.",
+              "questions": [
+                {
+                  "id": "c2_u13_l02_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Que propose Élise Cantin à Thomas Berge dès la deuxième question ?",
+                  "options": ["De se tutoyer", "De changer de sujet", "De couper le son", "De revenir la semaine suivante"],
+                  "answer": "De se tutoyer"
+                },
+                {
+                  "id": "c2_u13_l02_rd02",
+                  "type": "multipleChoice",
+                  "prompt": "Selon le texte, qu'est-ce que le vingt heures refuse, contrairement à Face à Face ?",
+                  "options": ["La complicité avec l'invité", "Les questions fermées", "Les formules choc", "Le vouvoiement"],
+                  "answer": "La complicité avec l'invité"
+                },
+                {
+                  "id": "c2_u13_l02_rd03",
+                  "type": "trueFalse",
+                  "prompt": "D'après le texte, Thomas Berge a réussi à éviter toute petite phrase pendant l'émission.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "c2_u13_l02_wr01",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "The host cuts her guest off, politely but firmly.",
+              "answer": "L'animatrice coupe la parole à son invité, poliment mais fermement.",
+              "acceptedAnswers": ["L'animatrice coupe la parole a son invite, poliment mais fermement", "l animatrice coupe la parole a son invite poliment mais fermement"]
+            },
+            {
+              "id": "c2_u13_l02_wr02",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "Allow me to reframe the question.",
+              "answer": "Permettez-moi de recadrer la question.",
+              "acceptedAnswers": ["Permettez-moi de recadrer la question", "permettez moi de recadrer la question"]
+            },
+            {
+              "id": "c2_u13_l02_wr03",
+              "type": "arrangeWords",
+              "words": ["a", "une", "tous", "débats", "occupé", "petite", "les", "phrase"],
+              "answer": "une petite phrase a occupé tous les débats",
+              "english": "one soundbite dominated every debate"
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "c2_u13_l02_pr01",
+              "type": "fillBlank",
+              "prompt": "Le ministre a ___ en touche sur la question du budget.",
+              "answer": "botté"
+            },
+            {
+              "id": "c2_u13_l02_pr02",
+              "type": "multipleChoice",
+              "prompt": "Quelle forme de question est la plus formelle ?",
+              "options": ["Pensez-vous que...", "Vous pensez que...", "Non ?", "Hein ?"],
+              "answer": "Pensez-vous que..."
+            },
+            {
+              "id": "c2_u13_l02_pr03",
+              "type": "match",
+              "pairs": [
+                { "french": "couper la parole", "english": "to interrupt" },
+                { "french": "le bandeau", "english": "the news ticker" },
+                { "french": "la relance", "english": "the follow-up question" },
+                { "french": "le duplex", "english": "the live remote link" }
+              ]
+            },
+            {
+              "id": "c2_u13_l02_pr04",
+              "type": "fillBlank",
+              "prompt": "Un ___ défile en bas de l'écran pendant le journal.",
+              "answer": "bandeau"
+            },
+            {
+              "id": "c2_u13_l02_pr05",
+              "type": "multipleChoice",
+              "prompt": "Que signifie « faire le buzz » ?",
+              "options": ["Devenir viral, faire parler de soi", "Couper le son", "Interviewer un invité", "Changer de chaîne"],
+              "answer": "Devenir viral, faire parler de soi"
+            },
+            {
+              "id": "c2_u13_l02_pr06",
+              "type": "arrangeWords",
+              "words": ["le", "reste", "vouvoiement", "règle", "sur", "la", "d'information", "chaînes", "les"],
+              "answer": "le vouvoiement reste la règle sur les chaînes d'information",
+              "english": "the use of vous remains the rule on news channels"
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "c2_u13_l02_qz01",
+              "type": "multipleChoice",
+              "prompt": "Qu'est-ce qu'une « petite phrase » dans le contexte médiatique ?",
+              "options": ["Une formule courte et marquante reprise après coup", "Un sous-titre", "Une erreur de prononciation", "Le générique de l'émission"],
+              "answer": "Une formule courte et marquante reprise après coup"
+            },
+            {
+              "id": "c2_u13_l02_qz02",
+              "type": "multipleChoice",
+              "prompt": "Quelle formule signale poliment une interruption ?",
+              "options": ["Si je peux me permettre...", "Coupez le son.", "Fin de l'émission.", "On se tutoie."],
+              "answer": "Si je peux me permettre..."
+            },
+            {
+              "id": "c2_u13_l02_qz03",
+              "type": "fillBlank",
+              "prompt": "La présentatrice ___ le débat qui part dans tous les sens.",
+              "answer": "recadre"
+            },
+            {
+              "id": "c2_u13_l02_qz04",
+              "type": "trueFalse",
+              "prompt": "Le tutoiement est la norme absolue sur toutes les chaînes d'information en continu.",
+              "options": ["True", "False"],
+              "answer": "False"
+            },
+            {
+              "id": "c2_u13_l02_qz05",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "A certain rapport builds up between the host and his regular guests.",
+              "answer": "Une certaine connivence s'installe entre l'animateur et ses invités réguliers.",
+              "acceptedAnswers": ["Une certaine connivence s'installe entre l'animateur et ses invites reguliers", "une certaine connivence s installe entre l animateur et ses invites reguliers"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c2_u13_l03",
+      "level": "C2",
+      "unit": 13,
+      "title": "Le podcast",
+      "description": "New oral genres and their crafted-but-conversational register: the podcast paradox of scripted spontaneity.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Le paradoxe du naturel",
+              "body": "Podcast conversations feel spontaneous but are usually structured, and often heavily edited: the illusion of an unscripted chat is itself a crafted register, sometimes called 'conversation scénarisée.'",
+              "examples": [
+                { "french": "On dirait une conversation entre amis, mais chaque question a été préparée la veille.", "english": "It sounds like a conversation between friends, but every question was prepared the day before.", "note": "crafted spontaneity — the podcast paradox" },
+                { "french": "Le montage retire les hésitations qui n'apportent rien, et garde celles qui sonnent vrai.", "english": "The edit removes the hesitations that add nothing, and keeps the ones that sound genuine.", "note": "even 'authenticity' is edited" },
+                { "french": "On respire, on se reprend, on rit un peu trop fort : tout ça reste, volontairement.", "english": "You breathe, you correct yourself, you laugh a bit too loud: all of that stays, on purpose.", "note": "imperfection as a deliberate register choice" },
+                { "french": "La transcription, elle, gomme ce que l'oreille pardonne facilement.", "english": "The transcript, though, smooths over what the ear forgives easily.", "note": "written and spoken versions of the same content diverge" },
+                { "french": "Un bon épisode donne l'impression de tomber sur une conversation, pas de l'écouter.", "english": "A good episode gives the impression of stumbling onto a conversation, not of listening to one.", "note": "the genre's core illusion" }
+              ],
+              "tip": "When a podcast sounds most unrehearsed, that is usually the moment it has been edited most carefully."
+            },
+            {
+              "heading": "Les nouveaux genres de l'oral",
+              "body": "Podcasts span a range of genres, each calibrating its register differently: narrative documentary podcasts build a plot like a series, long-form interviews stretch for hours, and casual multi-host chat shows treat interruption as friendly banter.",
+              "examples": [
+                { "french": "Le podcast narratif construit une intrigue, épisode après épisode, comme une série.", "english": "The narrative podcast builds a plot, episode by episode, like a series.", "note": "storytelling genre" },
+                { "french": "Le podcast d'entretien s'étire parfois sur deux heures, sans coupure publicitaire au milieu.", "english": "The interview podcast sometimes stretches over two hours, with no ad break in the middle.", "note": "long-form conversational genre" },
+                { "french": "Le podcast de discussion réunit trois voix qui se coupent la parole en toute amitié.", "english": "The chat podcast brings together three voices who interrupt each other in perfectly friendly fashion.", "note": "casual multi-host genre" },
+                { "french": "Certains formats courts tiennent en cinq minutes, pensés pour le trajet du matin.", "english": "Some short formats last just five minutes, designed for the morning commute.", "note": "format length shapes register" },
+                { "french": "Le format long laisse aux silences le temps d'exister.", "english": "The long format gives silences time to exist.", "note": "duration changes what's tolerable on air" }
+              ],
+              "tip": "Before judging a podcast's register, check its genre first — five minutes and two hours do not obey the same rules."
+            },
+            {
+              "heading": "L'intimité du casque",
+              "body": "Podcasts address the listener directly through headphones, using tu, whispering, and close-mic techniques to build a parasocial closeness that is itself carefully designed, not accidental.",
+              "examples": [
+                { "french": "Au casque, une voix chuchotée semble s'adresser à toi seul.", "english": "Through headphones, a whispered voice seems to speak to you alone.", "note": "close-mic intimacy, direct address" },
+                { "french": "Salut, toi qui nous écoutes peut-être sous la couette.", "english": "Hi, you who might be listening under the covers.", "note": "informal tu directly to the listener, typical of podcast address" },
+                { "french": "On te raconte cette histoire comme on te la raconterait autour d'un café.", "english": "We're telling you this story the way we'd tell it to you over coffee.", "note": "explicit comparison to face-to-face intimacy" },
+                { "french": "Merci de nous avoir suivis jusqu'ici, épisode après épisode.", "english": "Thanks for following us this far, episode after episode.", "note": "cumulative parasocial bond across a season" },
+                { "french": "Cette proximité, on la travaille autant que le fond de l'épisode.", "english": "That closeness is crafted just as carefully as the episode's content.", "note": "closing the loop — intimacy itself is designed" }
+              ],
+              "tip": "The tu used toward a podcast audience is a genre convention, not a sign of genuine familiarity — it works the same way even for total strangers."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "podcast", "french": "le podcast", "english": "the podcast", "partOfSpeech": "noun", "gender": "m", "plural": "les podcasts", "pronunciation": "pod-KAST", "example": "Ce podcast d'histoire sort un nouvel épisode chaque jeudi.", "exampleEnglish": "This history podcast releases a new episode every Thursday.", "level": "C2", "category": "podcast" },
+            { "id": "l-episode", "french": "l'épisode", "english": "the episode", "partOfSpeech": "noun", "gender": "m", "plural": "les épisodes", "pronunciation": "lay-pee-ZOD", "example": "Le premier épisode dure presque deux heures, contre toute logique commerciale.", "exampleEnglish": "The first episode lasts almost two hours, against all commercial logic.", "level": "C2", "category": "podcast" },
+            { "id": "saison", "french": "la saison", "english": "the season (of a show)", "partOfSpeech": "noun", "gender": "f", "plural": "les saisons", "pronunciation": "lah say-ZON", "example": "La deuxième saison explore un tout autre sujet.", "exampleEnglish": "The second season explores a completely different topic.", "level": "C2", "category": "podcast" },
+            { "id": "s-abonner", "french": "s'abonner", "english": "to subscribe", "partOfSpeech": "verb", "pronunciation": "sah-boh-NAY", "example": "Abonnez-vous pour ne rater aucun épisode.", "exampleEnglish": "Subscribe so you don't miss a single episode.", "level": "C2", "category": "podcast" },
+            { "id": "l-abonnement", "french": "l'abonnement", "english": "the subscription", "partOfSpeech": "noun", "gender": "m", "plural": "les abonnements", "pronunciation": "lah-bon-MAHN", "example": "L'abonnement gratuit donne accès à tous les épisodes déjà sortis.", "exampleEnglish": "The free subscription gives access to every episode already released.", "level": "C2", "category": "podcast" },
+            { "id": "la-plateforme-d-ecoute", "french": "la plateforme d'écoute", "english": "the listening platform", "partOfSpeech": "noun", "gender": "f", "plural": "les plateformes d'écoute", "pronunciation": "lah plat-form day-KOOT", "example": "Le podcast est disponible sur toutes les plateformes d'écoute.", "exampleEnglish": "The podcast is available on every listening platform.", "level": "C2", "category": "podcast" },
+            { "id": "le-casque", "french": "le casque", "english": "the headphones", "partOfSpeech": "noun", "gender": "m", "plural": "les casques", "pronunciation": "luh KASK", "example": "Ce podcast se savoure surtout au casque, tard le soir.", "exampleEnglish": "This podcast is best enjoyed on headphones, late at night.", "level": "C2", "category": "podcast" },
+            { "id": "le-montage", "french": "le montage", "english": "the editing", "partOfSpeech": "noun", "gender": "m", "plural": "les montages", "pronunciation": "luh mon-TAHZH", "example": "Le montage garde les silences, mais coupe les redites.", "exampleEnglish": "The edit keeps the silences but cuts the repetitions.", "level": "C2", "category": "podcast" },
+            { "id": "l-auto-diffusion", "french": "l'auto-diffusion", "english": "self-publishing (of a podcast)", "partOfSpeech": "noun", "gender": "f", "plural": "les auto-diffusions", "pronunciation": "loh-toh dee-few-ZYON", "example": "Beaucoup de créateurs choisissent l'auto-diffusion plutôt qu'un grand studio.", "exampleEnglish": "Many creators choose self-publishing rather than a big studio.", "level": "C2", "category": "podcast" },
+            { "id": "la-baladodiffusion", "french": "la baladodiffusion", "english": "podcasting (Québécois term)", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah bah-lah-doh-dee-few-ZYON", "example": "Au Québec, on dit volontiers « baladodiffusion » plutôt que « podcast ».", "exampleEnglish": "In Québec, people happily say 'baladodiffusion' instead of 'podcast'.", "level": "C2", "category": "podcast" },
+            { "id": "la-conversation", "french": "la conversation", "english": "the conversation", "partOfSpeech": "noun", "gender": "f", "plural": "les conversations", "pronunciation": "lah kon-vair-sah-SYON", "example": "Toute la force de l'émission tient dans cette conversation à bâtons rompus.", "exampleEnglish": "The whole strength of the show lies in this rambling conversation.", "level": "C2", "category": "podcast" },
+            { "id": "le-format-long", "french": "le format long", "english": "the long-form format", "partOfSpeech": "noun", "gender": "m", "plural": "les formats longs", "pronunciation": "luh for-mah LOHN", "example": "Le format long permet aux invités de développer une pensée entière.", "exampleEnglish": "The long-form format lets guests develop a whole train of thought.", "level": "C2", "category": "podcast" },
+            { "id": "le-format-court", "french": "le format court", "english": "the short-form format", "partOfSpeech": "noun", "gender": "m", "plural": "les formats courts", "pronunciation": "luh for-mah KOOR", "example": "Le format court tient en dix minutes, pas une de plus.", "exampleEnglish": "The short-form format runs to ten minutes, not one more.", "level": "C2", "category": "podcast" },
+            { "id": "la-chronique", "french": "la chronique", "english": "the segment, the regular feature", "partOfSpeech": "noun", "gender": "f", "plural": "les chroniques", "pronunciation": "lah kroh-NEEK", "example": "Sa chronique hebdomadaire est devenue le moment préféré des auditeurs.", "exampleEnglish": "Her weekly segment has become listeners' favourite moment.", "level": "C2", "category": "podcast" },
+            { "id": "le-teaser", "french": "le teaser", "english": "the teaser, the short preview", "partOfSpeech": "noun", "gender": "m", "plural": "les teasers", "pronunciation": "luh tee-ZUR", "example": "Un teaser d'une minute annonce déjà l'épisode de la semaine prochaine.", "exampleEnglish": "A one-minute teaser already announces next week's episode.", "level": "C2", "category": "podcast" },
+            { "id": "la-bande-annonce", "french": "la bande-annonce", "english": "the trailer", "partOfSpeech": "noun", "gender": "f", "plural": "les bandes-annonces", "pronunciation": "lah bahnd ah-NONSS", "example": "La bande-annonce de la saison trois vient de sortir.", "exampleEnglish": "Season three's trailer has just come out.", "level": "C2", "category": "podcast" },
+            { "id": "le-making-of", "french": "le making-of", "english": "the behind-the-scenes feature", "partOfSpeech": "noun", "gender": "m", "plural": "les making-of", "pronunciation": "luh MAY-king of", "example": "Un making-of raconte comment l'épisode a failli ne jamais sortir.", "exampleEnglish": "A behind-the-scenes feature tells how the episode nearly never came out.", "level": "C2", "category": "podcast" },
+            { "id": "sponsorise", "french": "sponsorisé", "english": "sponsored", "partOfSpeech": "adjective", "pronunciation": "spon-so-ree-ZAY", "example": "Cet épisode est sponsorisé par une marque de café.", "exampleEnglish": "This episode is sponsored by a coffee brand.", "level": "C2", "category": "podcast" },
+            { "id": "le-partenariat", "french": "le partenariat", "english": "the partnership, the sponsorship deal", "partOfSpeech": "noun", "gender": "m", "plural": "les partenariats", "pronunciation": "luh par-tuh-nah-RYAH", "example": "Le partenariat finance la moitié du budget de production.", "exampleEnglish": "The partnership funds half of the production budget.", "level": "C2", "category": "podcast" },
+            { "id": "decontracte", "french": "décontracté", "english": "relaxed, casual", "partOfSpeech": "adjective", "pronunciation": "day-kohn-trak-TAY", "example": "Le ton reste décontracté, même quand le sujet est grave.", "exampleEnglish": "The tone stays relaxed, even when the subject is serious.", "level": "C2", "category": "podcast" },
+            { "id": "spontane", "french": "spontané", "english": "spontaneous", "partOfSpeech": "adjective", "pronunciation": "spon-tah-NAY", "example": "L'échange paraît spontané, mais chaque relance a été notée à l'avance.", "exampleEnglish": "The exchange seems spontaneous, but every follow-up question was noted down in advance.", "level": "C2", "category": "podcast" },
+            { "id": "l-aisance", "french": "l'aisance", "english": "the ease, the effortlessness", "partOfSpeech": "noun", "gender": "f", "plural": "les aisances", "pronunciation": "lay-ZAHNSS", "example": "Son aisance à l'oral cache des heures de préparation.", "exampleEnglish": "Her ease when speaking hides hours of preparation.", "level": "C2", "category": "podcast" },
+            { "id": "le-naturel", "french": "le naturel", "english": "naturalness, the natural manner", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh nah-tew-REL", "example": "Le naturel de cette conversation est en réalité très construit.", "exampleEnglish": "The naturalness of this conversation is in fact highly constructed.", "level": "C2", "category": "podcast" },
+            { "id": "la-proximite", "french": "la proximité", "english": "the closeness, the sense of intimacy", "partOfSpeech": "noun", "gender": "f", "plural": "les proximités", "pronunciation": "lah prok-see-mee-TAY", "example": "Cette proximité avec l'auditeur, on la travaille dès l'écriture.", "exampleEnglish": "That closeness with the listener is crafted from the writing stage onward.", "level": "C2", "category": "podcast" },
+            { "id": "chuchoter", "french": "chuchoter", "english": "to whisper", "partOfSpeech": "verb", "pronunciation": "shew-shoh-TAY", "example": "L'animatrice chuchote presque, pour un effet plus intime.", "exampleEnglish": "The host almost whispers, for a more intimate effect.", "level": "C2", "category": "podcast" },
+            { "id": "respirer", "french": "respirer", "english": "to breathe", "partOfSpeech": "verb", "pronunciation": "res-pee-RAY", "example": "On entend l'invité respirer avant de répondre, et ça reste au montage.", "exampleEnglish": "You can hear the guest breathe before answering, and it stays in the edit.", "level": "C2", "category": "podcast" },
+            { "id": "la-respiration", "french": "la respiration", "english": "the breathing, the breath", "partOfSpeech": "noun", "gender": "f", "plural": "les respirations", "pronunciation": "lah res-pee-rah-SYON", "example": "La respiration entre deux phrases n'est jamais coupée au montage.", "exampleEnglish": "The breath between two sentences is never cut in the edit.", "level": "C2", "category": "podcast" },
+            { "id": "la-pause", "french": "la pause", "english": "the pause", "partOfSpeech": "noun", "gender": "f", "plural": "les pauses", "pronunciation": "lah POHZ", "example": "Une courte pause, avant la question suivante, en dit parfois plus qu'une réponse.", "exampleEnglish": "A short pause, before the next question, sometimes says more than an answer.", "level": "C2", "category": "podcast" },
+            { "id": "marquer-une-pause", "french": "marquer une pause", "english": "to pause deliberately", "partOfSpeech": "expression", "pronunciation": "mar-kay ewn POHZ", "example": "Elle marque une pause avant de répondre, comme pour choisir ses mots.", "exampleEnglish": "She pauses deliberately before answering, as if choosing her words.", "level": "C2", "category": "podcast" },
+            { "id": "le-silence", "french": "le silence", "english": "the silence", "partOfSpeech": "noun", "gender": "m", "plural": "les silences", "pronunciation": "luh see-LAHNSS", "example": "Le silence qui suit la question dure presque trop longtemps pour être confortable.", "exampleEnglish": "The silence following the question lasts almost too long to be comfortable.", "level": "C2", "category": "podcast" },
+            { "id": "le-bruit-de-fond", "french": "le bruit de fond", "english": "the background noise", "partOfSpeech": "noun", "gender": "m", "plural": "les bruits de fond", "pronunciation": "luh brwee duh FOHN", "example": "Un léger bruit de fond rappelle que l'épisode a été enregistré dans un vrai café.", "exampleEnglish": "A faint background noise reminds you the episode was recorded in a real café.", "level": "C2", "category": "podcast" },
+            { "id": "raconter", "french": "raconter", "english": "to tell, to recount", "partOfSpeech": "verb", "pronunciation": "rah-kon-TAY", "example": "Elle raconte son enquête comme on raconterait une histoire à un ami.", "exampleEnglish": "She tells the story of her investigation the way you'd tell it to a friend.", "level": "C2", "category": "podcast" },
+            { "id": "le-recit", "french": "le récit", "english": "the narrative, the account", "partOfSpeech": "noun", "gender": "m", "plural": "les récits", "pronunciation": "luh ray-SEE", "example": "Le récit avance épisode après épisode, sans jamais tout dévoiler d'un coup.", "exampleEnglish": "The narrative moves forward episode by episode, never revealing everything at once.", "level": "C2", "category": "podcast" },
+            { "id": "se-confier", "french": "se confier", "english": "to open up, to confide", "partOfSpeech": "verb", "pronunciation": "suh kohn-FYAY", "example": "Devant ce micro, les invités se confient plus facilement que prévu.", "exampleEnglish": "In front of this microphone, guests open up more easily than expected.", "level": "C2", "category": "podcast" },
+            { "id": "l-echange", "french": "l'échange", "english": "the exchange (of views)", "partOfSpeech": "noun", "gender": "m", "plural": "les échanges", "pronunciation": "lay-SHAHNZH", "example": "L'échange, très libre en apparence, suit en réalité un plan précis.", "exampleEnglish": "The exchange, very free-flowing on the surface, actually follows a precise outline.", "level": "C2", "category": "podcast" },
+            { "id": "l-intimite", "french": "l'intimité", "english": "the intimacy", "partOfSpeech": "noun", "gender": "f", "plural": "les intimités", "pronunciation": "lan-tee-mee-TAY", "example": "Le casque crée une intimité qu'aucun autre média n'obtient aussi facilement.", "exampleEnglish": "Headphones create an intimacy no other medium achieves as easily.", "level": "C2", "category": "podcast" },
+            { "id": "scenariser", "french": "scénariser", "english": "to script, to give dramatic shape to (real events)", "partOfSpeech": "verb", "pronunciation": "say-nah-ree-ZAY", "example": "Même un entretien très libre finit par être scénarisé au montage.", "exampleEnglish": "Even a very free-flowing interview ends up being given shape in the edit.", "level": "C2", "category": "podcast" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Les marqueurs discursifs qui simulent la spontanéité",
+              "body": "Hedges like 'enfin', 'du coup', 'genre', 'quoi', and 'tu vois' are used deliberately in podcasts to signal casualness. They are register-appropriate here even though the same markers would be cut from formal C1/C2 writing.",
+              "examples": [
+                { "french": "Enfin, tu vois, c'est plus compliqué que ça.", "english": "Well, you know, it's more complicated than that.", "note": "'tu vois' checks in with the listener mid-thought" },
+                { "french": "Du coup, on a décidé de refaire l'épisode entier.", "english": "So, we ended up redoing the whole episode.", "note": "'du coup' as an all-purpose casual connector" },
+                { "french": "C'était, genre, complètement improvisé.", "english": "It was, like, completely unscripted.", "note": "'genre' as a hedge, borrowed from youth speech" },
+                { "french": "Bon, on va peut-être arrêter là pour aujourd'hui.", "english": "Okay, let's maybe stop there for today.", "note": "'bon' signals a closing move" },
+                { "french": "Franchement, quoi, on ne s'attendait pas à ça.", "english": "Honestly, we really didn't expect that.", "note": "'quoi' as a closing hedge, adds informal emphasis" }
+              ],
+              "tip": "These markers are register choices, not mistakes — using none of them can make a podcast sound stiff, while overusing them can sound performed."
+            },
+            {
+              "heading": "Le discours rapporté à l'oral : citer sans lire",
+              "body": "Podcast narrators report speech conversationally, shifting between narration and quotation more loosely than written reported speech allows — 'faire' often replaces 'dire', and 'genre' can stand in for a comma before a quote.",
+              "examples": [
+                { "french": "Il m'a dit, je cite : « Ce n'est plus possible. »", "english": "He told me, and I quote: 'This isn't possible anymore.'", "note": "explicit quotation marker, formal-adjacent" },
+                { "french": "Il m'a dit, genre, que ce n'était plus possible.", "english": "He told me, like, that it wasn't possible anymore.", "note": "informal reported speech, 'genre' replaces a comma" },
+                { "french": "Et là, elle me fait : « Tu es sérieux ? »", "english": "And then she goes: 'Are you serious?'", "note": "'faire' used instead of 'dire' for reported speech, very oral" },
+                { "french": "Je me suis dit : bon, tant pis.", "english": "I thought to myself: well, too bad.", "note": "reporting one's own inner speech, casual podcast narration" },
+                { "french": "Elle raconte, et on sent qu'elle choisit encore ses mots.", "english": "She's telling the story, and you can sense she's still choosing her words.", "note": "narration commenting on itself in real time" }
+              ],
+              "tip": "'Elle me fait :' would never appear in a written article, but it is entirely normal, even elegant, in a narrative podcast."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "c2_u13_l03_li01",
+              "type": "listenChoose",
+              "french": "Abonnez-vous pour ne rater aucun épisode.",
+              "options": ["Subscribe so you don't miss a single episode.", "Unsubscribe if you're missing episodes.", "Subscribe to skip every episode.", "Listen once, then subscribe."],
+              "answer": "Subscribe so you don't miss a single episode."
+            },
+            {
+              "id": "c2_u13_l03_li02",
+              "type": "listenChoose",
+              "french": "L'échange paraît spontané, mais chaque relance a été notée à l'avance.",
+              "options": ["The exchange seems spontaneous, but every follow-up question was noted down in advance.", "The exchange is entirely improvised, with no preparation at all.", "The exchange was recorded twice because it seemed unnatural.", "The exchange seems formal, but it is actually spontaneous."],
+              "answer": "The exchange seems spontaneous, but every follow-up question was noted down in advance."
+            },
+            {
+              "id": "c2_u13_l03_li03",
+              "type": "listenType",
+              "french": "Le montage garde les silences, mais coupe les redites.",
+              "answer": "Le montage garde les silences, mais coupe les redites.",
+              "acceptedAnswers": ["Le montage garde les silences, mais coupe les redites", "le montage garde les silences mais coupe les redites"]
+            },
+            {
+              "id": "c2_u13_l03_li04",
+              "type": "dictation",
+              "french": "Cette proximité avec l'auditeur, on la travaille dès l'écriture.",
+              "answer": "Cette proximité avec l'auditeur, on la travaille dès l'écriture.",
+              "acceptedAnswers": ["Cette proximite avec l'auditeur, on la travaille des l'ecriture", "cette proximite avec l auditeur on la travaille des l ecriture"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "c2_u13_l03_sp01",
+              "type": "speak",
+              "french": "Salut, toi qui nous écoutes peut-être sous la couette.",
+              "english": "Hi, you who might be listening under the covers.",
+              "prompt": "Open a podcast episode with direct, informal address to the listener.",
+              "tip": "Keep 'sous la couette' relaxed and low — this is intimate register, not projected radio delivery."
+            },
+            {
+              "id": "c2_u13_l03_sp02",
+              "type": "speak",
+              "french": "Du coup, on a décidé de refaire l'épisode entier.",
+              "english": "So, we ended up redoing the whole episode.",
+              "prompt": "Use a casual discourse marker to link two ideas conversationally.",
+              "tip": "'Du coup' is one quick unit: dew-koo, with no stress on either syllable — overstressing it sounds unnatural."
+            },
+            {
+              "id": "c2_u13_l03_sp03",
+              "type": "speak",
+              "french": "Elle me fait : « Tu es sérieux ? »",
+              "english": "She goes: 'Are you serious?'",
+              "prompt": "Report a quote the casual, oral way, using faire instead of dire.",
+              "tip": "Pause slightly before the quoted question, as if recalling the moment, then let your pitch rise naturally on 'sérieux'."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "L'art de paraître spontané",
+              "french": "Le podcast Trois Voix s'ouvre chaque semaine sur la même phrase, prononcée par Léa Kouadio d'un ton faussement désinvolte : « Bon, on y va ? »\nRien, dans cette question, ne laisse deviner qu'elle a été réécrite quatre fois avant l'enregistrement.\nLéa Kouadio et son coanimateur, Nils Berthier, cultivent depuis trois saisons une conversation qui semble naître sur le moment.\nEn réalité, chaque épisode suit un conducteur détaillé : dix minutes de rires en ouverture, un sujet du jour, une chronique, une clôture toujours improvisée en apparence.\n« Les gens croient qu'on discute entre nous, alors qu'on discute pour eux », résume Nils Berthier, un peu gêné de le formuler aussi crûment.\nLe montage, confié à une ingénieure du son qui travaillait auparavant à la radio, ne cherche pas la perfection mais la vraisemblance.\nOn garde un fou rire mal maîtrisé, un blanc de deux secondes, une phrase reprise trois fois avant d'être la bonne.\nOn coupe, en revanche, les redites, les noms mal prononcés, et surtout les silences trop longs, ceux que l'oreille, au casque, ne pardonne pas.\nLéa Kouadio explique volontiers sa méthode aux auditeurs qui l'interrogent en message privé : « On écrit l'ossature, et on laisse la chair s'improviser dessus. »\nCette chair, justement, se compose de marqueurs très oraux, ce « du coup », ce « genre », ce « tu vois », que la présentatrice bannirait sans hésiter d'un article écrit.\nÀ l'oral, ces mêmes mots deviennent des béquilles utiles : ils signalent une hésitation, une nuance, une envie de vérifier que l'autre suit encore.\nLe succès de Trois Voix tient beaucoup à ce grand écart assumé entre une écriture rigoureuse et une oralité qui prétend n'en être aucune.\nLes auditeurs les plus fidèles jurent pourtant reconnaître, d'un épisode à l'autre, les mêmes tics, les mêmes silences calculés, la même fausse hésitation avant une chute attendue.\nNils Berthier s'en amuse : selon lui, un podcast réussi n'est jamais tout à fait honnête sur son propre naturel.\n« On ne ment à personne, dit-il, on choisit juste ce qu'on laisse entendre du travail. »",
+              "english": "The podcast Trois Voix opens every week with the same line, delivered by Léa Kouadio in a deliberately offhand tone: 'Okay, shall we?'\nNothing about that question gives away that it was rewritten four times before recording.\nLéa Kouadio and her co-host, Nils Berthier, have spent three seasons cultivating a conversation that seems to come to life on the spot.\nIn reality, every episode follows a detailed running order: ten minutes of laughter to open, a topic of the day, a segment, a close that only appears improvised.\n'People think we're chatting to each other, when really we're chatting for them,' sums up Nils Berthier, a little uneasy putting it so bluntly.\nThe editing, handled by a sound engineer who previously worked in radio, aims not for perfection but for plausibility.\nThey keep a badly stifled fit of laughter, a two-second blank, a sentence said three times before it comes out right.\nThey cut, on the other hand, the repetitions, the mispronounced names, and above all the silences that run too long, the ones the ear, through headphones, does not forgive.\nLéa Kouadio happily explains her method to listeners who ask her in private messages: 'We write the skeleton, and we let the flesh improvise on top of it.'\nThat flesh, precisely, is made up of very oral markers — that 'du coup', that 'genre', that 'tu vois' — which the host would unhesitatingly ban from a written article.\nIn speech, those same words become useful crutches: they signal hesitation, nuance, a wish to check the other person is still following.\nTrois Voix's success owes much to this deliberate gap between rigorous writing and an orality that claims to be none at all.\nIts most loyal listeners nevertheless swear they can recognise, from one episode to the next, the same verbal tics, the same calculated silences, the same fake hesitation before an expected punchline.\nNils Berthier finds this amusing: in his view, a successful podcast is never entirely honest about its own naturalness.\n'We're not lying to anyone,' he says, 'we're just choosing what we let people hear of the work.'",
+              "questions": [
+                {
+                  "id": "c2_u13_l03_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Que veut dire Nils Berthier par « on discute pour eux » ?",
+                  "options": ["Que la conversation est en réalité destinée aux auditeurs, pas seulement aux deux animateurs", "Qu'ils discutent uniquement avec des invités extérieurs", "Que le public choisit les sujets de l'émission", "Que l'émission est enregistrée sans public"],
+                  "answer": "Que la conversation est en réalité destinée aux auditeurs, pas seulement aux deux animateurs"
+                },
+                {
+                  "id": "c2_u13_l03_rd02",
+                  "type": "multipleChoice",
+                  "prompt": "D'après le texte, que garde le montage plutôt que de le couper ?",
+                  "options": ["Un fou rire mal maîtrisé et un blanc de deux secondes", "Les noms mal prononcés", "Les silences trop longs", "Les redites"],
+                  "answer": "Un fou rire mal maîtrisé et un blanc de deux secondes"
+                },
+                {
+                  "id": "c2_u13_l03_rd03",
+                  "type": "trueFalse",
+                  "prompt": "Selon le texte, chaque épisode de Trois Voix est entièrement improvisé, sans aucun conducteur.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "c2_u13_l03_wr01",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "The exchange seems spontaneous, but every follow-up question was noted down in advance.",
+              "answer": "L'échange paraît spontané, mais chaque relance a été notée à l'avance.",
+              "acceptedAnswers": ["L'echange parait spontane, mais chaque relance a ete notee a l'avance", "l echange parait spontane mais chaque relance a ete notee a l avance"]
+            },
+            {
+              "id": "c2_u13_l03_wr02",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "A successful podcast is never entirely honest about its own naturalness.",
+              "answer": "Un podcast réussi n'est jamais tout à fait honnête sur son propre naturel.",
+              "acceptedAnswers": ["Un podcast reussi n'est jamais tout a fait honnete sur son propre naturel", "un podcast reussi n est jamais tout a fait honnete sur son propre naturel"]
+            },
+            {
+              "id": "c2_u13_l03_wr03",
+              "type": "arrangeWords",
+              "words": ["l'ossature", "on", "et", "écrit", "on", "chair", "laisse", "s'improviser", "la"],
+              "answer": "on écrit l'ossature et on laisse la chair s'improviser",
+              "english": "we write the skeleton and we let the flesh improvise"
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "c2_u13_l03_pr01",
+              "type": "fillBlank",
+              "prompt": "___-vous pour ne rater aucun épisode.",
+              "answer": "Abonnez"
+            },
+            {
+              "id": "c2_u13_l03_pr02",
+              "type": "multipleChoice",
+              "prompt": "Quel terme désigne le podcast en français québécois ?",
+              "options": ["la baladodiffusion", "l'auto-diffusion", "le format court", "le partenariat"],
+              "answer": "la baladodiffusion"
+            },
+            {
+              "id": "c2_u13_l03_pr03",
+              "type": "match",
+              "pairs": [
+                { "french": "chuchoter", "english": "to whisper" },
+                { "french": "la proximité", "english": "the closeness" },
+                { "french": "le bruit de fond", "english": "the background noise" },
+                { "french": "scénariser", "english": "to give dramatic shape to" }
+              ]
+            },
+            {
+              "id": "c2_u13_l03_pr04",
+              "type": "fillBlank",
+              "prompt": "Le ___ garde les silences, mais coupe les redites.",
+              "answer": "montage"
+            },
+            {
+              "id": "c2_u13_l03_pr05",
+              "type": "multipleChoice",
+              "prompt": "Pourquoi les hésitations restent-elles parfois au montage ?",
+              "options": ["Parce qu'elles rendent la conversation plus vraisemblable", "Parce que le montage coûte trop cher", "Parce que la loi l'exige", "Parce que les auditeurs les réclament par écrit"],
+              "answer": "Parce qu'elles rendent la conversation plus vraisemblable"
+            },
+            {
+              "id": "c2_u13_l03_pr06",
+              "type": "arrangeWords",
+              "words": ["la", "entre", "respiration", "phrases", "jamais", "deux", "coupée", "n'est"],
+              "answer": "la respiration entre deux phrases n'est jamais coupée",
+              "english": "the breath between two sentences is never cut"
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "c2_u13_l03_qz01",
+              "type": "multipleChoice",
+              "prompt": "Qu'est-ce qui distingue le format long du format court, selon la leçon ?",
+              "options": ["Le format long laisse aux silences le temps d'exister", "Le format court est toujours sponsorisé", "Le format long n'a jamais d'invité", "Le format court dure plus de deux heures"],
+              "answer": "Le format long laisse aux silences le temps d'exister"
+            },
+            {
+              "id": "c2_u13_l03_qz02",
+              "type": "multipleChoice",
+              "prompt": "Que signifie « scénariser » une conversation ?",
+              "options": ["Lui donner une forme travaillée, presque dramatique", "La supprimer entièrement", "L'enregistrer deux fois", "La traduire en anglais"],
+              "answer": "Lui donner une forme travaillée, presque dramatique"
+            },
+            {
+              "id": "c2_u13_l03_qz03",
+              "type": "fillBlank",
+              "prompt": "Elle ___ presque, pour un effet plus intime.",
+              "answer": "chuchote"
+            },
+            {
+              "id": "c2_u13_l03_qz04",
+              "type": "trueFalse",
+              "prompt": "D'après la leçon, les marqueurs comme « du coup » ou « genre » sont recommandés dans un article écrit formel.",
+              "options": ["True", "False"],
+              "answer": "False"
+            },
+            {
+              "id": "c2_u13_l03_qz05",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "Headphones create an intimacy no other medium achieves as easily.",
+              "answer": "Le casque crée une intimité qu'aucun autre média n'obtient aussi facilement.",
+              "acceptedAnswers": ["Le casque cree une intimite qu'aucun autre media n'obtient aussi facilement", "le casque cree une intimite qu aucun autre media n obtient aussi facilement"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

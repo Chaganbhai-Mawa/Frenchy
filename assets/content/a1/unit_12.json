@@ -1,0 +1,964 @@
+{
+  "id": "a1_u12",
+  "level": "A1",
+  "unit": 12,
+  "title": "Getting Around",
+  "subtitle": "Take the bus, buy a ticket and find your way in a French city",
+  "icon": "🚌",
+  "lessons": [
+    {
+      "id": "a1_u12_l01",
+      "level": "A1",
+      "unit": 12,
+      "title": "Les transports",
+      "description": "Name the ways to travel around a city and use the verb \"prendre\" with each one.",
+      "estimatedMinutes": 13,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Taking the bus, the metro, the train",
+              "body": "In French you \"take\" a means of transport, exactly like in English: \"je prends le bus\". The transport always keeps its article — le bus, le métro, le train — so never say « je prends bus ».",
+              "examples": [
+                { "french": "Je prends le bus tous les matins.", "english": "I take the bus every morning." },
+                { "french": "Tu prends le métro ?", "english": "Do you take the metro?" },
+                { "french": "Elle prend le train de huit heures.", "english": "She takes the eight o'clock train." },
+                { "french": "Nous prenons un taxi ce soir.", "english": "We're taking a taxi tonight." },
+                { "french": "Vous prenez la ligne 4.", "english": "You take line 4." },
+                { "french": "Ils prennent le tramway jusqu'au centre.", "english": "They take the tram to the centre." }
+              ],
+              "tip": "Parisians say \"le métro\" for the underground and \"le RER\" for the fast suburban trains."
+            },
+            {
+              "heading": "Getting on and getting off",
+              "body": "You get on with \"monter dans\" and get off with \"descendre de\". To ask where to get off, say \"Je descends où ?\" — the driver or another passenger will help you.",
+              "examples": [
+                { "french": "Je monte dans le bus à la gare.", "english": "I get on the bus at the station." },
+                { "french": "Descendez à l'arrêt suivant.", "english": "Get off at the next stop." },
+                { "french": "Je descends où pour le musée ?", "english": "Where do I get off for the museum?" },
+                { "french": "L'arrêt est devant la pharmacie.", "english": "The stop is in front of the pharmacy." },
+                { "french": "La station Bastille est fermée.", "english": "Bastille station is closed." },
+                { "french": "Le bus 27 passe toutes les dix minutes.", "english": "Bus 27 comes every ten minutes." }
+              ],
+              "tip": "Buses and trams have \"un arrêt\" (a stop); the metro and trains have \"une station\" or \"une gare\"."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "le-transport", "french": "le transport", "english": "transport", "partOfSpeech": "noun", "gender": "m", "plural": "transports", "pronunciation": "luh trahns-POR", "example": "Les transports sont gratuits le dimanche.", "exampleEnglish": "Public transport is free on Sundays.", "level": "A1", "category": "transport" },
+            { "id": "le-bus", "french": "le bus", "english": "bus", "partOfSpeech": "noun", "gender": "m", "plural": "bus", "pronunciation": "luh BUSS", "example": "Je prends le bus tous les matins.", "exampleEnglish": "I take the bus every morning.", "level": "A1", "category": "transport" },
+            { "id": "le-metro", "french": "le métro", "english": "metro / underground", "partOfSpeech": "noun", "gender": "m", "plural": "métros", "pronunciation": "luh may-TROH", "example": "Le métro est plus rapide que le bus.", "exampleEnglish": "The metro is faster than the bus.", "level": "A1", "category": "transport" },
+            { "id": "le-train", "french": "le train", "english": "train", "partOfSpeech": "noun", "gender": "m", "plural": "trains", "pronunciation": "luh TRAHN", "example": "Le train part à dix heures.", "exampleEnglish": "The train leaves at ten o'clock.", "level": "A1", "category": "transport" },
+            { "id": "le-tramway", "french": "le tramway", "english": "tram", "partOfSpeech": "noun", "gender": "m", "plural": "tramways", "pronunciation": "luh tram-WAY", "example": "Le tramway passe devant chez moi.", "exampleEnglish": "The tram goes past my house.", "level": "A1", "category": "transport" },
+            { "id": "le-taxi", "french": "le taxi", "english": "taxi", "partOfSpeech": "noun", "gender": "m", "plural": "taxis", "pronunciation": "luh tahk-SEE", "example": "Nous prenons un taxi ce soir.", "exampleEnglish": "We're taking a taxi tonight.", "level": "A1", "category": "transport" },
+            { "id": "la-voiture", "french": "la voiture", "english": "car", "partOfSpeech": "noun", "gender": "f", "plural": "voitures", "pronunciation": "lah vwah-TUR", "example": "Je vais au travail en voiture.", "exampleEnglish": "I go to work by car.", "level": "A1", "category": "transport" },
+            { "id": "l-avion", "french": "l'avion", "english": "plane", "partOfSpeech": "noun", "gender": "m", "plural": "avions", "pronunciation": "lah-VYOHN", "example": "L'avion pour Nice part à midi.", "exampleEnglish": "The plane to Nice leaves at noon.", "level": "A1", "category": "transport" },
+            { "id": "le-bateau", "french": "le bateau", "english": "boat", "partOfSpeech": "noun", "gender": "m", "plural": "bateaux", "pronunciation": "luh bah-TOH", "example": "On visite Paris en bateau.", "exampleEnglish": "We're visiting Paris by boat.", "level": "A1", "category": "transport" },
+            { "id": "prendre", "french": "prendre", "english": "to take", "partOfSpeech": "verb", "pronunciation": "PRAHN-druh", "example": "Tu prends le métro ?", "exampleEnglish": "Do you take the metro?", "level": "A1", "category": "verbs" },
+            { "id": "l-arret", "french": "l'arrêt", "english": "stop (bus / tram)", "partOfSpeech": "noun", "gender": "m", "plural": "arrêts", "pronunciation": "lah-REH", "example": "L'arrêt est devant la pharmacie.", "exampleEnglish": "The stop is in front of the pharmacy.", "level": "A1", "category": "transport" },
+            { "id": "la-station", "french": "la station", "english": "station (metro)", "partOfSpeech": "noun", "gender": "f", "plural": "stations", "pronunciation": "lah stah-SYOHN", "example": "La station Bastille est fermée.", "exampleEnglish": "Bastille station is closed.", "level": "A1", "category": "transport" },
+            { "id": "la-ligne", "french": "la ligne", "english": "line (route)", "partOfSpeech": "noun", "gender": "f", "plural": "lignes", "pronunciation": "lah LEE-nyuh", "example": "Prenez la ligne 4, direction Porte de Clignancourt.", "exampleEnglish": "Take line 4, heading towards Porte de Clignancourt.", "level": "A1", "category": "transport" },
+            { "id": "a-pied", "french": "à pied", "english": "on foot", "partOfSpeech": "expression", "pronunciation": "ah PYAY", "example": "Elle va à l'école à pied.", "exampleEnglish": "She walks to school.", "level": "A1", "category": "transport" },
+            { "id": "monter", "french": "monter", "english": "to get on / to board", "partOfSpeech": "verb", "pronunciation": "mohn-TAY", "example": "Je monte dans le bus à la gare.", "exampleEnglish": "I get on the bus at the station.", "level": "A1", "category": "verbs" },
+            { "id": "descendre", "french": "descendre", "english": "to get off", "partOfSpeech": "verb", "pronunciation": "deh-SAHN-druh", "example": "Descendez à l'arrêt suivant.", "exampleEnglish": "Get off at the next stop.", "level": "A1", "category": "verbs" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "The verb prendre",
+              "body": "\"Prendre\" is irregular but you will use it every day — for transport, food and drinks. Watch the plural forms: nous prenons has one n, ils prennent has two.",
+              "examples": [
+                { "french": "Je prends le bus.", "english": "I take the bus." },
+                { "french": "Tu prends le métro ?", "english": "Do you take the metro?" },
+                { "french": "Il prend le train à sept heures.", "english": "He takes the train at seven." },
+                { "french": "Nous prenons la ligne 1.", "english": "We take line 1." },
+                { "french": "Vous prenez un taxi ?", "english": "Are you taking a taxi?" },
+                { "french": "Elles prennent le tramway.", "english": "They take the tram." }
+              ],
+              "tip": "\"Je prends\" and \"il prend\" sound identical — the d and s at the end are both silent."
+            },
+            {
+              "heading": "en bus, à pied",
+              "body": "To say how you travel, use \"en\" when you go inside the vehicle, and \"à\" when you sit on it or use your own legs. So: en bus, en voiture, en train — but à pied and à vélo.",
+              "examples": [
+                { "french": "Je vais au travail en bus.", "english": "I go to work by bus." },
+                { "french": "Nous voyageons en train.", "english": "We travel by train." },
+                { "french": "Il part en voiture demain.", "english": "He is leaving by car tomorrow." },
+                { "french": "Elle va à l'école à pied.", "english": "She walks to school." },
+                { "french": "Je vais au parc à vélo.", "english": "I cycle to the park." },
+                { "french": "On arrive en avion samedi.", "english": "We arrive by plane on Saturday." }
+              ],
+              "tip": "\"À pied\" never changes and never takes an article — it is always exactly these two words."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a1_u12_l01_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. Which transport does she take?",
+              "french": "Je prends le métro tous les matins.",
+              "options": ["The metro", "The bus", "The train", "A taxi"],
+              "answer": "The metro"
+            },
+            {
+              "id": "a1_u12_l01_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. How does she go to school?",
+              "french": "Elle va à l'école à pied.",
+              "options": ["On foot", "By bike", "By bus", "By car"],
+              "answer": "On foot"
+            },
+            {
+              "id": "a1_u12_l01_li03",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Je prends le bus.",
+              "answer": "Je prends le bus.",
+              "acceptedAnswers": ["je prends le bus"]
+            },
+            {
+              "id": "a1_u12_l01_li04",
+              "type": "dictation",
+              "prompt": "Dictation: write the sentence you hear.",
+              "french": "Nous prenons la ligne 4.",
+              "answer": "Nous prenons la ligne 4.",
+              "acceptedAnswers": ["nous prenons la ligne 4"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a1_u12_l01_sp01",
+              "type": "speak",
+              "prompt": "Say that you take the bus every morning.",
+              "french": "Je prends le bus tous les matins",
+              "english": "I take the bus every morning",
+              "tip": "\"Prends\" is PRAHN — the d and the s at the end are both silent."
+            },
+            {
+              "id": "a1_u12_l01_sp02",
+              "type": "speak",
+              "prompt": "Say that you go to work by car.",
+              "french": "Je vais au travail en voiture",
+              "english": "I go to work by car",
+              "tip": "\"Voiture\" is vwah-TUR — start with a quick \"vw\" sound, as in \"voilà\"."
+            },
+            {
+              "id": "a1_u12_l01_sp03",
+              "type": "speak",
+              "prompt": "Ask where you should get off for the museum.",
+              "french": "Je descends où pour le musée ?",
+              "english": "Where do I get off for the museum?",
+              "tip": "\"Descends\" is deh-SAHN — the sc is a simple s sound, and the ends are silent."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Dans le bus",
+              "french": "Julie habite loin du centre. Le matin, elle va à l'arrêt à pied.\nElle prend le bus 27, puis elle prend le métro, ligne 4.\n— Excusez-moi, monsieur, je descends où pour le musée ?\n— À la station Saint-Michel, madame. C'est le prochain arrêt.\n— Merci beaucoup !\nLe soir, son mari vient la chercher en voiture.",
+              "english": "Julie lives far from the centre. In the morning, she walks to the stop.\nShe takes bus 27, then she takes the metro, line 4.\n— Excuse me, sir, where do I get off for the museum?\n— At Saint-Michel station, ma'am. It's the next stop.\n— Thank you very much!\nIn the evening, her husband comes to pick her up by car.",
+              "questions": [
+                {
+                  "id": "a1_u12_l01_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "How does Julie get to the bus stop?",
+                  "options": ["On foot", "By bike", "By car", "By tram"],
+                  "answer": "On foot"
+                },
+                {
+                  "id": "a1_u12_l01_rd02",
+                  "type": "trueFalse",
+                  "prompt": "Julie must get off at Saint-Michel station for the museum.",
+                  "options": ["True", "False"],
+                  "answer": "True"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a1_u12_l01_wr01",
+              "type": "translate",
+              "prompt": "Translate into French: \"I take the metro.\"",
+              "english": "I take the metro.",
+              "answer": "Je prends le métro.",
+              "acceptedAnswers": ["je prends le metro"]
+            },
+            {
+              "id": "a1_u12_l01_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "We go to work by bus.",
+              "words": ["travail", "allons", "bus", "Nous", "au", "en"],
+              "answer": "Nous allons au travail en bus"
+            },
+            {
+              "id": "a1_u12_l01_wr03",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Elle va à l'école ___ pied.\"",
+              "answer": "à",
+              "acceptedAnswers": ["a"]
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a1_u12_l01_pr01",
+              "type": "multipleChoice",
+              "prompt": "Complete: \"Nous ___ le train de huit heures.\"",
+              "options": ["prenons", "prennent", "prends", "prenez"],
+              "answer": "prenons"
+            },
+            {
+              "id": "a1_u12_l01_pr02",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Je vais au bureau ___ métro.\"",
+              "answer": "en"
+            },
+            {
+              "id": "a1_u12_l01_pr03",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "The stop is in front of the pharmacy.",
+              "words": ["devant", "pharmacie", "L'arrêt", "est", "la"],
+              "answer": "L'arrêt est devant la pharmacie"
+            },
+            {
+              "id": "a1_u12_l01_pr04",
+              "type": "listenChoose",
+              "prompt": "Listen. What is the problem?",
+              "french": "La station Bastille est fermée.",
+              "options": ["A station is closed.", "The bus is late.", "The train is full.", "The taxi is expensive."],
+              "answer": "A station is closed."
+            },
+            {
+              "id": "a1_u12_l01_pr05",
+              "type": "translate",
+              "prompt": "Translate into French: \"We're taking a taxi.\"",
+              "english": "We're taking a taxi.",
+              "answer": "Nous prenons un taxi.",
+              "acceptedAnswers": ["nous prenons un taxi", "on prend un taxi"]
+            },
+            {
+              "id": "a1_u12_l01_pr06",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "le métro", "english": "the underground" },
+                { "french": "l'arrêt", "english": "the stop" },
+                { "french": "la voiture", "english": "the car" },
+                { "french": "à pied", "english": "on foot" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a1_u12_l01_qz01",
+              "type": "multipleChoice",
+              "prompt": "Which sentence is correct?",
+              "options": ["Je prends le bus.", "Je prends bus.", "Je prends à bus.", "Je prends du bus."],
+              "answer": "Je prends le bus."
+            },
+            {
+              "id": "a1_u12_l01_qz02",
+              "type": "multipleChoice",
+              "prompt": "How do you say \"by bike\"?",
+              "options": ["à vélo", "en vélo", "au vélo", "du vélo"],
+              "answer": "à vélo"
+            },
+            {
+              "id": "a1_u12_l01_qz03",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "le tramway", "english": "the tram" },
+                { "french": "l'avion", "english": "the plane" },
+                { "french": "monter", "english": "to get on" },
+                { "french": "descendre", "english": "to get off" }
+              ]
+            },
+            {
+              "id": "a1_u12_l01_qz04",
+              "type": "trueFalse",
+              "prompt": "Buses and trams stop at \"un arrêt\", while the metro has \"une station\".",
+              "options": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "a1_u12_l01_qz05",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Ils ___ le tramway.\" (prendre)",
+              "answer": "prennent"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1_u12_l02",
+      "level": "A1",
+      "unit": 12,
+      "title": "Acheter un billet",
+      "description": "Buy a train ticket, understand the departure time and find the right platform.",
+      "estimatedMinutes": 14,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "At the ticket window",
+              "body": "Start with \"Bonjour\", then \"je voudrais\" (I would like) — it is the polite way to ask for anything in France. The clerk will ask whether you want \"un aller simple\" (one way) or \"un aller-retour\" (return).",
+              "examples": [
+                { "french": "Bonjour, je voudrais un billet pour Lyon, s'il vous plaît.", "english": "Hello, I would like a ticket to Lyon, please." },
+                { "french": "Un aller simple ou un aller-retour ?", "english": "One way or return?" },
+                { "french": "Un aller-retour, s'il vous plaît.", "english": "A return ticket, please." },
+                { "french": "Deux places pour le train de midi.", "english": "Two seats for the twelve o'clock train." },
+                { "french": "Ça fait combien ?", "english": "How much is it?" },
+                { "french": "Vous pouvez payer au distributeur.", "english": "You can pay at the machine." }
+              ],
+              "tip": "Every station has \"un distributeur\" (a ticket machine) with an English option — but the queue at \"le guichet\" is often faster for complicated trips."
+            },
+            {
+              "heading": "Times and platforms",
+              "body": "Timetables use the 24-hour clock: \"le train de quatorze heures trente\" is the 2.30 p.m. train. The platform is \"le quai\" and the track number is \"la voie\". Watch the boards for \"départ\" (departure) and \"arrivée\" (arrival).",
+              "examples": [
+                { "french": "Le train part à quelle heure ?", "english": "What time does the train leave?" },
+                { "french": "Il part à quatorze heures trente.", "english": "It leaves at 2.30 p.m." },
+                { "french": "C'est quel quai, s'il vous plaît ?", "english": "Which platform is it, please?" },
+                { "french": "Voie 7, à droite.", "english": "Track 7, on the right." },
+                { "french": "Le train a dix minutes de retard.", "english": "The train is ten minutes late." },
+                { "french": "L'arrivée à Marseille est à dix-huit heures.", "english": "The arrival in Marseille is at 6 p.m." }
+              ],
+              "tip": "On regional trains you must validate your ticket before boarding: \"N'oubliez pas de composter votre billet !\""
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "le-billet", "french": "le billet", "english": "ticket", "partOfSpeech": "noun", "gender": "m", "plural": "billets", "pronunciation": "luh bee-YEH", "example": "Je voudrais un billet pour Lyon.", "exampleEnglish": "I would like a ticket to Lyon.", "level": "A1", "category": "transport" },
+            { "id": "le-guichet", "french": "le guichet", "english": "ticket window / counter", "partOfSpeech": "noun", "gender": "m", "plural": "guichets", "pronunciation": "luh gee-SHEH", "example": "Le guichet ouvre à six heures.", "exampleEnglish": "The ticket window opens at six.", "level": "A1", "category": "transport" },
+            { "id": "le-distributeur", "french": "le distributeur", "english": "ticket machine", "partOfSpeech": "noun", "gender": "m", "plural": "distributeurs", "pronunciation": "luh dees-tree-bu-TUR", "example": "Vous pouvez payer au distributeur.", "exampleEnglish": "You can pay at the machine.", "level": "A1", "category": "transport" },
+            { "id": "la-gare", "french": "la gare", "english": "train station", "partOfSpeech": "noun", "gender": "f", "plural": "gares", "pronunciation": "lah GAHR", "example": "La gare est près du centre.", "exampleEnglish": "The station is near the centre.", "level": "A1", "category": "transport" },
+            { "id": "le-quai", "french": "le quai", "english": "platform", "partOfSpeech": "noun", "gender": "m", "plural": "quais", "pronunciation": "luh KEH", "example": "C'est quel quai, s'il vous plaît ?", "exampleEnglish": "Which platform is it, please?", "level": "A1", "category": "transport" },
+            { "id": "la-voie", "french": "la voie", "english": "track", "partOfSpeech": "noun", "gender": "f", "plural": "voies", "pronunciation": "lah VWAH", "example": "Le train part de la voie 7.", "exampleEnglish": "The train leaves from track 7.", "level": "A1", "category": "transport" },
+            { "id": "un-aller-simple", "french": "un aller simple", "english": "a one-way ticket", "partOfSpeech": "noun", "gender": "m", "plural": "allers simples", "pronunciation": "uhn ah-lay SAHM-pluh", "example": "Un aller simple pour Nice, s'il vous plaît.", "exampleEnglish": "A one-way ticket to Nice, please.", "level": "A1", "category": "transport" },
+            { "id": "un-aller-retour", "french": "un aller-retour", "english": "a return ticket", "partOfSpeech": "noun", "gender": "m", "plural": "allers-retours", "pronunciation": "uhn ah-lay ruh-TOOR", "example": "Je prends un aller-retour.", "exampleEnglish": "I'll take a return ticket.", "level": "A1", "category": "transport" },
+            { "id": "le-depart", "french": "le départ", "english": "departure", "partOfSpeech": "noun", "gender": "m", "plural": "départs", "pronunciation": "luh day-PAR", "example": "Le départ est à neuf heures.", "exampleEnglish": "The departure is at nine o'clock.", "level": "A1", "category": "transport" },
+            { "id": "l-arrivee", "french": "l'arrivée", "english": "arrival", "partOfSpeech": "noun", "gender": "f", "plural": "arrivées", "pronunciation": "lah-ree-VAY", "example": "L'arrivée à Marseille est à dix-huit heures.", "exampleEnglish": "The arrival in Marseille is at six p.m.", "level": "A1", "category": "transport" },
+            { "id": "l-horaire", "french": "l'horaire", "english": "timetable / schedule", "partOfSpeech": "noun", "gender": "m", "plural": "horaires", "pronunciation": "loh-REHR", "example": "Regardez les horaires sur l'écran.", "exampleEnglish": "Look at the timetable on the screen.", "level": "A1", "category": "transport" },
+            { "id": "le-retard", "french": "le retard", "english": "delay", "partOfSpeech": "noun", "gender": "m", "plural": "retards", "pronunciation": "luh ruh-TAR", "example": "Le train a dix minutes de retard.", "exampleEnglish": "The train is ten minutes late.", "level": "A1", "category": "transport" },
+            { "id": "la-place", "french": "la place", "english": "seat", "partOfSpeech": "noun", "gender": "f", "plural": "places", "pronunciation": "lah PLAHS", "example": "J'ai la place 42, voiture 5.", "exampleEnglish": "I have seat 42, carriage 5.", "level": "A1", "category": "transport" },
+            { "id": "composter", "french": "composter", "english": "to validate (a ticket)", "partOfSpeech": "verb", "pronunciation": "kohn-pos-TAY", "example": "N'oubliez pas de composter votre billet !", "exampleEnglish": "Don't forget to validate your ticket!", "level": "A1", "category": "verbs" },
+            { "id": "le-controleur", "french": "le contrôleur", "english": "ticket inspector", "partOfSpeech": "noun", "gender": "m", "plural": "contrôleurs", "pronunciation": "luh kohn-troh-LUR", "example": "Le contrôleur arrive dans le wagon.", "exampleEnglish": "The inspector is coming into the carriage.", "level": "A1", "category": "transport" },
+            { "id": "la-correspondance", "french": "la correspondance", "english": "connection (transfer)", "partOfSpeech": "noun", "gender": "f", "plural": "correspondances", "pronunciation": "lah koh-res-pohn-DAHNS", "example": "J'ai une correspondance à Lyon.", "exampleEnglish": "I have a connection in Lyon.", "level": "A1", "category": "transport" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Je voudrais — asking politely",
+              "body": "\"Je veux\" (I want) sounds blunt in French. \"Je voudrais\" (I would like) is the polite form and it is what everyone uses in shops and stations. It works with a noun or with another verb in the infinitive.",
+              "examples": [
+                { "french": "Je voudrais un billet, s'il vous plaît.", "english": "I would like a ticket, please.", "note": "+ noun" },
+                { "french": "Je voudrais deux places pour Lille.", "english": "I would like two seats to Lille.", "note": "+ noun" },
+                { "french": "Je voudrais partir demain matin.", "english": "I would like to leave tomorrow morning.", "note": "+ infinitive" },
+                { "french": "Je voudrais réserver une place.", "english": "I would like to reserve a seat.", "note": "+ infinitive" },
+                { "french": "Nous voudrions un aller-retour.", "english": "We would like a return ticket." },
+                { "french": "Vous voudriez payer par carte ?", "english": "Would you like to pay by card?" }
+              ],
+              "tip": "Add \"s'il vous plaît\" at the end and you will sound perfectly polite every single time."
+            },
+            {
+              "heading": "Asking with quel / quelle",
+              "body": "\"Quel\" means \"which\" or \"what\" and must agree with the noun after it: quel quai (m), quelle voie (f), quels trains (m pl), quelles places (f pl). All four forms sound the same.",
+              "examples": [
+                { "french": "À quelle heure part le train ?", "english": "What time does the train leave?", "note": "heure is feminine" },
+                { "french": "C'est quel quai ?", "english": "Which platform is it?", "note": "quai is masculine" },
+                { "french": "Quelle voie, s'il vous plaît ?", "english": "Which track, please?", "note": "voie is feminine" },
+                { "french": "Quels sont les horaires du dimanche ?", "english": "What is the Sunday timetable?", "note": "masculine plural" },
+                { "french": "Quelles places avez-vous ?", "english": "Which seats do you have?", "note": "feminine plural" },
+                { "french": "Le train de quelle heure ?", "english": "The train at what time?" }
+              ],
+              "tip": "In speech, French people often just say \"C'est quel quai ?\" with the question word at the end. It is correct and very common."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a1_u12_l02_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What does the traveller want?",
+              "french": "Je voudrais un aller-retour pour Lyon, s'il vous plaît.",
+              "options": ["A return ticket to Lyon", "A one-way ticket to Lyon", "A seat on the next bus", "The Sunday timetable"],
+              "answer": "A return ticket to Lyon"
+            },
+            {
+              "id": "a1_u12_l02_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. What time does the train leave?",
+              "french": "Le train part à quatorze heures trente.",
+              "options": ["2.30 p.m.", "4.30 p.m.", "2.13 p.m.", "10.30 a.m."],
+              "answer": "2.30 p.m."
+            },
+            {
+              "id": "a1_u12_l02_li03",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "C'est quel quai ?",
+              "answer": "C'est quel quai ?",
+              "acceptedAnswers": ["c'est quel quai", "cest quel quai"]
+            },
+            {
+              "id": "a1_u12_l02_li04",
+              "type": "dictation",
+              "prompt": "Dictation: write the announcement you hear.",
+              "french": "Le train a dix minutes de retard.",
+              "answer": "Le train a dix minutes de retard.",
+              "acceptedAnswers": ["le train a dix minutes de retard"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a1_u12_l02_sp01",
+              "type": "speak",
+              "prompt": "Ask politely for a ticket to Lyon.",
+              "french": "Je voudrais un billet pour Lyon, s'il vous plaît",
+              "english": "I would like a ticket to Lyon, please",
+              "tip": "\"Billet\" is bee-YEH — the double l sounds like the y in \"yes\"."
+            },
+            {
+              "id": "a1_u12_l02_sp02",
+              "type": "speak",
+              "prompt": "Ask what time the train leaves.",
+              "french": "Le train part à quelle heure ?",
+              "english": "What time does the train leave?",
+              "tip": "Link \"quelle heure\" together: keh-LUR, as if it were one word."
+            },
+            {
+              "id": "a1_u12_l02_sp03",
+              "type": "speak",
+              "prompt": "Say that you would like a return ticket.",
+              "french": "Je voudrais un aller-retour",
+              "english": "I would like a return ticket",
+              "tip": "\"Aller-retour\" flows as ah-lay-ruh-TOOR — keep it as one smooth phrase."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Au guichet",
+              "french": "— Bonjour, madame. Je voudrais un billet pour Bordeaux, s'il vous plaît.\n— Bonjour. Un aller simple ou un aller-retour ?\n— Un aller-retour. Le train part à quelle heure ?\n— Il y a un train à quatorze heures trente, voie 7. Ça fait quarante-deux euros.\n— Très bien. Et l'arrivée ?\n— À dix-sept heures dix. N'oubliez pas de composter votre billet !",
+              "english": "— Hello, ma'am. I would like a ticket to Bordeaux, please.\n— Hello. One way or return?\n— A return. What time does the train leave?\n— There is a train at 2.30 p.m., track 7. That's forty-two euros.\n— Very good. And the arrival?\n— At 5.10 p.m. Don't forget to validate your ticket!",
+              "questions": [
+                {
+                  "id": "a1_u12_l02_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Which track does the train leave from?",
+                  "options": ["Track 7", "Track 4", "Track 14", "Track 17"],
+                  "answer": "Track 7"
+                },
+                {
+                  "id": "a1_u12_l02_rd02",
+                  "type": "multipleChoice",
+                  "prompt": "How much does the ticket cost?",
+                  "options": ["42 euros", "14 euros", "30 euros", "17 euros"],
+                  "answer": "42 euros"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a1_u12_l02_wr01",
+              "type": "translate",
+              "prompt": "Translate into French: \"I would like a one-way ticket, please.\"",
+              "english": "I would like a one-way ticket, please.",
+              "answer": "Je voudrais un aller simple, s'il vous plaît.",
+              "acceptedAnswers": ["je voudrais un aller simple s'il vous plait", "je voudrais un aller simple sil vous plait"]
+            },
+            {
+              "id": "a1_u12_l02_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "What time does the train leave?",
+              "words": ["heure", "part", "Le", "quelle", "train", "à"],
+              "answer": "Le train part à quelle heure"
+            },
+            {
+              "id": "a1_u12_l02_wr03",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Le train part de la ___ 7.\" (track)",
+              "answer": "voie"
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a1_u12_l02_pr01",
+              "type": "multipleChoice",
+              "prompt": "You want to go to Nice and come back the same day. What do you buy?",
+              "options": ["Un aller-retour", "Un aller simple", "Un horaire", "Une correspondance"],
+              "answer": "Un aller-retour"
+            },
+            {
+              "id": "a1_u12_l02_pr02",
+              "type": "fillBlank",
+              "prompt": "Complete: \"À ___ heure part le train ?\"",
+              "answer": "quelle"
+            },
+            {
+              "id": "a1_u12_l02_pr03",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "I would like two seats, please.",
+              "words": ["places,", "voudrais", "Je", "plaît", "deux", "s'il", "vous"],
+              "answer": "Je voudrais deux places, s'il vous plaît"
+            },
+            {
+              "id": "a1_u12_l02_pr04",
+              "type": "listenChoose",
+              "prompt": "Listen. What must you do?",
+              "french": "N'oubliez pas de composter votre billet !",
+              "options": ["Validate your ticket", "Change platform", "Buy a return ticket", "Get off at the next stop"],
+              "answer": "Validate your ticket"
+            },
+            {
+              "id": "a1_u12_l02_pr05",
+              "type": "translate",
+              "prompt": "Translate into French: \"The train is ten minutes late.\"",
+              "english": "The train is ten minutes late.",
+              "answer": "Le train a dix minutes de retard.",
+              "acceptedAnswers": ["le train a dix minutes de retard"]
+            },
+            {
+              "id": "a1_u12_l02_pr06",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "le guichet", "english": "the ticket window" },
+                { "french": "le quai", "english": "the platform" },
+                { "french": "le départ", "english": "the departure" },
+                { "french": "le retard", "english": "the delay" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a1_u12_l02_qz01",
+              "type": "multipleChoice",
+              "prompt": "Which request is the most polite?",
+              "options": ["Je voudrais un billet, s'il vous plaît.", "Je veux un billet.", "Donnez-moi un billet.", "Un billet !"],
+              "answer": "Je voudrais un billet, s'il vous plaît."
+            },
+            {
+              "id": "a1_u12_l02_qz02",
+              "type": "multipleChoice",
+              "prompt": "Complete: \"___ voie, s'il vous plaît ?\"",
+              "options": ["Quelle", "Quel", "Quels", "Quelles"],
+              "answer": "Quelle"
+            },
+            {
+              "id": "a1_u12_l02_qz03",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "un aller simple", "english": "a one-way ticket" },
+                { "french": "un aller-retour", "english": "a return ticket" },
+                { "french": "l'horaire", "english": "the timetable" },
+                { "french": "la correspondance", "english": "the connection" }
+              ]
+            },
+            {
+              "id": "a1_u12_l02_qz04",
+              "type": "trueFalse",
+              "prompt": "\"Composter\" means to validate your ticket before boarding.",
+              "options": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "a1_u12_l02_qz05",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Je ___ un aller-retour pour Lille.\" (polite: I would like)",
+              "answer": "voudrais"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1_u12_l03",
+      "level": "A1",
+      "unit": 12,
+      "title": "Trouver son chemin",
+      "description": "Ask for directions in the street and understand the answer, with the imperative: tournez, continuez, traversez.",
+      "estimatedMinutes": 13,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Stopping someone and asking",
+              "body": "Always begin with \"Excusez-moi\" or \"Pardon\" plus \"madame\" or \"monsieur\" — a French person will help much more willingly. Then ask with \"Où est...\" or \"Je cherche...\".",
+              "examples": [
+                { "french": "Excusez-moi, madame, où est la gare ?", "english": "Excuse me, ma'am, where is the station?" },
+                { "french": "Pardon, monsieur, je cherche la poste.", "english": "Excuse me, sir, I'm looking for the post office." },
+                { "french": "C'est loin d'ici ?", "english": "Is it far from here?" },
+                { "french": "Je suis perdu, vous pouvez m'aider ?", "english": "I'm lost, can you help me?" },
+                { "french": "Vous avez un plan de la ville ?", "english": "Do you have a map of the town?" },
+                { "french": "C'est à combien de minutes à pied ?", "english": "How many minutes is it on foot?" }
+              ],
+              "tip": "A woman says « Je suis perdue » with an extra e. The pronunciation does not change."
+            },
+            {
+              "heading": "Understanding the answer",
+              "body": "Answers use short instructions and a few landmarks: le feu (the traffic light), le carrefour (the crossroads), le pont (the bridge), le rond-point (the roundabout). Distances are usually given in minutes on foot.",
+              "examples": [
+                { "french": "C'est tout droit, à deux cents mètres.", "english": "It's straight ahead, two hundred metres away." },
+                { "french": "Prenez la première rue à droite.", "english": "Take the first street on the right." },
+                { "french": "C'est en face de la banque.", "english": "It's opposite the bank." },
+                { "french": "C'est à côté de la pharmacie.", "english": "It's next to the pharmacy." },
+                { "french": "C'est à cinq minutes à pied.", "english": "It's a five-minute walk." },
+                { "french": "Non, ce n'est pas loin du tout.", "english": "No, it's not far at all." }
+              ],
+              "tip": "If you did not understand, just say « Pardon, vous pouvez répéter, s'il vous plaît ? » — nobody will mind."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "le-chemin", "french": "le chemin", "english": "way / path", "partOfSpeech": "noun", "gender": "m", "plural": "chemins", "pronunciation": "luh shuh-MAHN", "example": "Je cherche mon chemin.", "exampleEnglish": "I'm looking for my way.", "level": "A1", "category": "directions" },
+            { "id": "tourner", "french": "tourner", "english": "to turn", "partOfSpeech": "verb", "pronunciation": "toor-NAY", "example": "Tournez à droite au feu.", "exampleEnglish": "Turn right at the traffic light.", "level": "A1", "category": "verbs" },
+            { "id": "continuer", "french": "continuer", "english": "to continue / to keep going", "partOfSpeech": "verb", "pronunciation": "kohn-tee-nu-AY", "example": "Continuez tout droit.", "exampleEnglish": "Keep going straight ahead.", "level": "A1", "category": "verbs" },
+            { "id": "traverser", "french": "traverser", "english": "to cross", "partOfSpeech": "verb", "pronunciation": "trah-vehr-SAY", "example": "Traversez le pont.", "exampleEnglish": "Cross the bridge.", "level": "A1", "category": "verbs" },
+            { "id": "tout-droit", "french": "tout droit", "english": "straight ahead", "partOfSpeech": "expression", "pronunciation": "too DRWAH", "example": "C'est tout droit, à deux cents mètres.", "exampleEnglish": "It's straight ahead, two hundred metres away.", "level": "A1", "category": "directions" },
+            { "id": "a-droite", "french": "à droite", "english": "to the right", "partOfSpeech": "expression", "pronunciation": "ah DRWAHT", "example": "Prenez la première rue à droite.", "exampleEnglish": "Take the first street on the right.", "level": "A1", "category": "directions" },
+            { "id": "a-gauche", "french": "à gauche", "english": "to the left", "partOfSpeech": "expression", "pronunciation": "ah GOHSH", "example": "Tournez à gauche après le pont.", "exampleEnglish": "Turn left after the bridge.", "level": "A1", "category": "directions" },
+            { "id": "le-carrefour", "french": "le carrefour", "english": "crossroads", "partOfSpeech": "noun", "gender": "m", "plural": "carrefours", "pronunciation": "luh kar-FOOR", "example": "Au carrefour, prenez à gauche.", "exampleEnglish": "At the crossroads, go left.", "level": "A1", "category": "directions" },
+            { "id": "le-feu", "french": "le feu", "english": "traffic light", "partOfSpeech": "noun", "gender": "m", "plural": "feux", "pronunciation": "luh FUH", "example": "Continuez jusqu'au feu.", "exampleEnglish": "Keep going as far as the traffic light.", "level": "A1", "category": "directions" },
+            { "id": "le-rond-point", "french": "le rond-point", "english": "roundabout", "partOfSpeech": "noun", "gender": "m", "plural": "ronds-points", "pronunciation": "luh rohn-PWAHN", "example": "Le musée est après le rond-point.", "exampleEnglish": "The museum is after the roundabout.", "level": "A1", "category": "directions" },
+            { "id": "le-pont", "french": "le pont", "english": "bridge", "partOfSpeech": "noun", "gender": "m", "plural": "ponts", "pronunciation": "luh POHN", "example": "Traversez le pont, puis tournez à droite.", "exampleEnglish": "Cross the bridge, then turn right.", "level": "A1", "category": "directions" },
+            { "id": "le-plan", "french": "le plan", "english": "map (of a town)", "partOfSpeech": "noun", "gender": "m", "plural": "plans", "pronunciation": "luh PLAHN", "example": "Vous avez un plan de la ville ?", "exampleEnglish": "Do you have a map of the town?", "level": "A1", "category": "directions" },
+            { "id": "jusqu-a", "french": "jusqu'à", "english": "as far as / until", "partOfSpeech": "expression", "pronunciation": "zhus-KAH", "example": "Allez jusqu'à l'église.", "exampleEnglish": "Go as far as the church.", "level": "A1", "category": "directions" },
+            { "id": "en-face-de", "french": "en face de", "english": "opposite / across from", "partOfSpeech": "expression", "pronunciation": "ahn FAHS duh", "example": "C'est en face de la banque.", "exampleEnglish": "It's opposite the bank.", "level": "A1", "category": "directions" },
+            { "id": "a-cote-de", "french": "à côté de", "english": "next to", "partOfSpeech": "expression", "pronunciation": "ah koh-TAY duh", "example": "La poste est à côté de la pharmacie.", "exampleEnglish": "The post office is next to the pharmacy.", "level": "A1", "category": "directions" },
+            { "id": "perdu", "french": "perdu", "english": "lost", "partOfSpeech": "adjective", "pronunciation": "pehr-DU", "example": "Je suis perdu, vous pouvez m'aider ?", "exampleEnglish": "I'm lost, can you help me?", "level": "A1", "category": "directions" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Giving instructions: the imperative",
+              "body": "To tell someone what to do, take the \"vous\" form of the verb and drop the word \"vous\": vous tournez becomes tournez. This is the form used in every direction you will hear in the street.",
+              "examples": [
+                { "french": "Tournez à droite au feu.", "english": "Turn right at the traffic light.", "note": "vous tournez → tournez" },
+                { "french": "Continuez tout droit.", "english": "Keep going straight ahead.", "note": "vous continuez → continuez" },
+                { "french": "Traversez le pont.", "english": "Cross the bridge." },
+                { "french": "Prenez la deuxième rue à gauche.", "english": "Take the second street on the left." },
+                { "french": "Allez jusqu'au carrefour.", "english": "Go as far as the crossroads." },
+                { "french": "Ne tournez pas ici.", "english": "Don't turn here.", "note": "negative: ne ... pas around the verb" }
+              ],
+              "tip": "With a friend, use the \"tu\" form and drop the final s of -er verbs: tourne à droite, continue tout droit."
+            },
+            {
+              "heading": "Saying where things are",
+              "body": "Place words end in \"de\", so they contract with the article: de + le = du, de + les = des. The same happens with \"jusqu'à\": jusqu'à + le = jusqu'au.",
+              "examples": [
+                { "french": "C'est en face de la banque.", "english": "It's opposite the bank.", "note": "de la stays" },
+                { "french": "C'est en face du musée.", "english": "It's opposite the museum.", "note": "de + le = du" },
+                { "french": "La poste est à côté de la pharmacie.", "english": "The post office is next to the pharmacy." },
+                { "french": "Le café est à côté du cinéma.", "english": "The café is next to the cinema.", "note": "de + le = du" },
+                { "french": "Continuez jusqu'au rond-point.", "english": "Keep going as far as the roundabout.", "note": "à + le = au" },
+                { "french": "Allez jusqu'à la gare.", "english": "Go as far as the station." }
+              ],
+              "tip": "Before a vowel, \"de\" becomes \"d'\": en face de l'école, à côté de l'hôtel."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a1_u12_l03_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. Which way should you go?",
+              "french": "Tournez à droite au feu.",
+              "options": ["Right at the traffic light", "Left at the traffic light", "Straight ahead", "Back to the bridge"],
+              "answer": "Right at the traffic light"
+            },
+            {
+              "id": "a1_u12_l03_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. Where is the post office?",
+              "french": "La poste est à côté de la pharmacie.",
+              "options": ["Next to the pharmacy", "Opposite the pharmacy", "Behind the station", "After the bridge"],
+              "answer": "Next to the pharmacy"
+            },
+            {
+              "id": "a1_u12_l03_li03",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Continuez tout droit.",
+              "answer": "Continuez tout droit.",
+              "acceptedAnswers": ["continuez tout droit"]
+            },
+            {
+              "id": "a1_u12_l03_li04",
+              "type": "dictation",
+              "prompt": "Dictation: write the question you hear.",
+              "french": "Excusez-moi, où est la gare ?",
+              "answer": "Excusez-moi, où est la gare ?",
+              "acceptedAnswers": ["excusez-moi ou est la gare", "excusez moi ou est la gare"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a1_u12_l03_sp01",
+              "type": "speak",
+              "prompt": "Stop someone politely and ask where the station is.",
+              "french": "Excusez-moi, où est la gare ?",
+              "english": "Excuse me, where is the station?",
+              "tip": "\"Excusez-moi\" is ex-ku-zay-MWAH — keep it soft and let your voice fall, then rise on \"gare\"."
+            },
+            {
+              "id": "a1_u12_l03_sp02",
+              "type": "speak",
+              "prompt": "Tell someone to turn left after the bridge.",
+              "french": "Tournez à gauche après le pont",
+              "english": "Turn left after the bridge",
+              "tip": "\"Gauche\" is GOHSH — the ch sounds like sh in \"shop\", never like k."
+            },
+            {
+              "id": "a1_u12_l03_sp03",
+              "type": "speak",
+              "prompt": "Say that you are lost and ask for help.",
+              "french": "Je suis perdu, vous pouvez m'aider ?",
+              "english": "I'm lost, can you help me?",
+              "tip": "\"M'aider\" runs together as meh-DAY — don't pause between the m and the a."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Où est le musée ?",
+              "french": "— Pardon, monsieur, je cherche le musée. C'est loin d'ici ?\n— Non, c'est à cinq minutes à pied. Continuez tout droit jusqu'au feu.\n— D'accord.\n— Au feu, tournez à gauche et traversez le pont. Le musée est en face de la banque.\n— Merci beaucoup, monsieur !\n— Je vous en prie. Bonne visite !",
+              "english": "— Excuse me, sir, I'm looking for the museum. Is it far from here?\n— No, it's a five-minute walk. Keep going straight ahead as far as the traffic light.\n— Okay.\n— At the light, turn left and cross the bridge. The museum is opposite the bank.\n— Thank you very much, sir!\n— You're welcome. Enjoy your visit!",
+              "questions": [
+                {
+                  "id": "a1_u12_l03_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "What must you do at the traffic light?",
+                  "options": ["Turn left", "Turn right", "Keep going straight", "Cross the roundabout"],
+                  "answer": "Turn left"
+                },
+                {
+                  "id": "a1_u12_l03_rd02",
+                  "type": "trueFalse",
+                  "prompt": "The museum is opposite the bank.",
+                  "options": ["True", "False"],
+                  "answer": "True"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a1_u12_l03_wr01",
+              "type": "translate",
+              "prompt": "Translate into French: \"Keep going straight ahead.\"",
+              "english": "Keep going straight ahead.",
+              "answer": "Continuez tout droit.",
+              "acceptedAnswers": ["continuez tout droit", "continue tout droit"]
+            },
+            {
+              "id": "a1_u12_l03_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "Take the first street on the right.",
+              "words": ["rue", "première", "Prenez", "droite", "la", "à"],
+              "answer": "Prenez la première rue à droite"
+            },
+            {
+              "id": "a1_u12_l03_wr03",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Continuez jusqu'___ feu.\" (as far as the traffic light)",
+              "answer": "au"
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a1_u12_l03_pr01",
+              "type": "multipleChoice",
+              "prompt": "You want to stop a stranger in the street. What do you say first?",
+              "options": ["Excusez-moi, monsieur.", "Salut, toi !", "Où ça ?", "Tournez à droite."],
+              "answer": "Excusez-moi, monsieur."
+            },
+            {
+              "id": "a1_u12_l03_pr02",
+              "type": "fillBlank",
+              "prompt": "Complete the instruction: \"___ le pont, puis tournez à droite.\" (traverser)",
+              "answer": "Traversez"
+            },
+            {
+              "id": "a1_u12_l03_pr03",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "The café is next to the cinema.",
+              "words": ["café", "cinéma", "Le", "côté", "est", "du", "à"],
+              "answer": "Le café est à côté du cinéma"
+            },
+            {
+              "id": "a1_u12_l03_pr04",
+              "type": "listenChoose",
+              "prompt": "Listen. How far is it?",
+              "french": "C'est à cinq minutes à pied.",
+              "options": ["A five-minute walk", "Five kilometres away", "Fifteen minutes by bus", "Very far"],
+              "answer": "A five-minute walk"
+            },
+            {
+              "id": "a1_u12_l03_pr05",
+              "type": "translate",
+              "prompt": "Translate into French: \"It's opposite the station.\"",
+              "english": "It's opposite the station.",
+              "answer": "C'est en face de la gare.",
+              "acceptedAnswers": ["c'est en face de la gare", "cest en face de la gare"]
+            },
+            {
+              "id": "a1_u12_l03_pr06",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "le carrefour", "english": "the crossroads" },
+                { "french": "le feu", "english": "the traffic light" },
+                { "french": "le rond-point", "english": "the roundabout" },
+                { "french": "le pont", "english": "the bridge" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a1_u12_l03_qz01",
+              "type": "multipleChoice",
+              "prompt": "Which sentence tells someone to turn right?",
+              "options": ["Tournez à droite.", "Tournez à gauche.", "Continuez tout droit.", "Traversez le pont."],
+              "answer": "Tournez à droite."
+            },
+            {
+              "id": "a1_u12_l03_qz02",
+              "type": "multipleChoice",
+              "prompt": "Complete: \"C'est en face ___ musée.\"",
+              "options": ["du", "de la", "des", "de l'"],
+              "answer": "du"
+            },
+            {
+              "id": "a1_u12_l03_qz03",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "tout droit", "english": "straight ahead" },
+                { "french": "à gauche", "english": "to the left" },
+                { "french": "en face de", "english": "opposite" },
+                { "french": "à côté de", "english": "next to" }
+              ]
+            },
+            {
+              "id": "a1_u12_l03_qz04",
+              "type": "trueFalse",
+              "prompt": "To give an instruction to \"vous\", you use the \"vous\" verb form without the word \"vous\".",
+              "options": ["True", "False"],
+              "answer": "True",
+              "tip": "Vous continuez → Continuez !"
+            },
+            {
+              "id": "a1_u12_l03_qz05",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Je suis ___, vous pouvez m'aider ?\" (lost)",
+              "answer": "perdu",
+              "acceptedAnswers": ["perdue"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

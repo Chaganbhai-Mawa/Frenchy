@@ -1,0 +1,1061 @@
+{
+  "id": "c2_u17",
+  "level": "C2",
+  "unit": 17,
+  "title": "Semantics & Nuance",
+  "subtitle": "Map the invisible architecture beneath every French word",
+  "icon": "🔍",
+  "lessons": [
+    {
+      "id": "c2_u17_l01",
+      "level": "C2",
+      "unit": 17,
+      "title": "Les champs sémantiques",
+      "description": "Map the lexicon like a linguist: sèmes, semantic fields, hyperonymy and hyponymy, meronymy, synonymy and antonymy.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Le sème et le champ sémantique",
+              "body": "A sème (seme) is the smallest possible unit of meaning — a single distinguishing feature, not a whole word. A champ sémantique (semantic field) is a set of words structured by shared and distinctive sèmes: chaise, fauteuil and tabouret all belong to the field of seats, but each carries a different bundle of features. This differs from the looser champ lexical (lexical field), which simply gathers every word evoking a theme, with no internal structure of oppositions.",
+              "examples": [
+                { "french": "Une chaise a un dossier mais pas d'accoudoirs ; un fauteuil a les deux : le sème distingue les sièges entre eux.", "english": "A chair has a back but no armrests; an armchair has both: the seme distinguishes the seats from one another." },
+                { "french": "Le champ sémantique du siège s'organise autour de traits comme « avec dossier », « avec accoudoirs », « pour une personne ».", "english": "The semantic field of seating is organised around features like 'has a back', 'has armrests', 'for one person'." },
+                { "french": "Contrairement au champ lexical, qui rassemble tout ce qui évoque un thème, le champ sémantique repose sur une structure de traits distinctifs.", "english": "Unlike the lexical field, which gathers everything evoking a theme, the semantic field rests on a structure of distinctive features." },
+                { "french": "Le champ lexical de la mer inclut « vague », « marin », « naufrage », « écume » — sans qu'aucune structure de traits ne les organise entre eux.", "english": "The lexical field of the sea includes 'vague', 'marin', 'naufrage', 'écume' — with no feature structure organising them against each other." },
+                { "french": "Chaque sème est un trait minimal de sens : « humain », « adulte », « masculin » composent le sens de « homme ».", "english": "Each seme is a minimal unit of meaning: 'human', 'adult', 'male' make up the meaning of 'homme'." }
+              ],
+              "tip": "Quick test: if you can say why two words are not interchangeable, you have just named a sème."
+            },
+            {
+              "heading": "Hyperonymes, hyponymes et méronymes : la hiérarchie du lexique",
+              "body": "Hyperonymy and hyponymy structure the lexicon vertically: a hyperonym (hyperonyme) is a broader, generic term, and a hyponym (hyponyme) is a narrower, specific one included within it. Meronymy is a different relation entirely — a méronyme names a part, not a kind, and its holonyme (holonym) is the whole it belongs to. Confusing the two is a classic C2 trap: a wheel is not a small kind of car, it is a piece of one.",
+              "examples": [
+                { "french": "« Meuble » est l'hyperonyme de « chaise », « table » et « armoire ».", "english": "'Meuble' is the hyperonym of 'chaise', 'table' and 'armoire'." },
+                { "french": "« Rose » est un hyponyme de « fleur » ; toute rose est une fleur, l'inverse est faux.", "english": "'Rose' is a hyponym of 'fleur'; every rose is a flower, but not the reverse." },
+                { "french": "« Roue » est un méronyme de « voiture » : la roue fait partie de la voiture, elle n'en est pas une sorte.", "english": "'Roue' is a meronym of 'voiture': the wheel is part of the car, not a kind of it." },
+                { "french": "« Voiture » est donc l'holonyme de « roue », « moteur » et « pare-brise ».", "english": "'Voiture' is thus the holonym of 'roue', 'moteur' and 'pare-brise'." },
+                { "french": "L'inclusion sémantique organise tout le lexique en arborescence, du plus général au plus particulier.", "english": "Semantic inclusion organises the whole lexicon into a tree, from most general to most particular." }
+              ],
+              "tip": "Never confuse hyponymy (\"is a kind of\") with meronymy (\"is part of\"): a wheel is not a kind of car."
+            },
+            {
+              "heading": "Synonymie, antonymie, paronymie : les relations entre les mots",
+              "body": "Perfect synonymy — two words identical in every context — is vanishingly rare; most pairs are only quasi-synonymes, near-synonyms separated by a nuance. Antonymy itself comes in three shapes: graduelle (a scale with middle terms, chaud/froid), complémentaire (an either/or with no degree, vivant/mort), and réciproque (the same event from two sides, acheter/vendre). Paronymes, meanwhile, are unrelated in meaning but treacherously close in sound.",
+              "examples": [
+                { "french": "« Content » et « heureux » sont quasi-synonymes : proches, mais non interchangeables en tout contexte.", "english": "'Content' and 'heureux' are near-synonyms: close, but not interchangeable in every context." },
+                { "french": "« Chaud » et « froid » forment une antonymie graduelle : entre les deux, il y a « tiède » et « frais ».", "english": "'Chaud' and 'froid' form a gradable antonymy: between the two lie 'tiède' and 'frais'." },
+                { "french": "« Vivant » et « mort » forment une antonymie complémentaire : nier l'un impose l'autre, sans degré possible.", "english": "'Vivant' and 'mort' form complementary antonymy: negating one entails the other, with no degree possible." },
+                { "french": "« Acheter » et « vendre » forment une antonymie réciproque : la même transaction vue de deux points de vue.", "english": "'Acheter' and 'vendre' form converse antonymy: the same transaction seen from two viewpoints." },
+                { "french": "« Éminent » et « imminent » sont des paronymes qui piègent même les meilleurs locuteurs.", "english": "'Éminent' and 'imminent' are paronyms that trip up even the best speakers." }
+              ],
+              "tip": "In formal writing, vary your vocabulary through quasi-synonymy rather than repetition — but always check the connotation before substituting a word."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "le-seme", "french": "le sème", "english": "the seme (minimal unit of meaning)", "partOfSpeech": "noun", "gender": "m", "plural": "sèmes", "pronunciation": "luh SEHM", "example": "« Humain », « adulte » et « masculin » sont trois sèmes qui composent le sens de « homme ».", "exampleEnglish": "'Human', 'adult' and 'male' are three semes that make up the meaning of 'homme'.", "level": "C2", "category": "semantics" },
+            { "id": "le-trait-semantique", "french": "le trait sémantique", "english": "the semantic feature", "partOfSpeech": "expression", "pronunciation": "treh say-mahn-TEEK", "example": "Le trait sémantique « avec dossier » distingue la chaise du tabouret.", "exampleEnglish": "The semantic feature 'has a back' distinguishes a chair from a stool.", "level": "C2", "category": "semantics" },
+            { "id": "le-champ-semantique", "french": "le champ sémantique", "english": "the semantic field", "partOfSpeech": "noun", "gender": "m", "plural": "champs sémantiques", "pronunciation": "shahn say-mahn-TEEK", "example": "Le champ sémantique du siège s'organise autour de quelques traits distinctifs.", "exampleEnglish": "The semantic field of seating is organised around a few distinctive features.", "level": "C2", "category": "semantics" },
+            { "id": "le-champ-lexical", "french": "le champ lexical", "english": "the lexical field", "partOfSpeech": "noun", "gender": "m", "plural": "champs lexicaux", "pronunciation": "shahn lek-see-KAL", "example": "Le champ lexical de la mer traverse tout le poème, sans structure de traits.", "exampleEnglish": "The lexical field of the sea runs through the whole poem, with no feature structure.", "level": "C2", "category": "semantics" },
+            { "id": "l-hyperonyme", "french": "l'hyperonyme", "english": "the hypernym (a broader, generic term)", "partOfSpeech": "noun", "gender": "m", "plural": "hyperonymes", "pronunciation": "ee-pay-roh-NEEM", "example": "« Meuble » est l'hyperonyme de « chaise » et de « table ».", "exampleEnglish": "'Meuble' is the hypernym of 'chaise' and 'table'.", "level": "C2", "category": "semantics" },
+            { "id": "l-hyponyme", "french": "l'hyponyme", "english": "the hyponym (a more specific term)", "partOfSpeech": "noun", "gender": "m", "plural": "hyponymes", "pronunciation": "ee-poh-NEEM", "example": "« Rose » est un hyponyme de « fleur ».", "exampleEnglish": "'Rose' is a hyponym of 'fleur'.", "level": "C2", "category": "semantics" },
+            { "id": "l-hyperonymie", "french": "l'hyperonymie", "english": "hyperonymy (the generic-to-specific relation)", "partOfSpeech": "noun", "gender": "f", "pronunciation": "ee-pay-roh-nee-MEE", "example": "L'hyperonymie structure tout dictionnaire analogique.", "exampleEnglish": "Hyperonymy structures every thesaurus.", "level": "C2", "category": "semantics" },
+            { "id": "l-hyponymie", "french": "l'hyponymie", "english": "hyponymy (the specific-to-generic relation)", "partOfSpeech": "noun", "gender": "f", "pronunciation": "ee-poh-nee-MEE", "example": "L'hyponymie permet de définir un mot par un terme plus général.", "exampleEnglish": "Hyponymy allows a word to be defined via a broader term.", "level": "C2", "category": "semantics" },
+            { "id": "le-meronyme", "french": "le méronyme", "english": "the meronym (a part-denoting term)", "partOfSpeech": "noun", "gender": "m", "plural": "méronymes", "pronunciation": "may-roh-NEEM", "example": "« Roue » est un méronyme de « voiture ».", "exampleEnglish": "'Roue' is a meronym of 'voiture'.", "level": "C2", "category": "semantics" },
+            { "id": "l-holonyme", "french": "l'holonyme", "english": "the holonym (a whole-denoting term)", "partOfSpeech": "noun", "gender": "m", "plural": "holonymes", "pronunciation": "oh-loh-NEEM", "example": "« Voiture » est l'holonyme de « roue », « moteur » et « pare-brise ».", "exampleEnglish": "'Voiture' is the holonym of 'roue', 'moteur' and 'pare-brise'.", "level": "C2", "category": "semantics" },
+            { "id": "la-meronymie", "french": "la méronymie", "english": "meronymy (the part-whole relation)", "partOfSpeech": "noun", "gender": "f", "pronunciation": "may-roh-nee-MEE", "example": "La méronymie décrit la relation entre une partie et son tout.", "exampleEnglish": "Meronymy describes the relation between a part and its whole.", "level": "C2", "category": "semantics" },
+            { "id": "le-synonyme", "french": "le synonyme", "english": "the synonym", "partOfSpeech": "noun", "gender": "m", "plural": "synonymes", "pronunciation": "see-noh-NEEM", "example": "Un dictionnaire des synonymes range rarement deux mots parfaitement interchangeables.", "exampleEnglish": "A thesaurus rarely lists two perfectly interchangeable words.", "level": "C2", "category": "semantics" },
+            { "id": "la-synonymie", "french": "la synonymie", "english": "synonymy", "partOfSpeech": "noun", "gender": "f", "pronunciation": "see-noh-nee-MEE", "example": "La synonymie parfaite est rarissime : deux mots partagent presque toujours une nuance différente.", "exampleEnglish": "Perfect synonymy is extremely rare: two words almost always carry a different nuance.", "level": "C2", "category": "semantics" },
+            { "id": "le-quasi-synonyme", "french": "le quasi-synonyme", "english": "the near-synonym", "partOfSpeech": "noun", "gender": "m", "plural": "quasi-synonymes", "pronunciation": "kah-zee see-noh-NEEM", "example": "« Content » et « heureux » sont des quasi-synonymes, non des synonymes parfaits.", "exampleEnglish": "'Content' and 'heureux' are near-synonyms, not perfect synonyms.", "level": "C2", "category": "semantics" },
+            { "id": "l-antonyme", "french": "l'antonyme", "english": "the antonym", "partOfSpeech": "noun", "gender": "m", "plural": "antonymes", "pronunciation": "ahn-toh-NEEM", "example": "« Grand » et « petit » sont des antonymes classiques.", "exampleEnglish": "'Grand' and 'petit' are classic antonyms.", "level": "C2", "category": "semantics" },
+            { "id": "l-antonymie", "french": "l'antonymie", "english": "antonymy", "partOfSpeech": "noun", "gender": "f", "pronunciation": "ahn-toh-nee-MEE", "example": "L'antonymie ne prend pas toujours la même forme : elle peut être graduelle, complémentaire ou réciproque.", "exampleEnglish": "Antonymy does not always take the same form: it can be gradable, complementary or converse.", "level": "C2", "category": "semantics" },
+            { "id": "l-antonyme-graduel", "french": "l'antonyme graduel", "english": "the gradable antonym", "partOfSpeech": "expression", "pronunciation": "ahn-toh-neem grah-du-EL", "example": "« Chaud » et « froid » sont des antonymes graduels : « tiède » se glisse entre les deux.", "exampleEnglish": "'Chaud' and 'froid' are gradable antonyms: 'tiède' slips in between the two.", "level": "C2", "category": "semantics" },
+            { "id": "l-antonyme-complementaire", "french": "l'antonyme complémentaire", "english": "the complementary antonym", "partOfSpeech": "expression", "pronunciation": "ahn-toh-neem kohn-play-mahn-TEHR", "example": "« Vivant » et « mort » sont des antonymes complémentaires : aucun degré n'est possible entre eux.", "exampleEnglish": "'Vivant' and 'mort' are complementary antonyms: no degree is possible between them.", "level": "C2", "category": "semantics" },
+            { "id": "l-antonyme-reciproque", "french": "l'antonyme réciproque", "english": "the converse antonym", "partOfSpeech": "expression", "pronunciation": "ahn-toh-neem ray-see-PROK", "example": "« Acheter » et « vendre » sont des antonymes réciproques : une seule transaction, deux points de vue.", "exampleEnglish": "'Acheter' and 'vendre' are converse antonyms: one transaction, two viewpoints.", "level": "C2", "category": "semantics" },
+            { "id": "le-paronyme", "french": "le paronyme", "english": "the paronym (a nearly identical word)", "partOfSpeech": "noun", "gender": "m", "plural": "paronymes", "pronunciation": "pah-ro-NEEM", "example": "« Conjecture » et « conjoncture » sont des paronymes qui se ressemblent à l'oreille sans partager le moindre sens.", "exampleEnglish": "'Conjecture' and 'conjoncture' are paronyms that sound alike without sharing any meaning.", "level": "C2", "category": "semantics" },
+            { "id": "la-paronymie", "french": "la paronymie", "english": "paronymy (the relation between near-homophonous words)", "partOfSpeech": "noun", "gender": "f", "pronunciation": "pah-roh-nee-MEE", "example": "La paronymie explique pourquoi « éminent » et « imminent » se confondent si souvent.", "exampleEnglish": "Paronymy explains why 'éminent' and 'imminent' are so often confused.", "level": "C2", "category": "semantics" },
+            { "id": "l-inclusion-semantique", "french": "l'inclusion sémantique", "english": "semantic inclusion (the hyponymic relation)", "partOfSpeech": "expression", "pronunciation": "an-klu-zyon say-mahn-TEEK", "example": "L'inclusion sémantique veut que tout hyponyme hérite des traits de son hyperonyme.", "exampleEnglish": "Semantic inclusion means every hyponym inherits the features of its hypernym.", "level": "C2", "category": "semantics" },
+            { "id": "la-hierarchie-lexicale", "french": "la hiérarchie lexicale", "english": "the lexical hierarchy", "partOfSpeech": "expression", "pronunciation": "yay-rar-SHEE lek-see-KAL", "example": "Un dictionnaire analogique reflète toute une hiérarchie lexicale.", "exampleEnglish": "A thesaurus reflects a whole lexical hierarchy.", "level": "C2", "category": "semantics" },
+            { "id": "un-terme-generique", "french": "un terme générique", "english": "a generic term, a superordinate word", "partOfSpeech": "expression", "pronunciation": "tehrm zhay-nay-REEK", "example": "Reprenez « la chaise » par le terme générique « le meuble » pour éviter la répétition.", "exampleEnglish": "Refer back to 'la chaise' with the generic term 'le meuble' to avoid repetition.", "level": "C2", "category": "semantics" },
+            { "id": "un-terme-specifique", "french": "un terme spécifique", "english": "a specific term, a subordinate word", "partOfSpeech": "expression", "pronunciation": "tehrm spay-see-FEEK", "example": "Préférez le terme spécifique « fauteuil » si le contexte l'exige.", "exampleEnglish": "Prefer the specific term 'fauteuil' when context calls for it.", "level": "C2", "category": "semantics" },
+            { "id": "la-taxinomie", "french": "la taxinomie", "english": "taxonomy, classification system", "partOfSpeech": "noun", "gender": "f", "plural": "taxinomies", "pronunciation": "tahk-see-noh-MEE", "example": "La taxinomie du vivant classe chaque espèce dans une hiérarchie de catégories.", "exampleEnglish": "The taxonomy of living things classifies each species within a hierarchy of categories.", "level": "C2", "category": "semantics" },
+            { "id": "l-arborescence-lexicale", "french": "l'arborescence lexicale", "english": "the lexical tree structure", "partOfSpeech": "expression", "pronunciation": "ar-bo-reh-SAHNS lek-see-KAL", "example": "Un thésaurus dessine une arborescence lexicale, des concepts larges aux mots précis.", "exampleEnglish": "A thesaurus draws out a lexical tree structure, from broad concepts to precise words.", "level": "C2", "category": "semantics" },
+            { "id": "structurer", "french": "structurer", "english": "to structure, to organise", "partOfSpeech": "verb", "pronunciation": "strook-tu-RAY", "example": "Le lexique se structure en réseaux de sens, non en une liste de mots isolés.", "exampleEnglish": "The lexicon is structured into networks of meaning, not a list of isolated words.", "level": "C2", "category": "semantics" },
+            { "id": "la-structuration", "french": "la structuration", "english": "the structuring, the organisation (of the lexicon)", "partOfSpeech": "noun", "gender": "f", "pronunciation": "strook-tu-rah-SYON", "example": "La structuration du lexique repose sur des oppositions de traits.", "exampleEnglish": "The structuring of the lexicon rests on oppositions of features.", "level": "C2", "category": "semantics" },
+            { "id": "le-lexique", "french": "le lexique", "english": "the lexicon, word stock", "partOfSpeech": "noun", "gender": "m", "plural": "lexiques", "pronunciation": "luh lek-SEEK", "example": "Le lexique français distingue rarement deux mots par un seul trait.", "exampleEnglish": "French vocabulary rarely distinguishes two words by a single feature.", "level": "C2", "category": "semantics" },
+            { "id": "le-vocable", "french": "le vocable", "english": "the word, lexical item (literary term)", "partOfSpeech": "noun", "gender": "m", "plural": "vocables", "pronunciation": "voh-KAHBL", "example": "Ce vocable savant a presque disparu de l'usage courant.", "exampleEnglish": "This learned word has almost disappeared from everyday use.", "level": "C2", "category": "semantics" },
+            { "id": "la-nuance", "french": "la nuance", "english": "the nuance, shade of meaning", "partOfSpeech": "noun", "gender": "f", "plural": "nuances", "pronunciation": "nu-AHNSS", "example": "Chaque champ sémantique se resserre autour d'une nuance précise.", "exampleEnglish": "Each semantic field tightens around one precise nuance.", "level": "C2", "category": "semantics" },
+            { "id": "la-gradation-lexicale", "french": "la gradation lexicale", "english": "lexical gradation (a scale of near-synonyms)", "partOfSpeech": "expression", "pronunciation": "grah-dah-syon lek-see-KAL", "example": "« Aimer, adorer, idolâtrer » forment une gradation lexicale de l'intensité.", "exampleEnglish": "'Aimer, adorer, idolâtrer' form a lexical gradation of intensity.", "level": "C2", "category": "semantics" },
+            { "id": "l-opposition-binaire", "french": "l'opposition binaire", "english": "binary opposition", "partOfSpeech": "expression", "pronunciation": "oh-poh-zee-syon bee-NEHR", "example": "« Vivant / mort » illustre une opposition binaire sans terme intermédiaire.", "exampleEnglish": "'Vivant / mort' illustrates a binary opposition with no middle term.", "level": "C2", "category": "semantics" },
+            { "id": "le-sens-large", "french": "le sens large", "english": "the broad sense (of a word)", "partOfSpeech": "expression", "pronunciation": "sahns LARZH", "example": "Pris au sens large, « voyage » inclut le simple trajet quotidien.", "exampleEnglish": "Taken in the broad sense, 'voyage' includes the simple daily commute.", "level": "C2", "category": "semantics" },
+            { "id": "le-sens-etroit", "french": "le sens étroit", "english": "the narrow sense (of a word)", "partOfSpeech": "expression", "pronunciation": "sahns ay-TRWAH", "example": "Au sens étroit, « voyage » suppose un déplacement lointain.", "exampleEnglish": "In the narrow sense, 'voyage' implies travelling far away.", "level": "C2", "category": "semantics" },
+            { "id": "la-parente-semantique", "french": "la parenté sémantique", "english": "semantic kinship, relatedness of meaning", "partOfSpeech": "expression", "pronunciation": "pah-rahn-TAY say-mahn-TEEK", "example": "La parenté sémantique entre deux mots ne garantit jamais leur interchangeabilité.", "exampleEnglish": "Semantic kinship between two words never guarantees they are interchangeable.", "level": "C2", "category": "semantics" },
+            { "id": "classer", "french": "classer", "english": "to classify, to sort", "partOfSpeech": "verb", "pronunciation": "klah-SAY", "example": "Les linguistes classent les mots selon leurs traits sémantiques communs.", "exampleEnglish": "Linguists classify words according to their shared semantic features.", "level": "C2", "category": "semantics" },
+            { "id": "definir", "french": "définir", "english": "to define", "partOfSpeech": "verb", "pronunciation": "day-fee-NEER", "example": "Définir un mot, c'est d'abord trouver son hyperonyme le plus proche.", "exampleEnglish": "To define a word is first to find its closest hypernym.", "level": "C2", "category": "semantics" },
+            { "id": "la-definition", "french": "la définition", "english": "the definition", "partOfSpeech": "noun", "gender": "f", "plural": "définitions", "pronunciation": "day-fee-nee-SYON", "example": "Une bonne définition nomme le genre avant de préciser la différence.", "exampleEnglish": "A good definition names the genus before specifying the difference.", "level": "C2", "category": "semantics" },
+            { "id": "le-dictionnaire-analogique", "french": "le dictionnaire analogique", "english": "the thesaurus (analogical dictionary)", "partOfSpeech": "expression", "pronunciation": "deek-syoh-NEHR ah-nah-loh-ZHEEK", "example": "Le dictionnaire analogique organise les mots par sens, non par alphabet.", "exampleEnglish": "The thesaurus organises words by meaning, not by alphabet.", "level": "C2", "category": "semantics" },
+            { "id": "le-reseau-lexical", "french": "le réseau lexical", "english": "the lexical network", "partOfSpeech": "expression", "pronunciation": "ray-ZOH lek-see-KAL", "example": "Chaque mot appartient à un réseau lexical bien plus vaste qu'on ne le croit.", "exampleEnglish": "Every word belongs to a lexical network far vaster than one might think.", "level": "C2", "category": "semantics" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Définir par inclusion : « X est un Y qui... »",
+              "body": "Every dictionary definition and every taxonomy leans on the same grammatical backbone: a defining relative clause (qui / que / dont) attached to a hyperonym. « X est un Y qui... » states the genus, then the relative clause supplies the differentiating trait. Contrastive connectors — à la différence de, contrairement à, au sens de — let you sharpen a definition against a neighbouring term.",
+              "examples": [
+                { "french": "Un fauteuil est un siège qui possède un dossier et des accoudoirs.", "english": "An armchair is a seat that has a back and armrests.", "note": "hyperonym « siège » + defining relative clause" },
+                { "french": "Un mammifère est un animal dont la femelle allaite ses petits.", "english": "A mammal is an animal whose female suckles its young.", "note": "« dont » for a relation expressed with « de »" },
+                { "french": "À la différence du tabouret, la chaise comporte toujours un dossier.", "english": "Unlike the stool, the chair always has a back." },
+                { "french": "Contrairement à « acheter », « vendre » suppose que l'on soit le propriétaire initial du bien.", "english": "Unlike 'acheter', 'vendre' implies being the initial owner of the item." },
+                { "french": "Au sens de la biologie, un fruit désigne l'organe issu de la fleur fécondée — non ce que la cuisine appelle ainsi.", "english": "In the biological sense, a fruit designates the organ produced by the fertilised flower — not what cooking calls by that name." }
+              ],
+              "tip": "The relative clause with qui/que/dont is the grammatical backbone of every dictionary definition — master it and you can define anything in French."
+            },
+            {
+              "heading": "Placer un mot sur une échelle : comparatifs et gradation",
+              "body": "Gradable antonyms open a scale, and French places near-synonyms exactly on it with plus/moins/aussi ... que and expressions like aller de X à Y or sur une échelle allant de X à Y. The superlative (le plus, le moins) marks the extremes; a concessive « aussi... soit-il » admits that no single word ever covers the whole range.",
+              "examples": [
+                { "french": "Sur l'échelle des sentiments, on va de l'indifférence à la passion, en passant par la sympathie.", "english": "On the scale of feelings, one goes from indifference to passion, passing through fondness." },
+                { "french": "« Tiède » est moins froid que « frais », mais plus froid que « chaud ».", "english": "'Tiède' is less cold than 'frais', but colder than 'chaud'." },
+                { "french": "Plus on s'approche de « glacial », moins le mot « froid » suffit.", "english": "The closer one gets to 'glacial', the less the word 'froid' is enough." },
+                { "french": "Le superlatif « le plus vif » dépasse même « intense » sur l'échelle de l'émotion.", "english": "The superlative 'le plus vif' even surpasses 'intense' on the scale of emotion." },
+                { "french": "Aussi précis soit-il, aucun mot ne couvre à lui seul toute l'échelle.", "english": "However precise it may be, no single word covers the whole scale by itself." }
+              ],
+              "tip": "Use plus/moins ... que to place a near-synonym exactly between two gradable antonyms — this is how French writers calibrate intensity."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "c2_u17_l01_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. Which relation links these two words?",
+              "french": "« Meuble » et « chaise ».",
+              "options": ["Hyperonymie — meuble est le terme générique", "Synonymie parfaite", "Antonymie complémentaire", "Paronymie"],
+              "answer": "Hyperonymie — meuble est le terme générique"
+            },
+            {
+              "id": "c2_u17_l01_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. What relation is being described?",
+              "french": "« Roue » fait partie de « voiture », sans en être une sorte.",
+              "options": ["Méronymie", "Hyperonymie", "Antonymie graduelle", "Synonymie"],
+              "answer": "Méronymie"
+            },
+            {
+              "id": "c2_u17_l01_li03",
+              "type": "listenType",
+              "prompt": "Listen and type this definition exactly.",
+              "french": "Un fauteuil est un siège qui possède un dossier et des accoudoirs.",
+              "answer": "Un fauteuil est un siège qui possède un dossier et des accoudoirs.",
+              "acceptedAnswers": ["un fauteuil est un siege qui possede un dossier et des accoudoirs"]
+            },
+            {
+              "id": "c2_u17_l01_li04",
+              "type": "dictation",
+              "prompt": "Dictation: write down this sentence exactly.",
+              "french": "Contrairement à « acheter », « vendre » suppose que l'on soit le propriétaire initial du bien.",
+              "answer": "Contrairement à « acheter », « vendre » suppose que l'on soit le propriétaire initial du bien.",
+              "acceptedAnswers": ["contrairement a acheter vendre suppose que l'on soit le proprietaire initial du bien", "contrairement a acheter vendre suppose que lon soit le proprietaire initial du bien"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "c2_u17_l01_sp01",
+              "type": "speak",
+              "prompt": "Read this definition with the measured rhythm of a dictionary entry.",
+              "french": "Un mammifère est un animal dont la femelle allaite ses petits.",
+              "english": "A mammal is an animal whose female suckles its young.",
+              "tip": "Slow slightly on « dont » — it is the hinge of the whole definition."
+            },
+            {
+              "id": "c2_u17_l01_sp02",
+              "type": "speak",
+              "prompt": "Contrast these two gradable words clearly.",
+              "french": "Ce n'est pas chaud, c'est tiède — presque froid.",
+              "english": "It's not hot, it's lukewarm — almost cold.",
+              "tip": "Stress « tiède » and let your voice drop on « froid » to mark the scale."
+            },
+            {
+              "id": "c2_u17_l01_sp03",
+              "type": "speak",
+              "prompt": "Deliver this contrastive definition with confidence.",
+              "french": "À la différence du tabouret, la chaise comporte toujours un dossier.",
+              "english": "Unlike the stool, the chair always has a back.",
+              "tip": "Pause fractionally after « tabouret » — the contrast lands in the silence."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Le vocabulaire, une architecture invisible",
+              "french": "Ouvrez un dictionnaire analogique et vous verrez aussitôt ce qu'aucun dictionnaire alphabétique ne montre : le lexique n'est pas un sac de mots, mais une architecture.\nPrenez « siège ». Il domine toute une famille — chaise, fauteuil, tabouret, canapé — dont il est l'hyperonyme, le terme le plus général.\nChacun de ces hyponymes se distingue des autres par un trait minimal, un sème.\nLe fauteuil ajoute des accoudoirs à ce que la chaise refuse ; le tabouret retire le dossier que la chaise impose.\nRien n'est arbitraire dans cette hiérarchie : elle obéit à une logique d'inclusion.\nChaque terme spécifique hérite des propriétés de son terme générique, tout en y ajoutant sa nuance propre.\nCette architecture ne s'arrête pas à la verticale.\nUn fauteuil a des accoudoirs, un dossier, une assise, quatre pieds — autant de méronymes, de parties qui le composent.\nCe ne sont pas des sortes de fauteuil, mais des morceaux du fauteuil : confondre l'hyponymie et la méronymie, c'est confondre l'espèce et l'organe.\nUne roue n'est pas une petite voiture ; elle en est un morceau.\nLe même principe organise les relations horizontales entre les mots.\nDeux quasi-synonymes ne se recouvrent jamais tout à fait.\nDeux antonymes, eux non plus, ne s'opposent pas tous de la même façon.\nL'opposition peut être graduelle, comme chaud et froid, complémentaire, comme vivant et mort, ou réciproque, comme acheter et vendre.\nApprendre une langue à ce niveau, ce n'est plus mémoriser des mots isolés.\nC'est apprendre le plan de l'édifice invisible qui les tient tous debout.",
+              "english": "Open a thesaurus and you will immediately see what no alphabetical dictionary ever shows: the lexicon is not a bag of words, but an architecture.\nTake 'siège' (seat). It presides over a whole family — chaise, fauteuil, tabouret, canapé — of which it is the hyperonym, the most general term.\nEach of these hyponyms is distinguished from the others by a minimal feature, a seme.\nThe armchair adds armrests to what the chair lacks; the stool removes the back the chair imposes.\nNothing is arbitrary in this hierarchy: it obeys a logic of inclusion.\nEach specific term inherits the properties of its generic term, while adding its own nuance.\nThis architecture does not stop at the vertical axis.\nAn armchair has armrests, a back, a seat, four legs — so many meronyms, parts that compose it.\nThese are not kinds of armchair, but pieces of the armchair: to confuse hyponymy and meronymy is to confuse species and organ.\nA wheel is not a small car; it is a piece of one.\nThe same principle organises the horizontal relations between words.\nTwo near-synonyms never fully overlap.\nTwo antonyms, likewise, do not all oppose each other in the same way.\nThe opposition can be gradable, like hot and cold, complementary, like alive and dead, or converse, like buying and selling.\nLearning a language at this level is no longer memorising isolated words.\nIt is learning the plan of the invisible edifice that holds them all up.",
+              "questions": [
+                {
+                  "id": "c2_u17_l01_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "According to the passage, what is the relation between « siège » and « fauteuil »?",
+                  "options": ["Hyperonymy — siège is the more general term", "Meronymy — fauteuil is part of siège", "Perfect synonymy", "Complementary antonymy"],
+                  "answer": "Hyperonymy — siège is the more general term"
+                },
+                {
+                  "id": "c2_u17_l01_rd02",
+                  "type": "multipleChoice",
+                  "prompt": "What does the passage say about the relation between « roue » and « voiture »?",
+                  "options": ["The roue is a meronym (a part) of the voiture, not a hyponym (a kind)", "The roue and the voiture are synonyms", "The roue is the hyperonym of the voiture", "There is no relation between them"],
+                  "answer": "The roue is a meronym (a part) of the voiture, not a hyponym (a kind)"
+                },
+                {
+                  "id": "c2_u17_l01_rd03",
+                  "type": "trueFalse",
+                  "prompt": "According to the passage, all antonym pairs oppose each other in exactly the same way.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "c2_u17_l01_wr01",
+              "type": "translate",
+              "prompt": "Translate into French, using the correct semantic term.",
+              "english": "A stool is a hyponym of 'siège'.",
+              "answer": "Un tabouret est un hyponyme de « siège ».",
+              "acceptedAnswers": ["un tabouret est un hyponyme de siege", "un tabouret est un hyponyme de « siege »"]
+            },
+            {
+              "id": "c2_u17_l01_wr02",
+              "type": "arrangeWords",
+              "prompt": "Rebuild this definition.",
+              "words": ["un", "possède", "et", "un", "Un", "fauteuil", "siège", "des", "accoudoirs", "qui", "dossier", "est"],
+              "answer": "Un fauteuil est un siège qui possède un dossier et des accoudoirs",
+              "english": "An armchair is a seat that has a back and armrests."
+            },
+            {
+              "id": "c2_u17_l01_wr03",
+              "type": "fillBlank",
+              "prompt": "« Roue » est un ___ de « voiture », non un hyponyme.",
+              "answer": "méronyme",
+              "tip": "The wheel is a part, not a kind — that is the part-whole relation."
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "c2_u17_l01_pr01",
+              "type": "multipleChoice",
+              "prompt": "« Chaud » et « froid » forment quel type d'antonymie ?",
+              "options": ["Graduelle", "Complémentaire", "Réciproque", "Aucune des trois"],
+              "answer": "Graduelle"
+            },
+            {
+              "id": "c2_u17_l01_pr02",
+              "type": "match",
+              "prompt": "Match each term with its meaning.",
+              "pairs": [
+                { "french": "l'hyperonyme", "english": "a broader, generic term" },
+                { "french": "le méronyme", "english": "a part-denoting term" },
+                { "french": "le quasi-synonyme", "english": "a near-synonym" },
+                { "french": "l'antonyme réciproque", "english": "same event, two viewpoints" }
+              ]
+            },
+            {
+              "id": "c2_u17_l01_pr03",
+              "type": "fillBlank",
+              "prompt": "« Meuble » est l'___ de « chaise », « table » et « armoire ».",
+              "answer": "hyperonyme"
+            },
+            {
+              "id": "c2_u17_l01_pr04",
+              "type": "multipleChoice",
+              "prompt": "Which pair illustrates complementary antonymy?",
+              "options": ["Vivant / mort", "Chaud / froid", "Acheter / vendre", "Content / heureux"],
+              "answer": "Vivant / mort"
+            },
+            {
+              "id": "c2_u17_l01_pr05",
+              "type": "translate",
+              "prompt": "Translate: 'Roue' is a meronym of 'voiture'.",
+              "english": "'Roue' is a meronym of 'voiture'.",
+              "answer": "« Roue » est un méronyme de « voiture ».",
+              "acceptedAnswers": ["roue est un meronyme de voiture", "« roue » est un meronyme de « voiture »"]
+            },
+            {
+              "id": "c2_u17_l01_pr06",
+              "type": "trueFalse",
+              "prompt": "Perfect synonymy — two words identical in every context — is extremely common in French.",
+              "options": ["True", "False"],
+              "answer": "False",
+              "tip": "Most so-called synonyms are only quasi-synonymes, each carrying its own nuance."
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "c2_u17_l01_qz01",
+              "type": "multipleChoice",
+              "prompt": "Le trait minimal qui compose le sens d'un mot s'appelle...",
+              "options": ["un sème", "un hyperonyme", "un holonyme", "un paronyme"],
+              "answer": "un sème"
+            },
+            {
+              "id": "c2_u17_l01_qz02",
+              "type": "fillBlank",
+              "prompt": "« Roue » est un ___ de « voiture ».",
+              "answer": "méronyme"
+            },
+            {
+              "id": "c2_u17_l01_qz03",
+              "type": "multipleChoice",
+              "prompt": "Which best defines a « champ sémantique »?",
+              "options": ["A set of words structured by shared and distinctive semantic features", "Any words that appear in the same paragraph", "A list of synonyms only", "A dictionary's alphabetical index"],
+              "answer": "A set of words structured by shared and distinctive semantic features"
+            },
+            {
+              "id": "c2_u17_l01_qz04",
+              "type": "trueFalse",
+              "prompt": "« Éminent » and « imminent » are paronyms.",
+              "options": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "c2_u17_l01_qz05",
+              "type": "multipleChoice",
+              "prompt": "« Acheter » et « vendre » illustrate which relation?",
+              "options": ["Antonymie réciproque", "Antonymie graduelle", "Synonymie", "Hyperonymie"],
+              "answer": "Antonymie réciproque"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c2_u17_l02",
+      "level": "C2",
+      "unit": 17,
+      "title": "Connotation et dénotation",
+      "description": "The stable, dictionary meaning versus the emotional shading a word carries — and how press, politics and literature exploit the gap between the two.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Dénotation et connotation : le sens stable et le sens qui varie",
+              "body": "La dénotation is a word's objective, dictionary-checkable meaning — stable across speakers. La connotation is everything a word additionally suggests: emotion, judgment, social value, all of it variable by speaker, era and context. Two words can denote exactly the same referent while connoting opposite attitudes toward it.",
+              "examples": [
+                { "french": "« Demeure » et « maison » dénotent la même réalité ; leurs connotations diffèrent du tout au tout.", "english": "'Demeure' and 'maison' denote the same reality; their connotations differ entirely." },
+                { "french": "« Mince » valorise la silhouette ; « maigre » la dévalorise — même dénotation, connotation opposée.", "english": "'Mince' flatters the figure; 'maigre' disparages it — same denotation, opposite connotation." },
+                { "french": "Un « cheval » et un « canasson » désignent le même animal ; le second y ajoute le mépris.", "english": "A 'cheval' and a 'canasson' denote the same animal; the second adds contempt." },
+                { "french": "« Économe » loue la vertu, « radin » la condamne, pour un seul et même comportement.", "english": "'Économe' praises the virtue, 'radin' condemns it, for one and the same behaviour." },
+                { "french": "La dénotation se vérifie dans le dictionnaire ; la connotation se lit dans le contexte et la communauté qui parle.", "english": "Denotation is checked in the dictionary; connotation is read in the context and the community that speaks." }
+              ],
+              "tip": "Whenever two words seem to mean 'the same thing', ask what each one makes you feel about it — that feeling is the connotation."
+            },
+            {
+              "heading": "Mélioratif et péjoratif : orienter le jugement sans le dire",
+              "body": "A connotation can be mélioratif (flattering, positively loaded) or péjoratif (disparaging). Euphémisme softens an unpleasant reality by choosing a milder word; dysphémisme does the opposite, deliberately roughening a neutral fact. Journalists and politicians lean on both constantly, presenting a chosen word as if it were simply the dénotation.",
+              "examples": [
+                { "french": "« Réformer » a une connotation méliorative que « démanteler » n'a pas, pour une même mesure.", "english": "'Réformer' carries a meliorative connotation that 'démanteler' lacks, for the same measure." },
+                { "french": "L'euphémisme atténue une réalité désagréable : « un plan social » pour « des licenciements ».", "english": "Euphemism softens an unpleasant reality: 'a social plan' for 'layoffs'." },
+                { "french": "Le dysphémisme fait l'inverse : il aggrave volontairement, comme « crever » pour « mourir ».", "english": "Dysphemism does the reverse: it deliberately worsens, like 'crever' for 'mourir'." },
+                { "french": "Le journaliste choisit « manifestants » ou « émeutiers » selon le camp qu'il veut ménager.", "english": "The journalist chooses 'manifestants' or 'émeutiers' depending on which side he wants to spare." },
+                { "french": "Un même fait divers devient « bavure » ou « erreur regrettable » selon qui écrit la légende.", "english": "The same incident becomes a 'bavure' or a 'regrettable error' depending on who writes the caption." }
+              ],
+              "tip": "In press analysis, always ask: which of two synonyms was chosen, and what judgment does that choice smuggle in?"
+            },
+            {
+              "heading": "La charge affective dans la littérature et la presse",
+              "body": "Writers exploit connotation cumulatively: a paragraph loaded with meliorative or pejorative words steers a reader's judgment without ever stating an opinion outright. Register shifts — a sudden slide into soutenu or connoted vocabulary — signal that the tone has turned critical or admiring. Even avoiding a mot tabou is itself a connoted choice.",
+              "examples": [
+                { "french": "En accumulant des mots connotés négativement, l'auteur oriente le jugement du lecteur sans jamais l'affirmer lui-même.", "english": "By accumulating negatively connoted words, the author steers the reader's judgment without ever stating it themselves." },
+                { "french": "Le vocabulaire du reportage bascule soudain vers le registre soutenu et connoté quand le ton devient critique.", "english": "The report's vocabulary suddenly shifts to an elevated, loaded register when the tone turns critical." },
+                { "french": "Repérer la charge affective d'un texte, c'est lire entre les synonymes.", "english": "Spotting a text's emotional loading means reading between the synonyms." },
+                { "french": "Un mot tabou n'est jamais neutre : son évitement même est un choix connoté.", "english": "A taboo word is never neutral: even avoiding it is a loaded choice." },
+                { "french": "La connotation d'un mot évolue avec le temps : « propagande » n'a pas toujours été aussi péjoratif.", "english": "A word's connotation shifts over time: 'propagande' has not always been so pejorative." }
+              ],
+              "tip": "Connotation is a moving target — always check whether a word's emotional charge belongs to the era of the text or to your own."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "la-denotation", "french": "la dénotation", "english": "denotation, literal meaning", "partOfSpeech": "noun", "gender": "f", "plural": "dénotations", "pronunciation": "day-noh-tah-SYON", "example": "La dénotation d'un mot reste stable ; ses connotations varient.", "exampleEnglish": "A word's denotation stays stable; its connotations vary.", "level": "C2", "category": "semantics" },
+            { "id": "denoter", "french": "dénoter", "english": "to denote", "partOfSpeech": "verb", "pronunciation": "day-noh-TAY", "example": "Ce terme dénote une fonction précise, sans jugement de valeur.", "exampleEnglish": "This term denotes a precise function, without any value judgement.", "level": "C2", "category": "semantics" },
+            { "id": "la-connotation", "french": "la connotation", "english": "connotation, associated shade of meaning", "partOfSpeech": "noun", "gender": "f", "plural": "connotations", "pronunciation": "koh-noh-tah-SYON", "example": "La presse joue sur la connotation bien plus que sur la dénotation.", "exampleEnglish": "The press plays on connotation far more than on denotation.", "level": "C2", "category": "semantics" },
+            { "id": "connoter", "french": "connoter", "english": "to connote, to carry an implied shade of meaning", "partOfSpeech": "verb", "pronunciation": "koh-noh-TAY", "example": "Ce mot connote la richesse sans jamais la nommer.", "exampleEnglish": "This word connotes wealth without ever naming it.", "level": "C2", "category": "semantics" },
+            { "id": "connote-adj", "french": "connoté", "english": "loaded, carrying a strong connotation", "partOfSpeech": "adjective", "pronunciation": "koh-noh-TAY", "example": "« Régime » est un terme fortement connoté en politique.", "exampleEnglish": "'Régime' is a heavily loaded term in politics.", "level": "C2", "category": "semantics" },
+            { "id": "melioratif", "french": "mélioratif", "english": "meliorative, positively loaded", "partOfSpeech": "adjective", "pronunciation": "may-lyoh-rah-TEEF", "example": "« Réformer » a une connotation méliorative que « démanteler » n'a pas.", "exampleEnglish": "'Réformer' carries a meliorative connotation that 'démanteler' lacks.", "level": "C2", "category": "semantics" },
+            { "id": "pejoratif", "french": "péjoratif", "english": "pejorative, negatively loaded", "partOfSpeech": "adjective", "pronunciation": "pay-zho-rah-TEEF", "example": "« Radin » est le terme péjoratif pour « économe ».", "exampleEnglish": "'Radin' is the pejorative term for 'économe'.", "level": "C2", "category": "semantics" },
+            { "id": "euphemisme", "french": "l'euphémisme", "english": "euphemism", "partOfSpeech": "noun", "gender": "m", "plural": "euphémismes", "pronunciation": "uh-fay-MEESM", "example": "« Un plan social » est l'euphémisme habituel pour « des licenciements ».", "exampleEnglish": "\"A social plan\" is the usual euphemism for \"layoffs\".", "level": "C2", "category": "semantics" },
+            { "id": "dysphemisme", "french": "le dysphémisme", "english": "dysphemism (a deliberately harsh substitute)", "partOfSpeech": "noun", "gender": "m", "plural": "dysphémismes", "pronunciation": "dees-fay-MEESM", "example": "« Crever » est un dysphémisme brutal pour « mourir ».", "exampleEnglish": "'Crever' is a blunt dysphemism for 'mourir'.", "level": "C2", "category": "semantics" },
+            { "id": "la-charge-affective", "french": "la charge affective", "english": "the emotional loading (of a word)", "partOfSpeech": "expression", "pronunciation": "sharzh ah-fek-TEEV", "example": "La charge affective d'un mot dépasse souvent sa simple dénotation.", "exampleEnglish": "A word's emotional loading often exceeds its plain denotation.", "level": "C2", "category": "semantics" },
+            { "id": "le-jugement-de-valeur", "french": "le jugement de valeur", "english": "the value judgment", "partOfSpeech": "expression", "pronunciation": "zhu-zhmahn duh vah-LUHR", "example": "Choisir « émeutiers » plutôt que « manifestants », c'est déjà porter un jugement de valeur.", "exampleEnglish": "Choosing 'émeutiers' over 'manifestants' is already passing a value judgment.", "level": "C2", "category": "semantics" },
+            { "id": "neutre", "french": "neutre", "english": "neutral", "partOfSpeech": "adjective", "pronunciation": "NUH-truh", "example": "Un dictionnaire vise la définition neutre, sans connotation.", "exampleEnglish": "A dictionary aims for a neutral definition, free of connotation.", "level": "C2", "category": "semantics" },
+            { "id": "le-registre", "french": "le registre", "english": "register (level of formality)", "partOfSpeech": "noun", "gender": "m", "plural": "registres", "pronunciation": "ruh-ZHEESTR", "example": "Le registre du texte bascule dès que la connotation change de camp.", "exampleEnglish": "The text's register shifts as soon as the connotation changes sides.", "level": "C2", "category": "semantics" },
+            { "id": "soutenu", "french": "soutenu", "english": "formal, elevated (register)", "partOfSpeech": "adjective", "pronunciation": "soo-tuh-NU", "example": "Le compte rendu glisse vers un registre soutenu et connoté quand le ton devient critique.", "exampleEnglish": "The report slides into a formal, loaded register once the tone turns critical.", "level": "C2", "category": "semantics" },
+            { "id": "familier", "french": "familier", "english": "informal, colloquial", "partOfSpeech": "adjective", "pronunciation": "fah-mee-LYAY", "example": "Le mot familier « bagnole » n'a pas la connotation neutre de « voiture ».", "exampleEnglish": "The colloquial word 'bagnole' does not have the neutral connotation of 'voiture'.", "level": "C2", "category": "semantics" },
+            { "id": "valorisant", "french": "valorisant", "english": "flattering, positively loaded (of a word)", "partOfSpeech": "adjective", "pronunciation": "vah-loh-ree-ZAHN", "example": "« Économe » reste valorisant là où « radin » humilie.", "exampleEnglish": "'Économe' stays flattering where 'radin' humiliates.", "level": "C2", "category": "semantics" },
+            { "id": "devalorisant", "french": "dévalorisant", "english": "demeaning, negatively loaded (of a word)", "partOfSpeech": "adjective", "pronunciation": "day-vah-loh-ree-ZAHN", "example": "Le surnom était clairement dévalorisant, malgré le sourire qui l'accompagnait.", "exampleEnglish": "The nickname was clearly demeaning, despite the smile that came with it.", "level": "C2", "category": "semantics" },
+            { "id": "stigmatisant", "french": "stigmatisant", "english": "stigmatising (of language)", "partOfSpeech": "adjective", "pronunciation": "steeg-mah-tee-ZAHN", "example": "Ce vocabulaire stigmatisant a fini par disparaître de la presse sérieuse.", "exampleEnglish": "This stigmatising vocabulary eventually disappeared from serious journalism.", "level": "C2", "category": "semantics" },
+            { "id": "le-mot-tabou", "french": "le mot tabou", "english": "the taboo word", "partOfSpeech": "expression", "pronunciation": "moh tah-BOO", "example": "La mort reste, pour beaucoup, le mot tabou que l'on remplace toujours.", "exampleEnglish": "Death remains, for many, the taboo word that is always replaced.", "level": "C2", "category": "semantics" },
+            { "id": "contourner", "french": "contourner", "english": "to get around, to sidestep (a word)", "partOfSpeech": "verb", "pronunciation": "kohn-toor-NAY", "example": "Elle contourne le mot qui dérange par un euphémisme bien choisi.", "exampleEnglish": "She gets around the uncomfortable word with a well-chosen euphemism.", "level": "C2", "category": "semantics" },
+            { "id": "attenuer", "french": "atténuer", "english": "to soften, to tone down", "partOfSpeech": "verb", "pronunciation": "ah-tay-nu-AY", "example": "L'euphémisme atténue ce qu'un mot plus direct rendrait brutal.", "exampleEnglish": "Euphemism softens what a more direct word would make brutal.", "level": "C2", "category": "semantics" },
+            { "id": "attenuation", "french": "l'atténuation", "english": "the softening, mitigation", "partOfSpeech": "noun", "gender": "f", "plural": "atténuations", "pronunciation": "ah-tay-nu-ah-SYON", "example": "L'atténuation se repère au choix des adjectifs, jamais à leur absence.", "exampleEnglish": "The softening shows in the choice of adjectives, never in their absence.", "level": "C2", "category": "semantics" },
+            { "id": "accentuer", "french": "accentuer", "english": "to emphasise, to intensify", "partOfSpeech": "verb", "pronunciation": "ahk-sahn-tu-AY", "example": "Le dysphémisme accentue au contraire la brutalité du fait.", "exampleEnglish": "Dysphemism, by contrast, accentuates the brutality of the fact.", "level": "C2", "category": "semantics" },
+            { "id": "orienter", "french": "orienter", "english": "to steer, to slant (coverage)", "partOfSpeech": "verb", "pronunciation": "oh-ryahn-TAY", "example": "Le choix d'un seul synonyme suffit à orienter tout un article.", "exampleEnglish": "The choice of a single synonym is enough to slant a whole article.", "level": "C2", "category": "semantics" },
+            { "id": "l-orientation", "french": "l'orientation", "english": "the slant, the bias (of a text)", "partOfSpeech": "noun", "gender": "f", "plural": "orientations", "pronunciation": "oh-ryahn-tah-SYON", "example": "L'orientation d'un texte se lit dans ses connotations plus que dans ses arguments.", "exampleEnglish": "A text's slant is read in its connotations more than in its arguments.", "level": "C2", "category": "semantics" },
+            { "id": "le-double-sens", "french": "le double sens", "english": "the double meaning", "partOfSpeech": "noun", "gender": "m", "plural": "doubles sens", "pronunciation": "doobl SAHNS", "example": "Le titre joue sur un double sens que la connotation seule permet de saisir.", "exampleEnglish": "The headline plays on a double meaning that only the connotation lets you grasp.", "level": "C2", "category": "semantics" },
+            { "id": "l-ambiguite", "french": "l'ambiguïté", "english": "ambiguity", "partOfSpeech": "noun", "gender": "f", "plural": "ambiguïtés", "pronunciation": "ahn-bee-gwee-TAY", "example": "L'ambiguïté du terme choisi sert parfois l'auteur mieux que la clarté.", "exampleEnglish": "The ambiguity of the chosen term sometimes serves the author better than clarity.", "level": "C2", "category": "semantics" },
+            { "id": "ambigu", "french": "ambigu", "english": "ambiguous", "partOfSpeech": "adjective", "pronunciation": "ahn-bee-GU", "example": "Le communiqué restait volontairement ambigu sur les responsabilités.", "exampleEnglish": "The statement remained deliberately ambiguous about responsibility.", "level": "C2", "category": "semantics" },
+            { "id": "litote", "french": "la litote", "english": "litotes, understatement", "partOfSpeech": "noun", "gender": "f", "plural": "litotes", "pronunciation": "lee-TOT", "example": "« Ce n'est pas très courageux » est une litote pour dénoncer une lâcheté.", "exampleEnglish": "\"That's not very brave\" is litotes for denouncing cowardice.", "level": "C2", "category": "semantics" },
+            { "id": "hyperbole", "french": "l'hyperbole", "english": "hyperbole", "partOfSpeech": "noun", "gender": "f", "plural": "hyperboles", "pronunciation": "ee-pehr-BOLL", "example": "L'hyperbole accentue la connotation péjorative jusqu'à la caricature.", "exampleEnglish": "Hyperbole intensifies the pejorative connotation to the point of caricature.", "level": "C2", "category": "semantics" },
+            { "id": "la-reformulation", "french": "la reformulation", "english": "the rephrasing, the restatement", "partOfSpeech": "noun", "gender": "f", "plural": "reformulations", "pronunciation": "ruh-for-mu-lah-SYON", "example": "Une reformulation neutre peut effacer toute la charge affective de l'original.", "exampleEnglish": "A neutral rephrasing can erase all the emotional loading of the original.", "level": "C2", "category": "semantics" },
+            { "id": "la-substitution-lexicale", "french": "la substitution lexicale", "english": "lexical substitution", "partOfSpeech": "expression", "pronunciation": "sub-stee-tu-syon lek-see-KAL", "example": "La substitution lexicale — un mot pour un autre — suffit à renverser le jugement du lecteur.", "exampleEnglish": "Lexical substitution — one word for another — is enough to reverse the reader's judgment.", "level": "C2", "category": "semantics" },
+            { "id": "le-choix-des-mots", "french": "le choix des mots", "english": "word choice", "partOfSpeech": "expression", "pronunciation": "shwah day MOH", "example": "Le choix des mots trahit toujours, un peu, le point de vue de celui qui écrit.", "exampleEnglish": "Word choice always betrays, a little, the viewpoint of the writer.", "level": "C2", "category": "semantics" },
+            { "id": "le-parti-pris", "french": "le parti pris", "english": "the bias, the one-sidedness", "partOfSpeech": "noun", "gender": "m", "plural": "partis pris", "pronunciation": "par-tee-PREE", "example": "Son parti pris se lit dans chaque adjectif qu'il choisit.", "exampleEnglish": "His bias can be read in every adjective he chooses.", "level": "C2", "category": "semantics" },
+            { "id": "le-sobriquet", "french": "le sobriquet", "english": "the nickname (often pejorative)", "partOfSpeech": "noun", "gender": "m", "plural": "sobriquets", "pronunciation": "soh-bree-KEH", "example": "Le sobriquet, souvent péjoratif, colle à un homme politique toute sa carrière.", "exampleEnglish": "A nickname, often pejorative, sticks to a politician for their whole career.", "level": "C2", "category": "semantics" },
+            { "id": "flatteur", "french": "flatteur", "english": "flattering", "partOfSpeech": "adjective", "pronunciation": "flah-TUHR", "example": "Le portrait, trop flatteur, sonnait presque comme une caricature inversée.", "exampleEnglish": "The portrait, too flattering, sounded almost like a caricature in reverse.", "level": "C2", "category": "semantics" },
+            { "id": "le-qualificatif", "french": "le qualificatif", "english": "the label, the descriptive term", "partOfSpeech": "noun", "gender": "m", "plural": "qualificatifs", "pronunciation": "kah-lee-fee-kah-TEEF", "example": "« Terroriste » et « combattant de la liberté » sont deux qualificatifs pour le même homme.", "exampleEnglish": "'Terroriste' and 'combattant de la liberté' are two labels for the same man.", "level": "C2", "category": "semantics" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Les adjectifs de jugement et leur place",
+              "body": "For a small set of French adjectives, position before or after the noun is not stylistic decoration — it selects which sense, and which connotation, the adjective carries. Before the noun, the adjective often turns figurative and evaluative; after it, literal and descriptive.",
+              "examples": [
+                { "french": "« Un grand homme » loue la grandeur morale ; « un homme grand » ne décrit que la taille.", "english": "'A great man' praises moral greatness; 'a tall man' only describes height." },
+                { "french": "« Un pauvre type » plaint ou méprise ; « un type pauvre » ne décrit qu'un revenu.", "english": "'A pathetic guy' pities or scorns; 'a poor guy' only describes an income." },
+                { "french": "« Ma propre maison » insiste sur la possession ; « ma maison propre » ne parle que de ménage.", "english": "'My own house' insists on ownership; 'my clean house' only speaks of housekeeping." },
+                { "french": "« Un certain charme » suggère un charme réel mais difficile à nommer ; « un charme certain » l'affirme sans réserve.", "english": "'A certain charm' suggests a real but hard-to-name charm; 'an undeniable charm' states it flatly." },
+                { "french": "« Mon ancien professeur » désigne un ancien poste ; « mon professeur ancien » décrirait son âge.", "english": "'My former teacher' names a past role; 'my elderly teacher' would describe his age." }
+              ],
+              "tip": "Before a small set of adjectives (grand, pauvre, propre, certain, ancien, brave, seul...), position is not stylistic ornament — it selects the sense and the connotation."
+            },
+            {
+              "heading": "Les guillemets de distance et les marqueurs de doute",
+              "body": "Quotation marks around an ordinary word (guillemets de distanciation) signal that the writer refuses to own the word's connotation — often irony or doubt about its legitimacy. « Soi-disant » and « prétendument » do the same job with grammar alone, planting scepticism before a noun without a single explicit judgment.",
+              "examples": [
+                { "french": "Le journal parle des « rebelles », entre guillemets : la distance marque le doute sur la légitimité du mot.", "english": "The newspaper writes of the 'rebels', in quotation marks: the distance signals doubt about the word's legitimacy." },
+                { "french": "« Ce fameux rapport » sonne ironique là où « ce rapport important » resterait neutre.", "english": "'This famous report' sounds ironic where 'this important report' would stay neutral." },
+                { "french": "L'article défini dans « la fameuse promesse » suppose déjà une lecture partagée, souvent moqueuse.", "english": "The definite article in 'the famous promise' already assumes a shared, often mocking reading." },
+                { "french": "Employer « soi-disant » avant un nom suffit à installer le doute sans l'affirmer.", "english": "Using 'soi-disant' before a noun is enough to plant doubt without stating it." },
+                { "french": "« Prétendument » fonctionne comme une guillemet grammaticale : il connote le scepticisme du locuteur.", "english": "'Prétendument' works like a grammatical scare-quote: it connotes the speaker's scepticism." }
+              ],
+              "tip": "Guillemets de distanciation, « soi-disant » and « prétendument » let a writer quote a word while refusing to own its connotation."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "c2_u17_l02_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. Which relation between the two words is described?",
+              "french": "« Économe » loue la vertu, « radin » la condamne, pour un seul et même comportement.",
+              "options": ["Même dénotation, connotations opposées", "Antonymie graduelle", "Synonymie parfaite", "Paronymie"],
+              "answer": "Même dénotation, connotations opposées"
+            },
+            {
+              "id": "c2_u17_l02_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. What device is being described?",
+              "french": "« Un plan social » adoucit la réalité qu'il désigne : des licenciements.",
+              "options": ["L'euphémisme", "Le dysphémisme", "La litote", "L'hyperbole"],
+              "answer": "L'euphémisme"
+            },
+            {
+              "id": "c2_u17_l02_li03",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Le choix des mots trahit toujours, un peu, le point de vue de celui qui écrit.",
+              "answer": "Le choix des mots trahit toujours, un peu, le point de vue de celui qui écrit.",
+              "acceptedAnswers": ["le choix des mots trahit toujours un peu le point de vue de celui qui ecrit"]
+            },
+            {
+              "id": "c2_u17_l02_li04",
+              "type": "dictation",
+              "prompt": "Dictation: write down this sentence exactly.",
+              "french": "La dénotation se vérifie dans le dictionnaire ; la connotation se lit dans le contexte.",
+              "answer": "La dénotation se vérifie dans le dictionnaire ; la connotation se lit dans le contexte.",
+              "acceptedAnswers": ["la denotation se verifie dans le dictionnaire la connotation se lit dans le contexte"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "c2_u17_l02_sp01",
+              "type": "speak",
+              "prompt": "Say these two near-synonyms with opposite emotional colouring.",
+              "french": "Un cheval, un canasson : même animal, mépris en plus.",
+              "english": "A horse, a nag: same animal, with contempt added.",
+              "tip": "Let « canasson » land harder and flatter than « cheval » — the connotation should be audible in the tone."
+            },
+            {
+              "id": "c2_u17_l02_sp02",
+              "type": "speak",
+              "prompt": "Deliver this ironic use of guillemets de distanciation.",
+              "french": "Le journal parle des « rebelles », entre guillemets.",
+              "english": "The newspaper writes of the 'rebels', in quotation marks.",
+              "tip": "Make the air-quotes audible: a tiny pause and a flatter pitch on « rebelles » signals the writer's distance."
+            },
+            {
+              "id": "c2_u17_l02_sp03",
+              "type": "speak",
+              "prompt": "Contrast these two adjective placements clearly.",
+              "french": "Un grand homme n'est pas forcément un homme grand.",
+              "english": "A great man is not necessarily a tall man.",
+              "tip": "Stress « grand homme » as one moral unit, then let « homme grand » fall flat and literal."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Deux journaux, un seul fait divers",
+              "french": "Le même vendredi, la même manifestation, deux journaux, deux vocabulaires.\nLe premier titre : « Des manifestants dénoncent la réforme devant le ministère ».\nLe second choisit : « Des émeutiers assiègent le ministère ».\nRien, pourtant, dans les faits bruts, ne distingue les deux scènes : une foule, des pancartes, quelques vitres brisées.\n« Manifestant » dénote une personne qui participe à une manifestation, ni plus ni moins.\n« Émeutier » dénote presque la même chose — mais sa connotation convoque aussitôt le désordre et la menace.\nLe premier article parle de « forces de l'ordre » ; le second, simplement, de « la police ».\nLà où l'un écrit qu'un homme a été « interpellé », l'autre affirme qu'il a été « arrêté musclé » — même dénotation officielle, charge affective opposée.\nAucun des deux titres ne ment, au sens strict : chaque mot dénote un fait vérifiable.\nMais la somme des connotations, phrase après phrase, construit deux réalités affectives incompatibles.\nLe lecteur pressé n'a pas le temps de vérifier chaque dénotation ; il retient la connotation, plus rapide, plus collante.\nC'est là tout le pouvoir — et tout le danger — du choix des mots en démocratie.\nUn bon lecteur de presse apprend à soustraire mentalement la connotation pour retrouver le fait nu.\nCe n'est pas un exercice de méfiance : c'est un exercice de lecture.\nCar le mot n'est jamais un simple contenant transparent : il porte toujours, en plus du fait, un jugement dissimulé.\nApprendre à le repérer, c'est apprendre à lire — vraiment lire — un journal.",
+              "english": "The same Friday, the same demonstration, two newspapers, two vocabularies.\nThe first headline: \"Protesters denounce the reform in front of the ministry.\"\nThe second chooses: \"Rioters lay siege to the ministry.\"\nYet nothing in the raw facts distinguishes the two scenes: a crowd, placards, a few broken windows.\n'Manifestant' (protester) denotes a person taking part in a demonstration, nothing more.\n'Émeutier' (rioter) denotes almost the same thing — but its connotation instantly summons disorder and threat.\nThe first article speaks of 'the forces of order'; the second, simply, of 'the police'.\nWhere one writes that a man was 'questioned', the other states he was 'roughly arrested' — the same official denotation, opposite emotional loading.\nNeither headline lies, strictly speaking: each word denotes a verifiable fact.\nBut the sum of the connotations, sentence after sentence, builds two incompatible emotional realities.\nThe hurried reader has no time to check every denotation; what sticks is the connotation, faster, stickier.\nThat is the whole power — and the whole danger — of word choice in a democracy.\nA good newspaper reader learns to mentally subtract the connotation to recover the bare fact.\nThis is not an exercise in suspicion: it is an exercise in reading.\nBecause a word is never a simple transparent container: alongside the fact, it always carries a hidden judgment.\nLearning to spot it is learning to read — truly read — a newspaper.",
+              "questions": [
+                {
+                  "id": "c2_u17_l02_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "What do 'manifestant' and 'émeutier' share, according to the passage?",
+                  "options": ["Roughly the same denotation, but opposite connotations", "Exactly the same connotation", "No relation at all", "They are perfect antonyms"],
+                  "answer": "Roughly the same denotation, but opposite connotations"
+                },
+                {
+                  "id": "c2_u17_l02_rd02",
+                  "type": "multipleChoice",
+                  "prompt": "What does the passage suggest a good newspaper reader should do?",
+                  "options": ["Mentally subtract the connotation to recover the bare fact", "Trust whichever paper uses more emotional language", "Ignore word choice entirely, since facts are facts", "Only ever read one newspaper"],
+                  "answer": "Mentally subtract the connotation to recover the bare fact"
+                },
+                {
+                  "id": "c2_u17_l02_rd03",
+                  "type": "trueFalse",
+                  "prompt": "According to the passage, one of the two newspapers is technically lying by choosing its vocabulary.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "c2_u17_l02_wr01",
+              "type": "translate",
+              "prompt": "Translate, choosing the meliorative word.",
+              "english": "'Économe' praises the same behaviour that 'radin' condemns.",
+              "answer": "« Économe » loue le même comportement que « radin » condamne.",
+              "acceptedAnswers": ["econome loue le meme comportement que radin condamne"]
+            },
+            {
+              "id": "c2_u17_l02_wr02",
+              "type": "arrangeWords",
+              "prompt": "Rebuild this sentence about word choice.",
+              "words": ["trahit", "peu,", "le", "de", "vue", "point", "écrit", "un", "toujours,", "qui", "celui", "mots", "des", "choix", "Le"],
+              "answer": "Le choix des mots trahit toujours, un peu, le point de vue de celui qui écrit",
+              "english": "Word choice always betrays, a little, the viewpoint of the writer."
+            },
+            {
+              "id": "c2_u17_l02_wr03",
+              "type": "fillBlank",
+              "prompt": "« Crever » est un ___ brutal pour « mourir ».",
+              "answer": "dysphémisme",
+              "tip": "The opposite of an euphémisme: a word chosen to sound harsher than the plain fact."
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "c2_u17_l02_pr01",
+              "type": "multipleChoice",
+              "prompt": "« Radin » is the ___ term for the trait « économe » names positively.",
+              "options": ["péjoratif", "mélioratif", "neutre", "technique"],
+              "answer": "péjoratif"
+            },
+            {
+              "id": "c2_u17_l02_pr02",
+              "type": "match",
+              "prompt": "Match each term with its meaning.",
+              "pairs": [
+                { "french": "la connotation", "english": "associated, variable shade of meaning" },
+                { "french": "la dénotation", "english": "literal, stable meaning" },
+                { "french": "l'euphémisme", "english": "softens an unpleasant reality" },
+                { "french": "le dysphémisme", "english": "deliberately harshens a term" }
+              ]
+            },
+            {
+              "id": "c2_u17_l02_pr03",
+              "type": "fillBlank",
+              "prompt": "Pour décrire seulement la taille, on dit « un homme ___ », et non « un grand homme ».",
+              "answer": "grand"
+            },
+            {
+              "id": "c2_u17_l02_pr04",
+              "type": "multipleChoice",
+              "prompt": "Which sentence uses guillemets de distanciation to cast doubt on a word?",
+              "options": ["Le journal parle des « rebelles », entre guillemets.", "Le journal parle des rebelles capturés hier soir.", "Le journal a publié un article sur les rebelles.", "Le journal cite un rebelle anonyme."],
+              "answer": "Le journal parle des « rebelles », entre guillemets."
+            },
+            {
+              "id": "c2_u17_l02_pr05",
+              "type": "translate",
+              "prompt": "Translate: The newspaper writes of the 'rebels', in quotation marks.",
+              "english": "The newspaper writes of the 'rebels', in quotation marks.",
+              "answer": "Le journal parle des « rebelles », entre guillemets.",
+              "acceptedAnswers": ["le journal parle des rebelles entre guillemets"]
+            },
+            {
+              "id": "c2_u17_l02_pr06",
+              "type": "trueFalse",
+              "prompt": "Adjective placement in French (grand, pauvre, propre, ancien...) can change both meaning and connotation.",
+              "options": ["True", "False"],
+              "answer": "True"
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "c2_u17_l02_qz01",
+              "type": "multipleChoice",
+              "prompt": "La dénotation d'un mot est...",
+              "options": ["son sens stable, vérifiable dans le dictionnaire", "son sens selon qui l'emploie", "toujours négative", "un synonyme parfait"],
+              "answer": "son sens stable, vérifiable dans le dictionnaire"
+            },
+            {
+              "id": "c2_u17_l02_qz02",
+              "type": "fillBlank",
+              "prompt": "« Un plan social » est un ___ pour « des licenciements ».",
+              "answer": "euphémisme"
+            },
+            {
+              "id": "c2_u17_l02_qz03",
+              "type": "multipleChoice",
+              "prompt": "Which pair shows meliorative vs pejorative connotation for the same trait?",
+              "options": ["Économe / radin", "Chaise / fauteuil", "Voiture / roue", "Chaud / froid"],
+              "answer": "Économe / radin"
+            },
+            {
+              "id": "c2_u17_l02_qz04",
+              "type": "trueFalse",
+              "prompt": "Guillemets de distanciation signal that the writer fully endorses the quoted word.",
+              "options": ["True", "False"],
+              "answer": "False"
+            },
+            {
+              "id": "c2_u17_l02_qz05",
+              "type": "multipleChoice",
+              "prompt": "« Un homme pauvre » vs « un pauvre homme » — what changes?",
+              "options": ["The connotation and, partly, the meaning, depending on placement", "Nothing at all", "Only the gender", "Only the plural form"],
+              "answer": "The connotation and, partly, the meaning, depending on placement"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c2_u17_l03",
+      "level": "C2",
+      "unit": 17,
+      "title": "La polysémie en contexte",
+      "description": "One word, many faces: polysemy versus homonymy, how senses drift and branch, and how context resolves ambiguity before you even notice it.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Polysémie, homonymie, homographie : trois manières de partager un mot",
+              "body": "La polysémie is one word carrying several related senses that share a historical core. L'homonymie is different: two etymologically unrelated words that simply happen to share the same form. Within homonymy, homographes share spelling, homophones share sound — and a pair can be one, the other, or both at once.",
+              "examples": [
+                { "french": "« Feuille » désigne la feuille d'un arbre, une feuille de papier, une feuille de paie : un seul mot, un noyau de sens commun — c'est la polysémie.", "english": "'Feuille' denotes a tree leaf, a sheet of paper, a payslip: one word, one shared core of meaning — that is polysemy." },
+                { "french": "« Le livre » et « la livre » s'écrivent presque pareil mais n'ont aucune parenté de sens : ce sont des homonymes.", "english": "'Le livre' and 'la livre' are spelled almost alike but share no kinship of meaning: they are homonyms." },
+                { "french": "« Tant » et « temps » se prononcent de façon identique sans s'écrire de même : ce sont des homophones, non des homographes.", "english": "'Tant' and 'temps' sound identical without being spelled alike: they are homophones, not homographs." },
+                { "french": "« Les poules couvent » et « le couvent est fermé » cachent un homographe : même orthographe, prononciation différente.", "english": "'Les poules couvent' (the hens brood) and 'le couvent est fermé' (the convent is closed) hide a homograph: same spelling, different pronunciation." },
+                { "french": "La polysémie enrichit un mot ; l'homonymie ne fait que loger deux mots différents dans la même enveloppe.", "english": "Polysemy enriches one word; homonymy merely houses two different words in the same shell." }
+              ],
+              "tip": "Quick test: trace the etymology. If both senses go back to the same root, it is polysemy; if not, it is homonymy."
+            },
+            {
+              "heading": "Extension et restriction : comment un mot change de sens",
+              "body": "A word's senses radiate from a literal core through l'extension de sens (broadening) or la restriction de sens (narrowing), usually driven by métaphore (resemblance) or métonymie (contiguity — container for content, part for whole). Each dérivé sense keeps a faint but real link to the sens premier.",
+              "examples": [
+                { "french": "« Bureau » désignait d'abord le tissu, puis la table, puis la pièce, puis l'organisme : une longue extension de sens.", "english": "'Bureau' first meant the cloth, then the table, then the room, then the institution: a long semantic extension." },
+                { "french": "« Panier » s'est restreint, dans « mettre au panier », au seul sens figuré de rejeter.", "english": "'Panier' narrowed, in 'mettre au panier', to the sole figurative sense of rejecting." },
+                { "french": "La métaphore fait glisser « racine » du végétal vers « racine carrée » ou « racine d'un mot ».", "english": "Metaphor slides 'racine' from the plant world to 'square root' or 'root of a word'." },
+                { "french": "La métonymie fait dire « boire un verre » pour « boire le contenu du verre » : le contenant pour le contenu.", "english": "Metonymy makes us say 'drink a glass' for 'drink the contents of the glass': container for content." },
+                { "french": "Chaque sens dérivé garde un lien, ténu mais réel, avec le sens premier du mot.", "english": "Each derived sense keeps a link, faint but real, with the word's original sense." }
+              ],
+              "tip": "When several senses of a word feel connected, look for the metaphor or metonymy that first built the bridge between them."
+            },
+            {
+              "heading": "Désambiguïser : le contexte tranche",
+              "body": "In real speech, polysemy is rarely a problem: le contexte — and more precisely le co-texte, the words immediately surrounding a term — actualise (activates) the intended acception before ambiguity is even noticed. Dictionaries formalise this by numbering acceptions under one entry; headlines and wordplay deliberately delay disambiguation for effect.",
+              "examples": [
+                { "french": "« Avocat » a deux acceptions : le fruit et le juriste ; seul le contexte tranche.", "english": "'Avocat' has two senses: the fruit and the lawyer; only context settles it." },
+                { "french": "Dans « il a plaidé devant la cour », le contexte actualise immédiatement le sens juridique.", "english": "In 'he pleaded before the court', the context immediately activates the legal sense." },
+                { "french": "Un dictionnaire numérote les acceptions d'un mot polysémique, du sens premier au sens le plus dérivé.", "english": "A dictionary numbers the senses of a polysemous word, from the primary sense to the most derived one." },
+                { "french": "Les titres de presse jouent volontiers sur la polysémie pour surprendre le lecteur en une ligne.", "english": "Press headlines happily play on polysemy to surprise the reader in a single line." },
+                { "french": "« Il a perdu la tête, mais gardé son chapeau » : la phrase désambiguïse elle-même son propre jeu de mots.", "english": "'He lost his head but kept his hat': the sentence itself disambiguates its own pun." }
+              ],
+              "tip": "In real speech, polysemy is almost never a problem — the co-text resolves the sense before you even notice the ambiguity existed."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "la-polysemie", "french": "la polysémie", "english": "polysemy (multiple related senses in one word)", "partOfSpeech": "noun", "gender": "f", "pronunciation": "poh-lee-say-MEE", "example": "La polysémie de « feuille » réunit l'arbre, le papier et la paie sous un seul mot.", "exampleEnglish": "The polysemy of 'feuille' unites the tree, the paper and the payslip under a single word.", "level": "C2", "category": "semantics" },
+            { "id": "polysemique", "french": "polysémique", "english": "polysemous, having several related senses", "partOfSpeech": "adjective", "pronunciation": "poh-lee-say-MEEK", "example": "« Bureau » est un mot profondément polysémique.", "exampleEnglish": "'Bureau' is a deeply polysemous word.", "level": "C2", "category": "semantics" },
+            { "id": "monosemique", "french": "monosémique", "english": "monosemous, having only one sense", "partOfSpeech": "adjective", "pronunciation": "moh-noh-say-MEEK", "example": "Un terme technique se veut souvent monosémique, sans ambiguïté possible.", "exampleEnglish": "A technical term is often meant to be monosemous, with no possible ambiguity.", "level": "C2", "category": "semantics" },
+            { "id": "l-homonymie", "french": "l'homonymie", "english": "homonymy (unrelated words sharing a form)", "partOfSpeech": "noun", "gender": "f", "pronunciation": "oh-moh-nee-MEE", "example": "L'homonymie loge deux mots sans parenté dans la même enveloppe sonore.", "exampleEnglish": "Homonymy houses two unrelated words in the same sound-shell.", "level": "C2", "category": "semantics" },
+            { "id": "l-homonyme", "french": "l'homonyme", "english": "the homonym", "partOfSpeech": "noun", "gender": "m", "plural": "homonymes", "pronunciation": "oh-moh-NEEM", "example": "« Le livre » et « la livre » sont des homonymes, non les deux sens d'un même mot.", "exampleEnglish": "'Le livre' and 'la livre' are homonyms, not two senses of the same word.", "level": "C2", "category": "semantics" },
+            { "id": "l-homographe", "french": "l'homographe", "english": "the homograph (identical spelling)", "partOfSpeech": "noun", "gender": "m", "plural": "homographes", "pronunciation": "oh-moh-GRAHF", "example": "« Les poules couvent » et « le couvent est fermé » cachent un homographe verbal.", "exampleEnglish": "'Les poules couvent' and 'le couvent est fermé' hide a verbal homograph.", "level": "C2", "category": "semantics" },
+            { "id": "homographe-adj", "french": "homographe", "english": "homographic, identical in spelling", "partOfSpeech": "adjective", "pronunciation": "oh-moh-GRAHF", "example": "« Est » (le point cardinal) et « est » (le verbe être) sont homographes et homophones à la fois.", "exampleEnglish": "'Est' (the compass point) and 'est' (the verb être) are both homographic and homophonic.", "level": "C2", "category": "semantics" },
+            { "id": "l-homophonie", "french": "l'homophonie", "english": "homophony (identity of sound)", "partOfSpeech": "noun", "gender": "f", "plural": "homophonies", "pronunciation": "oh-moh-fo-NEE", "example": "L'homophonie multiplie les calembours possibles en français.", "exampleEnglish": "Homophony multiplies the possible puns in French.", "level": "C2", "category": "semantics" },
+            { "id": "homophone", "french": "homophone", "english": "homophonous, identical in sound", "partOfSpeech": "adjective", "pronunciation": "o-mo-FON", "example": "« Verre », « vert » et « vers » sont homophones sans être homographes.", "exampleEnglish": "'Verre', 'vert' and 'vers' are homophones without being homographs.", "level": "C2", "category": "semantics" },
+            { "id": "le-sens-propre", "french": "le sens propre", "english": "the literal meaning", "partOfSpeech": "expression", "pronunciation": "sahns PROHPR", "example": "Au sens propre, « dévorer » signifie manger avec voracité.", "exampleEnglish": "Literally, 'dévorer' means to eat voraciously.", "level": "C2", "category": "semantics" },
+            { "id": "le-sens-figure", "french": "le sens figuré", "english": "the figurative meaning", "partOfSpeech": "expression", "pronunciation": "sahns fee-gu-RAY", "example": "Au sens figuré, « dévorer un livre » signifie le lire avec passion.", "exampleEnglish": "In the figurative sense, 'dévorer un livre' means to read it avidly.", "level": "C2", "category": "semantics" },
+            { "id": "l-acception", "french": "l'acception", "english": "the sense, the particular meaning (of a word)", "partOfSpeech": "noun", "gender": "f", "plural": "acceptions", "pronunciation": "ahk-sep-SYON", "example": "« Avocat » a deux acceptions bien distinctes : le fruit et le juriste.", "exampleEnglish": "'Avocat' has two quite distinct senses: the fruit and the lawyer.", "level": "C2", "category": "semantics" },
+            { "id": "le-sens-premier", "french": "le sens premier", "english": "the primary, original sense", "partOfSpeech": "expression", "pronunciation": "sahns pruh-MYAY", "example": "Le sens premier de « racine » reste botanique ; tout le reste en dérive.", "exampleEnglish": "The primary sense of 'racine' remains botanical; everything else derives from it.", "level": "C2", "category": "semantics" },
+            { "id": "le-sens-derive", "french": "le sens dérivé", "english": "the derived sense", "partOfSpeech": "expression", "pronunciation": "sahns day-ree-VAY", "example": "« Racine carrée » est un sens dérivé, construit par métaphore.", "exampleEnglish": "'Racine carrée' (square root) is a derived sense, built by metaphor.", "level": "C2", "category": "semantics" },
+            { "id": "l-extension-de-sens", "french": "l'extension de sens", "english": "semantic extension, broadening of meaning", "partOfSpeech": "expression", "pronunciation": "ek-stahn-syon duh SAHNS", "example": "« Bureau » a connu une longue extension de sens, du tissu à l'organisme.", "exampleEnglish": "'Bureau' underwent a long semantic extension, from the cloth to the institution.", "level": "C2", "category": "semantics" },
+            { "id": "la-restriction-de-sens", "french": "la restriction de sens", "english": "semantic narrowing", "partOfSpeech": "expression", "pronunciation": "res-treek-syon duh SAHNS", "example": "« Panier », dans « mettre au panier », subit une restriction de sens vers le seul rejet.", "exampleEnglish": "'Panier', in 'mettre au panier', undergoes a semantic narrowing to the sole sense of rejection.", "level": "C2", "category": "semantics" },
+            { "id": "le-glissement", "french": "le glissement", "english": "the shift, slide (of meaning)", "partOfSpeech": "noun", "gender": "m", "plural": "glissements", "pronunciation": "glees-MAHN", "example": "Un glissement de sens rapproche peu à peu « problème » et « défi ».", "exampleEnglish": "A shift in meaning gradually brings 'problème' and 'défi' closer together.", "level": "C2", "category": "semantics" },
+            { "id": "metaphore", "french": "la métaphore", "english": "metaphor", "partOfSpeech": "noun", "gender": "f", "plural": "métaphores", "pronunciation": "may-tah-FOR", "example": "La métaphore fait glisser « racine » du végétal vers l'algèbre.", "exampleEnglish": "Metaphor slides 'racine' from the plant world into algebra.", "level": "C2", "category": "semantics" },
+            { "id": "la-metonymie", "french": "la métonymie", "english": "metonymy (naming by contiguity)", "partOfSpeech": "noun", "gender": "f", "plural": "métonymies", "pronunciation": "may-to-nee-MEE", "example": "« Boire un verre » est une métonymie banale : le contenant pour le contenu.", "exampleEnglish": "'Boire un verre' is a commonplace metonymy: container for content.", "level": "C2", "category": "semantics" },
+            { "id": "la-synecdoque", "french": "la synecdoque", "english": "synecdoche (the part for the whole)", "partOfSpeech": "noun", "gender": "f", "plural": "synecdoques", "pronunciation": "see-nek-DOK", "example": "« Toutes les voiles rentrèrent au port » est une synecdoque : la partie pour le tout.", "exampleEnglish": "'All the sails came back to port' is a synecdoche: the part for the whole.", "level": "C2", "category": "semantics" },
+            { "id": "desambiguiser", "french": "désambiguïser", "english": "to disambiguate", "partOfSpeech": "verb", "pronunciation": "day-zahn-bee-gwee-ZAY", "example": "Le contexte suffit presque toujours à désambiguïser un mot polysémique.", "exampleEnglish": "Context is almost always enough to disambiguate a polysemous word.", "level": "C2", "category": "semantics" },
+            { "id": "la-desambiguisation", "french": "la désambiguïsation", "english": "disambiguation", "partOfSpeech": "noun", "gender": "f", "pronunciation": "day-zahn-bee-gwee-zah-SYON", "example": "La désambiguïsation automatique reste un défi pour les logiciels de traduction.", "exampleEnglish": "Automatic disambiguation remains a challenge for translation software.", "level": "C2", "category": "semantics" },
+            { "id": "le-contexte", "french": "le contexte", "english": "the context", "partOfSpeech": "noun", "gender": "m", "plural": "contextes", "pronunciation": "kohn-TEKST", "example": "Le contexte tranche presque toujours entre les acceptions possibles d'un mot.", "exampleEnglish": "Context almost always settles which sense of a word is meant.", "level": "C2", "category": "semantics" },
+            { "id": "le-co-texte", "french": "le co-texte", "english": "the co-text (the surrounding words themselves)", "partOfSpeech": "noun", "gender": "m", "pronunciation": "koh-TEKST", "example": "Le co-texte suffit souvent à lever l'ambiguïté, sans même connaître la situation.", "exampleEnglish": "The co-text is often enough to resolve ambiguity, even without knowing the situation.", "level": "C2", "category": "semantics" },
+            { "id": "l-entree-de-dictionnaire", "french": "l'entrée de dictionnaire", "english": "the dictionary entry", "partOfSpeech": "expression", "pronunciation": "ahn-tray duh deek-syo-NEHR", "example": "Une seule entrée de dictionnaire peut numéroter dix acceptions différentes.", "exampleEnglish": "A single dictionary entry can number ten different senses.", "level": "C2", "category": "semantics" },
+            { "id": "ambigu", "french": "ambigu", "english": "ambiguous", "partOfSpeech": "adjective", "pronunciation": "ahn-bee-GU", "example": "Isolé de son contexte, le mot reste résolument ambigu.", "exampleEnglish": "Isolated from its context, the word remains resolutely ambiguous.", "level": "C2", "category": "semantics" },
+            { "id": "lever-l-ambiguite", "french": "lever l'ambiguïté", "english": "to resolve the ambiguity", "partOfSpeech": "expression", "pronunciation": "luh-VAY lahn-bee-gwee-TAY", "example": "Une seule phrase de contexte suffit parfois à lever l'ambiguïté.", "exampleEnglish": "A single sentence of context is sometimes enough to resolve the ambiguity.", "level": "C2", "category": "semantics" },
+            { "id": "l-etymon", "french": "l'étymon", "english": "the etymon (the historical root form)", "partOfSpeech": "noun", "gender": "m", "plural": "étymons", "pronunciation": "ay-tee-MOHN", "example": "Le latin « caput » est l'étymon commun de « chef » et de « capital ».", "exampleEnglish": "The Latin 'caput' is the common etymon of 'chef' and 'capital'.", "level": "C2", "category": "semantics" },
+            { "id": "deriver", "french": "dériver", "english": "to derive, to stem (from a common source)", "partOfSpeech": "verb", "pronunciation": "day-ree-VAY", "example": "Tous les sens d'un mot polysémique dérivent, de proche en proche, d'un même noyau.", "exampleEnglish": "All the senses of a polysemous word derive, step by step, from a single core.", "level": "C2", "category": "semantics" },
+            { "id": "la-derivation-semantique", "french": "la dérivation sémantique", "english": "semantic derivation", "partOfSpeech": "expression", "pronunciation": "day-ree-vah-syon say-mahn-TEEK", "example": "La dérivation sémantique explique comment « bureau » a fini par désigner une administration.", "exampleEnglish": "Semantic derivation explains how 'bureau' came to designate an administration.", "level": "C2", "category": "semantics" },
+            { "id": "actualiser", "french": "actualiser", "english": "to activate, to bring out (a sense, in context)", "partOfSpeech": "verb", "pronunciation": "ahk-tu-ah-lee-ZAY", "example": "La phrase actualise aussitôt le sens juridique d'« avocat », pas le sens botanique.", "exampleEnglish": "The sentence immediately activates the legal sense of 'avocat', not the botanical one.", "level": "C2", "category": "semantics" },
+            { "id": "l-actualisation-du-sens", "french": "l'actualisation du sens", "english": "the contextual activation of a sense", "partOfSpeech": "expression", "pronunciation": "ahk-tu-ah-lee-zah-syon du SAHNS", "example": "L'actualisation du sens se joue en une fraction de seconde, sans effort conscient.", "exampleEnglish": "The activation of meaning happens in a fraction of a second, with no conscious effort.", "level": "C2", "category": "semantics" },
+            { "id": "trancher", "french": "trancher", "english": "to settle, to decide (between two senses)", "partOfSpeech": "verb", "pronunciation": "trahn-SHAY", "example": "Seul le contexte tranche entre les deux sens possibles du mot.", "exampleEnglish": "Only the context settles which of the two possible senses is meant.", "level": "C2", "category": "semantics" },
+            { "id": "la-richesse-polysemique", "french": "la richesse polysémique", "english": "polysemic richness", "partOfSpeech": "expression", "pronunciation": "ree-SHESS poh-lee-say-MEEK", "example": "Les poètes exploitent la richesse polysémique d'un seul mot pour dire deux choses à la fois.", "exampleEnglish": "Poets exploit a single word's polysemic richness to say two things at once.", "level": "C2", "category": "semantics" },
+            { "id": "jouer-sur-la-polysemie", "french": "jouer sur la polysémie", "english": "to play on the polysemy (of a word)", "partOfSpeech": "expression", "pronunciation": "zhoo-AY sur lah poh-lee-say-MEE", "example": "Le titre joue sur la polysémie de « voler », entre l'oiseau et le vol.", "exampleEnglish": "The headline plays on the polysemy of 'voler', between flying and stealing.", "level": "C2", "category": "semantics" },
+            { "id": "calembour", "french": "le calembour", "english": "a pun", "partOfSpeech": "noun", "gender": "m", "plural": "calembours", "pronunciation": "kah-lahn-BOOR", "example": "Le calembour repose ici sur une polysémie plutôt que sur une homophonie.", "exampleEnglish": "The pun here rests on polysemy rather than on homophony.", "level": "C2", "category": "semantics" },
+            { "id": "jeu-de-mots", "french": "un jeu de mots", "english": "wordplay", "partOfSpeech": "noun", "gender": "m", "plural": "jeux de mots", "pronunciation": "zhuh duh MOH", "example": "Ce jeu de mots ne fonctionne qu'à l'écrit, grâce à l'homographie.", "exampleEnglish": "This piece of wordplay only works in writing, thanks to the homography.", "level": "C2", "category": "semantics" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Les compléments et relatives qui actualisent le sens",
+              "body": "A prepositional complement (de + noun) or a relative clause is often the only grammatical signal needed to select the right acception of a polysemous noun. « La cour de récréation » and « la cour de cassation » share a noun but never a referent — the complement alone does the disambiguating work.",
+              "examples": [
+                { "french": "La cour de récréation résonnait de cris ; la cour de cassation, elle, ne résonne jamais.", "english": "The playground rang with shouts; the Court of Cassation, for its part, never rings with anything." },
+                { "french": "Il a plaidé sa cause devant la cour, cette fois au sens judiciaire du terme.", "english": "He pleaded his case before the court, this time in the judicial sense of the word." },
+                { "french": "Le bureau du directeur n'est pas le Bureau international du travail.", "english": "The director's office is not the International Labour Office." },
+                { "french": "La feuille qui recouvrait le trottoir n'était pas la feuille qu'il devait signer.", "english": "The leaf covering the pavement was not the sheet he had to sign." },
+                { "french": "Le complément « de justice », « de récréation » ou « des comptes » suffit, à lui seul, à choisir le bon sens de « cour ».", "english": "The complement 'de justice', 'de récréation' or 'des comptes' alone is enough to pick the right sense of 'cour'." }
+              ],
+              "tip": "Before assuming a word is ambiguous, check its complement or relative clause — French usually disambiguates in the very next few words."
+            },
+            {
+              "heading": "Le déterminant et le genre : la clé des homonymes",
+              "body": "A small, closed set of French nouns exists in two genders with two unrelated meanings — le/la is not grammatical decoration here, it is the entire distinction. Learn this list and you will never again confuse le tour with la tour, or le poste with la poste.",
+              "examples": [
+                { "french": "Le tour du monde en quatre-vingts jours n'a rien à voir avec la tour Eiffel.", "english": "Around the World in Eighty Days has nothing to do with the Eiffel Tower." },
+                { "french": "Il travaille à la poste ; il a pris son poste à neuf heures.", "english": "He works at the post office; he started his post at nine o'clock." },
+                { "french": "Le voile de la mariée n'est pas la voile du bateau.", "english": "The bride's veil is not the boat's sail." },
+                { "french": "Suivre la mode n'est pas la même chose que choisir un mode d'emploi.", "english": "Following fashion is not the same as choosing an instruction manual." },
+                { "french": "Le manche du couteau et la Manche que l'on traverse en ferry : seul l'article distingue les deux.", "english": "The handle of the knife and the Channel one crosses by ferry: only the article distinguishes the two." }
+              ],
+              "tip": "For this closed set of French nouns, grammatical gender alone carries the meaning — always check le or la before you translate."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "c2_u17_l03_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. Which relation links these two words?",
+              "french": "« Le livre » et « la livre ».",
+              "options": ["Homonymie — deux mots sans parenté de sens", "Polysémie — un seul mot, sens dérivés", "Synonymie", "Antonymie"],
+              "answer": "Homonymie — deux mots sans parenté de sens"
+            },
+            {
+              "id": "c2_u17_l03_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. What relation is being described?",
+              "french": "« Feuille » désigne l'arbre, le papier et la paie, à partir d'un même noyau de sens.",
+              "options": ["Polysémie", "Homonymie", "Homographie sans polysémie", "Paronymie"],
+              "answer": "Polysémie"
+            },
+            {
+              "id": "c2_u17_l03_li03",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Seul le contexte tranche entre les deux sens possibles du mot.",
+              "answer": "Seul le contexte tranche entre les deux sens possibles du mot.",
+              "acceptedAnswers": ["seul le contexte tranche entre les deux sens possibles du mot"]
+            },
+            {
+              "id": "c2_u17_l03_li04",
+              "type": "dictation",
+              "prompt": "Dictation: write down this sentence exactly.",
+              "french": "Le tour du monde en quatre-vingts jours n'a rien à voir avec la tour Eiffel.",
+              "answer": "Le tour du monde en quatre-vingts jours n'a rien à voir avec la tour Eiffel.",
+              "acceptedAnswers": ["le tour du monde en quatre-vingts jours n'a rien a voir avec la tour eiffel", "le tour du monde en quatre vingts jours na rien a voir avec la tour eiffel"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "c2_u17_l03_sp01",
+              "type": "speak",
+              "prompt": "Contrast this classic gender-based homonym pair clearly.",
+              "french": "Il a pris son poste à la poste, à neuf heures précises.",
+              "english": "He started his post at the post office, at nine o'clock sharp.",
+              "tip": "Lean slightly on the articles « son » and « la » — in French, gender alone carries the entire distinction here."
+            },
+            {
+              "id": "c2_u17_l03_sp02",
+              "type": "speak",
+              "prompt": "Deliver this line so the pun lands on the second half.",
+              "french": "Il a perdu la tête, mais gardé son chapeau.",
+              "english": "He lost his head, but kept his hat.",
+              "tip": "Pause a beat after « tête » — the second half resolves the ambiguity retroactively."
+            },
+            {
+              "id": "c2_u17_l03_sp03",
+              "type": "speak",
+              "prompt": "Read this metaphor extension aloud, tracing the shift.",
+              "french": "La métaphore fait glisser « racine » du végétal vers l'algèbre.",
+              "english": "Metaphor slides 'racine' from the plant world into algebra.",
+              "tip": "Stress « glisser » — the verb itself performs the sliding it describes."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "L'avocat, la cour et le mot qui se déguise",
+              "french": "Un mot n'a jamais un seul visage ; il en change selon la phrase qui l'habille.\nPrenez « avocat » : sans contexte, impossible de savoir s'il s'agit d'un fruit ou d'un juriste.\n« Il a mangé un avocat » et « il a consulté un avocat » ne partagent qu'une suite de lettres.\nLe co-texte — les quelques mots qui entourent le terme — suffit presque toujours à trancher, avant même que le lecteur ne s'aperçoive qu'il y avait matière à hésiter.\nCe mécanisme s'appelle la désambiguïsation, et il fonctionne en une fraction de seconde.\nIl en va autrement pour « la cour » et « le cours » : ici, l'oreille seule ne suffit plus.\n« La cour de récréation » et « le cours de mathématiques » sonnent presque pareil, mais l'article et le genre les séparent net.\nLe journaliste habile s'amuse de cette fragilité : un titre bien construit joue sur la polysémie pour surprendre en une ligne.\n« La banque cède du terrain » : parle-t-on de l'établissement financier ou de la rive d'un fleuve ?\nLe lecteur hésite une seconde, sourit, puis referme le journal — le calembour a fait son office.\nCette ambiguïté n'est pas un défaut de la langue ; c'est une ressource que la littérature exploite depuis toujours.\nUn même vers peut activer deux sens à la fois, sans jamais trancher entre eux — c'est là toute la richesse polysémique du français.\nLe traducteur, lui, n'a pas ce luxe : il doit choisir, presque toujours, un seul des deux sens.\nCe qu'il perd d'un côté, un bon traducteur tente de le regagner ailleurs, par un jeu de mots équivalent.\nComprendre la polysémie, ce n'est donc pas seulement éviter les malentendus.\nC'est apprendre à entendre, sous un seul mot, tous les mots qu'il pourrait être.",
+              "english": "A word never has only one face; it changes according to the sentence that dresses it.\nTake 'avocat': without context, it is impossible to know whether it means the fruit or the lawyer.\n'He ate an avocado' and 'he consulted a lawyer' share only a string of letters.\nThe co-text — the few words surrounding the term — is almost always enough to settle it, before the reader even notices there was room to hesitate.\nThis mechanism is called disambiguation, and it works in a fraction of a second.\nThings are different for 'la cour' and 'le cours': here, the ear alone is no longer enough.\n'The playground' and 'the mathematics class' sound almost alike, but the article and the gender separate them cleanly.\nThe skilful journalist enjoys this fragility: a well-built headline plays on polysemy to surprise in a single line.\n'The bank is giving up ground': are we talking about the financial institution or the edge of a river?\nThe reader hesitates a second, smiles, then closes the paper — the pun has done its work.\nThis ambiguity is not a flaw in the language; it is a resource literature has always exploited.\nA single line of verse can activate two senses at once, without ever settling between them — that is the whole polysemic richness of French.\nThe translator, however, does not have that luxury: they must almost always choose only one of the two senses.\nWhat is lost on one side, a good translator tries to win back elsewhere, with an equivalent piece of wordplay.\nUnderstanding polysemy is therefore not only about avoiding misunderstandings.\nIt is learning to hear, beneath a single word, all the words it could be.",
+              "questions": [
+                {
+                  "id": "c2_u17_l03_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "According to the passage, what usually resolves the ambiguity of a word like 'avocat'?",
+                  "options": ["The co-text — the words surrounding it", "Its spelling alone", "Its grammatical gender alone", "Nothing; it always stays ambiguous"],
+                  "answer": "The co-text — the words surrounding it"
+                },
+                {
+                  "id": "c2_u17_l03_rd02",
+                  "type": "multipleChoice",
+                  "prompt": "What does the passage say distinguishes 'la cour' from 'le cours'?",
+                  "options": ["The article and grammatical gender", "Nothing — they are identical in every way", "Only their meaning, never their sound or spelling", "Their etymology, which the passage says is identical"],
+                  "answer": "The article and grammatical gender"
+                },
+                {
+                  "id": "c2_u17_l03_rd03",
+                  "type": "trueFalse",
+                  "prompt": "According to the passage, a translator can usually preserve both senses of a polysemous pun at once.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "c2_u17_l03_wr01",
+              "type": "translate",
+              "prompt": "Translate, keeping the ambiguity impossible to resolve without context.",
+              "english": "Without context, it is impossible to know whether 'avocat' means the fruit or the lawyer.",
+              "answer": "Sans contexte, impossible de savoir si « avocat » désigne le fruit ou le juriste.",
+              "acceptedAnswers": ["sans contexte impossible de savoir si avocat designe le fruit ou le juriste"]
+            },
+            {
+              "id": "c2_u17_l03_wr02",
+              "type": "arrangeWords",
+              "prompt": "Rebuild this sentence about disambiguation.",
+              "words": ["deux", "tranche", "sens", "Seul", "entre", "possibles", "contexte", "les", "mot", "le", "du", "le"],
+              "answer": "Seul le contexte tranche entre les deux sens possibles du mot",
+              "english": "Only the context settles which of the two possible senses is meant."
+            },
+            {
+              "id": "c2_u17_l03_wr03",
+              "type": "fillBlank",
+              "prompt": "« Le livre » et « la livre » sont des ___, non les deux sens d'un même mot.",
+              "answer": "homonymes",
+              "tip": "Two unrelated words that merely happen to share a form."
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "c2_u17_l03_pr01",
+              "type": "multipleChoice",
+              "prompt": "« Bureau », qui désigne à la fois le meuble et l'administration, illustre...",
+              "options": ["la polysémie", "l'homonymie", "la paronymie", "l'antonymie"],
+              "answer": "la polysémie"
+            },
+            {
+              "id": "c2_u17_l03_pr02",
+              "type": "match",
+              "prompt": "Match each term with its meaning.",
+              "pairs": [
+                { "french": "la polysémie", "english": "one word, several related senses" },
+                { "french": "l'homonymie", "english": "two unrelated words, same form" },
+                { "french": "la métonymie", "english": "naming by contiguity, e.g. container for content" },
+                { "french": "la synecdoque", "english": "naming by the part for the whole" }
+              ]
+            },
+            {
+              "id": "c2_u17_l03_pr03",
+              "type": "fillBlank",
+              "prompt": "« Boire un verre » est une ___ : le contenant pour le contenu.",
+              "answer": "métonymie"
+            },
+            {
+              "id": "c2_u17_l03_pr04",
+              "type": "multipleChoice",
+              "prompt": "Which pair is distinguished only by grammatical gender?",
+              "options": ["Le tour / la tour", "Chaise / fauteuil", "Chaud / froid", "Économe / radin"],
+              "answer": "Le tour / la tour"
+            },
+            {
+              "id": "c2_u17_l03_pr05",
+              "type": "translate",
+              "prompt": "Translate: Only the context settles which sense is meant.",
+              "english": "Only the context settles which sense is meant.",
+              "answer": "Seul le contexte tranche entre les sens possibles.",
+              "acceptedAnswers": ["seul le contexte tranche entre les sens possibles"]
+            },
+            {
+              "id": "c2_u17_l03_pr06",
+              "type": "trueFalse",
+              "prompt": "Homographs (homographes) are always pronounced the same way as each other.",
+              "options": ["True", "False"],
+              "answer": "False",
+              "tip": "« Les poules couvent » and « le couvent » share spelling but not pronunciation."
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "c2_u17_l03_qz01",
+              "type": "multipleChoice",
+              "prompt": "Un seul mot, plusieurs sens historiquement liés : c'est...",
+              "options": ["la polysémie", "l'homonymie", "la paronymie", "l'antonymie"],
+              "answer": "la polysémie"
+            },
+            {
+              "id": "c2_u17_l03_qz02",
+              "type": "fillBlank",
+              "prompt": "« Le livre » et « la livre » sont des ___.",
+              "answer": "homonymes"
+            },
+            {
+              "id": "c2_u17_l03_qz03",
+              "type": "multipleChoice",
+              "prompt": "What resolves most everyday polysemy without conscious effort?",
+              "options": ["Context, or more precisely the co-text", "The dictionary alone", "Grammatical gender alone", "Nothing; ambiguity is never resolved"],
+              "answer": "Context, or more precisely the co-text"
+            },
+            {
+              "id": "c2_u17_l03_qz04",
+              "type": "trueFalse",
+              "prompt": "« Les poules couvent » and « le couvent » are homographs pronounced identically.",
+              "options": ["True", "False"],
+              "answer": "False"
+            },
+            {
+              "id": "c2_u17_l03_qz05",
+              "type": "multipleChoice",
+              "prompt": "« Toutes les voiles rentrèrent au port » (meaning the ships) is an example of...",
+              "options": ["la synecdoque", "l'antonymie", "l'hyperonymie", "la paronymie"],
+              "answer": "la synecdoque"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

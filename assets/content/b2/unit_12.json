@@ -1,0 +1,1039 @@
+{
+  "id": "b2_u12",
+  "level": "B2",
+  "unit": 12,
+  "title": "Media Literacy",
+  "subtitle": "Understand how French media are organised, verify what you read, and talk about algorithms",
+  "icon": "📡",
+  "lessons": [
+    {
+      "id": "b2_u12_l01",
+      "level": "B2",
+      "unit": 12,
+      "title": "Le paysage médiatique français",
+      "description": "Map the French media landscape: public and private broadcasters, types of press, ownership and funding.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Public service and private media",
+              "body": "French media are usually described along two axes: who owns them and how they are financed. L'audiovisuel public (France Télévisions, Radio France, Arte, France Médias Monde) is funded mainly by the State budget since the redevance audiovisuelle was abolished in 2022. Private channels and radio stations live on advertising, subscriptions, or the resources of the groups that own them. Neither model is presented here as better — each raises its own questions about independence.",
+              "examples": [
+                { "french": "L'audiovisuel public regroupe plusieurs sociétés nationales de programme.", "english": "Public broadcasting brings together several national programme companies." },
+                { "french": "Depuis 2022, la redevance audiovisuelle a été supprimée et remplacée par une dotation budgétaire.", "english": "Since 2022, the licence fee has been abolished and replaced by a budget allocation." },
+                { "french": "Les chaînes privées tirent l'essentiel de leurs recettes de la publicité.", "english": "Private channels draw most of their income from advertising." },
+                { "french": "Chaque modèle de financement soulève des questions différentes d'indépendance.", "english": "Each funding model raises different questions about independence." },
+                { "french": "L'Arcom veille au respect du pluralisme sur les antennes.", "english": "Arcom (the media regulator) oversees compliance with pluralism on the airwaves." }
+              ],
+              "tip": "Arcom is the regulator created in 2022 from the merger of the CSA and Hadopi. Saying « l'Arcom a rappelé que… » is a neutral way to attribute a rule."
+            },
+            {
+              "heading": "Types of press and their rhythm",
+              "body": "French speakers classify the press first by periodicity: le quotidien (daily), l'hebdomadaire (weekly), le mensuel (monthly). Then by scope: la presse quotidienne régionale (PQR) still has the largest combined circulation, while national dailies compete with news websites and la presse gratuite. Finally by genre: presse d'information générale, presse spécialisée, presse people.",
+              "examples": [
+                { "french": "La presse quotidienne régionale reste le premier lectorat de France.", "english": "The regional daily press still has the largest readership in France." },
+                { "french": "Cet hebdomadaire paraît le jeudi et publie beaucoup d'enquêtes.", "english": "This weekly comes out on Thursday and publishes a lot of investigations." },
+                { "french": "Le tirage papier baisse, mais les abonnements numériques progressent.", "english": "Print circulation is falling, but digital subscriptions are growing." },
+                { "french": "On trouve encore des kiosques à journaux dans la plupart des gares.", "english": "You can still find newsstands in most stations." },
+                { "french": "La presse gratuite se finance uniquement par la publicité.", "english": "The free press is financed solely by advertising." }
+              ],
+              "tip": "Use « paraître » for publications: un journal paraît, un livre paraît. « Sortir » sounds informal for a newspaper."
+            },
+            {
+              "heading": "Describing editorial leanings without taking sides",
+              "body": "Every title has a ligne éditoriale, and French readers commonly describe outlets as being « classé à droite », « ancré à gauche » or « au centre ». The polite, accurate way to talk about this is to attribute the description rather than assert it: « ce journal est généralement présenté comme… ». That keeps you descriptive and avoids turning a language exercise into a political claim.",
+              "examples": [
+                { "french": "Ce quotidien est généralement présenté comme proche des milieux économiques.", "english": "This daily is generally described as close to business circles." },
+                { "french": "Sa ligne éditoriale est réputée conservatrice sur les questions de société.", "english": "Its editorial line is reputed to be conservative on social issues." },
+                { "french": "Les lecteurs perçoivent ce titre comme plutôt à gauche.", "english": "Readers perceive this title as rather left-leaning." },
+                { "french": "Je préfère dire « selon plusieurs observateurs » plutôt que d'affirmer moi-même.", "english": "I prefer to say \"according to several observers\" rather than assert it myself." },
+                { "french": "Une ligne éditoriale assumée n'empêche pas un travail journalistique rigoureux.", "english": "An openly stated editorial line does not prevent rigorous journalistic work." }
+              ],
+              "tip": "« assumé » is very useful here: it means openly acknowledged, not hidden — « un parti pris assumé »."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "le-paysage-mediatique", "french": "le paysage médiatique", "english": "the media landscape", "partOfSpeech": "noun", "gender": "m", "plural": "les paysages médiatiques", "pronunciation": "luh pay-ee-zahzh may-dyah-teek", "example": "Le paysage médiatique français s'est beaucoup concentré en vingt ans.", "exampleEnglish": "The French media landscape has become much more concentrated in twenty years.", "level": "B2", "category": "media" },
+            { "id": "les-medias", "french": "les médias", "english": "the media", "partOfSpeech": "noun", "gender": "m", "plural": "les médias", "pronunciation": "lay may-dyah", "example": "Les médias traditionnels et les plateformes ne suivent pas les mêmes règles.", "exampleEnglish": "Traditional media and platforms do not follow the same rules.", "level": "B2", "category": "media" },
+            { "id": "l-audiovisuel-public", "french": "l'audiovisuel public", "english": "public broadcasting", "partOfSpeech": "noun", "gender": "m", "plural": "les audiovisuels publics", "pronunciation": "loh-dyo-vee-zwel pü-bleek", "example": "L'audiovisuel public est financé par le budget de l'État.", "exampleEnglish": "Public broadcasting is financed by the State budget.", "level": "B2", "category": "media" },
+            { "id": "le-service-public", "french": "le service public", "english": "the public service", "partOfSpeech": "noun", "gender": "m", "plural": "les services publics", "pronunciation": "luh ser-vees pü-bleek", "example": "Le service public a une mission d'information et de culture.", "exampleEnglish": "The public service has a mission of information and culture.", "level": "B2", "category": "media" },
+            { "id": "la-redevance-audiovisuelle", "french": "la redevance audiovisuelle", "english": "the TV licence fee", "partOfSpeech": "noun", "gender": "f", "plural": "les redevances audiovisuelles", "pronunciation": "lah ruh-duh-vahnss oh-dyo-vee-zwel", "example": "La redevance audiovisuelle a été supprimée en 2022.", "exampleEnglish": "The TV licence fee was abolished in 2022.", "level": "B2", "category": "media" },
+            { "id": "la-presse-ecrite", "french": "la presse écrite", "english": "the print press", "partOfSpeech": "noun", "gender": "f", "plural": "les presses écrites", "pronunciation": "lah press ay-kreet", "example": "La presse écrite a perdu des lecteurs mais gagné des abonnés numériques.", "exampleEnglish": "The print press has lost readers but gained digital subscribers.", "level": "B2", "category": "media" },
+            { "id": "le-quotidien", "french": "le quotidien", "english": "the daily newspaper", "partOfSpeech": "noun", "gender": "m", "plural": "les quotidiens", "pronunciation": "luh ko-tee-dyan", "example": "Ce quotidien national tire à plusieurs centaines de milliers d'exemplaires.", "exampleEnglish": "This national daily prints several hundred thousand copies.", "level": "B2", "category": "media" },
+            { "id": "l-hebdomadaire", "french": "l'hebdomadaire", "english": "the weekly (magazine)", "partOfSpeech": "noun", "gender": "m", "plural": "les hebdomadaires", "pronunciation": "leb-do-mah-dair", "example": "L'hebdomadaire consacre huit pages à cette enquête.", "exampleEnglish": "The weekly devotes eight pages to this investigation.", "level": "B2", "category": "media" },
+            { "id": "le-mensuel", "french": "le mensuel", "english": "the monthly magazine", "partOfSpeech": "noun", "gender": "m", "plural": "les mensuels", "pronunciation": "luh mahn-sü-el", "example": "Ce mensuel spécialisé s'adresse à un public averti.", "exampleEnglish": "This specialised monthly is aimed at a well-informed readership.", "level": "B2", "category": "media" },
+            { "id": "la-presse-quotidienne-regionale", "french": "la presse quotidienne régionale", "english": "the regional daily press", "partOfSpeech": "noun", "gender": "f", "plural": "les presses quotidiennes régionales", "pronunciation": "lah press ko-tee-dyen ray-zhyo-nahl", "example": "La presse quotidienne régionale couvre la vie locale au plus près.", "exampleEnglish": "The regional daily press covers local life very closely.", "level": "B2", "category": "media" },
+            { "id": "la-presse-gratuite", "french": "la presse gratuite", "english": "the free press (free newspapers)", "partOfSpeech": "noun", "gender": "f", "plural": "les presses gratuites", "pronunciation": "lah press grah-tweet", "example": "La presse gratuite se distribue à l'entrée du métro.", "exampleEnglish": "Free newspapers are handed out at the entrance to the metro.", "level": "B2", "category": "media" },
+            { "id": "la-presse-people", "french": "la presse people", "english": "the celebrity press", "partOfSpeech": "noun", "gender": "f", "plural": "les presses people", "pronunciation": "lah press pee-pol", "example": "La presse people vit du droit à l'image et de ses limites.", "exampleEnglish": "The celebrity press lives off image rights and their limits.", "level": "B2", "category": "media" },
+            { "id": "la-chaine-d-info", "french": "la chaîne d'info", "english": "the news channel", "partOfSpeech": "noun", "gender": "f", "plural": "les chaînes d'info", "pronunciation": "lah shen dan-foh", "example": "Les chaînes d'info en continu ont modifié le rythme de l'actualité.", "exampleEnglish": "Rolling news channels have changed the rhythm of the news.", "level": "B2", "category": "media" },
+            { "id": "le-journal-televise", "french": "le journal télévisé", "english": "the TV news bulletin", "partOfSpeech": "noun", "gender": "m", "plural": "les journaux télévisés", "pronunciation": "luh zhoor-nahl tay-lay-vee-zay", "example": "Le journal télévisé de 20 heures reste très suivi.", "exampleEnglish": "The 8 p.m. TV news bulletin is still widely watched.", "level": "B2", "category": "media" },
+            { "id": "le-groupe-de-presse", "french": "le groupe de presse", "english": "the press group, the media group", "partOfSpeech": "noun", "gender": "m", "plural": "les groupes de presse", "pronunciation": "luh groop duh press", "example": "Ce groupe de presse détient plusieurs titres régionaux.", "exampleEnglish": "This media group owns several regional titles.", "level": "B2", "category": "media" },
+            { "id": "l-actionnaire", "french": "l'actionnaire", "english": "the shareholder", "partOfSpeech": "noun", "gender": "m", "plural": "les actionnaires", "pronunciation": "lak-syo-nair", "example": "L'actionnaire principal n'intervient pas, officiellement, dans le contenu.", "exampleEnglish": "The main shareholder does not, officially, intervene in content.", "level": "B2", "category": "media" },
+            { "id": "la-concentration-des-medias", "french": "la concentration des médias", "english": "media concentration", "partOfSpeech": "noun", "gender": "f", "plural": "les concentrations des médias", "pronunciation": "lah kon-sahn-trah-syon day may-dyah", "example": "La concentration des médias fait l'objet de débats parlementaires réguliers.", "exampleEnglish": "Media concentration is the subject of regular parliamentary debates.", "level": "B2", "category": "media" },
+            { "id": "le-pluralisme", "french": "le pluralisme", "english": "pluralism (diversity of opinion)", "partOfSpeech": "noun", "gender": "m", "plural": "les pluralismes", "pronunciation": "luh plü-rah-leesm", "example": "Le pluralisme suppose une diversité réelle de points de vue.", "exampleEnglish": "Pluralism presupposes a genuine diversity of viewpoints.", "level": "B2", "category": "media" },
+            { "id": "l-independance-editoriale", "french": "l'indépendance éditoriale", "english": "editorial independence", "partOfSpeech": "noun", "gender": "f", "plural": "les indépendances éditoriales", "pronunciation": "lan-day-pahn-dahnss ay-dee-to-ryahl", "example": "Une charte protège l'indépendance éditoriale de la rédaction.", "exampleEnglish": "A charter protects the newsroom's editorial independence.", "level": "B2", "category": "media" },
+            { "id": "la-ligne-editoriale", "french": "la ligne éditoriale", "english": "the editorial line", "partOfSpeech": "noun", "gender": "f", "plural": "les lignes éditoriales", "pronunciation": "lah leen-yuh ay-dee-to-ryahl", "example": "Sa ligne éditoriale est assumée et clairement annoncée.", "exampleEnglish": "Its editorial line is openly acknowledged and clearly stated.", "level": "B2", "category": "media" },
+            { "id": "la-redaction", "french": "la rédaction", "english": "the newsroom, editorial staff", "partOfSpeech": "noun", "gender": "f", "plural": "les rédactions", "pronunciation": "lah ray-dak-syon", "example": "La rédaction s'est réunie pour arbitrer la une du lendemain.", "exampleEnglish": "The newsroom met to decide the next day's front page.", "level": "B2", "category": "media" },
+            { "id": "le-redacteur-en-chef", "french": "le rédacteur en chef", "english": "the editor-in-chief", "partOfSpeech": "noun", "gender": "m", "plural": "les rédacteurs en chef", "pronunciation": "luh ray-dak-tur ahn shef", "example": "Le rédacteur en chef tranche quand la rédaction hésite.", "exampleEnglish": "The editor-in-chief decides when the newsroom hesitates.", "level": "B2", "category": "media" },
+            { "id": "le-journaliste", "french": "le journaliste", "english": "the journalist", "partOfSpeech": "noun", "gender": "m", "plural": "les journalistes", "pronunciation": "luh zhoor-nah-leest", "example": "Le journaliste doit pouvoir protéger ses sources.", "exampleEnglish": "A journalist must be able to protect their sources.", "level": "B2", "category": "media" },
+            { "id": "la-carte-de-presse", "french": "la carte de presse", "english": "the press card", "partOfSpeech": "noun", "gender": "f", "plural": "les cartes de presse", "pronunciation": "lah kart duh press", "example": "Environ trente-cinq mille personnes détiennent la carte de presse en France.", "exampleEnglish": "About thirty-five thousand people hold a press card in France.", "level": "B2", "category": "media" },
+            { "id": "l-agence-de-presse", "french": "l'agence de presse", "english": "the news agency", "partOfSpeech": "noun", "gender": "f", "plural": "les agences de presse", "pronunciation": "lah-zhahnss duh press", "example": "L'Agence France-Presse alimente des rédactions du monde entier.", "exampleEnglish": "Agence France-Presse supplies newsrooms all over the world.", "level": "B2", "category": "media" },
+            { "id": "la-depeche", "french": "la dépêche", "english": "the news dispatch", "partOfSpeech": "noun", "gender": "f", "plural": "les dépêches", "pronunciation": "lah day-pesh", "example": "La dépêche est tombée à 6 h 12, avant toute confirmation officielle.", "exampleEnglish": "The dispatch came in at 6:12 a.m., before any official confirmation.", "level": "B2", "category": "media" },
+            { "id": "la-diffusion", "french": "la diffusion", "english": "the broadcast, broadcasting", "partOfSpeech": "noun", "gender": "f", "plural": "les diffusions", "pronunciation": "lah dee-fü-zyon", "example": "La diffusion du débat a été suivie par six millions de personnes.", "exampleEnglish": "The broadcast of the debate was watched by six million people.", "level": "B2", "category": "media" },
+            { "id": "le-tirage", "french": "le tirage", "english": "the print run, circulation", "partOfSpeech": "noun", "gender": "m", "plural": "les tirages", "pronunciation": "luh tee-rahzh", "example": "Le tirage a été augmenté pour ce numéro spécial.", "exampleEnglish": "The print run was increased for this special issue.", "level": "B2", "category": "media" },
+            { "id": "l-audience", "french": "l'audience", "english": "the viewing figures, the audience", "partOfSpeech": "noun", "gender": "f", "plural": "les audiences", "pronunciation": "loh-dyahnss", "example": "L'audience se mesure désormais aussi sur les plateformes de rattrapage.", "exampleEnglish": "Audience figures are now also measured on catch-up platforms.", "level": "B2", "category": "media" },
+            { "id": "le-lectorat", "french": "le lectorat", "english": "the readership", "partOfSpeech": "noun", "gender": "m", "plural": "les lectorats", "pronunciation": "luh lek-to-rah", "example": "Le lectorat de ce titre vieillit régulièrement.", "exampleEnglish": "This title's readership is steadily ageing.", "level": "B2", "category": "media" },
+            { "id": "l-abonnement", "french": "l'abonnement", "english": "the subscription", "partOfSpeech": "noun", "gender": "m", "plural": "les abonnements", "pronunciation": "lah-bon-mahn", "example": "L'abonnement numérique représente désormais la moitié des recettes.", "exampleEnglish": "Digital subscriptions now account for half of the revenue.", "level": "B2", "category": "media" },
+            { "id": "le-kiosque-a-journaux", "french": "le kiosque à journaux", "english": "the newsstand", "partOfSpeech": "noun", "gender": "m", "plural": "les kiosques à journaux", "pronunciation": "luh kyosk ah zhoor-noh", "example": "Il ne reste qu'un seul kiosque à journaux dans le quartier.", "exampleEnglish": "There is only one newsstand left in the neighbourhood.", "level": "B2", "category": "media" },
+            { "id": "la-liberte-de-la-presse", "french": "la liberté de la presse", "english": "freedom of the press", "partOfSpeech": "noun", "gender": "f", "plural": "les libertés de la presse", "pronunciation": "lah lee-ber-tay duh lah press", "example": "La loi de 1881 fonde encore aujourd'hui la liberté de la presse.", "exampleEnglish": "The 1881 law still underpins freedom of the press today.", "level": "B2", "category": "media" },
+            { "id": "la-censure", "french": "la censure", "english": "censorship", "partOfSpeech": "noun", "gender": "f", "plural": "les censures", "pronunciation": "lah sahn-sür", "example": "La censure préalable est interdite, mais la responsabilité reste engagée après publication.", "exampleEnglish": "Prior censorship is prohibited, but liability still applies after publication.", "level": "B2", "category": "media" },
+            { "id": "la-deontologie", "french": "la déontologie", "english": "professional code of ethics", "partOfSpeech": "noun", "gender": "f", "plural": "les déontologies", "pronunciation": "lah day-on-to-lo-zhee", "example": "La déontologie impose de séparer l'information du commentaire.", "exampleEnglish": "Professional ethics require separating information from commentary.", "level": "B2", "category": "media" },
+            { "id": "le-financement", "french": "le financement", "english": "the funding, the financing", "partOfSpeech": "noun", "gender": "m", "plural": "les financements", "pronunciation": "luh fee-nahnss-mahn", "example": "Le financement d'un média influe forcément sur ses contraintes.", "exampleEnglish": "The funding of a media outlet inevitably affects its constraints.", "level": "B2", "category": "media" },
+            { "id": "la-publicite", "french": "la publicité", "english": "advertising, the advert", "partOfSpeech": "noun", "gender": "f", "plural": "les publicités", "pronunciation": "lah pü-blee-see-tay", "example": "La publicité finance l'essentiel des chaînes privées.", "exampleEnglish": "Advertising funds most of the private channels.", "level": "B2", "category": "media" },
+            { "id": "subvention", "french": "la subvention", "english": "the subsidy, the grant", "partOfSpeech": "noun", "gender": "f", "plural": "les subventions", "pronunciation": "lah süb-vahn-syon", "example": "Les aides à la presse prennent la forme de subventions et d'avantages postaux.", "exampleEnglish": "Press support takes the form of subsidies and postal advantages.", "level": "B2", "category": "media" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "The passive voice for describing structures",
+              "body": "When you describe who owns, funds or regulates what, French leans heavily on the passive: être + past participle, agreeing with the subject, with the agent introduced by par (an action) or de (a state). It is the natural register for institutional description, and it lets you keep the institution — not the person — as the topic of the sentence.",
+              "examples": [
+                { "french": "Cette chaîne est détenue par un groupe industriel.", "english": "This channel is owned by an industrial group.", "note": "par = agent of an action" },
+                { "french": "La redevance a été supprimée en 2022.", "english": "The licence fee was abolished in 2022.", "note": "passé composé passive" },
+                { "french": "Ces rédactions sont respectées de leurs lecteurs.", "english": "These newsrooms are respected by their readers.", "note": "de after verbs of feeling/state" },
+                { "french": "Le pluralisme sera surveillé par le régulateur.", "english": "Pluralism will be monitored by the regulator." },
+                { "french": "Les titres régionaux ont été rachetés les uns après les autres.", "english": "The regional titles were bought up one after another." }
+              ],
+              "tip": "French avoids the passive far more than English. If the agent is vague, prefer « on » (On a supprimé la redevance) or a pronominal form (La redevance s'est vue supprimée is heavy — say « a été supprimée »)."
+            },
+            {
+              "heading": "dont, auquel, parmi lesquels — relative pronouns for ownership",
+              "body": "Describing media structures means chaining relative clauses. Use dont for de-complements (owner, part of a whole, quantity), auquel / à laquelle for à-complements, and preposition + lequel for everything else. These are the hallmark of B2 written French; getting them right instantly raises your register.",
+              "examples": [
+                { "french": "C'est un groupe dont l'actionnaire principal est connu du grand public.", "english": "It is a group whose main shareholder is known to the general public.", "note": "dont = de qui / de quoi" },
+                { "french": "Elle dirige une rédaction dont elle défend l'indépendance.", "english": "She heads a newsroom whose independence she defends." },
+                { "french": "Le débat auquel je pense portait sur la concentration.", "english": "The debate I am thinking of dealt with concentration.", "note": "penser à → auquel" },
+                { "french": "Ils publient dix titres, parmi lesquels trois quotidiens régionaux.", "english": "They publish ten titles, among them three regional dailies." },
+                { "french": "Voici la charte selon laquelle la rédaction travaille.", "english": "Here is the charter according to which the newsroom works." }
+              ],
+              "tip": "Never combine dont with a possessive: say « un groupe dont le fondateur… », never « dont son fondateur… »."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "b2_u12_l01_li01",
+              "type": "listenChoose",
+              "french": "L'audiovisuel public est financé par le budget de l'État.",
+              "options": ["Public broadcasting is financed by the State budget.", "Public broadcasting is financed by advertising.", "Private channels are financed by the State budget.", "Public broadcasting is financed by subscriptions."],
+              "answer": "Public broadcasting is financed by the State budget."
+            },
+            {
+              "id": "b2_u12_l01_li02",
+              "type": "listenChoose",
+              "french": "Ce groupe de presse détient plusieurs quotidiens régionaux.",
+              "options": ["This media group owns several regional dailies.", "This media group sold several regional dailies.", "This media group prints several national weeklies.", "This media group finances several radio stations."],
+              "answer": "This media group owns several regional dailies."
+            },
+            {
+              "id": "b2_u12_l01_li03",
+              "type": "listenType",
+              "french": "La ligne éditoriale de ce journal est clairement assumée.",
+              "answer": "La ligne éditoriale de ce journal est clairement assumée.",
+              "acceptedAnswers": ["La ligne editoriale de ce journal est clairement assumee", "la ligne éditoriale de ce journal est clairement assumée"]
+            },
+            {
+              "id": "b2_u12_l01_li04",
+              "type": "dictation",
+              "french": "La presse quotidienne régionale conserve le premier lectorat du pays.",
+              "answer": "La presse quotidienne régionale conserve le premier lectorat du pays.",
+              "acceptedAnswers": ["La presse quotidienne regionale conserve le premier lectorat du pays", "la presse quotidienne régionale conserve le premier lectorat du pays"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "b2_u12_l01_sp01",
+              "type": "speak",
+              "french": "Ce titre est généralement présenté comme proche des milieux économiques.",
+              "english": "This title is generally described as close to business circles.",
+              "prompt": "Describe an outlet's leaning without asserting it yourself.",
+              "tip": "Link « présenté comme » smoothly: the é of présenté is closed, and comme has a short, clean [ɔ] — pron. 'kom', never 'koom'."
+            },
+            {
+              "id": "b2_u12_l01_sp02",
+              "type": "speak",
+              "french": "C'est un groupe dont l'indépendance éditoriale est protégée par une charte.",
+              "english": "It is a group whose editorial independence is protected by a charter.",
+              "prompt": "Practise dont in a long descriptive sentence.",
+              "tip": "Say 'dont l'in-' as one block with a liaison-free glide: don-lan-day-pahn-dahnss. Keep the nasal in dont short."
+            },
+            {
+              "id": "b2_u12_l01_sp03",
+              "type": "speak",
+              "french": "Depuis la suppression de la redevance, le financement du service public fait débat.",
+              "english": "Since the abolition of the licence fee, the funding of public broadcasting has been debated.",
+              "prompt": "Give a neutral, factual summary of a media policy change.",
+              "tip": "« fait débat » has no article: fè-day-bah, with a light liaison-free break. Avoid stressing 'débat' too hard — French keeps stress at the end of the group."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Qui possède quoi ?",
+              "french": "Quand on ouvre un journal français, on lit rarement le nom de son propriétaire. Pourtant, la question revient à chaque campagne électorale.\nDepuis les années 1980, le secteur s'est concentré : des groupes industriels, des familles fortunées et quelques fondations ont racheté des titres que la publicité ne suffisait plus à financer.\nLes défenseurs de ce mouvement rappellent qu'un journal déficitaire finit par disparaître, et qu'un actionnaire solide sauve des emplois et des rédactions.\nLeurs critiques répondent qu'un propriétaire présent dans d'autres secteurs peut, même sans intervenir directement, créer un réflexe d'autocensure.\nLes deux camps s'accordent au moins sur un point : la transparence.\nDepuis 2016, la loi impose que le nom de l'actionnaire principal figure dans l'ours du journal, cet encadré discret où sont listés le directeur de la publication et l'équipe.\nParallèlement, plusieurs rédactions ont adopté une charte d'indépendance et créé une société de journalistes, qui doit être consultée avant certaines décisions.\nLe modèle public suit une autre logique : financé par le budget de l'État depuis la suppression de la redevance, il est régulièrement soupçonné, selon les majorités, de complaisance ou d'hostilité.\nLà encore, aucune structure ne garantit à elle seule la qualité de l'information.\nUn média riche peut être médiocre ; un média fragile peut être exemplaire.\nCe que le lecteur peut faire, en revanche, est simple : savoir qui finance ce qu'il lit, et lire plusieurs sources.\nC'est moins spectaculaire qu'une théorie générale, mais c'est vérifiable.",
+              "english": "When you open a French newspaper, you rarely read the name of its owner. Yet the question comes back at every election campaign.\nSince the 1980s, the sector has become concentrated: industrial groups, wealthy families and a few foundations have bought up titles that advertising was no longer enough to fund.\nDefenders of this trend point out that a loss-making newspaper eventually disappears, and that a solid shareholder saves jobs and newsrooms.\nTheir critics reply that an owner active in other sectors can, even without intervening directly, create a reflex of self-censorship.\nThe two camps agree on at least one point: transparency.\nSince 2016, the law requires the name of the main shareholder to appear in the newspaper's masthead box, that discreet panel listing the publication director and the team.\nAt the same time, several newsrooms have adopted an independence charter and set up a journalists' society, which must be consulted before certain decisions.\nThe public model follows a different logic: funded by the State budget since the licence fee was abolished, it is regularly suspected, depending on who is in power, of either compliance or hostility.\nHere too, no structure on its own guarantees the quality of the information.\nA rich outlet can be mediocre; a fragile one can be exemplary.\nWhat the reader can do, on the other hand, is simple: know who funds what they read, and read several sources.\nIt is less spectacular than a general theory, but it can be checked.",
+              "questions": [
+                {
+                  "id": "b2_u12_l01_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Selon le texte, que doit obligatoirement contenir l'ours d'un journal depuis 2016 ?",
+                  "options": ["Le nom de l'actionnaire principal", "Le montant des subventions reçues", "La liste complète des abonnés", "Le tirage exact du numéro"],
+                  "answer": "Le nom de l'actionnaire principal"
+                },
+                {
+                  "id": "b2_u12_l01_rd02",
+                  "type": "multipleChoice",
+                  "prompt": "Quel argument le texte attribue-t-il aux défenseurs de la concentration ?",
+                  "options": ["Un actionnaire solide permet de sauver des rédactions", "La publicité suffit à financer les titres", "Les journaux déficitaires sont les meilleurs", "L'État doit racheter tous les titres"],
+                  "answer": "Un actionnaire solide permet de sauver des rédactions"
+                },
+                {
+                  "id": "b2_u12_l01_rd03",
+                  "type": "trueFalse",
+                  "prompt": "Le texte affirme qu'une structure de propriété donnée garantit à elle seule la qualité de l'information.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "b2_u12_l01_wr01",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "This channel is owned by an industrial group.",
+              "answer": "Cette chaîne est détenue par un groupe industriel.",
+              "acceptedAnswers": ["Cette chaine est detenue par un groupe industriel", "Cette chaîne est détenue par un groupe industriel"]
+            },
+            {
+              "id": "b2_u12_l01_wr02",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "It is a newspaper whose editorial line is openly acknowledged.",
+              "answer": "C'est un journal dont la ligne éditoriale est assumée.",
+              "acceptedAnswers": ["C'est un journal dont la ligne editoriale est assumee", "C est un journal dont la ligne éditoriale est assumée"]
+            },
+            {
+              "id": "b2_u12_l01_wr03",
+              "type": "arrangeWords",
+              "words": ["régionale", "presse", "premier", "la", "conserve", "le", "lectorat", "quotidienne"],
+              "answer": "la presse quotidienne régionale conserve le premier lectorat",
+              "english": "the regional daily press keeps the largest readership"
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "b2_u12_l01_pr01",
+              "type": "fillBlank",
+              "prompt": "C'est un groupe ___ l'actionnaire principal est peu connu.",
+              "answer": "dont"
+            },
+            {
+              "id": "b2_u12_l01_pr02",
+              "type": "multipleChoice",
+              "prompt": "Un journal qui paraît chaque semaine est…",
+              "options": ["un hebdomadaire", "un quotidien", "un mensuel", "une dépêche"],
+              "answer": "un hebdomadaire"
+            },
+            {
+              "id": "b2_u12_l01_pr03",
+              "type": "match",
+              "pairs": [
+                { "french": "la rédaction", "english": "the newsroom" },
+                { "french": "le tirage", "english": "the print run" },
+                { "french": "le lectorat", "english": "the readership" },
+                { "french": "la dépêche", "english": "the news dispatch" }
+              ]
+            },
+            {
+              "id": "b2_u12_l01_pr04",
+              "type": "fillBlank",
+              "prompt": "La redevance audiovisuelle a été ___ en 2022.",
+              "answer": "supprimée"
+            },
+            {
+              "id": "b2_u12_l01_pr05",
+              "type": "multipleChoice",
+              "prompt": "Quelle formulation reste la plus neutre pour décrire l'orientation d'un titre ?",
+              "options": ["Ce titre est généralement présenté comme conservateur.", "Ce titre ment à ses lecteurs.", "Ce titre est le pire de France.", "Ce titre n'a aucune valeur."],
+              "answer": "Ce titre est généralement présenté comme conservateur."
+            },
+            {
+              "id": "b2_u12_l01_pr06",
+              "type": "arrangeWords",
+              "words": ["par", "budget", "est", "l'audiovisuel", "financé", "le", "public"],
+              "answer": "l'audiovisuel public est financé par le budget",
+              "english": "public broadcasting is funded by the budget"
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "b2_u12_l01_qz01",
+              "type": "multipleChoice",
+              "prompt": "« Le pluralisme » désigne…",
+              "options": ["la diversité réelle des points de vue", "le nombre de pages d'un journal", "le prix d'un abonnement", "la vitesse de diffusion d'une dépêche"],
+              "answer": "la diversité réelle des points de vue"
+            },
+            {
+              "id": "b2_u12_l01_qz02",
+              "type": "multipleChoice",
+              "prompt": "Choisissez la phrase correcte.",
+              "options": ["Un groupe dont le fondateur est connu.", "Un groupe dont son fondateur est connu.", "Un groupe que le fondateur est connu.", "Un groupe dont de fondateur est connu."],
+              "answer": "Un groupe dont le fondateur est connu."
+            },
+            {
+              "id": "b2_u12_l01_qz03",
+              "type": "fillBlank",
+              "prompt": "Le débat ___ je pense portait sur la concentration des médias.",
+              "answer": "auquel"
+            },
+            {
+              "id": "b2_u12_l01_qz04",
+              "type": "trueFalse",
+              "prompt": "En France, l'audiovisuel public est aujourd'hui financé principalement par la redevance.",
+              "options": ["True", "False"],
+              "answer": "False"
+            },
+            {
+              "id": "b2_u12_l01_qz05",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "Advertising funds most of the private channels.",
+              "answer": "La publicité finance l'essentiel des chaînes privées.",
+              "acceptedAnswers": ["La publicite finance l'essentiel des chaines privees", "La publicité finance l'essentiel des chaînes privées"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2_u12_l02",
+      "level": "B2",
+      "unit": 12,
+      "title": "Décrypter une information",
+      "description": "Learn the vocabulary and the method of source criticism: sourcing, corroboration, and telling fact from framing.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Where does this come from? Sourcing",
+              "body": "The first reflex of source criticism is not \"is it true?\" but \"who says it, and how do they know?\". French uses a small set of fixed phrases to signal the chain of information: remonter à la source, citer nommément, une source anonyme, sous couvert d'anonymat. A claim relayed by ten accounts is still one source if all ten copied the same post.",
+              "examples": [
+                { "french": "Avant de partager, j'essaie de remonter à la source.", "english": "Before sharing, I try to trace it back to the source." },
+                { "french": "L'article cite une source proche du dossier, sans la nommer.", "english": "The article quotes a source close to the case, without naming them." },
+                { "french": "Dix comptes qui relaient le même message, cela reste une seule source.", "english": "Ten accounts relaying the same message is still a single source." },
+                { "french": "Le témoin a parlé sous couvert d'anonymat.", "english": "The witness spoke on condition of anonymity." },
+                { "french": "Une capture d'écran n'est pas une preuve : elle se fabrique en trente secondes.", "english": "A screenshot is not proof: it can be fabricated in thirty seconds." }
+              ],
+              "tip": "« sourcer » is now common in French newsrooms: « une information bien sourcée » = a well-sourced piece of information."
+            },
+            {
+              "heading": "Corroboration and the journalistic conditional",
+              "body": "French journalism has a grammatical tool English lacks: le conditionnel journalistique. Putting a verb in the conditional signals that the information is not confirmed — « le bilan serait de vingt blessés » means the toll is reported to be twenty, not that it is. Reading it as a real conditional is a classic misunderstanding for learners. Corroboration means finding a second, independent source, not a second copy.",
+              "examples": [
+                { "french": "Selon plusieurs médias, l'usine fermerait en juin.", "english": "According to several media outlets, the factory is reportedly closing in June.", "note": "conditional = unconfirmed" },
+                { "french": "Le suspect aurait quitté le pays, ce que la police n'a pas confirmé.", "english": "The suspect has reportedly left the country, which the police have not confirmed." },
+                { "french": "Il faut recouper avec une source indépendante de la première.", "english": "You need to cross-check with a source independent of the first one." },
+                { "french": "Tant que ce n'est pas recoupé, je le mentionne sous réserve de vérification.", "english": "As long as it is not cross-checked, I mention it subject to verification." },
+                { "french": "La charge de la preuve pèse sur celui qui affirme.", "english": "The burden of proof lies with the person making the claim." }
+              ],
+              "tip": "In speech, French speakers often add « au conditionnel » out loud: « attention, c'est au conditionnel » — meaning, don't treat this as established."
+            },
+            {
+              "heading": "Fact, framing and opinion",
+              "body": "A statement can be entirely accurate and still be framed. Le cadrage is the choice of angle, of the words, of what is left out; it is not the same as lying. Learning to name the difference — le fait, l'interprétation, l'opinion — lets you criticise a piece of coverage precisely instead of dismissing it wholesale.",
+              "examples": [
+                { "french": "Le chiffre est exact, mais le cadrage oriente la lecture.", "english": "The figure is accurate, but the framing steers how you read it." },
+                { "french": "Distinguons le fait, l'interprétation et l'opinion.", "english": "Let's distinguish the fact, the interpretation and the opinion." },
+                { "french": "Le choix du titre en dit plus que le corps de l'article.", "english": "The choice of headline says more than the body of the article." },
+                { "french": "Ce n'est pas faux, c'est incomplet — ce qui produit un effet comparable.", "english": "It is not false, it is incomplete — which produces a comparable effect." },
+                { "french": "Un éditorial assume une opinion ; une brève est censée s'en abstenir.", "english": "An editorial owns an opinion; a news brief is supposed to refrain from one." }
+              ],
+              "tip": "Useful hedge for essays: « Je ne dis pas que c'est faux, je dis que c'est présenté sous un angle précis. »"
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "decrypter", "french": "décrypter", "english": "to decipher, to decode", "partOfSpeech": "verb", "pronunciation": "day-kreep-tay", "example": "Apprendre à décrypter une information demande de la méthode.", "exampleEnglish": "Learning to decode a piece of information requires method.", "level": "B2", "category": "media" },
+            { "id": "la-source", "french": "la source", "english": "the source", "partOfSpeech": "noun", "gender": "f", "plural": "les sources", "pronunciation": "lah soorss", "example": "La source de cette statistique n'est indiquée nulle part.", "exampleEnglish": "The source of this statistic is not given anywhere.", "level": "B2", "category": "media" },
+            { "id": "remonter-a-la-source", "french": "remonter à la source", "english": "to trace back to the source", "partOfSpeech": "expression", "pronunciation": "ruh-mon-tay ah lah soorss", "example": "En cliquant sur les liens, on peut souvent remonter à la source.", "exampleEnglish": "By clicking through the links, you can often trace it back to the source.", "level": "B2", "category": "media" },
+            { "id": "le-recoupement", "french": "le recoupement", "english": "the cross-checking", "partOfSpeech": "noun", "gender": "m", "plural": "les recoupements", "pronunciation": "luh ruh-koop-mahn", "example": "Le recoupement de trois témoignages a permis de confirmer la date.", "exampleEnglish": "Cross-checking three accounts made it possible to confirm the date.", "level": "B2", "category": "media" },
+            { "id": "recouper", "french": "recouper", "english": "to cross-check", "partOfSpeech": "verb", "pronunciation": "ruh-koo-pay", "example": "Il faut recouper avec une source indépendante.", "exampleEnglish": "You have to cross-check with an independent source.", "level": "B2", "category": "media" },
+            { "id": "verifier", "french": "vérifier", "english": "to check, to verify", "partOfSpeech": "verb", "pronunciation": "vay-ree-fyay", "example": "Vérifier prend deux minutes ; se rétracter prend des jours.", "exampleEnglish": "Checking takes two minutes; retracting takes days.", "level": "B2", "category": "media" },
+            { "id": "la-verification-des-faits", "french": "la vérification des faits", "english": "fact-checking", "partOfSpeech": "noun", "gender": "f", "plural": "les vérifications des faits", "pronunciation": "lah vay-ree-fee-kah-syon day feh", "example": "Plusieurs rédactions ont créé un service de vérification des faits.", "exampleEnglish": "Several newsrooms have created a fact-checking desk.", "level": "B2", "category": "media" },
+            { "id": "la-fiabilite", "french": "la fiabilité", "english": "the reliability", "partOfSpeech": "noun", "gender": "f", "plural": "les fiabilités", "pronunciation": "lah fyah-bee-lee-tay", "example": "La fiabilité d'un site se juge sur la durée, pas sur un article.", "exampleEnglish": "A site's reliability is judged over time, not on one article.", "level": "B2", "category": "media" },
+            { "id": "credibilite", "french": "la crédibilité", "english": "credibility", "partOfSpeech": "noun", "gender": "f", "plural": "les crédibilités", "pronunciation": "lah kray-dee-bee-lee-tay", "example": "Une erreur non corrigée coûte cher en crédibilité.", "exampleEnglish": "An uncorrected mistake costs a lot in credibility.", "level": "B2", "category": "media" },
+            { "id": "le-fait", "french": "le fait", "english": "the fact", "partOfSpeech": "noun", "gender": "m", "plural": "les faits", "pronunciation": "luh feh", "example": "Séparons d'abord les faits des commentaires.", "exampleEnglish": "Let's first separate the facts from the commentary.", "level": "B2", "category": "media" },
+            { "id": "l-opinion", "french": "l'opinion", "english": "the opinion", "partOfSpeech": "noun", "gender": "f", "plural": "les opinions", "pronunciation": "lo-pee-nyon", "example": "Une opinion argumentée reste une opinion.", "exampleEnglish": "A reasoned opinion is still an opinion.", "level": "B2", "category": "media" },
+            { "id": "l-objectivite", "french": "l'objectivité", "english": "objectivity", "partOfSpeech": "noun", "gender": "f", "plural": "les objectivités", "pronunciation": "lob-zhek-tee-vee-tay", "example": "Certains journalistes préfèrent parler d'honnêteté plutôt que d'objectivité.", "exampleEnglish": "Some journalists prefer to speak of honesty rather than objectivity.", "level": "B2", "category": "media" },
+            { "id": "le-biais", "french": "le biais", "english": "the bias, the slant", "partOfSpeech": "noun", "gender": "m", "plural": "les biais", "pronunciation": "luh byeh", "example": "Le biais de confirmation nous fait retenir ce qui nous arrange.", "exampleEnglish": "Confirmation bias makes us remember what suits us.", "level": "B2", "category": "media" },
+            { "id": "le-cadrage", "french": "le cadrage", "english": "the framing (of an issue)", "partOfSpeech": "noun", "gender": "m", "plural": "les cadrages", "pronunciation": "luh kah-drahzh", "example": "Deux articles exacts peuvent avoir un cadrage opposé.", "exampleEnglish": "Two accurate articles can have opposite framing.", "level": "B2", "category": "media" },
+            { "id": "un-angle", "french": "un angle", "english": "an angle (journalistic approach)", "partOfSpeech": "noun", "gender": "m", "plural": "des angles", "pronunciation": "an nahngl", "example": "Le rédacteur en chef a demandé un angle plus concret.", "exampleEnglish": "The editor-in-chief asked for a more concrete angle.", "level": "B2", "category": "media" },
+            { "id": "le-contexte", "french": "le contexte", "english": "the context", "partOfSpeech": "noun", "gender": "m", "plural": "les contextes", "pronunciation": "luh kon-tekst", "example": "Sortie de son contexte, la citation dit presque l'inverse.", "exampleEnglish": "Taken out of context, the quotation says almost the opposite.", "level": "B2", "category": "media" },
+            { "id": "le-temoignage", "french": "le témoignage", "english": "the testimony, the account", "partOfSpeech": "noun", "gender": "m", "plural": "les témoignages", "pronunciation": "luh tay-mwah-nyahzh", "example": "Un témoignage sincère peut être sincèrement inexact.", "exampleEnglish": "A sincere account can be sincerely inaccurate.", "level": "B2", "category": "media" },
+            { "id": "la-charge-de-la-preuve", "french": "la charge de la preuve", "english": "the burden of proof", "partOfSpeech": "noun", "gender": "f", "plural": "les charges de la preuve", "pronunciation": "lah sharzh duh lah pruhv", "example": "La charge de la preuve revient à celui qui avance l'affirmation.", "exampleEnglish": "The burden of proof falls on whoever makes the claim.", "level": "B2", "category": "media" },
+            { "id": "la-capture-d-ecran", "french": "la capture d'écran", "english": "the screenshot", "partOfSpeech": "noun", "gender": "f", "plural": "les captures d'écran", "pronunciation": "lah kap-tür day-krahn", "example": "Une capture d'écran se retouche très facilement.", "exampleEnglish": "A screenshot can be doctored very easily.", "level": "B2", "category": "media" },
+            { "id": "sous-couvert-danonymat", "french": "sous couvert d'anonymat", "english": "on condition of anonymity", "partOfSpeech": "expression", "pronunciation": "soo koo-vair dah-no-nee-mah", "example": "Deux cadres ont accepté de parler sous couvert d'anonymat.", "exampleEnglish": "Two executives agreed to speak on condition of anonymity.", "level": "B2", "category": "media" },
+            { "id": "sous-reserve-de-verification", "french": "sous réserve de vérification", "english": "subject to verification", "partOfSpeech": "expression", "pronunciation": "soo ray-zairv duh vay-ree-fee-kah-syon", "example": "Je vous donne ce chiffre sous réserve de vérification.", "exampleEnglish": "I am giving you this figure subject to verification.", "level": "B2", "category": "media" },
+            { "id": "le-conditionnel-journalistique", "french": "le conditionnel journalistique", "english": "the journalistic conditional (reported, unconfirmed)", "partOfSpeech": "noun", "gender": "m", "plural": "les conditionnels journalistiques", "pronunciation": "luh kon-dee-syo-nel zhoor-nah-lees-teek", "example": "Le conditionnel journalistique signale une information non confirmée.", "exampleEnglish": "The journalistic conditional signals unconfirmed information.", "level": "B2", "category": "media" },
+            { "id": "affirmer", "french": "affirmer", "english": "to assert, to state firmly", "partOfSpeech": "verb", "pronunciation": "ah-feer-may", "example": "Il affirme sans apporter le moindre élément.", "exampleEnglish": "He asserts it without providing the slightest piece of evidence.", "level": "B2", "category": "media" },
+            { "id": "pretendre", "french": "prétendre", "english": "to claim (often doubtfully)", "partOfSpeech": "verb", "pronunciation": "pray-tahndr", "example": "Le site prétend citer une étude qui n'existe pas.", "exampleEnglish": "The site claims to quote a study that does not exist.", "level": "B2", "category": "media" },
+            { "id": "pretendument", "french": "prétendument", "english": "allegedly, supposedly", "partOfSpeech": "adverb", "pronunciation": "pray-tahn-dü-mahn", "example": "Un document prétendument confidentiel circule depuis hier.", "exampleEnglish": "An allegedly confidential document has been circulating since yesterday.", "level": "B2", "category": "media" },
+            { "id": "mettre-en-doute", "french": "mettre en doute", "english": "to cast doubt on", "partOfSpeech": "expression", "pronunciation": "metr ahn doot", "example": "Personne ne met en doute la bonne foi du témoin.", "exampleEnglish": "Nobody is casting doubt on the witness's good faith.", "level": "B2", "category": "media" },
+            { "id": "dementir", "french": "démentir", "english": "to deny, to refute", "partOfSpeech": "verb", "pronunciation": "day-mahn-teer", "example": "Le ministère a démenti l'information dans la soirée.", "exampleEnglish": "The ministry denied the report in the evening.", "level": "B2", "category": "media" },
+            { "id": "la-rectification", "french": "la rectification", "english": "the correction", "partOfSpeech": "noun", "gender": "f", "plural": "les rectifications", "pronunciation": "lah rek-tee-fee-kah-syon", "example": "La rectification est parue en bas de page.", "exampleEnglish": "The correction appeared at the bottom of the page.", "level": "B2", "category": "media" },
+            { "id": "relayer", "french": "relayer", "english": "to relay, to pass on (information)", "partOfSpeech": "verb", "pronunciation": "ruh-lay-yay", "example": "Relayer sans vérifier revient à cautionner.", "exampleEnglish": "Passing something on without checking amounts to endorsing it.", "level": "B2", "category": "media" },
+            { "id": "la-desinformation", "french": "la désinformation", "english": "disinformation", "partOfSpeech": "noun", "gender": "f", "plural": "les désinformations", "pronunciation": "lah day-zan-for-mah-syon", "example": "La désinformation suppose une intention de tromper.", "exampleEnglish": "Disinformation implies an intention to deceive.", "level": "B2", "category": "media" },
+            { "id": "l-infox", "french": "l'infox", "english": "fake news (official French term)", "partOfSpeech": "noun", "gender": "f", "plural": "les infox", "pronunciation": "lan-foks", "example": "« Infox » a été proposé par la Commission d'enrichissement de la langue française.", "exampleEnglish": "\"Infox\" was proposed by the French language enrichment commission.", "level": "B2", "category": "media" },
+            { "id": "la-fausse-information", "french": "la fausse information", "english": "the false information, fake news", "partOfSpeech": "noun", "gender": "f", "plural": "les fausses informations", "pronunciation": "lah fohss an-for-mah-syon", "example": "Une fausse information peut être diffusée de bonne foi.", "exampleEnglish": "False information can be spread in good faith.", "level": "B2", "category": "media" },
+            { "id": "la-theorie-du-complot", "french": "la théorie du complot", "english": "the conspiracy theory", "partOfSpeech": "noun", "gender": "f", "plural": "les théories du complot", "pronunciation": "lah tay-o-ree dü kom-ploh", "example": "Une théorie du complot explique tout et ne se laisse jamais réfuter.", "exampleEnglish": "A conspiracy theory explains everything and never allows itself to be refuted.", "level": "B2", "category": "media" },
+            { "id": "le-titre-racoleur", "french": "le titre racoleur", "english": "the clickbait headline", "partOfSpeech": "noun", "gender": "m", "plural": "les titres racoleurs", "pronunciation": "luh teetr rah-ko-lur", "example": "Un titre racoleur promet plus que ne contient l'article.", "exampleEnglish": "A clickbait headline promises more than the article contains.", "level": "B2", "category": "media" },
+            { "id": "le-sensationnalisme", "french": "le sensationnalisme", "english": "sensationalism", "partOfSpeech": "noun", "gender": "m", "plural": "les sensationnalismes", "pronunciation": "luh sahn-sah-syo-nah-leesm", "example": "Le sensationnalisme fatigue le lecteur à la longue.", "exampleEnglish": "Sensationalism wears the reader out in the long run.", "level": "B2", "category": "media" },
+            { "id": "l-esprit-critique", "french": "l'esprit critique", "english": "critical thinking", "partOfSpeech": "noun", "gender": "m", "plural": "les esprits critiques", "pronunciation": "less-pree kree-teek", "example": "L'esprit critique s'exerce aussi sur les sources qui nous plaisent.", "exampleEnglish": "Critical thinking also applies to the sources we like.", "level": "B2", "category": "media" },
+            { "id": "l-enquete", "french": "l'enquête", "english": "the investigation, the survey", "partOfSpeech": "noun", "gender": "f", "plural": "les enquêtes", "pronunciation": "lahn-ket", "example": "L'enquête a duré huit mois et s'appuie sur douze sources.", "exampleEnglish": "The investigation took eight months and relies on twelve sources.", "level": "B2", "category": "media" },
+            { "id": "la-manipulation", "french": "la manipulation", "english": "the manipulation", "partOfSpeech": "noun", "gender": "f", "plural": "les manipulations", "pronunciation": "lah mah-nee-pü-lah-syon", "example": "Il y a manipulation quand l'intention de tromper est établie.", "exampleEnglish": "There is manipulation when the intention to deceive is established.", "level": "B2", "category": "media" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Le conditionnel journalistique",
+              "body": "In French news writing, a present conditional (or conditionnel passé) marks information as reported but unconfirmed. There is no si-clause: the conditional carries the hedge on its own. English needs an adverb — reportedly, allegedly — where French only changes the verb ending. Recognising this is essential to reading French news accurately.",
+              "examples": [
+                { "french": "L'accord serait signé avant la fin du mois.", "english": "The agreement is reportedly to be signed before the end of the month.", "note": "serait, not est" },
+                { "french": "Les dégâts s'élèveraient à plusieurs millions d'euros.", "english": "The damage reportedly amounts to several million euros." },
+                { "french": "Le directeur aurait démissionné lundi soir.", "english": "The director allegedly resigned on Monday evening.", "note": "conditionnel passé for a past report" },
+                { "french": "Selon nos informations, deux sites seraient concernés.", "english": "According to our information, two sites are said to be affected." },
+                { "french": "Une fois confirmé, on repasse au présent : l'accord est signé.", "english": "Once confirmed, you go back to the present: the agreement is signed." }
+              ],
+              "tip": "Don't overuse it in an exam essay: a conditional everywhere reads as evasive. Use it only where the source really is unconfirmed."
+            },
+            {
+              "heading": "Attributing rather than asserting",
+              "body": "To stay descriptive, French offers a toolkit of attribution structures: selon + noun, d'après + noun, il semblerait que + subjunctive, on prête à quelqu'un l'idée que, X aurait déclaré que. Note that « il semble que » takes the subjunctive, while « il me semble que » takes the indicative — a classic B2 trap.",
+              "examples": [
+                { "french": "Selon plusieurs observateurs, la couverture a été déséquilibrée.", "english": "According to several observers, the coverage was unbalanced." },
+                { "french": "D'après l'agence, aucune confirmation officielle n'a été obtenue.", "english": "According to the agency, no official confirmation has been obtained." },
+                { "french": "Il semblerait que la vidéo ait été tournée ailleurs.", "english": "It would appear that the video was shot elsewhere.", "note": "subjonctif after il semblerait que" },
+                { "french": "Il me semble que la vidéo a été tournée ailleurs.", "english": "It seems to me that the video was shot elsewhere.", "note": "indicatif after il me semble que" },
+                { "french": "Le porte-parole aurait déclaré que le dossier était clos.", "english": "The spokesperson reportedly stated that the file was closed." }
+              ],
+              "tip": "« d'après » is slightly more informal than « selon » but perfectly acceptable in writing. Both are far safer than asserting a contested claim in your own voice."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "b2_u12_l02_li01",
+              "type": "listenChoose",
+              "french": "Selon plusieurs médias, l'usine fermerait en juin.",
+              "options": ["According to several media outlets, the factory is reportedly closing in June.", "Several media outlets have confirmed that the factory closed in June.", "The factory will definitely close in June.", "Several media outlets want the factory to close in June."],
+              "answer": "According to several media outlets, the factory is reportedly closing in June."
+            },
+            {
+              "id": "b2_u12_l02_li02",
+              "type": "listenChoose",
+              "french": "Une capture d'écran ne constitue pas une preuve.",
+              "options": ["A screenshot does not constitute proof.", "A screenshot is the best proof.", "A screenshot must be published.", "A screenshot proves the source."],
+              "answer": "A screenshot does not constitute proof."
+            },
+            {
+              "id": "b2_u12_l02_li03",
+              "type": "listenType",
+              "french": "Il faut recouper avec une source indépendante.",
+              "answer": "Il faut recouper avec une source indépendante.",
+              "acceptedAnswers": ["Il faut recouper avec une source independante", "il faut recouper avec une source indépendante"]
+            },
+            {
+              "id": "b2_u12_l02_li04",
+              "type": "dictation",
+              "french": "La charge de la preuve revient à celui qui affirme.",
+              "answer": "La charge de la preuve revient à celui qui affirme.",
+              "acceptedAnswers": ["La charge de la preuve revient a celui qui affirme", "la charge de la preuve revient à celui qui affirme"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "b2_u12_l02_sp01",
+              "type": "speak",
+              "french": "Avant de partager, j'essaie toujours de remonter à la source.",
+              "english": "Before sharing, I always try to trace it back to the source.",
+              "prompt": "State your own verification habit.",
+              "tip": "« j'essaie » is two syllables: zhe-say. Don't insert a vowel before the s — keep the j' glued to essaie."
+            },
+            {
+              "id": "b2_u12_l02_sp02",
+              "type": "speak",
+              "french": "Ce n'est pas faux, c'est incomplet : le cadrage change tout.",
+              "english": "It is not false, it is incomplete: the framing changes everything.",
+              "prompt": "Criticise a piece of coverage precisely rather than dismissing it.",
+              "tip": "Mark the colon with a short pause and a slight rise on « incomplet ». The final t of incomplet is silent: an-kom-pleh."
+            },
+            {
+              "id": "b2_u12_l02_sp03",
+              "type": "speak",
+              "french": "Il semblerait que la vidéo ait été tournée ailleurs, mais ce n'est pas confirmé.",
+              "english": "It would appear that the video was shot elsewhere, but it is not confirmed.",
+              "prompt": "Report an unconfirmed claim with proper hedging.",
+              "tip": "Say « ait été » as two clean syllables, eh-tay-tay, without swallowing the first: the liaison links ait to été."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Trois minutes avant de partager",
+              "french": "La vidéo dure quarante secondes. On y voit une foule, des drapeaux, une fumée épaisse. La légende annonce une ville, une date, un événement grave.\nEn trois heures, elle a été vue deux millions de fois.\nLe premier réflexe n'est pas de se demander si c'est vrai, mais d'où cela vient.\nOr le compte qui a publié la vidéo n'indique aucune source : il dit l'avoir « reçue ».\nLa deuxième question porte sur la datation. Une recherche d'image inversée montre que la même séquence circulait déjà trois ans plus tôt, sous une autre légende.\nCe n'est pas nécessairement une manipulation : quelqu'un a pu se tromper de bonne foi, puis mille personnes ont relayé son erreur.\nLa troisième question est celle du recoupement. Une agence de presse a-t-elle publié une dépêche ? Un média local a-t-il couvert l'événement ?\nSi personne sur place ne le mentionne, le silence est en soi une information.\nLes rédactions professionnelles emploient exactement cette méthode, avec plus de moyens et parfois les mêmes erreurs.\nQuand elles se trompent, la déontologie leur impose une rectification visible, ce que les réseaux n'organisent pas.\nIl faut aussi accepter une conclusion inconfortable : dans bien des cas, on ne peut pas trancher.\nDire « je ne sais pas encore » est une réponse valable, et souvent la seule honnête.\nLe doute méthodique n'a rien à voir avec le doute généralisé, qui finit par tout mettre au même niveau.\nL'esprit critique consiste à hiérarchiser les sources, pas à les rejeter toutes.",
+              "english": "The video lasts forty seconds. You see a crowd, flags, thick smoke. The caption announces a town, a date, a serious event.\nWithin three hours, it has been viewed two million times.\nThe first reflex is not to ask whether it is true, but where it comes from.\nYet the account that posted the video gives no source: it says it \"received\" it.\nThe second question concerns dating. A reverse image search shows that the same sequence was already circulating three years earlier, under a different caption.\nThat is not necessarily manipulation: someone may have been mistaken in good faith, and then a thousand people relayed their mistake.\nThe third question is corroboration. Has a news agency issued a dispatch? Has a local outlet covered the event?\nIf nobody on the ground mentions it, the silence is itself a piece of information.\nProfessional newsrooms use exactly this method, with more resources and sometimes the same mistakes.\nWhen they get it wrong, professional ethics require a visible correction, something the networks do not organise.\nYou also have to accept an uncomfortable conclusion: in many cases, you cannot decide.\nSaying \"I don't know yet\" is a valid answer, and often the only honest one.\nMethodical doubt has nothing to do with generalised doubt, which ends up putting everything on the same level.\nCritical thinking consists in ranking sources, not in rejecting them all.",
+              "questions": [
+                {
+                  "id": "b2_u12_l02_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Quelle est, selon le texte, la première question à se poser ?",
+                  "options": ["D'où vient l'information", "Combien de vues elle a", "Qui l'a commentée", "Si elle est émouvante"],
+                  "answer": "D'où vient l'information"
+                },
+                {
+                  "id": "b2_u12_l02_rd02",
+                  "type": "multipleChoice",
+                  "prompt": "Qu'a révélé la recherche d'image inversée ?",
+                  "options": ["La séquence circulait déjà trois ans plus tôt", "La vidéo a été tournée le matin même", "Le compte est officiel", "L'agence a confirmé la scène"],
+                  "answer": "La séquence circulait déjà trois ans plus tôt"
+                },
+                {
+                  "id": "b2_u12_l02_rd03",
+                  "type": "trueFalse",
+                  "prompt": "Selon le texte, l'esprit critique consiste à rejeter toutes les sources.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "b2_u12_l02_wr01",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "According to several media outlets, the factory is reportedly closing in June.",
+              "answer": "Selon plusieurs médias, l'usine fermerait en juin.",
+              "acceptedAnswers": ["Selon plusieurs medias, l'usine fermerait en juin", "Selon plusieurs médias l'usine fermerait en juin"]
+            },
+            {
+              "id": "b2_u12_l02_wr02",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "The burden of proof falls on whoever makes the claim.",
+              "answer": "La charge de la preuve revient à celui qui affirme.",
+              "acceptedAnswers": ["La charge de la preuve revient a celui qui affirme", "la charge de la preuve revient à celui qui affirme"]
+            },
+            {
+              "id": "b2_u12_l02_wr03",
+              "type": "arrangeWords",
+              "words": ["source", "avant", "remonter", "de", "partager", "à", "la", "il", "faut"],
+              "answer": "avant de partager il faut remonter à la source",
+              "english": "before sharing you have to trace it back to the source"
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "b2_u12_l02_pr01",
+              "type": "fillBlank",
+              "prompt": "Il semblerait que la vidéo ___ été tournée ailleurs.",
+              "answer": "ait"
+            },
+            {
+              "id": "b2_u12_l02_pr02",
+              "type": "multipleChoice",
+              "prompt": "« Le suspect aurait quitté le pays » signifie que…",
+              "options": ["l'information n'est pas confirmée", "le suspect a certainement quitté le pays", "le suspect voulait quitter le pays", "le suspect devait quitter le pays"],
+              "answer": "l'information n'est pas confirmée"
+            },
+            {
+              "id": "b2_u12_l02_pr03",
+              "type": "match",
+              "pairs": [
+                { "french": "recouper", "english": "to cross-check" },
+                { "french": "le démenti", "english": "the denial" },
+                { "french": "le cadrage", "english": "the framing" },
+                { "french": "prétendument", "english": "allegedly" }
+              ]
+            },
+            {
+              "id": "b2_u12_l02_pr04",
+              "type": "fillBlank",
+              "prompt": "___ l'agence, aucune confirmation officielle n'a été obtenue.",
+              "answer": "Selon"
+            },
+            {
+              "id": "b2_u12_l02_pr05",
+              "type": "multipleChoice",
+              "prompt": "Quelle phrase distingue correctement le fait du cadrage ?",
+              "options": ["Le chiffre est exact, mais le cadrage oriente la lecture.", "Le chiffre est faux, donc le cadrage est bon.", "Le cadrage remplace toujours les faits.", "Un fait ne peut jamais être cadré."],
+              "answer": "Le chiffre est exact, mais le cadrage oriente la lecture."
+            },
+            {
+              "id": "b2_u12_l02_pr06",
+              "type": "arrangeWords",
+              "words": ["preuve", "capture", "n'est", "une", "d'écran", "pas", "une"],
+              "answer": "une capture d'écran n'est pas une preuve",
+              "english": "a screenshot is not proof"
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "b2_u12_l02_qz01",
+              "type": "multipleChoice",
+              "prompt": "Quelle définition correspond à « la désinformation » ?",
+              "options": ["une information fausse diffusée avec l'intention de tromper", "une information exacte mal comprise", "une information ancienne republiée", "une information trop technique"],
+              "answer": "une information fausse diffusée avec l'intention de tromper"
+            },
+            {
+              "id": "b2_u12_l02_qz02",
+              "type": "fillBlank",
+              "prompt": "Selon nos informations, deux sites ___ concernés. (conditionnel journalistique)",
+              "answer": "seraient"
+            },
+            {
+              "id": "b2_u12_l02_qz03",
+              "type": "multipleChoice",
+              "prompt": "Choisissez la construction correcte.",
+              "options": ["Il semble que ce soit vrai.", "Il semble que c'est vrai.", "Il me semble que ce soit vrai.", "Il semblerait que c'est vrai."],
+              "answer": "Il semble que ce soit vrai."
+            },
+            {
+              "id": "b2_u12_l02_qz04",
+              "type": "trueFalse",
+              "prompt": "Dix comptes qui relaient le même message constituent dix sources indépendantes.",
+              "options": ["True", "False"],
+              "answer": "False"
+            },
+            {
+              "id": "b2_u12_l02_qz05",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "I am giving you this figure subject to verification.",
+              "answer": "Je vous donne ce chiffre sous réserve de vérification.",
+              "acceptedAnswers": ["Je vous donne ce chiffre sous reserve de verification", "je vous donne ce chiffre sous réserve de vérification"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2_u12_l03",
+      "level": "B2",
+      "unit": 12,
+      "title": "Les algorithmes",
+      "description": "Talk about recommendation systems, filter bubbles and the attention economy — and weigh the evidence carefully.",
+      "estimatedMinutes": 19,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "How a recommendation system is described in French",
+              "body": "A système de recommandation ranks content according to signaux: what you watched, how long you stayed, what people similar to you clicked. French speakers say « l'algorithme me propose », « le fil est trié par pertinence », « ce contenu est mis en avant ». Note that algorithme is masculine and that classer and trier are the everyday verbs for ranking.",
+              "examples": [
+                { "french": "L'algorithme classe les publications selon des signaux d'engagement.", "english": "The algorithm ranks posts according to engagement signals." },
+                { "french": "Le fil n'est plus chronologique : il est trié par pertinence supposée.", "english": "The feed is no longer chronological: it is sorted by presumed relevance." },
+                { "french": "Ce contenu a été mis en avant parce que des profils proches l'ont regardé.", "english": "This content was promoted because similar profiles watched it." },
+                { "french": "La personnalisation repose sur des données de comportement.", "english": "Personalisation is based on behavioural data." },
+                { "french": "On peut souvent paramétrer un fil chronologique dans les réglages.", "english": "You can often set a chronological feed in the settings." }
+              ],
+              "tip": "« mettre en avant » (to promote, to highlight) and « rétrograder » (to demote) are the neutral verbs for what platforms do to content."
+            },
+            {
+              "heading": "Filter bubbles: a contested idea",
+              "body": "The bulle de filtres, popularised by Eli Pariser in 2011, is the idea that personalisation locks each user into a self-confirming world. It is worth knowing that researchers disagree about its scale: several studies suggest that people online encounter more diverse views than offline, while others document strong effects for heavy users of specific platforms. State it as a debate, not a settled fact.",
+              "examples": [
+                { "french": "La bulle de filtres est une hypothèse discutée, pas un fait établi.", "english": "The filter bubble is a debated hypothesis, not an established fact." },
+                { "french": "Certaines études suggèrent une exposition plus diverse en ligne qu'hors ligne.", "english": "Some studies suggest more diverse exposure online than offline." },
+                { "french": "D'autres travaux documentent des effets nets chez les utilisateurs intensifs.", "english": "Other work documents clear effects among heavy users." },
+                { "french": "Il vaut mieux dire « selon plusieurs chercheurs » que « il est prouvé que ».", "english": "It is better to say \"according to several researchers\" than \"it is proven that\"." },
+                { "french": "La chambre d'écho décrit plutôt un choix social qu'un tri automatique.", "english": "The echo chamber describes a social choice rather than an automatic sorting." }
+              ],
+              "tip": "Distinguish the two terms: bulle de filtres = caused by the algorithm; chambre d'écho = caused by who we choose to follow."
+            },
+            {
+              "heading": "The attention economy",
+              "body": "L'économie de l'attention names a simple economic fact: where a service is free, attention is what is sold to advertisers. That explains notifications, infinite scroll and autoplay. Saying so is a description of a business model, not an accusation — and there are alternative models: subscription, public funding, cooperatives.",
+              "examples": [
+                { "french": "Si le service est gratuit, l'attention est le produit vendu.", "english": "If the service is free, attention is the product being sold." },
+                { "french": "Le défilement infini supprime les points d'arrêt naturels.", "english": "Infinite scroll removes natural stopping points." },
+                { "french": "Les notifications sont conçues pour ramener l'utilisateur.", "english": "Notifications are designed to bring the user back." },
+                { "french": "D'autres modèles existent : abonnement payant, financement public, coopérative.", "english": "Other models exist: paid subscription, public funding, cooperative." },
+                { "french": "Réduire son temps d'écran relève autant du design que de la volonté.", "english": "Reducing your screen time is as much about design as about willpower." }
+              ],
+              "tip": "« relever de » (+ noun) = to be a matter of / to fall under. Very useful in argumentative writing: « cela relève du choix politique »."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "l-algorithme", "french": "l'algorithme", "english": "the algorithm", "partOfSpeech": "noun", "gender": "m", "plural": "les algorithmes", "pronunciation": "lal-go-reetm", "example": "L'algorithme n'a pas d'intention : il optimise un critère.", "exampleEnglish": "The algorithm has no intention: it optimises a criterion.", "level": "B2", "category": "technology" },
+            { "id": "le-systeme-de-recommandation", "french": "le système de recommandation", "english": "the recommendation system", "partOfSpeech": "noun", "gender": "m", "plural": "les systèmes de recommandation", "pronunciation": "luh sees-tem duh ruh-ko-mahn-dah-syon", "example": "Le système de recommandation apprend de nos comportements passés.", "exampleEnglish": "The recommendation system learns from our past behaviour.", "level": "B2", "category": "technology" },
+            { "id": "recommandation", "french": "la recommandation", "english": "the recommendation", "partOfSpeech": "noun", "gender": "f", "plural": "les recommandations", "pronunciation": "lah ruh-ko-mahn-dah-syon", "example": "Une recommandation sur trois vient d'un profil similaire au vôtre.", "exampleEnglish": "One recommendation in three comes from a profile similar to yours.", "level": "B2", "category": "technology" },
+            { "id": "recommander", "french": "recommander", "english": "to recommend", "partOfSpeech": "verb", "pronunciation": "ruh-ko-mahn-day", "example": "La plateforme recommande ce qui retient l'attention le plus longtemps.", "exampleEnglish": "The platform recommends whatever holds attention the longest.", "level": "B2", "category": "technology" },
+            { "id": "la-plateforme", "french": "la plateforme", "english": "the platform", "partOfSpeech": "noun", "gender": "f", "plural": "les plateformes", "pronunciation": "lah plat-form", "example": "La plateforme n'est pas éditrice, mais elle hiérarchise les contenus.", "exampleEnglish": "The platform is not a publisher, but it does rank content.", "level": "B2", "category": "technology" },
+            { "id": "le-contenu", "french": "le contenu", "english": "the content", "partOfSpeech": "noun", "gender": "m", "plural": "les contenus", "pronunciation": "luh kon-tuh-nü", "example": "Un contenu clivant circule souvent plus vite qu'un contenu nuancé.", "exampleEnglish": "Divisive content often circulates faster than nuanced content.", "level": "B2", "category": "technology" },
+            { "id": "le-fil-d-actualite", "french": "le fil d'actualité", "english": "the news feed", "partOfSpeech": "noun", "gender": "m", "plural": "les fils d'actualité", "pronunciation": "luh feel dak-tü-ah-lee-tay", "example": "Mon fil d'actualité ne ressemble pas au vôtre.", "exampleEnglish": "My news feed does not look like yours.", "level": "B2", "category": "technology" },
+            { "id": "la-bulle-de-filtres", "french": "la bulle de filtres", "english": "the filter bubble", "partOfSpeech": "noun", "gender": "f", "plural": "les bulles de filtres", "pronunciation": "lah bül duh feeltr", "example": "La bulle de filtres reste une hypothèse discutée par les chercheurs.", "exampleEnglish": "The filter bubble remains a hypothesis debated by researchers.", "level": "B2", "category": "technology" },
+            { "id": "la-chambre-d-echo", "french": "la chambre d'écho", "english": "the echo chamber", "partOfSpeech": "noun", "gender": "f", "plural": "les chambres d'écho", "pronunciation": "lah shahmbr day-koh", "example": "Une chambre d'écho résulte souvent de nos propres choix d'abonnement.", "exampleEnglish": "An echo chamber often results from our own following choices.", "level": "B2", "category": "technology" },
+            { "id": "l-economie-de-l-attention", "french": "l'économie de l'attention", "english": "the attention economy", "partOfSpeech": "noun", "gender": "f", "plural": "les économies de l'attention", "pronunciation": "lay-ko-no-mee duh lah-tahn-syon", "example": "L'économie de l'attention explique bien des choix d'interface.", "exampleEnglish": "The attention economy explains many interface choices.", "level": "B2", "category": "technology" },
+            { "id": "capter-l-attention", "french": "capter l'attention", "english": "to capture the attention", "partOfSpeech": "expression", "pronunciation": "kap-tay lah-tahn-syon", "example": "Les trois premières secondes servent à capter l'attention.", "exampleEnglish": "The first three seconds serve to capture attention.", "level": "B2", "category": "technology" },
+            { "id": "le-temps-d-ecran", "french": "le temps d'écran", "english": "screen time", "partOfSpeech": "noun", "gender": "m", "plural": "les temps d'écran", "pronunciation": "luh tahn day-krahn", "example": "Mon temps d'écran a doublé depuis que le fil est personnalisé.", "exampleEnglish": "My screen time has doubled since the feed became personalised.", "level": "B2", "category": "technology" },
+            { "id": "addictif", "french": "addictif", "english": "addictive", "partOfSpeech": "adjective", "pronunciation": "ah-deek-teef", "example": "Le format court est jugé particulièrement addictif.", "exampleEnglish": "The short format is considered particularly addictive.", "level": "B2", "category": "technology" },
+            { "id": "la-notification", "french": "la notification", "english": "the notification", "partOfSpeech": "noun", "gender": "f", "plural": "les notifications", "pronunciation": "lah no-tee-fee-kah-syon", "example": "J'ai coupé les notifications pendant une semaine, par curiosité.", "exampleEnglish": "I turned off notifications for a week, out of curiosity.", "level": "B2", "category": "technology" },
+            { "id": "le-defilement-infini", "french": "le défilement infini", "english": "infinite scroll", "partOfSpeech": "noun", "gender": "m", "plural": "les défilements infinis", "pronunciation": "luh day-feel-mahn an-fee-nee", "example": "Le défilement infini supprime le moment où l'on s'arrête.", "exampleEnglish": "Infinite scroll removes the moment when you stop.", "level": "B2", "category": "technology" },
+            { "id": "cliquer", "french": "cliquer", "english": "to click", "partOfSpeech": "verb", "pronunciation": "klee-kay", "example": "On clique souvent sans avoir lu au-delà du titre.", "exampleEnglish": "People often click without having read beyond the headline.", "level": "B2", "category": "technology" },
+            { "id": "le-taux-de-clic", "french": "le taux de clic", "english": "the click-through rate", "partOfSpeech": "noun", "gender": "m", "plural": "les taux de clic", "pronunciation": "luh toh duh kleek", "example": "Optimiser le taux de clic pousse aux titres racoleurs.", "exampleEnglish": "Optimising the click-through rate encourages clickbait headlines.", "level": "B2", "category": "technology" },
+            { "id": "le-taux-d-engagement", "french": "le taux d'engagement", "english": "the engagement rate", "partOfSpeech": "noun", "gender": "m", "plural": "les taux d'engagement", "pronunciation": "luh toh dahn-gahzh-mahn", "example": "Le taux d'engagement mesure les réactions, pas la qualité.", "exampleEnglish": "The engagement rate measures reactions, not quality.", "level": "B2", "category": "technology" },
+            { "id": "viral", "french": "viral", "english": "viral", "partOfSpeech": "adjective", "pronunciation": "vee-rahl", "example": "Un contenu viral n'est pas un contenu vérifié.", "exampleEnglish": "Viral content is not verified content.", "level": "B2", "category": "technology" },
+            { "id": "la-viralite", "french": "la viralité", "english": "virality", "partOfSpeech": "noun", "gender": "f", "plural": "les viralités", "pronunciation": "lah vee-rah-lee-tay", "example": "La viralité récompense l'émotion plus que la précision.", "exampleEnglish": "Virality rewards emotion more than accuracy.", "level": "B2", "category": "technology" },
+            { "id": "le-ciblage-publicitaire", "french": "le ciblage publicitaire", "english": "ad targeting", "partOfSpeech": "noun", "gender": "m", "plural": "les ciblages publicitaires", "pronunciation": "luh see-blahzh pü-blee-see-tair", "example": "Le ciblage publicitaire repose sur des catégories d'audience très fines.", "exampleEnglish": "Ad targeting relies on very fine-grained audience categories.", "level": "B2", "category": "technology" },
+            { "id": "la-publicite-ciblee", "french": "la publicité ciblée", "english": "targeted advertising", "partOfSpeech": "noun", "gender": "f", "plural": "les publicités ciblées", "pronunciation": "lah pü-blee-see-tay see-blay", "example": "La publicité ciblée finance la gratuité apparente du service.", "exampleEnglish": "Targeted advertising funds the apparent free access to the service.", "level": "B2", "category": "technology" },
+            { "id": "le-profilage", "french": "le profilage", "english": "profiling", "partOfSpeech": "noun", "gender": "m", "plural": "les profilages", "pronunciation": "luh pro-fee-lahzh", "example": "Le RGPD encadre le profilage automatisé des personnes.", "exampleEnglish": "The GDPR regulates automated profiling of individuals.", "level": "B2", "category": "technology" },
+            { "id": "la-personnalisation", "french": "la personnalisation", "english": "personalisation", "partOfSpeech": "noun", "gender": "f", "plural": "les personnalisations", "pronunciation": "lah per-so-nah-lee-zah-syon", "example": "La personnalisation est utile jusqu'au moment où elle devient invisible.", "exampleEnglish": "Personalisation is useful right up to the point where it becomes invisible.", "level": "B2", "category": "technology" },
+            { "id": "les-donnees-personnelles", "french": "les données personnelles", "english": "personal data", "partOfSpeech": "noun", "gender": "f", "plural": "les données personnelles", "pronunciation": "lay do-nay per-so-nel", "example": "Les données personnelles ne se limitent pas au nom et à l'adresse.", "exampleEnglish": "Personal data are not limited to name and address.", "level": "B2", "category": "technology" },
+            { "id": "le-traitement-des-donnees", "french": "le traitement des données", "english": "data processing", "partOfSpeech": "noun", "gender": "m", "plural": "les traitements des données", "pronunciation": "luh treht-mahn day do-nay", "example": "Le traitement des données doit reposer sur une base légale.", "exampleEnglish": "Data processing must rest on a legal basis.", "level": "B2", "category": "technology" },
+            { "id": "l-utilisateur", "french": "l'utilisateur", "english": "the user", "partOfSpeech": "noun", "gender": "m", "plural": "les utilisateurs", "pronunciation": "lü-tee-lee-zah-tur", "example": "L'utilisateur voit rarement les critères de tri.", "exampleEnglish": "The user rarely sees the sorting criteria.", "level": "B2", "category": "technology" },
+            { "id": "parametrer", "french": "paramétrer", "english": "to configure, to set up (settings)", "partOfSpeech": "verb", "pronunciation": "pah-rah-may-tray", "example": "On peut paramétrer un fil chronologique dans les réglages.", "exampleEnglish": "You can set a chronological feed in the settings.", "level": "B2", "category": "technology" },
+            { "id": "la-transparence-algorithmique", "french": "la transparence algorithmique", "english": "algorithmic transparency", "partOfSpeech": "noun", "gender": "f", "plural": "les transparences algorithmiques", "pronunciation": "lah trahns-pah-rahnss al-go-reet-meek", "example": "Le règlement européen impose une certaine transparence algorithmique.", "exampleEnglish": "European regulation imposes a degree of algorithmic transparency.", "level": "B2", "category": "technology" },
+            { "id": "moderer", "french": "modérer", "english": "to moderate", "partOfSpeech": "verb", "pronunciation": "mo-day-ray", "example": "Modérer des millions de messages par jour reste un problème non résolu.", "exampleEnglish": "Moderating millions of messages a day remains an unsolved problem.", "level": "B2", "category": "technology" },
+            { "id": "la-moderation-des-contenus", "french": "la modération des contenus", "english": "content moderation", "partOfSpeech": "noun", "gender": "f", "plural": "les modérations des contenus", "pronunciation": "lah mo-day-rah-syon day kon-tuh-nü", "example": "La modération des contenus mêle automatisation et décisions humaines.", "exampleEnglish": "Content moderation combines automation and human decisions.", "level": "B2", "category": "technology" },
+            { "id": "la-polarisation", "french": "la polarisation", "english": "polarisation", "partOfSpeech": "noun", "gender": "f", "plural": "les polarisations", "pronunciation": "lah po-lah-ree-zah-syon", "example": "Les causes de la polarisation dépassent largement les plateformes.", "exampleEnglish": "The causes of polarisation go well beyond the platforms.", "level": "B2", "category": "technology" },
+            { "id": "les-reseaux-sociaux", "french": "les réseaux sociaux", "english": "social media", "partOfSpeech": "noun", "gender": "m", "plural": "les réseaux sociaux", "pronunciation": "lay ray-zoh so-syoh", "example": "Les réseaux sociaux sont devenus une porte d'entrée vers l'information.", "exampleEnglish": "Social media have become a gateway to the news.", "level": "B2", "category": "technology" },
+            { "id": "partager", "french": "partager", "english": "to share", "partOfSpeech": "verb", "pronunciation": "par-tah-zhay", "example": "Partager, c'est déjà éditorialiser.", "exampleEnglish": "Sharing is already an editorial act.", "level": "B2", "category": "technology" },
+            { "id": "l-abonne", "french": "l'abonné", "english": "the follower, the subscriber", "partOfSpeech": "noun", "gender": "m", "plural": "les abonnés", "pronunciation": "lah-bo-nay", "example": "Le nombre d'abonnés ne dit rien de la portée réelle.", "exampleEnglish": "The number of followers says nothing about actual reach.", "level": "B2", "category": "technology" },
+            { "id": "se-desabonner", "french": "se désabonner", "english": "to unfollow, to unsubscribe", "partOfSpeech": "verb", "pronunciation": "suh day-zah-bo-nay", "example": "Se désabonner modifie immédiatement ce que l'on vous propose.", "exampleEnglish": "Unfollowing immediately changes what you are offered.", "level": "B2", "category": "technology" },
+            { "id": "influenceur", "french": "l'influenceur", "english": "the influencer", "partOfSpeech": "noun", "gender": "m", "plural": "les influenceurs", "pronunciation": "lan-flü-ahn-sur", "example": "Depuis 2023, l'influenceur doit signaler ses contenus commerciaux.", "exampleEnglish": "Since 2023, influencers must flag their commercial content.", "level": "B2", "category": "technology" },
+            { "id": "l-abonnement-payant", "french": "l'abonnement payant", "english": "the paid subscription", "partOfSpeech": "noun", "gender": "m", "plural": "les abonnements payants", "pronunciation": "lah-bon-mahn pay-yahn", "example": "L'abonnement payant change les incitations d'un média.", "exampleEnglish": "A paid subscription changes a media outlet's incentives.", "level": "B2", "category": "technology" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Concession: bien que, quoique, même si, certes… mais",
+              "body": "Balanced argument needs concession. Bien que and quoique take the subjunctive; même si takes the indicative; certes… mais is the classic essay pattern for conceding a point before qualifying it. Avoid « malgré que », which is still widely condemned in careful French — use « bien que » or « malgré + noun ».",
+              "examples": [
+                { "french": "Bien que l'effet soit réel, son ampleur reste discutée.", "english": "Although the effect is real, its scale remains debated.", "note": "bien que + subjonctif" },
+                { "french": "Quoique la personnalisation soit utile, elle mérite d'être visible.", "english": "Although personalisation is useful, it deserves to be visible." },
+                { "french": "Même si les études divergent, une tendance se dégage.", "english": "Even if the studies diverge, a trend emerges.", "note": "même si + indicatif" },
+                { "french": "Certes, les plateformes trient ; mais nos abonnements trient aussi.", "english": "Admittedly, platforms do the sorting; but our own subscriptions sort too." },
+                { "french": "Malgré ces réserves, le constat général tient.", "english": "Despite these reservations, the general finding holds.", "note": "malgré + nom, jamais « malgré que »" }
+              ],
+              "tip": "In an oral exam, « certes… mais » signals immediately that you can handle a counter-argument. Examiners notice."
+            },
+            {
+              "heading": "Cause and consequence connectors",
+              "body": "To explain a mechanism — why infinite scroll exists, what follows from ad funding — you need precise connectors. Cause: parce que, puisque (known cause), étant donné que, dans la mesure où. Consequence: donc, par conséquent, si bien que, de sorte que (+ indicative for a real result, subjunctive for an intended aim).",
+              "examples": [
+                { "french": "Puisque le service est gratuit, il faut bien qu'il se finance autrement.", "english": "Since the service is free, it necessarily has to fund itself some other way.", "note": "puisque = cause the listener already knows" },
+                { "french": "Dans la mesure où l'attention est vendue, l'interface la maximise.", "english": "Insofar as attention is sold, the interface maximises it." },
+                { "french": "Le fil est trié par engagement, si bien que l'émotion l'emporte.", "english": "The feed is sorted by engagement, so that emotion wins out.", "note": "si bien que + indicatif = real result" },
+                { "french": "L'interface est conçue de sorte que l'on reste plus longtemps.", "english": "The interface is designed so that people stay longer.", "note": "de sorte que + subjonctif = intended aim" },
+                { "french": "Étant donné que les données manquent, prudence dans les conclusions.", "english": "Given that data are lacking, we should be cautious in our conclusions." }
+              ],
+              "tip": "« dans la mesure où » is a favourite of good B2 essays: it concedes a condition while building on it."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "b2_u12_l03_li01",
+              "type": "listenChoose",
+              "french": "Le fil n'est plus chronologique : il est trié par pertinence supposée.",
+              "options": ["The feed is no longer chronological: it is sorted by presumed relevance.", "The feed is chronological and sorted by date.", "The feed no longer exists on this platform.", "The feed is sorted by the number of followers."],
+              "answer": "The feed is no longer chronological: it is sorted by presumed relevance."
+            },
+            {
+              "id": "b2_u12_l03_li02",
+              "type": "listenChoose",
+              "french": "Bien que l'effet soit réel, son ampleur reste discutée.",
+              "options": ["Although the effect is real, its scale remains debated.", "Because the effect is real, its scale is known.", "The effect is not real and nobody discusses it.", "The effect is real and its scale is proven."],
+              "answer": "Although the effect is real, its scale remains debated."
+            },
+            {
+              "id": "b2_u12_l03_li03",
+              "type": "listenType",
+              "french": "Si le service est gratuit, l'attention est le produit vendu.",
+              "answer": "Si le service est gratuit, l'attention est le produit vendu.",
+              "acceptedAnswers": ["Si le service est gratuit l'attention est le produit vendu", "si le service est gratuit, l'attention est le produit vendu"]
+            },
+            {
+              "id": "b2_u12_l03_li04",
+              "type": "dictation",
+              "french": "Le défilement infini supprime les points d'arrêt naturels.",
+              "answer": "Le défilement infini supprime les points d'arrêt naturels.",
+              "acceptedAnswers": ["Le defilement infini supprime les points d'arret naturels", "le défilement infini supprime les points d'arrêt naturels"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "b2_u12_l03_sp01",
+              "type": "speak",
+              "french": "L'algorithme n'a pas d'intention : il optimise un critère.",
+              "english": "The algorithm has no intention: it optimises a criterion.",
+              "prompt": "Explain what an algorithm does, without dramatising.",
+              "tip": "Keep « n'a pas d'intention » flowing as one group: nah-pah-dan-tahn-syon. The colon gets a pause, not a drop in pitch."
+            },
+            {
+              "id": "b2_u12_l03_sp02",
+              "type": "speak",
+              "french": "Certes, les plateformes trient nos contenus ; mais nos abonnements trient aussi.",
+              "english": "Admittedly, platforms sort our content; but our own subscriptions sort too.",
+              "prompt": "Concede a point, then qualify it.",
+              "tip": "Stress « mais » lightly and pause before it. Remember the French space before the semicolon in writing."
+            },
+            {
+              "id": "b2_u12_l03_sp03",
+              "type": "speak",
+              "french": "Dans la mesure où l'attention est vendue, l'interface est conçue pour la retenir.",
+              "english": "Insofar as attention is sold, the interface is designed to hold on to it.",
+              "prompt": "Explain a mechanism using a cause connector.",
+              "tip": "« mesure où » links smoothly: muh-zür-oo, one breath. Don't stop after « où »."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "La bulle de filtres existe-t-elle vraiment ?",
+              "french": "L'expression « bulle de filtres » a été popularisée en 2011 par le militant américain Eli Pariser.\nL'idée est simple : à force de nous montrer ce qui nous plaît, la personnalisation nous enfermerait dans un monde qui nous donne raison.\nQuinze ans plus tard, le tableau dressé par la recherche est nettement plus nuancé.\nPlusieurs travaux constatent que les internautes rencontrent en ligne davantage d'opinions opposées qu'au café du coin, où l'on choisit ses interlocuteurs depuis toujours.\nD'autres études, portant sur des utilisateurs très intensifs de certaines plateformes, décrivent au contraire un rétrécissement mesurable des sources consultées.\nCes résultats ne se contredisent pas nécessairement : ils ne portent ni sur les mêmes publics ni sur les mêmes usages.\nCe qui fait consensus, en revanche, tient au tri lui-même.\nUn fil classé par engagement récompense ce qui provoque une réaction rapide, et l'indignation en provoque plus que la nuance.\nOn ne parle pas d'un complot, mais d'un critère d'optimisation dont les effets dépassent l'intention initiale.\nÀ cela s'ajoute une asymétrie d'information : l'utilisateur ignore pourquoi tel contenu apparaît, et le chercheur n'a qu'un accès partiel aux données.\nLe règlement européen sur les services numériques tente précisément de réduire cette opacité.\nEn attendant, la position la plus défendable reste modeste.\nOui, le tri algorithmique oriente notre attention ; non, il n'explique pas à lui seul la polarisation d'une société.\nEt il reste possible, dans la plupart des applications, de repasser en fil chronologique — encore faut-il savoir que l'option existe.",
+              "english": "The phrase \"filter bubble\" was popularised in 2011 by the American activist Eli Pariser.\nThe idea is simple: by constantly showing us what we like, personalisation would lock us into a world that always agrees with us.\nFifteen years later, the picture drawn by research is considerably more nuanced.\nSeveral studies find that internet users encounter more opposing opinions online than in the local café, where people have always chosen who they talk to.\nOther studies, focusing on very heavy users of certain platforms, describe on the contrary a measurable narrowing of the sources consulted.\nThese results do not necessarily contradict one another: they do not deal with the same populations or the same uses.\nWhat there is agreement on, however, concerns the sorting itself.\nA feed ranked by engagement rewards whatever provokes a quick reaction, and outrage provokes more of those than nuance does.\nThis is not about a conspiracy, but about an optimisation criterion whose effects go beyond the original intention.\nTo this is added an information asymmetry: the user does not know why a given piece of content appears, and researchers only have partial access to the data.\nThe European regulation on digital services is precisely an attempt to reduce that opacity.\nIn the meantime, the most defensible position remains a modest one.\nYes, algorithmic sorting steers our attention; no, it does not on its own explain the polarisation of a society.\nAnd in most apps it is still possible to switch back to a chronological feed — provided you know the option exists.",
+              "questions": [
+                {
+                  "id": "b2_u12_l03_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Que dit le texte des travaux de recherche sur la bulle de filtres ?",
+                  "options": ["Les résultats varient selon les publics et les usages", "Tous les chercheurs confirment l'hypothèse", "Aucune étude sérieuse n'existe", "Les études prouvent qu'il n'y a aucun effet"],
+                  "answer": "Les résultats varient selon les publics et les usages"
+                },
+                {
+                  "id": "b2_u12_l03_rd02",
+                  "type": "multipleChoice",
+                  "prompt": "Sur quel point le texte indique-t-il un consensus ?",
+                  "options": ["Un tri par engagement favorise les réactions rapides", "La personnalisation est toujours néfaste", "Les plateformes agissent par complot", "La polarisation vient uniquement des algorithmes"],
+                  "answer": "Un tri par engagement favorise les réactions rapides"
+                },
+                {
+                  "id": "b2_u12_l03_rd03",
+                  "type": "trueFalse",
+                  "prompt": "Selon le texte, le tri algorithmique explique à lui seul la polarisation d'une société.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "b2_u12_l03_wr01",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "Although the effect is real, its scale remains debated.",
+              "answer": "Bien que l'effet soit réel, son ampleur reste discutée.",
+              "acceptedAnswers": ["Bien que l'effet soit reel, son ampleur reste discutee", "Bien que l effet soit réel, son ampleur reste discutée"]
+            },
+            {
+              "id": "b2_u12_l03_wr02",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "The algorithm ranks posts according to engagement signals.",
+              "answer": "L'algorithme classe les publications selon des signaux d'engagement.",
+              "acceptedAnswers": ["L'algorithme classe les publications selon des signaux d'engagement", "L algorithme classe les publications selon des signaux d engagement"]
+            },
+            {
+              "id": "b2_u12_l03_wr03",
+              "type": "arrangeWords",
+              "words": ["est", "l'attention", "produit", "gratuit", "le", "si", "le", "vendu", "service", "est"],
+              "answer": "si le service est gratuit l'attention est le produit vendu",
+              "english": "if the service is free attention is the product being sold"
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "b2_u12_l03_pr01",
+              "type": "fillBlank",
+              "prompt": "Bien que la personnalisation ___ utile, elle mérite d'être visible.",
+              "answer": "soit"
+            },
+            {
+              "id": "b2_u12_l03_pr02",
+              "type": "multipleChoice",
+              "prompt": "Quelle différence le cours établit-il entre les deux notions ?",
+              "options": ["La bulle de filtres vient du tri automatique, la chambre d'écho de nos propres choix", "La bulle de filtres vient de nos choix, la chambre d'écho du tri automatique", "Les deux termes sont exactement synonymes", "Aucune des deux notions ne concerne les plateformes"],
+              "answer": "La bulle de filtres vient du tri automatique, la chambre d'écho de nos propres choix"
+            },
+            {
+              "id": "b2_u12_l03_pr03",
+              "type": "match",
+              "pairs": [
+                { "french": "le défilement infini", "english": "infinite scroll" },
+                { "french": "le ciblage publicitaire", "english": "ad targeting" },
+                { "french": "le profilage", "english": "profiling" },
+                { "french": "paramétrer", "english": "to configure" }
+              ]
+            },
+            {
+              "id": "b2_u12_l03_pr04",
+              "type": "fillBlank",
+              "prompt": "___ si les études divergent, une tendance se dégage.",
+              "answer": "Même"
+            },
+            {
+              "id": "b2_u12_l03_pr05",
+              "type": "multipleChoice",
+              "prompt": "Quelle formulation reste la plus prudente ?",
+              "options": ["Selon plusieurs chercheurs, l'effet varie selon les usages.", "Il est prouvé que les algorithmes polarisent la société.", "Tout le monde sait que les plateformes mentent.", "Les algorithmes veulent nous nuire."],
+              "answer": "Selon plusieurs chercheurs, l'effet varie selon les usages."
+            },
+            {
+              "id": "b2_u12_l03_pr06",
+              "type": "arrangeWords",
+              "words": ["conçue", "l'interface", "reste", "est", "que", "l'on", "de", "sorte"],
+              "answer": "l'interface est conçue de sorte que l'on reste",
+              "english": "the interface is designed so that people stay"
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "b2_u12_l03_qz01",
+              "type": "multipleChoice",
+              "prompt": "« L'économie de l'attention » désigne…",
+              "options": ["un modèle où l'attention des utilisateurs est vendue aux annonceurs", "une politique publique de réduction du temps d'écran", "un impôt sur les plateformes numériques", "une méthode de vérification des faits"],
+              "answer": "un modèle où l'attention des utilisateurs est vendue aux annonceurs"
+            },
+            {
+              "id": "b2_u12_l03_qz02",
+              "type": "multipleChoice",
+              "prompt": "Quelle phrase est correcte ?",
+              "options": ["Bien qu'il soit tard, je continue.", "Bien qu'il est tard, je continue.", "Malgré qu'il soit tard, je continue.", "Bien que il soit tard, je continue."],
+              "answer": "Bien qu'il soit tard, je continue."
+            },
+            {
+              "id": "b2_u12_l03_qz03",
+              "type": "fillBlank",
+              "prompt": "Le fil est trié par engagement, si bien ___ l'émotion l'emporte.",
+              "answer": "que"
+            },
+            {
+              "id": "b2_u12_l03_qz04",
+              "type": "trueFalse",
+              "prompt": "Selon le cours, la bulle de filtres est un fait scientifique définitivement établi.",
+              "options": ["True", "False"],
+              "answer": "False"
+            },
+            {
+              "id": "b2_u12_l03_qz05",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "Notifications are designed to bring the user back.",
+              "answer": "Les notifications sont conçues pour ramener l'utilisateur.",
+              "acceptedAnswers": ["Les notifications sont concues pour ramener l'utilisateur", "les notifications sont conçues pour ramener l'utilisateur"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

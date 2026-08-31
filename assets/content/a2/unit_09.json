@@ -1,0 +1,1100 @@
+{
+  "id": "a2_u09",
+  "level": "A2",
+  "unit": 9,
+  "title": "Food & Cooking",
+  "subtitle": "Buy your ingredients, follow a French recipe and compare prices in the supermarket",
+  "icon": "🍲",
+  "lessons": [
+    {
+      "id": "a2_u09_l01",
+      "level": "A2",
+      "unit": 9,
+      "title": "Les ingrédients",
+      "description": "Name the ingredients in a French kitchen and talk about quantities with du, de la, des and de.",
+      "estimatedMinutes": 16,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Un ingrédient, des ingrédients",
+              "body": "Un ingrédient is anything that goes into a dish. In a French kitchen you meet three big families: les produits frais (fresh produce), les produits secs (dry goods like flour, rice and pasta) and les condiments (salt, pepper, oil, vinegar, herbs). Learn every ingredient with its article, because the gender decides which partitive form you will need later: du beurre but de la farine.",
+              "examples": [
+                { "french": "Il me manque un ingrédient pour la sauce.", "english": "I'm missing one ingredient for the sauce." },
+                { "french": "J'achète mes légumes au marché le samedi.", "english": "I buy my vegetables at the market on Saturdays." },
+                { "french": "Dans le placard, il y a de la farine et du riz.", "english": "In the cupboard there is flour and rice." },
+                { "french": "Le sel, le poivre et l'huile sont toujours sur la table.", "english": "Salt, pepper and oil are always on the table." },
+                { "french": "Cette recette demande six ingrédients seulement.", "english": "This recipe needs only six ingredients." },
+                { "french": "Je préfère les produits frais aux produits surgelés.", "english": "I prefer fresh produce to frozen products." }
+              ],
+              "tip": "Les courses means the shopping; la cuisine means both the kitchen and the cooking — « J'aime la cuisine italienne. »"
+            },
+            {
+              "heading": "Combien ? Les quantités",
+              "body": "To say how much, French puts a quantity word in front of de: un kilo de tomates, une bouteille d'huile, cent grammes de beurre. After a quantity, de never changes for gender or number and it becomes d' before a vowel. Recipes love small measures: une cuillère à soupe (a tablespoon), une cuillère à café (a teaspoon) and une pincée de sel (a pinch of salt).",
+              "examples": [
+                { "french": "Je voudrais un kilo de pommes de terre.", "english": "I'd like a kilo of potatoes." },
+                { "french": "Ajoute deux cuillères à soupe d'huile d'olive.", "english": "Add two tablespoons of olive oil." },
+                { "french": "Il faut 250 grammes de farine.", "english": "You need 250 grams of flour." },
+                { "french": "Une pincée de sel suffit.", "english": "A pinch of salt is enough." },
+                { "french": "Achète une douzaine d'œufs, s'il te plaît.", "english": "Buy a dozen eggs, please." },
+                { "french": "Combien de citrons est-ce qu'il reste ?", "english": "How many lemons are left?" }
+              ],
+              "tip": "Un litre de lait, une tranche de jambon, un morceau de fromage — the pattern is always quantity + de + noun with no article."
+            },
+            {
+              "heading": "Les herbes et les épices",
+              "body": "Herbs and spices give a dish its character. Une herbe is a fresh green leaf like le persil or le basilic, while une épice is usually a dried powder or seed like le paprika. French cooks talk about le goût (the taste) and say a dish is fade (bland) when it needs seasoning. L'ail is masculine and its l' hides the gender, so remember: de l'ail, un peu d'ail.",
+              "examples": [
+                { "french": "Je mets du persil frais sur les pommes de terre.", "english": "I put fresh parsley on the potatoes." },
+                { "french": "Le basilic va très bien avec les tomates.", "english": "Basil goes very well with tomatoes." },
+                { "french": "Ajoute une gousse d'ail dans la sauce.", "english": "Add a clove of garlic to the sauce." },
+                { "french": "Cette soupe est un peu fade : il manque du sel.", "english": "This soup is a bit bland: it needs salt." },
+                { "french": "Attention, ce plat est très épicé !", "english": "Careful, this dish is very spicy!" },
+                { "french": "J'adore le goût du citron dans le poisson.", "english": "I love the taste of lemon in fish." }
+              ],
+              "tip": "Les fines herbes is the classic French mix: persil, ciboulette, estragon et cerfeuil."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "l-ingredient", "french": "l'ingrédient", "english": "ingredient", "partOfSpeech": "noun", "gender": "m", "plural": "ingrédients", "pronunciation": "lan-gray-DYAHN", "example": "Cette tarte a seulement quatre ingrédients.", "exampleEnglish": "This tart has only four ingredients.", "level": "A2", "category": "cooking" },
+            { "id": "la-farine", "french": "la farine", "english": "flour", "partOfSpeech": "noun", "gender": "f", "plural": "farines", "pronunciation": "fah-REEN", "example": "Il n'y a plus de farine dans le placard.", "exampleEnglish": "There is no flour left in the cupboard.", "level": "A2", "category": "food" },
+            { "id": "le-beurre", "french": "le beurre", "english": "butter", "partOfSpeech": "noun", "gender": "m", "plural": "beurres", "pronunciation": "burr", "example": "Je fais fondre du beurre dans la poêle.", "exampleEnglish": "I'm melting some butter in the frying pan.", "level": "A2", "category": "food" },
+            { "id": "l-huile-d-olive", "french": "l'huile d'olive", "english": "olive oil", "partOfSpeech": "noun", "gender": "f", "plural": "huiles d'olive", "pronunciation": "lweel doh-LEEV", "example": "J'assaisonne la salade avec de l'huile d'olive.", "exampleEnglish": "I dress the salad with olive oil.", "level": "A2", "category": "food" },
+            { "id": "le-vinaigre", "french": "le vinaigre", "english": "vinegar", "partOfSpeech": "noun", "gender": "m", "plural": "vinaigres", "pronunciation": "vee-NEH-gruh", "example": "Un peu de vinaigre, et la sauce est prête.", "exampleEnglish": "A little vinegar, and the dressing is ready.", "level": "A2", "category": "food" },
+            { "id": "la-creme-fraiche", "french": "la crème fraîche", "english": "crème fraîche, thick cream", "partOfSpeech": "noun", "gender": "f", "plural": "crèmes fraîches", "pronunciation": "krem FRESH", "example": "Ajoute de la crème fraîche à la fin.", "exampleEnglish": "Add some crème fraîche at the end.", "level": "A2", "category": "food" },
+            { "id": "la-levure", "french": "la levure", "english": "yeast, baking powder", "partOfSpeech": "noun", "gender": "f", "plural": "levures", "pronunciation": "luh-VEWR", "example": "Sans levure, le gâteau ne monte pas.", "exampleEnglish": "Without baking powder the cake doesn't rise.", "level": "A2", "category": "food" },
+            { "id": "le-sel", "french": "le sel", "english": "salt", "partOfSpeech": "noun", "gender": "m", "plural": "sels", "pronunciation": "sel", "example": "Il manque du sel dans la soupe.", "exampleEnglish": "The soup needs some salt.", "level": "A2", "category": "food" },
+            { "id": "le-poivre", "french": "le poivre", "english": "pepper (spice)", "partOfSpeech": "noun", "gender": "m", "plural": "poivres", "pronunciation": "PWAH-vruh", "example": "Un tour de moulin à poivre, s'il te plaît.", "exampleEnglish": "A turn of the pepper mill, please.", "level": "A2", "category": "food" },
+            { "id": "l-epice", "french": "l'épice", "english": "spice", "partOfSpeech": "noun", "gender": "f", "plural": "épices", "pronunciation": "lay-PEESS", "example": "Ce plat indien est plein d'épices.", "exampleEnglish": "This Indian dish is full of spices.", "level": "A2", "category": "food" },
+            { "id": "le-persil", "french": "le persil", "english": "parsley", "partOfSpeech": "noun", "gender": "m", "plural": "persils", "pronunciation": "per-SEE", "example": "Je coupe du persil sur les pommes de terre.", "exampleEnglish": "I chop some parsley over the potatoes.", "level": "A2", "category": "food" },
+            { "id": "le-basilic", "french": "le basilic", "english": "basil", "partOfSpeech": "noun", "gender": "m", "plural": "basilics", "pronunciation": "bah-zee-LEEK", "example": "Le basilic pousse sur mon balcon.", "exampleEnglish": "Basil grows on my balcony.", "level": "A2", "category": "food" },
+            { "id": "l-ail", "french": "l'ail", "english": "garlic", "partOfSpeech": "noun", "gender": "m", "plural": "aulx", "pronunciation": "lye", "example": "Mets une gousse d'ail dans la sauce.", "exampleEnglish": "Put a clove of garlic in the sauce.", "level": "A2", "category": "food" },
+            { "id": "le-citron", "french": "le citron", "english": "lemon", "partOfSpeech": "noun", "gender": "m", "plural": "citrons", "pronunciation": "see-TRON", "example": "Le poisson est meilleur avec du citron.", "exampleEnglish": "The fish is better with lemon.", "level": "A2", "category": "food" },
+            { "id": "la-courgette", "french": "la courgette", "english": "courgette, zucchini", "partOfSpeech": "noun", "gender": "f", "plural": "courgettes", "pronunciation": "koor-ZHET", "example": "Je coupe les courgettes en rondelles.", "exampleEnglish": "I cut the courgettes into slices.", "level": "A2", "category": "food" },
+            { "id": "l-aubergine", "french": "l'aubergine", "english": "aubergine, eggplant", "partOfSpeech": "noun", "gender": "f", "plural": "aubergines", "pronunciation": "loh-ber-ZHEEN", "example": "Les aubergines cuisent lentement.", "exampleEnglish": "Aubergines cook slowly.", "level": "A2", "category": "food" },
+            { "id": "le-poivron", "french": "le poivron", "english": "bell pepper", "partOfSpeech": "noun", "gender": "m", "plural": "poivrons", "pronunciation": "pwah-VRON", "example": "J'ajoute un poivron rouge dans la ratatouille.", "exampleEnglish": "I add a red pepper to the ratatouille.", "level": "A2", "category": "food" },
+            { "id": "les-haricots-verts", "french": "les haricots verts", "english": "green beans", "partOfSpeech": "noun", "gender": "m", "plural": "haricots verts", "pronunciation": "ah-ree-KOH VAIR", "example": "Les haricots verts accompagnent la viande.", "exampleEnglish": "The green beans go with the meat.", "level": "A2", "category": "food" },
+            { "id": "les-petits-pois", "french": "les petits pois", "english": "peas", "partOfSpeech": "noun", "gender": "m", "plural": "petits pois", "pronunciation": "puh-tee PWAH", "example": "Mon fils adore les petits pois.", "exampleEnglish": "My son loves peas.", "level": "A2", "category": "food" },
+            { "id": "la-pomme-de-terre", "french": "la pomme de terre", "english": "potato", "partOfSpeech": "noun", "gender": "f", "plural": "pommes de terre", "pronunciation": "pom duh TAIR", "example": "J'épluche trois pommes de terre.", "exampleEnglish": "I'm peeling three potatoes.", "level": "A2", "category": "food" },
+            { "id": "le-riz", "french": "le riz", "english": "rice", "partOfSpeech": "noun", "gender": "m", "plural": "riz", "pronunciation": "ree", "example": "Le riz cuit en douze minutes.", "exampleEnglish": "The rice cooks in twelve minutes.", "level": "A2", "category": "food" },
+            { "id": "les-pates", "french": "les pâtes", "english": "pasta", "partOfSpeech": "noun", "gender": "f", "plural": "pâtes", "pronunciation": "paht", "example": "Ce soir, on mange des pâtes au basilic.", "exampleEnglish": "Tonight we're eating pasta with basil.", "level": "A2", "category": "food" },
+            { "id": "le-boeuf", "french": "le bœuf", "english": "beef", "partOfSpeech": "noun", "gender": "m", "plural": "bœufs", "pronunciation": "burf", "example": "Un bourguignon se fait avec du bœuf.", "exampleEnglish": "A bourguignon is made with beef.", "level": "A2", "category": "food" },
+            { "id": "le-porc", "french": "le porc", "english": "pork", "partOfSpeech": "noun", "gender": "m", "plural": "porcs", "pronunciation": "por", "example": "Je ne mange pas de porc.", "exampleEnglish": "I don't eat pork.", "level": "A2", "category": "food" },
+            { "id": "le-jambon", "french": "le jambon", "english": "ham", "partOfSpeech": "noun", "gender": "m", "plural": "jambons", "pronunciation": "zhahn-BON", "example": "Deux tranches de jambon, s'il vous plaît.", "exampleEnglish": "Two slices of ham, please.", "level": "A2", "category": "food" },
+            { "id": "le-saumon", "french": "le saumon", "english": "salmon", "partOfSpeech": "noun", "gender": "m", "plural": "saumons", "pronunciation": "soh-MON", "example": "Le saumon cuit au four avec du citron.", "exampleEnglish": "The salmon cooks in the oven with lemon.", "level": "A2", "category": "food" },
+            { "id": "la-crevette", "french": "la crevette", "english": "prawn, shrimp", "partOfSpeech": "noun", "gender": "f", "plural": "crevettes", "pronunciation": "kruh-VET", "example": "J'ai acheté des crevettes pour l'entrée.", "exampleEnglish": "I bought prawns for the starter.", "level": "A2", "category": "food" },
+            { "id": "le-fromage-rape", "french": "le fromage râpé", "english": "grated cheese", "partOfSpeech": "noun", "gender": "m", "plural": "fromages râpés", "pronunciation": "froh-MAHZH rah-PAY", "example": "Mets du fromage râpé sur les pâtes.", "exampleEnglish": "Put some grated cheese on the pasta.", "level": "A2", "category": "food" },
+            { "id": "le-morceau", "french": "le morceau", "english": "piece", "partOfSpeech": "noun", "gender": "m", "plural": "morceaux", "pronunciation": "mor-SOH", "example": "Coupe le poulet en petits morceaux.", "exampleEnglish": "Cut the chicken into small pieces.", "level": "A2", "category": "quantities" },
+            { "id": "la-tranche", "french": "la tranche", "english": "slice", "partOfSpeech": "noun", "gender": "f", "plural": "tranches", "pronunciation": "trahnsh", "example": "Une tranche de pain avec du beurre.", "exampleEnglish": "A slice of bread with butter.", "level": "A2", "category": "quantities" },
+            { "id": "la-cuillere-a-soupe", "french": "la cuillère à soupe", "english": "tablespoon", "partOfSpeech": "noun", "gender": "f", "plural": "cuillères à soupe", "pronunciation": "kwee-YAIR ah SOOP", "example": "Ajoute deux cuillères à soupe d'huile.", "exampleEnglish": "Add two tablespoons of oil.", "level": "A2", "category": "quantities" },
+            { "id": "la-cuillere-a-cafe", "french": "la cuillère à café", "english": "teaspoon", "partOfSpeech": "noun", "gender": "f", "plural": "cuillères à café", "pronunciation": "kwee-YAIR ah kah-FAY", "example": "Une cuillère à café de sucre suffit.", "exampleEnglish": "One teaspoon of sugar is enough.", "level": "A2", "category": "quantities" },
+            { "id": "le-gramme", "french": "le gramme", "english": "gram", "partOfSpeech": "noun", "gender": "m", "plural": "grammes", "pronunciation": "gram", "example": "Il faut 200 grammes de farine.", "exampleEnglish": "You need 200 grams of flour.", "level": "A2", "category": "quantities" },
+            { "id": "le-litre", "french": "le litre", "english": "litre", "partOfSpeech": "noun", "gender": "m", "plural": "litres", "pronunciation": "LEE-truh", "example": "Achète un litre de lait entier.", "exampleEnglish": "Buy a litre of whole milk.", "level": "A2", "category": "quantities" },
+            { "id": "la-pincee", "french": "la pincée", "english": "pinch", "partOfSpeech": "noun", "gender": "f", "plural": "pincées", "pronunciation": "pan-SAY", "example": "Une pincée de sel, pas plus.", "exampleEnglish": "A pinch of salt, no more.", "level": "A2", "category": "quantities" },
+            { "id": "la-balance", "french": "la balance", "english": "kitchen scales", "partOfSpeech": "noun", "gender": "f", "plural": "balances", "pronunciation": "bah-LAHNSS", "example": "Je pèse le sucre sur la balance.", "exampleEnglish": "I weigh the sugar on the scales.", "level": "A2", "category": "kitchen" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar — the partitive: du, de la, de l', des",
+          "blocks": [
+            {
+              "heading": "Some of something",
+              "body": "When you eat or buy part of something, French needs a partitive article where English often uses nothing at all. Use du before a masculine word (du pain), de la before a feminine word (de la farine), de l' before any word starting with a vowel or a silent h (de l'huile, de l'ail), and des before a plural (des œufs). You cannot drop it: « Je mange pain » is wrong, it must be « Je mange du pain ».",
+              "examples": [
+                { "french": "Je bois du café le matin.", "english": "I drink coffee in the morning.", "note": "masculine → du" },
+                { "french": "Elle achète de la crème fraîche.", "english": "She's buying crème fraîche.", "note": "feminine → de la" },
+                { "french": "Il verse de l'huile dans la poêle.", "english": "He pours oil into the pan.", "note": "vowel → de l'" },
+                { "french": "Nous prenons des légumes au marché.", "english": "We get vegetables at the market.", "note": "plural → des" },
+                { "french": "Tu veux du fromage râpé ?", "english": "Do you want some grated cheese?" },
+                { "french": "Il y a de l'ail dans cette sauce.", "english": "There is garlic in this sauce." }
+              ],
+              "tip": "Compare le / la (the whole thing or the category) with du / de la (a part): « J'aime le poisson » but « Je mange du poisson ce soir. »"
+            },
+            {
+              "heading": "When everything becomes de",
+              "body": "Two situations flatten the partitive into a plain de (or d' before a vowel). First, after a negative: du, de la, de l' and des all become de — « Je ne mange pas de viande. » Second, after any expression of quantity: beaucoup de, un peu de, trop de, assez de, un kilo de, une bouteille de. The only exception is with être: « Ce n'est pas du sucre. »",
+              "examples": [
+                { "french": "Je ne bois pas de vin.", "english": "I don't drink wine.", "note": "negative → de" },
+                { "french": "Il n'y a plus d'œufs.", "english": "There are no eggs left.", "note": "vowel → d'" },
+                { "french": "J'ai beaucoup de tomates cette année.", "english": "I have a lot of tomatoes this year." },
+                { "french": "Ajoute un peu de sel.", "english": "Add a little salt." },
+                { "french": "Il met trop de poivre dans tout.", "english": "He puts too much pepper in everything." },
+                { "french": "Ce n'est pas du beurre, c'est de la margarine.", "english": "That isn't butter, it's margarine.", "note": "être keeps the full form" }
+              ],
+              "tip": "Quantity words never change their de: un kilo de pommes, un kilo de farine, un kilo d'oignons."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a2_u09_l01_li01",
+              "type": "listenChoose",
+              "french": "Il faut deux cents grammes de farine.",
+              "options": ["Il faut deux cents grammes de farine.", "Il faut deux cents grammes de sucre.", "Il faut deux litres de farine.", "Il faut six cents grammes de farine."],
+              "answer": "Il faut deux cents grammes de farine.",
+              "english": "You need two hundred grams of flour."
+            },
+            {
+              "id": "a2_u09_l01_li02",
+              "type": "listenChoose",
+              "french": "Je n'ai pas d'huile d'olive à la maison.",
+              "options": ["Je n'ai pas d'huile d'olive à la maison.", "J'ai de l'huile d'olive à la maison.", "Je n'ai pas de vinaigre à la maison.", "Je n'ai plus d'ail à la maison."],
+              "answer": "Je n'ai pas d'huile d'olive à la maison.",
+              "english": "I don't have any olive oil at home."
+            },
+            {
+              "id": "a2_u09_l01_li03",
+              "type": "listenType",
+              "french": "Ajoute une pincée de sel.",
+              "answer": "Ajoute une pincée de sel.",
+              "acceptedAnswers": ["Ajoute une pincee de sel", "ajoute une pincée de sel", "Ajoute une pincée de sel"],
+              "english": "Add a pinch of salt."
+            },
+            {
+              "id": "a2_u09_l01_li04",
+              "type": "dictation",
+              "french": "Il me faut un kilo de tomates et de la crème fraîche.",
+              "answer": "Il me faut un kilo de tomates et de la crème fraîche.",
+              "acceptedAnswers": ["Il me faut un kilo de tomates et de la creme fraiche", "il me faut un kilo de tomates et de la crème fraîche", "Il me faut un kilo de tomates et de la creme fraiche."],
+              "english": "I need a kilo of tomatoes and some crème fraîche."
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a2_u09_l01_sp01",
+              "type": "speak",
+              "french": "Dans mon frigo, il y a du beurre, des œufs et de la crème fraîche.",
+              "english": "In my fridge there is butter, eggs and crème fraîche.",
+              "prompt": "Say three things you have in your fridge, using du, des and de la.",
+              "tip": "Des œufs links across the s: say day-ZUH, not day + uh."
+            },
+            {
+              "id": "a2_u09_l01_sp02",
+              "type": "speak",
+              "french": "Je voudrais un kilo de pommes de terre, s'il vous plaît.",
+              "english": "I'd like a kilo of potatoes, please.",
+              "prompt": "Ask for a kilo of something at the market.",
+              "tip": "Pommes de terre runs together as pom-duh-TAIR, with only the last syllable stressed."
+            },
+            {
+              "id": "a2_u09_l01_sp03",
+              "type": "speak",
+              "french": "Je ne mange pas de viande, mais je mange du poisson.",
+              "english": "I don't eat meat, but I do eat fish.",
+              "prompt": "Say one food you avoid and one you enjoy.",
+              "tip": "Keep pas de short and flat — pah-duh — then land firmly on viande."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Le panier de Léa",
+              "french": "Léa veut préparer une ratatouille pour six personnes.\nElle regarde d'abord dans son placard : il reste de l'huile d'olive et du sel.\nPar contre, il n'y a plus d'ail et plus de poivre.\nSur le marché, elle achète un kilo de tomates et deux courgettes.\nLe marchand lui propose aussi des aubergines et un beau poivron rouge.\n« Vous voulez des herbes ? Mon basilic est très frais aujourd'hui. »\nLéa prend un bouquet de basilic et une petite botte de persil.\nElle ajoute une tête d'ail et deux citrons pour le poisson de demain.\nÀ la fin, elle demande le prix : quinze euros pour tout le panier.\n« C'est raisonnable », pense Léa, « et il n'y a aucun produit surgelé. »",
+              "english": "Léa wants to make a ratatouille for six people.\nFirst she looks in her cupboard: there is still some olive oil and some salt.\nHowever, there is no garlic and no pepper left.\nAt the market she buys a kilo of tomatoes and two courgettes.\nThe stallholder also offers her aubergines and a lovely red pepper.\n\"Would you like some herbs? My basil is very fresh today.\"\nLéa takes a bunch of basil and a small bunch of parsley.\nShe adds a head of garlic and two lemons for tomorrow's fish.\nAt the end she asks the price: fifteen euros for the whole basket.\n\"That's reasonable,\" thinks Léa, \"and there isn't a single frozen product.\"",
+              "questions": [
+                {
+                  "id": "a2_u09_l01_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Qu'est-ce qu'il reste dans le placard de Léa ?",
+                  "options": ["De l'huile d'olive et du sel", "De l'ail et du poivre", "Des tomates et des courgettes", "Du basilic et du persil"],
+                  "answer": "De l'huile d'olive et du sel",
+                  "english": "What is left in Léa's cupboard?"
+                },
+                {
+                  "id": "a2_u09_l01_rd02",
+                  "type": "trueFalse",
+                  "prompt": "Léa achète des produits surgelés au marché.",
+                  "options": ["True", "False"],
+                  "answer": "False",
+                  "english": "Léa buys frozen products at the market."
+                },
+                {
+                  "id": "a2_u09_l01_rd03",
+                  "type": "multipleChoice",
+                  "prompt": "Pourquoi Léa prend-elle deux citrons ?",
+                  "options": ["Pour le poisson de demain", "Pour la ratatouille", "Pour faire un gâteau", "Pour offrir au marchand"],
+                  "answer": "Pour le poisson de demain",
+                  "english": "Why does Léa take two lemons?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a2_u09_l01_wr01",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "I would like a kilo of tomatoes and two courgettes.",
+              "answer": "Je voudrais un kilo de tomates et deux courgettes.",
+              "acceptedAnswers": ["Je voudrais un kilo de tomates et deux courgettes", "je voudrais un kilo de tomates et deux courgettes."]
+            },
+            {
+              "id": "a2_u09_l01_wr02",
+              "type": "arrangeWords",
+              "words": ["farine", "de", "la", "j'achète"],
+              "answer": "J'achète de la farine",
+              "english": "I'm buying some flour."
+            },
+            {
+              "id": "a2_u09_l01_wr03",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "There is no more garlic in the kitchen.",
+              "answer": "Il n'y a plus d'ail dans la cuisine.",
+              "acceptedAnswers": ["Il n'y a plus d'ail dans la cuisine", "il n'y a plus d'ail dans la cuisine.", "Il n y a plus d ail dans la cuisine"]
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a2_u09_l01_pr01",
+              "type": "match",
+              "prompt": "Match the ingredient with its English name.",
+              "pairs": [
+                { "french": "la farine", "english": "flour" },
+                { "french": "le poivre", "english": "pepper" },
+                { "french": "l'ail", "english": "garlic" },
+                { "french": "la levure", "english": "baking powder" }
+              ]
+            },
+            {
+              "id": "a2_u09_l01_pr02",
+              "type": "fillBlank",
+              "prompt": "Je mets ___ crème fraîche dans la sauce.",
+              "answer": "de la",
+              "english": "I put some crème fraîche in the sauce."
+            },
+            {
+              "id": "a2_u09_l01_pr03",
+              "type": "multipleChoice",
+              "prompt": "Complétez : « Il n'y a plus ___ œufs. »",
+              "options": ["d'", "des", "de la", "du"],
+              "answer": "d'",
+              "english": "Complete: \"There are no eggs left.\""
+            },
+            {
+              "id": "a2_u09_l01_pr04",
+              "type": "fillBlank",
+              "prompt": "Ajoute deux cuillères ___ soupe d'huile.",
+              "answer": "à",
+              "english": "Add two tablespoons of oil."
+            },
+            {
+              "id": "a2_u09_l01_pr05",
+              "type": "multipleChoice",
+              "prompt": "Quel mot n'est pas une quantité ?",
+              "options": ["le poivron", "la tranche", "le gramme", "la pincée"],
+              "answer": "le poivron",
+              "english": "Which word is not a quantity?"
+            },
+            {
+              "id": "a2_u09_l01_pr06",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "He drinks a lot of water.",
+              "answer": "Il boit beaucoup d'eau.",
+              "acceptedAnswers": ["Il boit beaucoup d'eau", "il boit beaucoup d'eau.", "Il boit beaucoup d eau"]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a2_u09_l01_qz01",
+              "type": "multipleChoice",
+              "prompt": "Choisissez la bonne forme : « Je bois ___ lait. »",
+              "options": ["du", "de la", "des", "de l'"],
+              "answer": "du",
+              "english": "Choose the correct form: \"I drink milk.\""
+            },
+            {
+              "id": "a2_u09_l01_qz02",
+              "type": "multipleChoice",
+              "prompt": "Que veut dire « une tranche de jambon » ?",
+              "options": ["a slice of ham", "a piece of cheese", "a pinch of salt", "a jar of jam"],
+              "answer": "a slice of ham",
+              "english": "What does \"une tranche de jambon\" mean?"
+            },
+            {
+              "id": "a2_u09_l01_qz03",
+              "type": "fillBlank",
+              "prompt": "Il faut 250 grammes ___ farine.",
+              "answer": "de",
+              "english": "You need 250 grams of flour."
+            },
+            {
+              "id": "a2_u09_l01_qz04",
+              "type": "trueFalse",
+              "prompt": "Après une négation, « du » devient « de ».",
+              "options": ["True", "False"],
+              "answer": "True",
+              "english": "After a negative, \"du\" becomes \"de\"."
+            },
+            {
+              "id": "a2_u09_l01_qz05",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "She buys some olive oil and some parsley.",
+              "answer": "Elle achète de l'huile d'olive et du persil.",
+              "acceptedAnswers": ["Elle achète de l'huile d'olive et du persil", "elle achete de l'huile d'olive et du persil.", "Elle achete de l huile d olive et du persil"]
+            }
+          ]
+        }
+      ]
+    }
+,
+    {
+      "id": "a2_u09_l02",
+      "level": "A2",
+      "unit": 9,
+      "title": "Une recette",
+      "description": "Read and give cooking instructions with the imperative, and put the steps of a recipe in order.",
+      "estimatedMinutes": 16,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Comment se lit une recette",
+              "body": "A French recipe has a fixed shape. First les ingrédients with quantities, then la préparation, split into des étapes (steps), and finally le temps de cuisson (cooking time). Recipes also tell you how many people the dish feeds: « pour quatre personnes ». Verbs appear either in the infinitive (mélanger, verser) on printed cards, or in the imperative (mélangez, versez) when the writer speaks to you directly.",
+              "examples": [
+                { "french": "Recette de la quiche lorraine, pour six personnes.", "english": "Quiche lorraine recipe, serves six." },
+                { "french": "Préparation : 20 minutes. Cuisson : 35 minutes.", "english": "Prep: 20 minutes. Cooking: 35 minutes." },
+                { "french": "La première étape est très simple.", "english": "The first step is very easy." },
+                { "french": "Lisez toute la recette avant de commencer.", "english": "Read the whole recipe before you start." },
+                { "french": "C'est un plat facile et pas cher.", "english": "It's an easy, inexpensive dish." },
+                { "french": "On sert ce gâteau tiède, avec de la crème.", "english": "This cake is served warm, with cream." }
+              ],
+              "tip": "Un plat is both a dish you cook and the plate-like dish you cook it in — « un plat à gratin »."
+            },
+            {
+              "heading": "Les gestes de la cuisine",
+              "body": "A handful of verbs covers almost everything you do at the stove. Éplucher is to peel, couper is to cut, râper is to grate, mélanger is to mix, remuer is to stir while it cooks, and battre is to beat eggs or cream. For heat, French uses faire + infinitive: faire cuire (to cook), faire bouillir (to boil), faire revenir (to fry gently until golden), faire fondre (to melt).",
+              "examples": [
+                { "french": "Épluche les pommes de terre, puis coupe-les en morceaux.", "english": "Peel the potatoes, then cut them into pieces." },
+                { "french": "Faites revenir les oignons dans du beurre.", "english": "Fry the onions gently in butter." },
+                { "french": "Battez les œufs avec un fouet.", "english": "Beat the eggs with a whisk." },
+                { "french": "Remuez doucement pendant cinq minutes.", "english": "Stir gently for five minutes." },
+                { "french": "Faites bouillir un litre d'eau salée.", "english": "Boil a litre of salted water." },
+                { "french": "Râpez le fromage sur le gratin.", "english": "Grate the cheese over the gratin." }
+              ],
+              "tip": "Faire cuire au four = to bake or roast; cuire à la poêle = to pan-fry; cuire à la vapeur = to steam."
+            },
+            {
+              "heading": "Le matériel",
+              "body": "You also need the right equipment. Une casserole is a saucepan with high sides, une poêle is a flat frying pan, un saladier is a large mixing bowl and un moule is a cake tin. Cut on une planche à découper with un couteau, whisk with un fouet, and keep the heat in with un couvercle. Everything happens sur le feu (on the hob) or dans le four (in the oven).",
+              "examples": [
+                { "french": "Fais chauffer l'huile dans une grande poêle.", "english": "Heat the oil in a large frying pan." },
+                { "french": "Mets le couvercle sur la casserole.", "english": "Put the lid on the saucepan." },
+                { "french": "Mélange la farine et les œufs dans un saladier.", "english": "Mix the flour and the eggs in a bowl." },
+                { "french": "Verse la pâte dans un moule beurré.", "english": "Pour the batter into a buttered tin." },
+                { "french": "Attention, ce couteau coupe très bien !", "english": "Careful, this knife is very sharp!" },
+                { "french": "Préchauffe le four à 180 degrés.", "english": "Preheat the oven to 180 degrees." }
+              ],
+              "tip": "French recipes give the oven in degrees Celsius, often as un thermostat: « thermostat 6 » is about 180 °C."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "la-recette", "french": "la recette", "english": "recipe", "partOfSpeech": "noun", "gender": "f", "plural": "recettes", "pronunciation": "ruh-SET", "example": "Cette recette vient de ma grand-mère.", "exampleEnglish": "This recipe comes from my grandmother.", "level": "A2", "category": "cooking" },
+            { "id": "l-etape", "french": "l'étape", "english": "step, stage", "partOfSpeech": "noun", "gender": "f", "plural": "étapes", "pronunciation": "lay-TAP", "example": "La deuxième étape est la plus longue.", "exampleEnglish": "The second step is the longest.", "level": "A2", "category": "cooking" },
+            { "id": "la-preparation", "french": "la préparation", "english": "preparation, prep time", "partOfSpeech": "noun", "gender": "f", "plural": "préparations", "pronunciation": "pray-pah-rah-SYON", "example": "La préparation prend un quart d'heure.", "exampleEnglish": "The preparation takes a quarter of an hour.", "level": "A2", "category": "cooking" },
+            { "id": "la-cuisson", "french": "la cuisson", "english": "cooking, cooking time", "partOfSpeech": "noun", "gender": "f", "plural": "cuissons", "pronunciation": "kwee-SON", "example": "Cuisson : quarante minutes au four.", "exampleEnglish": "Cooking: forty minutes in the oven.", "level": "A2", "category": "cooking" },
+            { "id": "le-plat", "french": "le plat", "english": "dish", "partOfSpeech": "noun", "gender": "m", "plural": "plats", "pronunciation": "plah", "example": "C'est mon plat préféré en hiver.", "exampleEnglish": "It's my favourite dish in winter.", "level": "A2", "category": "cooking" },
+            { "id": "le-plat-principal", "french": "le plat principal", "english": "main course", "partOfSpeech": "noun", "gender": "m", "plural": "plats principaux", "pronunciation": "plah pran-see-PAL", "example": "Le plat principal est un poulet rôti.", "exampleEnglish": "The main course is a roast chicken.", "level": "A2", "category": "cooking" },
+            { "id": "le-dessert", "french": "le dessert", "english": "dessert", "partOfSpeech": "noun", "gender": "m", "plural": "desserts", "pronunciation": "day-SAIR", "example": "Comme dessert, je propose une tarte.", "exampleEnglish": "For dessert I suggest a tart.", "level": "A2", "category": "cooking" },
+            { "id": "melanger", "french": "mélanger", "english": "to mix", "partOfSpeech": "verb", "pronunciation": "may-lahn-ZHAY", "example": "Mélangez la farine et le sucre.", "exampleEnglish": "Mix the flour and the sugar.", "level": "A2", "category": "verbs" },
+            { "id": "remuer", "french": "remuer", "english": "to stir", "partOfSpeech": "verb", "pronunciation": "ruh-mew-AY", "example": "Remue la sauce sans t'arrêter.", "exampleEnglish": "Stir the sauce without stopping.", "level": "A2", "category": "verbs" },
+            { "id": "verser", "french": "verser", "english": "to pour", "partOfSpeech": "verb", "pronunciation": "vair-SAY", "example": "Verse le lait petit à petit.", "exampleEnglish": "Pour the milk in little by little.", "level": "A2", "category": "verbs" },
+            { "id": "couper", "french": "couper", "english": "to cut", "partOfSpeech": "verb", "pronunciation": "koo-PAY", "example": "Coupez les légumes en rondelles.", "exampleEnglish": "Cut the vegetables into rounds.", "level": "A2", "category": "verbs" },
+            { "id": "eplucher", "french": "éplucher", "english": "to peel", "partOfSpeech": "verb", "pronunciation": "ay-plew-SHAY", "example": "J'épluche les carottes avant de les cuire.", "exampleEnglish": "I peel the carrots before cooking them.", "level": "A2", "category": "verbs" },
+            { "id": "raper", "french": "râper", "english": "to grate", "partOfSpeech": "verb", "pronunciation": "rah-PAY", "example": "Râpe un peu de fromage sur le plat.", "exampleEnglish": "Grate a little cheese over the dish.", "level": "A2", "category": "verbs" },
+            { "id": "battre", "french": "battre", "english": "to beat, to whisk", "partOfSpeech": "verb", "pronunciation": "BAH-truh", "example": "Battez les œufs en omelette.", "exampleEnglish": "Beat the eggs as for an omelette.", "level": "A2", "category": "verbs" },
+            { "id": "a2-ajouter", "french": "ajouter", "english": "to add", "partOfSpeech": "verb", "pronunciation": "ah-zhoo-TAY", "example": "Ajoutez une cuillère de crème.", "exampleEnglish": "Add a spoonful of cream.", "level": "A2", "category": "verbs" },
+            { "id": "incorporer", "french": "incorporer", "english": "to fold in, to blend in", "partOfSpeech": "verb", "pronunciation": "an-kor-po-RAY", "example": "Incorporez la farine doucement.", "exampleEnglish": "Fold the flour in gently.", "level": "A2", "category": "verbs" },
+            { "id": "saupoudrer", "french": "saupoudrer", "english": "to sprinkle", "partOfSpeech": "verb", "pronunciation": "soh-poo-DRAY", "example": "Saupoudre le gâteau de sucre.", "exampleEnglish": "Sprinkle the cake with sugar.", "level": "A2", "category": "verbs" },
+            { "id": "faire-cuire", "french": "faire cuire", "english": "to cook (something)", "partOfSpeech": "verb", "pronunciation": "fair KWEER", "example": "Fais cuire le riz douze minutes.", "exampleEnglish": "Cook the rice for twelve minutes.", "level": "A2", "category": "verbs" },
+            { "id": "faire-bouillir", "french": "faire bouillir", "english": "to boil", "partOfSpeech": "verb", "pronunciation": "fair boo-YEER", "example": "Faites bouillir de l'eau salée.", "exampleEnglish": "Boil some salted water.", "level": "A2", "category": "verbs" },
+            { "id": "faire-revenir", "french": "faire revenir", "english": "to fry gently, to brown", "partOfSpeech": "verb", "pronunciation": "fair ruh-vuh-NEER", "example": "Faites revenir l'oignon deux minutes.", "exampleEnglish": "Fry the onion gently for two minutes.", "level": "A2", "category": "verbs" },
+            { "id": "prechauffer", "french": "préchauffer", "english": "to preheat", "partOfSpeech": "verb", "pronunciation": "pray-shoh-FAY", "example": "Préchauffez le four à 200 degrés.", "exampleEnglish": "Preheat the oven to 200 degrees.", "level": "A2", "category": "verbs" },
+            { "id": "assaisonner", "french": "assaisonner", "english": "to season", "partOfSpeech": "verb", "pronunciation": "ah-say-zo-NAY", "example": "Assaisonnez avec du sel et du poivre.", "exampleEnglish": "Season with salt and pepper.", "level": "A2", "category": "verbs" },
+            { "id": "gouter", "french": "goûter", "english": "to taste", "partOfSpeech": "verb", "pronunciation": "goo-TAY", "example": "Goûte la sauce avant de servir.", "exampleEnglish": "Taste the sauce before serving.", "level": "A2", "category": "verbs" },
+            { "id": "la-casserole", "french": "la casserole", "english": "saucepan", "partOfSpeech": "noun", "gender": "f", "plural": "casseroles", "pronunciation": "kass-ROL", "example": "L'eau bout dans la casserole.", "exampleEnglish": "The water is boiling in the saucepan.", "level": "A2", "category": "kitchen" },
+            { "id": "la-poele", "french": "la poêle", "english": "frying pan", "partOfSpeech": "noun", "gender": "f", "plural": "poêles", "pronunciation": "pwahl", "example": "Fais chauffer la poêle à feu vif.", "exampleEnglish": "Heat the frying pan over a high flame.", "level": "A2", "category": "kitchen" },
+            { "id": "le-saladier", "french": "le saladier", "english": "mixing bowl", "partOfSpeech": "noun", "gender": "m", "plural": "saladiers", "pronunciation": "sah-lah-DYAY", "example": "Casse les œufs dans le saladier.", "exampleEnglish": "Break the eggs into the mixing bowl.", "level": "A2", "category": "kitchen" },
+            { "id": "la-planche-a-decouper", "french": "la planche à découper", "english": "chopping board", "partOfSpeech": "noun", "gender": "f", "plural": "planches à découper", "pronunciation": "plahnsh ah day-koo-PAY", "example": "Coupe l'ail sur la planche à découper.", "exampleEnglish": "Cut the garlic on the chopping board.", "level": "A2", "category": "kitchen" },
+            { "id": "le-couteau", "french": "le couteau", "english": "knife", "partOfSpeech": "noun", "gender": "m", "plural": "couteaux", "pronunciation": "koo-TOH", "example": "Ce couteau ne coupe plus rien.", "exampleEnglish": "This knife doesn't cut anything any more.", "level": "A2", "category": "kitchen" },
+            { "id": "le-fouet", "french": "le fouet", "english": "whisk", "partOfSpeech": "noun", "gender": "m", "plural": "fouets", "pronunciation": "FWEH", "example": "Battez la crème avec un fouet.", "exampleEnglish": "Whip the cream with a whisk.", "level": "A2", "category": "kitchen" },
+            { "id": "le-moule", "french": "le moule", "english": "baking tin, mould", "partOfSpeech": "noun", "gender": "m", "plural": "moules", "pronunciation": "mool", "example": "Beurre le moule avant de verser la pâte.", "exampleEnglish": "Butter the tin before pouring in the batter.", "level": "A2", "category": "kitchen" },
+            { "id": "le-couvercle", "french": "le couvercle", "english": "lid", "partOfSpeech": "noun", "gender": "m", "plural": "couvercles", "pronunciation": "koo-VAIR-kluh", "example": "Laisse le couvercle sur la casserole.", "exampleEnglish": "Leave the lid on the saucepan.", "level": "A2", "category": "kitchen" },
+            { "id": "a2-le-four", "french": "le four", "english": "oven", "partOfSpeech": "noun", "gender": "m", "plural": "fours", "pronunciation": "foor", "example": "Le gratin est encore dans le four.", "exampleEnglish": "The gratin is still in the oven.", "level": "A2", "category": "kitchen" },
+            { "id": "a-feu-doux", "french": "à feu doux", "english": "on a low heat", "partOfSpeech": "expression", "pronunciation": "ah fuh DOO", "example": "Laissez mijoter à feu doux.", "exampleEnglish": "Let it simmer on a low heat.", "level": "A2", "category": "cooking" },
+            { "id": "premierement", "french": "premièrement", "english": "firstly", "partOfSpeech": "adverb", "pronunciation": "pruh-myair-MAHN", "example": "Premièrement, préchauffez le four.", "exampleEnglish": "Firstly, preheat the oven.", "level": "A2", "category": "connectors" },
+            { "id": "une-fois-que", "french": "une fois que", "english": "once (that)", "partOfSpeech": "conjunction", "pronunciation": "ewn fwah kuh", "example": "Une fois que l'eau bout, ajoutez les pâtes.", "exampleEnglish": "Once the water boils, add the pasta.", "level": "A2", "category": "connectors" },
+            { "id": "environ", "french": "environ", "english": "about, approximately", "partOfSpeech": "adverb", "pronunciation": "ahn-vee-RON", "example": "Faites cuire environ vingt minutes.", "exampleEnglish": "Cook for about twenty minutes.", "level": "A2", "category": "connectors" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar — the imperative in recipes",
+          "blocks": [
+            {
+              "heading": "Building the imperative",
+              "body": "The imperative gives an instruction. It has three forms and no subject pronoun: tu (to one person you know), nous (let's) and vous (to several people, or politely to one). Take the present tense and simply drop the pronoun: tu mélanges → Mélange !, vous mélangez → Mélangez !, nous mélangeons → Mélangeons ! For -er verbs, the tu form loses its final s: « Mange ! », « Verse ! », « Ajoute ! ». Printed recipes normally use the vous form, or the infinitive.",
+              "examples": [
+                { "french": "Mélangez bien les ingrédients.", "english": "Mix the ingredients well.", "note": "vous form — standard in recipes" },
+                { "french": "Coupe les tomates en morceaux.", "english": "Cut the tomatoes into pieces.", "note": "tu form, no final s" },
+                { "french": "Faisons une tarte ce week-end !", "english": "Let's make a tart this weekend!" },
+                { "french": "Ne mettez pas trop de sel.", "english": "Don't put in too much salt.", "note": "negative: ne … pas around the verb" },
+                { "french": "Ayez un peu de patience, c'est long.", "english": "Be a little patient, it takes a while.", "note": "avoir is irregular: aie, ayons, ayez" },
+                { "french": "Sois prudent avec le couteau.", "english": "Be careful with the knife.", "note": "être is irregular: sois, soyons, soyez" }
+              ],
+              "tip": "With reflexive verbs the pronoun moves after the verb and toi replaces te: « Dépêche-toi ! », « Asseyez-vous ! »"
+            },
+            {
+              "heading": "Putting the steps in order",
+              "body": "Recipes are held together by sequencing words. Start with d'abord or premièrement, continue with ensuite, puis and après, add a time frame with pendant (during) or une fois que (once), and close with enfin or pour finir. Before an infinitive use avant de (before) and après avoir + past participle (after doing): « avant de servir », « après avoir mélangé ».",
+              "examples": [
+                { "french": "D'abord, épluchez les pommes de terre.", "english": "First, peel the potatoes." },
+                { "french": "Ensuite, faites-les cuire vingt minutes.", "english": "Then cook them for twenty minutes." },
+                { "french": "Puis ajoutez la crème et le fromage râpé.", "english": "Then add the cream and the grated cheese." },
+                { "french": "Remuez pendant deux minutes environ.", "english": "Stir for about two minutes." },
+                { "french": "Une fois que la sauce épaissit, baissez le feu.", "english": "Once the sauce thickens, lower the heat." },
+                { "french": "Enfin, goûtez avant de servir.", "english": "Finally, taste before serving." }
+              ],
+              "tip": "Avant de is always followed by an infinitive: « Lavez les légumes avant de les couper. »"
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a2_u09_l02_li01",
+              "type": "listenChoose",
+              "french": "Préchauffez le four à cent quatre-vingts degrés.",
+              "options": ["Préchauffez le four à cent quatre-vingts degrés.", "Préchauffez le four à deux cents degrés.", "Allumez la poêle à cent quatre-vingts degrés.", "Préchauffez le four à cent trente degrés."],
+              "answer": "Préchauffez le four à cent quatre-vingts degrés.",
+              "english": "Preheat the oven to one hundred and eighty degrees."
+            },
+            {
+              "id": "a2_u09_l02_li02",
+              "type": "listenChoose",
+              "french": "Faites revenir les oignons dans une poêle.",
+              "options": ["Faites revenir les oignons dans une poêle.", "Faites bouillir les oignons dans une casserole.", "Faites revenir les poivrons dans une poêle.", "Faites cuire les oignons au four."],
+              "answer": "Faites revenir les oignons dans une poêle.",
+              "english": "Fry the onions gently in a frying pan."
+            },
+            {
+              "id": "a2_u09_l02_li03",
+              "type": "listenType",
+              "french": "Mélangez bien et laissez cuire.",
+              "answer": "Mélangez bien et laissez cuire.",
+              "acceptedAnswers": ["Melangez bien et laissez cuire", "mélangez bien et laissez cuire", "Mélangez bien et laissez cuire"],
+              "english": "Mix well and let it cook."
+            },
+            {
+              "id": "a2_u09_l02_li04",
+              "type": "dictation",
+              "french": "D'abord, épluchez les carottes, puis coupez-les en rondelles.",
+              "answer": "D'abord, épluchez les carottes, puis coupez-les en rondelles.",
+              "acceptedAnswers": ["D'abord, epluchez les carottes, puis coupez-les en rondelles", "d'abord, épluchez les carottes, puis coupez-les en rondelles", "D abord, epluchez les carottes, puis coupez les en rondelles"],
+              "english": "First, peel the carrots, then cut them into rounds."
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a2_u09_l02_sp01",
+              "type": "speak",
+              "french": "D'abord, faites bouillir de l'eau salée.",
+              "english": "First, boil some salted water.",
+              "prompt": "Give the first step of a pasta recipe.",
+              "tip": "D'abord is two syllables — dah-BOR — and the final d stays silent."
+            },
+            {
+              "id": "a2_u09_l02_sp02",
+              "type": "speak",
+              "french": "Ensuite, ajoutez la crème et remuez doucement.",
+              "english": "Then add the cream and stir gently.",
+              "prompt": "Give the second step, linking it with ensuite.",
+              "tip": "Ajoutez begins with a clear ah, and the final -ez sounds like ay."
+            },
+            {
+              "id": "a2_u09_l02_sp03",
+              "type": "speak",
+              "french": "Enfin, goûtez avant de servir.",
+              "english": "Finally, taste before serving.",
+              "prompt": "Close a recipe with a final instruction.",
+              "tip": "Goûtez starts like the English word goo, then ends with a bright -tay."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Le gratin de courgettes de mamie",
+              "french": "Voici une recette très simple, pour quatre personnes.\nPréparation : quinze minutes. Cuisson : trente minutes.\nD'abord, préchauffez le four à cent quatre-vingt-dix degrés.\nLavez trois courgettes, puis coupez-les en fines rondelles.\nFaites revenir les rondelles dans une poêle avec un peu d'huile d'olive.\nPendant ce temps, battez deux œufs avec de la crème fraîche dans un saladier.\nAssaisonnez avec du sel, du poivre et une pincée de persil.\nEnsuite, versez les courgettes dans un moule et ajoutez le mélange.\nSaupoudrez de fromage râpé et faites cuire environ trente minutes.\nEnfin, goûtez avant de servir : le gratin doit être doré et chaud.",
+              "english": "Here is a very simple recipe, for four people.\nPrep: fifteen minutes. Cooking: thirty minutes.\nFirst, preheat the oven to one hundred and ninety degrees.\nWash three courgettes, then cut them into thin rounds.\nFry the rounds gently in a pan with a little olive oil.\nMeanwhile, beat two eggs with some crème fraîche in a bowl.\nSeason with salt, pepper and a pinch of parsley.\nThen pour the courgettes into a tin and add the mixture.\nSprinkle with grated cheese and bake for about thirty minutes.\nFinally, taste before serving: the gratin should be golden and hot.",
+              "questions": [
+                {
+                  "id": "a2_u09_l02_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Que fait-on en premier ?",
+                  "options": ["On préchauffe le four", "On bat les œufs", "On saupoudre le fromage", "On coupe les courgettes"],
+                  "answer": "On préchauffe le four",
+                  "english": "What do you do first?"
+                },
+                {
+                  "id": "a2_u09_l02_rd02",
+                  "type": "trueFalse",
+                  "prompt": "Les œufs sont battus avec de la crème fraîche.",
+                  "options": ["True", "False"],
+                  "answer": "True",
+                  "english": "The eggs are beaten with crème fraîche."
+                },
+                {
+                  "id": "a2_u09_l02_rd03",
+                  "type": "multipleChoice",
+                  "prompt": "Combien de temps dure la cuisson ?",
+                  "options": ["Environ trente minutes", "Quinze minutes", "Une heure", "Dix minutes"],
+                  "answer": "Environ trente minutes",
+                  "english": "How long does the cooking take?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a2_u09_l02_wr01",
+              "type": "translate",
+              "prompt": "Translate into French (use the vous form).",
+              "english": "Mix the flour and the eggs in a bowl.",
+              "answer": "Mélangez la farine et les œufs dans un saladier.",
+              "acceptedAnswers": ["Melangez la farine et les oeufs dans un saladier", "Mélangez la farine et les oeufs dans un saladier.", "mélangez la farine et les œufs dans un saladier"]
+            },
+            {
+              "id": "a2_u09_l02_wr02",
+              "type": "arrangeWords",
+              "words": ["moule", "le", "dans", "pâte", "versez", "la"],
+              "answer": "Versez la pâte dans le moule",
+              "english": "Pour the batter into the tin."
+            },
+            {
+              "id": "a2_u09_l02_wr03",
+              "type": "translate",
+              "prompt": "Translate into French (use the tu form).",
+              "english": "Don't add too much salt.",
+              "answer": "N'ajoute pas trop de sel.",
+              "acceptedAnswers": ["N'ajoute pas trop de sel", "n'ajoute pas trop de sel.", "N ajoute pas trop de sel"]
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a2_u09_l02_pr01",
+              "type": "match",
+              "prompt": "Match the cooking verb with its meaning.",
+              "pairs": [
+                { "french": "éplucher", "english": "to peel" },
+                { "french": "battre", "english": "to beat" },
+                { "french": "verser", "english": "to pour" },
+                { "french": "râper", "english": "to grate" }
+              ]
+            },
+            {
+              "id": "a2_u09_l02_pr02",
+              "type": "fillBlank",
+              "prompt": "___ les légumes en morceaux. (couper, vous)",
+              "answer": "Coupez",
+              "english": "Cut the vegetables into pieces."
+            },
+            {
+              "id": "a2_u09_l02_pr03",
+              "type": "multipleChoice",
+              "prompt": "Dans quel ustensile fait-on bouillir de l'eau ?",
+              "options": ["une casserole", "une planche à découper", "un fouet", "un saladier"],
+              "answer": "une casserole",
+              "english": "In which utensil do you boil water?"
+            },
+            {
+              "id": "a2_u09_l02_pr04",
+              "type": "fillBlank",
+              "prompt": "Goûtez la sauce avant ___ servir.",
+              "answer": "de",
+              "english": "Taste the sauce before serving."
+            },
+            {
+              "id": "a2_u09_l02_pr05",
+              "type": "multipleChoice",
+              "prompt": "Quel mot indique la dernière étape ?",
+              "options": ["enfin", "d'abord", "ensuite", "premièrement"],
+              "answer": "enfin",
+              "english": "Which word marks the last step?"
+            },
+            {
+              "id": "a2_u09_l02_pr06",
+              "type": "arrangeWords",
+              "words": ["doux", "à", "mijoter", "laissez", "feu"],
+              "answer": "Laissez mijoter à feu doux",
+              "english": "Let it simmer on a low heat."
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a2_u09_l02_qz01",
+              "type": "multipleChoice",
+              "prompt": "Quelle est la forme impérative correcte avec « tu » ?",
+              "options": ["Mélange bien !", "Mélanges bien !", "Tu mélange bien !", "Mélanger bien !"],
+              "answer": "Mélange bien !",
+              "english": "Which is the correct tu imperative?"
+            },
+            {
+              "id": "a2_u09_l02_qz02",
+              "type": "fillBlank",
+              "prompt": "___ le four à 180 degrés. (préchauffer, vous)",
+              "answer": "Préchauffez",
+              "english": "Preheat the oven to 180 degrees."
+            },
+            {
+              "id": "a2_u09_l02_qz03",
+              "type": "multipleChoice",
+              "prompt": "Que signifie « faire revenir les oignons » ?",
+              "options": ["to fry the onions gently", "to boil the onions", "to peel the onions", "to grate the onions"],
+              "answer": "to fry the onions gently",
+              "english": "What does \"faire revenir les oignons\" mean?"
+            },
+            {
+              "id": "a2_u09_l02_qz04",
+              "type": "trueFalse",
+              "prompt": "« Avant de » est toujours suivi d'un infinitif.",
+              "options": ["True", "False"],
+              "answer": "True",
+              "english": "\"Avant de\" is always followed by an infinitive."
+            },
+            {
+              "id": "a2_u09_l02_qz05",
+              "type": "translate",
+              "prompt": "Translate into French (vous form).",
+              "english": "Then stir gently for two minutes.",
+              "answer": "Ensuite, remuez doucement pendant deux minutes.",
+              "acceptedAnswers": ["Ensuite, remuez doucement pendant deux minutes", "ensuite remuez doucement pendant deux minutes", "Ensuite remuez doucement pendant deux minutes."]
+            }
+          ]
+        }
+      ]
+    }
+,
+    {
+      "id": "a2_u09_l03",
+      "level": "A2",
+      "unit": 9,
+      "title": "Au supermarché",
+      "description": "Find your way around the aisles, describe packaging and compare prices before you pay.",
+      "estimatedMinutes": 15,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Les rayons du magasin",
+              "body": "A French supermarket is organised in rayons (aisles or departments): le rayon fruits et légumes, le rayon boucherie, le rayon crémerie, le rayon surgelés. At the entrance you take un chariot (a trolley, also called un caddie) or un panier (a basket), and you leave through la caisse (the checkout), where you can also choose une caisse automatique (self-checkout).",
+              "examples": [
+                { "french": "Le lait est au rayon crémerie.", "english": "The milk is in the dairy aisle." },
+                { "french": "Excusez-moi, où est le rayon surgelés ?", "english": "Excuse me, where is the frozen food aisle?" },
+                { "french": "Je prends un panier, j'achète trois choses.", "english": "I'll take a basket, I'm buying three things." },
+                { "french": "Il y a beaucoup de monde aux caisses.", "english": "There are a lot of people at the checkouts." },
+                { "french": "J'utilise toujours la caisse automatique.", "english": "I always use the self-checkout." },
+                { "french": "Ma liste de courses est sur mon téléphone.", "english": "My shopping list is on my phone." }
+              ],
+              "tip": "Un supermarché is in town; un hypermarché is the huge one outside town; une supérette is the tiny local shop."
+            },
+            {
+              "heading": "Les emballages",
+              "body": "Food is sold in containers, and each one has its own word: un paquet de pâtes, une boîte de conserve (a tin), un pot de yaourt, une bouteille d'eau, une brique de lait, un sachet de fromage râpé, une barquette de fraises, un tube de mayonnaise. All of them are followed by de + the product, with no article, exactly like a quantity.",
+              "examples": [
+                { "french": "J'achète un paquet de riz et deux boîtes de tomates.", "english": "I'm buying a packet of rice and two tins of tomatoes." },
+                { "french": "Prends une brique de lait, s'il te plaît.", "english": "Get a carton of milk, please." },
+                { "french": "Ce pot de confiture est presque vide.", "english": "This jar of jam is almost empty." },
+                { "french": "Une barquette de crevettes coûte cinq euros.", "english": "A tray of prawns costs five euros." },
+                { "french": "Le sachet de fromage râpé est au rayon frais.", "english": "The bag of grated cheese is in the chilled aisle." },
+                { "french": "J'évite les emballages en plastique.", "english": "I avoid plastic packaging." }
+              ],
+              "tip": "Acheter en vrac means buying loose, with no packaging — more and more common in French shops."
+            },
+            {
+              "heading": "Lire l'étiquette et comparer",
+              "body": "L'étiquette (the label) shows le prix, le poids and la date de péremption (the use-by date). To compare, French uses plus cher que (more expensive than), moins cher que (cheaper than) and aussi cher que (as expensive as). The champion form is le moins cher / le plus cher. Watch for une promotion — often written « promo » — and phrases like « deux achetés, un offert ».",
+              "examples": [
+                { "french": "Cette marque est moins chère que l'autre.", "english": "This brand is cheaper than the other one." },
+                { "french": "Le bio est souvent plus cher.", "english": "Organic food is often more expensive." },
+                { "french": "C'est le paquet le moins cher du rayon.", "english": "It's the cheapest packet in the aisle." },
+                { "french": "Regarde la date de péremption avant d'acheter.", "english": "Check the use-by date before buying." },
+                { "french": "Il y a une promotion sur les surgelés.", "english": "There is a special offer on frozen food." },
+                { "french": "Deux achetés, un offert : c'est intéressant !", "english": "Buy two, get one free: that's a good deal!" }
+              ],
+              "tip": "Cher agrees like any adjective: un produit cher, une marque chère, des produits chers."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "le-rayon", "french": "le rayon", "english": "aisle, department", "partOfSpeech": "noun", "gender": "m", "plural": "rayons", "pronunciation": "ray-YON", "example": "Le pain est au rayon boulangerie.", "exampleEnglish": "The bread is in the bakery section.", "level": "A2", "category": "shopping" },
+            { "id": "le-chariot", "french": "le chariot", "english": "trolley, cart", "partOfSpeech": "noun", "gender": "m", "plural": "chariots", "pronunciation": "shah-RYOH", "example": "Mon chariot est déjà plein.", "exampleEnglish": "My trolley is already full.", "level": "A2", "category": "shopping" },
+            { "id": "le-panier", "french": "le panier", "english": "basket", "partOfSpeech": "noun", "gender": "m", "plural": "paniers", "pronunciation": "pah-NYAY", "example": "Un panier suffit pour trois articles.", "exampleEnglish": "A basket is enough for three items.", "level": "A2", "category": "shopping" },
+            { "id": "la-caisse", "french": "la caisse", "english": "checkout, till", "partOfSpeech": "noun", "gender": "f", "plural": "caisses", "pronunciation": "kess", "example": "On paie à la caisse numéro trois.", "exampleEnglish": "You pay at checkout number three.", "level": "A2", "category": "shopping" },
+            { "id": "la-caisse-automatique", "french": "la caisse automatique", "english": "self-checkout", "partOfSpeech": "noun", "gender": "f", "plural": "caisses automatiques", "pronunciation": "kess oh-toh-mah-TEEK", "example": "La caisse automatique est plus rapide.", "exampleEnglish": "The self-checkout is faster.", "level": "A2", "category": "shopping" },
+            { "id": "la-liste-de-courses", "french": "la liste de courses", "english": "shopping list", "partOfSpeech": "noun", "gender": "f", "plural": "listes de courses", "pronunciation": "leest duh KOORSS", "example": "J'ai oublié ma liste de courses à la maison.", "exampleEnglish": "I left my shopping list at home.", "level": "A2", "category": "shopping" },
+            { "id": "le-client", "french": "le client", "english": "customer", "partOfSpeech": "noun", "gender": "m", "plural": "clients", "pronunciation": "klee-YAHN", "example": "Le client demande où est le sucre.", "exampleEnglish": "The customer asks where the sugar is.", "level": "A2", "category": "shopping" },
+            { "id": "faire-la-queue", "french": "faire la queue", "english": "to queue, to stand in line", "partOfSpeech": "expression", "pronunciation": "fair lah KUH", "example": "On fait la queue depuis dix minutes.", "exampleEnglish": "We've been queuing for ten minutes.", "level": "A2", "category": "shopping" },
+            { "id": "le-paquet", "french": "le paquet", "english": "packet, pack", "partOfSpeech": "noun", "gender": "m", "plural": "paquets", "pronunciation": "pah-KAY", "example": "Un paquet de pâtes coûte un euro.", "exampleEnglish": "A packet of pasta costs one euro.", "level": "A2", "category": "packaging" },
+            { "id": "la-boite-de-conserve", "french": "la boîte de conserve", "english": "tin, can", "partOfSpeech": "noun", "gender": "f", "plural": "boîtes de conserve", "pronunciation": "bwaht duh kon-SAIRV", "example": "J'ouvre une boîte de conserve de haricots.", "exampleEnglish": "I'm opening a tin of beans.", "level": "A2", "category": "packaging" },
+            { "id": "le-pot", "french": "le pot", "english": "jar, pot", "partOfSpeech": "noun", "gender": "m", "plural": "pots", "pronunciation": "poh", "example": "Ce pot de yaourt est périmé.", "exampleEnglish": "This pot of yogurt is out of date.", "level": "A2", "category": "packaging" },
+            { "id": "la-bouteille", "french": "la bouteille", "english": "bottle", "partOfSpeech": "noun", "gender": "f", "plural": "bouteilles", "pronunciation": "boo-TAY", "example": "Prends deux bouteilles d'eau.", "exampleEnglish": "Take two bottles of water.", "level": "A2", "category": "packaging" },
+            { "id": "la-brique", "french": "la brique", "english": "carton (of milk, juice)", "partOfSpeech": "noun", "gender": "f", "plural": "briques", "pronunciation": "breek", "example": "Il reste une brique de lait au frigo.", "exampleEnglish": "There is one carton of milk left in the fridge.", "level": "A2", "category": "packaging" },
+            { "id": "le-sachet", "french": "le sachet", "english": "small bag, sachet", "partOfSpeech": "noun", "gender": "m", "plural": "sachets", "pronunciation": "sah-SHAY", "example": "Un sachet de fromage râpé, s'il vous plaît.", "exampleEnglish": "A bag of grated cheese, please.", "level": "A2", "category": "packaging" },
+            { "id": "le-tube", "french": "le tube", "english": "tube", "partOfSpeech": "noun", "gender": "m", "plural": "tubes", "pronunciation": "tewb", "example": "Le tube de mayonnaise est ouvert.", "exampleEnglish": "The tube of mayonnaise is open.", "level": "A2", "category": "packaging" },
+            { "id": "la-barquette", "french": "la barquette", "english": "tray, punnet", "partOfSpeech": "noun", "gender": "f", "plural": "barquettes", "pronunciation": "bar-KET", "example": "Une barquette de fraises, c'est parfait.", "exampleEnglish": "A punnet of strawberries is perfect.", "level": "A2", "category": "packaging" },
+            { "id": "le-vrac", "french": "le vrac", "english": "loose goods, bulk", "partOfSpeech": "noun", "gender": "m", "plural": "vracs", "pronunciation": "vrak", "example": "J'achète le riz en vrac, sans emballage.", "exampleEnglish": "I buy rice loose, without packaging.", "level": "A2", "category": "packaging" },
+            { "id": "le-sac-reutilisable", "french": "le sac réutilisable", "english": "reusable bag", "partOfSpeech": "noun", "gender": "m", "plural": "sacs réutilisables", "pronunciation": "sak ray-ew-tee-lee-ZAH-bluh", "example": "N'oublie pas ton sac réutilisable.", "exampleEnglish": "Don't forget your reusable bag.", "level": "A2", "category": "shopping" },
+            { "id": "l-etiquette", "french": "l'étiquette", "english": "label", "partOfSpeech": "noun", "gender": "f", "plural": "étiquettes", "pronunciation": "lay-tee-KET", "example": "L'étiquette indique le poids et le prix.", "exampleEnglish": "The label shows the weight and the price.", "level": "A2", "category": "shopping" },
+            { "id": "le-code-barres", "french": "le code-barres", "english": "barcode", "partOfSpeech": "noun", "gender": "m", "plural": "codes-barres", "pronunciation": "kod BAR", "example": "Scannez le code-barres ici.", "exampleEnglish": "Scan the barcode here.", "level": "A2", "category": "shopping" },
+            { "id": "la-date-de-peremption", "french": "la date de péremption", "english": "use-by date", "partOfSpeech": "noun", "gender": "f", "plural": "dates de péremption", "pronunciation": "daht duh pay-ramp-SYON", "example": "Vérifie la date de péremption du yaourt.", "exampleEnglish": "Check the use-by date on the yogurt.", "level": "A2", "category": "shopping" },
+            { "id": "le-produit", "french": "le produit", "english": "product", "partOfSpeech": "noun", "gender": "m", "plural": "produits", "pronunciation": "pro-DWEE", "example": "Ce produit vient d'une ferme locale.", "exampleEnglish": "This product comes from a local farm.", "level": "A2", "category": "shopping" },
+            { "id": "la-marque", "french": "la marque", "english": "brand", "partOfSpeech": "noun", "gender": "f", "plural": "marques", "pronunciation": "mark", "example": "Je préfère la marque du magasin.", "exampleEnglish": "I prefer the shop's own brand.", "level": "A2", "category": "shopping" },
+            { "id": "le-surgele", "french": "le surgelé", "english": "frozen food item", "partOfSpeech": "noun", "gender": "m", "plural": "surgelés", "pronunciation": "sewr-zhuh-LAY", "example": "Les surgelés sont au fond du magasin.", "exampleEnglish": "The frozen food is at the back of the shop.", "level": "A2", "category": "shopping" },
+            { "id": "la-promotion", "french": "la promotion", "english": "special offer", "partOfSpeech": "noun", "gender": "f", "plural": "promotions", "pronunciation": "pro-mo-SYON", "example": "Il y a une promotion sur le café.", "exampleEnglish": "There is a special offer on coffee.", "level": "A2", "category": "shopping" },
+            { "id": "le-ticket-de-caisse", "french": "le ticket de caisse", "english": "receipt", "partOfSpeech": "noun", "gender": "m", "plural": "tickets de caisse", "pronunciation": "tee-KAY duh KESS", "example": "Gardez le ticket de caisse pour l'échange.", "exampleEnglish": "Keep the receipt for an exchange.", "level": "A2", "category": "shopping" },
+            { "id": "la-carte-bancaire", "french": "la carte bancaire", "english": "bank card", "partOfSpeech": "noun", "gender": "f", "plural": "cartes bancaires", "pronunciation": "kart bahn-KAIR", "example": "Je paie par carte bancaire.", "exampleEnglish": "I pay by bank card.", "level": "A2", "category": "shopping" },
+            { "id": "rendre-la-monnaie", "french": "rendre la monnaie", "english": "to give change", "partOfSpeech": "expression", "pronunciation": "RAHN-druh lah mo-NAY", "example": "La caissière me rend la monnaie.", "exampleEnglish": "The cashier gives me my change.", "level": "A2", "category": "shopping" },
+            { "id": "regler", "french": "régler", "english": "to settle, to pay (a bill)", "partOfSpeech": "verb", "pronunciation": "ray-GLAY", "example": "Vous réglez comment, par carte ou en espèces ?", "exampleEnglish": "How are you paying, by card or in cash?", "level": "A2", "category": "shopping" },
+            { "id": "a2-couter", "french": "coûter", "english": "to cost", "partOfSpeech": "verb", "pronunciation": "koo-TAY", "example": "Ce fromage coûte huit euros le kilo.", "exampleEnglish": "This cheese costs eight euros a kilo.", "level": "A2", "category": "shopping" },
+            { "id": "a2-le-prix", "french": "le prix", "english": "price", "partOfSpeech": "noun", "gender": "m", "plural": "prix", "pronunciation": "pree", "example": "Le prix est écrit sur l'étiquette.", "exampleEnglish": "The price is written on the label.", "level": "A2", "category": "shopping" },
+            { "id": "le-poids", "french": "le poids", "english": "weight", "partOfSpeech": "noun", "gender": "m", "plural": "poids", "pronunciation": "pwah", "example": "Quel est le poids de ce paquet ?", "exampleEnglish": "What is the weight of this packet?", "level": "A2", "category": "shopping" },
+            { "id": "la-quantite", "french": "la quantité", "english": "quantity, amount", "partOfSpeech": "noun", "gender": "f", "plural": "quantités", "pronunciation": "kahn-tee-TAY", "example": "Achète une petite quantité de crème.", "exampleEnglish": "Buy a small amount of cream.", "level": "A2", "category": "quantities" },
+            { "id": "bon-marche", "french": "bon marché", "english": "cheap, good value", "partOfSpeech": "adjective", "pronunciation": "bon mar-SHAY", "example": "Ce magasin est vraiment bon marché.", "exampleEnglish": "This shop is really cheap.", "level": "A2", "category": "shopping" },
+            { "id": "offert", "french": "offert", "english": "free, given (as a gift)", "partOfSpeech": "adjective", "pronunciation": "oh-FAIR", "example": "Deux achetés, un offert !", "exampleEnglish": "Buy two, get one free!", "level": "A2", "category": "shopping" },
+            { "id": "economique", "french": "économique", "english": "economical, good value", "partOfSpeech": "adjective", "pronunciation": "ay-ko-no-MEEK", "example": "Le grand format est plus économique.", "exampleEnglish": "The large size is more economical.", "level": "A2", "category": "shopping" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar — comparing prices and products",
+          "blocks": [
+            {
+              "heading": "plus / moins / aussi … que",
+              "body": "To compare two things, place plus (more), moins (less) or aussi (as) before the adjective and que before the second item: « Cette marque est plus chère que l'autre. » The adjective still agrees with the first noun. Bon has an irregular comparative: meilleur (better), never plus bon. With quantities of a noun you use plus de, moins de, autant de: « Il y a moins de sucre dans ce yaourt. »",
+              "examples": [
+                { "french": "Le beurre bio est plus cher que le beurre normal.", "english": "Organic butter is more expensive than ordinary butter." },
+                { "french": "Cette marque est moins chère que l'autre.", "english": "This brand is cheaper than the other one." },
+                { "french": "Le grand paquet est aussi pratique que le petit.", "english": "The big packet is as practical as the small one." },
+                { "french": "Ce fromage est meilleur que celui du supermarché.", "english": "This cheese is better than the supermarket one." },
+                { "french": "Il y a moins de sel dans ce produit.", "english": "There is less salt in this product." },
+                { "french": "J'achète autant de légumes que de fruits.", "english": "I buy as many vegetables as fruit." }
+              ],
+              "tip": "In speech people often drop the second half: « C'est moins cher ! » — the comparison is understood."
+            },
+            {
+              "heading": "Le superlatif : le plus, le moins",
+              "body": "For the champion, add the article before plus or moins: le plus cher, la moins chère, les plus frais. The article agrees with the noun, and the group usually follows with de: « le produit le moins cher du rayon ». Bon becomes le meilleur / la meilleure. Prices themselves are read with euros in the middle: 3,50 € is « trois euros cinquante ».",
+              "examples": [
+                { "french": "C'est le paquet le moins cher du magasin.", "english": "It's the cheapest packet in the shop." },
+                { "french": "Voici la marque la plus connue.", "english": "Here is the best-known brand." },
+                { "french": "Ce sont les tomates les plus fraîches du marché.", "english": "These are the freshest tomatoes at the market." },
+                { "french": "C'est la meilleure confiture de la région.", "english": "It's the best jam in the region." },
+                { "french": "Ça coûte trois euros cinquante le kilo.", "english": "It costs three euros fifty a kilo." },
+                { "french": "Le prix au kilo est écrit en petit sur l'étiquette.", "english": "The price per kilo is written small on the label." }
+              ],
+              "tip": "To ask about price: « C'est combien ? » or, more formally, « Quel est le prix de ce produit ? »"
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a2_u09_l03_li01",
+              "type": "listenChoose",
+              "french": "Le lait est au rayon crémerie, à gauche.",
+              "options": ["Le lait est au rayon crémerie, à gauche.", "Le lait est au rayon surgelés, à gauche.", "Le lait est au rayon crémerie, à droite.", "Le pain est au rayon crémerie, à gauche."],
+              "answer": "Le lait est au rayon crémerie, à gauche.",
+              "english": "The milk is in the dairy aisle, on the left."
+            },
+            {
+              "id": "a2_u09_l03_li02",
+              "type": "listenChoose",
+              "french": "Cette marque est moins chère que l'autre.",
+              "options": ["Cette marque est moins chère que l'autre.", "Cette marque est plus chère que l'autre.", "Cette marque est aussi chère que l'autre.", "Ce produit est moins bon que l'autre."],
+              "answer": "Cette marque est moins chère que l'autre.",
+              "english": "This brand is cheaper than the other one."
+            },
+            {
+              "id": "a2_u09_l03_li03",
+              "type": "listenType",
+              "french": "Vous payez par carte ?",
+              "answer": "Vous payez par carte ?",
+              "acceptedAnswers": ["Vous payez par carte", "vous payez par carte ?", "Vous payez par carte?"],
+              "english": "Are you paying by card?"
+            },
+            {
+              "id": "a2_u09_l03_li04",
+              "type": "dictation",
+              "french": "Il y a une promotion sur les paquets de pâtes.",
+              "answer": "Il y a une promotion sur les paquets de pâtes.",
+              "acceptedAnswers": ["Il y a une promotion sur les paquets de pates", "il y a une promotion sur les paquets de pâtes", "Il y a une promotion sur les paquets de pates."],
+              "english": "There is a special offer on packets of pasta."
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a2_u09_l03_sp01",
+              "type": "speak",
+              "french": "Excusez-moi, où est le rayon surgelés ?",
+              "english": "Excuse me, where is the frozen food aisle?",
+              "prompt": "Ask a shop assistant where an aisle is.",
+              "tip": "Rayon ends in a nasal -on: ray-YON, with no hard N sound at the end."
+            },
+            {
+              "id": "a2_u09_l03_sp02",
+              "type": "speak",
+              "french": "Ce paquet est moins cher que l'autre.",
+              "english": "This packet is cheaper than the other one.",
+              "prompt": "Compare two products in front of you.",
+              "tip": "Moins cher runs together as mwan-SHAIR; the s of moins stays silent."
+            },
+            {
+              "id": "a2_u09_l03_sp03",
+              "type": "speak",
+              "french": "Je paie par carte, s'il vous plaît.",
+              "english": "I'll pay by card, please.",
+              "prompt": "Tell the cashier how you want to pay.",
+              "tip": "Paie is one syllable — pay — and carte ends with a light, clear t."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Samedi matin au supermarché",
+              "french": "Le samedi matin, Karim fait les courses avec sa fille Nour.\nIl prend un chariot et sort sa liste de courses du téléphone.\nAu rayon fruits et légumes, Nour choisit une barquette de fraises.\n« Regarde le prix », dit Karim, « les fraises espagnoles sont moins chères. »\nNour compare les deux étiquettes : trois euros contre quatre euros cinquante.\nAu rayon crémerie, ils prennent une brique de lait et six pots de yaourt.\nKarim vérifie la date de péremption : le lait est bon jusqu'au vingt.\nIl y a une promotion sur les paquets de riz : deux achetés, un offert.\nÀ la caisse, ils font la queue pendant dix minutes derrière un client bavard.\nKarim règle par carte bancaire et garde le ticket de caisse dans sa poche.",
+              "english": "On Saturday morning, Karim does the shopping with his daughter Nour.\nHe takes a trolley and gets his shopping list out on his phone.\nIn the fruit and vegetable aisle, Nour picks a punnet of strawberries.\n\"Look at the price,\" says Karim, \"the Spanish strawberries are cheaper.\"\nNour compares the two labels: three euros against four euros fifty.\nIn the dairy aisle, they take a carton of milk and six pots of yogurt.\nKarim checks the use-by date: the milk is good until the twentieth.\nThere is a special offer on packets of rice: buy two, get one free.\nAt the checkout, they queue for ten minutes behind a chatty customer.\nKarim pays by bank card and keeps the receipt in his pocket.",
+              "questions": [
+                {
+                  "id": "a2_u09_l03_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Quelles fraises sont les moins chères ?",
+                  "options": ["Les fraises espagnoles", "Les fraises françaises", "Les fraises bio", "Les fraises surgelées"],
+                  "answer": "Les fraises espagnoles",
+                  "english": "Which strawberries are the cheapest?"
+                },
+                {
+                  "id": "a2_u09_l03_rd02",
+                  "type": "trueFalse",
+                  "prompt": "Karim paie en espèces.",
+                  "options": ["True", "False"],
+                  "answer": "False",
+                  "english": "Karim pays in cash."
+                },
+                {
+                  "id": "a2_u09_l03_rd03",
+                  "type": "multipleChoice",
+                  "prompt": "Sur quel produit y a-t-il une promotion ?",
+                  "options": ["Les paquets de riz", "Les pots de yaourt", "La brique de lait", "Les barquettes de fraises"],
+                  "answer": "Les paquets de riz",
+                  "english": "Which product is on special offer?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a2_u09_l03_wr01",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "This brand is cheaper than the other one.",
+              "answer": "Cette marque est moins chère que l'autre.",
+              "acceptedAnswers": ["Cette marque est moins chère que l'autre", "cette marque est moins chere que l'autre.", "Cette marque est moins chere que l autre"]
+            },
+            {
+              "id": "a2_u09_l03_wr02",
+              "type": "arrangeWords",
+              "words": ["lait", "brique", "une", "de", "prends"],
+              "answer": "Prends une brique de lait",
+              "english": "Get a carton of milk."
+            },
+            {
+              "id": "a2_u09_l03_wr03",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "Where is the frozen food aisle, please?",
+              "answer": "Où est le rayon surgelés, s'il vous plaît ?",
+              "acceptedAnswers": ["Ou est le rayon surgeles, s'il vous plait ?", "Où est le rayon surgelés s'il vous plaît", "Où est le rayon surgelés, s'il vous plaît"]
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a2_u09_l03_pr01",
+              "type": "match",
+              "prompt": "Match the packaging with the product it holds.",
+              "pairs": [
+                { "french": "une brique", "english": "a carton of milk" },
+                { "french": "un pot", "english": "a jar of jam" },
+                { "french": "une boîte de conserve", "english": "a tin of beans" },
+                { "french": "un paquet", "english": "a packet of pasta" }
+              ]
+            },
+            {
+              "id": "a2_u09_l03_pr02",
+              "type": "fillBlank",
+              "prompt": "Ce fromage est ___ cher que l'autre : cinq euros contre huit.",
+              "answer": "moins",
+              "english": "This cheese is cheaper than the other one: five euros against eight."
+            },
+            {
+              "id": "a2_u09_l03_pr03",
+              "type": "multipleChoice",
+              "prompt": "Où trouve-t-on le prix et le poids d'un produit ?",
+              "options": ["Sur l'étiquette", "Sur le chariot", "À la caisse automatique", "Dans la liste de courses"],
+              "answer": "Sur l'étiquette",
+              "english": "Where do you find the price and weight of a product?"
+            },
+            {
+              "id": "a2_u09_l03_pr04",
+              "type": "fillBlank",
+              "prompt": "C'est le paquet ___ moins cher du rayon.",
+              "answer": "le",
+              "english": "It's the cheapest packet in the aisle."
+            },
+            {
+              "id": "a2_u09_l03_pr05",
+              "type": "multipleChoice",
+              "prompt": "Quel mot veut dire « receipt » ?",
+              "options": ["le ticket de caisse", "l'étiquette", "la promotion", "le code-barres"],
+              "answer": "le ticket de caisse",
+              "english": "Which word means \"receipt\"?"
+            },
+            {
+              "id": "a2_u09_l03_pr06",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "There is a special offer on frozen food.",
+              "answer": "Il y a une promotion sur les surgelés.",
+              "acceptedAnswers": ["Il y a une promotion sur les surgeles", "il y a une promotion sur les surgelés.", "Il y a une promo sur les surgelés"]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a2_u09_l03_qz01",
+              "type": "multipleChoice",
+              "prompt": "Complétez : « Ce produit est ___ cher que l'autre. »",
+              "options": ["plus", "beaucoup", "très", "trop"],
+              "answer": "plus",
+              "english": "Complete: \"This product is more expensive than the other one.\""
+            },
+            {
+              "id": "a2_u09_l03_qz02",
+              "type": "multipleChoice",
+              "prompt": "Dans quel emballage achète-t-on du lait ?",
+              "options": ["une brique", "un tube", "une barquette", "un sachet"],
+              "answer": "une brique",
+              "english": "In which container do you buy milk?"
+            },
+            {
+              "id": "a2_u09_l03_qz03",
+              "type": "fillBlank",
+              "prompt": "C'est la marque ___ plus connue du rayon.",
+              "answer": "la",
+              "english": "It's the best-known brand in the aisle."
+            },
+            {
+              "id": "a2_u09_l03_qz04",
+              "type": "trueFalse",
+              "prompt": "« Bon marché » veut dire « cheap ».",
+              "options": ["True", "False"],
+              "answer": "True",
+              "english": "\"Bon marché\" means \"cheap\"."
+            },
+            {
+              "id": "a2_u09_l03_qz05",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "Check the use-by date before buying.",
+              "answer": "Vérifie la date de péremption avant d'acheter.",
+              "acceptedAnswers": ["Verifie la date de peremption avant d'acheter", "Vérifiez la date de péremption avant d'acheter.", "verifie la date de peremption avant d acheter"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

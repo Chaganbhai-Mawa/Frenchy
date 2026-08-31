@@ -1,0 +1,903 @@
+{
+  "id": "a1_u04",
+  "level": "A1",
+  "unit": 4,
+  "title": "Family",
+  "subtitle": "Talk about your family, describe people, and meet the pets",
+  "icon": "👨‍👩‍👧",
+  "lessons": [
+    {
+      "id": "a1_u04_l01",
+      "level": "A1",
+      "unit": 4,
+      "title": "Ma famille",
+      "description": "Name the members of your family and say \"my\" in French.",
+      "estimatedMinutes": 13,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "The family",
+              "body": "Here are the core family words: le père (father), la mère (mother), le frère (brother), la sœur (sister). Together, your father and mother are \"les parents\". A son is \"le fils\" and a daughter is \"la fille\" — which also means \"girl\".",
+              "examples": [
+                { "french": "le père et la mère", "english": "the father and the mother" },
+                { "french": "le frère et la sœur", "english": "the brother and the sister" },
+                { "french": "les parents", "english": "the parents" },
+                { "french": "le fils et la fille", "english": "the son and the daughter" },
+                { "french": "l'oncle et la tante", "english": "the uncle and the aunt" },
+                { "french": "le cousin et la cousine", "english": "the cousin (male) and the cousin (female)" }
+              ],
+              "tip": "\"Fils\" is pronounced \"feess\" — the l is silent but the final s is not!"
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "la-famille", "french": "la famille", "english": "family", "partOfSpeech": "noun", "gender": "f", "pronunciation": "fah-MEE-yuh", "example": "J'aime ma famille.", "exampleEnglish": "I love my family.", "level": "A1", "category": "family" },
+            { "id": "le-pere", "french": "le père", "english": "father", "partOfSpeech": "noun", "gender": "m", "pronunciation": "pehr", "example": "Mon père s'appelle Marc.", "exampleEnglish": "My father's name is Marc.", "level": "A1", "category": "family" },
+            { "id": "la-mere", "french": "la mère", "english": "mother", "partOfSpeech": "noun", "gender": "f", "pronunciation": "mehr", "example": "Ma mère est gentille.", "exampleEnglish": "My mother is kind.", "level": "A1", "category": "family" },
+            { "id": "le-frere", "french": "le frère", "english": "brother", "partOfSpeech": "noun", "gender": "m", "pronunciation": "frehr", "example": "J'ai un frère.", "exampleEnglish": "I have one brother.", "level": "A1", "category": "family" },
+            { "id": "la-soeur", "french": "la sœur", "english": "sister", "partOfSpeech": "noun", "gender": "f", "pronunciation": "suhr", "example": "Ma sœur a dix ans.", "exampleEnglish": "My sister is ten years old.", "level": "A1", "category": "family" },
+            { "id": "les-parents", "french": "les parents", "english": "parents", "partOfSpeech": "noun", "gender": "m", "pronunciation": "pah-RAHN", "example": "Mes parents habitent à Nice.", "exampleEnglish": "My parents live in Nice.", "level": "A1", "category": "family" },
+            { "id": "le-fils", "french": "le fils", "english": "son", "partOfSpeech": "noun", "gender": "m", "pronunciation": "feess", "example": "Leur fils s'appelle Théo.", "exampleEnglish": "Their son's name is Théo.", "level": "A1", "category": "family" },
+            { "id": "la-fille", "french": "la fille", "english": "daughter / girl", "partOfSpeech": "noun", "gender": "f", "pronunciation": "fee-yuh", "example": "Leur fille a cinq ans.", "exampleEnglish": "Their daughter is five years old.", "level": "A1", "category": "family" },
+            { "id": "le-grand-pere", "french": "le grand-père", "english": "grandfather", "partOfSpeech": "noun", "gender": "m", "pronunciation": "grahn-PEHR", "example": "Mon grand-père a quatre-vingts ans.", "exampleEnglish": "My grandfather is eighty years old.", "level": "A1", "category": "family" },
+            { "id": "la-grand-mere", "french": "la grand-mère", "english": "grandmother", "partOfSpeech": "noun", "gender": "f", "pronunciation": "grahn-MEHR", "example": "Ma grand-mère habite avec nous.", "exampleEnglish": "My grandmother lives with us.", "level": "A1", "category": "family" },
+            { "id": "l-oncle", "french": "l'oncle", "english": "uncle", "partOfSpeech": "noun", "gender": "m", "plural": "oncles", "pronunciation": "OHN-kluh", "example": "Mon oncle habite à Paris.", "exampleEnglish": "My uncle lives in Paris.", "level": "A1", "category": "family" },
+            { "id": "la-tante", "french": "la tante", "english": "aunt", "partOfSpeech": "noun", "gender": "f", "plural": "tantes", "pronunciation": "tahnt", "example": "Ma tante s'appelle Sophie.", "exampleEnglish": "My aunt's name is Sophie.", "level": "A1", "category": "family" },
+            { "id": "le-cousin", "french": "le cousin", "english": "cousin (male)", "partOfSpeech": "noun", "gender": "m", "plural": "cousins", "pronunciation": "koo-ZAHN", "example": "Mon cousin a douze ans.", "exampleEnglish": "My cousin is twelve years old.", "level": "A1", "category": "family" },
+            { "id": "la-cousine", "french": "la cousine", "english": "cousin (female)", "partOfSpeech": "noun", "gender": "f", "plural": "cousines", "pronunciation": "koo-ZEEN", "example": "Ma cousine est très gentille.", "exampleEnglish": "My cousin is very kind.", "level": "A1", "category": "family" },
+            { "id": "le-bebe", "french": "le bébé", "english": "baby", "partOfSpeech": "noun", "gender": "m", "plural": "bébés", "pronunciation": "bay-BAY", "example": "Le bébé s'appelle Louis.", "exampleEnglish": "The baby's name is Louis.", "level": "A1", "category": "family" },
+            { "id": "les-grands-parents", "french": "les grands-parents", "english": "grandparents", "partOfSpeech": "noun", "gender": "m", "plural": "grands-parents", "pronunciation": "grahn-pah-RAHN", "example": "Mes grands-parents habitent à Bordeaux.", "exampleEnglish": "My grandparents live in Bordeaux.", "level": "A1", "category": "family" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Mon, ma, mes — saying \"my\"",
+              "body": "French has three words for \"my\". The choice depends on the noun that follows, not on you: \"mon\" before masculine nouns (mon père), \"ma\" before feminine nouns (ma mère), \"mes\" before any plural (mes parents). Before a feminine word starting with a vowel, use \"mon\" for easier pronunciation: mon amie.",
+              "examples": [
+                { "french": "mon père, mon frère", "english": "my father, my brother", "note": "masculine" },
+                { "french": "ma mère, ma sœur", "english": "my mother, my sister", "note": "feminine" },
+                { "french": "mes parents, mes sœurs", "english": "my parents, my sisters", "note": "plural" },
+                { "french": "mon amie", "english": "my friend (female)", "note": "feminine + vowel → mon" },
+                { "french": "mon oncle, ma tante", "english": "my uncle, my aunt" },
+                { "french": "mes grands-parents", "english": "my grandparents", "note": "plural" }
+              ],
+              "tip": "Never say \"ma amie\" — two vowels clash, so French switches to \"mon amie\" even though \"amie\" is feminine."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a1_u04_l01_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What does it mean?",
+              "french": "ma sœur",
+              "options": ["my sister", "my brother", "my mother", "my daughter"],
+              "answer": "my sister"
+            },
+            {
+              "id": "a1_u04_l01_li02",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Ma mère s'appelle Anne.",
+              "answer": "Ma mère s'appelle Anne.",
+              "acceptedAnswers": ["ma mere s appelle anne", "ma mere sappelle anne"]
+            },
+            {
+              "id": "a1_u04_l01_li03",
+              "type": "listenChoose",
+              "prompt": "Listen. Who is being talked about?",
+              "french": "mon frère",
+              "options": ["a brother", "a sister", "a grandmother", "a daughter"],
+              "answer": "a brother"
+            },
+            {
+              "id": "a1_u04_l01_li04",
+              "type": "dictation",
+              "prompt": "Dictation: write the sentence you hear.",
+              "french": "J'ai deux frères.",
+              "answer": "J'ai deux frères.",
+              "acceptedAnswers": ["j ai deux freres", "jai deux freres"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a1_u04_l01_sp01",
+              "type": "speak",
+              "prompt": "Say \"my family\".",
+              "french": "ma famille",
+              "english": "my family",
+              "tip": "\"Famille\" ends in a y sound, not an l: fah-MEE-yuh."
+            },
+            {
+              "id": "a1_u04_l01_sp02",
+              "type": "speak",
+              "prompt": "Say your father's name is Marc.",
+              "french": "Mon père s'appelle Marc",
+              "english": "My father's name is Marc",
+              "tip": "\"Père\" has an open è sound, like the e in \"bed\": pehr."
+            },
+            {
+              "id": "a1_u04_l01_sp03",
+              "type": "speak",
+              "prompt": "Say you have one sister.",
+              "french": "J'ai une sœur",
+              "english": "I have one sister",
+              "tip": "\"Sœur\" sounds like \"suhr\" — round your lips slightly."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "La famille de Lucas",
+              "french": "Je m'appelle Lucas. Dans ma famille, il y a quatre personnes : mon père Marc, ma mère Julie, ma sœur Emma et moi. Emma a huit ans. Mes grands-parents habitent à Bordeaux. J'adore ma famille !",
+              "english": "My name is Lucas. In my family, there are four people: my father Marc, my mother Julie, my sister Emma and me. Emma is eight years old. My grandparents live in Bordeaux. I love my family!",
+              "questions": [
+                {
+                  "id": "a1_u04_l01_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "How many people are in Lucas's family?",
+                  "options": ["4", "3", "5", "8"],
+                  "answer": "4"
+                },
+                {
+                  "id": "a1_u04_l01_rd02",
+                  "type": "trueFalse",
+                  "prompt": "Emma is Lucas's sister.",
+                  "options": ["True", "False"],
+                  "answer": "True"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a1_u04_l01_wr01",
+              "type": "translate",
+              "prompt": "Translate into French: \"My mother's name is Marie.\"",
+              "english": "My mother's name is Marie.",
+              "answer": "Ma mère s'appelle Marie.",
+              "acceptedAnswers": ["ma mere s appelle marie", "ma mere sappelle marie"]
+            },
+            {
+              "id": "a1_u04_l01_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "I have a brother and a sister.",
+              "words": ["une", "J'ai", "sœur", "frère", "et", "un"],
+              "answer": "J'ai un frère et une sœur"
+            },
+            {
+              "id": "a1_u04_l01_wr03",
+              "type": "fillBlank",
+              "prompt": "Complete: \"___ sœur s'appelle Léa.\" (My sister's name is Léa.)",
+              "answer": "Ma"
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a1_u04_l01_pr01",
+              "type": "multipleChoice",
+              "prompt": "Which is correct?",
+              "options": ["ma tante", "mon tante", "mes tante", "ma oncle"],
+              "answer": "ma tante"
+            },
+            {
+              "id": "a1_u04_l01_pr02",
+              "type": "fillBlank",
+              "prompt": "Complete: \"___ oncle s'appelle Pierre.\" (My uncle's name is Pierre.)",
+              "answer": "Mon"
+            },
+            {
+              "id": "a1_u04_l01_pr03",
+              "type": "translate",
+              "prompt": "Translate into French: \"My cousin is twelve years old.\" (a boy)",
+              "english": "My cousin is twelve years old.",
+              "answer": "Mon cousin a douze ans.",
+              "acceptedAnswers": ["mon cousin a douze ans"]
+            },
+            {
+              "id": "a1_u04_l01_pr04",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "My grandparents live in Bordeaux.",
+              "words": ["habitent", "grands-parents", "à", "Mes", "Bordeaux"],
+              "answer": "Mes grands-parents habitent à Bordeaux"
+            },
+            {
+              "id": "a1_u04_l01_pr05",
+              "type": "listenChoose",
+              "prompt": "Listen. Who is being talked about?",
+              "french": "ma cousine",
+              "options": ["a cousin (a girl)", "a cousin (a boy)", "an aunt", "a sister"],
+              "answer": "a cousin (a girl)"
+            },
+            {
+              "id": "a1_u04_l01_pr06",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "l'oncle", "english": "uncle" },
+                { "french": "la tante", "english": "aunt" },
+                { "french": "le bébé", "english": "baby" },
+                { "french": "les grands-parents", "english": "grandparents" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a1_u04_l01_qz01",
+              "type": "multipleChoice",
+              "prompt": "Which is correct?",
+              "options": ["mon père", "ma père", "mes père", "mon mère"],
+              "answer": "mon père"
+            },
+            {
+              "id": "a1_u04_l01_qz02",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "le père", "english": "father" },
+                { "french": "la sœur", "english": "sister" },
+                { "french": "la fille", "english": "daughter" },
+                { "french": "les parents", "english": "parents" }
+              ]
+            },
+            {
+              "id": "a1_u04_l01_qz03",
+              "type": "trueFalse",
+              "prompt": "Before a feminine word starting with a vowel, \"ma\" becomes \"mon\": mon amie.",
+              "options": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "a1_u04_l01_qz04",
+              "type": "fillBlank",
+              "prompt": "Complete: \"___ parents habitent à Paris.\" (My parents live in Paris.)",
+              "answer": "Mes"
+            },
+            {
+              "id": "a1_u04_l01_qz05",
+              "type": "multipleChoice",
+              "prompt": "What does \"le fils\" mean?",
+              "options": ["son", "daughter", "brother", "grandfather"],
+              "answer": "son"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1_u04_l02",
+      "level": "A1",
+      "unit": 4,
+      "title": "Il et elle",
+      "description": "Talk about other people with il and elle, and describe what they are like.",
+      "estimatedMinutes": 13,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "He and she",
+              "body": "\"Il\" means \"he\" and \"elle\" means \"she\". With them, être becomes \"est\" and avoir becomes \"a\": \"Il est grand\" (He is tall), \"Elle a dix ans\" (She is ten). This is how you talk about your family members.",
+              "examples": [
+                { "french": "Il est grand.", "english": "He is tall." },
+                { "french": "Elle est gentille.", "english": "She is kind." },
+                { "french": "Mon frère a huit ans.", "english": "My brother is eight years old." },
+                { "french": "Elle s'appelle Emma.", "english": "Her name is Emma." },
+                { "french": "Il est beau.", "english": "He is handsome." },
+                { "french": "Elle est sympa.", "english": "She is nice." }
+              ]
+            },
+            {
+              "heading": "Describing people",
+              "body": "Three useful adjectives: grand (tall/big), petit (short/small), gentil (kind/nice). When describing a woman or girl, add an -e: grande, petite — and gentil doubles its l: gentille.",
+              "examples": [
+                { "french": "Mon père est grand.", "english": "My father is tall." },
+                { "french": "Ma sœur est petite.", "english": "My sister is short." },
+                { "french": "Ma mère est très gentille.", "english": "My mother is very kind." },
+                { "french": "Mon grand-père est vieux.", "english": "My grandfather is old." },
+                { "french": "Elle a les yeux bleus.", "english": "She has blue eyes." }
+              ],
+              "tip": "The final consonant often becomes audible in the feminine: grand = \"grahn\" but grande = \"grahnd\"."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "il", "french": "il", "english": "he / it", "partOfSpeech": "pronoun", "pronunciation": "eel", "example": "Il est étudiant.", "exampleEnglish": "He is a student.", "level": "A1", "category": "basics" },
+            { "id": "elle", "french": "elle", "english": "she / it", "partOfSpeech": "pronoun", "pronunciation": "el", "example": "Elle habite à Paris.", "exampleEnglish": "She lives in Paris.", "level": "A1", "category": "basics" },
+            { "id": "grand", "french": "grand", "english": "tall / big", "partOfSpeech": "adjective", "pronunciation": "grahn", "example": "Mon frère est grand.", "exampleEnglish": "My brother is tall.", "level": "A1", "category": "descriptions" },
+            { "id": "petit", "french": "petit", "english": "short / small", "partOfSpeech": "adjective", "pronunciation": "puh-TEE", "example": "Le chat est petit.", "exampleEnglish": "The cat is small.", "level": "A1", "category": "descriptions" },
+            { "id": "gentil", "french": "gentil", "english": "kind / nice", "partOfSpeech": "adjective", "pronunciation": "zhahn-TEE", "example": "Mon père est gentil.", "exampleEnglish": "My father is kind.", "level": "A1", "category": "descriptions" },
+            { "id": "jeune", "french": "jeune", "english": "young", "partOfSpeech": "adjective", "pronunciation": "zhuhn", "example": "Ma sœur est jeune.", "exampleEnglish": "My sister is young.", "level": "A1", "category": "descriptions" },
+            { "id": "aussi", "french": "aussi", "english": "also / too", "partOfSpeech": "adverb", "pronunciation": "oh-SEE", "example": "Elle est gentille aussi.", "exampleEnglish": "She is kind too.", "level": "A1", "category": "basics" },
+            { "id": "la-personne", "french": "la personne", "english": "person", "partOfSpeech": "noun", "gender": "f", "pronunciation": "pehr-SUN", "example": "C'est une personne gentille.", "exampleEnglish": "He/She is a kind person.", "level": "A1", "category": "people" },
+            { "id": "beau", "french": "beau", "english": "handsome / beautiful", "partOfSpeech": "adjective", "pronunciation": "boh", "example": "Mon frère est beau.", "exampleEnglish": "My brother is handsome.", "level": "A1", "category": "descriptions" },
+            { "id": "joli", "french": "joli", "english": "pretty", "partOfSpeech": "adjective", "pronunciation": "zhoh-LEE", "example": "C'est une jolie maison.", "exampleEnglish": "It's a pretty house.", "level": "A1", "category": "descriptions" },
+            { "id": "vieux", "french": "vieux", "english": "old", "partOfSpeech": "adjective", "pronunciation": "vyuh", "example": "Mon grand-père est vieux.", "exampleEnglish": "My grandfather is old.", "level": "A1", "category": "descriptions" },
+            { "id": "sympa", "french": "sympa", "english": "nice / friendly (informal)", "partOfSpeech": "adjective", "pronunciation": "sam-PAH", "example": "Ma cousine est très sympa.", "exampleEnglish": "My cousin is very nice.", "level": "A1", "category": "descriptions" },
+            { "id": "les-cheveux", "french": "les cheveux", "english": "hair", "partOfSpeech": "noun", "gender": "m", "plural": "cheveux", "pronunciation": "shuh-VUH", "example": "Elle a les cheveux longs.", "exampleEnglish": "She has long hair.", "level": "A1", "category": "body" },
+            { "id": "les-yeux", "french": "les yeux", "english": "eyes", "partOfSpeech": "noun", "gender": "m", "plural": "yeux", "pronunciation": "lay ZYUH", "example": "Il a les yeux bleus.", "exampleEnglish": "He has blue eyes.", "level": "A1", "category": "body" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Être and avoir with il / elle",
+              "body": "Third person singular: il est / elle est (he is / she is), il a / elle a (he has / she has). Remember: age uses avoir even for other people — \"Il a cinq ans\", never \"Il est cinq ans\".",
+              "examples": [
+                { "french": "Il est petit.", "english": "He is short." },
+                { "french": "Elle est grande.", "english": "She is tall." },
+                { "french": "Il a douze ans.", "english": "He is twelve years old." },
+                { "french": "Elle a un frère.", "english": "She has a brother." },
+                { "french": "Il est jeune, elle est jeune aussi.", "english": "He is young, she is young too.", "note": "jeune doesn't change" },
+                { "french": "Elle a les cheveux longs.", "english": "She has long hair." }
+              ],
+              "tip": "Adjectives agree with the person: il est grand, but elle est grandE — listen for that extra consonant sound."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a1_u04_l02_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What does it mean?",
+              "french": "Elle est grande.",
+              "options": ["She is tall.", "He is tall.", "She is kind.", "She is young."],
+              "answer": "She is tall."
+            },
+            {
+              "id": "a1_u04_l02_li02",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Il a dix ans.",
+              "answer": "Il a dix ans.",
+              "acceptedAnswers": ["il a dix ans"]
+            },
+            {
+              "id": "a1_u04_l02_li03",
+              "type": "listenChoose",
+              "prompt": "Listen. Is the speaker describing a man or a woman?",
+              "french": "Elle est très gentille.",
+              "options": ["A woman", "A man"],
+              "answer": "A woman",
+              "tip": "\"Elle\" and the feminine \"gentille\" give it away."
+            },
+            {
+              "id": "a1_u04_l02_li04",
+              "type": "dictation",
+              "prompt": "Dictation: write the sentence you hear.",
+              "french": "Ma sœur est petite.",
+              "answer": "Ma sœur est petite.",
+              "acceptedAnswers": ["ma soeur est petite"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a1_u04_l02_sp01",
+              "type": "speak",
+              "prompt": "Say he is tall.",
+              "french": "Il est grand",
+              "english": "He is tall",
+              "tip": "Link \"il est\": ee-LEH. \"Grand\" ends in a nasal vowel, no d sound."
+            },
+            {
+              "id": "a1_u04_l02_sp02",
+              "type": "speak",
+              "prompt": "Say she is very kind.",
+              "french": "Elle est très gentille",
+              "english": "She is very kind",
+              "tip": "\"Gentille\" ends in a y sound: zhahn-TEE-yuh."
+            },
+            {
+              "id": "a1_u04_l02_sp03",
+              "type": "speak",
+              "prompt": "Say your brother is eight years old.",
+              "french": "Mon frère a huit ans",
+              "english": "My brother is eight years old",
+              "tip": "Link \"huit ans\": wee-TAHN."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Mon frère et ma sœur",
+              "french": "J'ai un frère et une sœur. Mon frère s'appelle Nathan. Il a seize ans et il est très grand. Ma sœur s'appelle Chloé. Elle a neuf ans. Elle est petite, mais elle est très gentille. Et moi ? Je suis jeune aussi !",
+              "english": "I have a brother and a sister. My brother's name is Nathan. He is sixteen and he is very tall. My sister's name is Chloé. She is nine. She is short, but she is very kind. And me? I'm young too!",
+              "questions": [
+                {
+                  "id": "a1_u04_l02_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "How old is Nathan?",
+                  "options": ["16", "9", "6", "19"],
+                  "answer": "16"
+                },
+                {
+                  "id": "a1_u04_l02_rd02",
+                  "type": "trueFalse",
+                  "prompt": "Chloé is tall.",
+                  "options": ["True", "False"],
+                  "answer": "False",
+                  "tip": "\"Elle est petite\" — she is short."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a1_u04_l02_wr01",
+              "type": "translate",
+              "prompt": "Translate into French: \"She is tall.\"",
+              "english": "She is tall.",
+              "answer": "Elle est grande.",
+              "acceptedAnswers": ["elle est grande"]
+            },
+            {
+              "id": "a1_u04_l02_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "My father is very kind.",
+              "words": ["très", "père", "est", "Mon", "gentil"],
+              "answer": "Mon père est très gentil"
+            },
+            {
+              "id": "a1_u04_l02_wr03",
+              "type": "fillBlank",
+              "prompt": "Complete with the feminine form: \"Ma mère est ___.\" (kind)",
+              "answer": "gentille"
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a1_u04_l02_pr01",
+              "type": "multipleChoice",
+              "prompt": "Complete: \"Ma sœur est ___.\"",
+              "options": ["jolie", "joli", "beaux", "vieux"],
+              "answer": "jolie"
+            },
+            {
+              "id": "a1_u04_l02_pr02",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Il a les ___ bleus.\" (He has blue eyes.)",
+              "answer": "yeux"
+            },
+            {
+              "id": "a1_u04_l02_pr03",
+              "type": "translate",
+              "prompt": "Translate into French: \"He is young.\"",
+              "english": "He is young.",
+              "answer": "Il est jeune.",
+              "acceptedAnswers": ["il est jeune"]
+            },
+            {
+              "id": "a1_u04_l02_pr04",
+              "type": "listenChoose",
+              "prompt": "Listen. What does it mean?",
+              "french": "Elle est très sympa.",
+              "options": ["She is very nice.", "He is very nice.", "She is very tall.", "She is very old."],
+              "answer": "She is very nice."
+            },
+            {
+              "id": "a1_u04_l02_pr05",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "My grandfather is old.",
+              "words": ["est", "grand-père", "vieux", "Mon"],
+              "answer": "Mon grand-père est vieux"
+            },
+            {
+              "id": "a1_u04_l02_pr06",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "beau", "english": "handsome" },
+                { "french": "vieux", "english": "old" },
+                { "french": "sympa", "english": "nice" },
+                { "french": "les cheveux", "english": "hair" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a1_u04_l02_qz01",
+              "type": "multipleChoice",
+              "prompt": "Complete: \"Il ___ dix ans.\"",
+              "options": ["a", "est", "as", "ai"],
+              "answer": "a"
+            },
+            {
+              "id": "a1_u04_l02_qz02",
+              "type": "trueFalse",
+              "prompt": "\"Elle est grand\" is correct French.",
+              "options": ["True", "False"],
+              "answer": "False",
+              "tip": "With \"elle\", the adjective takes -e: \"Elle est grande.\""
+            },
+            {
+              "id": "a1_u04_l02_qz03",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "grand", "english": "tall" },
+                { "french": "petit", "english": "short" },
+                { "french": "gentil", "english": "kind" },
+                { "french": "jeune", "english": "young" }
+              ]
+            },
+            {
+              "id": "a1_u04_l02_qz04",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Il ___ grand.\" (He is tall.)",
+              "answer": "est"
+            },
+            {
+              "id": "a1_u04_l02_qz05",
+              "type": "multipleChoice",
+              "prompt": "Which sentence says \"She has a brother\"?",
+              "options": ["Elle a un frère.", "Elle est un frère.", "Il a une sœur.", "Elle a une sœur."],
+              "answer": "Elle a un frère."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1_u04_l03",
+      "level": "A1",
+      "unit": 4,
+      "title": "Chez nous",
+      "description": "Talk about life at home with your family — and your pets.",
+      "estimatedMinutes": 12,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "At our place",
+              "body": "\"Chez\" means \"at the home of\": chez moi (at my place), chez nous (at our place), chez mes parents (at my parents' place). It's one of the most useful little words in French.",
+              "examples": [
+                { "french": "Chez nous, nous sommes cinq.", "english": "At our place, there are five of us." },
+                { "french": "J'habite chez mes parents.", "english": "I live at my parents' place." },
+                { "french": "Viens chez moi !", "english": "Come to my place!" },
+                { "french": "Chez moi, c'est petit.", "english": "My place is small." },
+                { "french": "Nous habitons dans un appartement.", "english": "We live in an apartment." }
+              ]
+            },
+            {
+              "heading": "Pets",
+              "body": "Many French families have pets: un chien (a dog) or un chat (a cat). To say you love them, use \"aimer\" (to like/love) or the stronger \"adorer\": \"J'adore mon chat !\"",
+              "examples": [
+                { "french": "Nous avons un chien.", "english": "We have a dog." },
+                { "french": "J'ai un chat. Il s'appelle Minou.", "english": "I have a cat. His name is Minou." },
+                { "french": "J'adore les animaux !", "english": "I love animals!" },
+                { "french": "Le lapin mange une carotte.", "english": "The rabbit eats a carrot." },
+                { "french": "L'oiseau chante dans le jardin.", "english": "The bird sings in the garden." }
+              ],
+              "tip": "The plural of \"animal\" is irregular: un animal, des animaux."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "chez", "french": "chez", "english": "at the home of", "partOfSpeech": "expression", "pronunciation": "shay", "example": "Je suis chez moi.", "exampleEnglish": "I am at home.", "level": "A1", "category": "places" },
+            { "id": "le-chien", "french": "le chien", "english": "dog", "partOfSpeech": "noun", "gender": "m", "pronunciation": "shyahn", "example": "Mon chien s'appelle Rex.", "exampleEnglish": "My dog's name is Rex.", "level": "A1", "category": "animals" },
+            { "id": "le-chat", "french": "le chat", "english": "cat", "partOfSpeech": "noun", "gender": "m", "pronunciation": "shah", "example": "Le chat est petit.", "exampleEnglish": "The cat is small.", "level": "A1", "category": "animals" },
+            { "id": "l-animal", "french": "l'animal", "english": "animal / pet", "partOfSpeech": "noun", "gender": "m", "pronunciation": "ah-nee-MAHL", "example": "Tu as un animal ?", "exampleEnglish": "Do you have a pet?", "level": "A1", "category": "animals" },
+            { "id": "la-maison", "french": "la maison", "english": "house / home", "partOfSpeech": "noun", "gender": "f", "pronunciation": "meh-ZOHN", "example": "Notre maison est grande.", "exampleEnglish": "Our house is big.", "level": "A1", "category": "places" },
+            { "id": "aimer", "french": "aimer", "english": "to like / to love", "partOfSpeech": "verb", "pronunciation": "eh-MAY", "example": "J'aime ma famille.", "exampleEnglish": "I love my family.", "level": "A1", "category": "verbs" },
+            { "id": "adorer", "french": "adorer", "english": "to love / to adore", "partOfSpeech": "verb", "pronunciation": "ah-doh-RAY", "example": "J'adore mon chien !", "exampleEnglish": "I love my dog!", "level": "A1", "category": "verbs" },
+            { "id": "nous", "french": "nous", "english": "we / us", "partOfSpeech": "pronoun", "pronunciation": "noo", "example": "Nous avons un chat.", "exampleEnglish": "We have a cat.", "level": "A1", "category": "basics" },
+            { "id": "l-oiseau", "french": "l'oiseau", "english": "bird", "partOfSpeech": "noun", "gender": "m", "plural": "oiseaux", "pronunciation": "wah-ZOH", "example": "L'oiseau chante le matin.", "exampleEnglish": "The bird sings in the morning.", "level": "A1", "category": "animals" },
+            { "id": "le-poisson", "french": "le poisson", "english": "fish", "partOfSpeech": "noun", "gender": "m", "plural": "poissons", "pronunciation": "pwah-SOHN", "example": "Mon poisson s'appelle Bulle.", "exampleEnglish": "My fish's name is Bulle.", "level": "A1", "category": "animals" },
+            { "id": "le-lapin", "french": "le lapin", "english": "rabbit", "partOfSpeech": "noun", "gender": "m", "plural": "lapins", "pronunciation": "lah-PAHN", "example": "Le lapin mange une carotte.", "exampleEnglish": "The rabbit eats a carrot.", "level": "A1", "category": "animals" },
+            { "id": "le-jardin", "french": "le jardin", "english": "garden", "partOfSpeech": "noun", "gender": "m", "plural": "jardins", "pronunciation": "zhar-DAHN", "example": "Le chien joue dans le jardin.", "exampleEnglish": "The dog plays in the garden.", "level": "A1", "category": "places" },
+            { "id": "l-appartement", "french": "l'appartement", "english": "apartment", "partOfSpeech": "noun", "gender": "m", "plural": "appartements", "pronunciation": "ah-par-tuh-MAHN", "example": "Nous habitons dans un appartement.", "exampleEnglish": "We live in an apartment.", "level": "A1", "category": "places" },
+            { "id": "ensemble", "french": "ensemble", "english": "together", "partOfSpeech": "adverb", "pronunciation": "ahn-SAHN-bluh", "example": "Nous habitons ensemble.", "exampleEnglish": "We live together.", "level": "A1", "category": "basics" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Nous sommes, nous avons",
+              "body": "To speak for the whole family, use \"nous\" (we): nous sommes (we are) and nous avons (we have). \"Nous sommes quatre\" is the natural way to say \"there are four of us\".",
+              "examples": [
+                { "french": "Nous sommes quatre.", "english": "There are four of us." },
+                { "french": "Nous avons deux chats.", "english": "We have two cats." },
+                { "french": "Nous habitons à Marseille.", "english": "We live in Marseille." },
+                { "french": "Nous sommes ensemble.", "english": "We are together." },
+                { "french": "Nous avons un oiseau et deux poissons.", "english": "We have a bird and two fish." }
+              ],
+              "tip": "Link \"nous avons\": the s sounds like z — noo-zah-VOHN."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a1_u04_l03_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What does it mean?",
+              "french": "Nous avons un chien.",
+              "options": ["We have a dog.", "We have a cat.", "I have a dog.", "We like dogs."],
+              "answer": "We have a dog."
+            },
+            {
+              "id": "a1_u04_l03_li02",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "J'aime mon chat.",
+              "answer": "J'aime mon chat.",
+              "acceptedAnswers": ["j aime mon chat", "jaime mon chat"]
+            },
+            {
+              "id": "a1_u04_l03_li03",
+              "type": "listenChoose",
+              "prompt": "Listen. Which animal is mentioned?",
+              "french": "Le chat est sur la table !",
+              "options": ["A cat", "A dog", "A bird", "A fish"],
+              "answer": "A cat"
+            },
+            {
+              "id": "a1_u04_l03_li04",
+              "type": "dictation",
+              "prompt": "Dictation: write the sentence you hear.",
+              "french": "Chez nous, nous avons deux chats.",
+              "answer": "Chez nous, nous avons deux chats.",
+              "acceptedAnswers": ["chez nous nous avons deux chats"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a1_u04_l03_sp01",
+              "type": "speak",
+              "prompt": "Say there are five of you at home.",
+              "french": "Chez nous, nous sommes cinq",
+              "english": "At our place, there are five of us",
+              "tip": "\"Chez\" sounds exactly like \"shay\"."
+            },
+            {
+              "id": "a1_u04_l03_sp02",
+              "type": "speak",
+              "prompt": "Say you have a dog.",
+              "french": "J'ai un chien",
+              "english": "I have a dog",
+              "tip": "\"Chien\" is one syllable with a nasal end: shyahn."
+            },
+            {
+              "id": "a1_u04_l03_sp03",
+              "type": "speak",
+              "prompt": "Say you love your cat.",
+              "french": "J'adore mon chat",
+              "english": "I love my cat",
+              "tip": "The final t of \"chat\" is silent: shah."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Chez la famille Morel",
+              "french": "Chez nous, nous sommes quatre : mon père, ma mère, mon petit frère et moi. Nous habitons dans une petite maison à Marseille. Nous avons aussi deux animaux : un chien, Rex, et un chat, Minou. Rex est grand et gentil. Minou est petit. J'adore nos animaux !",
+              "english": "At our place, there are four of us: my father, my mother, my little brother and me. We live in a small house in Marseille. We also have two pets: a dog, Rex, and a cat, Minou. Rex is big and kind. Minou is small. I love our pets!",
+              "questions": [
+                {
+                  "id": "a1_u04_l03_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "What is the dog's name?",
+                  "options": ["Rex", "Minou", "Marc", "Morel"],
+                  "answer": "Rex"
+                },
+                {
+                  "id": "a1_u04_l03_rd02",
+                  "type": "trueFalse",
+                  "prompt": "The family lives in Marseille.",
+                  "options": ["True", "False"],
+                  "answer": "True"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a1_u04_l03_wr01",
+              "type": "translate",
+              "prompt": "Translate into French: \"We have a cat.\"",
+              "english": "We have a cat.",
+              "answer": "Nous avons un chat.",
+              "acceptedAnswers": ["nous avons un chat"]
+            },
+            {
+              "id": "a1_u04_l03_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "At our place, we have a dog.",
+              "words": ["nous", "un", "Chez", "avons", "chien", "nous,"],
+              "answer": "Chez nous, nous avons un chien"
+            },
+            {
+              "id": "a1_u04_l03_wr03",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Nous ___ quatre.\" (There are four of us.)",
+              "answer": "sommes"
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a1_u04_l03_pr01",
+              "type": "multipleChoice",
+              "prompt": "What does \"le lapin\" mean?",
+              "options": ["rabbit", "bird", "fish", "dog"],
+              "answer": "rabbit"
+            },
+            {
+              "id": "a1_u04_l03_pr02",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Nous habitons dans un ___.\" (We live in an apartment.)",
+              "answer": "appartement"
+            },
+            {
+              "id": "a1_u04_l03_pr03",
+              "type": "listenChoose",
+              "prompt": "Listen. What does it mean?",
+              "french": "L'oiseau chante dans le jardin.",
+              "options": ["The bird sings in the garden.", "The rabbit eats in the garden.", "The cat sleeps in the house.", "The dog plays in the garden."],
+              "answer": "The bird sings in the garden."
+            },
+            {
+              "id": "a1_u04_l03_pr04",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "The dog plays in the garden.",
+              "words": ["joue", "chien", "le", "Le", "dans", "jardin"],
+              "answer": "Le chien joue dans le jardin"
+            },
+            {
+              "id": "a1_u04_l03_pr05",
+              "type": "translate",
+              "prompt": "Translate into French: \"We live together.\"",
+              "english": "We live together.",
+              "answer": "Nous habitons ensemble.",
+              "acceptedAnswers": ["nous habitons ensemble"]
+            },
+            {
+              "id": "a1_u04_l03_pr06",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "l'oiseau", "english": "bird" },
+                { "french": "le poisson", "english": "fish" },
+                { "french": "le jardin", "english": "garden" },
+                { "french": "ensemble", "english": "together" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a1_u04_l03_qz01",
+              "type": "multipleChoice",
+              "prompt": "What does \"chez moi\" mean?",
+              "options": ["at my place", "with me", "for me", "near me"],
+              "answer": "at my place"
+            },
+            {
+              "id": "a1_u04_l03_qz02",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "le chien", "english": "dog" },
+                { "french": "le chat", "english": "cat" },
+                { "french": "la maison", "english": "house" },
+                { "french": "l'animal", "english": "animal" }
+              ]
+            },
+            {
+              "id": "a1_u04_l03_qz03",
+              "type": "trueFalse",
+              "prompt": "The plural of \"animal\" is \"animaux\".",
+              "options": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "a1_u04_l03_qz04",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Nous ___ deux chats.\" (We have two cats.)",
+              "answer": "avons"
+            },
+            {
+              "id": "a1_u04_l03_qz05",
+              "type": "translate",
+              "prompt": "Translate into French: \"I love my dog.\" (use adorer)",
+              "english": "I love my dog.",
+              "answer": "J'adore mon chien.",
+              "acceptedAnswers": ["j adore mon chien", "jadore mon chien"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

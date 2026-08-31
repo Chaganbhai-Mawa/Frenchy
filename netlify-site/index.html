@@ -1,0 +1,281 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bonjourney — Learn French from A1 to C2, fully offline</title>
+<meta name="description" content="Bonjourney is an offline-first French learning app covering the full CEFR journey from absolute beginner (A1) to expert mastery (C2). 162 units, 486 lessons, 17,000+ words, no account required.">
+<link rel="icon" href="assets/app-icon.png">
+<style>
+  :root{
+    --navy:#16295F;
+    --blue:#226EEB;
+    --blue-light:#e8f0fe;
+    --cream:#F5F1E8;
+    --ink:#1A1A2E;
+    --muted:#5C6079;
+    --white:#ffffff;
+    --radius:20px;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    font-family:'Segoe UI', system-ui, -apple-system, sans-serif;
+    color:var(--ink);
+    background:var(--cream);
+    line-height:1.5;
+  }
+  a{color:var(--blue);}
+  img{max-width:100%;display:block;}
+  .wrap{max-width:1120px;margin:0 auto;padding:0 24px;}
+
+  header.nav{
+    position:sticky;top:0;z-index:10;
+    background:rgba(245,241,232,0.92);
+    backdrop-filter:blur(8px);
+    border-bottom:1px solid rgba(0,0,0,0.06);
+  }
+  .nav-inner{
+    display:flex;align-items:center;justify-content:space-between;
+    padding:14px 24px;max-width:1120px;margin:0 auto;
+  }
+  .brand{display:flex;align-items:center;gap:10px;font-weight:800;font-size:1.15rem;color:var(--navy);text-decoration:none;}
+  .brand img{width:32px;height:32px;border-radius:8px;}
+  .nav-links{display:flex;gap:28px;font-weight:600;font-size:0.95rem;}
+  .nav-links a{color:var(--ink);text-decoration:none;}
+  .nav-links a:hover{color:var(--blue);}
+
+  .hero{
+    background:linear-gradient(135deg, var(--navy), var(--blue));
+    color:#fff;
+    padding:72px 0 96px;
+    position:relative;
+    overflow:hidden;
+  }
+  .hero::before{
+    content:"";position:absolute;top:-120px;right:-100px;
+    width:420px;height:420px;border-radius:50%;
+    background:rgba(255,255,255,0.06);
+  }
+  .hero-inner{
+    display:grid;grid-template-columns:1.1fr 0.9fr;gap:48px;align-items:center;
+    position:relative;z-index:1;
+  }
+  .hero h1{font-size:2.7rem;line-height:1.15;margin:0 0 18px;font-weight:800;}
+  .hero p.lead{font-size:1.2rem;color:#E7ECFB;max-width:520px;margin:0 0 32px;}
+  .stat-row{display:flex;gap:28px;margin-bottom:36px;flex-wrap:wrap;}
+  .stat{min-width:100px;}
+  .stat strong{display:block;font-size:1.6rem;font-weight:800;}
+  .stat span{font-size:0.85rem;color:#C9D3F2;}
+  .cta-row{display:flex;gap:14px;flex-wrap:wrap;}
+  .btn{
+    display:inline-flex;align-items:center;gap:8px;
+    padding:14px 26px;border-radius:14px;font-weight:700;text-decoration:none;
+    font-size:1rem;transition:transform .15s ease, box-shadow .15s ease;
+  }
+  .btn-primary{background:#fff;color:var(--navy);}
+  .btn-primary:hover{transform:translateY(-2px);box-shadow:0 10px 24px rgba(0,0,0,0.18);}
+  .btn-ghost{background:rgba(255,255,255,0.12);color:#fff;border:1.5px solid rgba(255,255,255,0.4);}
+  .btn-ghost:hover{background:rgba(255,255,255,0.2);}
+  .badge-soon{
+    display:inline-block;font-size:0.72rem;font-weight:700;letter-spacing:.03em;
+    background:rgba(255,255,255,0.18);padding:3px 9px;border-radius:999px;margin-left:8px;
+    vertical-align:middle;text-transform:uppercase;
+  }
+  .hero-phone{
+    display:flex;justify-content:center;
+  }
+  .hero-phone img{
+    width:100%;max-width:260px;border-radius:28px;
+    box-shadow:0 30px 60px rgba(0,0,0,0.35);
+    border:6px solid rgba(255,255,255,0.15);
+  }
+
+  section{padding:80px 0;}
+  .section-head{text-align:center;max-width:640px;margin:0 auto 48px;}
+  .section-head h2{font-size:2rem;margin:0 0 12px;color:var(--navy);}
+  .section-head p{color:var(--muted);font-size:1.05rem;}
+
+  .features{
+    display:grid;grid-template-columns:repeat(3, 1fr);gap:24px;
+  }
+  .feature-card{
+    background:#fff;border-radius:var(--radius);padding:28px;
+    box-shadow:0 2px 10px rgba(20,20,50,0.05);
+  }
+  .feature-card .emoji{font-size:2rem;margin-bottom:12px;display:block;}
+  .feature-card h3{margin:0 0 8px;font-size:1.1rem;color:var(--navy);}
+  .feature-card p{margin:0;color:var(--muted);font-size:0.95rem;}
+
+  .levels{
+    display:flex;gap:14px;flex-wrap:wrap;justify-content:center;margin-top:12px;
+  }
+  .level-chip{
+    background:#fff;border-radius:14px;padding:16px 22px;min-width:130px;text-align:center;
+    box-shadow:0 2px 10px rgba(20,20,50,0.05);
+  }
+  .level-chip strong{display:block;font-size:1.3rem;color:var(--blue);}
+  .level-chip span{font-size:0.8rem;color:var(--muted);}
+
+  .shots{
+    display:grid;grid-template-columns:repeat(4,1fr);gap:20px;
+  }
+  .shots img{border-radius:16px;box-shadow:0 12px 30px rgba(20,20,50,0.12);border:1px solid rgba(0,0,0,0.05);}
+
+  .cta-band{
+    background:var(--navy);color:#fff;text-align:center;border-radius:28px;
+    padding:56px 32px;margin:0 24px;
+  }
+  .cta-band h2{margin:0 0 12px;font-size:1.8rem;}
+  .cta-band p{color:#C9D3F2;margin:0 0 28px;}
+
+  footer{padding:40px 0 60px;color:var(--muted);font-size:0.9rem;}
+  .footer-inner{
+    display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:16px;
+    border-top:1px solid rgba(0,0,0,0.08);padding-top:28px;
+  }
+  .footer-links{display:flex;gap:22px;flex-wrap:wrap;}
+  .footer-links a{color:var(--muted);text-decoration:none;}
+  .footer-links a:hover{color:var(--blue);}
+
+  @media (max-width: 860px){
+    .hero-inner{grid-template-columns:1fr;text-align:center;}
+    .hero p.lead{margin-left:auto;margin-right:auto;}
+    .stat-row{justify-content:center;}
+    .cta-row{justify-content:center;}
+    .features{grid-template-columns:1fr;}
+    .shots{grid-template-columns:repeat(2,1fr);}
+    .hero h1{font-size:2.1rem;}
+  }
+</style>
+</head>
+<body>
+
+<header class="nav">
+  <div class="nav-inner">
+    <a class="brand" href="#top"><img src="assets/app-icon.png" alt="Bonjourney logo"> Bonjourney</a>
+    <nav class="nav-links">
+      <a href="#features">Features</a>
+      <a href="#levels">Levels</a>
+      <a href="#screenshots">Screenshots</a>
+      <a href="privacy.html">Privacy</a>
+    </nav>
+  </div>
+</header>
+
+<section class="hero" id="top">
+  <div class="wrap hero-inner">
+    <div>
+      <h1>Learn French from your first "Bonjour" to true fluency.</h1>
+      <p class="lead">Bonjourney is a complete, offline-first French course — every lesson, every word, every exercise bundled with the app. No account, no ads to start, no internet required to learn.</p>
+      <div class="stat-row">
+        <div class="stat"><strong>162</strong><span>units, A1&nbsp;→&nbsp;C2</span></div>
+        <div class="stat"><strong>486</strong><span>structured lessons</span></div>
+        <div class="stat"><strong>17,000+</strong><span>vocabulary items</span></div>
+        <div class="stat"><strong>100%</strong><span>offline core course</span></div>
+      </div>
+      <div class="cta-row">
+        <a class="btn btn-primary" href="#" onclick="return false;">Get it on Google Play<span class="badge-soon">coming soon</span></a>
+        <a class="btn btn-ghost" href="#features">See what's inside</a>
+      </div>
+    </div>
+    <div class="hero-phone">
+      <img src="assets/screenshot-home.png" alt="Bonjourney home screen showing daily streak and continue-learning card">
+    </div>
+  </div>
+</section>
+
+<section id="features">
+  <div class="wrap">
+    <div class="section-head">
+      <h2>Every lesson is a complete learning cycle</h2>
+      <p>Not just flashcards — a real path through listening, speaking, reading, writing, and review.</p>
+    </div>
+    <div class="features">
+      <div class="feature-card">
+        <span class="emoji">📚</span>
+        <h3>Learn → Vocabulary → Grammar</h3>
+        <p>Every lesson opens with real explanations and natural example sentences before a single word is tested.</p>
+      </div>
+      <div class="feature-card">
+        <span class="emoji">🎧</span>
+        <h3>Listening &amp; speaking</h3>
+        <p>Device text-to-speech and speech recognition give honest pronunciation feedback — right on your phone.</p>
+      </div>
+      <div class="feature-card">
+        <span class="emoji">✍️</span>
+        <h3>Reading &amp; writing</h3>
+        <p>Real passages and guided writing exercises calibrated to each CEFR level, from 6-line beginner texts to dense C2 essays.</p>
+      </div>
+      <div class="feature-card">
+        <span class="emoji">🔁</span>
+        <h3>Spaced repetition that sticks</h3>
+        <p>A built-in Leitner review system and a mistake notebook bring back exactly the words you're forgetting.</p>
+      </div>
+      <div class="feature-card">
+        <span class="emoji">🔥</span>
+        <h3>Streaks &amp; daily goals</h3>
+        <p>XP, streaks, and daily challenges make consistency easy — without ever gating the actual content.</p>
+      </div>
+      <div class="feature-card">
+        <span class="emoji">📴</span>
+        <h3>Genuinely offline</h3>
+        <p>Every unit is bundled with the app at install time. Learn on a plane, underground, or anywhere signal doesn't reach.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="levels" style="background:var(--white);">
+  <div class="wrap">
+    <div class="section-head">
+      <h2>A full CEFR path — A1 to C2</h2>
+      <p>The same framework used by language schools and official exams across Europe, from your first words to expert nuance.</p>
+    </div>
+    <div class="levels">
+      <div class="level-chip"><strong>A1</strong><span>Beginner</span></div>
+      <div class="level-chip"><strong>A2</strong><span>Elementary</span></div>
+      <div class="level-chip"><strong>B1</strong><span>Intermediate</span></div>
+      <div class="level-chip"><strong>B2</strong><span>Upper-Intermediate</span></div>
+      <div class="level-chip"><strong>C1</strong><span>Advanced</span></div>
+      <div class="level-chip"><strong>C2</strong><span>Mastery</span></div>
+    </div>
+  </div>
+</section>
+
+<section id="screenshots">
+  <div class="wrap">
+    <div class="section-head">
+      <h2>See it in action</h2>
+      <p>Real screens from the app — no mockups.</p>
+    </div>
+    <div class="shots">
+      <img src="assets/screenshot-home.png" alt="Home dashboard">
+      <img src="assets/screenshot-learn.png" alt="Learn tab with CEFR levels">
+      <img src="assets/screenshot-vocab.png" alt="Vocabulary flashcard">
+      <img src="assets/screenshot-progress.png" alt="Progress tracking">
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="cta-band wrap">
+    <h2>Start today. Say "Bonjour."</h2>
+    <p>Bonjourney launches soon on Google Play — free to start, no account required.</p>
+    <a class="btn btn-primary" href="#" onclick="return false;">Get it on Google Play<span class="badge-soon">coming soon</span></a>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap footer-inner">
+    <span>© <span id="year"></span> Bonjourney. All rights reserved.</span>
+    <div class="footer-links">
+      <a href="privacy.html">Privacy Policy</a>
+      <a href="mailto:frenchly@fran.com">frenchly@fran.com</a>
+    </div>
+  </div>
+</footer>
+
+<script>document.getElementById('year').textContent = new Date().getFullYear();</script>
+</body>
+</html>

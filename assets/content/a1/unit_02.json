@@ -1,0 +1,888 @@
+{
+  "id": "a1_u02",
+  "level": "A1",
+  "unit": 2,
+  "title": "Introductions",
+  "subtitle": "Say who you are, your age, and where you live",
+  "icon": "🙋",
+  "lessons": [
+    {
+      "id": "a1_u02_l01",
+      "level": "A1",
+      "unit": 2,
+      "title": "Je m'appelle...",
+      "description": "Introduce yourself and ask people their name.",
+      "estimatedMinutes": 12,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Saying your name",
+              "body": "To say your name, French uses \"je m'appelle\" — literally \"I call myself\". To ask someone's name, say \"Comment tu t'appelles ?\" to a friend, or \"Comment vous appelez-vous ?\" in polite situations.",
+              "examples": [
+                { "french": "Je m'appelle Marie.", "english": "My name is Marie." },
+                { "french": "Comment tu t'appelles ?", "english": "What's your name? (informal)" },
+                { "french": "Comment vous appelez-vous ?", "english": "What is your name? (formal)" },
+                { "french": "Je me présente : Léa Martin.", "english": "Let me introduce myself: Léa Martin." },
+                { "french": "Et toi, comment tu t'appelles ?", "english": "And you, what's your name?" }
+              ],
+              "tip": "Notice the elision: \"me appelle\" becomes \"m'appelle\" — French drops the e before a vowel."
+            },
+            {
+              "heading": "Nice to meet you",
+              "body": "After hearing someone's name, say \"Enchanté !\" (delighted!). A woman writes \"Enchantée\" with an extra e — it sounds exactly the same. With friends, you can also introduce yourself casually with \"Moi, c'est Paul.\"",
+              "examples": [
+                { "french": "Enchanté !", "english": "Nice to meet you! (said by a man)" },
+                { "french": "Enchantée !", "english": "Nice to meet you! (said by a woman)" },
+                { "french": "Moi, c'est Paul.", "english": "I'm Paul. (casual)" },
+                { "french": "Voici mon amie Sarah.", "english": "This is my friend Sarah." },
+                { "french": "Qui est-ce ? — C'est Paul.", "english": "Who is it? — It's Paul." }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "je-m-appelle", "french": "je m'appelle", "english": "my name is", "partOfSpeech": "expression", "pronunciation": "zhuh mah-PEL", "example": "Je m'appelle Léa.", "exampleEnglish": "My name is Léa.", "level": "A1", "category": "introductions" },
+            { "id": "s-appeler", "french": "s'appeler", "english": "to be called", "partOfSpeech": "verb", "pronunciation": "sah-play", "example": "Comment tu t'appelles ?", "exampleEnglish": "What's your name?", "level": "A1", "category": "introductions" },
+            { "id": "comment", "french": "comment", "english": "how / what (in questions)", "partOfSpeech": "adverb", "pronunciation": "koh-MAHN", "example": "Comment vous appelez-vous ?", "exampleEnglish": "What is your name?", "level": "A1", "category": "questions" },
+            { "id": "je", "french": "je", "english": "I", "partOfSpeech": "pronoun", "pronunciation": "zhuh", "example": "Je m'appelle Thomas.", "exampleEnglish": "My name is Thomas.", "level": "A1", "category": "basics" },
+            { "id": "moi", "french": "moi", "english": "me", "partOfSpeech": "pronoun", "pronunciation": "mwah", "example": "Moi, c'est Nadia.", "exampleEnglish": "I'm Nadia.", "level": "A1", "category": "basics" },
+            { "id": "enchante", "french": "enchanté", "english": "nice to meet you", "partOfSpeech": "expression", "pronunciation": "ahn-shahn-TAY", "example": "Enchanté, madame !", "exampleEnglish": "Nice to meet you, ma'am!", "level": "A1", "category": "introductions" },
+            { "id": "le-prenom", "french": "le prénom", "english": "first name", "partOfSpeech": "noun", "gender": "m", "pronunciation": "pray-NOHN", "example": "Mon prénom est Julie.", "exampleEnglish": "My first name is Julie.", "level": "A1", "category": "introductions" },
+            { "id": "le-nom", "french": "le nom", "english": "name / last name", "partOfSpeech": "noun", "gender": "m", "pronunciation": "nohn", "example": "Mon nom est Dupont.", "exampleEnglish": "My last name is Dupont.", "level": "A1", "category": "introductions" },
+            { "id": "l-ami", "french": "l'ami", "english": "friend", "partOfSpeech": "noun", "gender": "m", "plural": "amis", "pronunciation": "ah-MEE", "example": "Paul est mon ami.", "exampleEnglish": "Paul is my friend.", "level": "A1", "category": "people" },
+            { "id": "se-presenter", "french": "se présenter", "english": "to introduce oneself", "partOfSpeech": "verb", "pronunciation": "suh pray-zahn-TAY", "example": "Je me présente : je m'appelle Léo.", "exampleEnglish": "Let me introduce myself: my name is Léo.", "level": "A1", "category": "introductions" },
+            { "id": "voici", "french": "voici", "english": "here is / this is", "partOfSpeech": "expression", "pronunciation": "vwah-SEE", "example": "Voici mon amie Sarah.", "exampleEnglish": "This is my friend Sarah.", "level": "A1", "category": "introductions" },
+            { "id": "c-est", "french": "c'est", "english": "it is / this is", "partOfSpeech": "expression", "pronunciation": "seh", "example": "C'est Marie.", "exampleEnglish": "This is Marie.", "level": "A1", "category": "basics" },
+            { "id": "qui", "french": "qui", "english": "who", "partOfSpeech": "pronoun", "pronunciation": "kee", "example": "Qui est-ce ?", "exampleEnglish": "Who is it?", "level": "A1", "category": "questions" },
+            { "id": "epeler", "french": "épeler", "english": "to spell", "partOfSpeech": "verb", "pronunciation": "ay-play", "example": "Vous pouvez épeler votre nom ?", "exampleEnglish": "Can you spell your name?", "level": "A1", "category": "introductions" }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a1_u02_l01_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What does it mean?",
+              "french": "Je m'appelle Marie.",
+              "options": ["My name is Marie.", "Nice to meet you, Marie.", "How are you, Marie?", "Goodbye, Marie."],
+              "answer": "My name is Marie."
+            },
+            {
+              "id": "a1_u02_l01_li02",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Comment tu t'appelles ?",
+              "answer": "Comment tu t'appelles ?",
+              "acceptedAnswers": ["comment tu t appelles", "comment tu tappelles"]
+            },
+            {
+              "id": "a1_u02_l01_li03",
+              "type": "listenChoose",
+              "prompt": "Listen. Is this question formal or informal?",
+              "french": "Comment vous appelez-vous ?",
+              "options": ["Formal", "Informal"],
+              "answer": "Formal",
+              "tip": "\"Vous\" signals a polite question."
+            },
+            {
+              "id": "a1_u02_l01_li04",
+              "type": "dictation",
+              "prompt": "Dictation: write the sentence you hear.",
+              "french": "Enchanté, monsieur.",
+              "answer": "Enchanté, monsieur.",
+              "acceptedAnswers": ["enchante monsieur", "enchantee monsieur"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a1_u02_l01_sp01",
+              "type": "speak",
+              "prompt": "Say your name is Paul.",
+              "french": "Je m'appelle Paul",
+              "english": "My name is Paul",
+              "tip": "Run \"je m'appelle\" together smoothly: zhuh-mah-PEL."
+            },
+            {
+              "id": "a1_u02_l01_sp02",
+              "type": "speak",
+              "prompt": "Ask a friend their name.",
+              "french": "Comment tu t'appelles ?",
+              "english": "What's your name?",
+              "tip": "The final s in \"t'appelles\" is silent: tah-PEL."
+            },
+            {
+              "id": "a1_u02_l01_sp03",
+              "type": "speak",
+              "prompt": "Say nice to meet you.",
+              "french": "Enchanté",
+              "english": "Nice to meet you",
+              "tip": "Three syllables with nasal \"an\" sounds: ahn-shahn-TAY."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Une rencontre",
+              "french": "— Bonjour ! Je m'appelle Sophie. Et toi, comment tu t'appelles ?\n— Salut, Sophie ! Moi, c'est Karim.\n— Enchantée, Karim !\n— Enchanté !",
+              "english": "— Hello! My name is Sophie. And you, what's your name?\n— Hi, Sophie! I'm Karim.\n— Nice to meet you, Karim!\n— Nice to meet you!",
+              "questions": [
+                {
+                  "id": "a1_u02_l01_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "What is the man's name?",
+                  "options": ["Karim", "Paul", "Thomas", "Sophie"],
+                  "answer": "Karim"
+                },
+                {
+                  "id": "a1_u02_l01_rd02",
+                  "type": "trueFalse",
+                  "prompt": "Sophie and Karim speak informally, like friends.",
+                  "options": ["True", "False"],
+                  "answer": "True",
+                  "tip": "Sophie says \"tu t'appelles\", not \"vous appelez-vous\"."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a1_u02_l01_wr01",
+              "type": "translate",
+              "prompt": "Translate into French: \"My name is Paul.\"",
+              "english": "My name is Paul.",
+              "answer": "Je m'appelle Paul.",
+              "acceptedAnswers": ["je m appelle paul", "je mappelle paul"]
+            },
+            {
+              "id": "a1_u02_l01_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "What is your name? (formal)",
+              "words": ["appelez-vous", "Comment", "vous"],
+              "answer": "Comment vous appelez-vous"
+            },
+            {
+              "id": "a1_u02_l01_wr03",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Je m'___ Léa.\"",
+              "answer": "appelle"
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a1_u02_l01_pr01",
+              "type": "multipleChoice",
+              "prompt": "How do you introduce your friend Sarah?",
+              "options": ["Voici mon amie Sarah.", "Qui est Sarah ?", "Sarah, s'il vous plaît.", "Comment s'appelle Sarah ?"],
+              "answer": "Voici mon amie Sarah."
+            },
+            {
+              "id": "a1_u02_l01_pr02",
+              "type": "fillBlank",
+              "prompt": "Complete: \"___ est-ce ? — C'est Marie.\" (Who is it?)",
+              "answer": "Qui"
+            },
+            {
+              "id": "a1_u02_l01_pr03",
+              "type": "translate",
+              "prompt": "Translate into French: \"This is Paul.\"",
+              "english": "This is Paul.",
+              "answer": "C'est Paul.",
+              "acceptedAnswers": ["c est paul", "cest paul"]
+            },
+            {
+              "id": "a1_u02_l01_pr04",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "Paul is my friend.",
+              "words": ["mon", "est", "Paul", "ami"],
+              "answer": "Paul est mon ami"
+            },
+            {
+              "id": "a1_u02_l01_pr05",
+              "type": "listenChoose",
+              "prompt": "Listen. What is the speaker asking for?",
+              "french": "Vous pouvez épeler votre nom ?",
+              "options": ["To spell a name", "To repeat a number", "To say an age", "To give an address"],
+              "answer": "To spell a name"
+            },
+            {
+              "id": "a1_u02_l01_pr06",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "l'ami", "english": "friend" },
+                { "french": "voici", "english": "here is" },
+                { "french": "qui", "english": "who" },
+                { "french": "épeler", "english": "to spell" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a1_u02_l01_qz01",
+              "type": "multipleChoice",
+              "prompt": "How do you ask a stranger their name politely?",
+              "options": ["Comment vous appelez-vous ?", "Comment tu t'appelles ?", "Ça va ?", "Moi, c'est Paul."],
+              "answer": "Comment vous appelez-vous ?"
+            },
+            {
+              "id": "a1_u02_l01_qz02",
+              "type": "multipleChoice",
+              "prompt": "What does \"je m'appelle\" literally mean?",
+              "options": ["I call myself", "I am called by you", "My name calls", "I like my name"],
+              "answer": "I call myself"
+            },
+            {
+              "id": "a1_u02_l01_qz03",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "je m'appelle", "english": "my name is" },
+                { "french": "enchanté", "english": "nice to meet you" },
+                { "french": "le prénom", "english": "first name" },
+                { "french": "comment", "english": "how" }
+              ]
+            },
+            {
+              "id": "a1_u02_l01_qz04",
+              "type": "trueFalse",
+              "prompt": "A woman writes \"Enchantée\" with a final -e.",
+              "options": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "a1_u02_l01_qz05",
+              "type": "fillBlank",
+              "prompt": "Complete: \"___, c'est Nadia.\" (I'm Nadia.)",
+              "answer": "Moi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1_u02_l02",
+      "level": "A1",
+      "unit": 2,
+      "title": "J'ai 25 ans",
+      "description": "Say your age with the verb avoir, and meet the numbers from zero to ten.",
+      "estimatedMinutes": 13,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Saying your age",
+              "body": "In French you don't say \"I am 25 years old\" — you say \"I HAVE 25 years\": \"J'ai vingt-cinq ans.\" The verb is \"avoir\" (to have). To ask someone's age, say \"Quel âge as-tu ?\" (informal) or \"Quel âge avez-vous ?\" (formal).",
+              "examples": [
+                { "french": "J'ai vingt-cinq ans.", "english": "I am 25 years old." },
+                { "french": "Quel âge as-tu ?", "english": "How old are you? (informal)" },
+                { "french": "Quel âge avez-vous ?", "english": "How old are you? (formal)" },
+                { "french": "Elle a neuf ans.", "english": "She is nine years old." },
+                { "french": "Moi, j'ai sept ans.", "english": "Me, I am seven years old." }
+              ],
+              "tip": "Never use \"être\" for age — \"Je suis 25 ans\" is a classic mistake. Always \"J'ai 25 ans\"."
+            },
+            {
+              "heading": "Numbers 0–10",
+              "body": "You need numbers to say your age. Here are zero to ten: zéro (0), un (1), deux (2), trois (3), quatre (4), cinq (5), six (6), sept (7), huit (8), neuf (9), dix (10). We'll practise bigger numbers in the Numbers unit.",
+              "examples": [
+                { "french": "un, deux, trois", "english": "one, two, three" },
+                { "french": "quatre, cinq, six, sept", "english": "four, five, six, seven" },
+                { "french": "huit, neuf, dix", "english": "eight, nine, ten" },
+                { "french": "Deux et trois font cinq.", "english": "Two and three make five." },
+                { "french": "Quatre et six font dix.", "english": "Four and six make ten." }
+              ],
+              "tip": "The p in \"sept\" is silent: it sounds like \"set\"."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "avoir", "french": "avoir", "english": "to have", "partOfSpeech": "verb", "pronunciation": "ah-VWAHR", "example": "J'ai dix ans.", "exampleEnglish": "I am ten years old.", "level": "A1", "category": "verbs" },
+            { "id": "etre", "french": "être", "english": "to be", "partOfSpeech": "verb", "pronunciation": "EH-truh", "example": "Je suis étudiant.", "exampleEnglish": "I am a student.", "level": "A1", "category": "verbs" },
+            { "id": "un-an", "french": "un an", "english": "a year", "partOfSpeech": "noun", "gender": "m", "pronunciation": "uhn AHN", "example": "Elle a sept ans.", "exampleEnglish": "She is seven years old.", "level": "A1", "category": "numbers" },
+            { "id": "l-age", "french": "l'âge", "english": "age", "partOfSpeech": "noun", "gender": "m", "pronunciation": "ahzh", "example": "Quel âge as-tu ?", "exampleEnglish": "How old are you?", "level": "A1", "category": "numbers" },
+            { "id": "quel", "french": "quel", "english": "which / what", "partOfSpeech": "adjective", "pronunciation": "kel", "example": "Quel âge avez-vous ?", "exampleEnglish": "How old are you?", "level": "A1", "category": "questions" },
+            { "id": "l-etudiant", "french": "l'étudiant", "english": "student", "partOfSpeech": "noun", "gender": "m", "pronunciation": "ay-tu-DYAHN", "example": "Je suis étudiant.", "exampleEnglish": "I am a student.", "level": "A1", "category": "people" },
+            { "id": "un", "french": "un", "english": "one", "partOfSpeech": "number", "pronunciation": "uhn", "example": "J'ai un frère.", "exampleEnglish": "I have one brother.", "level": "A1", "category": "numbers" },
+            { "id": "cinq", "french": "cinq", "english": "five", "partOfSpeech": "number", "pronunciation": "sank", "example": "Il a cinq ans.", "exampleEnglish": "He is five years old.", "level": "A1", "category": "numbers" },
+            { "id": "dix", "french": "dix", "english": "ten", "partOfSpeech": "number", "pronunciation": "deess", "example": "J'ai dix ans.", "exampleEnglish": "I am ten years old.", "level": "A1", "category": "numbers" },
+            { "id": "deux", "french": "deux", "english": "two", "partOfSpeech": "number", "pronunciation": "duh", "example": "J'ai deux sœurs.", "exampleEnglish": "I have two sisters.", "level": "A1", "category": "numbers" },
+            { "id": "trois", "french": "trois", "english": "three", "partOfSpeech": "number", "pronunciation": "trwah", "example": "Nous sommes trois.", "exampleEnglish": "There are three of us.", "level": "A1", "category": "numbers" },
+            { "id": "quatre", "french": "quatre", "english": "four", "partOfSpeech": "number", "pronunciation": "KAH-truh", "example": "J'ai quatre livres.", "exampleEnglish": "I have four books.", "level": "A1", "category": "numbers" },
+            { "id": "six", "french": "six", "english": "six", "partOfSpeech": "number", "pronunciation": "seess", "example": "Il est six heures.", "exampleEnglish": "It is six o'clock.", "level": "A1", "category": "numbers" },
+            { "id": "sept", "french": "sept", "english": "seven", "partOfSpeech": "number", "pronunciation": "set", "example": "Elle a sept ans.", "exampleEnglish": "She is seven years old.", "level": "A1", "category": "numbers" },
+            { "id": "huit", "french": "huit", "english": "eight", "partOfSpeech": "number", "pronunciation": "weet", "example": "Le magasin ouvre à huit heures.", "exampleEnglish": "The shop opens at eight o'clock.", "level": "A1", "category": "numbers" },
+            { "id": "neuf", "french": "neuf", "english": "nine", "partOfSpeech": "number", "pronunciation": "nuhf", "example": "Mon frère a neuf ans.", "exampleEnglish": "My brother is nine years old.", "level": "A1", "category": "numbers" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Être and avoir — je and tu",
+              "body": "\"Être\" (to be) and \"avoir\" (to have) are the two most important French verbs. For now, learn the \"I\" and \"you\" forms: je suis / tu es (I am / you are), and j'ai / tu as (I have / you have). Note the elision: \"je ai\" becomes \"j'ai\".",
+              "examples": [
+                { "french": "Je suis Marie.", "english": "I am Marie." },
+                { "french": "Tu es étudiant ?", "english": "Are you a student?" },
+                { "french": "J'ai huit ans.", "english": "I am eight years old." },
+                { "french": "Tu as quel âge ?", "english": "How old are you? (casual word order)" },
+                { "french": "Je suis content.", "english": "I am happy." },
+                { "french": "Tu as un chat ?", "english": "Do you have a cat?" }
+              ],
+              "tip": "Use \"être\" for who you are, \"avoir\" for what you have — and remember, in French your age is something you HAVE."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a1_u02_l02_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What does it mean?",
+              "french": "J'ai dix ans.",
+              "options": ["I am ten years old.", "I have ten brothers.", "I am a student.", "How old are you?"],
+              "answer": "I am ten years old."
+            },
+            {
+              "id": "a1_u02_l02_li02",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Quel âge as-tu ?",
+              "answer": "Quel âge as-tu ?",
+              "acceptedAnswers": ["quel age as tu", "quel age as-tu"]
+            },
+            {
+              "id": "a1_u02_l02_li03",
+              "type": "listenChoose",
+              "prompt": "Listen. Which number do you hear?",
+              "french": "cinq",
+              "options": ["5", "2", "7", "10"],
+              "answer": "5"
+            },
+            {
+              "id": "a1_u02_l02_li04",
+              "type": "dictation",
+              "prompt": "Dictation: write the sentence you hear.",
+              "french": "Je suis étudiant.",
+              "answer": "Je suis étudiant.",
+              "acceptedAnswers": ["je suis etudiant", "je suis etudiante"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a1_u02_l02_sp01",
+              "type": "speak",
+              "prompt": "Say you are 25 years old.",
+              "french": "J'ai vingt-cinq ans",
+              "english": "I am 25 years old",
+              "tip": "Link the final consonants: vingt-cinq ans flows as van-sank-AHN."
+            },
+            {
+              "id": "a1_u02_l02_sp02",
+              "type": "speak",
+              "prompt": "Ask someone their age politely.",
+              "french": "Quel âge avez-vous ?",
+              "english": "How old are you? (formal)",
+              "tip": "\"Quel âge\" links together: keh-LAHZH."
+            },
+            {
+              "id": "a1_u02_l02_sp03",
+              "type": "speak",
+              "prompt": "Count from one to five.",
+              "french": "un, deux, trois, quatre, cinq",
+              "english": "one, two, three, four, five",
+              "tip": "\"Trois\" sounds like \"trwah\" — the final s is silent."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Deux étudiants",
+              "french": "— Salut ! Je m'appelle Hugo. Je suis étudiant. Et toi ?\n— Moi, c'est Inès. Je suis étudiante aussi. Tu as quel âge ?\n— J'ai dix-neuf ans. Et toi, quel âge as-tu ?\n— Moi, j'ai vingt ans.",
+              "english": "— Hi! My name is Hugo. I'm a student. And you?\n— I'm Inès. I'm a student too. How old are you?\n— I'm nineteen. And you, how old are you?\n— Me, I'm twenty.",
+              "questions": [
+                {
+                  "id": "a1_u02_l02_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "How old is Hugo?",
+                  "options": ["19", "20", "10", "25"],
+                  "answer": "19"
+                },
+                {
+                  "id": "a1_u02_l02_rd02",
+                  "type": "trueFalse",
+                  "prompt": "Inès is a student.",
+                  "options": ["True", "False"],
+                  "answer": "True"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a1_u02_l02_wr01",
+              "type": "translate",
+              "prompt": "Translate into French: \"I am ten years old.\"",
+              "english": "I am ten years old.",
+              "answer": "J'ai dix ans.",
+              "acceptedAnswers": ["j ai dix ans", "jai dix ans"]
+            },
+            {
+              "id": "a1_u02_l02_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "How old are you? (informal)",
+              "words": ["as-tu", "Quel", "âge"],
+              "answer": "Quel âge as-tu"
+            },
+            {
+              "id": "a1_u02_l02_wr03",
+              "type": "fillBlank",
+              "prompt": "Complete: \"J'___ sept ans.\" (I am seven years old.)",
+              "answer": "ai"
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a1_u02_l02_pr01",
+              "type": "multipleChoice",
+              "prompt": "Complete: \"J'___ neuf ans.\"",
+              "options": ["ai", "es", "suis", "as"],
+              "answer": "ai"
+            },
+            {
+              "id": "a1_u02_l02_pr02",
+              "type": "fillBlank",
+              "prompt": "Complete the math with a word: \"deux + trois = ___\"",
+              "answer": "cinq"
+            },
+            {
+              "id": "a1_u02_l02_pr03",
+              "type": "listenChoose",
+              "prompt": "Listen. Which number do you hear?",
+              "french": "sept",
+              "options": ["7", "6", "8", "9"],
+              "answer": "7"
+            },
+            {
+              "id": "a1_u02_l02_pr04",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "She is seven years old.",
+              "words": ["ans", "a", "Elle", "sept"],
+              "answer": "Elle a sept ans"
+            },
+            {
+              "id": "a1_u02_l02_pr05",
+              "type": "translate",
+              "prompt": "Translate into French: \"I am eight years old.\"",
+              "english": "I am eight years old.",
+              "answer": "J'ai huit ans.",
+              "acceptedAnswers": ["j ai huit ans", "jai huit ans"]
+            },
+            {
+              "id": "a1_u02_l02_pr06",
+              "type": "match",
+              "prompt": "Match the number to the word.",
+              "pairs": [
+                { "french": "trois", "english": "3" },
+                { "french": "six", "english": "6" },
+                { "french": "huit", "english": "8" },
+                { "french": "dix", "english": "10" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a1_u02_l02_qz01",
+              "type": "multipleChoice",
+              "prompt": "Which verb does French use for age?",
+              "options": ["avoir (to have)", "être (to be)", "s'appeler (to be called)", "aller (to go)"],
+              "answer": "avoir (to have)"
+            },
+            {
+              "id": "a1_u02_l02_qz02",
+              "type": "trueFalse",
+              "prompt": "\"Je suis vingt ans\" is correct French.",
+              "options": ["True", "False"],
+              "answer": "False",
+              "tip": "Age uses avoir: \"J'ai vingt ans.\""
+            },
+            {
+              "id": "a1_u02_l02_qz03",
+              "type": "match",
+              "prompt": "Match the number to the word.",
+              "pairs": [
+                { "french": "deux", "english": "2" },
+                { "french": "quatre", "english": "4" },
+                { "french": "sept", "english": "7" },
+                { "french": "neuf", "english": "9" }
+              ]
+            },
+            {
+              "id": "a1_u02_l02_qz04",
+              "type": "multipleChoice",
+              "prompt": "Complete: \"Tu ___ étudiant ?\"",
+              "options": ["es", "suis", "as", "ai"],
+              "answer": "es"
+            },
+            {
+              "id": "a1_u02_l02_qz05",
+              "type": "translate",
+              "prompt": "Translate into French: \"How old are you?\" (informal, starting with Quel)",
+              "english": "How old are you?",
+              "answer": "Quel âge as-tu ?",
+              "acceptedAnswers": ["quel age as tu", "quel age as-tu"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1_u02_l03",
+      "level": "A1",
+      "unit": 2,
+      "title": "Où habites-tu ?",
+      "description": "Say where you live and where you come from.",
+      "estimatedMinutes": 12,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Where you live",
+              "body": "To say where you live, use \"j'habite à\" + a city: \"J'habite à Paris.\" To ask, say \"Où habites-tu ?\" (informal) or \"Où habitez-vous ?\" (formal). The h in \"habiter\" is silent, so \"je habite\" becomes \"j'habite\".",
+              "examples": [
+                { "french": "J'habite à Paris.", "english": "I live in Paris." },
+                { "french": "Où habites-tu ?", "english": "Where do you live? (informal)" },
+                { "french": "Où habitez-vous ?", "english": "Where do you live? (formal)" },
+                { "french": "J'habite dans un petit village.", "english": "I live in a small village." },
+                { "french": "Nous habitons à Marseille.", "english": "We live in Marseille." }
+              ]
+            },
+            {
+              "heading": "Where you come from",
+              "body": "To say your origin, use \"je viens de\" + a city: \"Je viens de Londres.\" To ask, say \"D'où viens-tu ?\" — \"de\" + \"où\" contracts to \"d'où\" (from where). For a country, say \"Je viens de France\" or \"J'habite en France\".",
+              "examples": [
+                { "french": "Je viens de Londres.", "english": "I come from London." },
+                { "french": "D'où viens-tu ?", "english": "Where are you from? (informal)" },
+                { "french": "J'habite en France.", "english": "I live in France." },
+                { "french": "Je viens du Canada.", "english": "I come from Canada.", "note": "de + le → du" },
+                { "french": "Elle vient d'Italie.", "english": "She comes from Italy.", "note": "de + vowel → d'" }
+              ],
+              "tip": "Cities take \"à\" (à Paris, à Lyon); most countries take \"en\" (en France, en Italie)."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "habiter", "french": "habiter", "english": "to live (somewhere)", "partOfSpeech": "verb", "pronunciation": "ah-bee-TAY", "example": "J'habite à Lyon.", "exampleEnglish": "I live in Lyon.", "level": "A1", "category": "introductions" },
+            { "id": "venir", "french": "venir", "english": "to come", "partOfSpeech": "verb", "pronunciation": "vuh-NEER", "example": "Je viens de Madrid.", "exampleEnglish": "I come from Madrid.", "level": "A1", "category": "introductions" },
+            { "id": "ou-question", "french": "où", "english": "where", "partOfSpeech": "adverb", "pronunciation": "oo", "example": "Où habites-tu ?", "exampleEnglish": "Where do you live?", "level": "A1", "category": "questions" },
+            { "id": "la-ville", "french": "la ville", "english": "city / town", "partOfSpeech": "noun", "gender": "f", "pronunciation": "veel", "example": "Paris est une grande ville.", "exampleEnglish": "Paris is a big city.", "level": "A1", "category": "places" },
+            { "id": "le-pays", "french": "le pays", "english": "country", "partOfSpeech": "noun", "gender": "m", "pronunciation": "pay-EE", "example": "La France est un beau pays.", "exampleEnglish": "France is a beautiful country.", "level": "A1", "category": "places" },
+            { "id": "la-france", "french": "la France", "english": "France", "partOfSpeech": "noun", "gender": "f", "pronunciation": "frahnss", "example": "J'habite en France.", "exampleEnglish": "I live in France.", "level": "A1", "category": "places" },
+            { "id": "d-ou", "french": "d'où", "english": "from where", "partOfSpeech": "adverb", "pronunciation": "doo", "example": "D'où viens-tu ?", "exampleEnglish": "Where are you from?", "level": "A1", "category": "questions" },
+            { "id": "ici", "french": "ici", "english": "here", "partOfSpeech": "adverb", "pronunciation": "ee-SEE", "example": "J'habite ici.", "exampleEnglish": "I live here.", "level": "A1", "category": "places" },
+            { "id": "le-village", "french": "le village", "english": "village", "partOfSpeech": "noun", "gender": "m", "plural": "villages", "pronunciation": "vee-LAHZH", "example": "J'habite dans un petit village.", "exampleEnglish": "I live in a small village.", "level": "A1", "category": "places" },
+            { "id": "la-capitale", "french": "la capitale", "english": "capital city", "partOfSpeech": "noun", "gender": "f", "plural": "capitales", "pronunciation": "kah-pee-TAHL", "example": "Paris est la capitale de la France.", "exampleEnglish": "Paris is the capital of France.", "level": "A1", "category": "places" },
+            { "id": "le-quartier", "french": "le quartier", "english": "neighborhood", "partOfSpeech": "noun", "gender": "m", "plural": "quartiers", "pronunciation": "kar-TYAY", "example": "J'aime mon quartier.", "exampleEnglish": "I like my neighborhood.", "level": "A1", "category": "places" },
+            { "id": "l-adresse", "french": "l'adresse", "english": "address", "partOfSpeech": "noun", "gender": "f", "plural": "adresses", "pronunciation": "ah-DRESS", "example": "Quelle est ton adresse ?", "exampleEnglish": "What is your address?", "level": "A1", "category": "places" },
+            { "id": "la-bas", "french": "là-bas", "english": "over there", "partOfSpeech": "adverb", "pronunciation": "lah-BAH", "example": "Ma famille habite là-bas.", "exampleEnglish": "My family lives over there.", "level": "A1", "category": "places" },
+            { "id": "mais", "french": "mais", "english": "but", "partOfSpeech": "conjunction", "pronunciation": "meh", "example": "J'habite à Lyon, mais je viens de Nice.", "exampleEnglish": "I live in Lyon, but I come from Nice.", "level": "A1", "category": "basics" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Elision: j'habite, d'où",
+              "body": "French drops the vowel of small words like \"je\" and \"de\" before a vowel sound — this is called elision. Since the h of \"habiter\" is silent, you write \"j'habite\" (never \"je habite\"). Likewise \"de\" + \"où\" gives \"d'où\".",
+              "examples": [
+                { "french": "j'habite", "english": "I live", "note": "je + habite" },
+                { "french": "d'où", "english": "from where", "note": "de + où" },
+                { "french": "j'ai", "english": "I have", "note": "je + ai" },
+                { "french": "l'adresse", "english": "the address", "note": "la + adresse" },
+                { "french": "j'aime", "english": "I like", "note": "je + aime" }
+              ],
+              "tip": "The apostrophe replaces exactly one dropped vowel — never leave a space around it."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a1_u02_l03_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What does it mean?",
+              "french": "J'habite à Paris.",
+              "options": ["I live in Paris.", "I come from Paris.", "I love Paris.", "Where is Paris?"],
+              "answer": "I live in Paris."
+            },
+            {
+              "id": "a1_u02_l03_li02",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Où habites-tu ?",
+              "answer": "Où habites-tu ?",
+              "acceptedAnswers": ["ou habites tu", "ou habites-tu"]
+            },
+            {
+              "id": "a1_u02_l03_li03",
+              "type": "dictation",
+              "prompt": "Dictation: write the sentence you hear.",
+              "french": "Je viens de Londres.",
+              "answer": "Je viens de Londres.",
+              "acceptedAnswers": ["je viens de londres"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a1_u02_l03_sp01",
+              "type": "speak",
+              "prompt": "Say you live in Paris.",
+              "french": "J'habite à Paris",
+              "english": "I live in Paris",
+              "tip": "The h is silent: zhah-BEET ah pah-REE."
+            },
+            {
+              "id": "a1_u02_l03_sp02",
+              "type": "speak",
+              "prompt": "Ask a friend where they are from.",
+              "french": "D'où viens-tu ?",
+              "english": "Where are you from?",
+              "tip": "\"D'où\" is one smooth sound: doo."
+            },
+            {
+              "id": "a1_u02_l03_sp03",
+              "type": "speak",
+              "prompt": "Say you live in France.",
+              "french": "J'habite en France",
+              "english": "I live in France",
+              "tip": "\"En\" is nasal, like the \"an\" in \"France\": ahn frahnss."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Une nouvelle amie",
+              "french": "Je m'appelle Amira. J'ai vingt-deux ans. J'habite à Lyon, mais je viens de Tunis. Lyon est une grande ville. J'aime beaucoup habiter ici !",
+              "english": "My name is Amira. I am twenty-two years old. I live in Lyon, but I come from Tunis. Lyon is a big city. I really like living here!",
+              "questions": [
+                {
+                  "id": "a1_u02_l03_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Where does Amira live now?",
+                  "options": ["Lyon", "Tunis", "Paris", "Londres"],
+                  "answer": "Lyon"
+                },
+                {
+                  "id": "a1_u02_l03_rd02",
+                  "type": "trueFalse",
+                  "prompt": "Amira comes from Tunis.",
+                  "options": ["True", "False"],
+                  "answer": "True"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a1_u02_l03_wr01",
+              "type": "translate",
+              "prompt": "Translate into French: \"I live in Paris.\"",
+              "english": "I live in Paris.",
+              "answer": "J'habite à Paris.",
+              "acceptedAnswers": ["j habite a paris", "jhabite a paris"]
+            },
+            {
+              "id": "a1_u02_l03_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "I come from London.",
+              "words": ["de", "viens", "Je", "Londres"],
+              "answer": "Je viens de Londres"
+            },
+            {
+              "id": "a1_u02_l03_wr03",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Je viens ___ Madrid.\"",
+              "answer": "de"
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a1_u02_l03_pr01",
+              "type": "multipleChoice",
+              "prompt": "Which sentence is correct?",
+              "options": ["Elle vient d'Italie.", "Elle vient de Italie.", "Elle vient à Italie.", "Elle vient du Italie."],
+              "answer": "Elle vient d'Italie."
+            },
+            {
+              "id": "a1_u02_l03_pr02",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Paris est la ___ de la France.\"",
+              "answer": "capitale"
+            },
+            {
+              "id": "a1_u02_l03_pr03",
+              "type": "translate",
+              "prompt": "Translate into French: \"Where do you live?\" (informal)",
+              "english": "Where do you live?",
+              "answer": "Où habites-tu ?",
+              "acceptedAnswers": ["ou habites tu", "ou habites-tu"]
+            },
+            {
+              "id": "a1_u02_l03_pr04",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "I live in Lyon, but I come from Nice.",
+              "words": ["mais", "viens", "J'habite", "je", "à", "de", "Lyon,", "Nice"],
+              "answer": "J'habite à Lyon, mais je viens de Nice"
+            },
+            {
+              "id": "a1_u02_l03_pr05",
+              "type": "listenChoose",
+              "prompt": "Listen. What does the speaker want to know?",
+              "french": "Quelle est ton adresse ?",
+              "options": ["Your address", "Your age", "Your name", "Your phone number"],
+              "answer": "Your address"
+            },
+            {
+              "id": "a1_u02_l03_pr06",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "le village", "english": "the village" },
+                { "french": "la capitale", "english": "the capital" },
+                { "french": "là-bas", "english": "over there" },
+                { "french": "mais", "english": "but" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a1_u02_l03_qz01",
+              "type": "multipleChoice",
+              "prompt": "Which sentence is written correctly?",
+              "options": ["J'habite à Paris.", "Je habite à Paris.", "J'habite Paris à.", "Je habites à Paris."],
+              "answer": "J'habite à Paris."
+            },
+            {
+              "id": "a1_u02_l03_qz02",
+              "type": "multipleChoice",
+              "prompt": "How do you ask \"Where are you from?\" informally?",
+              "options": ["D'où viens-tu ?", "Où habites-tu ?", "Quel âge as-tu ?", "Comment tu t'appelles ?"],
+              "answer": "D'où viens-tu ?"
+            },
+            {
+              "id": "a1_u02_l03_qz03",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "j'habite", "english": "I live" },
+                { "french": "je viens de", "english": "I come from" },
+                { "french": "la ville", "english": "the city" },
+                { "french": "le pays", "english": "the country" }
+              ]
+            },
+            {
+              "id": "a1_u02_l03_qz04",
+              "type": "trueFalse",
+              "prompt": "With a city name, you use \"à\": \"J'habite à Lyon.\"",
+              "options": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "a1_u02_l03_qz05",
+              "type": "fillBlank",
+              "prompt": "Complete: \"___ habites-tu ?\" (Where do you live?)",
+              "answer": "Où",
+              "acceptedAnswers": ["ou"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

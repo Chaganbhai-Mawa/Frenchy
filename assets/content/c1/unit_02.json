@@ -1,0 +1,1177 @@
+{
+  "id": "c1_u02",
+  "level": "C1",
+  "unit": 2,
+  "title": "Literature & Style",
+  "subtitle": "Read the literary tenses, name the figures of speech and hear what the text leaves unsaid",
+  "icon": "📚",
+  "lessons": [
+    {
+      "id": "c1_u02_l01",
+      "level": "C1",
+      "unit": 2,
+      "title": "Le passé simple",
+      "description": "Recognise the passé simple and the other literary tenses that carry French narration.",
+      "estimatedMinutes": 19,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "A tense you read rather than speak",
+              "body": "The passé simple is the tense of written narration: novels, short stories, fairy tales, history books and the narrative passages of quality journalism. In conversation the same events would be told in the passé composé. Nobody will ask you to produce it spontaneously at C1, but you must decode it instantly, because a page of literary French can contain thirty forms of it.",
+              "examples": [
+                { "french": "Il entra sans frapper et posa sa valise contre le mur.", "english": "He came in without knocking and set his suitcase against the wall.", "note": "spoken French: il est entré, il a posé" },
+                { "french": "Le roi mourut en hiver ; le royaume changea de visage.", "english": "The king died in winter; the kingdom changed its face." },
+                { "french": "Nous partîmes à l'aube et personne ne nous vit.", "english": "We left at dawn and nobody saw us.", "note": "the nous form is the surest signal of the passé simple" },
+                { "french": "Ils comprirent trop tard ce que la lettre annonçait.", "english": "They understood too late what the letter was announcing." },
+                { "french": "Elle sourit, puis se tut pour toujours.", "english": "She smiled, then fell silent forever.", "note": "sourit is identical in the present and the passé simple — context decides" }
+              ],
+              "tip": "If a narrative text uses the passé simple, it will almost never slip into the passé composé. A sudden passé composé inside such a text is a deliberate effect: the narrator steps out of the story to speak to you."
+            },
+            {
+              "heading": "The three shapes of the ending",
+              "body": "Almost every passé simple falls into one of three vowel families. Verbs in -er take an a-shape, most verbs in -ir and -re take an i-shape, and a large closed group of irregulars takes a u-shape. The circumflex on the nous and vous forms is the signature of the tense.",
+              "examples": [
+                { "french": "je parlai, tu parlas, il parla, nous parlâmes, vous parlâtes, ils parlèrent", "english": "I spoke, you spoke, he spoke, we spoke, you spoke, they spoke", "note": "a-shape: all -er verbs, including aller (il alla)" },
+                { "french": "je finis, tu finis, il finit, nous finîmes, vous finîtes, ils finirent", "english": "I finished, you finished, he finished, we finished, you finished, they finished", "note": "i-shape: finir, partir, prendre (il prit), écrire (il écrivit)" },
+                { "french": "je courus, tu courus, il courut, nous courûmes, vous courûtes, ils coururent", "english": "I ran, you ran, he ran, we ran, you ran, they ran", "note": "u-shape: courir, savoir (il sut), vouloir (il voulut), lire (il lut), vivre (il vécut)" },
+                { "french": "Il fut, elle eut, ils firent, elle vint, il tint.", "english": "He was, she had, they did, she came, he held.", "note": "the five you meet on every page: être, avoir, faire, venir, tenir" },
+                { "french": "L'enfant naquit un soir de novembre et vécut cent ans.", "english": "The child was born one November evening and lived a hundred years.", "note": "naître → naquit, vivre → vécut" }
+              ],
+              "tip": "The -èrent ending belongs only to -er verbs; -irent and -urent cover everything else. Spotting the vowel tells you which infinitive to look for."
+            },
+            {
+              "heading": "Foreground and background",
+              "body": "The passé simple moves the story forward: each verb is a new event, complete and bounded. The imparfait stops the clock to describe the setting, the habits, the weather, the state of mind. Reading a literary page well means seeing which sentences advance the plot and which merely hold the camera still.",
+              "examples": [
+                { "french": "La pluie tombait depuis trois jours quand le voyageur frappa à la porte.", "english": "Rain had been falling for three days when the traveller knocked at the door.", "note": "imparfait = backdrop, passé simple = the event" },
+                { "french": "Il faisait froid ; elle resserra son châle et pressa le pas.", "english": "It was cold; she pulled her shawl tighter and quickened her pace." },
+                { "french": "Chaque soir, il relisait la même lettre. Un jour, il la brûla.", "english": "Every evening he would reread the same letter. One day he burned it.", "note": "habit in the imparfait, rupture in the passé simple" },
+                { "french": "Le village dormait encore lorsque la nouvelle se répandit.", "english": "The village was still asleep when the news spread." },
+                { "french": "Elle crut d'abord à une plaisanterie, puis elle comprit.", "english": "At first she thought it was a joke, then she understood.", "note": "two successive events: croire → crut, comprendre → comprit" }
+              ],
+              "tip": "A useful test: if you could add \"soudain\" or \"à ce moment-là\", the verb is probably a passé simple."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "le-recit", "french": "le récit", "english": "narrative, account", "partOfSpeech": "noun", "gender": "m", "plural": "récits", "pronunciation": "ruh-SEE", "example": "Le récit s'ouvre sur une scène de départ.", "exampleEnglish": "The narrative opens on a departure scene.", "level": "C1", "category": "literature" },
+            { "id": "la-narration", "french": "la narration", "english": "narration, the act of telling", "partOfSpeech": "noun", "gender": "f", "plural": "narrations", "pronunciation": "nah-rah-SYON", "example": "La narration alterne entre deux époques.", "exampleEnglish": "The narration alternates between two periods.", "level": "C1", "category": "literature" },
+            { "id": "le-narrateur", "french": "le narrateur", "english": "the narrator", "partOfSpeech": "noun", "gender": "m", "plural": "narrateurs", "pronunciation": "nah-rah-TUHR", "example": "Le narrateur ne dit jamais son nom.", "exampleEnglish": "The narrator never gives his name.", "level": "C1", "category": "literature" },
+            { "id": "le-romancier", "french": "le romancier", "english": "the novelist", "partOfSpeech": "noun", "gender": "m", "plural": "romanciers", "pronunciation": "ro-mahn-SYAY", "example": "Le romancier laisse au lecteur le soin de conclure.", "exampleEnglish": "The novelist leaves it to the reader to conclude.", "level": "C1", "category": "literature" },
+            { "id": "le-conte", "french": "le conte", "english": "tale, folk tale", "partOfSpeech": "noun", "gender": "m", "plural": "contes", "pronunciation": "kont", "example": "Le conte commence toujours par une formule rituelle.", "exampleEnglish": "The tale always begins with a ritual formula.", "level": "C1", "category": "literature" },
+            { "id": "la-nouvelle", "french": "la nouvelle", "english": "short story", "partOfSpeech": "noun", "gender": "f", "plural": "nouvelles", "pronunciation": "noo-VEL", "example": "Une nouvelle bien construite tient en vingt pages.", "exampleEnglish": "A well-built short story fits into twenty pages.", "level": "C1", "category": "literature" },
+            { "id": "le-chapitre", "french": "le chapitre", "english": "the chapter", "partOfSpeech": "noun", "gender": "m", "plural": "chapitres", "pronunciation": "shah-PEETR", "example": "Le chapitre s'achève sur une question sans réponse.", "exampleEnglish": "The chapter ends on an unanswered question.", "level": "C1", "category": "literature" },
+            { "id": "l-intrigue", "french": "l'intrigue", "english": "the plot", "partOfSpeech": "noun", "gender": "f", "plural": "intrigues", "pronunciation": "an-TREEG", "example": "L'intrigue se noue dès les premières pages.", "exampleEnglish": "The plot is tied up from the very first pages.", "level": "C1", "category": "literature" },
+            { "id": "le-protagoniste", "french": "le protagoniste", "english": "the main character", "partOfSpeech": "noun", "gender": "m", "plural": "protagonistes", "pronunciation": "pro-tah-go-NEEST", "example": "Le protagoniste refuse le rôle qu'on lui assigne.", "exampleEnglish": "The main character refuses the role assigned to him.", "level": "C1", "category": "literature" },
+            { "id": "la-peripetie", "french": "la péripétie", "english": "twist, sudden turn of events", "partOfSpeech": "noun", "gender": "f", "plural": "péripéties", "pronunciation": "pay-ree-pay-SEE", "example": "Une dernière péripétie relance le récit.", "exampleEnglish": "One last twist restarts the narrative.", "level": "C1", "category": "literature" },
+            { "id": "le-denouement", "french": "le dénouement", "english": "the ending, the resolution", "partOfSpeech": "noun", "gender": "m", "plural": "dénouements", "pronunciation": "day-noo-MAHN", "example": "Le dénouement laisse un goût amer.", "exampleEnglish": "The ending leaves a bitter taste.", "level": "C1", "category": "literature" },
+            { "id": "l-incipit", "french": "l'incipit", "english": "the opening lines of a work", "partOfSpeech": "noun", "gender": "m", "plural": "incipits", "pronunciation": "an-see-PEET", "example": "L'incipit installe aussitôt une atmosphère de menace.", "exampleEnglish": "The opening lines immediately establish an atmosphere of menace.", "level": "C1", "category": "literature" },
+            { "id": "l-epilogue", "french": "l'épilogue", "english": "the epilogue", "partOfSpeech": "noun", "gender": "m", "plural": "épilogues", "pronunciation": "ay-pee-LOG", "example": "L'épilogue nous ramène trente ans plus tard.", "exampleEnglish": "The epilogue takes us back thirty years later.", "level": "C1", "category": "literature" },
+            { "id": "le-passe-simple", "french": "le passé simple", "english": "the simple past (literary narrative tense)", "partOfSpeech": "noun", "gender": "m", "plural": "passés simples", "pronunciation": "pah-say SANPL", "example": "Le passé simple appartient au récit écrit.", "exampleEnglish": "The passé simple belongs to written narrative.", "level": "C1", "category": "grammar" },
+            { "id": "le-passe-anterieur", "french": "le passé antérieur", "english": "the past anterior (literary)", "partOfSpeech": "noun", "gender": "m", "plural": "passés antérieurs", "pronunciation": "pah-say ahn-tay-RYUHR", "example": "Le passé antérieur suit presque toujours « dès que ».", "exampleEnglish": "The past anterior almost always follows \"dès que\".", "level": "C1", "category": "grammar" },
+            { "id": "l-imparfait", "french": "l'imparfait", "english": "the imperfect tense", "partOfSpeech": "noun", "gender": "m", "plural": "imparfaits", "pronunciation": "an-par-FEH", "example": "L'imparfait plante le décor du récit.", "exampleEnglish": "The imperfect sets the scene of the narrative.", "level": "C1", "category": "grammar" },
+            { "id": "le-plus-que-parfait", "french": "le plus-que-parfait", "english": "the pluperfect tense", "partOfSpeech": "noun", "gender": "m", "plural": "plus-que-parfaits", "pronunciation": "plu-kuh-par-FEH", "example": "Le plus-que-parfait rappelle ce qui précède l'action.", "exampleEnglish": "The pluperfect recalls what precedes the action.", "level": "C1", "category": "grammar" },
+            { "id": "la-terminaison", "french": "la terminaison", "english": "the ending (of a verb form)", "partOfSpeech": "noun", "gender": "f", "plural": "terminaisons", "pronunciation": "tehr-mee-neh-ZON", "example": "La terminaison en -èrent signale un verbe du premier groupe.", "exampleEnglish": "The -èrent ending signals a first-group verb.", "level": "C1", "category": "grammar" },
+            { "id": "le-radical", "french": "le radical", "english": "the stem (of a verb)", "partOfSpeech": "noun", "gender": "m", "plural": "radicaux", "pronunciation": "rah-dee-KAL", "example": "Le radical du passé simple de « venir » est irrégulier.", "exampleEnglish": "The passé simple stem of \"venir\" is irregular.", "level": "C1", "category": "grammar" },
+            { "id": "la-conjugaison", "french": "la conjugaison", "english": "the conjugation", "partOfSpeech": "noun", "gender": "f", "plural": "conjugaisons", "pronunciation": "kon-ju-geh-ZON", "example": "Sa conjugaison surprend, mais la forme est correcte.", "exampleEnglish": "Its conjugation is surprising, but the form is correct.", "level": "C1", "category": "grammar" },
+            { "id": "narrer", "french": "narrer", "english": "to narrate, to recount (formal)", "partOfSpeech": "verb", "pronunciation": "nah-RAY", "example": "L'auteur narre ces événements sans jamais les juger.", "exampleEnglish": "The author narrates these events without ever judging them.", "level": "C1", "category": "literature" },
+            { "id": "relater", "french": "relater", "english": "to report, to relate (an event)", "partOfSpeech": "verb", "pronunciation": "ruh-lah-TAY", "example": "Le chroniqueur relate la scène avec une froideur étudiée.", "exampleEnglish": "The chronicler relates the scene with studied coldness.", "level": "C1", "category": "literature" },
+            { "id": "survenir", "french": "survenir", "english": "to occur, to happen suddenly", "partOfSpeech": "verb", "pronunciation": "sur-vuh-NEER", "example": "L'accident survint au moment où nul ne l'attendait.", "exampleEnglish": "The accident occurred at the moment when nobody expected it.", "level": "C1", "category": "narration" },
+            { "id": "s-ecrier", "french": "s'écrier", "english": "to cry out, to exclaim", "partOfSpeech": "verb", "pronunciation": "say-kree-YAY", "example": "« Enfin ! » s'écria-t-elle en ouvrant la lettre.", "exampleEnglish": "\"At last!\" she cried, opening the letter.", "level": "C1", "category": "narration" },
+            { "id": "songer", "french": "songer", "english": "to muse, to ponder (literary)", "partOfSpeech": "verb", "pronunciation": "son-ZHAY", "example": "Il songea longuement à ce qu'il venait d'entendre.", "exampleEnglish": "He pondered at length what he had just heard.", "level": "C1", "category": "narration" },
+            { "id": "se-taire", "french": "se taire", "english": "to fall silent, to say nothing", "partOfSpeech": "verb", "pronunciation": "suh TEHR", "example": "Elle se tut et regarda la fenêtre.", "exampleEnglish": "She fell silent and looked at the window.", "level": "C1", "category": "narration" },
+            { "id": "surgir", "french": "surgir", "english": "to loom up, to appear suddenly", "partOfSpeech": "verb", "pronunciation": "sur-ZHEER", "example": "Une silhouette surgit de la brume.", "exampleEnglish": "A silhouette loomed up out of the mist.", "level": "C1", "category": "narration" },
+            { "id": "franchir", "french": "franchir", "english": "to cross, to step over", "partOfSpeech": "verb", "pronunciation": "frahn-SHEER", "example": "Il franchit le seuil sans se retourner.", "exampleEnglish": "He crossed the threshold without turning round.", "level": "C1", "category": "narration" },
+            { "id": "s-eloigner", "french": "s'éloigner", "english": "to move away, to withdraw", "partOfSpeech": "verb", "pronunciation": "say-lwah-NYAY", "example": "La voiture s'éloigna dans un nuage de poussière.", "exampleEnglish": "The car moved away in a cloud of dust.", "level": "C1", "category": "narration" },
+            { "id": "apercevoir", "french": "apercevoir", "english": "to catch sight of", "partOfSpeech": "verb", "pronunciation": "ah-pehr-suh-VWAR", "example": "Il aperçut une lumière au bout du couloir.", "exampleEnglish": "He caught sight of a light at the end of the corridor.", "level": "C1", "category": "narration" },
+            { "id": "demeurer", "french": "demeurer", "english": "to remain (formal)", "partOfSpeech": "verb", "pronunciation": "duh-muh-RAY", "example": "La maison demeura vide pendant vingt ans.", "exampleEnglish": "The house remained empty for twenty years.", "level": "C1", "category": "narration" },
+            { "id": "l-aube", "french": "l'aube", "english": "dawn, daybreak", "partOfSpeech": "noun", "gender": "f", "plural": "aubes", "pronunciation": "ohb", "example": "Ils se mirent en route avant l'aube.", "exampleEnglish": "They set off before dawn.", "level": "C1", "category": "literature" },
+            { "id": "le-crepuscule", "french": "le crépuscule", "english": "dusk, twilight", "partOfSpeech": "noun", "gender": "m", "plural": "crépuscules", "pronunciation": "kray-pu-SKUL", "example": "Au crépuscule, le village retrouvait son silence.", "exampleEnglish": "At dusk, the village recovered its silence.", "level": "C1", "category": "literature" },
+            { "id": "jadis", "french": "jadis", "english": "in olden days, long ago", "partOfSpeech": "adverb", "pronunciation": "zhah-DEES", "example": "Jadis, ce chemin menait à la mer.", "exampleEnglish": "Long ago, this path led to the sea.", "level": "C1", "category": "literature" },
+            { "id": "naguere", "french": "naguère", "english": "not long ago, formerly", "partOfSpeech": "adverb", "pronunciation": "nah-GEHR", "example": "Naguère encore, on lisait ce roman dans toutes les écoles.", "exampleEnglish": "Not so long ago, this novel was read in every school.", "level": "C1", "category": "literature" },
+            { "id": "aussitot", "french": "aussitôt", "english": "immediately, at once", "partOfSpeech": "adverb", "pronunciation": "oh-see-TOH", "example": "Aussitôt dit, aussitôt fait.", "exampleEnglish": "No sooner said than done.", "level": "C1", "category": "narration" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Le passé antérieur: the event before the event",
+              "body": "The passé antérieur is built with the passé simple of avoir or être plus a past participle. It appears almost exclusively after a time conjunction — dès que, lorsque, quand, après que, à peine ... que — to mark an action completed just before the next one. In speech, the plus-que-parfait or the passé surcomposé takes its place.",
+              "examples": [
+                { "french": "Dès qu'il eut terminé sa lettre, il sortit la poster.", "english": "As soon as he had finished his letter, he went out to post it.", "note": "eut terminé = passé antérieur, sortit = passé simple" },
+                { "french": "Quand elle fut partie, la maison parut immense.", "english": "When she had left, the house seemed immense.", "note": "être verbs agree: fut partie" },
+                { "french": "À peine eurent-ils franchi le pont que l'orage éclata.", "english": "Scarcely had they crossed the bridge than the storm broke.", "note": "à peine at the head of the clause triggers inversion" },
+                { "french": "Après qu'il eut parlé, plus personne n'osa répondre.", "english": "After he had spoken, nobody dared reply any longer." },
+                { "french": "Lorsque le jour se fut levé, ils reprirent la route.", "english": "When day had broken, they set off again." }
+              ],
+              "tip": "Reading trick: eut / fut + participle is the passé antérieur; avait / était + participle is the plus-que-parfait. One belongs to literature, the other to everyday French."
+            },
+            {
+              "heading": "The other literary forms you will meet",
+              "body": "Nineteenth-century prose and formal contemporary writing also use the imparfait du subjonctif (qu'il parlât, qu'elle vînt, qu'il fût) and the plus-que-parfait du subjonctif, which can double as a literary conditional — the so-called deuxième forme du conditionnel passé. You only need to recognise them and translate them into ordinary French in your head.",
+              "examples": [
+                { "french": "Il fallait qu'elle partît avant la nuit.", "english": "She had to leave before nightfall.", "note": "modern French: qu'elle parte" },
+                { "french": "Le juge exigea qu'on lui remît le dossier.", "english": "The judge demanded that the file be handed over to him.", "note": "modern French: qu'on lui remette" },
+                { "french": "Il eût aimé revoir la mer une dernière fois.", "english": "He would have liked to see the sea one last time.", "note": "eût aimé = aurait aimé" },
+                { "french": "Nul n'eût osé le contredire.", "english": "Nobody would have dared contradict him.", "note": "literary equivalent of n'aurait osé" },
+                { "french": "On l'aurait cru mort si sa main n'eût tremblé.", "english": "One would have thought him dead had his hand not trembled.", "note": "n'eût tremblé = n'avait pas tremblé" }
+              ],
+              "tip": "The circumflex distinguishes two look-alikes: il fut is the passé simple (he was), il fût is the imparfait du subjonctif. One tiny accent, two different grammars."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "c1_u02_l01_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. Which tense carries the main action?",
+              "french": "La nuit tombait quand il poussa la porte de l'auberge.",
+              "options": ["Le passé simple", "L'imparfait", "Le passé composé", "Le plus-que-parfait"],
+              "answer": "Le passé simple"
+            },
+            {
+              "id": "c1_u02_l01_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. What is the infinitive of the verb in the passé simple?",
+              "french": "Elle ne sut jamais pourquoi il était revenu.",
+              "options": ["savoir", "suivre", "sortir", "sentir"],
+              "answer": "savoir"
+            },
+            {
+              "id": "c1_u02_l01_li03",
+              "type": "listenType",
+              "prompt": "Listen and write the sentence.",
+              "french": "Ils partirent au lever du jour.",
+              "answer": "Ils partirent au lever du jour.",
+              "acceptedAnswers": ["ils partirent au lever du jour", "Ils partirent au lever du jour"]
+            },
+            {
+              "id": "c1_u02_l01_li04",
+              "type": "dictation",
+              "prompt": "Dictation: a sentence in the passé antérieur.",
+              "french": "Dès qu'il eut fermé le livre, le silence retomba.",
+              "answer": "Dès qu'il eut fermé le livre, le silence retomba.",
+              "acceptedAnswers": ["des qu'il eut ferme le livre le silence retomba", "Dès qu'il eut fermé le livre le silence retomba", "des qu il eut ferme le livre le silence retomba"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "c1_u02_l01_sp01",
+              "type": "speak",
+              "prompt": "Read this narrative sentence aloud.",
+              "french": "Il traversa la place déserte et disparut sous les arcades.",
+              "english": "He crossed the deserted square and vanished under the arcades.",
+              "tip": "Traversa ends in a clean open -a: trah-vehr-SAH. Never pronounce a final -t in disparut (dees-pah-RU)."
+            },
+            {
+              "id": "c1_u02_l01_sp02",
+              "type": "speak",
+              "prompt": "Say the nous form of the passé simple.",
+              "french": "Nous descendîmes l'escalier sans allumer la lumière.",
+              "english": "We went down the staircase without turning on the light.",
+              "tip": "The circumflex does not lengthen much here: say day-sahn-DEEM, with a crisp final -m sound."
+            },
+            {
+              "id": "c1_u02_l01_sp03",
+              "type": "speak",
+              "prompt": "Read a sentence with the literary conditional.",
+              "french": "Nul n'eût imaginé qu'elle revînt un jour.",
+              "english": "Nobody would have imagined that she would return one day.",
+              "tip": "Eût is simply \"u\", with rounded lips; the liaison gives nul-nu-tee-mah-zhee-NAY."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Le retour à Villebranche",
+              "french": "Le train le déposa à Villebranche un peu avant midi, sous un ciel bas qui promettait la pluie.\nRien n'avait changé, et pourtant tout lui parut plus petit : la gare, la place, les deux platanes.\nIl posa sa valise sur le banc, puis se ravisa et la reprit aussitôt.\nPersonne ne l'attendait ; il n'avait prévenu personne.\nLa rue montait vers l'église, comme autrefois, entre des façades que le soleil avait pâlies.\nUne femme balayait son seuil ; elle leva la tête, le regarda passer et ne le reconnut pas.\nIl en éprouva un soulagement qu'il n'osa pas s'avouer.\nDevant la maison, il s'arrêta : les volets étaient clos depuis le mois de mars.\nDès qu'il eut tourné la clé, l'odeur du couloir lui revint, intacte, insupportable.\nSur la table de la cuisine, quelqu'un avait laissé une lettre à son nom.\nIl la retourna longuement entre ses doigts sans l'ouvrir.\nJadis, il eût déchiré l'enveloppe sur-le-champ ; il avait appris la patience, ou la peur.\nLe vent poussa un volet contre le mur et le bruit le fit sursauter.\nIl songea qu'il pouvait encore repartir, reprendre le train de dix-sept heures et ne jamais savoir.\nPuis il s'assit, approcha la lampe et ouvrit la lettre.\nCe qu'il y lut ne le surprit pas ; c'est cela, précisément, qui lui fit le plus de mal.",
+              "english": "The train set him down at Villebranche a little before noon, under a low sky that promised rain.\nNothing had changed, and yet everything seemed smaller to him: the station, the square, the two plane trees.\nHe put his suitcase down on the bench, then thought better of it and picked it up again at once.\nNobody was waiting for him; he had told nobody he was coming.\nThe street climbed towards the church, as in the old days, between façades that the sun had faded.\nA woman was sweeping her doorstep; she raised her head, watched him go past and did not recognise him.\nHe felt a relief that he did not dare admit to himself.\nIn front of the house he stopped: the shutters had been closed since March.\nAs soon as he had turned the key, the smell of the hallway came back to him, intact, unbearable.\nOn the kitchen table, someone had left a letter addressed to him.\nHe turned it over and over between his fingers without opening it.\nOnce, he would have torn the envelope open on the spot; he had learned patience, or fear.\nThe wind pushed a shutter against the wall and the noise made him start.\nHe reflected that he could still leave again, take the five o'clock train and never know.\nThen he sat down, drew the lamp closer and opened the letter.\nWhat he read there did not surprise him; and that, precisely, was what hurt him most.",
+              "questions": [
+                {
+                  "id": "c1_u02_l01_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Which verb form in the passage is a passé antérieur?",
+                  "options": ["eut tourné", "avait laissé", "parut", "balayait"],
+                  "answer": "eut tourné"
+                },
+                {
+                  "id": "c1_u02_l01_rd02",
+                  "type": "trueFalse",
+                  "prompt": "The woman sweeping her doorstep recognises the traveller.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                },
+                {
+                  "id": "c1_u02_l01_rd03",
+                  "type": "multipleChoice",
+                  "prompt": "« Jadis, il eût déchiré l'enveloppe sur-le-champ » means:",
+                  "options": [
+                    "Once, he would have torn the envelope open at once.",
+                    "Once, he tore the envelope open at once.",
+                    "Once, he had to tear the envelope open.",
+                    "Once, he was tearing the envelope open."
+                  ],
+                  "answer": "Once, he would have torn the envelope open at once."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "c1_u02_l01_wr01",
+              "type": "translate",
+              "prompt": "Translate into French, using the passé simple.",
+              "english": "He opened the window and looked at the sea.",
+              "answer": "Il ouvrit la fenêtre et regarda la mer.",
+              "acceptedAnswers": ["il ouvrit la fenetre et regarda la mer", "Il ouvrit la fenêtre et regarda la mer"]
+            },
+            {
+              "id": "c1_u02_l01_wr02",
+              "type": "fillBlank",
+              "prompt": "Passé simple of « venir »: Elle ___ le lendemain, sans prévenir.",
+              "answer": "vint",
+              "acceptedAnswers": ["vint"]
+            },
+            {
+              "id": "c1_u02_l01_wr03",
+              "type": "arrangeWords",
+              "prompt": "Rebuild the narrative sentence.",
+              "words": ["il", "la", "porte", "puis", "referma", "s'éloigna"],
+              "answer": "il referma la porte puis s'éloigna",
+              "english": "He closed the door again, then moved away."
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "c1_u02_l01_pr01",
+              "type": "multipleChoice",
+              "prompt": "Which sentence is written in the passé simple?",
+              "options": [
+                "Il descendit l'escalier en courant.",
+                "Il descendait l'escalier en courant.",
+                "Il est descendu en courant.",
+                "Il était descendu en courant."
+              ],
+              "answer": "Il descendit l'escalier en courant."
+            },
+            {
+              "id": "c1_u02_l01_pr02",
+              "type": "fillBlank",
+              "prompt": "Passé simple of « être »: Le silence ___ total pendant une minute.",
+              "answer": "fut",
+              "acceptedAnswers": ["fut"]
+            },
+            {
+              "id": "c1_u02_l01_pr03",
+              "type": "match",
+              "prompt": "Match each passé simple form with its infinitive.",
+              "pairs": [
+                { "french": "il naquit", "english": "naître" },
+                { "french": "elle put", "english": "pouvoir" },
+                { "french": "ils écrivirent", "english": "écrire" },
+                { "french": "nous vécûmes", "english": "vivre" }
+              ]
+            },
+            {
+              "id": "c1_u02_l01_pr04",
+              "type": "multipleChoice",
+              "prompt": "Choose the everyday equivalent of « Il eût préféré se taire ».",
+              "options": [
+                "Il aurait préféré se taire.",
+                "Il a préféré se taire.",
+                "Il préférait se taire.",
+                "Il préférera se taire."
+              ],
+              "answer": "Il aurait préféré se taire."
+            },
+            {
+              "id": "c1_u02_l01_pr05",
+              "type": "trueFalse",
+              "prompt": "In a novel, the imparfait usually describes the setting while the passé simple advances the action.",
+              "options": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "c1_u02_l01_pr06",
+              "type": "translate",
+              "prompt": "Translate into French, keeping the literary register.",
+              "english": "As soon as she had spoken, everyone fell silent.",
+              "answer": "Dès qu'elle eut parlé, tout le monde se tut.",
+              "acceptedAnswers": ["des qu'elle eut parle tout le monde se tut", "Dès qu'elle eut parlé tout le monde se tut", "des qu elle eut parle tout le monde se tut"]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "c1_u02_l01_qz01",
+              "type": "multipleChoice",
+              "prompt": "In which context would you normally meet the passé simple?",
+              "options": [
+                "A novel or a history book",
+                "A phone call to a friend",
+                "A text message",
+                "A job interview"
+              ],
+              "answer": "A novel or a history book"
+            },
+            {
+              "id": "c1_u02_l01_qz02",
+              "type": "multipleChoice",
+              "prompt": "Which ending belongs only to -er verbs?",
+              "options": ["-èrent", "-irent", "-urent", "-îmes"],
+              "answer": "-èrent"
+            },
+            {
+              "id": "c1_u02_l01_qz03",
+              "type": "fillBlank",
+              "prompt": "Passé simple of « faire »: Le vieil homme ___ un pas en arrière.",
+              "answer": "fit",
+              "acceptedAnswers": ["fit"]
+            },
+            {
+              "id": "c1_u02_l01_qz04",
+              "type": "multipleChoice",
+              "prompt": "« Il fallait qu'elle partît » is which tense?",
+              "options": [
+                "L'imparfait du subjonctif",
+                "Le passé simple",
+                "Le passé antérieur",
+                "Le conditionnel présent"
+              ],
+              "answer": "L'imparfait du subjonctif"
+            },
+            {
+              "id": "c1_u02_l01_qz05",
+              "type": "multipleChoice",
+              "prompt": "Which sentence correctly pairs background and foreground?",
+              "options": [
+                "Il pleuvait lorsque le train entra en gare.",
+                "Il plut lorsque le train entrait en gare.",
+                "Il pleuvait lorsque le train entrait en gare.",
+                "Il plut lorsque le train entra en gare."
+              ],
+              "answer": "Il pleuvait lorsque le train entra en gare."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1_u02_l02",
+      "level": "C1",
+      "unit": 2,
+      "title": "Figures de style",
+      "description": "Name and use the figures that give French prose its edge: metaphor, irony, litotes and euphemism.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Comparaison and métaphore",
+              "body": "A comparaison links two terms with an explicit tool: comme, tel, semblable à, on dirait, pareil à. A métaphore removes the tool and states the identification directly, which makes it far more forceful. When the same image is carried through several sentences, French calls it a métaphore filée — an extended metaphor.",
+              "examples": [
+                { "french": "Sa colère montait comme une marée.", "english": "His anger was rising like a tide.", "note": "comparaison: the tool comme is visible" },
+                { "french": "Sa colère était une marée qui montait.", "english": "His anger was a rising tide.", "note": "métaphore: the tool has disappeared" },
+                { "french": "La ville, ce vieil animal fatigué, s'étirait sous la pluie.", "english": "The city, that tired old animal, stretched itself under the rain.", "note": "apposition is a very common metaphor slot" },
+                { "french": "Il naviguait dans le dossier, sondait chaque page, redoutait les récifs.", "english": "He was navigating the file, sounding each page, dreading the reefs.", "note": "métaphore filée: one nautical image runs through the sentence" },
+                { "french": "Un silence de plomb tomba sur la salle.", "english": "A leaden silence fell over the room.", "note": "the metaphor is carried by the complement de plomb" }
+              ],
+              "tip": "In French criticism you say « l'auteur file la métaphore de la navigation » — the verb filer is the technical term for sustaining an image."
+            },
+            {
+              "heading": "Saying less to mean more: litote and euphémisme",
+              "body": "The litote denies the opposite in order to affirm something strongly: ce n'est pas mauvais can mean it is excellent. The euphémisme replaces a harsh word with a gentler one, usually out of tact rather than emphasis. Both are everywhere in French, from novels to press releases, and both can be missed by a literal reader.",
+              "examples": [
+                { "french": "Ce n'est pas si mal joué.", "english": "That is really rather well played.", "note": "litote: the denial is praise" },
+                { "french": "Je ne vous cacherai pas ma déception.", "english": "I will not hide my disappointment from you.", "note": "litote used to soften a reproach" },
+                { "french": "Il nous a quittés au printemps dernier.", "english": "He passed away last spring.", "note": "euphémisme for mourir" },
+                { "french": "L'entreprise procède à un ajustement de ses effectifs.", "english": "The company is adjusting its workforce.", "note": "corporate euphemism for layoffs" },
+                { "french": "Votre travail manque un peu de rigueur.", "english": "Your work is a little short on rigour.", "note": "euphémisme: the criticism is far more severe than it sounds" },
+                { "french": "Elle n'est pas sans talent.", "english": "She is far from untalented.", "note": "the ne ... pas sans construction is a litote factory" }
+              ],
+              "tip": "A litote intensifies, a euphémisme attenuates. Ask yourself: is the speaker being modest, or merely polite? That is the whole difference."
+            },
+            {
+              "heading": "Irony, antiphrase and the pointed word",
+              "body": "French irony usually works by antiphrase: saying the opposite of what you mean while letting intonation, punctuation or context betray you. In writing, the signals are exaggeration, an incongruous register, a suspiciously enthusiastic adjective or a well-placed « bien sûr ». Sarcasm is heavier and openly aggressive; irony keeps a straight face.",
+              "examples": [
+                { "french": "Quelle brillante idée de partir sans carte !", "english": "What a brilliant idea to leave without a map!", "note": "antiphrase: brillante means the opposite" },
+                { "french": "Il est d'une modestie remarquable, comme chacun sait.", "english": "He is remarkably modest, as everyone knows.", "note": "the added clause turns praise into mockery" },
+                { "french": "On appréciera la finesse de l'argument.", "english": "One will appreciate the subtlety of the argument.", "note": "the impersonal on is a favourite ironic mask" },
+                { "french": "Voilà une réforme qui ne dérangera personne, surtout pas ses auteurs.", "english": "Here is a reform that will disturb nobody, least of all its authors.", "note": "the sting arrives in the final clause" },
+                { "french": "Bien sûr, tout cela n'a rien à voir avec l'argent.", "english": "Of course, none of this has anything to do with money.", "note": "bien sûr flags the irony" }
+              ],
+              "tip": "Irony is a risk in a foreign language: if the reader misses the signal, you simply sound wrong. In exams, use it in commentary (« l'auteur ironise sur... ») rather than in your own argument."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "la-figure-de-style", "french": "la figure de style", "english": "figure of speech", "partOfSpeech": "noun", "gender": "f", "plural": "figures de style", "pronunciation": "fee-GUR duh STEEL", "example": "Relevez les figures de style de ce paragraphe.", "exampleEnglish": "Identify the figures of speech in this paragraph.", "level": "C1", "category": "style" },
+            { "id": "la-metaphore", "french": "la métaphore", "english": "metaphor", "partOfSpeech": "noun", "gender": "f", "plural": "métaphores", "pronunciation": "may-tah-FOR", "example": "La métaphore du naufrage traverse tout le chapitre.", "exampleEnglish": "The metaphor of the shipwreck runs through the whole chapter.", "level": "C1", "category": "style" },
+            { "id": "la-metaphore-filee", "french": "la métaphore filée", "english": "extended metaphor", "partOfSpeech": "noun", "gender": "f", "plural": "métaphores filées", "pronunciation": "may-tah-FOR fee-LAY", "example": "L'auteur construit une métaphore filée sur trois pages.", "exampleEnglish": "The author builds an extended metaphor over three pages.", "level": "C1", "category": "style" },
+            { "id": "la-comparaison", "french": "la comparaison", "english": "simile, comparison", "partOfSpeech": "noun", "gender": "f", "plural": "comparaisons", "pronunciation": "kom-pah-reh-ZON", "example": "La comparaison se reconnaît à l'outil « comme ».", "exampleEnglish": "A simile can be spotted by the word \"comme\".", "level": "C1", "category": "style" },
+            { "id": "l-image", "french": "l'image", "english": "image, figurative expression", "partOfSpeech": "noun", "gender": "f", "plural": "images", "pronunciation": "ee-MAHZH", "example": "Cette image du jardin revient à chaque chapitre.", "exampleEnglish": "This image of the garden returns in every chapter.", "level": "C1", "category": "style" },
+            { "id": "litote", "french": "la litote", "english": "litotes, understatement by denial", "partOfSpeech": "noun", "gender": "f", "plural": "litotes", "pronunciation": "lee-TOT", "example": "« Ce n'est pas rien » est une litote très courante.", "exampleEnglish": "\"That's not nothing\" is a very common litotes.", "level": "C1", "category": "style" },
+            { "id": "euphemisme", "french": "l'euphémisme", "english": "euphemism", "partOfSpeech": "noun", "gender": "m", "plural": "euphémismes", "pronunciation": "uh-fay-MEESM", "example": "« Un plan social » est l'euphémisme consacré.", "exampleEnglish": "\"A social plan\" is the established euphemism.", "level": "C1", "category": "style" },
+            { "id": "hyperbole", "french": "l'hyperbole", "english": "hyperbole, deliberate exaggeration", "partOfSpeech": "noun", "gender": "f", "plural": "hyperboles", "pronunciation": "ee-pehr-BOL", "example": "« Mourir de faim » est une hyperbole du quotidien.", "exampleEnglish": "\"To be starving to death\" is an everyday hyperbole.", "level": "C1", "category": "style" },
+            { "id": "l-ironie", "french": "l'ironie", "english": "irony", "partOfSpeech": "noun", "gender": "f", "plural": "ironies", "pronunciation": "ee-ro-NEE", "example": "L'ironie de ce passage échappe souvent aux lecteurs pressés.", "exampleEnglish": "The irony of this passage often escapes hurried readers.", "level": "C1", "category": "style" },
+            { "id": "l-antiphrase", "french": "l'antiphrase", "english": "antiphrasis, saying the opposite", "partOfSpeech": "noun", "gender": "f", "plural": "antiphrases", "pronunciation": "ahn-tee-FRAHZ", "example": "« Bravo ! » est ici une antiphrase.", "exampleEnglish": "\"Bravo!\" is an antiphrasis here.", "level": "C1", "category": "style" },
+            { "id": "l-oxymore", "french": "l'oxymore", "english": "oxymoron", "partOfSpeech": "noun", "gender": "m", "plural": "oxymores", "pronunciation": "ok-see-MOR", "example": "« Une douce violence » est un oxymore.", "exampleEnglish": "\"A gentle violence\" is an oxymoron.", "level": "C1", "category": "style" },
+            { "id": "la-personnification", "french": "la personnification", "english": "personification", "partOfSpeech": "noun", "gender": "f", "plural": "personnifications", "pronunciation": "pehr-so-nee-fee-kah-SYON", "example": "La personnification du fleuve donne vie au paysage.", "exampleEnglish": "The personification of the river brings the landscape to life.", "level": "C1", "category": "style" },
+            { "id": "l-allegorie", "french": "l'allégorie", "english": "allegory", "partOfSpeech": "noun", "gender": "f", "plural": "allégories", "pronunciation": "ah-lay-go-REE", "example": "Le récit se lit comme une allégorie du pouvoir.", "exampleEnglish": "The story reads like an allegory of power.", "level": "C1", "category": "style" },
+            { "id": "la-metonymie", "french": "la métonymie", "english": "metonymy (the part named for the whole)", "partOfSpeech": "noun", "gender": "f", "plural": "métonymies", "pronunciation": "may-to-nee-MEE", "example": "« Boire un verre » est une métonymie banale.", "exampleEnglish": "\"To drink a glass\" is a commonplace metonymy.", "level": "C1", "category": "style" },
+            { "id": "la-periphrase", "french": "la périphrase", "english": "periphrasis, roundabout expression", "partOfSpeech": "noun", "gender": "f", "plural": "périphrases", "pronunciation": "pay-ree-FRAHZ", "example": "« La Ville lumière » est une périphrase pour Paris.", "exampleEnglish": "\"The City of Light\" is a periphrasis for Paris.", "level": "C1", "category": "style" },
+            { "id": "anaphore", "french": "l'anaphore", "english": "anaphora, repetition at the start of clauses", "partOfSpeech": "noun", "gender": "f", "plural": "anaphores", "pronunciation": "ah-nah-FOR", "example": "L'anaphore de « jamais » martèle le discours.", "exampleEnglish": "The anaphora of \"never\" hammers the speech home.", "level": "C1", "category": "style" },
+            { "id": "la-gradation", "french": "la gradation", "english": "gradation, climactic build-up", "partOfSpeech": "noun", "gender": "f", "plural": "gradations", "pronunciation": "grah-dah-SYON", "example": "La gradation conduit du murmure au cri.", "exampleEnglish": "The gradation leads from a whisper to a shout.", "level": "C1", "category": "style" },
+            { "id": "le-chiasme", "french": "le chiasme", "english": "chiasmus (ABBA word order)", "partOfSpeech": "noun", "gender": "m", "plural": "chiasmes", "pronunciation": "kee-AHSM", "example": "Le chiasme donne à la phrase un équilibre de miroir.", "exampleEnglish": "The chiasmus gives the sentence a mirror-like balance.", "level": "C1", "category": "style" },
+            { "id": "l-antithese", "french": "l'antithèse", "english": "antithesis, opposition of two terms", "partOfSpeech": "noun", "gender": "f", "plural": "antithèses", "pronunciation": "ahn-tee-TEZ", "example": "L'antithèse ombre / lumière structure le poème.", "exampleEnglish": "The shadow / light antithesis structures the poem.", "level": "C1", "category": "style" },
+            { "id": "l-alliteration", "french": "l'allitération", "english": "alliteration", "partOfSpeech": "noun", "gender": "f", "plural": "allitérations", "pronunciation": "ah-lee-tay-rah-SYON", "example": "L'allitération en s imite le sifflement du vent.", "exampleEnglish": "The alliteration in s imitates the hiss of the wind.", "level": "C1", "category": "style" },
+            { "id": "l-assonance", "french": "l'assonance", "english": "assonance (repeated vowel sound)", "partOfSpeech": "noun", "gender": "f", "plural": "assonances", "pronunciation": "ah-so-NAHNS", "example": "Une assonance en ou adoucit tout le vers.", "exampleEnglish": "An assonance in ou softens the whole line.", "level": "C1", "category": "style" },
+            { "id": "le-pleonasme", "french": "le pléonasme", "english": "pleonasm, redundant repetition", "partOfSpeech": "noun", "gender": "m", "plural": "pléonasmes", "pronunciation": "play-o-NAHSM", "example": "« Monter en haut » est un pléonasme.", "exampleEnglish": "\"To go up upstairs\" is a pleonasm.", "level": "C1", "category": "style" },
+            { "id": "le-procede-stylistique", "french": "le procédé stylistique", "english": "stylistic device", "partOfSpeech": "noun", "gender": "m", "plural": "procédés stylistiques", "pronunciation": "pro-say-DAY stee-lees-TEEK", "example": "Ce procédé stylistique crée une impression de vertige.", "exampleEnglish": "This stylistic device creates a feeling of dizziness.", "level": "C1", "category": "style" },
+            { "id": "la-tournure", "french": "la tournure", "english": "turn of phrase", "partOfSpeech": "noun", "gender": "f", "plural": "tournures", "pronunciation": "toor-NUR", "example": "Cette tournure appartient au registre soutenu.", "exampleEnglish": "This turn of phrase belongs to the formal register.", "level": "C1", "category": "style" },
+            { "id": "l-emphase", "french": "l'emphase", "english": "emphasis, grandiloquence", "partOfSpeech": "noun", "gender": "f", "plural": "emphases", "pronunciation": "ahn-FAHZ", "example": "Il parle avec une emphase qui frôle le ridicule.", "exampleEnglish": "He speaks with an emphasis that borders on the ridiculous.", "level": "C1", "category": "style" },
+            { "id": "railler", "french": "railler", "english": "to mock, to jeer at", "partOfSpeech": "verb", "pronunciation": "rah-YAY", "example": "Le chroniqueur raille la solennité du discours.", "exampleEnglish": "The columnist mocks the solemnity of the speech.", "level": "C1", "category": "style" },
+            { "id": "tourner-en-derision", "french": "tourner en dérision", "english": "to ridicule, to hold up to mockery", "partOfSpeech": "expression", "pronunciation": "toor-NAY ahn day-ree-ZYON", "example": "Le texte tourne en dérision les grands mots des experts.", "exampleEnglish": "The text ridicules the experts' grand words.", "level": "C1", "category": "style" },
+            { "id": "exagerer", "french": "exagérer", "english": "to exaggerate, to overstate", "partOfSpeech": "verb", "pronunciation": "eg-zah-zhay-RAY", "example": "L'hyperbole exagère pour mieux frapper l'esprit.", "exampleEnglish": "Hyperbole exaggerates the better to strike the mind.", "level": "C1", "category": "style" },
+            { "id": "attenuer", "french": "atténuer", "english": "to soften, to tone down", "partOfSpeech": "verb", "pronunciation": "ah-tay-nu-AY", "example": "L'euphémisme atténue la brutalité du propos.", "exampleEnglish": "The euphemism tones down the brutality of the statement.", "level": "C1", "category": "style" },
+            { "id": "evoquer", "french": "évoquer", "english": "to evoke, to call to mind", "partOfSpeech": "verb", "pronunciation": "ay-vo-KAY", "example": "Cette image évoque la fuite du temps.", "exampleEnglish": "This image evokes the passing of time.", "level": "C1", "category": "style" },
+            { "id": "suggerer", "french": "suggérer", "english": "to suggest, to hint at", "partOfSpeech": "verb", "pronunciation": "sug-zhay-RAY", "example": "L'auteur ne démontre pas : il suggère.", "exampleEnglish": "The author does not demonstrate: he suggests.", "level": "C1", "category": "style" },
+            { "id": "assimiler", "french": "assimiler", "english": "to liken, to equate (à: to)", "partOfSpeech": "verb", "pronunciation": "ah-see-mee-LAY", "example": "La métaphore assimile la foule à un fleuve.", "exampleEnglish": "The metaphor likens the crowd to a river.", "level": "C1", "category": "style" },
+            { "id": "mordant", "french": "mordant", "english": "biting, cutting (tone)", "partOfSpeech": "adjective", "pronunciation": "mor-DAHN", "example": "Sa préface est d'une ironie mordante.", "exampleEnglish": "His preface has a biting irony.", "level": "C1", "category": "style" },
+            { "id": "cinglant", "french": "cinglant", "english": "scathing, stinging", "partOfSpeech": "adjective", "pronunciation": "san-GLAHN", "example": "La réplique fut cinglante et sans appel.", "exampleEnglish": "The retort was scathing and final.", "level": "C1", "category": "style" },
+            { "id": "acerbe", "french": "acerbe", "english": "acerbic, sharp (criticism)", "partOfSpeech": "adjective", "pronunciation": "ah-SEHRB", "example": "Une critique acerbe accueillit le roman.", "exampleEnglish": "An acerbic review greeted the novel.", "level": "C1", "category": "style" },
+            { "id": "saisissant", "french": "saisissant", "english": "striking, arresting", "partOfSpeech": "adjective", "pronunciation": "seh-zee-SAHN", "example": "Le contraste entre les deux portraits est saisissant.", "exampleEnglish": "The contrast between the two portraits is striking.", "level": "C1", "category": "style" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "The constructions figures are built on",
+              "body": "Most figures rest on a small number of grammatical moulds. Similes need an outil de comparaison; litotes need a double negation; emphasis needs a dislocation or a cleft. Learning the mould lets you produce the figure rather than merely recognise it.",
+              "examples": [
+                { "french": "Tel un vieil acteur, le maire salua la foule.", "english": "Like an old actor, the mayor greeted the crowd.", "note": "tel agrees with the noun that follows: tel un acteur, telle une reine" },
+                { "french": "On dirait une répétition générale.", "english": "It looks like a dress rehearsal.", "note": "on dirait + noun: the spoken simile" },
+                { "french": "Il n'est pas sans savoir que le dossier est vide.", "english": "He is well aware that the file is empty.", "note": "ne ... pas sans = a litotes of politeness" },
+                { "french": "Ce n'est pas tous les jours que l'on entend pareille franchise.", "english": "It is not every day that one hears such frankness.", "note": "cleft construction c'est ... que for emphasis" },
+                { "french": "Ce qui frappe, dans ce texte, c'est le silence des personnages.", "english": "What strikes you in this text is the silence of the characters.", "note": "ce qui ... c'est: the standard mise en relief" },
+                { "french": "Bavard, il l'était ; sincère, beaucoup moins.", "english": "Talkative he certainly was; sincere, far less so.", "note": "fronting the adjective creates an antithesis" }
+              ],
+              "tip": "In a commentaire composé, always name the mould and then its effect: « la mise en relief souligne l'isolement du personnage ». Naming alone earns no marks."
+            },
+            {
+              "heading": "Repetition as an instrument",
+              "body": "French rhetoric loves controlled repetition. The anaphore repeats the same word at the start of successive clauses; the gradation stacks terms of increasing intensity; the chiasme reverses the order of two paired elements to close a sentence on itself. All three are common in speeches, editorials and literary prose.",
+              "examples": [
+                { "french": "Rien ne bougeait, rien ne parlait, rien ne semblait vivre.", "english": "Nothing moved, nothing spoke, nothing seemed alive.", "note": "anaphore of rien" },
+                { "french": "Il fut surpris, puis inquiet, puis franchement terrifié.", "english": "He was surprised, then anxious, then frankly terrified.", "note": "gradation ascendante" },
+                { "french": "Il faut manger pour vivre et non vivre pour manger.", "english": "One must eat to live and not live to eat.", "note": "chiasme: manger-vivre / vivre-manger" },
+                { "french": "Un homme sans passé, un passé sans témoin.", "english": "A man without a past, a past without a witness.", "note": "chiasme built on two nouns" },
+                { "french": "Ni la loi, ni l'usage, ni la morale n'y changeront rien.", "english": "Neither the law, nor custom, nor morality will change anything about it.", "note": "the triple ni gives the sentence a rhetorical rhythm" }
+              ],
+              "tip": "French oratory favours the ternary rhythm — three parallel elements. Two feels unfinished, four feels like a list."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "c1_u02_l02_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. Which figure of speech is used?",
+              "french": "Ce n'est pas une mauvaise nouvelle, croyez-moi.",
+              "options": ["Une litote", "Une hyperbole", "Un oxymore", "Une anaphore"],
+              "answer": "Une litote"
+            },
+            {
+              "id": "c1_u02_l02_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. What does the speaker really mean?",
+              "french": "Bravo, tu as encore oublié les clés : quelle organisation !",
+              "options": [
+                "He is being ironic and criticising.",
+                "He is sincerely impressed.",
+                "He is asking a question.",
+                "He is apologising."
+              ],
+              "answer": "He is being ironic and criticising."
+            },
+            {
+              "id": "c1_u02_l02_li03",
+              "type": "listenChoose",
+              "prompt": "Listen. Which device structures this sentence?",
+              "french": "Rien ne bougeait, rien ne parlait, rien ne respirait.",
+              "options": ["L'anaphore", "Le chiasme", "L'euphémisme", "La métonymie"],
+              "answer": "L'anaphore"
+            },
+            {
+              "id": "c1_u02_l02_li04",
+              "type": "listenType",
+              "prompt": "Listen and write the sentence.",
+              "french": "Sa colère était une marée qui montait.",
+              "answer": "Sa colère était une marée qui montait.",
+              "acceptedAnswers": ["sa colere etait une maree qui montait", "Sa colère était une marée qui montait"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "c1_u02_l02_sp01",
+              "type": "speak",
+              "prompt": "Deliver this litotes with a discreet, confident tone.",
+              "french": "Votre proposition n'est pas dénuée d'intérêt.",
+              "english": "Your proposal is far from uninteresting.",
+              "tip": "Keep the voice flat on n'est pas dénuée and lift slightly on intérêt: understatement dies if you over-act it."
+            },
+            {
+              "id": "c1_u02_l02_sp02",
+              "type": "speak",
+              "prompt": "Say this ironically, then imagine saying it sincerely.",
+              "french": "Quelle brillante idée de partir sans carte !",
+              "english": "What a brilliant idea to leave without a map!",
+              "tip": "For irony, stress brillante and let the pitch fall at the end; sincerity would rise on idée."
+            },
+            {
+              "id": "c1_u02_l02_sp03",
+              "type": "speak",
+              "prompt": "Read this extended metaphor at a steady narrative pace.",
+              "french": "Il naviguait dans le dossier, sondait chaque page, redoutait les récifs.",
+              "english": "He was navigating the file, sounding each page, dreading the reefs.",
+              "tip": "Mark a short pause at each comma; the three verbs form a ternary rhythm that carries the image."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Portrait d'un homme raisonnable",
+              "french": "On disait de lui qu'il était un homme raisonnable, ce qui, dans notre ville, n'est pas un mince compliment.\nIl n'avait jamais pris de risque, jamais élevé la voix, jamais déçu personne : quelle existence exemplaire !\nSa maison était un coffre-fort : rien n'y entrait, rien n'en sortait, pas même un mot plus haut que l'autre.\nChaque matin, il pliait ses convictions avec ses chemises et les rangeait dans le même tiroir.\nSes voisins l'admiraient ; ils n'auraient su dire pourquoi, et lui non plus.\nQuand on lui demandait son avis, il répondait que la question méritait réflexion, et la réflexion durait des années.\n« Ce n'est pas faux », disait-il des idées qu'il jugeait absurdes : c'était sa manière de ne fâcher personne.\nUn jour, pourtant, la mer entra dans le coffre-fort.\nUne lettre, une seule, suffit à faire céder les cloisons.\nOn ne sut jamais qui l'avait écrite, ni ce qu'elle contenait exactement.\nIl devint distrait, puis silencieux, puis introuvable.\nSes collègues parlèrent d'un « repositionnement personnel » ; les journaux, d'une disparition.\nSa femme, elle, ne dit rien : elle avait toujours su que les coffres-forts finissent par rouiller.\nIl reparut au printemps, amaigri, souriant, léger comme un homme qui a tout perdu, y compris la peur.\nLa ville lui trouva mauvaise mine et bonne conscience.\nDepuis, on ne le dit plus raisonnable ; on dit seulement qu'il est enfin devenu lui-même.",
+              "english": "People said of him that he was a reasonable man, which, in our town, is no small compliment.\nHe had never taken a risk, never raised his voice, never disappointed anyone: what an exemplary life!\nHis house was a safe: nothing came in, nothing went out, not even a raised word.\nEvery morning he folded his convictions along with his shirts and put them away in the same drawer.\nHis neighbours admired him; they could not have said why, and neither could he.\nWhen his opinion was asked for, he replied that the question deserved thought, and the thinking lasted for years.\n\"That is not untrue,\" he would say of ideas he considered absurd: it was his way of never annoying anyone.\nOne day, however, the sea got into the safe.\nOne letter, a single one, was enough to make the walls give way.\nNobody ever knew who had written it, nor exactly what it contained.\nHe became absent-minded, then silent, then untraceable.\nHis colleagues spoke of a \"personal repositioning\"; the newspapers, of a disappearance.\nHis wife said nothing: she had always known that safes end up rusting.\nHe reappeared in spring, thinner, smiling, light as a man who has lost everything, including fear.\nThe town found him looking ill and feeling righteous.\nSince then, people no longer call him reasonable; they merely say he has at last become himself.",
+              "questions": [
+                {
+                  "id": "c1_u02_l02_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "« Ce n'est pas un mince compliment » is an example of:",
+                  "options": [
+                    "une litote (it means: it is high praise)",
+                    "une hyperbole (it means: the praise is excessive)",
+                    "un euphémisme (it means: it is an insult)",
+                    "une métonymie (the part stands for the whole)"
+                  ],
+                  "answer": "une litote (it means: it is high praise)"
+                },
+                {
+                  "id": "c1_u02_l02_rd02",
+                  "type": "multipleChoice",
+                  "prompt": "Why do the colleagues speak of « un repositionnement personnel »?",
+                  "options": [
+                    "It is a euphemism that avoids naming his disappearance.",
+                    "It is a metaphor comparing him to a machine.",
+                    "It is an anaphora repeated through the text.",
+                    "It is the technical term used by the newspapers."
+                  ],
+                  "answer": "It is a euphemism that avoids naming his disappearance."
+                },
+                {
+                  "id": "c1_u02_l02_rd03",
+                  "type": "trueFalse",
+                  "prompt": "The narrator's praise — « quelle existence exemplaire ! » — is meant literally.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "c1_u02_l02_wr01",
+              "type": "translate",
+              "prompt": "Translate into French, keeping the litotes.",
+              "english": "This film is not without qualities.",
+              "answer": "Ce film n'est pas sans qualités.",
+              "acceptedAnswers": ["ce film n'est pas sans qualites", "Ce film n'est pas sans qualités", "ce film n est pas sans qualites"]
+            },
+            {
+              "id": "c1_u02_l02_wr02",
+              "type": "fillBlank",
+              "prompt": "Name the figure: « une douce violence » est un ___ .",
+              "answer": "oxymore",
+              "acceptedAnswers": ["oxymore", "oxymoron"]
+            },
+            {
+              "id": "c1_u02_l02_wr03",
+              "type": "arrangeWords",
+              "prompt": "Rebuild this chiasmus.",
+              "words": ["il", "manger", "vivre", "faut", "pour", "et", "non", "vivre", "pour", "manger"],
+              "answer": "il faut manger pour vivre et non vivre pour manger",
+              "english": "One must eat to live and not live to eat."
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "c1_u02_l02_pr01",
+              "type": "match",
+              "prompt": "Match each sentence with its figure of speech.",
+              "pairs": [
+                { "french": "Paris s'éveille et bâille.", "english": "personification" },
+                { "french": "Il a mis des siècles à répondre.", "english": "hyperbole" },
+                { "french": "Elle n'est pas sans talent.", "english": "litotes" },
+                { "french": "Il nous a quittés en janvier.", "english": "euphemism" }
+              ]
+            },
+            {
+              "id": "c1_u02_l02_pr02",
+              "type": "multipleChoice",
+              "prompt": "Which sentence contains a simile rather than a metaphor?",
+              "options": [
+                "Son regard était froid comme une vitre.",
+                "Son regard était une vitre.",
+                "Une vitre de glace le séparait des autres.",
+                "Ses yeux vitrifiaient la pièce entière."
+              ],
+              "answer": "Son regard était froid comme une vitre."
+            },
+            {
+              "id": "c1_u02_l02_pr03",
+              "type": "fillBlank",
+              "prompt": "Complete the simile: Tel un ___ acteur, le maire salua la foule. (old)",
+              "answer": "vieil",
+              "acceptedAnswers": ["vieil"]
+            },
+            {
+              "id": "c1_u02_l02_pr04",
+              "type": "multipleChoice",
+              "prompt": "« Boire un verre » is an example of:",
+              "options": ["une métonymie", "une allégorie", "une gradation", "une assonance"],
+              "answer": "une métonymie"
+            },
+            {
+              "id": "c1_u02_l02_pr05",
+              "type": "trueFalse",
+              "prompt": "A litotes intensifies the meaning, whereas a euphemism softens it.",
+              "options": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "c1_u02_l02_pr06",
+              "type": "translate",
+              "prompt": "Translate into French, keeping the irony.",
+              "english": "Here is a reform that will disturb nobody.",
+              "answer": "Voilà une réforme qui ne dérangera personne.",
+              "acceptedAnswers": ["voila une reforme qui ne derangera personne", "Voilà une réforme qui ne dérangera personne"]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "c1_u02_l02_qz01",
+              "type": "multipleChoice",
+              "prompt": "What distinguishes a métaphore from a comparaison?",
+              "options": [
+                "The métaphore drops the comparison word (comme, tel).",
+                "The métaphore is always longer.",
+                "The comparaison is reserved for poetry.",
+                "The comparaison never names two terms."
+              ],
+              "answer": "The métaphore drops the comparison word (comme, tel)."
+            },
+            {
+              "id": "c1_u02_l02_qz02",
+              "type": "multipleChoice",
+              "prompt": "« Je ne vous cacherai pas ma déception » is:",
+              "options": ["une litote", "une hyperbole", "un pléonasme", "une allitération"],
+              "answer": "une litote"
+            },
+            {
+              "id": "c1_u02_l02_qz03",
+              "type": "fillBlank",
+              "prompt": "Name the figure: la répétition d'un même mot en tête de plusieurs phrases s'appelle une ___ .",
+              "answer": "anaphore",
+              "acceptedAnswers": ["anaphore", "anaphora"]
+            },
+            {
+              "id": "c1_u02_l02_qz04",
+              "type": "multipleChoice",
+              "prompt": "Which phrase is a euphemism?",
+              "options": [
+                "un ajustement des effectifs",
+                "un licenciement massif",
+                "une catastrophe sociale",
+                "une hécatombe économique"
+              ],
+              "answer": "un ajustement des effectifs"
+            },
+            {
+              "id": "c1_u02_l02_qz05",
+              "type": "multipleChoice",
+              "prompt": "« Il fut surpris, puis inquiet, puis franchement terrifié » illustrates:",
+              "options": ["une gradation", "un chiasme", "une métonymie", "une périphrase"],
+              "answer": "une gradation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1_u02_l03",
+      "level": "C1",
+      "unit": 2,
+      "title": "Lire entre les lignes",
+      "description": "Detect what a French text implies rather than states: presupposition, tone and the author's hidden stance.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Présupposé and sous-entendu",
+              "body": "French analysis distinguishes two kinds of implicit content. The présupposé is carried by the words themselves and survives negation: « Il a cessé de fumer » presupposes that he used to smoke, whether you deny the sentence or not. The sous-entendu depends on the situation and on what the speaker wants you to infer; it can always be disowned with « je n'ai jamais dit ça ».",
+              "examples": [
+                { "french": "Il a cessé de se plaindre.", "english": "He has stopped complaining.", "note": "présupposé: he used to complain" },
+                { "french": "Même Paul a compris.", "english": "Even Paul understood.", "note": "présupposé: Paul is not considered quick-witted" },
+                { "french": "Vous êtes venu, vous aussi ?", "english": "You came too?", "note": "sous-entendu: I did not expect you here" },
+                { "french": "Ce rapport a au moins le mérite d'exister.", "english": "This report at least has the merit of existing.", "note": "sous-entendu: it has no other merit" },
+                { "french": "Je constate que la réunion commence sans elle.", "english": "I note that the meeting is starting without her.", "note": "constater presupposes the fact and implies a reproach" },
+                { "french": "C'est vous qui avez rédigé cette note ?", "english": "You are the one who wrote this memo?", "note": "the cleft turns a question into an accusation" }
+              ],
+              "tip": "Test for a présupposé: negate the sentence. « Il n'a pas cessé de fumer » still presupposes that he smoked. If the implication survives, it is presupposed, not merely suggested."
+            },
+            {
+              "heading": "Modalisation: how the author colours the facts",
+              "body": "Modalisation is the set of traces the writer leaves of their own judgement: adverbs (certes, hélas, curieusement), modal verbs (devoir, pouvoir), the conditionnel of unverified information, quotation marks of distance, and above all the choice of reporting verbs. Two texts can carry identical facts and opposite stances.",
+              "examples": [
+                { "french": "Le ministre affirme que la réforme est prête.", "english": "The minister states that the reform is ready.", "note": "affirmer: neutral report" },
+                { "french": "Le ministre prétend que la réforme est prête.", "english": "The minister claims that the reform is ready.", "note": "prétendre: the journalist doubts it" },
+                { "french": "Le ministre reconnaît que la réforme est prête.", "english": "The minister concedes that the reform is ready.", "note": "reconnaître implies it was reluctantly admitted" },
+                { "french": "Le suspect aurait quitté le pays dans la nuit.", "english": "The suspect reportedly left the country during the night.", "note": "conditionnel journalistique: unverified" },
+                { "french": "Cette prétendue « concertation » n'a duré qu'une heure.", "english": "This so-called \"consultation\" lasted only an hour.", "note": "prétendue + quotation marks = double distance" },
+                { "french": "Curieusement, le rapport ne cite aucun chiffre.", "english": "Curiously, the report quotes no figures.", "note": "one adverb turns an observation into a suspicion" }
+              ],
+              "tip": "When you summarise a French text, keep its modalisation: writing « la réforme est prête » where the author wrote « prétend » already misrepresents the source."
+            },
+            {
+              "heading": "Where does the narrator stand?",
+              "body": "In fiction, focalisation tells you whose eyes you are looking through: zéro (an omniscient narrator who knows everything), interne (we are limited to one character's perceptions), externe (we see only behaviour, as through a camera). The discours indirect libre blends the narrator's voice with the character's thoughts without any introducing verb — the surest way to make a reader share a judgement without stating it.",
+              "examples": [
+                { "french": "Elle ignorait que l'homme la suivait depuis la gare.", "english": "She did not know that the man had been following her since the station.", "note": "focalisation zéro: the narrator knows more than the character" },
+                { "french": "Il lui sembla que la pièce avait rétréci.", "english": "It seemed to him that the room had shrunk.", "note": "focalisation interne: filtered through one consciousness" },
+                { "french": "L'homme posa son verre, se leva et sortit sans un mot.", "english": "The man put down his glass, got up and went out without a word.", "note": "focalisation externe: behaviour only, no thoughts" },
+                { "french": "Elle relut la lettre. Non, décidément, cet homme ne changerait jamais.", "english": "She reread the letter. No, this man really would never change.", "note": "discours indirect libre: her voice inside the narration" },
+                { "french": "Il accepta l'invitation. Après tout, que risquait-il ?", "english": "He accepted the invitation. After all, what was he risking?", "note": "the question belongs to the character, not the narrator" }
+              ],
+              "tip": "In a commentaire, do not confuse l'auteur with le narrateur. The narrator is a construction; the ironic distance between the two is often the whole point of the text."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "l-implicite", "french": "l'implicite", "english": "the implicit, what is not said outright", "partOfSpeech": "noun", "gender": "m", "plural": "implicites", "pronunciation": "an-plee-SEET", "example": "Tout le sens du texte se joue dans l'implicite.", "exampleEnglish": "The whole meaning of the text is played out in what is implied.", "level": "C1", "category": "reading" },
+            { "id": "explicite", "french": "explicite", "english": "explicit, stated openly", "partOfSpeech": "adjective", "pronunciation": "eks-plee-SEET", "example": "L'auteur reste allusif : rien n'est explicite.", "exampleEnglish": "The author remains allusive: nothing is explicit.", "level": "C1", "category": "reading" },
+            { "id": "le-sous-entendu", "french": "le sous-entendu", "english": "the innuendo, the implication", "partOfSpeech": "noun", "gender": "m", "plural": "sous-entendus", "pronunciation": "soo-zahn-tahn-DU", "example": "Sa réponse est pleine de sous-entendus.", "exampleEnglish": "His answer is full of innuendo.", "level": "C1", "category": "reading" },
+            { "id": "le-presuppose", "french": "le présupposé", "english": "the presupposition", "partOfSpeech": "noun", "gender": "m", "plural": "présupposés", "pronunciation": "pray-su-po-ZAY", "example": "La question repose sur un présupposé contestable.", "exampleEnglish": "The question rests on a debatable presupposition.", "level": "C1", "category": "reading" },
+            { "id": "le-non-dit", "french": "le non-dit", "english": "the unsaid", "partOfSpeech": "noun", "gender": "m", "plural": "non-dits", "pronunciation": "non-DEE", "example": "Le non-dit pèse plus lourd que les paroles.", "exampleEnglish": "What goes unsaid weighs more than the words.", "level": "C1", "category": "reading" },
+            { "id": "l-allusion", "french": "l'allusion", "english": "the allusion", "partOfSpeech": "noun", "gender": "f", "plural": "allusions", "pronunciation": "ah-lu-ZYON", "example": "L'allusion à la guerre n'est jamais formulée clairement.", "exampleEnglish": "The allusion to the war is never clearly spelled out.", "level": "C1", "category": "reading" },
+            { "id": "la-connotation", "french": "la connotation", "english": "the connotation", "partOfSpeech": "noun", "gender": "f", "plural": "connotations", "pronunciation": "ko-no-tah-SYON", "example": "Le mot « régime » a ici une connotation péjorative.", "exampleEnglish": "The word \"regime\" here has a pejorative connotation.", "level": "C1", "category": "reading" },
+            { "id": "la-denotation", "french": "la dénotation", "english": "the denotation, literal meaning", "partOfSpeech": "noun", "gender": "f", "plural": "dénotations", "pronunciation": "day-no-tah-SYON", "example": "La dénotation est neutre ; la connotation, jamais.", "exampleEnglish": "Denotation is neutral; connotation never is.", "level": "C1", "category": "reading" },
+            { "id": "le-ton", "french": "le ton", "english": "the tone", "partOfSpeech": "noun", "gender": "m", "plural": "tons", "pronunciation": "ton", "example": "Le ton du passage devient franchement polémique.", "exampleEnglish": "The tone of the passage becomes frankly polemical.", "level": "C1", "category": "reading" },
+            { "id": "la-modalisation", "french": "la modalisation", "english": "modalisation (marks of the writer's judgement)", "partOfSpeech": "noun", "gender": "f", "plural": "modalisations", "pronunciation": "mo-dah-lee-zah-SYON", "example": "La modalisation trahit le scepticisme du journaliste.", "exampleEnglish": "The modalisation betrays the journalist's scepticism.", "level": "C1", "category": "reading" },
+            { "id": "le-modalisateur", "french": "le modalisateur", "english": "modalising word (certes, hélas, sans doute)", "partOfSpeech": "noun", "gender": "m", "plural": "modalisateurs", "pronunciation": "mo-dah-lee-zah-TUHR", "example": "« Hélas » est un modalisateur d'opinion.", "exampleEnglish": "\"Alas\" is a modalising word expressing opinion.", "level": "C1", "category": "reading" },
+            { "id": "la-focalisation", "french": "la focalisation", "english": "focalisation, narrative point of view", "partOfSpeech": "noun", "gender": "f", "plural": "focalisations", "pronunciation": "fo-kah-lee-zah-SYON", "example": "La focalisation interne nous enferme dans sa conscience.", "exampleEnglish": "Internal focalisation locks us inside his consciousness.", "level": "C1", "category": "reading" },
+            { "id": "le-point-de-vue", "french": "le point de vue", "english": "the point of view", "partOfSpeech": "noun", "gender": "m", "plural": "points de vue", "pronunciation": "pwan duh VU", "example": "Le point de vue change au milieu du chapitre.", "exampleEnglish": "The point of view shifts in the middle of the chapter.", "level": "C1", "category": "reading" },
+            { "id": "le-discours-indirect-libre", "french": "le discours indirect libre", "english": "free indirect speech", "partOfSpeech": "noun", "gender": "m", "plural": "discours indirects libres", "pronunciation": "dees-KOOR an-dee-REKT LEEBR", "example": "Le discours indirect libre mêle la voix du narrateur et celle du personnage.", "exampleEnglish": "Free indirect speech blends the narrator's voice with the character's.", "level": "C1", "category": "reading" },
+            { "id": "l-enonciation", "french": "l'énonciation", "english": "enunciation, the act of speaking in a text", "partOfSpeech": "noun", "gender": "f", "plural": "énonciations", "pronunciation": "ay-non-syah-SYON", "example": "Les marques d'énonciation révèlent un locuteur engagé.", "exampleEnglish": "The marks of enunciation reveal a committed speaker.", "level": "C1", "category": "reading" },
+            { "id": "le-destinataire", "french": "le destinataire", "english": "the addressee, intended reader", "partOfSpeech": "noun", "gender": "m", "plural": "destinataires", "pronunciation": "des-tee-nah-TEHR", "example": "Le destinataire de ce pamphlet n'est pas le grand public.", "exampleEnglish": "The intended reader of this pamphlet is not the general public.", "level": "C1", "category": "reading" },
+            { "id": "le-lecteur", "french": "le lecteur", "english": "the reader", "partOfSpeech": "noun", "gender": "m", "plural": "lecteurs", "pronunciation": "lek-TUHR", "example": "L'auteur laisse au lecteur le soin de conclure.", "exampleEnglish": "The author leaves the reader to draw the conclusion.", "level": "C1", "category": "reading" },
+            { "id": "la-visee", "french": "la visée", "english": "the aim, the purpose (of a text)", "partOfSpeech": "noun", "gender": "f", "plural": "visées", "pronunciation": "vee-ZAY", "example": "La visée du texte est manifestement polémique.", "exampleEnglish": "The aim of the text is plainly polemical.", "level": "C1", "category": "reading" },
+            { "id": "le-parti-pris", "french": "le parti pris", "english": "bias, deliberate stance", "partOfSpeech": "noun", "gender": "m", "plural": "partis pris", "pronunciation": "par-tee PREE", "example": "L'article assume un parti pris qu'il ne cache pas.", "exampleEnglish": "The article takes a stance that it does not hide.", "level": "C1", "category": "reading" },
+            { "id": "la-prise-de-position", "french": "la prise de position", "english": "taking a stand", "partOfSpeech": "noun", "gender": "f", "plural": "prises de position", "pronunciation": "preez duh po-zee-SYON", "example": "Sa prise de position a surpris jusqu'à ses proches.", "exampleEnglish": "His taking a stand surprised even those close to him.", "level": "C1", "category": "reading" },
+            { "id": "l-arriere-pensee", "french": "l'arrière-pensée", "english": "ulterior motive, unspoken thought", "partOfSpeech": "noun", "gender": "f", "plural": "arrière-pensées", "pronunciation": "ah-ryehr-pahn-SAY", "example": "Il approuve sans arrière-pensée.", "exampleEnglish": "He approves without any ulterior motive.", "level": "C1", "category": "reading" },
+            { "id": "la-distance-critique", "french": "la distance critique", "english": "critical distance", "partOfSpeech": "noun", "gender": "f", "plural": "distances critiques", "pronunciation": "dees-TAHNS kree-TEEK", "example": "Les guillemets marquent une distance critique.", "exampleEnglish": "The quotation marks signal a critical distance.", "level": "C1", "category": "reading" },
+            { "id": "soi-disant", "french": "soi-disant", "english": "so-called, supposedly", "partOfSpeech": "adjective", "pronunciation": "swah-dee-ZAHN", "example": "Cette soi-disant neutralité ne trompe personne.", "exampleEnglish": "This so-called neutrality fools nobody.", "level": "C1", "category": "reading" },
+            { "id": "pretendument", "french": "prétendument", "english": "allegedly, supposedly", "partOfSpeech": "adverb", "pronunciation": "pray-tahn-du-MAHN", "example": "Un document prétendument confidentiel circule déjà.", "exampleEnglish": "An allegedly confidential document is already circulating.", "level": "C1", "category": "reading" },
+            { "id": "vraisemblablement", "french": "vraisemblablement", "english": "in all likelihood", "partOfSpeech": "adverb", "pronunciation": "vreh-sahn-blah-bluh-MAHN", "example": "L'auteur vise vraisemblablement un lectorat averti.", "exampleEnglish": "The author is in all likelihood aiming at an informed readership.", "level": "C1", "category": "reading" },
+            { "id": "sous-entendre", "french": "sous-entendre", "english": "to imply, to hint", "partOfSpeech": "verb", "pronunciation": "soo-zahn-TAHNDR", "example": "Que sous-entendez-vous exactement ?", "exampleEnglish": "What exactly are you implying?", "level": "C1", "category": "reading" },
+            { "id": "laisser-entendre", "french": "laisser entendre", "english": "to give to understand, to insinuate", "partOfSpeech": "expression", "pronunciation": "leh-say ahn-TAHNDR", "example": "Le communiqué laisse entendre que la décision est prise.", "exampleEnglish": "The statement gives to understand that the decision has been made.", "level": "C1", "category": "reading" },
+            { "id": "deceler", "french": "déceler", "english": "to detect, to pick up on", "partOfSpeech": "verb", "pronunciation": "day-suh-LAY", "example": "On décèle une pointe d'amertume dans ce paragraphe.", "exampleEnglish": "One detects a hint of bitterness in this paragraph.", "level": "C1", "category": "reading" },
+            { "id": "discerner", "french": "discerner", "english": "to discern, to make out", "partOfSpeech": "verb", "pronunciation": "dee-sehr-NAY", "example": "Il est difficile de discerner la thèse de l'auteur.", "exampleEnglish": "It is hard to discern the author's thesis.", "level": "C1", "category": "reading" },
+            { "id": "insinuer", "french": "insinuer", "english": "to insinuate", "partOfSpeech": "verb", "pronunciation": "an-see-nu-AY", "example": "Il insinue sans jamais accuser franchement.", "exampleEnglish": "He insinuates without ever accusing openly.", "level": "C1", "category": "reading" },
+            { "id": "pretendre", "french": "prétendre", "english": "to claim (often doubtfully)", "partOfSpeech": "verb", "pronunciation": "pray-TAHNDR", "example": "L'article prétend rapporter les faits sans les commenter.", "exampleEnglish": "The article claims to report the facts without commenting on them.", "level": "C1", "category": "reading" },
+            { "id": "marteler", "french": "marteler", "english": "to hammer home (a message)", "partOfSpeech": "verb", "pronunciation": "mar-tuh-LAY", "example": "L'éditorial martèle la même idée à chaque paragraphe.", "exampleEnglish": "The editorial hammers the same idea home in every paragraph.", "level": "C1", "category": "reading" },
+            { "id": "trahir", "french": "trahir", "english": "to betray, to give away (a feeling)", "partOfSpeech": "verb", "pronunciation": "trah-EER", "example": "Un seul adverbe trahit son agacement.", "exampleEnglish": "A single adverb gives away his irritation.", "level": "C1", "category": "reading" },
+            { "id": "ambigu", "french": "ambigu", "english": "ambiguous", "partOfSpeech": "adjective", "pronunciation": "ahn-bee-GU", "example": "La fin du roman reste volontairement ambiguë.", "exampleEnglish": "The end of the novel remains deliberately ambiguous.", "level": "C1", "category": "reading" },
+            { "id": "equivoque", "french": "équivoque", "english": "equivocal, open to two readings", "partOfSpeech": "adjective", "pronunciation": "ay-kee-VOK", "example": "Sa réponse équivoque n'engage à rien.", "exampleEnglish": "His equivocal answer commits him to nothing.", "level": "C1", "category": "reading" },
+            { "id": "desabuse", "french": "désabusé", "english": "disillusioned, world-weary", "partOfSpeech": "adjective", "pronunciation": "day-zah-bu-ZAY", "example": "Le narrateur adopte un ton désabusé.", "exampleEnglish": "The narrator adopts a disillusioned tone.", "level": "C1", "category": "reading" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Le discours indirect libre",
+              "body": "Free indirect speech keeps the tenses and pronouns of indirect speech (imparfait, conditionnel, third person) but drops the introducing verb and the subordinating que. The result is a sentence that is grammatically the narrator's and psychologically the character's. Watch for exclamations, questions and colloquial words inside an otherwise literary narration.",
+              "examples": [
+                { "french": "Direct : « Je ne reviendrai jamais ici », pensa-t-il.", "english": "Direct: \"I shall never come back here,\" he thought." },
+                { "french": "Indirect : Il pensa qu'il ne reviendrait jamais là.", "english": "Indirect: He thought that he would never come back there." },
+                { "french": "Indirect libre : Il regarda la maison une dernière fois. Il ne reviendrait jamais.", "english": "Free indirect: He looked at the house one last time. He would never come back.", "note": "no verb of thought, no que — but the voice is his" },
+                { "french": "Elle ouvrit l'enveloppe. Encore une facture ! Décidément, ce mois-ci ne finirait jamais.", "english": "She opened the envelope. Another bill! This month really was never going to end.", "note": "the exclamation and décidément belong to the character" },
+                { "french": "Il hésita. Fallait-il vraiment lui dire la vérité ?", "english": "He hesitated. Did he really have to tell her the truth?", "note": "a question with no quotation marks: the character's own" }
+              ],
+              "tip": "Two clues betray free indirect speech: a conditional where you expected a future, and an exclamation or question with no quotation marks and no verb of speech."
+            },
+            {
+              "heading": "Marking distance from what you report",
+              "body": "French offers a graded scale for reporting something you do not endorse: the conditionnel of unverified news, the adjectives prétendu and soi-disant, the adverb prétendument, quotation marks of distance and the verb prétendre. Each degree tells the reader how far the writer stands back.",
+              "examples": [
+                { "french": "Selon plusieurs sources, l'accord serait déjà signé.", "english": "According to several sources, the agreement is said to be already signed.", "note": "conditionnel: information not confirmed" },
+                { "french": "Le prétendu expert n'a publié aucun travail sur le sujet.", "english": "The so-called expert has published no work on the subject.", "note": "prétendu precedes the noun and denies the title" },
+                { "french": "On nous promet une « révolution » du secteur.", "english": "We are promised a \"revolution\" in the sector.", "note": "quotation marks alone convey the irony" },
+                { "french": "Il aurait, dit-on, refusé le poste.", "english": "He reportedly turned down the position.", "note": "dit-on adds a second layer of caution" },
+                { "french": "Loin de moi l'idée de contester ces chiffres.", "english": "Far be it from me to dispute these figures.", "note": "a formula that announces the contestation that follows" }
+              ],
+              "tip": "Never translate the conditionnel journalistique with a plain past in English: « le suspect aurait fui » is \"the suspect allegedly fled\", not \"the suspect fled\". The difference is legal as well as stylistic."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "c1_u02_l03_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What does the speaker presuppose?",
+              "french": "Il a cessé de répondre à mes messages.",
+              "options": [
+                "That he used to answer them",
+                "That he never answered them",
+                "That he lost his phone",
+                "That the messages were not sent"
+              ],
+              "answer": "That he used to answer them"
+            },
+            {
+              "id": "c1_u02_l03_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. What is the journalist signalling?",
+              "french": "Le suspect aurait quitté le pays dans la nuit.",
+              "options": [
+                "The information is not confirmed.",
+                "The information is officially confirmed.",
+                "The suspect is certainly innocent.",
+                "The event will happen tomorrow."
+              ],
+              "answer": "The information is not confirmed."
+            },
+            {
+              "id": "c1_u02_l03_li03",
+              "type": "listenChoose",
+              "prompt": "Listen. What attitude does the reporting verb convey?",
+              "french": "Le directeur prétend n'avoir jamais vu ce document.",
+              "options": [
+                "The speaker doubts the director.",
+                "The speaker fully believes the director.",
+                "The speaker is quoting a law.",
+                "The speaker is asking a question."
+              ],
+              "answer": "The speaker doubts the director."
+            },
+            {
+              "id": "c1_u02_l03_li04",
+              "type": "dictation",
+              "prompt": "Dictation: a sentence in free indirect speech.",
+              "french": "Elle referma le dossier. Non, décidément, cela ne tenait pas debout.",
+              "answer": "Elle referma le dossier. Non, décidément, cela ne tenait pas debout.",
+              "acceptedAnswers": ["elle referma le dossier non decidement cela ne tenait pas debout", "Elle referma le dossier Non décidément cela ne tenait pas debout"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "c1_u02_l03_sp01",
+              "type": "speak",
+              "prompt": "Report a claim while distancing yourself from it.",
+              "french": "Selon plusieurs sources, l'accord serait déjà signé.",
+              "english": "According to several sources, the agreement is said to be already signed.",
+              "tip": "Give serait a slight lift in pitch — that is where a French listener hears the caution."
+            },
+            {
+              "id": "c1_u02_l03_sp02",
+              "type": "speak",
+              "prompt": "Say this sentence so that the reproach is audible but unspoken.",
+              "french": "Je constate que la réunion a commencé sans nous.",
+              "english": "I note that the meeting started without us.",
+              "tip": "Keep the delivery flat and slow; the neutrality of constater is what makes the reproach sting."
+            },
+            {
+              "id": "c1_u02_l03_sp03",
+              "type": "speak",
+              "prompt": "Introduce a criticism politely before making it.",
+              "french": "Loin de moi l'idée de contester ces chiffres, mais leur source demeure obscure.",
+              "english": "Far be it from me to dispute these figures, but their source remains obscure.",
+              "tip": "Pause after chiffres; the whole rhetorical effect depends on that hinge before mais."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Un roman qui ne manque pas d'ambition",
+              "french": "Le nouveau roman de Clara Vasseur paraît cette semaine, précédé d'une rumeur flatteuse que son éditeur n'a pas jugé utile de démentir.\nLe livre, nous dit-on, aurait été écrit en trois mois ; on veut bien le croire.\nL'ambition, en tout cas, ne lui fait pas défaut : six cents pages, quatre générations, deux continents.\nOn y trouve de belles pages, notamment celles où l'autrice consent à décrire plutôt qu'à expliquer.\nLe chapitre de l'incendie n'est d'ailleurs pas indigne des meilleurs récits du genre.\nLe reste appelle quelques réserves, que la critique, unanime, s'est jusqu'ici abstenue de formuler.\nLes personnages secondaires, prétendument « inoubliables », ont la fâcheuse habitude de disparaître dès qu'ils cessent d'être utiles.\nQuant au narrateur, il sait tout, explique tout et, par précaution, le répète.\nOn aimerait qu'il fît parfois confiance à son lecteur.\nCe n'est pas que le style manque de qualités : il en a, et il tient à ce qu'on le sache.\nChaque métaphore semble réclamer son salaire ; aucune ne travaille en silence.\nL'ouvrage a déjà été salué comme « le grand roman de notre décennie », formule dont on remarquera qu'elle n'engage que ceux qui la reçoivent.\nIl se vendra, vraisemblablement, fort bien.\nFaut-il pour autant le déconseiller ? Certainement pas.\nOn le lira avec plaisir, en sautant quelques pages, comme on lit les romans qui ont eu la chance de plaire avant d'être lus.\nEt l'on attendra le suivant, sans impatience excessive.",
+              "english": "Clara Vasseur's new novel comes out this week, preceded by a flattering rumour that her publisher has not seen fit to deny.\nThe book, we are told, was reportedly written in three months; we are quite willing to believe it.\nAmbition, at any rate, is not lacking: six hundred pages, four generations, two continents.\nThere are fine pages in it, notably those where the author consents to describe rather than to explain.\nThe chapter of the fire is, incidentally, not unworthy of the best narratives of the genre.\nThe rest calls for a few reservations, which the critics, unanimous, have so far refrained from voicing.\nThe secondary characters, allegedly \"unforgettable\", have the unfortunate habit of vanishing as soon as they stop being useful.\nAs for the narrator, he knows everything, explains everything and, as a precaution, repeats it.\nOne would like him to trust his reader now and then.\nIt is not that the style lacks qualities: it has them, and it insists that you know it.\nEvery metaphor seems to be demanding its wages; not one of them works in silence.\nThe book has already been hailed as \"the great novel of our decade\", a formula which, one may note, commits only those who accept it.\nIt will, in all likelihood, sell very well.\nShould one therefore advise against it? Certainly not.\nIt will be read with pleasure, skipping a few pages, the way one reads novels that have had the luck to please before being read.\nAnd we shall await the next one, without excessive impatience.",
+              "questions": [
+                {
+                  "id": "c1_u02_l03_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "What is the reviewer's real judgement of the novel?",
+                  "options": [
+                    "Largely negative, delivered through irony and understatement",
+                    "Enthusiastically favourable",
+                    "Strictly factual, with no judgement at all",
+                    "Openly insulting and aggressive"
+                  ],
+                  "answer": "Largely negative, delivered through irony and understatement"
+                },
+                {
+                  "id": "c1_u02_l03_rd02",
+                  "type": "multipleChoice",
+                  "prompt": "« Le livre aurait été écrit en trois mois ; on veut bien le croire » implies that:",
+                  "options": [
+                    "the reviewer thinks the book shows signs of haste",
+                    "the reviewer admires the author's speed",
+                    "the reviewer doubts the book was ever published",
+                    "the reviewer is praising the publisher's efficiency"
+                  ],
+                  "answer": "the reviewer thinks the book shows signs of haste"
+                },
+                {
+                  "id": "c1_u02_l03_rd03",
+                  "type": "trueFalse",
+                  "prompt": "« Le chapitre de l'incendie n'est pas indigne des meilleurs récits du genre » is a litotes that praises that chapter.",
+                  "options": ["True", "False"],
+                  "answer": "True"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "c1_u02_l03_wr01",
+              "type": "translate",
+              "prompt": "Translate into French, keeping the unverified status of the information.",
+              "english": "According to the press, the minister allegedly knew everything.",
+              "answer": "Selon la presse, le ministre aurait tout su.",
+              "acceptedAnswers": ["selon la presse le ministre aurait tout su", "Selon la presse, le ministre aurait tout su", "d'après la presse, le ministre aurait tout su"]
+            },
+            {
+              "id": "c1_u02_l03_wr02",
+              "type": "fillBlank",
+              "prompt": "Add the mark of distance: Cette ___ neutralité ne trompe personne. (so-called)",
+              "answer": "soi-disant",
+              "acceptedAnswers": ["soi-disant", "soi disant", "prétendue", "pretendue"]
+            },
+            {
+              "id": "c1_u02_l03_wr03",
+              "type": "arrangeWords",
+              "prompt": "Rebuild this sentence of implied criticism.",
+              "words": ["le", "communiqué", "que", "laisse", "est", "entendre", "la", "décision", "prise"],
+              "answer": "le communiqué laisse entendre que la décision est prise",
+              "english": "The statement gives to understand that the decision has been made."
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "c1_u02_l03_pr01",
+              "type": "multipleChoice",
+              "prompt": "« Même Paul a compris » presupposes that:",
+              "options": [
+                "Paul is not considered quick to understand",
+                "Paul was the only one present",
+                "Paul explained it to the others",
+                "Nobody understood"
+              ],
+              "answer": "Paul is not considered quick to understand"
+            },
+            {
+              "id": "c1_u02_l03_pr02",
+              "type": "match",
+              "prompt": "Match each reporting verb with the attitude it conveys.",
+              "pairs": [
+                { "french": "affirmer", "english": "neutral report" },
+                { "french": "prétendre", "english": "the writer doubts the claim" },
+                { "french": "reconnaître", "english": "a reluctant admission" },
+                { "french": "marteler", "english": "insistent repetition" }
+              ]
+            },
+            {
+              "id": "c1_u02_l03_pr03",
+              "type": "fillBlank",
+              "prompt": "Free indirect speech: Il regarda la maison une dernière fois. Il ne ___ jamais. (revenir, conditionnel)",
+              "answer": "reviendrait",
+              "acceptedAnswers": ["reviendrait"]
+            },
+            {
+              "id": "c1_u02_l03_pr04",
+              "type": "multipleChoice",
+              "prompt": "Which sentence uses focalisation externe?",
+              "options": [
+                "L'homme posa son verre et sortit sans un mot.",
+                "Il lui sembla que la pièce avait rétréci.",
+                "Elle ignorait que l'homme la suivait.",
+                "Il pensait à sa mère depuis le matin."
+              ],
+              "answer": "L'homme posa son verre et sortit sans un mot."
+            },
+            {
+              "id": "c1_u02_l03_pr05",
+              "type": "trueFalse",
+              "prompt": "A présupposé survives the negation of the sentence; a sous-entendu can be denied by the speaker.",
+              "options": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "c1_u02_l03_pr06",
+              "type": "translate",
+              "prompt": "Translate into French, keeping the polite understatement.",
+              "english": "This report at least has the merit of existing.",
+              "answer": "Ce rapport a au moins le mérite d'exister.",
+              "acceptedAnswers": ["ce rapport a au moins le merite d'exister", "Ce rapport a au moins le mérite d'exister", "ce rapport a au moins le merite d exister"]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "c1_u02_l03_qz01",
+              "type": "multipleChoice",
+              "prompt": "Which element belongs to la modalisation?",
+              "options": [
+                "L'adverbe « curieusement »",
+                "Le pronom « il »",
+                "L'article « le »",
+                "La préposition « de »"
+              ],
+              "answer": "L'adverbe « curieusement »"
+            },
+            {
+              "id": "c1_u02_l03_qz02",
+              "type": "multipleChoice",
+              "prompt": "« Le suspect aurait fui à l'étranger » should be understood as:",
+              "options": [
+                "The suspect allegedly fled abroad.",
+                "The suspect definitely fled abroad.",
+                "The suspect will flee abroad.",
+                "The suspect wanted to flee abroad."
+              ],
+              "answer": "The suspect allegedly fled abroad."
+            },
+            {
+              "id": "c1_u02_l03_qz03",
+              "type": "fillBlank",
+              "prompt": "Complete: quand le narrateur ne rapporte que les gestes et les paroles visibles, on parle de focalisation ___ .",
+              "answer": "externe",
+              "acceptedAnswers": ["externe"]
+            },
+            {
+              "id": "c1_u02_l03_qz04",
+              "type": "multipleChoice",
+              "prompt": "Which sentence is written in discours indirect libre?",
+              "options": [
+                "Elle relut la lettre. Non, cet homme ne changerait jamais.",
+                "Elle relut la lettre et pensa qu'il ne changerait jamais.",
+                "« Il ne changera jamais », pensa-t-elle en relisant la lettre.",
+                "Elle relut la lettre sans faire de commentaire."
+              ],
+              "answer": "Elle relut la lettre. Non, cet homme ne changerait jamais."
+            },
+            {
+              "id": "c1_u02_l03_qz05",
+              "type": "multipleChoice",
+              "prompt": "In the review, « Le reste appelle quelques réserves » is best described as:",
+              "options": [
+                "a euphemism for a severe criticism",
+                "a neutral technical remark",
+                "an enthusiastic recommendation",
+                "a presupposition about the publisher"
+              ],
+              "answer": "a euphemism for a severe criticism"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

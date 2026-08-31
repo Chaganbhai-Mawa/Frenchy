@@ -1,0 +1,1048 @@
+{
+  "id": "c1_u27",
+  "level": "C1",
+  "unit": 27,
+  "title": "Syntax Mastery",
+  "subtitle": "Build and control complex subordinate clauses, reorder a sentence for emphasis, and keep a long sentence clear from first word to last",
+  "icon": "🧱",
+  "lessons": [
+    {
+      "id": "c1_u27_l01",
+      "level": "C1",
+      "unit": 27,
+      "title": "Les subordonnées complexes",
+      "description": "Master the full architecture of French subordinate clauses — completive, relative, and adverbial — including mood selection and tense agreement.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "L'architecture de la phrase complexe",
+              "body": "A complex French sentence is built by subordinating one or more clauses to a governing main clause: each subordinate clause depends grammatically on the clause that hosts it, and several can be embedded inside one another. Nothing about this architecture is optional decoration — it is how French packs a chain of reasoning, a qualification, and a circumstance into a single, controlled sentence rather than a string of short ones.",
+              "examples": [
+                { "french": "Bien que la thèse soit séduisante, elle repose sur des prémisses qu'aucun chercheur sérieux n'accepterait sans réserve.", "english": "Although the thesis is appealing, it rests on premises that no serious researcher would accept without reservation." },
+                { "french": "Le rapport affirme que la réforme, dont on avait pourtant vanté les mérites, n'a produit aucun effet mesurable.", "english": "The report states that the reform, whose merits had nonetheless been praised, produced no measurable effect." },
+                { "french": "Quand bien même les résultats confirmeraient l'hypothèse, il faudrait encore expliquer pourquoi elle avait été si longtemps négligée.", "english": "Even if the results were to confirm the hypothesis, one would still have to explain why it had been neglected for so long." },
+                { "french": "Une phrase peut enchâsser plusieurs subordonnées les unes dans les autres, à condition que chacune reste identifiable.", "english": "A sentence can embed several subordinate clauses within one another, provided that each remains identifiable." }
+              ],
+              "tip": "If you lose the thread of a long sentence, read it backward from the final full stop to the first subject, locating each verb and its own subject one clause at a time — that restores the architecture faster than rereading from the start."
+            },
+            {
+              "heading": "Trois familles de subordonnées : complétive, relative, circonstancielle",
+              "body": "Every French subordinate clause belongs to one of three families, and telling them apart is the first diagnostic step before worrying about mood or tense. The completive clause completes a verb's meaning; the relative clause qualifies a noun already present in the sentence; the adverbial clause specifies a circumstance — cause, purpose, condition, time, concession — surrounding the main action.",
+              "examples": [
+                { "french": "La complétive introduite par « que » complète un verbe comme « penser », « vouloir » ou « regretter ».", "english": "The noun clause introduced by 'que' completes a verb such as 'penser', 'vouloir' or 'regretter'." },
+                { "french": "La relative, introduite par « qui », « que », « dont » ou « où », qualifie un nom déjà présent dans la phrase.", "english": "The relative clause, introduced by 'qui', 'que', 'dont' or 'où', qualifies a noun already present in the sentence." },
+                { "french": "La circonstancielle précise les circonstances de l'action : la cause, le but, la condition, le temps ou la concession.", "english": "The adverbial clause specifies the circumstances of the action: cause, purpose, condition, time or concession." },
+                { "french": "Une même phrase combine souvent les trois familles sans que le lecteur en ait conscience.", "english": "A single sentence often combines all three families without the reader being aware of it." }
+              ],
+              "tip": "Identify the family before worrying about the mood: a completive after a verb of opinion behaves completely differently from a relative clause that happens to share the same conjunction 'que'."
+            },
+            {
+              "heading": "Choisir le mode : indicatif ou subjonctif dans la subordonnée",
+              "body": "The mood of a French subordinate clause is rarely a matter of taste: it is dictated by what the governing verb or conjunction is doing. A verb or conjunction that asserts a fact takes the indicative; one that expresses will, doubt, judgement, or emotion about a fact takes the subjunctive. The sequence of tenses then aligns the subordinate clause's tense with the main clause's, especially in careful written French.",
+              "examples": [
+                { "french": "Après un verbe d'opinion à la forme affirmative, comme « je pense que », l'indicatif s'impose.", "english": "After a verb of opinion in the affirmative, like 'je pense que', the indicative is required." },
+                { "french": "Après un verbe de volonté, de doute ou de sentiment, comme « je doute que » ou « je regrette que », le subjonctif s'impose.", "english": "After a verb of will, doubt or emotion, like 'je doute que' or 'je regrette que', the subjunctive is required." },
+                { "french": "La concordance des temps aligne le temps de la subordonnée sur celui de la principale, surtout à l'écrit soigné.", "english": "The sequence of tenses aligns the tense of the subordinate clause with that of the main clause, especially in careful writing." },
+                { "french": "Nier le verbe principal suffit parfois à faire basculer l'indicatif vers le subjonctif dans la complétive.", "english": "Negating the main verb is sometimes enough to tip the completive clause from the indicative into the subjunctive." }
+              ],
+              "tip": "When in doubt about the mood, isolate the governing verb alone and ask whether it asserts a fact (indicative) or expresses a wish, doubt, judgement, or emotion about a fact (subjunctive) — the conjunction rarely decides the mood on its own."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "la-proposition-subordonnee", "french": "la proposition subordonnée", "english": "the subordinate clause", "partOfSpeech": "noun", "gender": "f", "plural": "les propositions subordonnées", "pronunciation": "proh-poh-zee-SYOHN su-bor-doh-NAY", "example": "Une proposition subordonnée ne peut se passer de la principale dont elle dépend.", "exampleEnglish": "A subordinate clause cannot do without the main clause it depends on.", "level": "C1", "category": "complex-clauses" },
+            { "id": "la-proposition-principale", "french": "la proposition principale", "english": "the main clause", "partOfSpeech": "noun", "gender": "f", "plural": "les propositions principales", "pronunciation": "proh-poh-zee-SYOHN pran-see-PAL", "example": "Le temps de la proposition principale commande souvent celui de la subordonnée.", "exampleEnglish": "The tense of the main clause often governs that of the subordinate clause.", "level": "C1", "category": "complex-clauses" },
+            { "id": "la-completive", "french": "la complétive", "english": "the noun clause (introduced by « que »)", "partOfSpeech": "noun", "gender": "f", "plural": "les complétives", "pronunciation": "kohn-play-TEEV", "example": "La complétive répond à la question « quoi ? » posée au verbe principal.", "exampleEnglish": "The noun clause answers the question 'what?' asked of the main verb.", "level": "C1", "category": "complex-clauses" },
+            { "id": "la-relative", "french": "la relative", "english": "the relative clause", "partOfSpeech": "noun", "gender": "f", "plural": "les relatives", "pronunciation": "lah ruh-lah-TEEV", "example": "La relative apporte une précision sur un nom déjà énoncé.", "exampleEnglish": "The relative clause adds detail about a noun already mentioned.", "level": "C1", "category": "complex-clauses" },
+            { "id": "la-circonstancielle", "french": "la circonstancielle", "english": "the adverbial clause", "partOfSpeech": "noun", "gender": "f", "plural": "les circonstancielles", "pronunciation": "lah seer-kon-stahn-SYEL", "example": "La circonstancielle de cause répond à la question « pourquoi ? »", "exampleEnglish": "The adverbial clause of cause answers the question 'why?'", "level": "C1", "category": "complex-clauses" },
+            { "id": "la-conjonctive", "french": "la conjonctive", "english": "the clause introduced by a subordinating conjunction", "partOfSpeech": "noun", "gender": "f", "plural": "les conjonctives", "pronunciation": "lah kon-zhonk-TEEV", "example": "La conjonctive se distingue de la relative par l'absence d'antécédent direct.", "exampleEnglish": "The conjunctive clause differs from the relative in having no direct antecedent.", "level": "C1", "category": "complex-clauses" },
+            { "id": "la-conjonction-de-subordination", "french": "la conjonction de subordination", "english": "the subordinating conjunction", "partOfSpeech": "noun", "gender": "f", "plural": "les conjonctions de subordination", "pronunciation": "kon-zhonk-SYON duh su-bor-dee-nah-SYON", "example": "« Bien que », « puisque » et « quoique » sont des conjonctions de subordination.", "exampleEnglish": "'Bien que', 'puisque' and 'quoique' are subordinating conjunctions.", "level": "C1", "category": "complex-clauses" },
+            { "id": "subordonner", "french": "subordonner", "english": "to subordinate (one clause to another)", "partOfSpeech": "verb", "pronunciation": "su-bor-doh-NAY", "example": "Subordonner une idée secondaire évite de lui donner un poids qu'elle n'a pas.", "exampleEnglish": "Subordinating a secondary idea avoids giving it more weight than it deserves.", "level": "C1", "category": "complex-clauses" },
+            { "id": "la-subordination", "french": "la subordination", "english": "subordination (of one clause to another)", "partOfSpeech": "noun", "gender": "f", "pronunciation": "su-bor-dee-nah-SYOHN", "example": "La subordination organise la hiérarchie entre les idées d'une phrase.", "exampleEnglish": "Subordination organises the hierarchy between the ideas in a sentence.", "level": "C1", "category": "complex-clauses" },
+            { "id": "l-enchassement", "french": "l'enchâssement", "english": "the embedding (of one clause inside another)", "partOfSpeech": "noun", "gender": "m", "pronunciation": "lahn-shah-SMAHN", "example": "L'enchâssement de plusieurs relatives finit par nuire à la clarté.", "exampleEnglish": "The embedding of several relative clauses ends up harming clarity.", "level": "C1", "category": "complex-clauses" },
+            { "id": "enchasser", "french": "enchâsser", "english": "to embed, to nest (a clause inside another)", "partOfSpeech": "verb", "pronunciation": "ahn-shah-SAY", "example": "On peut enchâsser une relative dans une complétive sans rendre la phrase illisible.", "exampleEnglish": "You can embed a relative clause inside a noun clause without making the sentence unreadable.", "level": "C1", "category": "complex-clauses" },
+            { "id": "la-concordance-des-temps", "french": "la concordance des temps", "english": "the sequence of tenses", "partOfSpeech": "noun", "gender": "f", "pronunciation": "kohn-kor-DAHNS day TAHN", "example": "La concordance des temps aligne le temps de la subordonnée sur celui de la principale.", "exampleEnglish": "The sequence of tenses aligns the tense of the subordinate clause with that of the main clause.", "level": "C1", "category": "complex-clauses" },
+            { "id": "l-indicatif", "french": "l'indicatif", "english": "the indicative (mood)", "partOfSpeech": "noun", "gender": "m", "pronunciation": "an-dee-kah-TEEF", "example": "Après « je pense que », on emploie l'indicatif, pas le subjonctif.", "exampleEnglish": "After 'je pense que', the indicative is used, not the subjunctive.", "level": "C1", "category": "complex-clauses" },
+            { "id": "le-subjonctif", "french": "le subjonctif", "english": "the subjunctive (mood)", "partOfSpeech": "noun", "gender": "m", "pronunciation": "sub-zhohnk-TEEF", "example": "Le subjonctif s'impose après un verbe qui exprime le doute ou l'émotion.", "exampleEnglish": "The subjunctive is required after a verb expressing doubt or emotion.", "level": "C1", "category": "complex-clauses" },
+            { "id": "la-subordonnee-de-cause", "french": "la subordonnée de cause", "english": "the clause of cause", "partOfSpeech": "noun", "gender": "f", "plural": "les subordonnées de cause", "pronunciation": "su-bor-doh-NAY duh KOHZ", "example": "La subordonnée de cause explique pourquoi l'action a eu lieu.", "exampleEnglish": "The clause of cause explains why the action took place.", "level": "C1", "category": "complex-clauses" },
+            { "id": "la-subordonnee-de-consequence", "french": "la subordonnée de conséquence", "english": "the clause of consequence", "partOfSpeech": "noun", "gender": "f", "plural": "les subordonnées de conséquence", "pronunciation": "su-bor-doh-NAY duh kon-say-KAHNS", "example": "La subordonnée de conséquence indique le résultat produit par l'action principale.", "exampleEnglish": "The clause of consequence indicates the result produced by the main action.", "level": "C1", "category": "complex-clauses" },
+            { "id": "la-subordonnee-de-but", "french": "la subordonnée de but", "english": "the clause of purpose", "partOfSpeech": "noun", "gender": "f", "plural": "les subordonnées de but", "pronunciation": "su-bor-doh-NAY duh BU", "example": "La subordonnée de but répond à la question « dans quel objectif ? »", "exampleEnglish": "The clause of purpose answers the question 'to what end?'", "level": "C1", "category": "complex-clauses" },
+            { "id": "la-subordonnee-de-condition", "french": "la subordonnée de condition", "english": "the clause of condition", "partOfSpeech": "noun", "gender": "f", "plural": "les subordonnées de condition", "pronunciation": "su-bor-doh-NAY duh kon-dee-SYON", "example": "La subordonnée de condition pose l'hypothèse sans laquelle rien ne se produirait.", "exampleEnglish": "The clause of condition sets out the hypothesis without which nothing would happen.", "level": "C1", "category": "complex-clauses" },
+            { "id": "la-subordonnee-de-concession", "french": "la subordonnée de concession", "english": "the concessive clause", "partOfSpeech": "noun", "gender": "f", "plural": "les subordonnées de concession", "pronunciation": "su-bor-doh-NAY duh kon-seh-SYON", "example": "La subordonnée de concession admet un obstacle avant de le neutraliser.", "exampleEnglish": "The concessive clause admits an obstacle before neutralising it.", "level": "C1", "category": "complex-clauses" },
+            { "id": "la-subordonnee-de-temps", "french": "la subordonnée de temps", "english": "the temporal clause", "partOfSpeech": "noun", "gender": "f", "plural": "les subordonnées de temps", "pronunciation": "su-bor-doh-NAY duh TAHN", "example": "La subordonnée de temps situe l'action principale dans une chronologie précise.", "exampleEnglish": "The temporal clause situates the main action within a precise chronology.", "level": "C1", "category": "complex-clauses" },
+            { "id": "la-subordonnee-de-comparaison", "french": "la subordonnée de comparaison", "english": "the clause of comparison", "partOfSpeech": "noun", "gender": "f", "plural": "les subordonnées de comparaison", "pronunciation": "su-bor-doh-NAY duh kom-pah-reh-ZON", "example": "La subordonnée de comparaison mesure une action à l'aune d'une autre.", "exampleEnglish": "The clause of comparison measures one action against another.", "level": "C1", "category": "complex-clauses" },
+            { "id": "bien-que", "french": "bien que", "english": "although (+ subjunctive)", "partOfSpeech": "conjunction", "pronunciation": "byan kuh", "example": "Bien que la thèse soit séduisante, elle repose sur des prémisses fragiles.", "exampleEnglish": "Although the thesis is appealing, it rests on fragile premises.", "level": "C1", "category": "complex-clauses" },
+            { "id": "quoique", "french": "quoique", "english": "although, though (+ subjunctive)", "partOfSpeech": "conjunction", "pronunciation": "KWAH-kuh", "example": "Quoique le raisonnement paraisse solide, il néglige un facteur essentiel.", "exampleEnglish": "Although the reasoning seems solid, it neglects an essential factor.", "level": "C1", "category": "complex-clauses" },
+            { "id": "encore-que", "french": "encore que", "english": "although, granted that (+ subjunctive, literary nuance)", "partOfSpeech": "conjunction", "pronunciation": "ahn-kor kuh", "example": "L'expérience fut concluante, encore que les conditions restent à préciser.", "exampleEnglish": "The experiment was conclusive, although the conditions still need to be specified.", "level": "C1", "category": "complex-clauses" },
+            { "id": "de-sorte-que", "french": "de sorte que", "english": "so that, with the result that", "partOfSpeech": "conjunction", "pronunciation": "duh sort kuh", "example": "Le protocole fut modifié en cours de route, de sorte que les deux groupes ne sont plus comparables.", "exampleEnglish": "The protocol was altered midway, with the result that the two groups are no longer comparable.", "level": "C1", "category": "complex-clauses" },
+            { "id": "si-bien-que", "french": "si bien que", "english": "so that, as a result", "partOfSpeech": "conjunction", "pronunciation": "see byan kuh", "example": "L'échantillon s'est réduit d'année en année, si bien que les conclusions restent fragiles.", "exampleEnglish": "The sample shrank year after year, so that the conclusions remain fragile.", "level": "C1", "category": "complex-clauses" },
+            { "id": "au-point-que", "french": "au point que", "english": "to the point that", "partOfSpeech": "conjunction", "pronunciation": "oh pwan kuh", "example": "Le débat s'est envenimé, au point que deux membres ont quitté la séance.", "exampleEnglish": "The debate turned bitter, to the point that two members left the session.", "level": "C1", "category": "complex-clauses" },
+            { "id": "a-condition-que", "french": "à condition que", "english": "provided that (+ subjunctive)", "partOfSpeech": "conjunction", "pronunciation": "ah kohn-dee-SYOHN kuh", "example": "Le comité validera le projet à condition que le budget soit révisé.", "exampleEnglish": "The committee will approve the project provided that the budget is revised.", "level": "C1", "category": "complex-clauses" },
+            { "id": "pourvu-que", "french": "pourvu que", "english": "provided that (+ subjunctive)", "partOfSpeech": "conjunction", "pronunciation": "poor-VU kuh", "example": "Le résultat sera publié, pourvu qu'il résiste à une seconde vérification.", "exampleEnglish": "The result will be published, provided it withstands a second check.", "level": "C1", "category": "complex-clauses" },
+            { "id": "a-moins-que", "french": "à moins que", "english": "unless (+ subjunctive)", "partOfSpeech": "conjunction", "pronunciation": "ah mwan kuh", "example": "La réforme entrera en vigueur, à moins qu'un recours ne la suspende.", "exampleEnglish": "The reform will take effect, unless an appeal suspends it.", "level": "C1", "category": "complex-clauses" },
+            { "id": "avant-que", "french": "avant que", "english": "before (+ subjunctive)", "partOfSpeech": "conjunction", "pronunciation": "ah-vahn kuh", "example": "Il convient de relire le contrat avant qu'il ne soit signé.", "exampleEnglish": "It is advisable to reread the contract before it is signed.", "level": "C1", "category": "complex-clauses" },
+            { "id": "apres-que", "french": "après que", "english": "after (+ indicative)", "partOfSpeech": "conjunction", "pronunciation": "ah-preh kuh", "example": "Le communiqué fut publié après que la décision eut été confirmée.", "exampleEnglish": "The statement was published after the decision had been confirmed.", "level": "C1", "category": "complex-clauses" },
+            { "id": "tant-que", "french": "tant que", "english": "as long as, for as long as", "partOfSpeech": "conjunction", "pronunciation": "tahn kuh", "example": "Le débat restera ouvert tant qu'aucune preuve définitive n'aura été apportée.", "exampleEnglish": "The debate will remain open for as long as no definitive proof has been provided.", "level": "C1", "category": "complex-clauses" },
+            { "id": "alors-que", "french": "alors que", "english": "whereas, while", "partOfSpeech": "conjunction", "pronunciation": "ah-lor kuh", "example": "Le premier rapport concluait à un échec, alors que le second y voyait une réussite partielle.", "exampleEnglish": "The first report concluded it was a failure, whereas the second saw a partial success in it.", "level": "C1", "category": "complex-clauses" },
+            { "id": "puisque", "french": "puisque", "english": "since (cause known or assumed to be shared)", "partOfSpeech": "conjunction", "pronunciation": "PWEESS-kuh", "example": "Puisque les chiffres sont désormais publics, toute contestation devient difficile.", "exampleEnglish": "Since the figures are now public, any challenge becomes difficult.", "level": "C1", "category": "complex-clauses" },
+            { "id": "etant-donne-que", "french": "étant donné que", "english": "given that", "partOfSpeech": "conjunction", "pronunciation": "ay-tahn doh-NAY kuh", "example": "Étant donné que le contexte a changé, il faut réviser entièrement l'analyse.", "exampleEnglish": "Given that the context has changed, the analysis must be entirely revised.", "level": "C1", "category": "complex-clauses" },
+            { "id": "du-fait-que", "french": "du fait que", "english": "owing to the fact that, because", "partOfSpeech": "conjunction", "pronunciation": "dew feh kuh", "example": "Du fait que la source reste anonyme, l'information exige une vérification supplémentaire.", "exampleEnglish": "Owing to the fact that the source remains anonymous, the information requires additional verification.", "level": "C1", "category": "complex-clauses" },
+            { "id": "dont-complexe", "french": "dont", "english": "of which, whose (relative pronoun replacing « de + antécédent »)", "partOfSpeech": "pronoun", "pronunciation": "DOHN", "example": "Le rapport, dont on avait pourtant vanté les mérites, n'a produit aucun effet mesurable.", "exampleEnglish": "The report, whose merits had nonetheless been praised, produced no measurable effect.", "level": "C1", "category": "complex-clauses" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Le subjonctif obligatoire : but, concession, certaines conditions",
+              "body": "Three circumstantial families require the subjunctive without exception, regardless of how certain the fact itself is: purpose clauses (pour que, afin que), concessive clauses (bien que, quoique, encore que), and a handful of conditional conjunctions (à condition que, pourvu que, à moins que). By contrast, cause and consequence usually stay in the indicative, because they report something presented as an established fact rather than a hoped-for, doubted, or merely admitted one.",
+              "examples": [
+                { "french": "Le comité a resserré le calendrier afin que le rapport soit prêt avant le vote.", "english": "The committee tightened the schedule so that the report would be ready before the vote." },
+                { "french": "Bien que les données soient incomplètes, l'équipe a choisi de publier ses conclusions provisoires.", "english": "Although the data is incomplete, the team chose to publish its provisional conclusions." },
+                { "french": "L'accord tiendra, pourvu que chaque partie respecte le calendrier fixé.", "english": "The agreement will hold, provided that each side respects the set timetable." },
+                { "french": "Le projet avance, parce que le financement a finalement été débloqué.", "english": "The project is moving forward, because the funding was finally released." }
+              ],
+              "tip": "Learn these conjunctions in fixed groups by mood, not one by one — a mental list of 'bien que / quoique / encore que / pour que / afin que / à condition que / pourvu que / à moins que' as 'always subjunctive' saves you from re-deriving the rule each time."
+            },
+            {
+              "heading": "Après que + indicatif, avant que + subjonctif : la règle et ses pièges",
+              "body": "Despite their apparent symmetry, 'après que' and 'avant que' do not share a mood: 'après que' takes the indicative, because the action it introduces is presented as accomplished; 'avant que' takes the subjunctive, because at the moment of the main clause, that action has not yet happened and remains, grammatically, uncertain. 'Avant que' and 'à moins que' also commonly take an optional 'ne explétif' before the verb — a 'ne' with no negative meaning, a mark of register rather than logic.",
+              "examples": [
+                { "french": "Le communiqué fut publié après que la décision eut été confirmée.", "english": "The statement was published after the decision had been confirmed." },
+                { "french": "Il faut clore le dossier avant que de nouveaux éléments ne compliquent l'affaire.", "english": "The file must be closed before new evidence complicates the matter." },
+                { "french": "Beaucoup de locuteurs, par analogie fautive, mettent 'après que' au subjonctif — l'usage soigné l'évite.", "english": "Many speakers, by mistaken analogy, put 'après que' in the subjunctive — careful usage avoids it." },
+                { "french": "Le 'ne' explétif après 'avant que' n'a aucune valeur négative ; il ne fait qu'indiquer un registre soigné.", "english": "The 'ne explétif' after 'avant que' carries no negative value; it only signals a careful register." }
+              ],
+              "tip": "If a native speaker's ear tells them 'après que' + subjunctive sounds fine, trust the written rule over that instinct — this is one of the most common mismatches between casual spoken French and the register expected in formal writing."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "c1_u27_l01_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What does the sentence claim about the thesis?",
+              "french": "Bien que la thèse soit séduisante, elle repose sur des prémisses qu'aucun chercheur sérieux n'accepterait sans réserve.",
+              "options": ["It is appealing but rests on premises no serious researcher would fully accept", "It has been rejected by every serious researcher", "It contains no premises at all", "It is universally accepted without reservation"],
+              "answer": "It is appealing but rests on premises no serious researcher would fully accept"
+            },
+            {
+              "id": "c1_u27_l01_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. Which mood follows 'après que' according to this rule?",
+              "french": "Le communiqué fut publié après que la décision eut été confirmée.",
+              "options": ["The indicative, because the action is presented as accomplished", "The subjunctive, because the action is uncertain", "The conditional, because the action is hypothetical", "No verb follows 'après que' in this sentence"],
+              "answer": "The indicative, because the action is presented as accomplished"
+            },
+            {
+              "id": "c1_u27_l01_li03",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "La concordance des temps aligne le temps de la subordonnée sur celui de la principale.",
+              "answer": "La concordance des temps aligne le temps de la subordonnée sur celui de la principale.",
+              "acceptedAnswers": ["la concordance des temps aligne le temps de la subordonnee sur celui de la principale"]
+            },
+            {
+              "id": "c1_u27_l01_li04",
+              "type": "dictation",
+              "prompt": "Dictation: write exactly what you hear.",
+              "french": "Une phrase peut enchâsser plusieurs subordonnées les unes dans les autres.",
+              "answer": "Une phrase peut enchâsser plusieurs subordonnées les unes dans les autres.",
+              "acceptedAnswers": ["une phrase peut enchasser plusieurs subordonnees les unes dans les autres"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "c1_u27_l01_sp01",
+              "type": "speak",
+              "prompt": "Concede that a thesis is appealing before pointing out its fragile premises.",
+              "french": "Bien que la thèse soit séduisante, elle repose sur des prémisses fragiles.",
+              "english": "Although the thesis is appealing, it rests on fragile premises.",
+              "tip": "Keep 'soit' clearly subjunctive in pronunciation and pause slightly after the comma — the sentence pivots there from concession to objection."
+            },
+            {
+              "id": "c1_u27_l01_sp02",
+              "type": "speak",
+              "prompt": "State that the committee will approve the project only if the budget is revised.",
+              "french": "Le comité validera le projet à condition que le budget soit révisé.",
+              "english": "The committee will approve the project provided that the budget is revised.",
+              "tip": "Land firmly on 'à condition que' — it is the hinge of the whole sentence, signalling that everything before it is provisional."
+            },
+            {
+              "id": "c1_u27_l01_sp03",
+              "type": "speak",
+              "prompt": "Explain that a statement was published only after the decision had been confirmed.",
+              "french": "Le communiqué fut publié après que la décision eut été confirmée.",
+              "english": "The statement was published after the decision had been confirmed.",
+              "tip": "Keep the indicative 'eut été confirmée' crisp — resist the common temptation to slip into a subjunctive here."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Le rapport que personne n'attendait",
+              "french": "Bien que la commission ait été constituée dans l'urgence, après qu'un premier incident eut révélé l'ampleur du problème, son rapport, publié ce matin, dépasse largement le cadre qu'on lui avait fixé.\nLes auteurs, dont on connaissait la réputation d'indépendance, affirment que la réforme, à condition qu'elle soit appliquée telle qu'elle a été votée, pourrait produire les effets promis — à moins que l'administration, comme elle l'a déjà fait par le passé, n'en vide discrètement le contenu.\nLe document explique, avec une précision que peu attendaient, pourquoi les précédentes évaluations avaient toutes conclu à un succès alors que les indicateurs, une fois recoupés, racontaient une tout autre histoire.\nCe décalage tient, selon le rapport, au fait que chaque ministère mesurait sa propre réussite avec ses propres critères, si bien qu'aucune comparaison sérieuse n'était jamais possible.\nLes rapporteurs recommandent qu'un organisme unique centralise désormais les données, encore qu'ils reconnaissent eux-mêmes que cette solution suppose une volonté politique qui, jusqu'ici, a toujours manqué.\nQuoique le ton reste mesuré d'un bout à l'autre du document, une phrase, tout à la fin, résume l'essentiel : tant que personne ne sera tenu responsable des chiffres qu'il publie, aucune réforme, si bien conçue soit-elle, ne pourra tenir ses promesses.\nLe ministère concerné a indiqué qu'il étudierait les conclusions avec attention, sans toutefois s'engager sur un calendrier précis.",
+              "english": "Although the commission was set up in a hurry, after a first incident had revealed the scale of the problem, its report, published this morning, goes well beyond the scope it had been given.\nThe authors, whose reputation for independence was well known, state that the reform, provided it is applied exactly as voted, could produce the promised effects — unless the administration, as it has already done in the past, quietly empties it of substance.\nThe document explains, with a precision few expected, why previous evaluations had all concluded success even as the indicators, once cross-checked, told a very different story.\nThis gap stems, according to the report, from the fact that each ministry measured its own success by its own criteria, so that no serious comparison was ever possible.\nThe rapporteurs recommend that a single body now centralise the data, although they themselves acknowledge that this solution requires a political will that, until now, has always been lacking.\nAlthough the tone remains measured throughout the document, one sentence, right at the end, sums up the essential point: as long as no one is held responsible for the figures they publish, no reform, however well designed, will be able to keep its promises.\nThe ministry concerned stated that it would study the conclusions carefully, without however committing to a precise timeline.",
+              "questions": [
+                {
+                  "id": "c1_u27_l01_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "According to the report, why could previous evaluations all claim success despite contrary indicators?",
+                  "options": ["Each ministry measured success using its own separate criteria", "The indicators had never been recorded at all", "The commission had falsified its own data", "No previous evaluation had ever been conducted"],
+                  "answer": "Each ministry measured success using its own separate criteria"
+                },
+                {
+                  "id": "c1_u27_l01_rd02",
+                  "type": "multipleChoice",
+                  "prompt": "What condition does the report's final sentence attach to any reform succeeding?",
+                  "options": ["Someone must be held responsible for the figures they publish", "The commission must be permanent", "The ministry must change its name", "All evaluations must be made public immediately"],
+                  "answer": "Someone must be held responsible for the figures they publish"
+                },
+                {
+                  "id": "c1_u27_l01_rd03",
+                  "type": "trueFalse",
+                  "prompt": "True or false: the ministry committed to a precise timeline for acting on the report's conclusions.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "c1_u27_l01_wr01",
+              "type": "translate",
+              "prompt": "Translate: \"Although the thesis is appealing, it rests on fragile premises.\"",
+              "english": "Although the thesis is appealing, it rests on fragile premises.",
+              "answer": "Bien que la thèse soit séduisante, elle repose sur des prémisses fragiles.",
+              "acceptedAnswers": ["bien que la these soit seduisante, elle repose sur des premisses fragiles", "bien que la these soit seduisante elle repose sur des premisses fragiles"]
+            },
+            {
+              "id": "c1_u27_l01_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "The debate will remain open for as long as no definitive proof has been provided.",
+              "words": ["Le", "débat", "restera", "ouvert", "tant", "qu'aucune", "preuve", "définitive", "n'aura", "été", "apportée"],
+              "answer": "Le débat restera ouvert tant qu'aucune preuve définitive n'aura été apportée"
+            },
+            {
+              "id": "c1_u27_l01_wr03",
+              "type": "fillBlank",
+              "prompt": "Complete with the correct mood: \"Le comité validera le projet à condition que le budget ___ révisé.\" (subjunctive of être)",
+              "answer": "soit",
+              "hint": "'À condition que' always takes the subjunctive."
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "c1_u27_l01_pr01",
+              "type": "multipleChoice",
+              "prompt": "Which mood does 'après que' require in careful written French?",
+              "options": ["The indicative", "The subjunctive", "The conditional", "The imperative"],
+              "answer": "The indicative"
+            },
+            {
+              "id": "c1_u27_l01_pr02",
+              "type": "fillBlank",
+              "prompt": "Complete: \"___ les données soient incomplètes, l'équipe a choisi de publier ses conclusions.\" (although)",
+              "answer": "Bien que",
+              "hint": "A subordinating conjunction of concession, always followed by the subjunctive."
+            },
+            {
+              "id": "c1_u27_l01_pr03",
+              "type": "match",
+              "prompt": "Match each subordinate clause type with its function.",
+              "pairs": [
+                { "french": "la complétive", "english": "completes the meaning of a verb, introduced by 'que'" },
+                { "french": "la relative", "english": "qualifies a noun already present in the sentence" },
+                { "french": "la subordonnée de but", "english": "states the purpose of the main action" },
+                { "french": "la subordonnée de concession", "english": "admits an obstacle before neutralising it" }
+              ]
+            },
+            {
+              "id": "c1_u27_l01_pr04",
+              "type": "multipleChoice",
+              "prompt": "Why does 'avant que' take the subjunctive while 'après que' takes the indicative?",
+              "options": ["'Avant que' introduces an action not yet realised at the time of the main clause", "'Avant que' is simply older French usage", "'Après que' never introduces a full clause", "Both actually take the same mood in formal French"],
+              "answer": "'Avant que' introduces an action not yet realised at the time of the main clause"
+            },
+            {
+              "id": "c1_u27_l01_pr05",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "The reform will take effect, unless an appeal suspends it.",
+              "words": ["La", "réforme", "entrera", "en", "vigueur,", "à", "moins", "qu'un", "recours", "ne", "la", "suspende"],
+              "answer": "La réforme entrera en vigueur, à moins qu'un recours ne la suspende"
+            },
+            {
+              "id": "c1_u27_l01_pr06",
+              "type": "translate",
+              "prompt": "Translate: \"Given that the context has changed, the analysis must be entirely revised.\"",
+              "english": "Given that the context has changed, the analysis must be entirely revised.",
+              "answer": "Étant donné que le contexte a changé, il faut réviser entièrement l'analyse.",
+              "acceptedAnswers": ["etant donne que le contexte a change, il faut reviser entierement l'analyse", "etant donne que le contexte a change il faut reviser entierement l analyse"]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "c1_u27_l01_qz01",
+              "type": "multipleChoice",
+              "prompt": "What determines the mood (indicative vs subjunctive) inside a French subordinate clause?",
+              "options": ["Whether the governing verb or conjunction asserts a fact or expresses will, doubt, or emotion", "Whether the clause is short or long", "Whether the sentence is spoken or written", "Whether the subject is singular or plural"],
+              "answer": "Whether the governing verb or conjunction asserts a fact or expresses will, doubt, or emotion"
+            },
+            {
+              "id": "c1_u27_l01_qz02",
+              "type": "fillBlank",
+              "prompt": "Complete: \"La ___ répond à la question « quoi ? » posée au verbe principal.\" (the noun clause)",
+              "answer": "complétive"
+            },
+            {
+              "id": "c1_u27_l01_qz03",
+              "type": "multipleChoice",
+              "prompt": "Which sentence correctly uses the indicative after 'après que'?",
+              "options": ["Le communiqué fut publié après que la décision eut été confirmée.", "Le communiqué fut publié après que la décision ait été confirmée.", "Le communiqué fut publié après que la décision soit confirmée.", "Le communiqué fut publié après que la décision confirmât."],
+              "answer": "Le communiqué fut publié après que la décision eut été confirmée."
+            },
+            {
+              "id": "c1_u27_l01_qz04",
+              "type": "trueFalse",
+              "prompt": "True or false: 'pour que', 'bien que' and 'à condition que' all require the subjunctive without exception.",
+              "options": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "c1_u27_l01_qz05",
+              "type": "multipleChoice",
+              "prompt": "What does 'la concordance des temps' govern?",
+              "options": ["How the tense of a subordinate clause aligns with the tense of the main clause", "Whether a verb is regular or irregular", "The gender agreement of nouns", "The placement of adjectives"],
+              "answer": "How the tense of a subordinate clause aligns with the tense of the main clause"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1_u27_l02",
+      "level": "C1",
+      "unit": 27,
+      "title": "L'ordre des mots",
+      "description": "Reorder a French sentence deliberately — inversion, fronting, dislocation, cleft sentences — to create emphasis without breaking grammaticality.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "L'ordre canonique, et pourquoi on s'en écarte",
+              "body": "French word order is far less free than Latin's, but it is not rigid either: the canonical order — subject, verb, object — is simply the default, unmarked choice. A speaker or writer who deliberately departs from it is not making an error; they are marking something as especially important, contrasting it with something else, or signalling a register. Reading marked word order as a mistake is one of the surest ways to miss what a sophisticated sentence is actually doing.",
+              "examples": [
+                { "french": "L'ordre canonique place le sujet avant le verbe, et le verbe avant son complément.", "english": "Canonical order places the subject before the verb, and the verb before its object." },
+                { "french": "S'écarter de cet ordre n'est pas une faute ; c'est un choix qui met un élément en valeur.", "english": "Departing from this order is not a mistake; it is a choice that highlights one element." },
+                { "french": "Peut-être le comité a-t-il sous-estimé l'ampleur de la tâche.", "english": "Perhaps the committee underestimated the scale of the task." },
+                { "french": "Rarement un rapport aura suscité autant de réactions contradictoires.", "english": "Rarely has a report triggered so many contradictory reactions." }
+              ],
+              "tip": "Before analysing why a sentence is reordered, first silently reconstruct its canonical version in your head — the gap between the two versions is exactly where the meaning of the reordering lives."
+            },
+            {
+              "heading": "L'inversion du sujet après certains adverbes",
+              "body": "A small set of sentence adverbs — peut-être, sans doute, aussi (meaning 'therefore'), ainsi, à peine, encore — trigger subject-verb inversion when placed at the very start of a sentence, a hallmark of formal written style. Move the same adverb elsewhere in the sentence, and the inversion disappears along with the formality; the two options say the same thing but in a noticeably different register.",
+              "examples": [
+                { "french": "Sans doute faudra-t-il revoir entièrement la méthode employée.", "english": "The method used will no doubt have to be entirely revised." },
+                { "french": "Aussi le comité a-t-il choisi de reporter sa décision d'un mois.", "english": "The committee therefore chose to postpone its decision by a month." },
+                { "french": "À peine le rapport avait-il paru que la polémique éclatait.", "english": "The report had barely appeared when the controversy broke out." },
+                { "french": "Ainsi s'explique la prudence inhabituelle des rapporteurs.", "english": "This is how the rapporteurs' unusual caution is explained." }
+              ],
+              "tip": "Contrast 'Il faudra sans doute revoir la méthode' (no inversion, neutral) with 'Sans doute faudra-t-il revoir la méthode' (inversion, formal) — both are correct, but only the second belongs in a polished written register."
+            },
+            {
+              "heading": "Disloquer et cliver : détacher un élément pour le mettre en valeur",
+              "body": "Two further techniques reorder a sentence to foreground one element without touching its literal meaning. Dislocation moves a noun phrase to the very start or end of the sentence and replaces it with a pronoun in its original slot; the cleft sentence isolates one element inside a 'c'est... qui/que' frame. Both are entirely standard in spoken and written French — they are not the casual shortcuts learners sometimes assume them to be.",
+              "examples": [
+                { "french": "Cette réforme, personne ne l'avait anticipée dans ces proportions.", "english": "This reform — nobody had anticipated it on this scale." },
+                { "french": "C'est le troisième paragraphe qui a déclenché la controverse.", "english": "It is the third paragraph that triggered the controversy." },
+                { "french": "Ce qui inquiète les experts, c'est l'absence totale de données comparatives.", "english": "What worries the experts is the total absence of comparative data." },
+                { "french": "Le ministère, lui, n'a fait aucun commentaire.", "english": "The ministry, for its part, made no comment at all." }
+              ],
+              "tip": "Dislocation and cleft sentences answer different questions: dislocation says 'as for X, here is what I have to say about it', while a cleft sentence says 'it is specifically X, and not something else, that this is about' — pick the frame that matches which question you are really answering."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "l-ordre-des-mots", "french": "l'ordre des mots", "english": "word order", "partOfSpeech": "noun", "gender": "m", "pronunciation": "lor-druh day MOH", "example": "L'ordre des mots en français reste plus contraint qu'en latin, mais moins qu'on ne le croit.", "exampleEnglish": "Word order in French remains more constrained than in Latin, but less than one might think.", "level": "C1", "category": "word-order" },
+            { "id": "l-ordre-canonique", "french": "l'ordre canonique", "english": "the canonical (default, unmarked) word order", "partOfSpeech": "noun", "gender": "m", "pronunciation": "lor-druh kah-noh-NEEK", "example": "L'ordre canonique place le sujet avant le verbe, et le verbe avant son complément.", "exampleEnglish": "Canonical order places the subject before the verb, and the verb before its object.", "level": "C1", "category": "word-order" },
+            { "id": "l-ordre-marque", "french": "l'ordre marqué", "english": "marked word order (departing from the default, for emphasis)", "partOfSpeech": "noun", "gender": "m", "pronunciation": "lor-druh mar-KAY", "example": "S'écarter de l'ordre canonique produit un ordre marqué, chargé de sens.", "exampleEnglish": "Departing from canonical order produces a marked order, loaded with meaning.", "level": "C1", "category": "word-order" },
+            { "id": "l-inversion", "french": "l'inversion", "english": "inversion (subject-verb)", "partOfSpeech": "noun", "gender": "f", "plural": "les inversions", "pronunciation": "lan-vehr-SYON", "example": "L'inversion après « peut-être » relève du style soutenu.", "exampleEnglish": "Inversion after 'peut-être' belongs to formal style.", "level": "C1", "category": "word-order" },
+            { "id": "l-inversion-du-sujet", "french": "l'inversion du sujet", "english": "subject inversion (subject placed after the verb)", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lan-vehr-SYON dew su-ZHEH", "example": "L'inversion du sujet suit automatiquement certains adverbes placés en tête de phrase.", "exampleEnglish": "Subject inversion automatically follows certain adverbs placed at the start of a sentence.", "level": "C1", "category": "word-order" },
+            { "id": "inverser", "french": "inverser", "english": "to invert (the order of subject and verb)", "partOfSpeech": "verb", "pronunciation": "an-vehr-SAY", "example": "Placer « sans doute » en tête de phrase oblige à inverser le sujet et le verbe.", "exampleEnglish": "Placing 'sans doute' at the start of the sentence forces you to invert the subject and verb.", "level": "C1", "category": "word-order" },
+            { "id": "l-anteposition", "french": "l'antéposition", "english": "fronting (placing an element before its usual position)", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lahn-tay-poh-zee-SYON", "example": "L'antéposition du complément met celui-ci en valeur dès la première syllabe de la phrase.", "exampleEnglish": "Fronting the object highlights it from the very first syllable of the sentence.", "level": "C1", "category": "word-order" },
+            { "id": "anteposer", "french": "antéposer", "english": "to place before, to front (a word or phrase)", "partOfSpeech": "verb", "pronunciation": "ahn-tay-poh-ZAY", "example": "Quand on antépose le complément, le participe passé s'accorde avec lui.", "exampleEnglish": "When you front the object, the past participle agrees with it.", "level": "C1", "category": "word-order" },
+            { "id": "la-postposition", "french": "la postposition", "english": "placing an element after its usual position", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah post-poh-zee-SYON", "example": "La postposition du sujet est obligatoire dans certaines incises comme « dit-elle ».", "exampleEnglish": "Postposing the subject is obligatory in certain reporting clauses like 'dit-elle'.", "level": "C1", "category": "word-order" },
+            { "id": "la-dislocation", "french": "la dislocation", "english": "dislocation (detaching a noun phrase and resuming it with a pronoun)", "partOfSpeech": "noun", "gender": "f", "plural": "les dislocations", "pronunciation": "lah dees-loh-kah-SYON", "example": "La dislocation met le thème en avant : « Cette réforme, personne ne l'avait anticipée. »", "exampleEnglish": "Dislocation fronts the topic: \"This reform — nobody had anticipated it.\"", "level": "C1", "category": "word-order" },
+            { "id": "la-dislocation-a-gauche", "french": "la dislocation à gauche", "english": "left dislocation (detached element placed at the start)", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah dees-loh-kah-SYON ah GOSH", "example": "Dans la dislocation à gauche, l'élément détaché ouvre la phrase, avant le pronom qui le reprend.", "exampleEnglish": "In left dislocation, the detached element opens the sentence, before the pronoun that resumes it.", "level": "C1", "category": "word-order" },
+            { "id": "la-dislocation-a-droite", "french": "la dislocation à droite", "english": "right dislocation (detached element placed at the end)", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah dees-loh-kah-SYON ah DRWAHT", "example": "Dans la dislocation à droite, le pronom précède l'élément détaché : « Il n'a rien dit, le ministère. »", "exampleEnglish": "In right dislocation, the pronoun comes before the detached element: \"It said nothing, the ministry.\"", "level": "C1", "category": "word-order" },
+            { "id": "la-reprise-pronominale", "french": "la reprise pronominale", "english": "pronominal resumption (a pronoun standing in for a dislocated element)", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah ruh-preez proh-noh-mee-NAL", "example": "La reprise pronominale relie l'élément disloqué au reste de la phrase.", "exampleEnglish": "Pronominal resumption links the dislocated element to the rest of the sentence.", "level": "C1", "category": "word-order" },
+            { "id": "le-theme-syntaxique", "french": "le thème", "english": "the theme (the given, already-known information in a sentence)", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh TEM", "example": "Le thème d'une phrase correspond souvent à ce dont on parlait déjà.", "exampleEnglish": "The theme of a sentence often corresponds to what was already being discussed.", "level": "C1", "category": "word-order" },
+            { "id": "le-rheme", "french": "le rhème", "english": "the rheme (the new information a sentence adds about its theme)", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh REM", "example": "Le rhème apporte l'information nouvelle, celle que la phrase vient réellement annoncer.", "exampleEnglish": "The rheme carries the new information, the one the sentence is actually there to announce.", "level": "C1", "category": "word-order" },
+            { "id": "la-mise-en-relief", "french": "la mise en relief", "english": "the highlighting, the foregrounding (of one sentence element)", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah meez ahn ruh-LYEF", "example": "La mise en relief passe souvent par une phrase clivée.", "exampleEnglish": "Highlighting often goes through a cleft sentence.", "level": "C1", "category": "word-order" },
+            { "id": "mettre-en-relief", "french": "mettre en relief", "english": "to highlight, to bring to the fore", "partOfSpeech": "expression", "pronunciation": "MET-truh ahn ruh-LYEF", "example": "Cette construction met en relief le complément plutôt que le sujet.", "exampleEnglish": "This construction highlights the object rather than the subject.", "level": "C1", "category": "word-order" },
+            { "id": "la-phrase-clivee", "french": "la phrase clivée", "english": "the cleft sentence (« c'est... qui/que »)", "partOfSpeech": "noun", "gender": "f", "plural": "les phrases clivées", "pronunciation": "lah frahz klee-VAY", "example": "C'est le troisième paragraphe qui a déclenché la controverse.", "exampleEnglish": "It is the third paragraph that triggered the controversy.", "level": "C1", "category": "word-order" },
+            { "id": "la-phrase-pseudo-clivee", "french": "la phrase pseudo-clivée", "english": "the pseudo-cleft sentence (« ce qui... c'est »)", "partOfSpeech": "noun", "gender": "f", "plural": "les phrases pseudo-clivées", "pronunciation": "lah frahz psuh-doh-klee-VAY", "example": "Ce qui inquiète les experts, c'est l'absence totale de données comparatives.", "exampleEnglish": "What worries the experts is the total absence of comparative data.", "level": "C1", "category": "word-order" },
+            { "id": "l-emphase-syntaxique", "french": "l'emphase", "english": "emphasis (achieved through sentence structure)", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lahn-FAHZ", "example": "L'emphase naît ici de l'ordre des mots, pas d'un adjectif ajouté.", "exampleEnglish": "The emphasis here comes from word order, not from an added adjective.", "level": "C1", "category": "word-order" },
+            { "id": "emphatique", "french": "emphatique", "english": "emphatic", "partOfSpeech": "adjective", "pronunciation": "ahn-fah-TEEK", "example": "Une construction emphatique isole un mot que l'ordre neutre aurait laissé passer inaperçu.", "exampleEnglish": "An emphatic construction isolates a word that neutral order would have let pass unnoticed.", "level": "C1", "category": "word-order" },
+            { "id": "peut-etre-inversion", "french": "peut-être", "english": "perhaps (triggers subject-verb inversion when it opens the sentence)", "partOfSpeech": "adverb", "pronunciation": "puh-TETR", "example": "Peut-être le comité a-t-il sous-estimé l'ampleur de la tâche.", "exampleEnglish": "Perhaps the committee underestimated the scale of the task.", "level": "C1", "category": "word-order" },
+            { "id": "sans-doute-inversion", "french": "sans doute", "english": "no doubt, probably (triggers inversion when it opens the sentence)", "partOfSpeech": "adverb", "pronunciation": "sahn DOOT", "example": "Sans doute faudra-t-il revoir entièrement la méthode employée.", "exampleEnglish": "The method used will no doubt have to be entirely revised.", "level": "C1", "category": "word-order" },
+            { "id": "aussi-consequence", "french": "aussi", "english": "therefore, and so (triggers inversion in this sense, unlike 'aussi' meaning 'also')", "partOfSpeech": "adverb", "pronunciation": "oh-SEE", "example": "Aussi le comité a-t-il choisi de reporter sa décision d'un mois.", "exampleEnglish": "The committee therefore chose to postpone its decision by a month.", "level": "C1", "category": "word-order" },
+            { "id": "ainsi-inversion", "french": "ainsi", "english": "thus, in this way (triggers inversion when it opens the sentence)", "partOfSpeech": "adverb", "pronunciation": "an-SEE", "example": "Ainsi s'explique la prudence inhabituelle des rapporteurs.", "exampleEnglish": "This is how the rapporteurs' unusual caution is explained.", "level": "C1", "category": "word-order" },
+            { "id": "a-peine-que", "french": "à peine... que", "english": "barely... when, no sooner... than", "partOfSpeech": "expression", "pronunciation": "ah PENN kuh", "example": "À peine le rapport avait-il paru que la polémique éclatait.", "exampleEnglish": "The report had barely appeared when the controversy broke out.", "level": "C1", "category": "word-order" },
+            { "id": "l-inversion-interrogative", "french": "l'inversion interrogative", "english": "interrogative inversion (subject-verb inversion in questions)", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lan-vehr-SYON an-teh-roh-gah-TEEV", "example": "L'inversion interrogative marque un registre plus soigné que « est-ce que ».", "exampleEnglish": "Interrogative inversion marks a more careful register than 'est-ce que'.", "level": "C1", "category": "word-order" },
+            { "id": "l-incise", "french": "l'incise", "english": "the attribution clause (e.g. 'dit-il')", "partOfSpeech": "noun", "gender": "f", "plural": "les incises", "pronunciation": "lan-SEEZ", "example": "L'incise se glisse au milieu ou à la fin de la citation, jamais au hasard.", "exampleEnglish": "The attribution clause slips in mid-quote or at the end, never at random.", "level": "C1", "category": "word-order" },
+            { "id": "le-style-soutenu", "french": "le style soutenu", "english": "formal, elevated style", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh steel soo-tuh-NU", "example": "L'inversion du sujet, hors de la question, signale presque toujours le style soutenu.", "exampleEnglish": "Subject inversion, outside of questions, almost always signals formal style.", "level": "C1", "category": "word-order" },
+            { "id": "la-topicalisation", "french": "la topicalisation", "english": "topicalization (fronting an element to mark it as the sentence's topic)", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah toh-pee-kah-lee-zah-SYON", "example": "La topicalisation annonce dès le début de quoi la phrase va parler.", "exampleEnglish": "Topicalization announces right from the start what the sentence is going to be about.", "level": "C1", "category": "word-order" },
+            { "id": "thematiser", "french": "thématiser", "english": "to topicalize, to foreground as the sentence's theme", "partOfSpeech": "verb", "pronunciation": "tay-mah-tee-ZAY", "example": "Thématiser un complément, c'est le placer en tête pour orienter la lecture.", "exampleEnglish": "Topicalizing an object means placing it first to orient the reading.", "level": "C1", "category": "word-order" },
+            { "id": "l-adverbe-de-phrase", "french": "l'adverbe de phrase", "english": "the sentence adverb (modifies the whole sentence, not one word)", "partOfSpeech": "noun", "gender": "m", "plural": "les adverbes de phrase", "pronunciation": "lad-VERB duh FRAHZ", "example": "« Peut-être » et « sans doute » fonctionnent comme des adverbes de phrase.", "exampleEnglish": "'Peut-être' and 'sans doute' function as sentence adverbs.", "level": "C1", "category": "word-order" },
+            { "id": "deplacer", "french": "déplacer", "english": "to move, to displace (a word or group within a sentence)", "partOfSpeech": "verb", "pronunciation": "day-plah-SAY", "example": "Déplacer un seul groupe nominal peut suffire à changer tout l'accent de la phrase.", "exampleEnglish": "Moving a single noun phrase can be enough to shift the whole emphasis of the sentence.", "level": "C1", "category": "word-order" },
+            { "id": "le-constituant", "french": "le constituant", "english": "the constituent (a self-contained group within a sentence)", "partOfSpeech": "noun", "gender": "m", "plural": "les constituants", "pronunciation": "luh kon-stee-tu-AHN", "example": "Chaque constituant peut, en théorie, être déplacé, mis en relief ou disloqué.", "exampleEnglish": "Each constituent can, in theory, be moved, highlighted, or dislocated.", "level": "C1", "category": "word-order" },
+            { "id": "l-adjectif-antepose", "french": "l'adjectif antéposé", "english": "the pre-nominal adjective (placed before the noun)", "partOfSpeech": "noun", "gender": "m", "pronunciation": "lad-zhek-TEEF ahn-tay-poh-ZAY", "example": "Un adjectif antéposé change parfois radicalement de sens : « un grand homme ».", "exampleEnglish": "A pre-nominal adjective sometimes changes meaning radically: 'un grand homme' (a great man).", "level": "C1", "category": "word-order" },
+            { "id": "l-adjectif-postpose", "french": "l'adjectif postposé", "english": "the post-nominal adjective (placed after the noun)", "partOfSpeech": "noun", "gender": "m", "pronunciation": "lad-zhek-TEEF post-poh-ZAY", "example": "Le même adjectif postposé retrouve son sens littéral : « un homme grand ».", "exampleEnglish": "The same adjective placed after the noun regains its literal meaning: 'un homme grand' (a tall man).", "level": "C1", "category": "word-order" },
+            { "id": "le-focus", "french": "le focus", "english": "the (information) focus, the element a sentence singles out", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh foh-KUSS", "example": "Le focus d'une phrase clivée tombe toujours sur l'élément coincé entre « c'est » et « qui/que ».", "exampleEnglish": "The focus of a cleft sentence always falls on the element trapped between 'c'est' and 'qui/que'.", "level": "C1", "category": "word-order" },
+            { "id": "souligner", "french": "souligner", "english": "to underline, to emphasise", "partOfSpeech": "verb", "pronunciation": "soo-lee-NYAY", "example": "L'ordre des mots suffit parfois à souligner une idée, sans qu'aucun mot ne soit ajouté.", "exampleEnglish": "Word order is sometimes enough to underline an idea, without a single word being added.", "level": "C1", "category": "word-order" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "L'inversion stylistique : sujet nominal vs sujet pronominal",
+              "body": "French distinguishes two kinds of stylistic inversion that behave differently. With a pronoun subject, the pronoun simply moves after the verb, joined by a hyphen: 'sans doute faudra-t-il'. With a full noun subject, the noun stays in front and a resumptive pronoun is inserted after the verb instead — the noun is not itself displaced: 'sans doute le comité devra-t-il revoir sa position'. Confusing the two produces a sentence that is grammatically broken, not merely informal.",
+              "examples": [
+                { "french": "Sans doute faudra-t-il revoir la méthode.", "english": "The method will no doubt have to be revised." },
+                { "french": "Sans doute le comité devra-t-il revoir sa position.", "english": "The committee will no doubt have to revise its position." },
+                { "french": "Peut-être conviendrait-il d'attendre les résultats définitifs.", "english": "Perhaps it would be advisable to wait for the final results." },
+                { "french": "Peut-être le ministre conviendrait-il lui-même de la nécessité d'attendre.", "english": "Perhaps the minister himself would agree on the need to wait." }
+              ],
+              "tip": "Never delete the noun subject when adding the resumptive pronoun after 'sans doute' or 'peut-être' — French keeps both: the full noun in its normal place, and a small pronoun echo right after the verb."
+            },
+            {
+              "heading": "Cliver, disloquer, ou simplement inverser : choisir le bon outil",
+              "body": "The three techniques covered in this lesson are not interchangeable, because each answers a different underlying question. Cleft sentences answer 'which one, specifically?' by isolating an element inside 'c'est... qui/que'. Dislocation answers 'as for this, what do I have to say?' by detaching a topic and resuming it with a pronoun. Stylistic inversion, triggered by certain sentence adverbs, simply marks a formal register without changing what is emphasised.",
+              "examples": [
+                { "french": "C'est cette clause, et non la précédente, qui a fait capoter l'accord.", "english": "It is this clause, not the previous one, that made the deal fall through." },
+                { "french": "Cet accord, personne ne pensait qu'il tiendrait plus d'un an.", "english": "This deal — nobody thought it would last more than a year." },
+                { "french": "Ainsi s'achève, non sans ironie, un débat vieux de dix ans.", "english": "Thus ends, not without irony, a ten-year-old debate." },
+                { "french": "Ce que révèle surtout cet échec, c'est l'absence totale de préparation.", "english": "What this failure reveals above all is the total absence of preparation." }
+              ],
+              "tip": "Before choosing a construction, name in one phrase exactly what you want to foreground and why — 'which element, specifically' calls for a cleft sentence, 'here is my topic' calls for dislocation, and 'this is formal writing' calls for stylistic inversion alone."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "c1_u27_l02_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What does this sentence suggest about the committee?",
+              "french": "Peut-être le comité a-t-il sous-estimé l'ampleur de la tâche.",
+              "options": ["It may have underestimated how big the task was", "It definitely underestimated the task", "It refused to evaluate the task at all", "It completed the task ahead of schedule"],
+              "answer": "It may have underestimated how big the task was"
+            },
+            {
+              "id": "c1_u27_l02_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. What is being highlighted by this cleft sentence?",
+              "french": "C'est le troisième paragraphe qui a déclenché la controverse.",
+              "options": ["Specifically the third paragraph, not another one", "The entire document as a whole", "The reaction of the readers", "The author of the report"],
+              "answer": "Specifically the third paragraph, not another one"
+            },
+            {
+              "id": "c1_u27_l02_li03",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Ce qui inquiète les experts, c'est l'absence totale de données comparatives.",
+              "answer": "Ce qui inquiète les experts, c'est l'absence totale de données comparatives.",
+              "acceptedAnswers": ["ce qui inquiete les experts, c'est l'absence totale de donnees comparatives", "ce qui inquiete les experts c est l absence totale de donnees comparatives"]
+            },
+            {
+              "id": "c1_u27_l02_li04",
+              "type": "dictation",
+              "prompt": "Dictation: write exactly what you hear.",
+              "french": "Cette réforme, personne ne l'avait anticipée dans ces proportions.",
+              "answer": "Cette réforme, personne ne l'avait anticipée dans ces proportions.",
+              "acceptedAnswers": ["cette reforme, personne ne l'avait anticipee dans ces proportions", "cette reforme personne ne l avait anticipee dans ces proportions"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "c1_u27_l02_sp01",
+              "type": "speak",
+              "prompt": "Suggest, formally, that the method used will need revising.",
+              "french": "Sans doute faudra-t-il revoir entièrement la méthode employée.",
+              "english": "The method used will no doubt have to be entirely revised.",
+              "tip": "Hyphenate 'faudra-t-il' clearly in your rhythm — that inverted pronoun is what signals the formal register."
+            },
+            {
+              "id": "c1_u27_l02_sp02",
+              "type": "speak",
+              "prompt": "State, using a cleft sentence, that it is specifically the third paragraph that caused the controversy.",
+              "french": "C'est le troisième paragraphe qui a déclenché la controverse.",
+              "english": "It is the third paragraph that triggered the controversy.",
+              "tip": "Stress 'troisième' — the whole point of the cleft frame is to isolate that one word from the rest."
+            },
+            {
+              "id": "c1_u27_l02_sp03",
+              "type": "speak",
+              "prompt": "Comment, using dislocation, that nobody had anticipated this reform on this scale.",
+              "french": "Cette réforme, personne ne l'avait anticipée dans ces proportions.",
+              "english": "This reform — nobody had anticipated it on this scale.",
+              "tip": "Pause clearly after 'réforme' — that break is what marks it as a detached topic, resumed by 'l'' later in the sentence."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "L'ordre des mots, une arme discrète",
+              "french": "Rares sont les lecteurs qui remarquent, à la première lecture, pourquoi une phrase les frappe davantage qu'une autre disant pourtant la même chose. La réponse, la plupart du temps, tient moins au vocabulaire qu'à l'ordre dans lequel les mots ont été disposés.\nPrenons un exemple récent. Un porte-parole aurait pu déclarer, sobrement : « Le gouvernement n'a pas anticipé cette crise. » Il a préféré : « Cette crise, le gouvernement ne l'avait pas anticipée. » Le fait rapporté est identique ; l'effet, lui, ne l'est pas.\nEn plaçant « cette crise » en tête de phrase, l'orateur en fait le thème que tout le reste vient commenter, si bien que l'attention du public se fixe d'abord sur l'ampleur de l'événement, avant même de considérer qui en porte la responsabilité.\nAilleurs dans le même discours, une phrase clivée a fait mouche : « C'est cette négligence, et non le manque de moyens, qui explique l'échec. » L'ordre neutre aurait dilué l'accusation dans une phrase plate ; la construction clivée, elle, l'isole et la martèle.\nÀ peine le discours s'était-il achevé que les commentateurs se disputaient déjà sur son sens exact, sans toujours percevoir que cette confusion tenait précisément à l'ambiguïté volontairement entretenue par ces déplacements syntaxiques.\nUn ordre marqué, contrairement à une idée répandue, n'est jamais un simple ornement de style : il redistribue, discrètement mais efficacement, ce que l'auditeur retiendra de la phrase, et parfois même ce qu'il croira en avoir compris.",
+              "english": "Few readers notice, on a first reading, why one sentence strikes them more than another that says exactly the same thing. The answer, most of the time, has less to do with vocabulary than with the order in which the words were arranged.\nTake a recent example. A spokesperson could have stated, plainly: \"The government did not anticipate this crisis.\" They preferred: \"This crisis, the government had not anticipated it.\" The reported fact is identical; the effect is not.\nBy placing \"this crisis\" at the start of the sentence, the speaker makes it the theme that everything else comes to comment on, so that the public's attention fixes first on the scale of the event, even before considering who is responsible for it.\nElsewhere in the same speech, a cleft sentence hit its mark: \"It is this negligence, not the lack of resources, that explains the failure.\" Neutral order would have diluted the accusation into a flat sentence; the cleft construction, instead, isolates it and hammers it home.\nThe speech had barely ended when commentators were already arguing over its exact meaning, not always realising that this confusion stemmed precisely from the ambiguity deliberately maintained by these syntactic displacements.\nA marked order, contrary to a widespread belief, is never a mere stylistic ornament: it discreetly but effectively redistributes what the listener will remember of the sentence, and sometimes even what they will believe they understood.",
+              "questions": [
+                {
+                  "id": "c1_u27_l02_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "What effect does fronting 'cette crise' have, according to the text?",
+                  "options": ["It makes the crisis's scale the sentence's theme, before assigning responsibility", "It removes all responsibility from the government entirely", "It makes the sentence grammatically incorrect", "It has no effect different from the neutral order"],
+                  "answer": "It makes the crisis's scale the sentence's theme, before assigning responsibility"
+                },
+                {
+                  "id": "c1_u27_l02_rd02",
+                  "type": "multipleChoice",
+                  "prompt": "What does the cleft sentence about negligence accomplish compared to a neutral sentence?",
+                  "options": ["It isolates and emphasises the accusation instead of diluting it", "It softens the accusation considerably", "It removes the accusation from the sentence", "It makes the sentence shorter"],
+                  "answer": "It isolates and emphasises the accusation instead of diluting it"
+                },
+                {
+                  "id": "c1_u27_l02_rd03",
+                  "type": "trueFalse",
+                  "prompt": "True or false: the text claims that marked word order is merely a decorative stylistic flourish with no real effect on meaning.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "c1_u27_l02_wr01",
+              "type": "translate",
+              "prompt": "Translate: \"The committee therefore chose to postpone its decision by a month.\"",
+              "english": "The committee therefore chose to postpone its decision by a month.",
+              "answer": "Aussi le comité a-t-il choisi de reporter sa décision d'un mois.",
+              "acceptedAnswers": ["aussi le comite a-t-il choisi de reporter sa decision d'un mois", "aussi le comite a t il choisi de reporter sa decision d un mois"]
+            },
+            {
+              "id": "c1_u27_l02_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "What worries the experts is the total absence of comparative data.",
+              "words": ["Ce", "qui", "inquiète", "les", "experts,", "c'est", "l'absence", "totale", "de", "données", "comparatives"],
+              "answer": "Ce qui inquiète les experts, c'est l'absence totale de données comparatives"
+            },
+            {
+              "id": "c1_u27_l02_wr03",
+              "type": "fillBlank",
+              "prompt": "Complete the cleft sentence: \"___ le troisième paragraphe qui a déclenché la controverse.\" (it is)",
+              "answer": "C'est",
+              "hint": "The frame is 'c'est... qui/que'."
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "c1_u27_l02_pr01",
+              "type": "multipleChoice",
+              "prompt": "Which of these adverbs triggers subject-verb inversion when it opens a sentence?",
+              "options": ["Peut-être", "Beaucoup", "Toujours", "Souvent"],
+              "answer": "Peut-être"
+            },
+            {
+              "id": "c1_u27_l02_pr02",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Cette réforme, personne ne ___ avait anticipée dans ces proportions.\" (it, object pronoun)",
+              "answer": "l'",
+              "hint": "The resumptive pronoun standing in for the dislocated 'cette réforme'."
+            },
+            {
+              "id": "c1_u27_l02_pr03",
+              "type": "match",
+              "prompt": "Match each word-order term with its definition.",
+              "pairs": [
+                { "french": "la dislocation", "english": "detaching a noun phrase and resuming it with a pronoun" },
+                { "french": "la phrase clivée", "english": "the 'c'est... qui/que' construction that isolates one element" },
+                { "french": "l'antéposition", "english": "placing an element before its usual position" },
+                { "french": "le rhème", "english": "the new information a sentence adds about its theme" }
+              ]
+            },
+            {
+              "id": "c1_u27_l02_pr04",
+              "type": "multipleChoice",
+              "prompt": "With a full noun subject (not a pronoun), how does stylistic inversion after 'sans doute' work?",
+              "options": ["The noun stays in place and a resumptive pronoun is inserted after the verb", "The noun moves entirely after the verb", "No inversion is possible with a noun subject", "The noun is deleted and replaced by the pronoun"],
+              "answer": "The noun stays in place and a resumptive pronoun is inserted after the verb"
+            },
+            {
+              "id": "c1_u27_l02_pr05",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "The report had barely appeared when the controversy broke out.",
+              "words": ["À", "peine", "le", "rapport", "avait-il", "paru", "que", "la", "polémique", "éclatait"],
+              "answer": "À peine le rapport avait-il paru que la polémique éclatait"
+            },
+            {
+              "id": "c1_u27_l02_pr06",
+              "type": "translate",
+              "prompt": "Translate: \"It is this negligence, not the lack of resources, that explains the failure.\"",
+              "english": "It is this negligence, not the lack of resources, that explains the failure.",
+              "answer": "C'est cette négligence, et non le manque de moyens, qui explique l'échec.",
+              "acceptedAnswers": ["c'est cette negligence, et non le manque de moyens, qui explique l'echec", "c est cette negligence et non le manque de moyens qui explique l echec"]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "c1_u27_l02_qz01",
+              "type": "multipleChoice",
+              "prompt": "What is 'l'ordre marqué' in the context of French syntax?",
+              "options": ["A departure from the default word order, used to signal emphasis", "A grammatical error in verb placement", "A rule limited to interrogative sentences", "A term used only for spoken French"],
+              "answer": "A departure from the default word order, used to signal emphasis"
+            },
+            {
+              "id": "c1_u27_l02_qz02",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Ainsi ___ la prudence inhabituelle des rapporteurs.\" (is explained, inverted)",
+              "answer": "s'explique"
+            },
+            {
+              "id": "c1_u27_l02_qz03",
+              "type": "multipleChoice",
+              "prompt": "Which sentence correctly uses left dislocation?",
+              "options": ["Cette réforme, personne ne l'avait anticipée dans ces proportions.", "Personne cette réforme n'avait anticipée dans ces proportions.", "Cette réforme personne l'avait pas anticipée.", "Il n'avait anticipée personne cette réforme."],
+              "answer": "Cette réforme, personne ne l'avait anticipée dans ces proportions."
+            },
+            {
+              "id": "c1_u27_l02_qz04",
+              "type": "trueFalse",
+              "prompt": "True or false: a cleft sentence and dislocation serve exactly the same communicative function.",
+              "options": ["True", "False"],
+              "answer": "False"
+            },
+            {
+              "id": "c1_u27_l02_qz05",
+              "type": "multipleChoice",
+              "prompt": "What distinguishes 'un grand homme' from 'un homme grand'?",
+              "options": ["Adjective position changes meaning: figurative 'great' vs literal 'tall'", "There is no difference at all", "One is grammatically incorrect", "The gender of 'homme' changes"],
+              "answer": "Adjective position changes meaning: figurative 'great' vs literal 'tall'"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1_u27_l03",
+      "level": "C1",
+      "unit": 27,
+      "title": "La phrase longue",
+      "description": "Control and clarify long, layered sentences — the punctuation, connectors, and editing techniques that keep a complex sentence readable rather than exhausting.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Qu'est-ce qu'une phrase longue maîtrisée ?",
+              "body": "Length itself is never the problem with a French sentence; loss of control is. A long sentence that a reader can follow without rereading is a 'période' in the classical rhetorical sense — a single architecture holding several ideas in a deliberate relationship. A long sentence the reader must rereread to untangle is not more sophisticated for being long; it has simply failed at the one job punctuation and connectors exist to do.",
+              "examples": [
+                { "french": "Une phrase longue n'est pas nécessairement une phrase complexe, ni une phrase complexe nécessairement confuse.", "english": "A long sentence is not necessarily a complex sentence, nor is a complex sentence necessarily confusing." },
+                { "french": "La période classique tenait plusieurs propositions ensemble, mais chacune restait repérable à l'oreille.", "english": "The classical period held several clauses together, but each remained identifiable to the ear." },
+                { "french": "Une phrase qu'on doit relire deux fois n'a pas gagné en profondeur ; elle a perdu en clarté.", "english": "A sentence you must reread twice has not gained depth; it has lost clarity." },
+                { "french": "La longueur sert l'idée quand la structure la porte ; sinon, elle ne fait que la retarder.", "english": "Length serves the idea when the structure carries it; otherwise, it only delays it." }
+              ],
+              "tip": "Test a long sentence by reading it aloud in one breath if you can — if you run out of air before the meaning resolves, a reader's attention will run out just as fast."
+            },
+            {
+              "heading": "Les outils de clarté : ponctuation, connecteurs, reprises",
+              "body": "Three tools keep a long sentence navigable: punctuation that marks the architecture rather than just pausing for breath, logical connectors that name the relationship between clauses instead of leaving the reader to guess it, and anaphoric resumption that reminds the reader what a pronoun or a later clause is still talking about. Used well, none of these tools feel present at all — the sentence simply reads as effortless.",
+              "examples": [
+                { "french": "Le point-virgule sépare deux idées proches sans les couper aussi nettement qu'un point.", "english": "The semicolon separates two related ideas without cutting them as sharply as a full stop." },
+                { "french": "Les deux-points annoncent une explication, une liste ou une conséquence attendue.", "english": "The colon announces an explanation, a list, or an expected consequence." },
+                { "french": "Un connecteur logique bien choisi rend visible une articulation que le lecteur devrait sinon deviner.", "english": "A well-chosen logical connector makes visible a link the reader would otherwise have to guess." },
+                { "french": "La reprise anaphorique évite de répéter un nom tout en gardant intacte la référence du lecteur.", "english": "Anaphoric resumption avoids repeating a noun while keeping the reader's reference intact." }
+              ],
+              "tip": "Whenever a sentence needs a fourth comma, ask whether a semicolon or a full new sentence would serve the reader better — commas alone rarely carry the full weight of a long sentence's architecture."
+            },
+            {
+              "heading": "Alléger, scinder, hiérarchiser : simplifier sans appauvrir",
+              "body": "An overloaded sentence can almost always be repaired without losing any of its content, through three moves: lightening it by cutting redundant words, splitting it into two sentences at a natural joint, or re-ranking its ideas so the most important one no longer hides inside a subordinate clause. None of these moves simplifies the thinking — they simplify only the vehicle carrying it.",
+              "examples": [
+                { "french": "Alléger une phrase, c'est retirer ce qui ne change rien à son sens si on l'enlève.", "english": "Lightening a sentence means removing what changes nothing about its meaning if taken out." },
+                { "french": "Scinder une phrase en deux redonne à chaque idée l'espace qu'elle mérite.", "english": "Splitting a sentence in two gives each idea back the space it deserves." },
+                { "french": "Hiérarchiser les idées, c'est faire de l'essentiel la principale, et du reste une simple subordonnée.", "english": "Ranking ideas means making the essential point the main clause, and everything else a mere subordinate." },
+                { "french": "Une surcharge syntaxique se corrige rarement en ajoutant des mots ; elle se corrige en en retirant.", "english": "A syntactic overload is rarely corrected by adding words; it is corrected by removing them." }
+              ],
+              "tip": "Before splitting a sentence, check whether the idea buried in its deepest subordinate clause is actually the most important one — if so, promote it to its own main clause rather than leaving it nested at the bottom."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "la-phrase-longue", "french": "la phrase longue", "english": "the long sentence", "partOfSpeech": "noun", "gender": "f", "plural": "les phrases longues", "pronunciation": "lah frahz LOHNG", "example": "Une phrase longue n'est pas nécessairement une phrase complexe.", "exampleEnglish": "A long sentence is not necessarily a complex sentence.", "level": "C1", "category": "long-sentences" },
+            { "id": "la-phrase-complexe", "french": "la phrase complexe", "english": "the complex sentence (main clause plus subordinates)", "partOfSpeech": "noun", "gender": "f", "plural": "les phrases complexes", "pronunciation": "lah frahz kon-PLEKS", "example": "Une phrase complexe combine une principale et au moins une subordonnée.", "exampleEnglish": "A complex sentence combines a main clause with at least one subordinate clause.", "level": "C1", "category": "long-sentences" },
+            { "id": "la-phrase-simple", "french": "la phrase simple", "english": "the simple sentence (one clause only)", "partOfSpeech": "noun", "gender": "f", "plural": "les phrases simples", "pronunciation": "lah frahz SANPL", "example": "Une phrase simple ne comporte qu'une seule proposition.", "exampleEnglish": "A simple sentence contains only a single clause.", "level": "C1", "category": "long-sentences" },
+            { "id": "la-periode-rhetorique", "french": "la période", "english": "the period (a long, deliberately architected rhetorical sentence)", "partOfSpeech": "noun", "gender": "f", "plural": "les périodes", "pronunciation": "lah pay-ree-OD", "example": "La période classique tenait plusieurs propositions ensemble sans jamais perdre le lecteur.", "exampleEnglish": "The classical period held several clauses together without ever losing the reader.", "level": "C1", "category": "long-sentences" },
+            { "id": "la-subordination-en-cascade", "french": "la subordination en cascade", "english": "cascading subordination (clauses nested several levels deep)", "partOfSpeech": "noun", "gender": "f", "pronunciation": "su-bor-dee-nah-SYON ahn kas-KAD", "example": "La subordination en cascade épuise le lecteur si aucune ponctuation ne vient la structurer.", "exampleEnglish": "Cascading subordination exhausts the reader if no punctuation comes to structure it.", "level": "C1", "category": "long-sentences" },
+            { "id": "l-emboitement", "french": "l'emboîtement", "english": "the nesting (of one clause inside another)", "partOfSpeech": "noun", "gender": "m", "pronunciation": "lahn-bwaht-MAHN", "example": "L'emboîtement de trois relatives successives rend la phrase presque illisible.", "exampleEnglish": "The nesting of three successive relative clauses makes the sentence nearly unreadable.", "level": "C1", "category": "long-sentences" },
+            { "id": "emboiter", "french": "emboîter", "english": "to nest, to fit (one clause inside another)", "partOfSpeech": "verb", "pronunciation": "ahn-bwah-TAY", "example": "Emboîter trop de propositions les unes dans les autres finit par perdre le lecteur.", "exampleEnglish": "Nesting too many clauses inside one another eventually loses the reader.", "level": "C1", "category": "long-sentences" },
+            { "id": "la-parenthese", "french": "la parenthèse", "english": "the parenthesis, the aside", "partOfSpeech": "noun", "gender": "f", "plural": "les parenthèses", "pronunciation": "lah pah-rahn-TEZ", "example": "Une parenthèse trop longue fait perdre le fil de la phrase principale.", "exampleEnglish": "A parenthesis that runs too long makes the reader lose the thread of the main sentence.", "level": "C1", "category": "long-sentences" },
+            { "id": "le-point-virgule", "french": "le point-virgule", "english": "the semicolon", "partOfSpeech": "noun", "gender": "m", "plural": "les points-virgules", "pronunciation": "luh pwan-veer-GUL", "example": "Le point-virgule sépare deux idées proches sans les couper aussi nettement qu'un point.", "exampleEnglish": "The semicolon separates two related ideas without cutting them as sharply as a full stop.", "level": "C1", "category": "long-sentences" },
+            { "id": "les-deux-points", "french": "les deux-points", "english": "the colon", "partOfSpeech": "noun", "gender": "m", "pronunciation": "lay duh-PWAN", "example": "Les deux-points annoncent une explication, une liste ou une conséquence attendue.", "exampleEnglish": "The colon announces an explanation, a list, or an expected consequence.", "level": "C1", "category": "long-sentences" },
+            { "id": "la-ponctuation", "french": "la ponctuation", "english": "the punctuation", "partOfSpeech": "noun", "gender": "f", "plural": "les ponctuations", "pronunciation": "lah pohnk-tway-syohn", "example": "La ponctuation d'une phrase longue en révèle l'architecture, pas seulement son rythme.", "exampleEnglish": "The punctuation of a long sentence reveals its architecture, not just its rhythm.", "level": "C1", "category": "long-sentences" },
+            { "id": "la-clarte-syntaxique", "french": "la clarté syntaxique", "english": "syntactic clarity", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah klar-TAY san-tak-SEEK", "example": "La clarté syntaxique ne dépend pas de la longueur de la phrase, mais de son organisation.", "exampleEnglish": "Syntactic clarity does not depend on a sentence's length, but on its organisation.", "level": "C1", "category": "long-sentences" },
+            { "id": "l-ambiguite-syntaxique", "french": "l'ambiguïté syntaxique", "english": "syntactic ambiguity (unclear which element a word or clause attaches to)", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lahn-bee-gwee-TAY san-tak-SEEK", "example": "Une ambiguïté syntaxique se règle souvent en déplaçant un seul mot.", "exampleEnglish": "A syntactic ambiguity can often be resolved by moving a single word.", "level": "C1", "category": "long-sentences" },
+            { "id": "la-coherence", "french": "la cohérence", "english": "coherence, consistency", "partOfSpeech": "noun", "gender": "f", "plural": "les cohérences", "pronunciation": "lah koh-ay-RAHNSS", "example": "La cohérence d'une phrase longue tient à la logique qui relie chaque proposition à la suivante.", "exampleEnglish": "The coherence of a long sentence rests on the logic linking each clause to the next.", "level": "C1", "category": "long-sentences" },
+            { "id": "la-cohesion", "french": "la cohésion", "english": "cohesion (of a text, via connectors and resumptions)", "partOfSpeech": "noun", "gender": "f", "plural": "les cohésions", "pronunciation": "koh-ay-ZYON", "example": "Les connecteurs et les reprises assurent la cohésion d'une phrase longue.", "exampleEnglish": "Connectors and resumptions ensure the cohesion of a long sentence.", "level": "C1", "category": "long-sentences" },
+            { "id": "le-connecteur-logique", "french": "le connecteur logique", "english": "the logical connector", "partOfSpeech": "noun", "gender": "m", "plural": "les connecteurs logiques", "pronunciation": "koh-nek-TUR lo-ZHEEK", "example": "Un connecteur logique bien choisi rend visible une articulation que le lecteur devrait sinon deviner.", "exampleEnglish": "A well-chosen logical connector makes visible a link the reader would otherwise have to guess.", "level": "C1", "category": "long-sentences" },
+            { "id": "l-articulation-logique", "french": "l'articulation logique", "english": "the logical articulation, the joint between ideas", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lar-tee-ku-lah-SYON lo-ZHEEK", "example": "Sans articulation logique visible, une phrase longue devient une simple accumulation.", "exampleEnglish": "Without a visible logical articulation, a long sentence becomes a mere accumulation.", "level": "C1", "category": "long-sentences" },
+            { "id": "la-reprise-anaphorique", "french": "la reprise anaphorique", "english": "anaphoric resumption (a pronoun or phrase referring back to something already mentioned)", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah ruh-preez ah-nah-foh-REEK", "example": "La reprise anaphorique évite de répéter un nom tout en gardant intacte la référence du lecteur.", "exampleEnglish": "Anaphoric resumption avoids repeating a noun while keeping the reader's reference intact.", "level": "C1", "category": "long-sentences" },
+            { "id": "l-anaphore", "french": "l'anaphore", "english": "the anaphora (a word referring back to an earlier element)", "partOfSpeech": "noun", "gender": "f", "plural": "les anaphores", "pronunciation": "lah-nah-FOR", "example": "Une anaphore mal placée peut faire croire que le pronom désigne le mauvais nom.", "exampleEnglish": "A poorly placed anaphora can make the pronoun seem to point to the wrong noun.", "level": "C1", "category": "long-sentences" },
+            { "id": "alleger-une-phrase", "french": "alléger (une phrase)", "english": "to lighten (a sentence)", "partOfSpeech": "verb", "pronunciation": "ah-lay-ZHAY", "example": "Alléger une phrase, c'est retirer ce qui ne change rien à son sens si on l'enlève.", "exampleEnglish": "Lightening a sentence means removing what changes nothing about its meaning if taken out.", "level": "C1", "category": "long-sentences" },
+            { "id": "scinder", "french": "scinder", "english": "to split (a sentence into two)", "partOfSpeech": "verb", "pronunciation": "san-DAY", "example": "Scinder une phrase en deux redonne à chaque idée l'espace qu'elle mérite.", "exampleEnglish": "Splitting a sentence in two gives each idea back the space it deserves.", "level": "C1", "category": "long-sentences" },
+            { "id": "la-surcharge-syntaxique", "french": "la surcharge syntaxique", "english": "syntactic overload", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah sur-SHARZH san-tak-SEEK", "example": "Une surcharge syntaxique se corrige rarement en ajoutant des mots ; elle se corrige en en retirant.", "exampleEnglish": "A syntactic overload is rarely corrected by adding words; it is corrected by removing them.", "level": "C1", "category": "long-sentences" },
+            { "id": "le-rythme-de-la-phrase", "french": "le rythme de la phrase", "english": "the sentence's rhythm", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh REETM duh lah FRAHZ", "example": "Le rythme de la phrase guide la respiration du lecteur autant que son sens.", "exampleEnglish": "The sentence's rhythm guides the reader's breathing as much as its meaning.", "level": "C1", "category": "long-sentences" },
+            { "id": "le-parallelisme", "french": "le parallélisme", "english": "parallelism, a repeated sentence structure", "partOfSpeech": "noun", "gender": "m", "plural": "les parallélismes", "pronunciation": "luh pah-rah-lay-LEESM", "example": "Un parallélisme bien construit rend une longue phrase plus facile à suivre, pas plus difficile.", "exampleEnglish": "A well-built parallelism makes a long sentence easier to follow, not harder.", "level": "C1", "category": "long-sentences" },
+            { "id": "l-equilibre-syntaxique", "french": "l'équilibre syntaxique", "english": "syntactic balance", "partOfSpeech": "noun", "gender": "m", "pronunciation": "lay-kee-LEEBR san-tak-SEEK", "example": "L'équilibre syntaxique répartit le poids de la phrase entre ses différentes propositions.", "exampleEnglish": "Syntactic balance distributes a sentence's weight among its different clauses.", "level": "C1", "category": "long-sentences" },
+            { "id": "la-lourdeur-stylistique", "french": "la lourdeur stylistique", "english": "stylistic heaviness", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah loor-DUR stee-lees-TEEK", "example": "La lourdeur stylistique trahit souvent une phrase qu'on n'a pas assez relue.", "exampleEnglish": "Stylistic heaviness often betrays a sentence that has not been reread enough.", "level": "C1", "category": "long-sentences" },
+            { "id": "la-syntaxe", "french": "la syntaxe", "english": "syntax", "partOfSpeech": "noun", "gender": "f", "plural": "les syntaxes", "pronunciation": "lah san-TAKS", "example": "La syntaxe organise les mots ; la ponctuation en révèle l'organisation au lecteur.", "exampleEnglish": "Syntax organises the words; punctuation reveals that organisation to the reader.", "level": "C1", "category": "long-sentences" },
+            { "id": "structurer-une-phrase", "french": "structurer (une phrase)", "english": "to structure (a sentence)", "partOfSpeech": "verb", "pronunciation": "struk-tu-RAY", "example": "Structurer une phrase longue avant de l'écrire évite bien des reprises ensuite.", "exampleEnglish": "Structuring a long sentence before writing it avoids many later rewrites.", "level": "C1", "category": "long-sentences" },
+            { "id": "hierarchiser-les-idees", "french": "hiérarchiser (les idées)", "english": "to rank, to organise hierarchically (ideas)", "partOfSpeech": "verb", "pronunciation": "yay-rar-shee-ZAY", "example": "Hiérarchiser les idées, c'est faire de l'essentiel la principale, et du reste une simple subordonnée.", "exampleEnglish": "Ranking ideas means making the essential point the main clause, and everything else a mere subordinate.", "level": "C1", "category": "long-sentences" },
+            { "id": "la-subordonnee-enchassee", "french": "la subordonnée enchâssée", "english": "the embedded subordinate clause", "partOfSpeech": "noun", "gender": "f", "plural": "les subordonnées enchâssées", "pronunciation": "su-bor-doh-NAY ahn-shah-SAY", "example": "Une subordonnée enchâssée trop profondément finit par échapper à l'attention du lecteur.", "exampleEnglish": "A subordinate clause embedded too deeply eventually escapes the reader's attention.", "level": "C1", "category": "long-sentences" },
+            { "id": "le-niveau-d-enchassement", "french": "le niveau d'enchâssement", "english": "the level of embedding", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh nee-VOH dahn-shah-SMAHN", "example": "Au-delà de trois niveaux d'enchâssement, presque aucun lecteur ne suit plus la phrase.", "exampleEnglish": "Beyond three levels of embedding, almost no reader can still follow the sentence.", "level": "C1", "category": "long-sentences" },
+            { "id": "decouper-une-phrase", "french": "découper (une phrase)", "english": "to break up, to cut up (a sentence)", "partOfSpeech": "verb", "pronunciation": "day-koo-PAY", "example": "Découper une phrase trop chargée en trois phrases plus courtes clarifie presque toujours le propos.", "exampleEnglish": "Breaking an overloaded sentence into three shorter sentences almost always clarifies the point.", "level": "C1", "category": "long-sentences" },
+            { "id": "neanmoins", "french": "néanmoins", "english": "nevertheless", "partOfSpeech": "adverb", "pronunciation": "nay-ahn-MWAN", "example": "La phrase est longue ; elle reste néanmoins parfaitement claire.", "exampleEnglish": "The sentence is long; it nevertheless remains perfectly clear.", "level": "C1", "category": "long-sentences" },
+            { "id": "en-depit-de", "french": "en dépit de", "english": "in spite of", "partOfSpeech": "expression", "pronunciation": "ahn day-PEE duh", "example": "En dépit de sa longueur, la phrase se lit d'une seule traite.", "exampleEnglish": "In spite of its length, the sentence reads in a single breath.", "level": "C1", "category": "long-sentences" },
+            { "id": "quoi-qu-il-en-soit", "french": "quoi qu'il en soit", "english": "be that as it may", "partOfSpeech": "expression", "pronunciation": "kwah keel ahn SWAH", "example": "Quoi qu'il en soit, une phrase que le lecteur doit relire a manqué son but premier.", "exampleEnglish": "Be that as it may, a sentence the reader must reread has missed its primary goal.", "level": "C1", "category": "long-sentences" },
+            { "id": "nonobstant", "french": "nonobstant", "english": "notwithstanding", "partOfSpeech": "expression", "pronunciation": "noh-nob-STAHN", "example": "Nonobstant sa longueur, la phrase conserve une parfaite clarté syntaxique.", "exampleEnglish": "Notwithstanding its length, the sentence retains perfect syntactic clarity.", "level": "C1", "category": "long-sentences" },
+            { "id": "cela-etant", "french": "cela étant", "english": "that being so", "partOfSpeech": "expression", "pronunciation": "suh-lah ay-TAHN", "example": "Cela étant, il vaut parfois mieux scinder une phrase que la surcharger de virgules.", "exampleEnglish": "That being so, it is sometimes better to split a sentence than to overload it with commas.", "level": "C1", "category": "long-sentences" },
+            { "id": "partant", "french": "partant", "english": "therefore, consequently (literary connector)", "partOfSpeech": "adverb", "pronunciation": "par-TAHN", "example": "La phrase s'enchaînait sans ponctuation forte, partant sans repère pour le lecteur pressé.", "exampleEnglish": "The sentence ran on without strong punctuation, and therefore without a landmark for the hurried reader.", "level": "C1", "category": "long-sentences" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Désambiguïser un rattachement : où va vraiment cette subordonnée ?",
+              "body": "The most frequent source of syntactic ambiguity in a long sentence is attachment: a relative clause or a participial phrase placed far from the noun it modifies can appear to attach to the wrong one. French offers no automatic fix — only deliberate placement, or an explicit repetition, resolves the ambiguity. This is one problem length alone creates, and only careful ordering, not extra punctuation, actually solves it.",
+              "examples": [
+                { "french": "J'ai lu le rapport du comité qui vient de démissionner. (ambigu : qui a démissionné, le rapport ou le comité ?)", "english": "I read the committee's report that just resigned. (ambiguous: what resigned, the report or the committee?)" },
+                { "french": "J'ai lu le rapport, rédigé par un comité qui vient de démissionner.", "english": "I read the report, written by a committee that has just resigned." },
+                { "french": "Le comité, qui vient de démissionner, a laissé un rapport inachevé.", "english": "The committee, which has just resigned, left behind an unfinished report." },
+                { "french": "Placer la relative juste après son antécédent reste la solution la plus sûre, avant tout recours à la reformulation.", "english": "Placing the relative clause right after its antecedent remains the safest solution, before any resort to rephrasing." }
+              ],
+              "tip": "When a relative clause could plausibly attach to two different nouns, do not trust punctuation to save you — move the relative clause next to the noun it truly modifies, or repeat that noun explicitly."
+            },
+            {
+              "heading": "Promouvoir une subordonnée : quand la sortir de l'enchâssement",
+              "body": "An idea buried three levels deep inside nested subordinate clauses can almost always be promoted: turned into its own main clause, in its own sentence, connected to what precedes it by an explicit logical connector rather than a grammatical subordination link. This single move — promotion instead of embedding — is usually the fastest way to repair a sentence that has become syntactically overloaded, without cutting a single idea from it.",
+              "examples": [
+                { "french": "Le fait, que personne ne conteste au demeurant, que les délais n'ont jamais été tenus explique la défiance actuelle.", "english": "The fact, which no one disputes anyway, that the deadlines were never met explains the current distrust." },
+                { "french": "Les délais n'ont jamais été tenus ; ce fait, que personne ne conteste, explique la défiance actuelle.", "english": "The deadlines were never met; this fact, which no one disputes, explains the current distrust." },
+                { "french": "Promouvoir une idée enchâssée en phrase autonome ne l'affaiblit pas ; cela lui redonne au contraire tout son poids.", "english": "Promoting an embedded idea into its own independent sentence does not weaken it; it in fact gives it back its full weight." },
+                { "french": "Un connecteur logique explicite remplace souvent, avec plus de clarté, tout un niveau d'enchâssement.", "english": "An explicit logical connector often replaces, more clearly, an entire level of embedding." }
+              ],
+              "tip": "If you find yourself counting more than two levels of nested clauses in your own sentence, stop and ask which single idea inside it actually deserves to stand alone — then give it its own sentence."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "c1_u27_l03_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What point is this sentence making about long sentences?",
+              "french": "Une phrase longue n'est pas nécessairement une phrase complexe, ni une phrase complexe nécessairement confuse.",
+              "options": ["Length, complexity, and confusion are three separate things", "All long sentences are automatically confusing", "Complex sentences are always short", "Only simple sentences can be clear"],
+              "answer": "Length, complexity, and confusion are three separate things"
+            },
+            {
+              "id": "c1_u27_l03_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. What does the semicolon do, according to this sentence?",
+              "french": "Le point-virgule sépare deux idées proches sans les couper aussi nettement qu'un point.",
+              "options": ["It separates related ideas more gently than a full stop", "It functions exactly like a comma", "It always signals the end of a paragraph", "It can only be used in lists"],
+              "answer": "It separates related ideas more gently than a full stop"
+            },
+            {
+              "id": "c1_u27_l03_li03",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Une phrase qu'on doit relire deux fois n'a pas gagné en profondeur ; elle a perdu en clarté.",
+              "answer": "Une phrase qu'on doit relire deux fois n'a pas gagné en profondeur ; elle a perdu en clarté.",
+              "acceptedAnswers": ["une phrase qu'on doit relire deux fois n'a pas gagne en profondeur ; elle a perdu en clarte", "une phrase qu on doit relire deux fois n a pas gagne en profondeur elle a perdu en clarte"]
+            },
+            {
+              "id": "c1_u27_l03_li04",
+              "type": "dictation",
+              "prompt": "Dictation: write exactly what you hear.",
+              "french": "Hiérarchiser les idées, c'est faire de l'essentiel la principale, et du reste une simple subordonnée.",
+              "answer": "Hiérarchiser les idées, c'est faire de l'essentiel la principale, et du reste une simple subordonnée.",
+              "acceptedAnswers": ["hierarchiser les idees, c'est faire de l'essentiel la principale, et du reste une simple subordonnee", "hierarchiser les idees c est faire de l essentiel la principale et du reste une simple subordonnee"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "c1_u27_l03_sp01",
+              "type": "speak",
+              "prompt": "State the core distinction between a sentence's length and its clarity.",
+              "french": "Une phrase qu'on doit relire deux fois n'a pas gagné en profondeur ; elle a perdu en clarté.",
+              "english": "A sentence you must reread twice has not gained depth; it has lost clarity.",
+              "tip": "Give the semicolon a real pause in your delivery — it is doing the work of contrasting the two halves without a conjunction."
+            },
+            {
+              "id": "c1_u27_l03_sp02",
+              "type": "speak",
+              "prompt": "Recommend ranking ideas so the essential one becomes the main clause.",
+              "french": "Hiérarchiser les idées, c'est faire de l'essentiel la principale, et du reste une simple subordonnée.",
+              "english": "Ranking ideas means making the essential point the main clause, and everything else a mere subordinate.",
+              "tip": "Slow down on 'l'essentiel' and 'une simple subordonnée' — the whole sentence rests on that contrast in status."
+            },
+            {
+              "id": "c1_u27_l03_sp03",
+              "type": "speak",
+              "prompt": "Explain how a syntactic overload is usually fixed.",
+              "french": "Une surcharge syntaxique se corrige rarement en ajoutant des mots ; elle se corrige en en retirant.",
+              "english": "A syntactic overload is rarely corrected by adding words; it is corrected by removing them.",
+              "tip": "Articulate the double 'en en' clearly and slowly — it is easy to slur, but both are needed and distinct."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "La phrase qui s'essouffle",
+              "french": "Un jeune journaliste avait soumis, pour publication, un article dont la première phrase comptait, à elle seule, cent douze mots, si bien que la rédactrice en chef, en dépit de sa patience légendaire, dut la relire trois fois avant d'en saisir vraiment le sens.\nElle convoqua l'auteur, non pour critiquer son idée, qui était excellente, mais pour lui montrer où, précisément, la phrase avait cessé de le servir.\nLe problème, expliqua-t-elle, ne tenait pas au nombre de mots, mais à leur architecture : quatre subordonnées s'emboîtaient les unes dans les autres, si profondément qu'au moment d'atteindre le verbe principal, le lecteur avait déjà oublié le sujet qui l'attendait.\nElle proposa un exercice simple : réécrire la phrase en trois temps. D'abord, isoler l'idée essentielle et lui donner sa propre phrase, courte et nette. Ensuite, promouvoir en phrase autonome ce qui, enchâssé, méritait mieux qu'une parenthèse. Enfin, relier le tout par des connecteurs logiques explicites, plutôt que par une accumulation de virgules.\nLe résultat tenait en trois phrases là où il n'y en avait eu qu'une seule, surchargée. Rien, pourtant, n'avait été supprimé du raisonnement original ; tout, simplement, respirait mieux.\n« Une bonne phrase longue », conclut-elle, « ne se reconnaît pas à sa taille, mais au fait qu'on n'a jamais besoin de la relire. Quoi qu'il en soit, si votre lecteur doit ralentir pour vous suivre, c'est que la structure, et non son intelligence, a failli. »\nLe jeune journaliste repartit avec son texte couvert d'annotations, et, pour la première fois depuis longtemps, avec l'impression d'avoir appris quelque chose d'essentiel sur son propre métier.",
+              "english": "A young journalist had submitted, for publication, an article whose opening sentence alone ran to a hundred and twelve words, so that the editor-in-chief, despite her legendary patience, had to read it three times before she truly grasped its meaning.\nShe called the author in, not to criticise his idea, which was excellent, but to show him precisely where the sentence had stopped serving him.\nThe problem, she explained, was not the number of words, but their architecture: four subordinate clauses were nested one inside the other, so deeply that by the time the reader reached the main verb, they had already forgotten the subject waiting for it.\nShe suggested a simple exercise: rewrite the sentence in three stages. First, isolate the essential idea and give it its own short, crisp sentence. Then, promote into an independent sentence whatever, once embedded, deserved better than a mere aside. Finally, link everything with explicit logical connectors, rather than a pile-up of commas.\nThe result held in three sentences what had previously been crammed into a single, overloaded one. Nothing, however, had been cut from the original reasoning; everything simply breathed better.\n\"A good long sentence,\" she concluded, \"is not recognised by its size, but by the fact that you never need to reread it. Be that as it may, if your reader has to slow down to follow you, it is the structure, not their intelligence, that has failed.\"\nThe young journalist left with his text covered in annotations, and, for the first time in a long while, with the feeling that he had learned something essential about his own craft.",
+              "questions": [
+                {
+                  "id": "c1_u27_l03_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "What did the editor identify as the actual problem with the sentence?",
+                  "options": ["Its architecture, with deeply nested clauses, not its word count", "The idea itself was weak", "It had too few subordinate clauses", "It contained grammatical errors"],
+                  "answer": "Its architecture, with deeply nested clauses, not its word count"
+                },
+                {
+                  "id": "c1_u27_l03_rd02",
+                  "type": "multipleChoice",
+                  "prompt": "What happened to the original reasoning after the sentence was rewritten in three stages?",
+                  "options": ["Nothing was cut; the same content simply became clearer", "Most of the original argument was deleted", "The idea was simplified and made less precise", "The article was rejected entirely"],
+                  "answer": "Nothing was cut; the same content simply became clearer"
+                },
+                {
+                  "id": "c1_u27_l03_rd03",
+                  "type": "trueFalse",
+                  "prompt": "True or false: according to the editor, a good long sentence is recognised by its size.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "c1_u27_l03_wr01",
+              "type": "translate",
+              "prompt": "Translate: \"A sentence you must reread twice has not gained depth; it has lost clarity.\"",
+              "english": "A sentence you must reread twice has not gained depth; it has lost clarity.",
+              "answer": "Une phrase qu'on doit relire deux fois n'a pas gagné en profondeur ; elle a perdu en clarté.",
+              "acceptedAnswers": ["une phrase qu'on doit relire deux fois n'a pas gagne en profondeur ; elle a perdu en clarte", "une phrase qu on doit relire deux fois n a pas gagne en profondeur elle a perdu en clarte"]
+            },
+            {
+              "id": "c1_u27_l03_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "Splitting a sentence in two gives each idea back the space it deserves.",
+              "words": ["Scinder", "une", "phrase", "en", "deux", "redonne", "à", "chaque", "idée", "l'espace", "qu'elle", "mérite"],
+              "answer": "Scinder une phrase en deux redonne à chaque idée l'espace qu'elle mérite"
+            },
+            {
+              "id": "c1_u27_l03_wr03",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Une surcharge syntaxique se corrige rarement en ajoutant des mots ; elle se corrige en en ___.\" (removing)",
+              "answer": "retirant",
+              "hint": "Gerund of 'retirer'."
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "c1_u27_l03_pr01",
+              "type": "multipleChoice",
+              "prompt": "According to the lesson, what actually determines whether a long sentence is well controlled?",
+              "options": ["Its architecture and clarity, not its length", "Its total word count only", "Whether it uses the subjunctive", "Whether it contains a relative clause"],
+              "answer": "Its architecture and clarity, not its length"
+            },
+            {
+              "id": "c1_u27_l03_pr02",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Les ___ annoncent une explication, une liste ou une conséquence attendue.\" (the colon)",
+              "answer": "deux-points",
+              "hint": "Two words joined by a hyphen, naming a punctuation mark."
+            },
+            {
+              "id": "c1_u27_l03_pr03",
+              "type": "match",
+              "prompt": "Match each term with its meaning.",
+              "pairs": [
+                { "french": "l'emboîtement", "english": "the nesting of one clause inside another" },
+                { "french": "la reprise anaphorique", "english": "a pronoun or phrase referring back to something already mentioned" },
+                { "french": "hiérarchiser les idées", "english": "making the essential point the main clause" },
+                { "french": "la surcharge syntaxique", "english": "a sentence overloaded with too many nested elements" }
+              ]
+            },
+            {
+              "id": "c1_u27_l03_pr04",
+              "type": "multipleChoice",
+              "prompt": "What is the safest way to resolve an ambiguous relative clause attachment?",
+              "options": ["Place the relative clause right next to the noun it truly modifies", "Add more commas around it", "Remove the relative clause entirely", "Replace the relative pronoun with 'que' in all cases"],
+              "answer": "Place the relative clause right next to the noun it truly modifies"
+            },
+            {
+              "id": "c1_u27_l03_pr05",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "Breaking an overloaded sentence into three shorter sentences almost always clarifies the point.",
+              "words": ["Découper", "une", "phrase", "trop", "chargée", "en", "trois", "phrases", "plus", "courtes", "clarifie", "presque", "toujours", "le", "propos"],
+              "answer": "Découper une phrase trop chargée en trois phrases plus courtes clarifie presque toujours le propos"
+            },
+            {
+              "id": "c1_u27_l03_pr06",
+              "type": "translate",
+              "prompt": "Translate: \"Promoting an embedded idea into its own independent sentence does not weaken it.\"",
+              "english": "Promoting an embedded idea into its own independent sentence does not weaken it.",
+              "answer": "Promouvoir une idée enchâssée en phrase autonome ne l'affaiblit pas.",
+              "acceptedAnswers": ["promouvoir une idee enchassee en phrase autonome ne l'affaiblit pas", "promouvoir une idee enchassee en phrase autonome ne l affaiblit pas"]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "c1_u27_l03_qz01",
+              "type": "multipleChoice",
+              "prompt": "What, according to the lesson, is a well-controlled long sentence called in the classical rhetorical tradition?",
+              "options": ["Une période", "Une phrase simple", "Une parenthèse", "Une anaphore"],
+              "answer": "Une période"
+            },
+            {
+              "id": "c1_u27_l03_qz02",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Le ___ sépare deux idées proches sans les couper aussi nettement qu'un point.\" (the semicolon)",
+              "answer": "point-virgule"
+            },
+            {
+              "id": "c1_u27_l03_qz03",
+              "type": "multipleChoice",
+              "prompt": "Which sentence correctly resolves the ambiguous attachment in \"J'ai lu le rapport du comité qui vient de démissionner\"?",
+              "options": ["Le comité, qui vient de démissionner, a laissé un rapport inachevé.", "J'ai lu le rapport du comité qui vient de démissionner encore.", "Le rapport a démissionné du comité.", "J'ai lu, qui vient de démissionner, le rapport du comité."],
+              "answer": "Le comité, qui vient de démissionner, a laissé un rapport inachevé."
+            },
+            {
+              "id": "c1_u27_l03_qz04",
+              "type": "trueFalse",
+              "prompt": "True or false: promoting a deeply embedded idea into its own sentence typically removes content from the original argument.",
+              "options": ["True", "False"],
+              "answer": "False"
+            },
+            {
+              "id": "c1_u27_l03_qz05",
+              "type": "multipleChoice",
+              "prompt": "What best defines 'la surcharge syntaxique'?",
+              "options": ["A sentence overloaded with too many nested or accumulated elements", "A sentence that is grammatically incorrect", "A sentence with no subordinate clauses at all", "A sentence written entirely in the passive voice"],
+              "answer": "A sentence overloaded with too many nested or accumulated elements"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

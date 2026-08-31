@@ -1,0 +1,1048 @@
+{
+  "id": "c1_u25",
+  "level": "C1",
+  "unit": 25,
+  "title": "Translation Craft",
+  "subtitle": "Translate meaning rather than words, spot the advanced false friends that trap fluent speakers, and adapt a text's register on purpose",
+  "icon": "🔁",
+  "lessons": [
+    {
+      "id": "c1_u25_l01",
+      "level": "C1",
+      "unit": 25,
+      "title": "Traduire le sens, pas les mots",
+      "description": "Move past word-for-word translation: read for sense first, then rebuild that sense in natural French or English.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Traduire le sens, pas la lettre",
+              "body": "A translation glued to individual words almost always betrays the text it claims to serve. The word-for-word approach — le mot à mot — treats language as a code to decrypt one token at a time; sense-for-sense translation treats it as meaning to be understood, then rebuilt in the other language with whatever words that language actually uses for the job. The test is simple: would a native speaker ever say this sentence?",
+              "examples": [
+                { "french": "Traduire, ce n'est pas remplacer un mot par un autre, c'est reconstruire un sens.", "english": "Translating is not swapping one word for another, it is rebuilding a meaning." },
+                { "french": "Le mot à mot produit une phrase correcte que personne ne prononcerait jamais.", "english": "Word-for-word translation produces a correct sentence that no one would ever actually say." },
+                { "french": "Il vaut mieux trahir la lettre que trahir l'esprit.", "english": "It is better to betray the letter than to betray the spirit." },
+                { "french": "Une bonne traduction se lit comme un texte écrit directement dans la langue d'arrivée.", "english": "A good translation reads like a text written directly in the target language." }
+              ],
+              "tip": "Before checking your translation against the original, read it alone, out loud, in the target language — if it sounds odd on its own, the fidelity to individual words has cost you the sense."
+            },
+            {
+              "heading": "Langue source, langue cible : deux systèmes, pas un miroir",
+              "body": "Every language carves up reality slightly differently — what one marks with a single word, another spreads across a whole clause, and vice versa. A translator's first move is diagnostic: identify what the source language is really doing (an idiom, an understatement, a piece of implied information) before deciding how the target language would do the equivalent job, which is very often not the equivalent words.",
+              "examples": [
+                { "french": "La langue source privilégie parfois l'implicite ; la langue cible doit parfois l'expliciter.", "english": "The source language sometimes favours what is implicit; the target language sometimes has to make it explicit." },
+                { "french": "Ce que l'anglais dit en un seul verbe, le français le dit souvent en une périphrase.", "english": "What English says in a single verb, French often says with a whole phrase." },
+                { "french": "Chaque langue découpe le réel selon sa propre grammaire, pas selon une logique universelle.", "english": "Each language carves up reality according to its own grammar, not according to some universal logic." },
+                { "french": "Comprendre d'abord ce que fait la phrase, avant de se demander ce qu'elle dit mot pour mot.", "english": "First understand what the sentence is doing, before asking what it says word for word." }
+              ],
+              "tip": "Ask two separate questions: what work is this sentence doing in the source language (informing, softening, joking, warning), and what French sentence would do that same work — the two answers rarely share the same words."
+            },
+            {
+              "heading": "L'étoffement et l'économie : ajuster la longueur sans trahir",
+              "body": "French often needs more words than English to say the same thing precisely — a move called l'étoffement, or expansion; sometimes the reverse is true, and a French translator must practise l'économie, cutting redundancy English tolerates but French does not. Neither move is a liberty taken with the text: both exist to preserve the sense, not merely its word count.",
+              "examples": [
+                { "french": "\"Aware\" se rend souvent par une expansion : « conscient de », pas par un seul mot magique.", "english": "\"Aware\" is often rendered by an expansion: \"conscient de\", not by one magic word." },
+                { "french": "L'anglais répète volontiers un mot ; le français préfère souvent l'élégance variée ou l'ellipse.", "english": "English readily repeats a word; French often prefers varied elegance or ellipsis." },
+                { "french": "Étoffer un texte trop sec, dégraisser un texte trop lourd : les deux gestes servent le même but.", "english": "Padding out a text that is too spare, trimming one that is too heavy: both moves serve the same goal." },
+                { "french": "La fidélité ne se mesure jamais au nombre de mots, mais à l'effet produit sur le lecteur.", "english": "Fidelity is never measured by word count, but by the effect produced on the reader." }
+              ],
+              "tip": "If your French translation is suspiciously exactly as long as the English original, sentence by sentence, that regularity is itself a warning sign of word-for-word thinking."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "traduire", "french": "traduire", "english": "to translate", "partOfSpeech": "verb", "pronunciation": "trah-DWEER", "example": "Traduire, ce n'est pas remplacer un mot par un autre, c'est reconstruire un sens.", "exampleEnglish": "Translating is not swapping one word for another, it is rebuilding a meaning.", "level": "C1", "category": "translation" },
+            { "id": "la-traduction", "french": "la traduction", "english": "the translation", "partOfSpeech": "noun", "gender": "f", "plural": "les traductions", "pronunciation": "lah trah-duk-SYON", "example": "Une bonne traduction se lit comme un texte écrit directement dans la langue d'arrivée.", "exampleEnglish": "A good translation reads like a text written directly in the target language.", "level": "C1", "category": "translation" },
+            { "id": "le-traducteur", "french": "le traducteur", "english": "the translator", "partOfSpeech": "noun", "gender": "m", "plural": "les traducteurs", "pronunciation": "luh trah-duk-TUR", "example": "Le traducteur relit toujours son texte sans regarder l'original.", "exampleEnglish": "The translator always rereads their text without looking at the original.", "level": "C1", "category": "translation" },
+            { "id": "l-interprete", "french": "l'interprète", "english": "the interpreter (spoken translation)", "partOfSpeech": "noun", "gender": "m", "plural": "les interprètes", "pronunciation": "lan-tair-PRET", "example": "L'interprète traduit en temps réel, sans filet et sans dictionnaire.", "exampleEnglish": "The interpreter translates in real time, without a safety net and without a dictionary.", "level": "C1", "category": "translation" },
+            { "id": "la-langue-source", "french": "la langue source", "english": "the source language", "partOfSpeech": "expression", "pronunciation": "lah LAHNG SOORS", "example": "La langue source privilégie parfois l'implicite ; la langue cible doit parfois l'expliciter.", "exampleEnglish": "The source language sometimes favours what is implicit; the target language sometimes has to make it explicit.", "level": "C1", "category": "translation" },
+            { "id": "la-langue-cible", "french": "la langue cible", "english": "the target language", "partOfSpeech": "expression", "pronunciation": "lah LAHNG SEEBL", "example": "On juge une traduction dans la langue cible, jamais dans la langue source.", "exampleEnglish": "A translation is judged in the target language, never in the source language.", "level": "C1", "category": "translation" },
+            { "id": "le-sens", "french": "le sens", "english": "the meaning, the sense", "partOfSpeech": "noun", "gender": "m", "plural": "les sens", "pronunciation": "luh SAHNS", "example": "Comprendre d'abord ce que fait la phrase, avant de se demander ce qu'elle dit mot pour mot.", "exampleEnglish": "First understand what the sentence is doing, before asking what it says word for word.", "level": "C1", "category": "translation" },
+            { "id": "la-lettre-du-texte", "french": "la lettre (du texte)", "english": "the literal wording, the letter (of a text)", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah LETR", "example": "Il vaut mieux trahir la lettre que trahir l'esprit.", "exampleEnglish": "It is better to betray the letter than to betray the spirit.", "level": "C1", "category": "translation" },
+            { "id": "l-esprit-du-texte", "french": "l'esprit (d'un texte)", "english": "the spirit, the intent (of a text)", "partOfSpeech": "noun", "gender": "m", "pronunciation": "less-PREE", "example": "Rester fidèle à l'esprit d'un texte demande parfois de s'éloigner de sa lettre.", "exampleEnglish": "Staying faithful to a text's spirit sometimes requires straying from its letter.", "level": "C1", "category": "translation" },
+            { "id": "fidele", "french": "fidèle", "english": "faithful, accurate (of a translation)", "partOfSpeech": "adjective", "pronunciation": "fee-DEL", "example": "La fidélité ne se mesure jamais au nombre de mots, mais à l'effet produit sur le lecteur.", "exampleEnglish": "Fidelity is never measured by word count, but by the effect produced on the reader.", "level": "C1", "category": "translation" },
+            { "id": "la-fidelite", "french": "la fidélité", "english": "the faithfulness, the accuracy", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah fee-day-lee-TAY", "example": "On confond souvent fidélité et littéralité, alors que les deux s'opposent parfois.", "exampleEnglish": "Faithfulness and literalness are often confused, though the two sometimes conflict.", "level": "C1", "category": "translation" },
+            { "id": "l-equivalence", "french": "l'équivalence", "english": "the equivalence", "partOfSpeech": "noun", "gender": "f", "plural": "les équivalences", "pronunciation": "lay-kee-vah-LAHNSS", "example": "Chercher une équivalence, ce n'est pas chercher un mot identique.", "exampleEnglish": "Looking for an equivalence is not looking for an identical word.", "level": "C1", "category": "translation" },
+            { "id": "adapter-un-texte", "french": "adapter (un texte)", "english": "to adapt (a text)", "partOfSpeech": "verb", "pronunciation": "ah-dap-TAY", "example": "Certains jeux de mots ne se traduisent pas ; ils s'adaptent.", "exampleEnglish": "Some puns cannot be translated; they have to be adapted.", "level": "C1", "category": "translation" },
+            { "id": "l-adaptation", "french": "l'adaptation", "english": "the adaptation", "partOfSpeech": "noun", "gender": "f", "plural": "les adaptations", "pronunciation": "lah-dap-tah-SYON", "example": "L'adaptation reste fidèle à l'effet visé, même si elle change les mots.", "exampleEnglish": "The adaptation stays faithful to the intended effect, even as it changes the words.", "level": "C1", "category": "translation" },
+            { "id": "la-paraphrase", "french": "la paraphrase", "english": "the paraphrase", "partOfSpeech": "noun", "gender": "f", "plural": "les paraphrases", "pronunciation": "lah pah-rah-FRAHZ", "example": "Face à un jeu de mots intraduisible, la paraphrase reste une solution honnête.", "exampleEnglish": "Faced with an untranslatable pun, paraphrase remains an honest solution.", "level": "C1", "category": "translation" },
+            { "id": "reformuler-traduction", "french": "reformuler", "english": "to rephrase, to reword", "partOfSpeech": "verb", "pronunciation": "ruh-for-mu-LAY", "example": "Reformuler une phrase entière vaut mieux que forcer chaque mot à correspondre.", "exampleEnglish": "Rewording a whole sentence is better than forcing every word to correspond.", "level": "C1", "category": "translation" },
+            { "id": "rendre-traduire", "french": "rendre (une idée)", "english": "to render (an idea, in translation)", "partOfSpeech": "verb", "pronunciation": "RAHNDR", "example": "Comment rendre en français l'understatement si typiquement anglais ?", "exampleEnglish": "How do you render in French the understatement so typically English?", "level": "C1", "category": "translation" },
+            { "id": "le-contexte", "french": "le contexte", "english": "the context", "partOfSpeech": "noun", "gender": "m", "plural": "les contextes", "pronunciation": "luh kon-TEKST", "example": "Un mot isolé n'a pas de sens fixe ; c'est le contexte qui décide.", "exampleEnglish": "A word in isolation has no fixed meaning; context is what decides.", "level": "C1", "category": "translation" },
+            { "id": "l-implicite", "french": "l'implicite", "english": "the implicit, what is left unsaid", "partOfSpeech": "noun", "gender": "m", "pronunciation": "lan-plee-SEET", "example": "Traduire l'implicite d'une phrase demande de le rendre visible sans l'expliquer.", "exampleEnglish": "Translating a sentence's implicit meaning means making it visible without explaining it.", "level": "C1", "category": "translation" },
+            { "id": "le-sous-entendu", "french": "le sous-entendu", "english": "the implication, the hint", "partOfSpeech": "noun", "gender": "m", "plural": "les sous-entendus", "pronunciation": "luh soo-zahn-tahn-DU", "example": "Le sous-entendu du dialogue disparaît si on le traduit trop littéralement.", "exampleEnglish": "The dialogue's implication vanishes if it is translated too literally.", "level": "C1", "category": "translation" },
+            { "id": "la-connotation", "french": "la connotation", "english": "the connotation", "partOfSpeech": "noun", "gender": "f", "plural": "les connotations", "pronunciation": "lah koh-noh-tah-SYON", "example": "\"Frugal\" et « radin » partagent une dénotation, pas une connotation.", "exampleEnglish": "\"Frugal\" and \"radin\" share a denotation, not a connotation.", "level": "C1", "category": "translation" },
+            { "id": "la-denotation", "french": "la dénotation", "english": "the denotation", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah day-noh-tah-SYON", "example": "La dénotation d'un mot ne suffit jamais à garantir une bonne traduction.", "exampleEnglish": "A word's denotation is never enough on its own to guarantee a good translation.", "level": "C1", "category": "translation" },
+            { "id": "l-ambiguite", "french": "l'ambiguïté", "english": "the ambiguity", "partOfSpeech": "noun", "gender": "f", "plural": "les ambiguïtés", "pronunciation": "lahn-bee-gwee-TAY", "example": "Certaines ambiguïtés voulues par l'auteur doivent survivre à la traduction.", "exampleEnglish": "Certain ambiguities intended by the author must survive translation.", "level": "C1", "category": "translation" },
+            { "id": "intraduisible", "french": "intraduisible", "english": "untranslatable", "partOfSpeech": "adjective", "pronunciation": "an-trah-dwee-ZEEBL", "example": "Aucun mot n'est vraiment intraduisible ; certains demandent juste une phrase entière.", "exampleEnglish": "No word is truly untranslatable; some just require a whole sentence.", "level": "C1", "category": "translation" },
+            { "id": "transposer", "french": "transposer", "english": "to transpose (a structure, into another language)", "partOfSpeech": "verb", "pronunciation": "trahns-poh-ZAY", "example": "Il faut parfois transposer un nom en verbe pour que la phrase française sonne juste.", "exampleEnglish": "Sometimes a noun must be transposed into a verb for the French sentence to sound right.", "level": "C1", "category": "translation" },
+            { "id": "la-transposition", "french": "la transposition", "english": "the transposition", "partOfSpeech": "noun", "gender": "f", "plural": "les transpositions", "pronunciation": "lah trahns-poh-zee-SYON", "example": "Cette transposition grammaticale rend la phrase bien plus naturelle.", "exampleEnglish": "This grammatical transposition makes the sentence far more natural.", "level": "C1", "category": "translation" },
+            { "id": "l-etoffement", "french": "l'étoffement", "english": "the expansion (adding words to render a sense fully)", "partOfSpeech": "noun", "gender": "m", "pronunciation": "lay-tof-MAHN", "example": "\"Aware\" se rend souvent par une expansion : « conscient de », pas par un seul mot magique.", "exampleEnglish": "\"Aware\" is often rendered by an expansion: \"conscient de\", not by one magic word.", "level": "C1", "category": "translation" },
+            { "id": "etoffer", "french": "étoffer", "english": "to flesh out, to expand (a phrase)", "partOfSpeech": "verb", "pronunciation": "ay-toh-FAY", "example": "Étoffer un texte trop sec, dégraisser un texte trop lourd : les deux gestes servent le même but.", "exampleEnglish": "Padding out a text that is too spare, trimming one that is too heavy: both moves serve the same goal.", "level": "C1", "category": "translation" },
+            { "id": "condenser", "french": "condenser", "english": "to condense, to tighten (a phrase)", "partOfSpeech": "verb", "pronunciation": "kon-dahn-SAY", "example": "Le français condense parfois en un adjectif ce que l'anglais dit en une proposition entière.", "exampleEnglish": "French sometimes condenses into a single adjective what English says in a whole clause.", "level": "C1", "category": "translation" },
+            { "id": "naturel-traduction", "french": "naturel", "english": "natural-sounding (of a translated sentence)", "partOfSpeech": "adjective", "pronunciation": "nah-tu-REL", "example": "Un traducteur reconnaît une phrase naturelle à l'oreille, avant même de l'analyser.", "exampleEnglish": "A translator recognises a natural-sounding sentence by ear, before even analysing it.", "level": "C1", "category": "translation" },
+            { "id": "force-traduction", "french": "forcé", "english": "forced, stilted (of a translation)", "partOfSpeech": "adjective", "pronunciation": "for-SAY", "example": "Une traduction forcée se reconnaît à ses tournures qu'aucun natif n'emploierait.", "exampleEnglish": "A stilted translation gives itself away through turns of phrase no native speaker would use.", "level": "C1", "category": "translation" },
+            { "id": "mot-a-mot", "french": "le mot à mot", "english": "word-for-word translation", "partOfSpeech": "expression", "pronunciation": "moh ah MOH", "example": "Le mot à mot produit une phrase correcte que personne ne prononcerait jamais.", "exampleEnglish": "Word-for-word translation produces a correct sentence that no one would ever actually say.", "level": "C1", "category": "translation" },
+            { "id": "litteral", "french": "littéral", "english": "literal", "partOfSpeech": "adjective", "pronunciation": "lee-tay-RAL", "example": "Une traduction trop littérale sacrifie souvent le naturel de la langue cible.", "exampleEnglish": "An overly literal translation often sacrifices the target language's naturalness.", "level": "C1", "category": "translation" },
+            { "id": "le-calque", "french": "le calque", "english": "the calque, the word-for-word copy", "partOfSpeech": "noun", "gender": "m", "plural": "des calques", "pronunciation": "luh KALK", "example": "« Cela fait du sens » est un calque de l'anglais ; on dit « cela a du sens ».", "exampleEnglish": "\"Cela fait du sens\" is a calque from English; the correct phrase is \"cela a du sens\".", "level": "C1", "category": "translation" },
+            { "id": "le-contresens", "french": "le contresens", "english": "the mistranslation that reverses the meaning", "partOfSpeech": "noun", "gender": "m", "plural": "des contresens", "pronunciation": "luh kon-truh-SAHNS", "example": "Un contresens change le sens du texte, pas seulement son style.", "exampleEnglish": "A contresens changes the text's meaning, not just its style.", "level": "C1", "category": "translation" },
+            { "id": "le-faux-sens", "french": "le faux-sens", "english": "the slightly-off translation error", "partOfSpeech": "noun", "gender": "m", "plural": "des faux-sens", "pronunciation": "luh foh-SAHNS", "example": "Rendre « déception » par « deception » serait un faux-sens grave.", "exampleEnglish": "Rendering \"déception\" as \"deception\" would be a serious faux-sens.", "level": "C1", "category": "translation" },
+            { "id": "le-mot-juste", "french": "le mot juste", "english": "the exactly right word", "partOfSpeech": "expression", "pronunciation": "luh moh ZHUST", "example": "Le traducteur relit trois fois pour trouver le mot juste.", "exampleEnglish": "The translator rereads three times to find exactly the right word.", "level": "C1", "category": "translation" },
+            { "id": "actualiser", "french": "actualiser", "english": "to activate, to bring out (a particular sense, in context)", "partOfSpeech": "verb", "pronunciation": "ahk-tu-ah-lee-ZAY", "example": "Le contexte actualise immédiatement le sens juridique du mot, pas son sens courant.", "exampleEnglish": "The context immediately activates the word's legal sense, not its everyday one.", "level": "C1", "category": "translation" },
+            { "id": "la-version", "french": "la version", "english": "translation into one's own language (exercise)", "partOfSpeech": "noun", "gender": "f", "plural": "les versions", "pronunciation": "lah vehr-SYON", "example": "En version, on traduit vers sa langue maternelle.", "exampleEnglish": "In a \"version\" exercise, you translate into your native language.", "level": "C1", "category": "translation" },
+            { "id": "le-theme", "french": "le thème", "english": "translation into the foreign language (exercise)", "partOfSpeech": "noun", "gender": "m", "plural": "les thèmes", "pronunciation": "luh TEM", "example": "Le thème est souvent jugé plus difficile que la version.", "exampleEnglish": "\"Theme\" translation is often considered harder than \"version\" translation.", "level": "C1", "category": "translation" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "La modulation : changer d'angle sans changer de sens",
+              "body": "Modulation is a classic translation technique: instead of rendering a sentence's exact grammatical shape, you shift its point of view — negative becomes affirmative, active becomes passive, cause becomes effect — while preserving the same underlying meaning. French often reaches for modulation where English states something directly, especially to soften a claim or avoid an awkward literal construction.",
+              "examples": [
+                { "french": "\"It's not difficult\" devient naturellement « c'est facile », pas « ce n'est pas difficile » à tout prix.", "english": "\"It's not difficult\" naturally becomes \"c'est facile\", not \"ce n'est pas difficile\" at all costs." },
+                { "french": "Là où l'anglais dit « the door was opened by the wind », le français préfère souvent « le vent a ouvert la porte ».", "english": "Where English says \"the door was opened by the wind\", French often prefers \"the wind opened the door\"." },
+                { "french": "\"You're not wrong\" se module naturellement en « tu as raison », sans perdre la nuance de réticence.", "english": "\"You're not wrong\" naturally modulates into \"tu as raison\", without losing the note of reluctance." },
+                { "french": "La modulation change la forme grammaticale ; elle ne doit jamais changer le message.", "english": "Modulation changes the grammatical form; it must never change the message." }
+              ],
+              "tip": "French tends to avoid the passive voice more than English does — when you meet an English passive, ask whether an active French sentence with a different subject would sound more natural before defaulting to \"être + participe passé\"."
+            },
+            {
+              "heading": "Depuis, il y a... que, ça fait... que : traduire la durée",
+              "body": "English marks an ongoing duration with a present perfect continuous (\"I have been living here for ten years\"), but French keeps this idea in the present tense and moves the time information into a separate structure: \"depuis\", \"il y a... que\", or \"ça fait... que\". Translating this pattern word-for-word into a French compound past tense is one of the most common and most visible errors an advanced learner can still make.",
+              "examples": [
+                { "french": "J'habite ici depuis dix ans.", "english": "I have been living here for ten years." },
+                { "french": "Ça fait dix ans que j'habite ici.", "english": "It has been ten years that I have lived here." },
+                { "french": "Il y a longtemps qu'elle travaille sur cette traduction.", "english": "She has been working on this translation for a long time." },
+                { "french": "Depuis quand attendez-vous une réponse ?", "english": "Since when have you been waiting for a reply?" }
+              ],
+              "tip": "Never translate \"I have been doing X for ten years\" with \"j'ai fait X pendant dix ans\" unless the action is finished — \"depuis\" plus the present tense is required for anything still ongoing."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "c1_u25_l01_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What is this sentence claiming about translation?",
+              "french": "Traduire, ce n'est pas remplacer un mot par un autre, c'est reconstruire un sens.",
+              "options": ["Translation rebuilds meaning rather than swapping words", "Translation should replace each word exactly", "Translation is impossible between distant languages", "Translation only matters for literature"],
+              "answer": "Translation rebuilds meaning rather than swapping words"
+            },
+            {
+              "id": "c1_u25_l01_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. What warning sign does this sentence describe?",
+              "french": "Le mot à mot produit une phrase correcte que personne ne prononcerait jamais.",
+              "options": ["A translation can be grammatically correct yet completely unnatural", "Word-for-word translation is always grammatically wrong", "Native speakers never make translation errors", "Correct grammar guarantees a good translation"],
+              "answer": "A translation can be grammatically correct yet completely unnatural"
+            },
+            {
+              "id": "c1_u25_l01_li03",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Il vaut mieux trahir la lettre que trahir l'esprit.",
+              "answer": "Il vaut mieux trahir la lettre que trahir l'esprit.",
+              "acceptedAnswers": ["il vaut mieux trahir la lettre que trahir l'esprit", "il vaut mieux trahir la lettre que trahir l esprit"]
+            },
+            {
+              "id": "c1_u25_l01_li04",
+              "type": "dictation",
+              "prompt": "Dictation: write exactly what you hear.",
+              "french": "La fidélité ne se mesure jamais au nombre de mots, mais à l'effet produit sur le lecteur.",
+              "answer": "La fidélité ne se mesure jamais au nombre de mots, mais à l'effet produit sur le lecteur.",
+              "acceptedAnswers": ["la fidelite ne se mesure jamais au nombre de mots, mais a l'effet produit sur le lecteur", "la fidelite ne se mesure jamais au nombre de mots mais a l effet produit sur le lecteur"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "c1_u25_l01_sp01",
+              "type": "speak",
+              "prompt": "State the central rule of this lesson: translation rebuilds meaning, it doesn't swap words.",
+              "french": "Traduire, ce n'est pas remplacer un mot par un autre, c'est reconstruire un sens.",
+              "english": "Translating is not swapping one word for another, it is rebuilding a meaning.",
+              "tip": "Place a clear break before 'c'est reconstruire' — the sentence pivots there from what translation is not to what it is."
+            },
+            {
+              "id": "c1_u25_l01_sp02",
+              "type": "speak",
+              "prompt": "Explain how you would render an ongoing action that started ten years ago.",
+              "french": "J'habite ici depuis dix ans.",
+              "english": "I have been living here for ten years.",
+              "tip": "Keep the verb firmly in the present tense — 'habite', not a compound past — that is the whole point of the structure."
+            },
+            {
+              "id": "c1_u25_l01_sp03",
+              "type": "speak",
+              "prompt": "Defend betraying the letter of a text in order to keep its spirit.",
+              "french": "Il vaut mieux trahir la lettre que trahir l'esprit.",
+              "english": "It is better to betray the letter than to betray the spirit.",
+              "tip": "Give 'la lettre' and 'l'esprit' distinct weight — the sentence's whole argument rests on that contrast."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Le carnet d'une traductrice",
+              "french": "Le manuscrit anglais tenait en une phrase simple : « She was not unkind, just tired of pretending otherwise. »\nInès Roussel la relut trois fois. Un mot à mot livrait : « Elle n'était pas peu aimable, juste fatiguée de prétendre le contraire. » Grammaticalement correct. Absolument imprononçable en français.\nElle chercha d'abord le sens, pas les mots : une double négation anglaise, « not unkind », qui atténue sans nier ; une fatigue, non pas physique, mais morale, celle de tenir un rôle.\nElle écrivit : « Elle n'était pas méchante, seulement lasse de jouer les autres. » Puis elle biffa « jouer les autres », trop vague, et la remplaça par « lasse de faire semblant du contraire ».\nÀ la relecture, la phrase sonnait juste, sans trace de l'anglais dessous.\nPlus loin, une expression posa un autre problème : « a rainy-day fund ». Le calque, « un fonds de jour de pluie », n'existait dans aucune bouche française. Inès opta pour « une épargne de précaution », qui perdait l'image de la pluie mais gardait exactement le sens : de l'argent mis de côté pour un jour difficile.\nSon éditeur, en marge, avait noté un doute : « Trop libre, non ? » Inès répondit par une note en bas de page, courte : « Fidèle au sens, pas à la lettre — c'est le contrat de toute traduction. »\nElle n'étoffa la phrase suivante que d'un mot, « justement », pour rendre un silence implicite que l'anglais laissait entendre sans le dire.\nÀ la dernière page, elle relut l'ensemble du chapitre sans ouvrir l'original, une seule fois, pour vérifier une chose : est-ce que cela sonnait comme un texte écrit en français depuis le début ?\nC'était le cas. Elle ferma le dossier.",
+              "english": "The English manuscript held one simple sentence: \"She was not unkind, just tired of pretending otherwise.\"\nInès Roussel reread it three times. A word-for-word rendering gave: \"Elle n'était pas peu aimable, juste fatiguée de prétendre le contraire.\" Grammatically correct. Absolutely unpronounceable in French.\nShe looked first for the meaning, not the words: an English double negative, \"not unkind\", which softens without denying; a tiredness that was not physical but moral, the weariness of keeping up a role.\nShe wrote: \"Elle n'était pas méchante, seulement lasse de jouer les autres.\" Then she crossed out \"jouer les autres\", too vague, and replaced it with \"lasse de faire semblant du contraire\".\nOn rereading, the sentence sounded right, with no trace of the English underneath.\nFurther on, one expression posed another problem: \"a rainy-day fund\". The calque, \"un fonds de jour de pluie\", existed in no French mouth. Inès chose \"une épargne de précaution\", which lost the image of rain but kept exactly the meaning: money set aside for a difficult day.\nHer editor, in the margin, had noted a doubt: \"Too free, no?\" Inès replied with a short footnote: \"Faithful to the sense, not to the letter — that is the contract of any translation.\"\nShe expanded the following sentence by only one word, \"justement\", to render an implicit silence the English let the reader hear without stating it.\nOn the last page, she reread the whole chapter without opening the original, just once, to check one thing: did it sound like a text written in French from the start?\nIt did. She closed the file.",
+              "questions": [
+                {
+                  "id": "c1_u25_l01_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Why does Inès reject the word-for-word translation of \"not unkind\"?",
+                  "options": ["It is grammatically correct but unnatural in French", "It is grammatically incorrect", "It changes the meaning of the sentence", "It is too short compared to the English"],
+                  "answer": "It is grammatically correct but unnatural in French"
+                },
+                {
+                  "id": "c1_u25_l01_rd02",
+                  "type": "multipleChoice",
+                  "prompt": "Why does Inès avoid a calque for \"a rainy-day fund\"?",
+                  "options": ["No French speaker would actually use that phrase", "The editor forbade any change to the images", "It was too short to translate accurately", "French has no word at all for savings"],
+                  "answer": "No French speaker would actually use that phrase"
+                },
+                {
+                  "id": "c1_u25_l01_rd03",
+                  "type": "trueFalse",
+                  "prompt": "True or false: Inès checks her translation by rereading it once without looking back at the English original.",
+                  "options": ["True", "False"],
+                  "answer": "True"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "c1_u25_l01_wr01",
+              "type": "translate",
+              "prompt": "Translate: \"A good translation reads like a text written directly in the target language.\"",
+              "english": "A good translation reads like a text written directly in the target language.",
+              "answer": "Une bonne traduction se lit comme un texte écrit directement dans la langue d'arrivée.",
+              "acceptedAnswers": ["une bonne traduction se lit comme un texte ecrit directement dans la langue d'arrivee", "une bonne traduction se lit comme un texte ecrit directement dans la langue d arrivee"]
+            },
+            {
+              "id": "c1_u25_l01_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "It is better to betray the letter than to betray the spirit.",
+              "words": ["Il", "vaut", "mieux", "trahir", "la", "lettre", "que", "trahir", "l'esprit"],
+              "answer": "Il vaut mieux trahir la lettre que trahir l'esprit"
+            },
+            {
+              "id": "c1_u25_l01_wr03",
+              "type": "fillBlank",
+              "prompt": "Complete with the duration structure: \"J'habite ici ___ dix ans.\" (for, ongoing)",
+              "answer": "depuis",
+              "hint": "Marks an action that started in the past and is still true."
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "c1_u25_l01_pr01",
+              "type": "multipleChoice",
+              "prompt": "What does 'l'étoffement' mean in translation?",
+              "options": ["Expanding a phrase with extra words to render its full sense", "Deleting redundant words", "Translating a poem into prose", "Copying a foreign structure directly into French"],
+              "answer": "Expanding a phrase with extra words to render its full sense"
+            },
+            {
+              "id": "c1_u25_l01_pr02",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Le ___ produit une phrase correcte que personne ne prononcerait jamais.\" (word-for-word)",
+              "answer": "mot à mot",
+              "hint": "Two words joined by 'à', naming literal translation."
+            },
+            {
+              "id": "c1_u25_l01_pr03",
+              "type": "match",
+              "prompt": "Match each translation term with its meaning.",
+              "pairs": [
+                { "french": "le calque", "english": "a word-for-word copy of a foreign structure" },
+                { "french": "le contresens", "english": "a mistranslation that reverses the meaning" },
+                { "french": "la modulation", "english": "shifting a sentence's point of view while keeping the same sense" },
+                { "french": "intraduisible", "english": "untranslatable" }
+              ]
+            },
+            {
+              "id": "c1_u25_l01_pr04",
+              "type": "multipleChoice",
+              "prompt": "Why does French usually avoid translating \"the door was opened by the wind\" with a passive construction?",
+              "options": ["French favours modulation into an active sentence with a different subject", "French has no passive voice at all", "The sentence has no French equivalent", "Passive constructions are grammatically incorrect in French"],
+              "answer": "French favours modulation into an active sentence with a different subject"
+            },
+            {
+              "id": "c1_u25_l01_pr05",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "Each language carves up reality according to its own grammar.",
+              "words": ["Chaque", "langue", "découpe", "le", "réel", "selon", "sa", "propre", "grammaire"],
+              "answer": "Chaque langue découpe le réel selon sa propre grammaire"
+            },
+            {
+              "id": "c1_u25_l01_pr06",
+              "type": "translate",
+              "prompt": "Translate: \"She has been working on this translation for a long time.\"",
+              "english": "She has been working on this translation for a long time.",
+              "answer": "Il y a longtemps qu'elle travaille sur cette traduction.",
+              "acceptedAnswers": ["il y a longtemps qu'elle travaille sur cette traduction", "il y a longtemps qu elle travaille sur cette traduction", "elle travaille sur cette traduction depuis longtemps"]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "c1_u25_l01_qz01",
+              "type": "multipleChoice",
+              "prompt": "According to the lesson, what should a translator check first?",
+              "options": ["What work the sentence is doing, before its exact words", "Whether every word has a French dictionary equivalent", "The total word count of the original", "Whether the sentence uses the passive voice"],
+              "answer": "What work the sentence is doing, before its exact words"
+            },
+            {
+              "id": "c1_u25_l01_qz02",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Il vaut mieux trahir la ___ que trahir l'esprit.\" (the literal wording)",
+              "answer": "lettre"
+            },
+            {
+              "id": "c1_u25_l01_qz03",
+              "type": "multipleChoice",
+              "prompt": "How does French normally express \"I have been living here for ten years\"?",
+              "options": ["J'habite ici depuis dix ans.", "J'ai habité ici pendant dix ans.", "J'avais habité ici depuis dix ans.", "J'habiterai ici depuis dix ans."],
+              "answer": "J'habite ici depuis dix ans."
+            },
+            {
+              "id": "c1_u25_l01_qz04",
+              "type": "trueFalse",
+              "prompt": "True or false: a grammatically correct word-for-word translation is always a good translation.",
+              "options": ["True", "False"],
+              "answer": "False"
+            },
+            {
+              "id": "c1_u25_l01_qz05",
+              "type": "multipleChoice",
+              "prompt": "What is 'la modulation' in translation?",
+              "options": ["Shifting a sentence's angle (e.g. negative to affirmative) while keeping its meaning", "Translating word for word", "Adding footnotes to explain a joke", "Leaving a sentence untranslated"],
+              "answer": "Shifting a sentence's angle (e.g. negative to affirmative) while keeping its meaning"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1_u25_l02",
+      "level": "C1",
+      "unit": 25,
+      "title": "Les faux amis avancés",
+      "description": "Go beyond beginner false friends to the subtler cognates that still trip up advanced speakers in professional and academic French.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Au-delà des faux amis de débutant",
+              "body": "Every learner meets the beginner false friends early — « librairie » is not a library, « une pièce » is not just a room. At C1, the trap is subtler: words that share almost the whole semantic field with their English cognate, and diverge only at the edges, in register, or in one specific professional context. These are the false friends that survive years of study, because they are usually right — until the one time they are not.",
+              "examples": [
+                { "french": "Un faux ami avancé ne trompe presque jamais un débutant ; il trompe un locuteur confiant.", "english": "An advanced false friend almost never fools a beginner; it fools a confident speaker." },
+                { "french": "Le danger n'est pas le mot totalement différent, c'est le mot presque identique.", "english": "The danger is not the word that is completely different, it is the word that is almost identical." },
+                { "french": "Certains faux amis ne trompent que dans un registre professionnel précis.", "english": "Some false friends only mislead within one specific professional register." },
+                { "french": "Plus votre français est fluide, plus un faux ami avancé passe inaperçu.", "english": "The more fluent your French becomes, the more an advanced false friend slips by unnoticed." }
+              ],
+              "tip": "Be most suspicious of the words that feel effortless — a false friend you have to stop and think about rarely does damage; the one you use on autopilot is the one that eventually betrays you."
+            },
+            {
+              "heading": "Le piège du sens partiel",
+              "body": "Many advanced false friends are not wholly wrong, just partially wrong: the French word covers one sense the English cognate shares, and one it does not. « Une conférence » can indeed mean a conference, but just as often means a single talk; « un cadre » can mean a professional cadre, but far more often means a manager, a frame, or a setting. The skill is knowing which sense is dominant in French before assuming the English one transfers.",
+              "examples": [
+                { "french": "« Un cadre » désigne le plus souvent un dirigeant, pas un groupe de militants.", "english": "\"Un cadre\" most often means an executive, not a group of activists." },
+                { "french": "« Une conférence » peut être un simple exposé d'une heure, pas nécessairement un grand congrès.", "english": "\"Une conférence\" can be a simple one-hour talk, not necessarily a huge congress." },
+                { "french": "« Inhabité » ne veut pas dire habité : c'est exactement le sens contraire.", "english": "\"Inhabité\" does not mean inhabited: it means exactly the opposite." },
+                { "french": "Le sens dominant en français n'est pas toujours le sens le plus proche de l'anglais.", "english": "The dominant sense in French is not always the one closest to English." }
+              ],
+              "tip": "When a French word looks like an English one but the sentence still feels slightly off, check a monolingual French dictionary, not a bilingual one — bilingual dictionaries often list the false-friend sense first, precisely because it looks reassuring."
+            },
+            {
+              "heading": "Vérifier au lieu de deviner",
+              "body": "The only reliable defence against advanced false friends is the reflex to verify rather than assume, especially in writing that will be read by others: a report, an email, a translated document. A five-second dictionary check costs nothing; a false friend published in a professional document costs credibility, and sometimes costs the actual meaning the writer intended to convey.",
+              "examples": [
+                { "french": "Un instant de doute vaut mieux qu'une confiance mal placée.", "english": "A moment of doubt is worth more than misplaced confidence." },
+                { "french": "Je vérifie systématiquement les mots qui ressemblent trop à l'anglais.", "english": "I systematically check the words that look too much like English." },
+                { "french": "Le faux ami avancé se cache précisément là où on ne pense pas à chercher.", "english": "The advanced false friend hides precisely where one does not think to look." },
+                { "french": "Douter d'un mot familier est souvent plus utile que d'apprendre un mot nouveau.", "english": "Doubting a familiar word is often more useful than learning a new one." }
+              ],
+              "tip": "Keep a running personal list of the false friends that have actually tripped you up — a generic list rarely sticks, but your own mistakes, revisited, almost always do."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "l-apologie", "french": "l'apologie", "english": "a defence, a vindication of an idea (false friend: not \"apology\", which is \"des excuses\")", "partOfSpeech": "noun", "gender": "f", "plural": "les apologies", "pronunciation": "lah-poh-loh-ZHEE", "example": "Ce discours n'est pas une apologie de la violence, précisa l'auteur.", "exampleEnglish": "This speech is not a vindication of violence, the author clarified.", "level": "C1", "category": "false-friends" },
+            { "id": "une-issue", "french": "une issue", "english": "an exit, an outcome (false friend: not \"an issue\", which is \"une question\" or \"un problème\")", "partOfSpeech": "noun", "gender": "f", "plural": "des issues", "pronunciation": "ewn ee-SU", "example": "La négociation s'est terminée sans issue claire.", "exampleEnglish": "The negotiation ended without a clear outcome.", "level": "C1", "category": "false-friends" },
+            { "id": "un-stage", "french": "un stage", "english": "an internship, a training placement (false friend: not \"a stage\", which is \"une étape\" or \"une scène\")", "partOfSpeech": "noun", "gender": "m", "plural": "des stages", "pronunciation": "uhn STAHZH", "example": "Elle a fait un stage de six mois avant d'être embauchée.", "exampleEnglish": "She did a six-month internship before being hired.", "level": "C1", "category": "false-friends" },
+            { "id": "un-cadre-faux-ami", "french": "un cadre", "english": "a manager, an executive; a frame (false friend: not \"a cadre\", a trained activist group)", "partOfSpeech": "noun", "gender": "m", "plural": "des cadres", "pronunciation": "uhn KAHDR", "example": "« Un cadre » désigne le plus souvent un dirigeant, pas un groupe de militants.", "exampleEnglish": "\"Un cadre\" most often means an executive, not a group of activists.", "level": "C1", "category": "false-friends" },
+            { "id": "le-conducteur", "french": "le conducteur", "english": "the driver (false friend: not \"the conductor\" of an orchestra, which is \"le chef d'orchestre\")", "partOfSpeech": "noun", "gender": "m", "plural": "les conducteurs", "pronunciation": "luh kon-duk-TUR", "example": "Le conducteur du bus a évité l'accident de justesse.", "exampleEnglish": "The bus driver narrowly avoided the accident.", "level": "C1", "category": "false-friends" },
+            { "id": "une-manifestation", "french": "une manifestation", "english": "a demonstration, a protest; an expression of something (false friend: narrower than English \"manifestation\")", "partOfSpeech": "noun", "gender": "f", "plural": "des manifestations", "pronunciation": "ewn mah-nee-fess-tah-SYON", "example": "Une manifestation a rassemblé plusieurs milliers de personnes samedi.", "exampleEnglish": "A demonstration brought together several thousand people on Saturday.", "level": "C1", "category": "false-friends" },
+            { "id": "sympathique", "french": "sympathique", "english": "nice, likeable (false friend: not \"sympathetic\", which is \"compatissant\")", "partOfSpeech": "adjective", "pronunciation": "san-pah-TEEK", "example": "Ses nouveaux collègues lui ont paru très sympathiques.", "exampleEnglish": "Her new colleagues seemed very likeable to her.", "level": "C1", "category": "false-friends" },
+            { "id": "comprehensif", "french": "compréhensif", "english": "understanding, tolerant (false friend: not \"comprehensive\", which is \"complet\" or \"exhaustif\")", "partOfSpeech": "adjective", "pronunciation": "kon-pray-ahn-SEEF", "example": "Son responsable s'est montré compréhensif face à son retard.", "exampleEnglish": "Her manager was understanding about her being late.", "level": "C1", "category": "false-friends" },
+            { "id": "une-lecture", "french": "une lecture", "english": "a reading (false friend: not \"a lecture\", which is \"une conférence\" or \"un cours magistral\")", "partOfSpeech": "noun", "gender": "f", "plural": "des lectures", "pronunciation": "ewn lek-TUR", "example": "Cette lecture du roman propose une interprétation inattendue.", "exampleEnglish": "This reading of the novel offers an unexpected interpretation.", "level": "C1", "category": "false-friends" },
+            { "id": "une-conference-faux-ami", "french": "une conférence", "english": "a talk, a lecture; a formal high-level meeting (false friend: narrower than English \"conference\")", "partOfSpeech": "noun", "gender": "f", "plural": "des conférences", "pronunciation": "ewn kon-fay-RAHNSS", "example": "« Une conférence » peut être un simple exposé d'une heure, pas nécessairement un grand congrès.", "exampleEnglish": "\"Une conférence\" can be a simple one-hour talk, not necessarily a huge congress.", "level": "C1", "category": "false-friends" },
+            { "id": "un-congres", "french": "un congrès", "english": "a (large professional or political) conference", "partOfSpeech": "noun", "gender": "m", "plural": "des congrès", "pronunciation": "uhn kon-GREH", "example": "Le congrès annuel réunit des chercheurs du monde entier.", "exampleEnglish": "The annual congress brings together researchers from around the world.", "level": "C1", "category": "false-friends" },
+            { "id": "un-cabinet", "french": "un cabinet", "english": "a professional office, a practice; a cabinet (government) (false friend: not furniture, which is \"un meuble\")", "partOfSpeech": "noun", "gender": "m", "plural": "des cabinets", "pronunciation": "uhn kah-bee-NEH", "example": "Elle a ouvert son propre cabinet d'avocats l'année dernière.", "exampleEnglish": "She opened her own law practice last year.", "level": "C1", "category": "false-friends" },
+            { "id": "une-injure", "french": "une injure", "english": "an insult (false friend: not \"an injury\", which is \"une blessure\")", "partOfSpeech": "noun", "gender": "f", "plural": "des injures", "pronunciation": "ewn an-ZHUR", "example": "Il a répondu à la critique par une injure, ce qui a tout envenimé.", "exampleEnglish": "He responded to the criticism with an insult, which made everything worse.", "level": "C1", "category": "false-friends" },
+            { "id": "le-processus", "french": "le processus", "english": "the process (false friend risk: not \"le procès\", the trial)", "partOfSpeech": "noun", "gender": "m", "plural": "les processus", "pronunciation": "luh proh-say-SUSS", "example": "Le processus de recrutement dure en moyenne six semaines.", "exampleEnglish": "The recruitment process takes six weeks on average.", "level": "C1", "category": "false-friends" },
+            { "id": "le-proces", "french": "le procès", "english": "the trial (false friend risk: not \"le processus\", the process)", "partOfSpeech": "noun", "gender": "m", "plural": "les procès", "pronunciation": "luh proh-SEH", "example": "Le procès s'ouvre lundi devant la cour d'assises.", "exampleEnglish": "The trial opens on Monday before the assize court.", "level": "C1", "category": "false-friends" },
+            { "id": "sense", "french": "sensé", "english": "sensible, reasonable (false friend: not \"sensitive\", which is \"sensible\" in French)", "partOfSpeech": "adjective", "pronunciation": "sahn-SAY", "example": "C'est une remarque sensée, qu'on ne peut pas balayer d'un revers de main.", "exampleEnglish": "That is a sensible remark, one that cannot just be brushed aside.", "level": "C1", "category": "false-friends" },
+            { "id": "sensible-faux-ami", "french": "sensible", "english": "sensitive (false friend: not \"sensible\", which is \"sensé\" in French)", "partOfSpeech": "adjective", "pronunciation": "sahn-SEEBL", "example": "C'est un sujet sensible ; mieux vaut l'aborder avec tact.", "exampleEnglish": "It's a sensitive topic; better to approach it tactfully.", "level": "C1", "category": "false-friends" },
+            { "id": "la-figure", "french": "la figure", "english": "the face (literary register); a figure of speech (\"une figure de style\") (false friend: narrower than English \"figure\")", "partOfSpeech": "noun", "gender": "f", "plural": "les figures", "pronunciation": "lah fee-GUR", "example": "Sa figure s'éclaira dès qu'elle reconnut la voix au téléphone.", "exampleEnglish": "Her face lit up the moment she recognised the voice on the phone.", "level": "C1", "category": "false-friends" },
+            { "id": "abusif", "french": "abusif", "english": "excessive, unwarranted (e.g. \"licenciement abusif\" = wrongful dismissal) (false friend: narrower than English \"abusive\")", "partOfSpeech": "adjective", "pronunciation": "ah-bu-ZEEF", "example": "Le tribunal a jugé ce licenciement abusif.", "exampleEnglish": "The tribunal ruled this dismissal wrongful.", "level": "C1", "category": "false-friends" },
+            { "id": "la-deroute", "french": "la déroute", "english": "the rout, the collapse (false friend: not \"a detour\", which is \"un détour\")", "partOfSpeech": "noun", "gender": "f", "plural": "les déroutes", "pronunciation": "lah day-ROOT", "example": "L'entreprise a connu une déroute financière en quelques mois.", "exampleEnglish": "The company suffered a financial collapse within months.", "level": "C1", "category": "false-friends" },
+            { "id": "un-detour", "french": "un détour", "english": "a detour (contrast with \"la déroute\", the collapse)", "partOfSpeech": "noun", "gender": "m", "plural": "des détours", "pronunciation": "uhn day-TOOR", "example": "Nous avons fait un détour pour éviter les embouteillages.", "exampleEnglish": "We took a detour to avoid the traffic.", "level": "C1", "category": "false-friends" },
+            { "id": "onereux", "french": "onéreux", "english": "costly, expensive (false friend: not \"onerous\", which describes a burden, not necessarily a cost — \"contraignant\")", "partOfSpeech": "adjective", "pronunciation": "oh-nay-RUH", "example": "Cette procédure judiciaire s'est révélée bien plus onéreuse que prévu.", "exampleEnglish": "This legal procedure turned out to be far more costly than expected.", "level": "C1", "category": "false-friends" },
+            { "id": "inhabite", "french": "inhabité", "english": "uninhabited, empty (false friend: opposite of English \"inhabited\")", "partOfSpeech": "adjective", "pronunciation": "an-ah-bee-TAY", "example": "L'île reste inhabitée depuis le départ des derniers pêcheurs.", "exampleEnglish": "The island has remained uninhabited since the last fishermen left.", "level": "C1", "category": "false-friends" },
+            { "id": "ostensible", "french": "ostensible", "english": "obvious, conspicuous, deliberately visible (false friend: subtly different from English \"ostensible\", which implies a possibly false appearance)", "partOfSpeech": "adjective", "pronunciation": "os-tahn-SEEBL", "example": "Son agacement était ostensible dès les premières minutes de la réunion.", "exampleEnglish": "His irritation was plain to see from the first minutes of the meeting.", "level": "C1", "category": "false-friends" },
+            { "id": "un-delai", "french": "un délai", "english": "a deadline, a time limit (false friend: not \"a delay\", which is \"un retard\")", "partOfSpeech": "noun", "gender": "m", "plural": "des délais", "pronunciation": "uhn day-LEH", "example": "Le délai de livraison est de dix jours ouvrés.", "exampleEnglish": "The delivery deadline is ten working days.", "level": "C1", "category": "false-friends" },
+            { "id": "le-retard-contraste", "french": "le retard", "english": "the delay, the lateness (contrast with \"un délai\", a deadline)", "partOfSpeech": "noun", "gender": "m", "plural": "les retards", "pronunciation": "luh ruh-TAR", "example": "Un simple retard de livraison ne justifie pas d'annuler le contrat.", "exampleEnglish": "A mere delivery delay does not justify cancelling the contract.", "level": "C1", "category": "false-friends" },
+            { "id": "un-patron", "french": "un patron", "english": "a boss; a sewing pattern (false friend: not an arts \"patron\", which is \"un mécène\")", "partOfSpeech": "noun", "gender": "m", "plural": "des patrons", "pronunciation": "uhn pah-TRON", "example": "Son patron lui a proposé une promotion inattendue.", "exampleEnglish": "Her boss offered her an unexpected promotion.", "level": "C1", "category": "false-friends" },
+            { "id": "un-mecene", "french": "un mécène", "english": "a patron, a sponsor (of the arts) (contrast with \"un patron\", a boss)", "partOfSpeech": "noun", "gender": "m", "plural": "des mécènes", "pronunciation": "uhn may-SEN", "example": "Le musée a trouvé un mécène pour financer la restauration.", "exampleEnglish": "The museum found a patron to fund the restoration.", "level": "C1", "category": "false-friends" },
+            { "id": "consistant", "french": "consistant", "english": "thick, substantial, hearty (false friend: not \"consistent\", which is \"cohérent\")", "partOfSpeech": "adjective", "pronunciation": "kon-sees-TAHN", "example": "Elle préfère une sauce consistante à une sauce trop liquide.", "exampleEnglish": "She prefers a thick sauce to a runny one.", "level": "C1", "category": "false-friends" },
+            { "id": "une-occasion", "french": "une occasion", "english": "an opportunity; a bargain, a second-hand find (false friend: narrower than English \"occasion\")", "partOfSpeech": "noun", "gender": "f", "plural": "des occasions", "pronunciation": "ewn oh-kah-ZYON", "example": "Elle a acheté cette voiture d'occasion pour un prix imbattable.", "exampleEnglish": "She bought this second-hand car for an unbeatable price.", "level": "C1", "category": "false-friends" },
+            { "id": "un-support", "french": "un support", "english": "a medium, a format, a prop (false friend: not \"support\" meaning help, which is \"le soutien\" or \"l'aide\")", "partOfSpeech": "noun", "gender": "m", "plural": "des supports", "pronunciation": "uhn su-POR", "example": "Le formateur a préparé un support papier pour chaque participant.", "exampleEnglish": "The trainer prepared a paper handout for each participant.", "level": "C1", "category": "false-friends" },
+            { "id": "un-partisan", "french": "un partisan", "english": "a supporter, an advocate (false friend: neutral in French, unlike the negative English \"partisan\")", "partOfSpeech": "noun", "gender": "m", "plural": "des partisans", "pronunciation": "uhn par-tee-ZAHN", "example": "Elle reste une fervente partisane de la réforme.", "exampleEnglish": "She remains a fervent supporter of the reform.", "level": "C1", "category": "false-friends" },
+            { "id": "le-faux-ami", "french": "le faux ami", "english": "the false friend (deceptive cognate)", "partOfSpeech": "noun", "gender": "m", "plural": "les faux amis", "pronunciation": "luh foh-zah-MEE", "example": "Un faux ami avancé ne trompe presque jamais un débutant ; il trompe un locuteur confiant.", "exampleEnglish": "An advanced false friend almost never fools a beginner; it fools a confident speaker.", "level": "C1", "category": "false-friends" },
+            { "id": "vrai-ami-linguistique", "french": "un vrai ami", "english": "a true cognate (a word that really does mean what it looks like)", "partOfSpeech": "expression", "pronunciation": "uhn vreh ah-MEE", "example": "Tous les mots qui se ressemblent ne sont pas des faux amis ; il existe aussi de vrais amis.", "exampleEnglish": "Not every similar-looking word is a false friend; true cognates exist too.", "level": "C1", "category": "false-friends" },
+            { "id": "se-mefier-de", "french": "se méfier de", "english": "to be wary of, to distrust", "partOfSpeech": "verb", "pronunciation": "suh may-fyay duh", "example": "Je me méfie systématiquement des mots qui ressemblent trop à l'anglais.", "exampleEnglish": "I systematically distrust words that look too much like English.", "level": "C1", "category": "false-friends" },
+            { "id": "verifier", "french": "vérifier", "english": "to check, to verify", "partOfSpeech": "verb", "pronunciation": "vay-ree-FYAY", "example": "Un instant de doute vaut mieux qu'une confiance mal placée.", "exampleEnglish": "A moment of doubt is worth more than misplaced confidence.", "level": "C1", "category": "false-friends" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Le genre qui change le sens : un même mot, deux identités",
+              "body": "French hides a grammatical trap of its own that has nothing to do with English: a handful of nouns keep the same spelling but change meaning entirely depending on gender. « Le mode » is a method or a grammatical mood; « la mode » is fashion. « Le poste » is a job or a position; « la poste » is the post office. Confusing the article does not just sound wrong — it changes what you are actually saying.",
+              "examples": [
+                { "french": "Le mode d'emploi explique comment monter le meuble.", "english": "The instruction manual explains how to assemble the furniture." },
+                { "french": "La mode de cette saison privilégie les couleurs sombres.", "english": "This season's fashion favours dark colours." },
+                { "french": "Il a obtenu le poste après trois entretiens.", "english": "He got the job after three interviews." },
+                { "french": "Elle a envoyé le colis à la poste ce matin.", "english": "She sent the parcel at the post office this morning." }
+              ],
+              "tip": "When in doubt, say the word with its article out loud — 'le tour' (the trip, the trick) and 'la tour' (the tower) sound identical alone but never in context, so lean on the sentence around them, not the word itself."
+            },
+            {
+              "heading": "Manquer : la construction qui inverse le sujet",
+              "body": "\"Manquer\" is the single most disorienting advanced false friend for English speakers, not because of its meaning but because of its grammar: French flips the subject and the object compared to English. \"I miss you\" becomes \"tu me manques\" — literally \"you are lacking to me\". Get the construction backwards, and the sentence still parses, but it says something close to the opposite of what you meant.",
+              "examples": [
+                { "french": "Tu me manques.", "english": "I miss you. (literally: you are lacking to me)" },
+                { "french": "Ce poste me manque depuis que j'ai changé de service.", "english": "I miss this job since I changed departments." },
+                { "french": "Il a manqué la réunion ce matin.", "english": "He missed the meeting this morning." },
+                { "french": "Ne manquez pas de vérifier le contrat avant de le signer.", "english": "Be sure to check the contract before signing it." }
+              ],
+              "tip": "Test yourself with the person doing the missing, not the person being missed: if 'I' am the one who misses someone, 'I' becomes the indirect object 'me', and the missed person becomes the subject — 'tu me manques', never 'je te manque' for that meaning."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "c1_u25_l02_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. Who does this sentence tend to mislead?",
+              "french": "Un faux ami avancé ne trompe presque jamais un débutant ; il trompe un locuteur confiant.",
+              "options": ["A confident, fluent speaker", "A complete beginner", "A native speaker only", "No one, since advanced false friends are rare"],
+              "answer": "A confident, fluent speaker"
+            },
+            {
+              "id": "c1_u25_l02_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. What does 'inhabité' mean here?",
+              "french": "L'île reste inhabitée depuis le départ des derniers pêcheurs.",
+              "options": ["Uninhabited, with no one living there", "Inhabited, fully populated", "Recently renovated", "Difficult to reach"],
+              "answer": "Uninhabited, with no one living there"
+            },
+            {
+              "id": "c1_u25_l02_li03",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Le danger n'est pas le mot totalement différent, c'est le mot presque identique.",
+              "answer": "Le danger n'est pas le mot totalement différent, c'est le mot presque identique.",
+              "acceptedAnswers": ["le danger n'est pas le mot totalement different, c'est le mot presque identique", "le danger n est pas le mot totalement different c est le mot presque identique"]
+            },
+            {
+              "id": "c1_u25_l02_li04",
+              "type": "dictation",
+              "prompt": "Dictation: write exactly what you hear.",
+              "french": "Tu me manques.",
+              "answer": "Tu me manques.",
+              "acceptedAnswers": ["tu me manques"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "c1_u25_l02_sp01",
+              "type": "speak",
+              "prompt": "Tell someone you miss them, using the correct French construction.",
+              "french": "Tu me manques.",
+              "english": "I miss you.",
+              "tip": "Resist the instinct to say 'je te manque' — that would mean the other person misses you, the exact opposite."
+            },
+            {
+              "id": "c1_u25_l02_sp02",
+              "type": "speak",
+              "prompt": "Warn that the danger lies in the almost-identical word, not the completely different one.",
+              "french": "Le danger n'est pas le mot totalement différent, c'est le mot presque identique.",
+              "english": "The danger is not the word that is completely different, it is the word that is almost identical.",
+              "tip": "Stress 'presque' clearly — the whole warning depends on that one word."
+            },
+            {
+              "id": "c1_u25_l02_sp03",
+              "type": "speak",
+              "prompt": "State that a wrongful dismissal was ruled excessive by the tribunal.",
+              "french": "Le tribunal a jugé ce licenciement abusif.",
+              "english": "The tribunal ruled this dismissal wrongful.",
+              "tip": "Keep 'abusif' crisp at the end of the sentence — it is the word carrying the legal verdict."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Le mail qui a failli tout gâcher",
+              "french": "Marc Ferrand, cadre chez une entreprise franco-américaine, rédigeait un courriel destiné au siège de New York.\nIl voulait dire que le nouveau processus de validation restait souple, sans procédure lourde. Fatigué, il écrivit vite : « The new process remains sensible to any delay from the legal team. »\nSa collègue Aïcha Belhadj, bilingue, relut le mail avant l'envoi et fronça les sourcils.\n« Tu veux dire que le processus va changer s'il y a du retard ? Parce que 'sensible' en anglais, ça ne veut pas dire ce que tu penses. »\nMarc, surpris, vérifia. « Sensible » en français signifie « raisonnable » ; en anglais, il désigne quelque chose de délicat, d'émotionnellement fragile. Le mot juste était « sensitive » à éviter aussi, plutôt « flexible » ou « accommodating ».\n« Et pendant qu'on y est, ajouta Aïcha, ton 'délai' de trois semaines, tu l'as traduit par 'delay'. Ça veut dire un retard, pas un délai fixé à l'avance. »\nMarc corrigea : « deadline » remplaça « delay ». Une simple confusion aurait pu laisser croire au siège que l'équipe française annonçait déjà un retard, avant même d'avoir commencé.\n« Un cadre confiant est justement celui qui se laisse le plus surprendre par ce genre de piège, dit Aïcha en souriant. On ne se méfie jamais assez des mots qu'on croit connaître par cœur. »\nMarc renvoya le mail, cette fois relu deux fois, sans un seul faux ami avancé. Le siège de New York répondit en dix minutes, sans la moindre question.",
+              "english": "Marc Ferrand, a manager at a French-American company, was drafting an email for the New York head office.\nHe wanted to say that the new validation process remained flexible, without a heavy procedure. Tired, he wrote quickly: \"The new process remains sensible to any delay from the legal team.\"\nHis bilingual colleague, Aïcha Belhadj, reread the email before sending and frowned.\n\"Do you mean the process will change if there's a delay? Because 'sensible' in English doesn't mean what you think it does.\"\nMarc, surprised, checked. In French, \"sensible\" means \"reasonable\"; in English, it refers to something delicate, emotionally fragile. The right word to avoid too was \"sensitive\" — better to say \"flexible\" or \"accommodating\".\n\"And while we're at it,\" Aïcha added, \"your three-week 'délai', you translated it as 'delay'. That means a hold-up, not a deadline set in advance.\"\nMarc corrected it: \"deadline\" replaced \"delay\". A simple mix-up could have led the head office to believe the French team was already announcing a delay, before even starting.\n\"A confident manager is exactly the one most likely to be caught out by this kind of trap,\" Aïcha said with a smile. \"You can never be wary enough of the words you think you know by heart.\"\nMarc sent the email again, this time reread twice, with not a single advanced false friend left in it. The New York office replied within ten minutes, without a single question.",
+              "questions": [
+                {
+                  "id": "c1_u25_l02_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "What mistake does Marc make with the word \"sensible\"?",
+                  "options": ["He uses the French meaning (reasonable) as if it worked in English", "He forgets to translate it at all", "He spells it incorrectly", "He confuses it with a completely different word"],
+                  "answer": "He uses the French meaning (reasonable) as if it worked in English"
+                },
+                {
+                  "id": "c1_u25_l02_rd02",
+                  "type": "multipleChoice",
+                  "prompt": "Why is translating \"délai\" as \"delay\" risky in Marc's email?",
+                  "options": ["It could make the head office think the team was already announcing a hold-up", "It is grammatically incorrect in English", "It makes the email too long", "It changes the deadline itself"],
+                  "answer": "It could make the head office think the team was already announcing a hold-up"
+                },
+                {
+                  "id": "c1_u25_l02_rd03",
+                  "type": "trueFalse",
+                  "prompt": "True or false: according to Aïcha, confident speakers are the ones least likely to be caught out by advanced false friends.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "c1_u25_l02_wr01",
+              "type": "translate",
+              "prompt": "Translate: \"I miss you.\"",
+              "english": "I miss you.",
+              "answer": "Tu me manques.",
+              "acceptedAnswers": ["tu me manques"]
+            },
+            {
+              "id": "c1_u25_l02_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "The tribunal ruled this dismissal wrongful.",
+              "words": ["Le", "tribunal", "a", "jugé", "ce", "licenciement", "abusif"],
+              "answer": "Le tribunal a jugé ce licenciement abusif"
+            },
+            {
+              "id": "c1_u25_l02_wr03",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Le délai de livraison est de dix jours ___.\" (working, business — days)",
+              "answer": "ouvrés",
+              "hint": "Describes days on which people normally work."
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "c1_u25_l02_pr01",
+              "type": "multipleChoice",
+              "prompt": "What does \"un cadre\" most commonly mean in a professional context?",
+              "options": ["A manager, an executive", "A trained activist group", "A picture only", "A government minister"],
+              "answer": "A manager, an executive"
+            },
+            {
+              "id": "c1_u25_l02_pr02",
+              "type": "fillBlank",
+              "prompt": "Complete: \"C'est une remarque ___, qu'on ne peut pas balayer d'un revers de main.\" (sensible, reasonable)",
+              "answer": "sensée",
+              "hint": "Not 'sensible' — that means sensitive in French."
+            },
+            {
+              "id": "c1_u25_l02_pr03",
+              "type": "match",
+              "prompt": "Match each French word with its correct English meaning.",
+              "pairs": [
+                { "french": "une issue", "english": "an exit, an outcome" },
+                { "french": "un stage", "english": "an internship" },
+                { "french": "une injure", "english": "an insult" },
+                { "french": "un délai", "english": "a deadline, a time limit" }
+              ]
+            },
+            {
+              "id": "c1_u25_l02_pr04",
+              "type": "multipleChoice",
+              "prompt": "Why is \"le processus\" easy to confuse with \"le procès\"?",
+              "options": ["They look and sound alike but mean completely different things", "They are the same word with two spellings", "One is masculine and the other feminine", "They are both legal terms with the same meaning"],
+              "answer": "They look and sound alike but mean completely different things"
+            },
+            {
+              "id": "c1_u25_l02_pr05",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "This season's fashion favours dark colours.",
+              "words": ["La", "mode", "de", "cette", "saison", "privilégie", "les", "couleurs", "sombres"],
+              "answer": "La mode de cette saison privilégie les couleurs sombres"
+            },
+            {
+              "id": "c1_u25_l02_pr06",
+              "type": "translate",
+              "prompt": "Translate: \"She opened her own law practice last year.\"",
+              "english": "She opened her own law practice last year.",
+              "answer": "Elle a ouvert son propre cabinet d'avocats l'année dernière.",
+              "acceptedAnswers": ["elle a ouvert son propre cabinet d'avocats l'annee derniere", "elle a ouvert son propre cabinet d avocats l annee derniere"]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "c1_u25_l02_qz01",
+              "type": "multipleChoice",
+              "prompt": "According to the lesson, who is most often fooled by an advanced false friend?",
+              "options": ["A confident, fluent speaker", "A complete beginner", "Someone who has never studied French", "No one, they are too rare to matter"],
+              "answer": "A confident, fluent speaker"
+            },
+            {
+              "id": "c1_u25_l02_qz02",
+              "type": "fillBlank",
+              "prompt": "Complete: \"L'île reste ___ depuis le départ des derniers pêcheurs.\" (uninhabited)",
+              "answer": "inhabitée"
+            },
+            {
+              "id": "c1_u25_l02_qz03",
+              "type": "multipleChoice",
+              "prompt": "What is the correct French for \"I miss you\"?",
+              "options": ["Tu me manques.", "Je te manque.", "Je manque toi.", "Tu manques moi."],
+              "answer": "Tu me manques."
+            },
+            {
+              "id": "c1_u25_l02_qz04",
+              "type": "trueFalse",
+              "prompt": "True or false: \"un délai\" means the same thing as \"un retard\".",
+              "options": ["True", "False"],
+              "answer": "False"
+            },
+            {
+              "id": "c1_u25_l02_qz05",
+              "type": "multipleChoice",
+              "prompt": "Why does \"le mode\" differ in meaning from \"la mode\"?",
+              "options": ["The gender of the article changes the word's meaning entirely", "They are simply two spellings of the same idea", "Only the plural form changes meaning", "Gender has no effect on meaning in French"],
+              "answer": "The gender of the article changes the word's meaning entirely"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1_u25_l03",
+      "level": "C1",
+      "unit": 25,
+      "title": "Adapter un registre",
+      "description": "Judge a text's register precisely and shift it deliberately — up, down, or sideways — without losing its meaning.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Identifier un registre avant de le changer",
+              "body": "Register is not the same axis as correctness — a sentence can be perfectly grammatical and still land at the wrong level of formality for its audience. Before adapting anything, a translator or writer must first name the register accurately: soutenu (elevated, literary), courant (neutral, everyday), or familier (casual, spoken). Guessing the wrong starting point guarantees the wrong landing point.",
+              "examples": [
+                { "french": "Avant d'adapter un registre, il faut d'abord savoir le nommer.", "english": "Before adapting a register, you first have to be able to name it." },
+                { "french": "« Nonobstant » relève du registre soutenu ; « quand même » relève du registre courant.", "english": "\"Nonobstant\" belongs to the elevated register; \"quand même\" belongs to the everyday register." },
+                { "french": "Un même message change de poids selon le registre choisi pour le dire.", "english": "The same message carries different weight depending on the register chosen to say it." },
+                { "french": "Le registre n'est pas une question de grammaire, mais une question de justesse sociale.", "english": "Register is not a matter of grammar, but a matter of social precision." }
+              ],
+              "tip": "Read a sentence and ask who could plausibly say it out loud, and to whom — a judge in court, a friend at a café, a minister at a podium — the answer names the register faster than any rule."
+            },
+            {
+              "heading": "Monter ou descendre en registre, sans perdre le sens",
+              "body": "Adapting register means finding a different way to say the same thing, not a different thing to say. Moving up, « bouquin » becomes « ouvrage » or « livre » ; moving down, « en dépit de » becomes « malgré » or even « quand même ». The content must survive the shift intact — only its social clothing changes.",
+              "examples": [
+                { "french": "« Bouquin » devient « ouvrage » dès qu'on s'adresse à un public académique.", "english": "\"Bouquin\" becomes \"ouvrage\" as soon as you are addressing an academic audience." },
+                { "french": "« En dépit de » peut redescendre en « malgré » sans perdre une once de sens.", "english": "\"En dépit de\" can drop down to \"malgré\" without losing an ounce of meaning." },
+                { "french": "Changer de registre, ce n'est pas édulcorer le message, c'est changer son costume.", "english": "Changing register is not watering down the message, it is changing its outfit." },
+                { "french": "Un registre mal choisi peut trahir le message aussi sûrement qu'une mauvaise traduction.", "english": "A poorly chosen register can betray a message just as surely as a bad translation." }
+              ],
+              "tip": "When you lower a register, resist the temptation to also lower the precision — a casual sentence can still be exact; sloppiness and informality are not the same thing."
+            },
+            {
+              "heading": "Le tutoiement, le vouvoiement et les marqueurs sociaux du registre",
+              "body": "Register in French is not only lexical — it is grammatical too, most visibly through the choice between « tu » and « vous ». A translation that gets the vocabulary right but keeps « vous » in a scene that calls for intimacy, or slips into « tu » in a formal letter, has still failed to adapt the register, because the pronoun itself carries social information English does not grammaticalise the same way.",
+              "examples": [
+                { "french": "Passer du vouvoiement au tutoiement marque un changement de relation, pas seulement de ton.", "english": "Moving from 'vous' to 'tu' marks a change in relationship, not just in tone." },
+                { "french": "Une lettre administrative reste au vouvoiement du début à la fin, sans exception.", "english": "An official letter stays in the 'vous' form from start to finish, without exception." },
+                { "french": "Le tutoiement d'emblée, chez un inconnu, peut sonner familier ou irrespectueux selon le contexte.", "english": "Using 'tu' straight away with a stranger can sound familiar or disrespectful depending on the context." },
+                { "french": "Traduire « you » exige de choisir, à chaque phrase, entre le tu et le vous.", "english": "Translating \"you\" requires choosing, sentence by sentence, between 'tu' and 'vous'." }
+              ],
+              "tip": "English \"you\" erases a distinction French cannot avoid making — when translating into French, decide the relationship between speakers before you decide anything else about register."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "le-registre", "french": "le registre", "english": "the register (level of language)", "partOfSpeech": "noun", "gender": "m", "plural": "les registres", "pronunciation": "luh ruh-ZHEESTR", "example": "Le registre n'est pas une question de grammaire, mais une question de justesse sociale.", "exampleEnglish": "Register is not a matter of grammar, but a matter of social precision.", "level": "C1", "category": "register" },
+            { "id": "le-registre-soutenu", "french": "le registre soutenu", "english": "the elevated, formal register", "partOfSpeech": "expression", "pronunciation": "ruh-ZHEESTR soo-tuh-NU", "example": "« Nonobstant » relève du registre soutenu ; « quand même » relève du registre courant.", "exampleEnglish": "\"Nonobstant\" belongs to the elevated register; \"quand même\" belongs to the everyday register.", "level": "C1", "category": "register" },
+            { "id": "le-registre-courant", "french": "le registre courant", "english": "the neutral, everyday register", "partOfSpeech": "expression", "pronunciation": "ruh-ZHEESTR koo-RAHN", "example": "Le registre courant convient à la plupart des échanges professionnels.", "exampleEnglish": "The everyday register suits most professional exchanges.", "level": "C1", "category": "register" },
+            { "id": "le-registre-familier", "french": "le registre familier", "english": "the casual, colloquial register", "partOfSpeech": "expression", "pronunciation": "ruh-ZHEESTR fah-mee-LYAY", "example": "Le registre familier passe très mal dans un rapport officiel.", "exampleEnglish": "The colloquial register comes across very badly in an official report.", "level": "C1", "category": "register" },
+            { "id": "un-niveau-de-langue", "french": "un niveau de langue", "english": "a language level, a register", "partOfSpeech": "expression", "pronunciation": "uhn nee-VOH duh LAHNG", "example": "Repérer le niveau de langue est la première étape de toute adaptation.", "exampleEnglish": "Spotting the language level is the first step of any adaptation.", "level": "C1", "category": "register" },
+            { "id": "adapter-registre", "french": "adapter", "english": "to adapt (a register, a text)", "partOfSpeech": "verb", "pronunciation": "ah-dap-TAY", "example": "Avant d'adapter un registre, il faut d'abord savoir le nommer.", "exampleEnglish": "Before adapting a register, you first have to be able to name it.", "level": "C1", "category": "register" },
+            { "id": "hausser-le-registre", "french": "hausser le registre", "english": "to raise the register (make more formal)", "partOfSpeech": "expression", "pronunciation": "oh-SAY luh ruh-ZHEESTR", "example": "Il faut hausser le registre pour une lettre destinée à un tribunal.", "exampleEnglish": "The register must be raised for a letter addressed to a court.", "level": "C1", "category": "register" },
+            { "id": "baisser-le-registre", "french": "baisser le registre", "english": "to lower the register (make more casual)", "partOfSpeech": "expression", "pronunciation": "beh-SAY luh ruh-ZHEESTR", "example": "On peut baisser le registre à l'oral sans devenir vulgaire pour autant.", "exampleEnglish": "You can lower the register in speech without becoming crude.", "level": "C1", "category": "register" },
+            { "id": "soutenu", "french": "soutenu", "english": "elevated, formal (of language)", "partOfSpeech": "adjective", "pronunciation": "soo-tuh-NU", "example": "Ce discours d'ouverture exige un style soutenu du début à la fin.", "exampleEnglish": "This opening speech calls for an elevated style from start to finish.", "level": "C1", "category": "register" },
+            { "id": "courant-registre", "french": "courant", "english": "everyday, neutral (of language)", "partOfSpeech": "adjective", "pronunciation": "koo-RAHN", "example": "Un français courant, clair et sans jargon, se comprend partout.", "exampleEnglish": "Everyday French, clear and free of jargon, is understood everywhere.", "level": "C1", "category": "register" },
+            { "id": "familier-registre", "french": "familier", "english": "casual, colloquial (of language)", "partOfSpeech": "adjective", "pronunciation": "fah-mee-LYAY", "example": "Ce ton familier convient entre amis, pas en entretien d'embauche.", "exampleEnglish": "This casual tone suits friends, not a job interview.", "level": "C1", "category": "register" },
+            { "id": "chatie", "french": "châtié", "english": "highly refined, polished (of language)", "partOfSpeech": "adjective", "pronunciation": "shah-TYAY", "example": "Son français châtié tranchait avec le ton relâché de la salle.", "exampleEnglish": "Her polished French stood in sharp contrast with the room's relaxed tone.", "level": "C1", "category": "register" },
+            { "id": "relache", "french": "relâché", "english": "loose, slack (of language or delivery)", "partOfSpeech": "adjective", "pronunciation": "ruh-lah-SHAY", "example": "Un style trop relâché nuit à la crédibilité d'un rapport officiel.", "exampleEnglish": "An overly loose style undermines an official report's credibility.", "level": "C1", "category": "register" },
+            { "id": "grossier", "french": "grossier", "english": "coarse, rude (of language)", "partOfSpeech": "adjective", "pronunciation": "groh-SYAY", "example": "Le mot n'est pas grossier en soi, mais son contexte le rend déplacé.", "exampleEnglish": "The word is not coarse in itself, but its context makes it out of place.", "level": "C1", "category": "register" },
+            { "id": "cru", "french": "cru", "english": "blunt, crude (of language, unvarnished)", "partOfSpeech": "adjective", "pronunciation": "kru", "example": "Sa franchise crue surprend toujours ceux qui la rencontrent pour la première fois.", "exampleEnglish": "Her blunt frankness always surprises those meeting her for the first time.", "level": "C1", "category": "register" },
+            { "id": "guinde", "french": "guindé", "english": "stiff, stilted, overly formal", "partOfSpeech": "adjective", "pronunciation": "gan-DAY", "example": "Sans être vulgaire, il évitait un ton trop guindé pour ce public jeune.", "exampleEnglish": "Without being vulgar, he avoided too stiff a tone for this young audience.", "level": "C1", "category": "register" },
+            { "id": "protocolaire", "french": "protocolaire", "english": "formal, protocol-bound", "partOfSpeech": "adjective", "pronunciation": "proh-toh-koh-LEHR", "example": "L'ouverture de la cérémonie reste strictement protocolaire.", "exampleEnglish": "The ceremony's opening remains strictly formal and protocol-bound.", "level": "C1", "category": "register" },
+            { "id": "soigne", "french": "soigné", "english": "polished, carefully crafted (of style)", "partOfSpeech": "adjective", "pronunciation": "swah-NYAY", "example": "Un style soigné ne signifie pas nécessairement un style compliqué.", "exampleEnglish": "A polished style does not necessarily mean a complicated one.", "level": "C1", "category": "register" },
+            { "id": "badin", "french": "badin", "english": "playful, light-hearted (of tone)", "partOfSpeech": "adjective", "pronunciation": "bah-DAN", "example": "Le ton badin de l'introduction cache une conclusion bien plus sérieuse.", "exampleEnglish": "The playful tone of the introduction hides a far more serious conclusion.", "level": "C1", "category": "register" },
+            { "id": "solennel", "french": "solennel", "english": "solemn", "partOfSpeech": "adjective", "pronunciation": "soh-lah-NEL", "example": "Le ton solennel du discours contrastait avec l'ambiance décontractée du dîner.", "exampleEnglish": "The speech's solemn tone contrasted with the dinner's relaxed atmosphere.", "level": "C1", "category": "register" },
+            { "id": "l-argot", "french": "l'argot", "english": "slang", "partOfSpeech": "noun", "gender": "m", "pronunciation": "lar-GOH", "example": "L'argot d'un texte disparaît presque toujours à la traduction, faute d'équivalent exact.", "exampleEnglish": "A text's slang almost always disappears in translation, for lack of an exact equivalent.", "level": "C1", "category": "register" },
+            { "id": "le-jargon", "french": "le jargon", "english": "the jargon", "partOfSpeech": "noun", "gender": "m", "plural": "les jargons", "pronunciation": "luh zhar-GON", "example": "Traduire un jargon technique exige de connaître le métier, pas seulement la langue.", "exampleEnglish": "Translating technical jargon requires knowing the trade, not just the language.", "level": "C1", "category": "register" },
+            { "id": "le-tutoiement", "french": "le tutoiement", "english": "using \"tu\" (informal address)", "partOfSpeech": "noun", "gender": "m", "pronunciation": "tu-twah-MAHN", "example": "Passer du vouvoiement au tutoiement marque un changement de relation, pas seulement de ton.", "exampleEnglish": "Moving from 'vous' to 'tu' marks a change in relationship, not just in tone.", "level": "C1", "category": "register" },
+            { "id": "le-vouvoiement", "french": "le vouvoiement", "english": "using \"vous\" (formal address)", "partOfSpeech": "noun", "gender": "m", "pronunciation": "voo-vwah-MAHN", "example": "Une lettre administrative reste au vouvoiement du début à la fin, sans exception.", "exampleEnglish": "An official letter stays in the 'vous' form from start to finish, without exception.", "level": "C1", "category": "register" },
+            { "id": "tutoyer", "french": "tutoyer", "english": "to address someone as \"tu\"", "partOfSpeech": "verb", "pronunciation": "tu-twah-YAY", "example": "Le tutoiement d'emblée, chez un inconnu, peut sonner familier ou irrespectueux selon le contexte.", "exampleEnglish": "Using 'tu' straight away with a stranger can sound familiar or disrespectful depending on the context.", "level": "C1", "category": "register" },
+            { "id": "vouvoyer", "french": "vouvoyer", "english": "to address someone as \"vous\"", "partOfSpeech": "verb", "pronunciation": "voo-vwah-YAY", "example": "Traduire « you » exige de choisir, à chaque phrase, entre le tu et le vous.", "exampleEnglish": "Translating \"you\" requires choosing, sentence by sentence, between 'tu' and 'vous'.", "level": "C1", "category": "register" },
+            { "id": "une-formule-de-politesse", "french": "une formule de politesse", "english": "a polite closing formula", "partOfSpeech": "expression", "pronunciation": "ewn for-MUL duh poh-lee-TESS", "example": "Le registre choisi impose la longueur de la formule de politesse finale.", "exampleEnglish": "The chosen register dictates the length of the final polite closing formula.", "level": "C1", "category": "register" },
+            { "id": "l-interlocuteur", "french": "l'interlocuteur", "english": "the person one is speaking to", "partOfSpeech": "noun", "gender": "m", "plural": "les interlocuteurs", "pronunciation": "lan-tair-loh-ku-TUR", "example": "Le registre s'adapte toujours à l'interlocuteur, jamais l'inverse.", "exampleEnglish": "Register always adapts to the listener, never the other way around.", "level": "C1", "category": "register" },
+            { "id": "le-destinataire", "french": "le destinataire", "english": "the recipient (of a message)", "partOfSpeech": "noun", "gender": "m", "plural": "les destinataires", "pronunciation": "luh dess-tee-nah-TEHR", "example": "Le style d'un courriel se règle sur son destinataire, pas sur son sujet.", "exampleEnglish": "An email's style is set by its recipient, not by its subject.", "level": "C1", "category": "register" },
+            { "id": "le-locuteur", "french": "le locuteur", "english": "the speaker", "partOfSpeech": "noun", "gender": "m", "plural": "les locuteurs", "pronunciation": "luh loh-ku-TUR", "example": "Un même locuteur peut changer de registre plusieurs fois dans une même conversation.", "exampleEnglish": "A single speaker can shift register several times within one conversation.", "level": "C1", "category": "register" },
+            { "id": "un-decalage", "french": "un décalage", "english": "a mismatch, a gap (here: between register and context)", "partOfSpeech": "noun", "gender": "m", "plural": "des décalages", "pronunciation": "uhn day-kah-LAHZH", "example": "Le décalage entre le ton du mail et son objet a mis le client mal à l'aise.", "exampleEnglish": "The mismatch between the email's tone and its subject made the client uncomfortable.", "level": "C1", "category": "register" },
+            { "id": "une-maladresse", "french": "une maladresse", "english": "a clumsy slip, a gaffe", "partOfSpeech": "noun", "gender": "f", "plural": "des maladresses", "pronunciation": "ewn mah-lah-DRESS", "example": "Tutoyer un client dès le premier message reste une maladresse fréquente.", "exampleEnglish": "Using 'tu' with a client from the very first message remains a common gaffe.", "level": "C1", "category": "register" },
+            { "id": "edulcorer", "french": "édulcorer", "english": "to tone down, to sanitise (language)", "partOfSpeech": "verb", "pronunciation": "ay-dul-koh-RAY", "example": "Changer de registre, ce n'est pas édulcorer le message, c'est changer son costume.", "exampleEnglish": "Changing register is not watering down the message, it is changing its outfit.", "level": "C1", "category": "register" },
+            { "id": "attenuer-propos", "french": "atténuer", "english": "to soften, to tone down (a statement)", "partOfSpeech": "verb", "pronunciation": "ah-tay-nu-AY", "example": "On peut atténuer un propos sans en trahir le fond.", "exampleEnglish": "A statement can be softened without betraying its substance." , "level": "C1", "category": "register" },
+            { "id": "academique-registre", "french": "académique", "english": "academic (of style)", "partOfSpeech": "adjective", "pronunciation": "ah-kah-day-MEEK", "example": "Un article académique impose un vocabulaire précis et un ton neutre.", "exampleEnglish": "An academic article demands precise vocabulary and a neutral tone.", "level": "C1", "category": "register" },
+            { "id": "le-ton", "french": "le ton", "english": "the tone", "partOfSpeech": "noun", "gender": "m", "plural": "les tons", "pronunciation": "luh TON", "example": "Le ton compte parfois davantage que les mots eux-mêmes.", "exampleEnglish": "Tone sometimes matters more than the words themselves.", "level": "C1", "category": "register" },
+            { "id": "le-style", "french": "le style", "english": "the style", "partOfSpeech": "noun", "gender": "m", "plural": "les styles", "pronunciation": "luh STEEL", "example": "Le style d'une lettre de réclamation diffère radicalement de celui d'un poème.", "exampleEnglish": "The style of a complaint letter differs radically from that of a poem.", "level": "C1", "category": "register" },
+            { "id": "convenir-a", "french": "convenir à", "english": "to suit, to be appropriate for", "partOfSpeech": "verb", "pronunciation": "kon-vuh-NEER ah", "example": "Ce ton ne convient pas du tout à une lettre officielle.", "exampleEnglish": "This tone is not at all appropriate for an official letter.", "level": "C1", "category": "register" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Basculer tout un texte du vous au tu",
+              "body": "Shifting an entire passage from formal to informal address means far more than swapping one pronoun: the verb conjugation changes, the possessives change (\"votre\" becomes \"ton/ta/tes\"), the object and reflexive pronouns change (\"vous\" becomes \"te/t'\"), and the stressed pronoun changes (\"vous\" becomes \"toi\"). Missing even one of these leaves a visible seam in the translation, a leftover formal fragment inside an otherwise informal text.",
+              "examples": [
+                { "french": "Vous pouvez me contacter quand vous voulez. → Tu peux me contacter quand tu veux.", "english": "You can contact me whenever you like. (formal → informal)" },
+                { "french": "Je vous remercie pour votre message. → Je te remercie pour ton message.", "english": "Thank you for your message. (formal → informal)" },
+                { "french": "C'est à vous de décider. → C'est à toi de décider.", "english": "It's up to you to decide. (formal → informal)" },
+                { "french": "Asseyez-vous, je vous en prie. → Assieds-toi, je t'en prie.", "english": "Please, sit down. (formal → informal)" }
+              ],
+              "tip": "Convert an entire passage in one pass, sentence by sentence, rather than word by word — the pronoun, the verb ending, the possessive and the reflexive form must all agree, and checking them separately is how inconsistencies slip through."
+            },
+            {
+              "heading": "Les marqueurs du registre soutenu : inversion et négation renforcée",
+              "body": "The elevated register signals itself through small, specific grammatical choices: an adverb like \"peut-être\", \"sans doute\", or \"aussi\" (meaning \"therefore\") placed at the very start of a sentence triggers subject-verb inversion; and the negation \"ne... point\" can replace the plainer \"ne... pas\" in literary or ceremonial French. Neither is required grammar — both are register choices, and both instantly raise a sentence's formality.",
+              "examples": [
+                { "french": "Peut-être conviendrait-il de reconsidérer la question.", "english": "Perhaps it would be appropriate to reconsider the matter." },
+                { "french": "Sans doute serait-ce prématuré.", "english": "This would doubtless be premature." },
+                { "french": "Aussi préféra-t-il se taire plutôt que de répondre à chaud.", "english": "He therefore preferred to stay silent rather than answer in the heat of the moment." },
+                { "french": "Je ne saurais point vous donner tort sur ce point précis.", "english": "I could not possibly say you are wrong on this particular point." }
+              ],
+              "tip": "In everyday French, drop the inversion and simply say \"peut-être qu'il conviendrait de...\" — inversion after a fronted adverb is a soutenu-register signal, not an obligation, and using it in casual speech sounds theatrical rather than elegant."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "c1_u25_l03_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What must happen before adapting a register?",
+              "french": "Avant d'adapter un registre, il faut d'abord savoir le nommer.",
+              "options": ["Correctly identifying the current register first", "Translating the text into English first", "Removing all formal vocabulary immediately", "Asking the reader which register they prefer"],
+              "answer": "Correctly identifying the current register first"
+            },
+            {
+              "id": "c1_u25_l03_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. What does switching from 'vous' to 'tu' signal?",
+              "french": "Passer du vouvoiement au tutoiement marque un changement de relation, pas seulement de ton.",
+              "options": ["A change in the relationship, not just in tone", "A grammatical error to avoid", "A shift to a written, not spoken, style", "Nothing significant in French"],
+              "answer": "A change in the relationship, not just in tone"
+            },
+            {
+              "id": "c1_u25_l03_li03",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Changer de registre, ce n'est pas édulcorer le message, c'est changer son costume.",
+              "answer": "Changer de registre, ce n'est pas édulcorer le message, c'est changer son costume.",
+              "acceptedAnswers": ["changer de registre, ce n'est pas edulcorer le message, c'est changer son costume", "changer de registre ce n est pas edulcorer le message c est changer son costume"]
+            },
+            {
+              "id": "c1_u25_l03_li04",
+              "type": "dictation",
+              "prompt": "Dictation: write exactly what you hear.",
+              "french": "Une lettre administrative reste au vouvoiement du début à la fin, sans exception.",
+              "answer": "Une lettre administrative reste au vouvoiement du début à la fin, sans exception.",
+              "acceptedAnswers": ["une lettre administrative reste au vouvoiement du debut a la fin, sans exception", "une lettre administrative reste au vouvoiement du debut a la fin sans exception"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "c1_u25_l03_sp01",
+              "type": "speak",
+              "prompt": "Explain that adapting register means changing the message's outfit, not watering it down.",
+              "french": "Changer de registre, ce n'est pas édulcorer le message, c'est changer son costume.",
+              "english": "Changing register is not watering down the message, it is changing its outfit.",
+              "tip": "Give equal weight to 'édulcorer' and 'costume' — the metaphor only lands if both halves are clear."
+            },
+            {
+              "id": "c1_u25_l03_sp02",
+              "type": "speak",
+              "prompt": "State the rule that official letters always stay in the 'vous' form.",
+              "french": "Une lettre administrative reste au vouvoiement du début à la fin, sans exception.",
+              "english": "An official letter stays in the 'vous' form from start to finish, without exception.",
+              "tip": "Land firmly on 'sans exception' — the sentence is stating an absolute rule, not a preference."
+            },
+            {
+              "id": "c1_u25_l03_sp03",
+              "type": "speak",
+              "prompt": "Say, in an elevated register, that it would doubtless be premature.",
+              "french": "Sans doute serait-ce prématuré.",
+              "english": "This would doubtless be premature.",
+              "tip": "Keep the inversion 'serait-ce' smooth and unhurried — rushing it undercuts the elevated tone it is meant to create."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Deux lettres, un seul message",
+              "french": "Le comité de rédaction demanda à Yasmine deux versions du même communiqué : une pour le site institutionnel, une pour le compte du réseau social de l'association.\nLa première version, destinée au site, commençait ainsi : « Nous avons le plaisir de vous informer que le programme de mentorat sera reconduit pour une nouvelle année, sous réserve de la confirmation du financement. » Registre soutenu, vouvoiement, formule de politesse complète en fin de message.\nPour le réseau social, Yasmine reprit le même contenu, mais changea tout le costume de la phrase : « Bonne nouvelle : le programme de mentorat continue l'année prochaine ! (Sauf pépin de budget, mais on y croit.) » Tutoiement implicite, ton badin, aucune formule protocolaire.\nUn collègue, Julien, s'inquiéta : « Tu n'as pas édulcoré le message, en enlevant « sous réserve de la confirmation du financement » ? »\n« Non, répondit Yasmine, j'ai gardé l'information — « sauf pépin de budget » dit exactement la même chose, dans un registre différent. Le sens n'a pas bougé, seul le ton a changé. »\nJulien relut les deux versions côte à côte. Le décalage entre elles était total, et pourtant aucune ne trahissait l'autre.\n« C'est là tout l'art, ajouta Yasmine. Un lecteur du site ne doit jamais se sentir infantilisé par un ton trop familier ; un abonné du réseau social ne doit jamais se sentir exclu par un ton trop guindé. »\nLe comité valida les deux textes sans une seule modification.",
+              "english": "The editorial committee asked Yasmine for two versions of the same announcement: one for the institutional website, one for the association's social media account.\nThe first version, meant for the website, began: \"We are pleased to inform you that the mentoring programme will be renewed for another year, subject to confirmation of funding.\" Elevated register, formal address, a full polite closing formula at the end.\nFor social media, Yasmine kept the same content but changed the sentence's whole outfit: \"Good news: the mentoring programme continues next year! (Unless there's a budget hiccup, but we're hopeful.)\" Implicit informal address, playful tone, no protocol-bound formula at all.\nA colleague, Julien, grew worried: \"Didn't you water down the message by removing 'subject to confirmation of funding'?\"\n\"No,\" Yasmine replied, \"I kept the information — 'unless there's a budget hiccup' says exactly the same thing, in a different register. The meaning hasn't moved, only the tone has changed.\"\nJulien reread the two versions side by side. The gap between them was total, and yet neither betrayed the other.\n\"That's the whole art of it,\" Yasmine added. \"A website reader must never feel patronised by too casual a tone; a social media follower must never feel excluded by too stiff a tone.\"\nThe committee approved both texts without a single change.",
+              "questions": [
+                {
+                  "id": "c1_u25_l03_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "What is the main difference between Yasmine's two versions of the announcement?",
+                  "options": ["The register and tone, while the underlying meaning stays the same", "The actual information given to readers", "The length of the two texts only", "One version omits the budget condition entirely"],
+                  "answer": "The register and tone, while the underlying meaning stays the same"
+                },
+                {
+                  "id": "c1_u25_l03_rd02",
+                  "type": "multipleChoice",
+                  "prompt": "How does Yasmine defend her social-media version to Julien?",
+                  "options": ["She kept the same information, just phrased in a different register", "She admits she left out the funding condition", "She says the social media version is less accurate", "She claims the two versions do not need to match"],
+                  "answer": "She kept the same information, just phrased in a different register"
+                },
+                {
+                  "id": "c1_u25_l03_rd03",
+                  "type": "trueFalse",
+                  "prompt": "True or false: the committee asked Yasmine to revise both versions before approving them.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "c1_u25_l03_wr01",
+              "type": "translate",
+              "prompt": "Translate: \"An official letter stays in the 'vous' form from start to finish, without exception.\"",
+              "english": "An official letter stays in the 'vous' form from start to finish, without exception.",
+              "answer": "Une lettre administrative reste au vouvoiement du début à la fin, sans exception.",
+              "acceptedAnswers": ["une lettre administrative reste au vouvoiement du debut a la fin, sans exception", "une lettre administrative reste au vouvoiement du debut a la fin sans exception"]
+            },
+            {
+              "id": "c1_u25_l03_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "Register is not a matter of grammar, but a matter of social precision.",
+              "words": ["Le", "registre", "n'est", "pas", "une", "question", "de", "grammaire", "mais", "une", "question", "de", "justesse", "sociale"],
+              "answer": "Le registre n'est pas une question de grammaire mais une question de justesse sociale"
+            },
+            {
+              "id": "c1_u25_l03_wr03",
+              "type": "fillBlank",
+              "prompt": "Rewrite in the informal register: \"Je vous remercie pour votre message.\" → \"Je ___ remercie pour ___ message.\"",
+              "answer": "te, ton",
+              "hint": "Object pronoun and possessive both shift when moving from 'vous' to 'tu'."
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "c1_u25_l03_pr01",
+              "type": "multipleChoice",
+              "prompt": "Which register does 'nonobstant' belong to?",
+              "options": ["Le registre soutenu", "Le registre familier", "Le registre vulgaire", "L'argot"],
+              "answer": "Le registre soutenu"
+            },
+            {
+              "id": "c1_u25_l03_pr02",
+              "type": "fillBlank",
+              "prompt": "Complete: \"C'est à ___ de décider.\" (informal 'you', stressed pronoun)",
+              "answer": "toi",
+              "hint": "Informal equivalent of 'vous' in this stressed position."
+            },
+            {
+              "id": "c1_u25_l03_pr03",
+              "type": "match",
+              "prompt": "Match each word with the register it signals.",
+              "pairs": [
+                { "french": "guindé", "english": "overly stiff, too formal" },
+                { "french": "châtié", "english": "highly refined, polished" },
+                { "french": "cru", "english": "blunt, unvarnished" },
+                { "french": "badin", "english": "playful, light-hearted" }
+              ]
+            },
+            {
+              "id": "c1_u25_l03_pr04",
+              "type": "multipleChoice",
+              "prompt": "What must be checked when converting a whole passage from 'vous' to 'tu'?",
+              "options": ["Verb endings, possessives, and object/reflexive pronouns together", "Only the subject pronoun", "Only the verb tense", "Nothing changes besides the greeting"],
+              "answer": "Verb endings, possessives, and object/reflexive pronouns together"
+            },
+            {
+              "id": "c1_u25_l03_pr05",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "This tone is not at all appropriate for an official letter.",
+              "words": ["Ce", "ton", "ne", "convient", "pas", "du", "tout", "à", "une", "lettre", "officielle"],
+              "answer": "Ce ton ne convient pas du tout à une lettre officielle"
+            },
+            {
+              "id": "c1_u25_l03_pr06",
+              "type": "translate",
+              "prompt": "Translate: \"The mismatch between the email's tone and its subject made the client uncomfortable.\"",
+              "english": "The mismatch between the email's tone and its subject made the client uncomfortable.",
+              "answer": "Le décalage entre le ton du mail et son objet a mis le client mal à l'aise.",
+              "acceptedAnswers": ["le decalage entre le ton du mail et son objet a mis le client mal a l'aise", "le decalage entre le ton du mail et son objet a mis le client mal a l aise"]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "c1_u25_l03_qz01",
+              "type": "multipleChoice",
+              "prompt": "What is the first step before adapting a text's register?",
+              "options": ["Correctly naming its current register", "Translating it word for word", "Removing all formal vocabulary", "Choosing a new title"],
+              "answer": "Correctly naming its current register"
+            },
+            {
+              "id": "c1_u25_l03_qz02",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Passer du vouvoiement au ___ marque un changement de relation.\" (using 'tu')",
+              "answer": "tutoiement"
+            },
+            {
+              "id": "c1_u25_l03_qz03",
+              "type": "multipleChoice",
+              "prompt": "What does 'édulcorer' mean in the context of register?",
+              "options": ["To water down, to sanitise the message", "To make the message longer", "To translate the message literally", "To raise the register formally"],
+              "answer": "To water down, to sanitise the message"
+            },
+            {
+              "id": "c1_u25_l03_qz04",
+              "type": "trueFalse",
+              "prompt": "True or false: an official administrative letter can switch to 'tu' partway through for warmth.",
+              "options": ["True", "False"],
+              "answer": "False"
+            },
+            {
+              "id": "c1_u25_l03_qz05",
+              "type": "multipleChoice",
+              "prompt": "What grammatical feature commonly signals the elevated 'soutenu' register?",
+              "options": ["Subject-verb inversion after a fronted adverb like 'peut-être'", "Dropping the subject pronoun entirely", "Using only the present tense", "Avoiding all adjectives"],
+              "answer": "Subject-verb inversion after a fronted adverb like 'peut-être'"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

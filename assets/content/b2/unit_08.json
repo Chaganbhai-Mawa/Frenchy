@@ -1,0 +1,1211 @@
+{
+  "id": "b2_u08",
+  "level": "B2",
+  "unit": 8,
+  "title": "Law & Justice",
+  "subtitle": "Name the courts, defend a right and follow a trial in confident, precise French",
+  "icon": "👨‍⚖️",
+  "lessons": [
+    {
+      "id": "b2_u08_l01",
+      "level": "B2",
+      "unit": 8,
+      "title": "Le système judiciaire français",
+      "description": "How French courts are organised and who does what: juge, avocat, procureur, greffier and the famous jury populaire.",
+      "estimatedMinutes": 19,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Two orders, not one",
+              "body": "French justice is split into two parallel worlds. \"L'ordre judiciaire\" settles disputes between private people (civil) and punishes offences (pénal); \"l'ordre administratif\" judges the State itself, through \"les tribunaux administratifs\" and, at the top, \"le Conseil d'État\". So if your neighbour floods your flat you go to \"le tribunal judiciaire\"; if a town hall refuses your building permit you go to \"le tribunal administratif\". English has no equivalent split, which is why \"court\" alone is never a safe translation.",
+              "examples": [
+                { "french": "L'affaire relève de l'ordre judiciaire, pas de l'ordre administratif.", "english": "The case falls under the judicial order, not the administrative one.", "note": "\"relever de\" = to come under the jurisdiction of" },
+                { "french": "Il a saisi le tribunal administratif contre la préfecture.", "english": "He took the prefecture to the administrative court." },
+                { "french": "Le Conseil d'État a annulé le décret.", "english": "The Conseil d'État struck down the decree." },
+                { "french": "En matière pénale, c'est l'État qui poursuit.", "english": "In criminal matters, it is the State that prosecutes.", "note": "\"en matière pénale / civile\" is the standard formula" },
+                { "french": "Le Conseil constitutionnel vérifie la conformité des lois à la Constitution.", "english": "The Constitutional Council checks that laws conform to the Constitution." },
+                { "french": "Les deux ordres ne se confondent jamais.", "english": "The two orders are never merged." }
+              ],
+              "tip": "\"La cour\" (with a lower-case c) is a courtyard; \"la Cour\" in legal French is a superior court — cour d'appel, cour d'assises, Cour de cassation."
+            },
+            {
+              "heading": "Who sits where",
+              "body": "All French judges are \"des magistrats\", but they come in two families. \"Les magistrats du siège\" sit, listen and decide — that is \"le juge\". \"Les magistrats du parquet\" stand up to speak for society and demand a sentence — that is \"le procureur\". Around them, \"l'avocat\" defends a party, \"le greffier\" records everything, and \"l'huissier\" calls the case and later enforces the ruling.",
+              "examples": [
+                { "french": "Le juge a demandé le silence dans la salle.", "english": "The judge called for silence in the room." },
+                { "french": "Le procureur de la République requiert cinq ans de prison.", "english": "The public prosecutor is calling for five years in prison.", "note": "\"requérir\" is the parquet's verb; a defence lawyer \"plaide\"" },
+                { "french": "Son avocate a été brillante à l'audience.", "english": "Her lawyer was brilliant at the hearing." },
+                { "french": "Le greffier note chaque déclaration au procès-verbal.", "english": "The clerk records every statement in the official minutes." },
+                { "french": "Les magistrats du siège sont inamovibles.", "english": "Sitting judges cannot be removed from office." },
+                { "french": "L'avocat s'est inscrit au barreau de Lyon.", "english": "The lawyer joined the Lyon bar." }
+              ],
+              "tip": "Address a judge as « Monsieur le Président » / « Madame la Présidente », never « Monsieur le Juge » — that is a film cliché."
+            },
+            {
+              "heading": "From first instance to cassation",
+              "body": "A case travels upwards. It starts \"en première instance\", can be re-judged completely \"en appel\" before \"la cour d'appel\", and finally reaches \"la Cour de cassation\", which judges only the law and not the facts. Serious crimes go to \"la cour d'assises\", the one court where ordinary citizens sit as \"jurés\" — the French jury is drawn by lot from the electoral roll and deliberates together with the professional judges.",
+              "examples": [
+                { "french": "Elle a été condamnée en première instance, puis relaxée en appel.", "english": "She was convicted at first instance, then cleared on appeal." },
+                { "french": "La Cour de cassation ne rejuge pas les faits.", "english": "The Court of Cassation does not re-judge the facts." },
+                { "french": "Six jurés tirés au sort siègent aux assises.", "english": "Six jurors drawn by lot sit in the assize court.", "note": "\"tirer au sort\" = to draw by lot" },
+                { "french": "L'avocat a annoncé qu'il se pourvoyait en cassation.", "english": "The lawyer announced he was appealing to the Court of Cassation." },
+                { "french": "Le jugement a été cassé pour vice de procédure.", "english": "The ruling was quashed for a procedural flaw." },
+                { "french": "Un juré n'a pas le droit de parler du dossier à l'extérieur.", "english": "A juror has no right to talk about the case outside." }
+              ],
+              "tip": "\"Faire appel\" = to appeal a decision. \"Se pourvoir en cassation\" is the last step — and it is not a third trial, only a check of legal reasoning."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "la-justice", "french": "la justice", "english": "justice, the justice system", "partOfSpeech": "noun", "gender": "f", "plural": "justices", "pronunciation": "lah zhüs-TEESS", "example": "Il a décidé de porter l'affaire devant la justice.", "exampleEnglish": "He decided to take the matter to court.", "level": "B2", "category": "law" },
+            { "id": "le-systeme-judiciaire", "french": "le système judiciaire", "english": "the judicial system", "partOfSpeech": "noun", "gender": "m", "plural": "systèmes judiciaires", "pronunciation": "luh sees-TEM zhü-dee-SYEHR", "example": "Le système judiciaire français repose sur deux ordres.", "exampleEnglish": "The French judicial system rests on two orders.", "level": "B2", "category": "law" },
+            { "id": "le-tribunal", "french": "le tribunal", "english": "the court (first instance)", "partOfSpeech": "noun", "gender": "m", "plural": "tribunaux", "pronunciation": "luh tree-bü-NAHL", "example": "Le tribunal rendra sa décision dans quinze jours.", "exampleEnglish": "The court will deliver its decision in a fortnight.", "level": "B2", "category": "law" },
+            { "id": "la-cour", "french": "la cour", "english": "the court (superior)", "partOfSpeech": "noun", "gender": "f", "plural": "cours", "pronunciation": "lah KOOR", "example": "La cour se retire pour délibérer.", "exampleEnglish": "The court withdraws to deliberate.", "level": "B2", "category": "law" },
+            { "id": "la-cour-dappel", "french": "la cour d'appel", "english": "the court of appeal", "partOfSpeech": "noun", "gender": "f", "plural": "cours d'appel", "pronunciation": "lah koor dah-PEL", "example": "La cour d'appel a confirmé le jugement.", "exampleEnglish": "The court of appeal upheld the ruling.", "level": "B2", "category": "law" },
+            { "id": "la-cour-de-cassation", "french": "la Cour de cassation", "english": "the Court of Cassation (supreme court)", "partOfSpeech": "noun", "gender": "f", "plural": "cours de cassation", "pronunciation": "lah koor duh kah-sah-SYOHN", "example": "La Cour de cassation ne juge que le droit.", "exampleEnglish": "The Court of Cassation judges only the law.", "level": "B2", "category": "law" },
+            { "id": "la-cour-dassises", "french": "la cour d'assises", "english": "the assize court (serious crimes)", "partOfSpeech": "noun", "gender": "f", "plural": "cours d'assises", "pronunciation": "lah koor dah-SEEZ", "example": "Les crimes sont jugés par la cour d'assises.", "exampleEnglish": "Serious crimes are tried by the assize court.", "level": "B2", "category": "law" },
+            { "id": "le-conseil-constitutionnel", "french": "le Conseil constitutionnel", "english": "the Constitutional Council", "partOfSpeech": "noun", "gender": "m", "plural": "conseils constitutionnels", "pronunciation": "luh kohn-SEY kohn-stee-tü-syoh-NEL", "example": "Le Conseil constitutionnel a censuré deux articles de la loi.", "exampleEnglish": "The Constitutional Council struck down two articles of the law.", "level": "B2", "category": "law" },
+            { "id": "le-conseil-detat", "french": "le Conseil d'État", "english": "the Council of State (top administrative court)", "partOfSpeech": "noun", "gender": "m", "plural": "conseils d'État", "pronunciation": "luh kohn-SEY day-TAH", "example": "Le Conseil d'État a annulé l'arrêté préfectoral.", "exampleEnglish": "The Council of State annulled the prefectural order.", "level": "B2", "category": "law" },
+            { "id": "la-juridiction", "french": "la juridiction", "english": "the jurisdiction, the court", "partOfSpeech": "noun", "gender": "f", "plural": "juridictions", "pronunciation": "lah zhü-ree-deek-SYOHN", "example": "Cette juridiction n'est pas compétente pour ce litige.", "exampleEnglish": "This court has no jurisdiction over this dispute.", "level": "B2", "category": "law" },
+            { "id": "le-juge", "french": "le juge", "english": "the judge", "partOfSpeech": "noun", "gender": "m", "plural": "juges", "pronunciation": "luh ZHÜZH", "example": "Le juge a rappelé les faits avant l'interrogatoire.", "exampleEnglish": "The judge went back over the facts before questioning.", "level": "B2", "category": "law" },
+            { "id": "juger", "french": "juger", "english": "to judge, to try (a case)", "partOfSpeech": "verb", "pronunciation": "zhü-ZHAY", "example": "L'affaire sera jugée au mois de mars.", "exampleEnglish": "The case will be tried in March.", "level": "B2", "category": "law" },
+            { "id": "le-magistrat", "french": "le magistrat", "english": "the magistrate, the member of the judiciary", "partOfSpeech": "noun", "gender": "m", "plural": "magistrats", "pronunciation": "luh mah-zhees-TRAH", "example": "Les magistrats du siège sont indépendants du pouvoir politique.", "exampleEnglish": "Sitting judges are independent of political power.", "level": "B2", "category": "law" },
+            { "id": "la-magistrature", "french": "la magistrature", "english": "the judiciary (as a profession)", "partOfSpeech": "noun", "gender": "f", "plural": "magistratures", "pronunciation": "lah mah-zhees-trah-TÜR", "example": "Elle est entrée dans la magistrature à vingt-sept ans.", "exampleEnglish": "She joined the judiciary at twenty-seven.", "level": "B2", "category": "law" },
+            { "id": "le-procureur", "french": "le procureur", "english": "the public prosecutor", "partOfSpeech": "noun", "gender": "m", "plural": "procureurs", "pronunciation": "luh proh-kü-RUR", "example": "Le procureur a ouvert une enquête préliminaire.", "exampleEnglish": "The prosecutor opened a preliminary investigation.", "level": "B2", "category": "law" },
+            { "id": "le-parquet", "french": "le parquet", "english": "the public prosecutor's office", "partOfSpeech": "noun", "gender": "m", "plural": "parquets", "pronunciation": "luh par-KEH", "example": "Le parquet de Paris s'est saisi du dossier.", "exampleEnglish": "The Paris prosecutor's office took over the case.", "level": "B2", "category": "law" },
+            { "id": "l-avocat", "french": "l'avocat", "english": "the lawyer (m)", "partOfSpeech": "noun", "gender": "m", "plural": "avocats", "pronunciation": "lah-voh-KAH", "example": "Son avocat a demandé un renvoi de l'audience.", "exampleEnglish": "His lawyer asked for the hearing to be postponed.", "level": "B2", "category": "law" },
+            { "id": "l-avocate", "french": "l'avocate", "english": "the lawyer (f)", "partOfSpeech": "noun", "gender": "f", "plural": "avocates", "pronunciation": "lah-voh-KAHT", "example": "L'avocate de la défense a contesté la procédure.", "exampleEnglish": "The defence lawyer challenged the procedure.", "level": "B2", "category": "law" },
+            { "id": "le-barreau", "french": "le barreau", "english": "the bar (association of lawyers)", "partOfSpeech": "noun", "gender": "m", "plural": "barreaux", "pronunciation": "luh bah-ROH", "example": "Il est inscrit au barreau de Marseille depuis dix ans.", "exampleEnglish": "He has been a member of the Marseille bar for ten years.", "level": "B2", "category": "law" },
+            { "id": "le-jury", "french": "le jury", "english": "the jury", "partOfSpeech": "noun", "gender": "m", "plural": "jurys", "pronunciation": "luh zhü-REE", "example": "Le jury a été renouvelé pour la session d'automne.", "exampleEnglish": "The jury was renewed for the autumn session.", "level": "B2", "category": "law" },
+            { "id": "le-jure", "french": "le juré", "english": "the juror", "partOfSpeech": "noun", "gender": "m", "plural": "jurés", "pronunciation": "luh zhü-RAY", "example": "Les jurés sont tirés au sort sur les listes électorales.", "exampleEnglish": "Jurors are drawn by lot from the electoral rolls.", "level": "B2", "category": "law" },
+            { "id": "le-greffier", "french": "le greffier", "english": "the court clerk", "partOfSpeech": "noun", "gender": "m", "plural": "greffiers", "pronunciation": "luh greh-FYAY", "example": "Le greffier a relu le procès-verbal à voix haute.", "exampleEnglish": "The clerk read the minutes back out loud.", "level": "B2", "category": "law" },
+            { "id": "l-huissier", "french": "l'huissier", "english": "the bailiff, the process server", "partOfSpeech": "noun", "gender": "m", "plural": "huissiers", "pronunciation": "lwee-SYAY", "example": "L'huissier a appelé l'affaire suivante.", "exampleEnglish": "The bailiff called the next case.", "level": "B2", "category": "law" },
+            { "id": "le-justiciable", "french": "le justiciable", "english": "the person subject to the courts, the litigant", "partOfSpeech": "noun", "gender": "m", "plural": "justiciables", "pronunciation": "luh zhüs-tee-SYAH-bluh", "example": "Le justiciable a droit à un procès équitable.", "exampleEnglish": "Any person before the courts has a right to a fair trial.", "level": "B2", "category": "law" },
+            { "id": "le-plaignant", "french": "le plaignant", "english": "the complainant, the plaintiff", "partOfSpeech": "noun", "gender": "m", "plural": "plaignants", "pronunciation": "luh pleh-NYAHN", "example": "Le plaignant réclame dix mille euros de dommages.", "exampleEnglish": "The complainant is claiming ten thousand euros in damages.", "level": "B2", "category": "law" },
+            { "id": "le-prevenu", "french": "le prévenu", "english": "the defendant (in a délit case)", "partOfSpeech": "noun", "gender": "m", "plural": "prévenus", "pronunciation": "luh pray-vuh-NÜ", "example": "Le prévenu comparaît libre devant le tribunal.", "exampleEnglish": "The defendant appears before the court as a free man.", "level": "B2", "category": "law" },
+            { "id": "l-accuse", "french": "l'accusé", "english": "the accused (in a crime case)", "partOfSpeech": "noun", "gender": "m", "plural": "accusés", "pronunciation": "lah-kü-ZAY", "example": "L'accusé garde le silence depuis le début.", "exampleEnglish": "The accused has remained silent from the start.", "level": "B2", "category": "law" },
+            { "id": "la-victime", "french": "la victime", "english": "the victim", "partOfSpeech": "noun", "gender": "f", "plural": "victimes", "pronunciation": "lah veek-TEEM", "example": "La victime a été entendue à huis clos.", "exampleEnglish": "The victim was heard behind closed doors.", "level": "B2", "category": "law" },
+            { "id": "la-partie-civile", "french": "la partie civile", "english": "the civil party (victim claiming damages)", "partOfSpeech": "noun", "gender": "f", "plural": "parties civiles", "pronunciation": "lah par-TEE see-VEEL", "example": "La famille s'est constituée partie civile.", "exampleEnglish": "The family joined the case as a civil party.", "level": "B2", "category": "law" },
+            { "id": "le-jugement", "french": "le jugement", "english": "the ruling, the judgment", "partOfSpeech": "noun", "gender": "m", "plural": "jugements", "pronunciation": "luh zhüzh-MAHN", "example": "Le jugement sera rendu le douze octobre.", "exampleEnglish": "The ruling will be handed down on the twelfth of October.", "level": "B2", "category": "law" },
+            { "id": "le-code-civil", "french": "le Code civil", "english": "the Civil Code", "partOfSpeech": "noun", "gender": "m", "plural": "codes civils", "pronunciation": "luh kohd see-VEEL", "example": "Le Code civil date de mille huit cent quatre.", "exampleEnglish": "The Civil Code dates from eighteen hundred and four.", "level": "B2", "category": "law" },
+            { "id": "le-code-penal", "french": "le Code pénal", "english": "the Criminal Code", "partOfSpeech": "noun", "gender": "m", "plural": "codes pénaux", "pronunciation": "luh kohd pay-NAHL", "example": "Ce comportement est puni par le Code pénal.", "exampleEnglish": "This behaviour is punished by the Criminal Code.", "level": "B2", "category": "law" },
+            { "id": "penal", "french": "pénal", "english": "criminal (relating to criminal law)", "partOfSpeech": "adjective", "pronunciation": "pay-NAHL", "example": "L'affaire a pris une tournure pénale.", "exampleEnglish": "The case took a criminal turn.", "level": "B2", "category": "law" },
+            { "id": "civil", "french": "civil", "english": "civil (relating to private law)", "partOfSpeech": "adjective", "pronunciation": "see-VEEL", "example": "Il s'agit d'un litige civil entre deux voisins.", "exampleEnglish": "It is a civil dispute between two neighbours.", "level": "B2", "category": "law" },
+            { "id": "l-instruction", "french": "l'instruction", "english": "the judicial investigation", "partOfSpeech": "noun", "gender": "f", "plural": "instructions", "pronunciation": "lan-strük-SYOHN", "example": "L'instruction a duré près de trois ans.", "exampleEnglish": "The judicial investigation lasted nearly three years.", "level": "B2", "category": "law" },
+            { "id": "le-juge-dinstruction", "french": "le juge d'instruction", "english": "the investigating judge", "partOfSpeech": "noun", "gender": "m", "plural": "juges d'instruction", "pronunciation": "luh zhüzh dan-strük-SYOHN", "example": "Le juge d'instruction a convoqué trois témoins.", "exampleEnglish": "The investigating judge summoned three witnesses.", "level": "B2", "category": "law" },
+            { "id": "saisir", "french": "saisir", "english": "to refer a matter to (a court)", "partOfSpeech": "verb", "pronunciation": "seh-ZEER", "example": "Les salariés ont saisi le tribunal du travail.", "exampleEnglish": "The employees took their case to the labour court.", "level": "B2", "category": "law" },
+            { "id": "l-enquete", "french": "l'enquête", "english": "the investigation, the survey", "partOfSpeech": "noun", "gender": "f", "plural": "enquêtes", "pronunciation": "lahn-KET", "example": "L'enquête a été confiée à la police judiciaire.", "exampleEnglish": "The investigation was entrusted to the criminal police.", "level": "B2", "category": "law" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "The passive voice, the language of institutions",
+              "body": "Legal and administrative French loves the passive: it names the act, not the actor. Form it with \"être\" + past participle, and agree the participle with the subject. The agent, when given at all, follows \"par\": \"jugé par le tribunal\". With verbs of feeling or long-term states, the agent takes \"de\" instead: \"respecté de tous\". Notice that a French passive can only be built on a direct object — you cannot translate \"he was given a fine\" word for word; French says \"on lui a infligé une amende\".",
+              "examples": [
+                { "french": "L'affaire a été jugée en première instance.", "english": "The case was tried at first instance.", "note": "participle agrees: affaire is feminine" },
+                { "french": "Les deux prévenus ont été relaxés.", "english": "The two defendants were cleared." },
+                { "french": "Le décret a été annulé par le Conseil d'État.", "english": "The decree was annulled by the Council of State." },
+                { "french": "Ce magistrat est respecté de ses confrères.", "english": "This judge is respected by his colleagues.", "note": "\"de\" after a verb of attitude" },
+                { "french": "Une amende lui a été infligée.", "english": "A fine was imposed on him." },
+                { "french": "La séance sera levée à dix-huit heures.", "english": "The session will be adjourned at six p.m." }
+              ],
+              "tip": "In the press, \"on\" and the reflexive passive replace the heavy passive: \"le dossier s'est réglé à l'amiable\" sounds far more natural than \"a été réglé\"."
+            },
+            {
+              "heading": "Relative pronouns for precise definitions",
+              "body": "Defining who does what requires \"qui\" (subject), \"que\" (direct object), \"dont\" (replacing de + noun) and \"auquel / à laquelle\" (replacing à + noun). Legal French adds \"lequel\" after prepositions when the antecedent is a thing: \"le texte sur lequel repose la décision\". \"Dont\" is the one English speakers avoid, yet it is everywhere here: \"un juge dont l'indépendance est garantie\".",
+              "examples": [
+                { "french": "Le magistrat qui préside l'audience s'appelle le président.", "english": "The judge who chairs the hearing is called the president." },
+                { "french": "L'avocate que vous avez consultée est spécialiste du droit du travail.", "english": "The lawyer you consulted specialises in employment law." },
+                { "french": "C'est un principe dont dépend tout le procès.", "english": "It is a principle on which the whole trial depends.", "note": "dépendre DE → dont" },
+                { "french": "La juridiction à laquelle il s'est adressé n'était pas compétente.", "english": "The court he applied to had no jurisdiction." },
+                { "french": "Le texte sur lequel se fonde l'accusation date de 1994.", "english": "The text on which the prosecution is based dates from 1994." },
+                { "french": "Voici le dossier dont je vous ai parlé.", "english": "Here is the file I told you about." }
+              ],
+              "tip": "After a preposition, use \"qui\" only for people (\"l'avocat avec qui je travaille\") and \"lequel\" for things (\"la loi selon laquelle…\")."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "b2_u08_l01_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. Which court is being described?",
+              "french": "Cette juridiction ne rejuge pas les faits : elle vérifie seulement que le droit a été correctement appliqué.",
+              "options": [
+                "la Cour de cassation",
+                "le tribunal judiciaire",
+                "la cour d'assises",
+                "le Conseil constitutionnel"
+              ],
+              "answer": "la Cour de cassation"
+            },
+            {
+              "id": "b2_u08_l01_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. Who is speaking?",
+              "french": "Mesdames et messieurs les jurés, je requiers contre l'accusé une peine de huit ans de réclusion.",
+              "options": [
+                "le procureur",
+                "l'avocat de la défense",
+                "le greffier",
+                "un témoin"
+              ],
+              "answer": "le procureur"
+            },
+            {
+              "id": "b2_u08_l01_li03",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Le tribunal rendra sa décision dans quinze jours.",
+              "answer": "Le tribunal rendra sa décision dans quinze jours.",
+              "acceptedAnswers": [
+                "le tribunal rendra sa decision dans quinze jours",
+                "Le tribunal rendra sa decision dans quinze jours"
+              ]
+            },
+            {
+              "id": "b2_u08_l01_li04",
+              "type": "dictation",
+              "prompt": "Listen carefully and write the full sentence.",
+              "french": "Les jurés sont tirés au sort sur les listes électorales.",
+              "answer": "Les jurés sont tirés au sort sur les listes électorales.",
+              "acceptedAnswers": [
+                "les jures sont tires au sort sur les listes electorales",
+                "Les jures sont tires au sort sur les listes electorales"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "b2_u08_l01_sp01",
+              "type": "speak",
+              "prompt": "Explain the split between the two orders.",
+              "french": "Ce litige relève de l'ordre administratif, pas de l'ordre judiciaire.",
+              "english": "This dispute comes under the administrative order, not the judicial one.",
+              "tip": "\"Relève\" opens wide: ruh-LEV, not ruh-LEEV. Keep \"ordre\" as one beat, OR-druh, with a barely audible final -re."
+            },
+            {
+              "id": "b2_u08_l01_sp02",
+              "type": "speak",
+              "prompt": "Name the people in the room.",
+              "french": "Le juge préside, le procureur requiert et l'avocat plaide.",
+              "english": "The judge chairs, the prosecutor calls for a sentence and the lawyer pleads.",
+              "tip": "\"Requiert\" is ruh-KYEHR — two syllables only, and the -t is silent. Don't say \"ruh-kwee-EHR\"."
+            },
+            {
+              "id": "b2_u08_l01_sp03",
+              "type": "speak",
+              "prompt": "Use a relative pronoun with 'dont'.",
+              "french": "C'est un principe dont dépend l'équilibre de tout le procès.",
+              "english": "It is a principle on which the balance of the whole trial depends.",
+              "tip": "\"Dont\" rhymes with \"mont\": nasal -on, no final t sound. Link it straight into \"dépend\" without a pause."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Une journée au tribunal judiciaire",
+              "french": "À neuf heures, la salle d'audience est déjà pleine, et personne n'a l'air d'y comprendre grand-chose.\nUn huissier appelle les affaires les unes après les autres, d'une voix qui ne monte jamais.\nSur l'estrade, trois magistrats du siège s'installent ; en contrebas, le greffier ouvre son ordinateur et ne le quittera plus des yeux.\nÀ droite, debout, le procureur représente la société : ce n'est pas lui qu'on juge, c'est lui qui accuse au nom de tous.\n« Le public croit toujours que le procureur et le juge travaillent ensemble », soupire une avocate entre deux dossiers.\n« Or le magistrat du parquet demande, et le magistrat du siège décide. Toute la différence est là. »\nLa première affaire dure onze minutes : un vol de téléphone, un prévenu qui reconnaît les faits, une amende.\nLa deuxième prend une heure, parce que la partie civile conteste le montant des dommages.\nLes justiciables, eux, découvrent un vocabulaire dont personne ne leur a jamais expliqué le sens.\nOn leur parle de première instance, de renvoi, de délibéré, comme si ces mots allaient de soi.\nÀ midi, la présidente annonce que le jugement sera rendu dans quinze jours et lève l'audience.\nDans le couloir, un homme demande à son avocat si tout cela signifie qu'il a gagné.\n« Cela signifie qu'on attend », répond l'avocat, qui a l'habitude de la question.\nEt il ajoute, en rangeant sa robe : « La justice est lente parce qu'elle écoute. C'est le prix. »",
+              "english": "At nine o'clock, the courtroom is already full, and nobody seems to understand much of what is going on.\nA bailiff calls the cases one after another, in a voice that never rises.\nOn the platform, three sitting judges settle in; below them, the clerk opens his computer and will not take his eyes off it again.\nOn the right, standing, the prosecutor represents society: he is not the one being judged, he is the one accusing in everyone's name.\n\"The public always thinks the prosecutor and the judge work together,\" sighs a lawyer between two files.\n\"But the prosecution judge asks, and the sitting judge decides. That is the whole difference.\"\nThe first case lasts eleven minutes: a stolen phone, a defendant who admits the facts, a fine.\nThe second takes an hour, because the civil party is disputing the amount of damages.\nThe people before the court, for their part, discover a vocabulary whose meaning nobody has ever explained to them.\nThey are told about first instance, postponement, deliberation, as if those words were self-evident.\nAt midday, the presiding judge announces that the ruling will be handed down in a fortnight and adjourns the hearing.\nIn the corridor, a man asks his lawyer whether all that means he has won.\n\"It means we wait,\" replies the lawyer, who is used to the question.\nAnd he adds, putting away his gown: \"Justice is slow because it listens. That is the price.\"",
+              "questions": [
+                {
+                  "id": "b2_u08_l01_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "D'après l'avocate, quelle est la différence essentielle entre le parquet et le siège ?",
+                  "options": [
+                    "le parquet demande, le siège décide",
+                    "le parquet décide, le siège exécute",
+                    "le parquet défend l'accusé, le siège accuse",
+                    "le parquet n'assiste pas à l'audience"
+                  ],
+                  "answer": "le parquet demande, le siège décide"
+                },
+                {
+                  "id": "b2_u08_l01_rd02",
+                  "type": "trueFalse",
+                  "prompt": "D'après le texte, la deuxième affaire a été plus longue à cause d'un désaccord sur le montant des dommages.",
+                  "options": ["True", "False"],
+                  "answer": "True"
+                },
+                {
+                  "id": "b2_u08_l01_rd03",
+                  "type": "multipleChoice",
+                  "prompt": "Que répond l'avocat à l'homme qui demande s'il a gagné ?",
+                  "options": [
+                    "que la décision n'est pas encore rendue",
+                    "qu'il a perdu son procès",
+                    "qu'il doit faire appel immédiatement",
+                    "que l'affaire est classée sans suite"
+                  ],
+                  "answer": "que la décision n'est pas encore rendue"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "b2_u08_l01_wr01",
+              "type": "translate",
+              "prompt": "Translate into French, using the passive.",
+              "english": "The case was tried at first instance.",
+              "answer": "L'affaire a été jugée en première instance.",
+              "acceptedAnswers": [
+                "l'affaire a ete jugee en premiere instance",
+                "laffaire a ete jugee en premiere instance"
+              ]
+            },
+            {
+              "id": "b2_u08_l01_wr02",
+              "type": "fillBlank",
+              "prompt": "C'est un principe ___ dépend tout le procès. (qui / que / dont)",
+              "answer": "dont"
+            },
+            {
+              "id": "b2_u08_l01_wr03",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "The employees took their case to the labour court.",
+              "answer": "Les salariés ont saisi le tribunal du travail.",
+              "acceptedAnswers": [
+                "les salaries ont saisi le tribunal du travail",
+                "les salariés ont saisi le conseil de prud'hommes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "b2_u08_l01_pr01",
+              "type": "multipleChoice",
+              "prompt": "Complétez : « Le décret a été annulé ___ le Conseil d'État. »",
+              "options": ["par", "de", "avec", "pour"],
+              "answer": "par"
+            },
+            {
+              "id": "b2_u08_l01_pr02",
+              "type": "fillBlank",
+              "prompt": "La juridiction à ___ il s'est adressé n'était pas compétente. (laquelle / lequel / qui)",
+              "answer": "laquelle"
+            },
+            {
+              "id": "b2_u08_l01_pr03",
+              "type": "arrangeWords",
+              "words": ["au sort", "Les jurés", "sur les listes", "sont", "électorales", "tirés"],
+              "answer": "Les jurés sont tirés au sort sur les listes électorales",
+              "english": "Jurors are drawn by lot from the electoral rolls."
+            },
+            {
+              "id": "b2_u08_l01_pr04",
+              "type": "match",
+              "prompt": "Associez chaque rôle à sa fonction.",
+              "pairs": [
+                { "french": "le greffier", "english": "the court clerk" },
+                { "french": "l'huissier", "english": "the bailiff" },
+                { "french": "le procureur", "english": "the public prosecutor" },
+                { "french": "le juré", "english": "the juror" }
+              ]
+            },
+            {
+              "id": "b2_u08_l01_pr05",
+              "type": "multipleChoice",
+              "prompt": "Quelle juridiction juge les crimes les plus graves avec des jurés ?",
+              "options": [
+                "la cour d'assises",
+                "le tribunal administratif",
+                "la Cour de cassation",
+                "le Conseil constitutionnel"
+              ],
+              "answer": "la cour d'assises"
+            },
+            {
+              "id": "b2_u08_l01_pr06",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "The investigating judge summoned three witnesses.",
+              "answer": "Le juge d'instruction a convoqué trois témoins.",
+              "acceptedAnswers": [
+                "le juge d'instruction a convoque trois temoins",
+                "le juge dinstruction a convoque trois temoins"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "b2_u08_l01_qz01",
+              "type": "multipleChoice",
+              "prompt": "Un citoyen conteste un permis de construire refusé par la mairie. Quelle juridiction saisit-il ?",
+              "options": [
+                "le tribunal administratif",
+                "le tribunal judiciaire",
+                "la cour d'assises",
+                "le conseil de prud'hommes"
+              ],
+              "answer": "le tribunal administratif"
+            },
+            {
+              "id": "b2_u08_l01_qz02",
+              "type": "multipleChoice",
+              "prompt": "Quel mot désigne l'ensemble du ministère public dans un tribunal ?",
+              "options": ["le parquet", "le barreau", "le greffe", "le siège"],
+              "answer": "le parquet"
+            },
+            {
+              "id": "b2_u08_l01_qz03",
+              "type": "fillBlank",
+              "prompt": "Les deux prévenus ont été ___ faute de preuves. (relaxer, participe passé accordé)",
+              "answer": "relaxés"
+            },
+            {
+              "id": "b2_u08_l01_qz04",
+              "type": "trueFalse",
+              "prompt": "La Cour de cassation rejuge entièrement les faits de l'affaire.",
+              "options": ["True", "False"],
+              "answer": "False"
+            },
+            {
+              "id": "b2_u08_l01_qz05",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "The court of appeal upheld the ruling.",
+              "answer": "La cour d'appel a confirmé le jugement.",
+              "acceptedAnswers": [
+                "la cour d'appel a confirme le jugement",
+                "la cour dappel a confirme le jugement"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2_u08_l02",
+      "level": "B2",
+      "unit": 8,
+      "title": "Les droits fondamentaux",
+      "description": "Rights, freedoms and the constitutional vocabulary the French use to defend them — and to argue about their limits.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Where French rights come from",
+              "body": "The French Constitution of 1958 is short, so most rights live in what lawyers call \"le bloc de constitutionnalité\": the 1789 « Déclaration des droits de l'homme et du citoyen », the 1946 preamble and the Charter of the Environment. Note the vocabulary: a right is \"reconnu\" (recognised), then \"garanti\" (guaranteed), and finally \"protégé\" (protected) by a judge. If it is violated, French says \"il y a atteinte à\" or, more strongly, \"ce droit est bafoué\".",
+              "examples": [
+                { "french": "La liberté d'expression est garantie par la Constitution.", "english": "Freedom of expression is guaranteed by the Constitution." },
+                { "french": "La Déclaration de 1789 fait toujours partie de notre droit positif.", "english": "The 1789 Declaration is still part of our law in force." },
+                { "french": "Cette mesure porte atteinte à la vie privée des salariés.", "english": "This measure infringes employees' privacy.", "note": "porter atteinte à = to infringe" },
+                { "french": "Dans plusieurs pays, ce droit est ouvertement bafoué.", "english": "In several countries, this right is openly flouted." },
+                { "french": "Le préambule de 1946 reconnaît le droit de grève.", "english": "The 1946 preamble recognises the right to strike." },
+                { "french": "Nul ne peut être privé arbitrairement de sa liberté.", "english": "No one may be arbitrarily deprived of their liberty.", "note": "« nul ne » is the formal legal negation" }
+              ],
+              "tip": "\"Le droit\" without an article-plus-complement means law as a field (\"étudier le droit\"); \"un droit\" is an individual entitlement; \"les droits\" can also mean fees — \"les droits d'inscription\"."
+            },
+            {
+              "heading": "Freedom is always plural",
+              "body": "French rarely says \"la liberté\" alone in a debate; it names which one. \"La liberté d'expression\", \"de la presse\", \"de conscience\", \"de circulation\", \"de réunion\", \"d'association\". Each is defended and each is limited — and the standard formula for the limit is that a freedom stops \"là où commence celle des autres\". The three republican words \"liberté, égalité, fraternité\" complete the set, joined in modern debate by \"la laïcité\" and \"la dignité\".",
+              "examples": [
+                { "french": "La liberté de la presse est un contre-pouvoir essentiel.", "english": "Freedom of the press is an essential check on power." },
+                { "french": "La liberté de conscience protège les croyants comme les athées.", "english": "Freedom of conscience protects believers and atheists alike." },
+                { "french": "La laïcité n'est pas l'hostilité aux religions, mais la neutralité de l'État.", "english": "Secularism is not hostility to religions, but the neutrality of the State." },
+                { "french": "Ma liberté s'arrête là où commence celle des autres.", "english": "My freedom ends where other people's begins." },
+                { "french": "Le droit de manifester découle de la liberté de réunion.", "english": "The right to demonstrate derives from freedom of assembly.", "note": "\"découler de\" = to follow from" },
+                { "french": "La dignité de la personne humaine est un principe à valeur constitutionnelle.", "english": "Human dignity is a principle of constitutional value." }
+              ],
+              "tip": "Careful with false friends: \"la liberté surveillée\" is probation, and \"mettre en liberté\" means to release from custody, not to set free in general."
+            },
+            {
+              "heading": "Arguing about limits",
+              "body": "At B2 the interesting move is not listing rights but weighing them. French debate uses a stable set of connectors for that: \"certes… mais\", \"bien que\" + subjunctive, \"au nom de\", \"au détriment de\", \"un juste équilibre entre\". The recurring question is whether a restriction is \"proportionnée\" and \"justifiée\", or whether it constitutes \"une dérive\" — a slide towards abuse.",
+              "examples": [
+                { "french": "Certes, la sécurité compte, mais pas au détriment des libertés.", "english": "Security matters, of course, but not at the expense of freedoms." },
+                { "french": "Bien que la mesure soit temporaire, elle inquiète les associations.", "english": "Although the measure is temporary, it worries campaign groups.", "note": "bien que + subjunctive" },
+                { "french": "On restreint des droits au nom de l'ordre public.", "english": "Rights are being restricted in the name of public order." },
+                { "french": "Il faut trouver un juste équilibre entre transparence et vie privée.", "english": "A fair balance must be found between transparency and privacy." },
+                { "french": "Cette restriction n'est ni nécessaire ni proportionnée.", "english": "This restriction is neither necessary nor proportionate." },
+                { "french": "Beaucoup dénoncent une dérive sécuritaire.", "english": "Many are denouncing a slide towards a security state." }
+              ],
+              "tip": "\"Au nom de\" is the giveaway of a contested justification: whoever uses it usually intends to challenge the reason, not endorse it."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "droit", "french": "le droit", "english": "the right (legal entitlement)", "partOfSpeech": "noun", "gender": "m", "plural": "droits", "pronunciation": "luh DRWAH", "example": "Chacun a le droit d'être défendu.", "exampleEnglish": "Everyone has the right to be defended.", "level": "B2", "category": "rights" },
+            { "id": "les-droits-de-lhomme", "french": "les droits de l'homme", "english": "human rights", "partOfSpeech": "noun", "gender": "m", "plural": "droits de l'homme", "pronunciation": "lay drwah duh LOM", "example": "L'association milite pour les droits de l'homme.", "exampleEnglish": "The organisation campaigns for human rights.", "level": "B2", "category": "rights" },
+            { "id": "fondamental", "french": "fondamental", "english": "fundamental", "partOfSpeech": "adjective", "pronunciation": "fohn-dah-mahn-TAHL", "example": "Le droit à un procès équitable est un droit fondamental.", "exampleEnglish": "The right to a fair trial is a fundamental right.", "level": "B2", "category": "rights" },
+            { "id": "la-liberte", "french": "la liberté", "english": "freedom, liberty", "partOfSpeech": "noun", "gender": "f", "plural": "libertés", "pronunciation": "lah lee-behr-TAY", "example": "La liberté n'est jamais acquise une fois pour toutes.", "exampleEnglish": "Freedom is never won once and for all.", "level": "B2", "category": "rights" },
+            { "id": "libre", "french": "libre", "english": "free", "partOfSpeech": "adjective", "pronunciation": "LEE-bruh", "example": "Chacun est libre de croire ou de ne pas croire.", "exampleEnglish": "Everyone is free to believe or not to believe.", "level": "B2", "category": "rights" },
+            { "id": "liberte-dexpression", "french": "la liberté d'expression", "english": "freedom of expression", "partOfSpeech": "noun", "gender": "f", "plural": "libertés d'expression", "pronunciation": "lah lee-behr-TAY dex-preh-SYOHN", "example": "La liberté d'expression connaît des limites précises.", "exampleEnglish": "Freedom of expression has precise limits.", "level": "B2", "category": "rights" },
+            { "id": "la-liberte-de-la-presse", "french": "la liberté de la presse", "english": "freedom of the press", "partOfSpeech": "noun", "gender": "f", "plural": "libertés de la presse", "pronunciation": "lah lee-behr-TAY duh lah PRESS", "example": "La liberté de la presse recule dans plusieurs démocraties.", "exampleEnglish": "Press freedom is retreating in several democracies.", "level": "B2", "category": "rights" },
+            { "id": "la-liberte-de-conscience", "french": "la liberté de conscience", "english": "freedom of conscience", "partOfSpeech": "noun", "gender": "f", "plural": "libertés de conscience", "pronunciation": "lah lee-behr-TAY duh kohn-SYAHNSS", "example": "La liberté de conscience est garantie à tous.", "exampleEnglish": "Freedom of conscience is guaranteed to all.", "level": "B2", "category": "rights" },
+            { "id": "la-liberte-de-reunion", "french": "la liberté de réunion", "english": "freedom of assembly", "partOfSpeech": "noun", "gender": "f", "plural": "libertés de réunion", "pronunciation": "lah lee-behr-TAY duh ray-ü-NYOHN", "example": "Le droit de manifester découle de la liberté de réunion.", "exampleEnglish": "The right to demonstrate derives from freedom of assembly.", "level": "B2", "category": "rights" },
+            { "id": "la-liberte-de-circulation", "french": "la liberté de circulation", "english": "freedom of movement", "partOfSpeech": "noun", "gender": "f", "plural": "libertés de circulation", "pronunciation": "lah lee-behr-TAY duh seer-kü-lah-SYOHN", "example": "Le confinement a suspendu la liberté de circulation.", "exampleEnglish": "The lockdown suspended freedom of movement.", "level": "B2", "category": "rights" },
+            { "id": "egalite", "french": "l'égalité", "english": "equality", "partOfSpeech": "noun", "gender": "f", "plural": "égalités", "pronunciation": "lay-gah-lee-TAY", "example": "L'égalité devant la loi n'est pas toujours une réalité.", "exampleEnglish": "Equality before the law is not always a reality.", "level": "B2", "category": "rights" },
+            { "id": "inegalite", "french": "l'inégalité", "english": "inequality", "partOfSpeech": "noun", "gender": "f", "plural": "inégalités", "pronunciation": "lee-nay-gah-lee-TAY", "example": "Les inégalités d'accès à la justice restent fortes.", "exampleEnglish": "Inequalities in access to justice remain strong.", "level": "B2", "category": "rights" },
+            { "id": "la-fraternite", "french": "la fraternité", "english": "fraternity, brotherhood", "partOfSpeech": "noun", "gender": "f", "plural": "fraternités", "pronunciation": "lah frah-tehr-nee-TAY", "example": "La fraternité figure sur tous les frontons de mairie.", "exampleEnglish": "Fraternity appears on every town hall pediment.", "level": "B2", "category": "rights" },
+            { "id": "la-laicite", "french": "la laïcité", "english": "secularism (French model)", "partOfSpeech": "noun", "gender": "f", "plural": "laïcités", "pronunciation": "lah lah-ee-see-TAY", "example": "La laïcité impose la neutralité de l'État, pas celle des citoyens.", "exampleEnglish": "Secularism requires neutrality from the State, not from citizens.", "level": "B2", "category": "rights" },
+            { "id": "la-dignite", "french": "la dignité", "english": "dignity", "partOfSpeech": "noun", "gender": "f", "plural": "dignités", "pronunciation": "lah dee-nyee-TAY", "example": "La dignité de la personne humaine est inviolable.", "exampleEnglish": "The dignity of the human person is inviolable.", "level": "B2", "category": "rights" },
+            { "id": "constitution", "french": "la constitution", "english": "the constitution", "partOfSpeech": "noun", "gender": "f", "plural": "constitutions", "pronunciation": "lah kohn-stee-tü-SYOHN", "example": "La Constitution de 1958 a été révisée vingt-cinq fois.", "exampleEnglish": "The 1958 Constitution has been revised twenty-five times.", "level": "B2", "category": "rights" },
+            { "id": "constitutionnel", "french": "constitutionnel", "english": "constitutional", "partOfSpeech": "adjective", "pronunciation": "kohn-stee-tü-syoh-NEL", "example": "Le texte a été déclaré contraire à la norme constitutionnelle.", "exampleEnglish": "The text was declared contrary to constitutional norms.", "level": "B2", "category": "rights" },
+            { "id": "la-declaration-des-droits", "french": "la Déclaration des droits de l'homme", "english": "the Declaration of the Rights of Man", "partOfSpeech": "noun", "gender": "f", "plural": "déclarations des droits de l'homme", "pronunciation": "lah day-klah-rah-SYOHN day drwah duh LOM", "example": "La Déclaration des droits de l'homme date de 1789.", "exampleEnglish": "The Declaration of the Rights of Man dates from 1789.", "level": "B2", "category": "rights" },
+            { "id": "le-preambule", "french": "le préambule", "english": "the preamble", "partOfSpeech": "noun", "gender": "m", "plural": "préambules", "pronunciation": "luh pray-ahn-BÜL", "example": "Le préambule de 1946 reconnaît le droit de grève.", "exampleEnglish": "The 1946 preamble recognises the right to strike.", "level": "B2", "category": "rights" },
+            { "id": "citoyen", "french": "le citoyen / la citoyenne", "english": "the citizen", "partOfSpeech": "noun", "gender": "m", "plural": "citoyens", "pronunciation": "luh see-twah-YEN", "example": "Tout citoyen peut saisir le Défenseur des droits.", "exampleEnglish": "Any citizen can refer a matter to the Rights Defender.", "level": "B2", "category": "rights" },
+            { "id": "la-citoyennete", "french": "la citoyenneté", "english": "citizenship", "partOfSpeech": "noun", "gender": "f", "plural": "citoyennetés", "pronunciation": "lah see-twah-yen-TAY", "example": "La citoyenneté ne se réduit pas au droit de vote.", "exampleEnglish": "Citizenship is not reducible to the right to vote.", "level": "B2", "category": "rights" },
+            { "id": "le-suffrage-universel", "french": "le suffrage universel", "english": "universal suffrage", "partOfSpeech": "noun", "gender": "m", "plural": "suffrages universels", "pronunciation": "luh sü-FRAHZH ü-nee-vehr-SEL", "example": "Le président est élu au suffrage universel direct.", "exampleEnglish": "The president is elected by direct universal suffrage.", "level": "B2", "category": "rights" },
+            { "id": "l-etat-de-droit", "french": "l'État de droit", "english": "the rule of law", "partOfSpeech": "noun", "gender": "m", "plural": "États de droit", "pronunciation": "lay-TAH duh DRWAH", "example": "Sans juge indépendant, il n'y a pas d'État de droit.", "exampleEnglish": "Without an independent judge, there is no rule of law.", "level": "B2", "category": "rights" },
+            { "id": "la-souverainete", "french": "la souveraineté", "english": "sovereignty", "partOfSpeech": "noun", "gender": "f", "plural": "souverainetés", "pronunciation": "lah soo-veh-ren-TAY", "example": "La souveraineté appartient au peuple.", "exampleEnglish": "Sovereignty belongs to the people.", "level": "B2", "category": "rights" },
+            { "id": "garantir", "french": "garantir", "english": "to guarantee", "partOfSpeech": "verb", "pronunciation": "gah-rahn-TEER", "example": "La loi garantit l'accès à un avocat dès la première heure.", "exampleEnglish": "The law guarantees access to a lawyer from the first hour.", "level": "B2", "category": "rights" },
+            { "id": "proteger", "french": "protéger", "english": "to protect", "partOfSpeech": "verb", "pronunciation": "proh-tay-ZHAY", "example": "Ce texte protège les lanceurs d'alerte.", "exampleEnglish": "This text protects whistleblowers.", "level": "B2", "category": "rights" },
+            { "id": "l-atteinte", "french": "l'atteinte", "english": "the infringement, the violation", "partOfSpeech": "noun", "gender": "f", "plural": "atteintes", "pronunciation": "lah-TANT", "example": "Le tribunal a reconnu une atteinte à la vie privée.", "exampleEnglish": "The court recognised an invasion of privacy.", "level": "B2", "category": "rights" },
+            { "id": "porter-atteinte", "french": "porter atteinte à", "english": "to infringe, to undermine", "partOfSpeech": "expression", "pronunciation": "por-TAY ah-TANT ah", "example": "Cette surveillance porte atteinte aux libertés individuelles.", "exampleEnglish": "This surveillance infringes individual freedoms.", "level": "B2", "category": "rights" },
+            { "id": "bafouer", "french": "bafouer", "english": "to flout, to trample on", "partOfSpeech": "verb", "pronunciation": "bah-FWAY", "example": "Les droits des détenus y sont ouvertement bafoués.", "exampleEnglish": "Prisoners' rights are openly trampled on there.", "level": "B2", "category": "rights" },
+            { "id": "restreindre", "french": "restreindre", "english": "to restrict", "partOfSpeech": "verb", "pronunciation": "reh-STRAN-druh", "example": "On ne peut restreindre une liberté que par la loi.", "exampleEnglish": "A freedom can only be restricted by law.", "level": "B2", "category": "rights" },
+            { "id": "la-censure", "french": "la censure", "english": "censorship", "partOfSpeech": "noun", "gender": "f", "plural": "censures", "pronunciation": "lah sahn-SÜR", "example": "La censure ne dit jamais son nom.", "exampleEnglish": "Censorship never calls itself by its name.", "level": "B2", "category": "rights" },
+            { "id": "discrimination", "french": "la discrimination", "english": "discrimination", "partOfSpeech": "noun", "gender": "f", "plural": "discriminations", "pronunciation": "lah dees-kree-mee-nah-SYOHN", "example": "La discrimination à l'embauche est punie par la loi.", "exampleEnglish": "Discrimination in hiring is punished by law.", "level": "B2", "category": "rights" },
+            { "id": "discriminer", "french": "discriminer", "english": "to discriminate against", "partOfSpeech": "verb", "pronunciation": "dees-kree-mee-NAY", "example": "Aucun employeur ne peut discriminer un candidat sur son âge.", "exampleEnglish": "No employer may discriminate against a candidate on grounds of age.", "level": "B2", "category": "rights" },
+            { "id": "prejuge", "french": "le préjugé", "english": "the prejudice, the preconception", "partOfSpeech": "noun", "gender": "m", "plural": "préjugés", "pronunciation": "luh pray-zhü-ZHAY", "example": "Les préjugés survivent longtemps aux lois qui les condamnent.", "exampleEnglish": "Prejudices long outlive the laws that condemn them.", "level": "B2", "category": "rights" },
+            { "id": "la-vie-privee", "french": "la vie privée", "english": "private life, privacy", "partOfSpeech": "noun", "gender": "f", "plural": "vies privées", "pronunciation": "lah vee pree-VAY", "example": "Le respect de la vie privée s'impose aussi à l'employeur.", "exampleEnglish": "Respect for privacy applies to the employer too.", "level": "B2", "category": "rights" },
+            { "id": "le-recours", "french": "le recours", "english": "the legal challenge, the appeal (procedure)", "partOfSpeech": "noun", "gender": "m", "plural": "recours", "pronunciation": "luh ruh-KOOR", "example": "Une association a déposé un recours contre le décret.", "exampleEnglish": "An organisation lodged a challenge against the decree.", "level": "B2", "category": "rights" },
+            { "id": "l-ordre-public", "french": "l'ordre public", "english": "public order", "partOfSpeech": "noun", "gender": "m", "plural": "ordres publics", "pronunciation": "LOR-druh pü-BLEEK", "example": "La manifestation a été interdite pour trouble à l'ordre public.", "exampleEnglish": "The demonstration was banned for disturbing public order.", "level": "B2", "category": "rights" },
+            { "id": "la-derive", "french": "la dérive", "english": "the drift, the slide (towards abuse)", "partOfSpeech": "noun", "gender": "f", "plural": "dérives", "pronunciation": "lah day-REEV", "example": "Les juristes dénoncent une dérive sécuritaire.", "exampleEnglish": "Legal scholars are denouncing a slide towards a security state.", "level": "B2", "category": "rights" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Concession: bien que, quoique, même si",
+              "body": "Conceding a point before rebutting it is the core B2 debating move. \"Bien que\" and \"quoique\" take the subjunctive: \"bien que la mesure soit légale…\". \"Même si\" and \"alors que\" take the indicative: \"même si la mesure est légale…\". A shortcut used constantly in the press is \"certes… mais\": you grant the objection in one clause and demolish it in the next. Never write \"malgré que\" — it is considered incorrect; use \"malgré\" + noun instead.",
+              "examples": [
+                { "french": "Bien que le texte soit constitutionnel, il reste contesté.", "english": "Although the text is constitutional, it remains contested.", "note": "soit = subjunctive of être" },
+                { "french": "Quoiqu'elle ait raison sur le fond, sa méthode dérange.", "english": "Although she is right on the substance, her method is unsettling." },
+                { "french": "Même si la loi le permet, ce n'est pas légitime.", "english": "Even if the law allows it, it is not legitimate." },
+                { "french": "Certes, la sécurité est un droit ; mais elle n'annule pas les autres.", "english": "Security is a right, certainly; but it does not cancel out the others." },
+                { "french": "Malgré les critiques, le décret a été maintenu.", "english": "Despite the criticism, the decree was maintained.", "note": "malgré + noun, never \"malgré que\"" },
+                { "french": "Il a signé, alors qu'il savait le texte fragile.", "english": "He signed, even though he knew the text was shaky." }
+              ],
+              "tip": "\"Quoique\" (one word) = although. \"Quoi que\" (two words) = whatever: « quoi qu'il dise, personne ne le croit »."
+            },
+            {
+              "heading": "Impersonal formulas of obligation and right",
+              "body": "Legal French almost never says \"you must\". It uses impersonal structures: \"il est interdit de\", \"nul ne peut\", \"il convient de\", \"chacun a le droit de\", \"toute personne a droit à\". Note the two patterns with \"droit\": \"avoir le droit DE + infinitive\" (to be allowed to do) versus \"avoir droit À + noun\" (to be entitled to something). Mixing them up is the single most common B2 error in this field.",
+              "examples": [
+                { "french": "Nul ne peut être détenu arbitrairement.", "english": "No one may be arbitrarily detained." },
+                { "french": "Toute personne a droit à un procès équitable.", "english": "Everyone is entitled to a fair trial.", "note": "droit À + noun, no article after avoir" },
+                { "french": "Chacun a le droit de s'exprimer librement.", "english": "Everyone has the right to express themselves freely.", "note": "le droit DE + infinitive" },
+                { "french": "Il est interdit de filmer les débats.", "english": "It is forbidden to film the proceedings." },
+                { "french": "Il convient de rappeler que la loi n'est pas rétroactive.", "english": "It should be recalled that the law is not retroactive." },
+                { "french": "Les mineurs ont droit à un accompagnement spécifique.", "english": "Minors are entitled to specific support." }
+              ],
+              "tip": "\"Il est interdit de\" is neutral and administrative; \"on n'a pas le droit de\" is what people actually say out loud."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "b2_u08_l02_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What is the speaker's position?",
+              "french": "Certes, la sécurité est un droit, mais elle ne peut pas se construire au détriment des libertés publiques.",
+              "options": [
+                "Security must not be built at the expense of freedoms",
+                "Security matters more than freedoms",
+                "Freedoms have no legal basis",
+                "Security is not a right at all"
+              ],
+              "answer": "Security must not be built at the expense of freedoms"
+            },
+            {
+              "id": "b2_u08_l02_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. Which structure follows the concession word?",
+              "french": "Bien que la mesure soit temporaire, elle inquiète les associations de défense des droits.",
+              "options": [
+                "bien que + subjonctif",
+                "bien que + indicatif",
+                "même si + subjonctif",
+                "malgré que + indicatif"
+              ],
+              "answer": "bien que + subjonctif"
+            },
+            {
+              "id": "b2_u08_l02_li03",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Toute personne a droit à un procès équitable.",
+              "answer": "Toute personne a droit à un procès équitable.",
+              "acceptedAnswers": [
+                "toute personne a droit a un proces equitable",
+                "Toute personne a droit a un proces equitable"
+              ]
+            },
+            {
+              "id": "b2_u08_l02_li04",
+              "type": "dictation",
+              "prompt": "Listen carefully and write the full sentence.",
+              "french": "Cette surveillance porte atteinte aux libertés individuelles.",
+              "answer": "Cette surveillance porte atteinte aux libertés individuelles.",
+              "acceptedAnswers": [
+                "cette surveillance porte atteinte aux libertes individuelles",
+                "Cette surveillance porte atteinte aux libertes individuelles"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "b2_u08_l02_sp01",
+              "type": "speak",
+              "prompt": "Concede a point, then push back.",
+              "french": "Bien que cette loi soit populaire, elle restreint une liberté essentielle.",
+              "english": "Although this law is popular, it restricts an essential freedom.",
+              "tip": "\"Soit\" is a single syllable, swah — never \"so-ee\". Slow down on \"restreint\": reh-STRAN, nasal, silent -t."
+            },
+            {
+              "id": "b2_u08_l02_sp02",
+              "type": "speak",
+              "prompt": "State a right in formal French.",
+              "french": "Toute personne a droit au respect de sa vie privée.",
+              "english": "Everyone has the right to respect for their private life.",
+              "tip": "Link \"a droit au\" smoothly: ah-drwah-TOH. The formula is fixed — no article between \"droit\" and \"au\"."
+            },
+            {
+              "id": "b2_u08_l02_sp03",
+              "type": "speak",
+              "prompt": "Denounce a violation.",
+              "french": "Dans ce pays, les droits des journalistes sont ouvertement bafoués.",
+              "english": "In this country, journalists' rights are openly trampled on.",
+              "tip": "\"Bafoués\" is three syllables: bah-foo-AY. Give the final -és a clear closed vowel to mark the plural passive."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Jusqu'où va une liberté ?",
+              "french": "On répète volontiers que la liberté des uns s'arrête là où commence celle des autres, comme si la frontière était tracée d'avance.\nElle ne l'est jamais : c'est précisément le travail du juge que de la tracer, affaire après affaire.\nPrenez la liberté d'expression, garantie depuis 1789 et pourtant limitée dès la première ligne de la loi de 1881 sur la presse.\nOn peut critiquer un ministre, ridiculiser une croyance, publier une enquête gênante ; on ne peut ni diffamer, ni injurier, ni appeler à la haine.\nLa distinction paraît simple sur le papier, elle est redoutable dans la salle d'audience.\n« Le juge ne se demande pas si le propos est choquant », explique une professeure de droit public.\n« Il se demande s'il vise des idées ou des personnes. Choquer reste un droit ; désigner quelqu'un à la vindicte n'en est pas un. »\nMême logique pour la liberté de circulation, suspendue pendant les confinements au nom de la santé publique.\nLe Conseil d'État a rappelé qu'une restriction n'est acceptable que si elle est nécessaire, adaptée et proportionnée : trois mots, trois verrous.\nBien qu'elle soit invoquée en permanence, la proportionnalité reste mal comprise du grand public, qui y voit une formule de juriste.\nC'est pourtant elle qui empêche l'exception de devenir la règle.\nCar le vrai risque n'est pas la loi brutale que tout le monde verrait passer.\nC'est l'accumulation de petites mesures raisonnables, chacune justifiée, dont la somme finit par dessiner un autre régime.\n« On ne perd pas ses libertés d'un coup, conclut la juriste. On les perd par consentement, une dérogation à la fois. »",
+              "english": "People readily repeat that one person's freedom stops where another's begins, as if the border had been drawn in advance.\nIt never is: drawing it, case after case, is precisely the judge's job.\nTake freedom of expression, guaranteed since 1789 and yet limited from the very first line of the 1881 press law.\nYou may criticise a minister, ridicule a belief, publish an awkward investigation; you may not defame, insult, or call for hatred.\nThe distinction looks simple on paper; it is formidable in the courtroom.\n\"The judge does not ask whether the remark is shocking,\" explains a professor of public law.\n\"He asks whether it targets ideas or people. Shocking remains a right; singling someone out for a mob does not.\"\nThe same logic applies to freedom of movement, suspended during the lockdowns in the name of public health.\nThe Council of State recalled that a restriction is acceptable only if it is necessary, appropriate and proportionate: three words, three locks.\nAlthough it is invoked constantly, proportionality remains poorly understood by the general public, who see it as lawyers' jargon.\nYet it is what stops the exception from becoming the rule.\nBecause the real risk is not the brutal law that everyone would see coming.\nIt is the accumulation of small reasonable measures, each one justified, whose sum ends up sketching a different regime.\n\"You do not lose your freedoms all at once,\" the legal scholar concludes. \"You lose them by consent, one exemption at a time.\"",
+              "questions": [
+                {
+                  "id": "b2_u08_l02_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Selon la professeure de droit, quelle question le juge se pose-t-il vraiment ?",
+                  "options": [
+                    "si le propos vise des idées ou des personnes",
+                    "si le propos est choquant pour la majorité",
+                    "si le propos a été publié dans la presse",
+                    "si le propos a fait beaucoup de bruit"
+                  ],
+                  "answer": "si le propos vise des idées ou des personnes"
+                },
+                {
+                  "id": "b2_u08_l02_rd02",
+                  "type": "trueFalse",
+                  "prompt": "D'après le texte, une restriction n'est acceptable que si elle est nécessaire, adaptée et proportionnée.",
+                  "options": ["True", "False"],
+                  "answer": "True"
+                },
+                {
+                  "id": "b2_u08_l02_rd03",
+                  "type": "multipleChoice",
+                  "prompt": "Quel est, selon la juriste, le vrai danger pour les libertés ?",
+                  "options": [
+                    "l'accumulation de petites mesures justifiées une à une",
+                    "une loi brutale votée en urgence",
+                    "l'indifférence totale des juges",
+                    "la disparition de la Constitution"
+                  ],
+                  "answer": "l'accumulation de petites mesures justifiées une à une"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "b2_u08_l02_wr01",
+              "type": "translate",
+              "prompt": "Translate into French, using 'bien que'.",
+              "english": "Although the measure is temporary, it worries campaign groups.",
+              "answer": "Bien que la mesure soit temporaire, elle inquiète les associations.",
+              "acceptedAnswers": [
+                "bien que la mesure soit temporaire elle inquiete les associations",
+                "quoique la mesure soit temporaire, elle inquiète les associations"
+              ]
+            },
+            {
+              "id": "b2_u08_l02_wr02",
+              "type": "fillBlank",
+              "prompt": "Toute personne a droit ___ un procès équitable. (à / de / pour)",
+              "answer": "à"
+            },
+            {
+              "id": "b2_u08_l02_wr03",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "This surveillance infringes individual freedoms.",
+              "answer": "Cette surveillance porte atteinte aux libertés individuelles.",
+              "acceptedAnswers": [
+                "cette surveillance porte atteinte aux libertes individuelles",
+                "cette surveillance porte atteinte aux libertés individuelles"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "b2_u08_l02_pr01",
+              "type": "multipleChoice",
+              "prompt": "Quelle phrase est correcte ?",
+              "options": [
+                "Malgré les critiques, le décret a été maintenu.",
+                "Malgré que les critiques, le décret a été maintenu.",
+                "Malgré que le décret soit critiqué, il a été maintenu.",
+                "Malgré des critiques soient fortes, le décret a été maintenu."
+              ],
+              "answer": "Malgré les critiques, le décret a été maintenu."
+            },
+            {
+              "id": "b2_u08_l02_pr02",
+              "type": "fillBlank",
+              "prompt": "Chacun a le droit ___ s'exprimer librement. (de / à / pour)",
+              "answer": "de"
+            },
+            {
+              "id": "b2_u08_l02_pr03",
+              "type": "arrangeWords",
+              "words": ["appartient", "au peuple", "La souveraineté", "nationale"],
+              "answer": "La souveraineté nationale appartient au peuple",
+              "english": "National sovereignty belongs to the people."
+            },
+            {
+              "id": "b2_u08_l02_pr04",
+              "type": "match",
+              "prompt": "Associez chaque terme à sa traduction.",
+              "pairs": [
+                { "french": "la laïcité", "english": "secularism" },
+                { "french": "l'État de droit", "english": "the rule of law" },
+                { "french": "le recours", "english": "the legal challenge" },
+                { "french": "la dérive", "english": "the slide towards abuse" }
+              ]
+            },
+            {
+              "id": "b2_u08_l02_pr05",
+              "type": "multipleChoice",
+              "prompt": "« Nul ne peut être détenu arbitrairement » appartient à quel registre ?",
+              "options": [
+                "juridique et formel",
+                "familier",
+                "publicitaire",
+                "littéraire et ironique"
+              ],
+              "answer": "juridique et formel"
+            },
+            {
+              "id": "b2_u08_l02_pr06",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "A freedom can only be restricted by law.",
+              "answer": "On ne peut restreindre une liberté que par la loi.",
+              "acceptedAnswers": [
+                "on ne peut restreindre une liberte que par la loi",
+                "une liberté ne peut être restreinte que par la loi"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "b2_u08_l02_qz01",
+              "type": "multipleChoice",
+              "prompt": "Complétez : « Quoiqu'elle ___ raison sur le fond, sa méthode dérange. »",
+              "options": ["ait", "a", "aura", "avait"],
+              "answer": "ait"
+            },
+            {
+              "id": "b2_u08_l02_qz02",
+              "type": "multipleChoice",
+              "prompt": "Quel mot désigne la neutralité religieuse de l'État en France ?",
+              "options": ["la laïcité", "la citoyenneté", "la souveraineté", "la fraternité"],
+              "answer": "la laïcité"
+            },
+            {
+              "id": "b2_u08_l02_qz03",
+              "type": "fillBlank",
+              "prompt": "Cette mesure porte ___ à la vie privée des salariés.",
+              "answer": "atteinte"
+            },
+            {
+              "id": "b2_u08_l02_qz04",
+              "type": "trueFalse",
+              "prompt": "En français juridique, « avoir droit à » est suivi d'un nom et « avoir le droit de » d'un infinitif.",
+              "options": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "b2_u08_l02_qz05",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "Freedom of expression is guaranteed by the Constitution.",
+              "answer": "La liberté d'expression est garantie par la Constitution.",
+              "acceptedAnswers": [
+                "la liberte d'expression est garantie par la constitution",
+                "la liberte dexpression est garantie par la constitution"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2_u08_l03",
+      "level": "B2",
+      "unit": 8,
+      "title": "Un procès",
+      "description": "Courtroom language from the opening of the hearing to the verdict, and how to report what witnesses said.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "The choreography of a hearing",
+              "body": "A French trial follows a fixed sequence, and each stage has its verb. The accused \"comparaît\" before the court; the president \"ouvre l'audience\" and \"procède à l'interrogatoire\"; witnesses \"prêtent serment\" then \"déposent\"; the prosecutor delivers \"le réquisitoire\"; the defence gives \"la plaidoirie\"; the accused has \"le dernier mot\"; the court \"se retire pour délibérer\" and finally \"rend son verdict\".",
+              "examples": [
+                { "french": "L'accusé comparaît détenu depuis février.", "english": "The accused has been appearing in custody since February." },
+                { "french": "L'audience est ouverte.", "english": "The hearing is now open.", "note": "the president's ritual formula" },
+                { "french": "Le témoin prête serment de dire toute la vérité.", "english": "The witness swears to tell the whole truth." },
+                { "french": "Après le réquisitoire, l'avocate a plaidé pendant deux heures.", "english": "After the closing speech for the prosecution, the lawyer pleaded for two hours." },
+                { "french": "La cour se retire pour délibérer.", "english": "The court withdraws to deliberate." },
+                { "french": "Le verdict sera rendu en fin de soirée.", "english": "The verdict will be delivered late this evening." }
+              ],
+              "tip": "« La parole est à la défense » is the exact phrase used to hand over to the lawyer. « L'audience est suspendue » announces a break; « levée » means it is over."
+            },
+            {
+              "heading": "Saying what happened — and how sure you are",
+              "body": "Testimony lives on degrees of certainty. French marks them precisely: \"j'affirme que\" (I state), \"je maintiens que\" (I stand by), \"il me semble que\" (it seems to me), \"je crois me souvenir que\" (I think I remember), \"je ne saurais dire\" (I couldn't say). Denial has its own scale too: \"je nie les faits\", \"je conteste cette version\", \"je reconnais les faits mais je conteste l'intention\".",
+              "examples": [
+                { "french": "J'affirme que je n'ai jamais rencontré cet homme.", "english": "I state that I have never met this man." },
+                { "french": "Je maintiens ma déclaration du 12 mars.", "english": "I stand by my statement of 12 March." },
+                { "french": "Il me semble qu'il portait un manteau sombre.", "english": "It seems to me that he was wearing a dark coat." },
+                { "french": "Je crois me souvenir qu'il était vingt-deux heures.", "english": "I think I remember it was ten p.m." },
+                { "french": "Je reconnais les faits, mais je conteste la préméditation.", "english": "I admit the facts, but I dispute the premeditation." },
+                { "french": "Je ne saurais dire combien de temps cela a duré.", "english": "I could not say how long it lasted.", "note": "\"je ne saurais\" = formal, softened \"je ne peux pas\"" }
+              ],
+              "tip": "Perjury is « le faux témoignage » and it is a criminal offence — which is why witnesses hedge so carefully rather than guess."
+            },
+            {
+              "heading": "Verdict and sentence",
+              "body": "Two families of outcome. Cleared: \"relaxé\" before a tribunal correctionnel, \"acquitté\" before a cour d'assises — the words are not interchangeable. Convicted: \"condamné à\" + the penalty, which may be \"une amende\", \"une peine de prison ferme\", \"avec sursis\", or \"des travaux d'intérêt général\". Whatever the outcome, either side may \"faire appel\" within ten days.",
+              "examples": [
+                { "french": "Le prévenu a été relaxé faute de preuves.", "english": "The defendant was cleared for lack of evidence." },
+                { "french": "L'accusé a été acquitté par la cour d'assises.", "english": "The accused was acquitted by the assize court." },
+                { "french": "Il a été condamné à deux ans, dont un avec sursis.", "english": "He was sentenced to two years, one of them suspended.", "note": "\"dont un avec sursis\" is the standard press formula" },
+                { "french": "La peine est assortie d'une amende de cinq mille euros.", "english": "The sentence comes with a five-thousand-euro fine." },
+                { "french": "Le parquet a aussitôt fait appel du jugement.", "english": "The prosecution immediately appealed the ruling." },
+                { "french": "La présomption d'innocence vaut jusqu'à la condamnation définitive.", "english": "The presumption of innocence holds until the conviction is final." }
+              ],
+              "tip": "In French, an ongoing case takes « présumé » before the noun: « le meurtrier présumé ». Dropping it in writing can itself be legally risky."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "le-proces", "french": "le procès", "english": "the trial", "partOfSpeech": "noun", "gender": "m", "plural": "procès", "pronunciation": "luh proh-SEH", "example": "Le procès s'ouvre lundi devant la cour d'assises.", "exampleEnglish": "The trial opens on Monday before the assize court.", "level": "B2", "category": "trial" },
+            { "id": "l-audience-tribunal", "french": "l'audience", "english": "the court hearing", "partOfSpeech": "noun", "gender": "f", "plural": "audiences", "pronunciation": "loh-DYAHNSS", "example": "L'audience a été suspendue pendant une heure.", "exampleEnglish": "The hearing was adjourned for an hour.", "level": "B2", "category": "trial" },
+            { "id": "comparaitre", "french": "comparaître", "english": "to appear (in court)", "partOfSpeech": "verb", "pronunciation": "kohn-pah-REH-truh", "example": "Il comparaît libre devant le tribunal correctionnel.", "exampleEnglish": "He appears before the criminal court as a free man.", "level": "B2", "category": "trial" },
+            { "id": "l-interrogatoire", "french": "l'interrogatoire", "english": "the questioning, the examination", "partOfSpeech": "noun", "gender": "m", "plural": "interrogatoires", "pronunciation": "lan-teh-roh-gah-TWAHR", "example": "L'interrogatoire de l'accusé a duré tout l'après-midi.", "exampleEnglish": "The questioning of the accused lasted all afternoon.", "level": "B2", "category": "trial" },
+            { "id": "l-accusation", "french": "l'accusation", "english": "the prosecution, the charge", "partOfSpeech": "noun", "gender": "f", "plural": "accusations", "pronunciation": "lah-kü-zah-SYOHN", "example": "L'accusation s'appuie sur trois témoignages.", "exampleEnglish": "The prosecution rests on three testimonies.", "level": "B2", "category": "trial" },
+            { "id": "accuser", "french": "accuser", "english": "to accuse, to charge", "partOfSpeech": "verb", "pronunciation": "ah-kü-ZAY", "example": "On l'accuse d'avoir falsifié les comptes.", "exampleEnglish": "He is accused of having falsified the accounts.", "level": "B2", "category": "trial" },
+            { "id": "la-defense", "french": "la défense", "english": "the defence", "partOfSpeech": "noun", "gender": "f", "plural": "défenses", "pronunciation": "lah day-FAHNSS", "example": "La parole est à la défense.", "exampleEnglish": "The floor goes to the defence.", "level": "B2", "category": "trial" },
+            { "id": "defendre", "french": "défendre", "english": "to defend", "partOfSpeech": "verb", "pronunciation": "day-FAHN-druh", "example": "Elle défend son client depuis le début de l'instruction.", "exampleEnglish": "She has been defending her client since the start of the investigation.", "level": "B2", "category": "trial" },
+            { "id": "plaider", "french": "plaider", "english": "to plead, to argue a case", "partOfSpeech": "verb", "pronunciation": "pleh-DAY", "example": "L'avocat a plaidé la légitime défense.", "exampleEnglish": "The lawyer pleaded self-defence.", "level": "B2", "category": "trial" },
+            { "id": "plaidoirie", "french": "la plaidoirie", "english": "the closing speech for the defence", "partOfSpeech": "noun", "gender": "f", "plural": "plaidoiries", "pronunciation": "lah pleh-dwah-REE", "example": "Sa plaidoirie a duré près de deux heures.", "exampleEnglish": "Her closing speech lasted nearly two hours.", "level": "B2", "category": "trial" },
+            { "id": "un-requisitoire", "french": "un réquisitoire", "english": "the prosecution's closing speech, an indictment", "partOfSpeech": "noun", "gender": "m", "plural": "réquisitoires", "pronunciation": "an ray-kee-zee-TWAHR", "example": "Le réquisitoire a été particulièrement sévère.", "exampleEnglish": "The prosecution's closing speech was particularly harsh.", "level": "B2", "category": "trial" },
+            { "id": "un-temoin", "french": "un témoin", "english": "a witness", "partOfSpeech": "noun", "gender": "m", "plural": "témoins", "pronunciation": "an tay-MWAN", "example": "Le témoin n'a pas reconnu l'accusé.", "exampleEnglish": "The witness did not recognise the accused.", "level": "B2", "category": "trial" },
+            { "id": "temoigner", "french": "témoigner", "english": "to testify, to give evidence", "partOfSpeech": "verb", "pronunciation": "tay-mwah-NYAY", "example": "Elle a accepté de témoigner à visage découvert.", "exampleEnglish": "She agreed to testify with her face uncovered.", "level": "B2", "category": "trial" },
+            { "id": "le-temoignage", "french": "le témoignage", "english": "the testimony, the account", "partOfSpeech": "noun", "gender": "m", "plural": "témoignages", "pronunciation": "luh tay-mwah-NYAHZH", "example": "Son témoignage a bouleversé la salle.", "exampleEnglish": "His testimony shook the courtroom.", "level": "B2", "category": "trial" },
+            { "id": "le-faux-temoignage", "french": "le faux témoignage", "english": "perjury, false testimony", "partOfSpeech": "noun", "gender": "m", "plural": "faux témoignages", "pronunciation": "luh foh tay-mwah-NYAHZH", "example": "Le faux témoignage est puni de cinq ans de prison.", "exampleEnglish": "Perjury is punishable by five years in prison.", "level": "B2", "category": "trial" },
+            { "id": "le-serment", "french": "le serment", "english": "the oath", "partOfSpeech": "noun", "gender": "m", "plural": "serments", "pronunciation": "luh sehr-MAHN", "example": "Il a déposé sous serment.", "exampleEnglish": "He gave evidence under oath.", "level": "B2", "category": "trial" },
+            { "id": "preter-serment", "french": "prêter serment", "english": "to take the oath", "partOfSpeech": "expression", "pronunciation": "preh-TAY sehr-MAHN", "example": "Les témoins prêtent serment avant de parler.", "exampleEnglish": "Witnesses take the oath before speaking.", "level": "B2", "category": "trial" },
+            { "id": "jurer", "french": "jurer", "english": "to swear", "partOfSpeech": "verb", "pronunciation": "zhü-RAY", "example": "Je jure de dire toute la vérité.", "exampleEnglish": "I swear to tell the whole truth.", "level": "B2", "category": "trial" },
+            { "id": "la-preuve", "french": "la preuve", "english": "the proof, the evidence", "partOfSpeech": "noun", "gender": "f", "plural": "preuves", "pronunciation": "lah PRUHV", "example": "Sans preuve matérielle, le dossier reste fragile.", "exampleEnglish": "Without physical evidence, the case remains weak.", "level": "B2", "category": "trial" },
+            { "id": "l-indice", "french": "l'indice", "english": "the clue, the indication", "partOfSpeech": "noun", "gender": "m", "plural": "indices", "pronunciation": "lan-DEESS", "example": "Les enquêteurs ont relevé plusieurs indices concordants.", "exampleEnglish": "Investigators found several matching clues.", "level": "B2", "category": "trial" },
+            { "id": "l-alibi", "french": "l'alibi", "english": "the alibi", "partOfSpeech": "noun", "gender": "m", "plural": "alibis", "pronunciation": "lah-lee-BEE", "example": "Son alibi a été vérifié par la police.", "exampleEnglish": "His alibi was checked by the police.", "level": "B2", "category": "trial" },
+            { "id": "l-aveu", "french": "l'aveu", "english": "the confession, the admission", "partOfSpeech": "noun", "gender": "m", "plural": "aveux", "pronunciation": "lah-VUH", "example": "Il est revenu sur ses aveux à l'audience.", "exampleEnglish": "He retracted his confession at the hearing.", "level": "B2", "category": "trial" },
+            { "id": "avouer", "french": "avouer", "english": "to confess, to admit", "partOfSpeech": "verb", "pronunciation": "ah-VWAY", "example": "Il a fini par avouer les faits.", "exampleEnglish": "He ended up admitting the facts.", "level": "B2", "category": "trial" },
+            { "id": "nier", "french": "nier", "english": "to deny", "partOfSpeech": "verb", "pronunciation": "nee-AY", "example": "L'accusé nie toute participation au vol.", "exampleEnglish": "The accused denies any part in the theft.", "level": "B2", "category": "trial" },
+            { "id": "le-verdict", "french": "le verdict", "english": "the verdict", "partOfSpeech": "noun", "gender": "m", "plural": "verdicts", "pronunciation": "luh vehr-DEEKT", "example": "Le verdict est tombé peu avant minuit.", "exampleEnglish": "The verdict came down shortly before midnight.", "level": "B2", "category": "trial" },
+            { "id": "deliberer", "french": "délibérer", "english": "to deliberate", "partOfSpeech": "verb", "pronunciation": "day-lee-bay-RAY", "example": "La cour a délibéré pendant six heures.", "exampleEnglish": "The court deliberated for six hours.", "level": "B2", "category": "trial" },
+            { "id": "coupable", "french": "coupable", "english": "guilty", "partOfSpeech": "adjective", "pronunciation": "koo-PAH-bluh", "example": "Il a été reconnu coupable de complicité.", "exampleEnglish": "He was found guilty of complicity.", "level": "B2", "category": "trial" },
+            { "id": "innocent", "french": "innocent", "english": "innocent", "partOfSpeech": "adjective", "pronunciation": "ee-noh-SAHN", "example": "Elle clame son innocence : elle se dit innocente.", "exampleEnglish": "She protests her innocence: she says she is innocent.", "level": "B2", "category": "trial" },
+            { "id": "la-presomption-dinnocence", "french": "la présomption d'innocence", "english": "the presumption of innocence", "partOfSpeech": "noun", "gender": "f", "plural": "présomptions d'innocence", "pronunciation": "lah pray-zohnp-SYOHN dee-noh-SAHNSS", "example": "La présomption d'innocence s'applique jusqu'au jugement définitif.", "exampleEnglish": "The presumption of innocence applies until the final ruling.", "level": "B2", "category": "trial" },
+            { "id": "acquitter", "french": "acquitter", "english": "to acquit (in an assize court)", "partOfSpeech": "verb", "pronunciation": "ah-kee-TAY", "example": "La cour d'assises l'a acquitté au bénéfice du doute.", "exampleEnglish": "The assize court acquitted him on the benefit of the doubt.", "level": "B2", "category": "trial" },
+            { "id": "relaxer", "french": "relaxer", "english": "to clear, to discharge (in a criminal court)", "partOfSpeech": "verb", "pronunciation": "ruh-lahk-SAY", "example": "Le tribunal a relaxé les deux prévenus.", "exampleEnglish": "The court cleared the two defendants.", "level": "B2", "category": "trial" },
+            { "id": "condamner", "french": "condamner", "english": "to convict, to sentence", "partOfSpeech": "verb", "pronunciation": "kohn-dah-NAY", "example": "Le tribunal l'a condamné à trois ans de prison.", "exampleEnglish": "The court sentenced him to three years in prison.", "level": "B2", "category": "trial" },
+            { "id": "la-condamnation", "french": "la condamnation", "english": "the conviction, the sentence", "partOfSpeech": "noun", "gender": "f", "plural": "condamnations", "pronunciation": "lah kohn-dah-nah-SYOHN", "example": "Sa condamnation figurera à son casier judiciaire.", "exampleEnglish": "His conviction will appear on his criminal record.", "level": "B2", "category": "trial" },
+            { "id": "la-peine", "french": "la peine", "english": "the sentence, the penalty", "partOfSpeech": "noun", "gender": "f", "plural": "peines", "pronunciation": "lah PEN", "example": "La peine encourue peut aller jusqu'à dix ans.", "exampleEnglish": "The sentence he faces can go up to ten years.", "level": "B2", "category": "trial" },
+            { "id": "le-sursis", "french": "le sursis", "english": "the suspended sentence", "partOfSpeech": "noun", "gender": "m", "plural": "sursis", "pronunciation": "luh sür-SEE", "example": "Il a écopé de deux ans dont un avec sursis.", "exampleEnglish": "He got two years, one of them suspended.", "level": "B2", "category": "trial" },
+            { "id": "l-amende", "french": "l'amende", "english": "the fine", "partOfSpeech": "noun", "gender": "f", "plural": "amendes", "pronunciation": "lah-MAHND", "example": "La société devra payer une amende de cent mille euros.", "exampleEnglish": "The company will have to pay a hundred-thousand-euro fine.", "level": "B2", "category": "trial" },
+            { "id": "faire-appel", "french": "faire appel", "english": "to appeal (a ruling)", "partOfSpeech": "expression", "pronunciation": "fehr ah-PEL", "example": "La défense a annoncé qu'elle ferait appel.", "exampleEnglish": "The defence announced that it would appeal.", "level": "B2", "category": "trial" },
+            { "id": "le-huis-clos", "french": "le huis clos", "english": "the closed session, behind closed doors", "partOfSpeech": "noun", "gender": "m", "plural": "huis clos", "pronunciation": "luh wee KLOH", "example": "Le procès se tiendra à huis clos pour protéger les victimes.", "exampleEnglish": "The trial will be held behind closed doors to protect the victims.", "level": "B2", "category": "trial" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Reported speech: the tense shift",
+              "body": "Reporting testimony means moving the whole sentence back one step in time. Présent becomes imparfait, passé composé becomes plus-que-parfait, futur becomes conditionnel présent, futur antérieur becomes conditionnel passé. The imparfait, plus-que-parfait and conditionnel do not move — they are already \"backshifted\". Time words shift too: \"hier\" becomes \"la veille\", \"demain\" becomes \"le lendemain\", \"maintenant\" becomes \"à ce moment-là\".",
+              "examples": [
+                { "french": "« Je connais cet homme. » → Il a déclaré qu'il connaissait cet homme.", "english": "\"I know this man.\" → He stated that he knew this man.", "note": "présent → imparfait" },
+                { "french": "« J'ai vu la voiture. » → Elle a affirmé qu'elle avait vu la voiture.", "english": "\"I saw the car.\" → She stated that she had seen the car." },
+                { "french": "« Je porterai plainte. » → Il a annoncé qu'il porterait plainte.", "english": "\"I will file a complaint.\" → He announced that he would file a complaint." },
+                { "french": "« Je suis arrivé hier. » → Il a expliqué qu'il était arrivé la veille.", "english": "\"I arrived yesterday.\" → He explained that he had arrived the day before." },
+                { "french": "« Nous partirons demain. » → Ils ont dit qu'ils partiraient le lendemain.", "english": "\"We will leave tomorrow.\" → They said they would leave the next day." },
+                { "french": "« Je ne me souviens pas. » → Le témoin a répondu qu'il ne se souvenait pas.", "english": "\"I don't remember.\" → The witness replied that he did not remember." }
+              ],
+              "tip": "If the reporting verb is in the present (« il dit que… »), nothing shifts. The whole mechanism only kicks in after a past reporting verb."
+            },
+            {
+              "heading": "Reporting questions and orders",
+              "body": "Questions lose their inversion and their question mark. \"Est-ce que\" and inversion both become \"si\": « Étiez-vous là ? » → il a demandé si j'étais là. \"Qu'est-ce que\" becomes \"ce que\", \"qu'est-ce qui\" becomes \"ce qui\"; other question words (où, quand, pourquoi, comment) stay as they are. Orders become \"de\" + infinitive: « Répondez ! » → le président lui a ordonné de répondre.",
+              "examples": [
+                { "french": "« Êtes-vous d'accord ? » → Il a demandé si j'étais d'accord.", "english": "\"Do you agree?\" → He asked whether I agreed." },
+                { "french": "« Qu'est-ce que vous avez vu ? » → Il a voulu savoir ce que j'avais vu.", "english": "\"What did you see?\" → He wanted to know what I had seen." },
+                { "french": "« Qu'est-ce qui s'est passé ? » → Elle a demandé ce qui s'était passé.", "english": "\"What happened?\" → She asked what had happened." },
+                { "french": "« Où étiez-vous ce soir-là ? » → On lui a demandé où il était ce soir-là.", "english": "\"Where were you that evening?\" → He was asked where he was that evening." },
+                { "french": "« Taisez-vous ! » → Le président lui a ordonné de se taire.", "english": "\"Be quiet!\" → The presiding judge ordered him to be quiet." },
+                { "french": "« Ne mentez pas. » → L'avocat lui a conseillé de ne pas mentir.", "english": "\"Don't lie.\" → The lawyer advised him not to lie.", "note": "negation stays in front of the infinitive: de ne pas mentir" }
+              ],
+              "tip": "Courtroom reports lean on precise verbs rather than \"dire\": déclarer, affirmer, reconnaître, contester, nier, préciser. Each already carries the speaker's stance."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "b2_u08_l03_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What were the witness's original words?",
+              "french": "Le témoin a déclaré qu'il n'avait rien vu ce soir-là.",
+              "options": [
+                "Je n'ai rien vu ce soir-là.",
+                "Je ne verrai rien ce soir-là.",
+                "Il n'a rien vu ce soir-là.",
+                "Je ne vois rien ce soir."
+              ],
+              "answer": "Je n'ai rien vu ce soir-là."
+            },
+            {
+              "id": "b2_u08_l03_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. What stage of the trial is this?",
+              "french": "La cour se retire pour délibérer ; le verdict sera rendu en fin de soirée.",
+              "options": [
+                "juste avant le verdict",
+                "l'ouverture de l'audience",
+                "l'interrogatoire de l'accusé",
+                "la déposition des témoins"
+              ],
+              "answer": "juste avant le verdict"
+            },
+            {
+              "id": "b2_u08_l03_li03",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Je jure de dire toute la vérité.",
+              "answer": "Je jure de dire toute la vérité.",
+              "acceptedAnswers": [
+                "je jure de dire toute la verite",
+                "Je jure de dire toute la verite"
+              ]
+            },
+            {
+              "id": "b2_u08_l03_li04",
+              "type": "dictation",
+              "prompt": "Listen carefully and write the full sentence.",
+              "french": "Il a été condamné à deux ans, dont un avec sursis.",
+              "answer": "Il a été condamné à deux ans, dont un avec sursis.",
+              "acceptedAnswers": [
+                "il a ete condamne a deux ans dont un avec sursis",
+                "Il a ete condamne a deux ans dont un avec sursis"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "b2_u08_l03_sp01",
+              "type": "speak",
+              "prompt": "Testify with a careful degree of certainty.",
+              "french": "Je crois me souvenir qu'il portait un manteau sombre.",
+              "english": "I think I remember that he was wearing a dark coat.",
+              "tip": "Keep \"crois me souvenir\" as one smooth group: krwah-muh-soo-vuh-NEER. Hesitating there sounds like doubt about the truth, not about the memory."
+            },
+            {
+              "id": "b2_u08_l03_sp02",
+              "type": "speak",
+              "prompt": "Report a witness's statement.",
+              "french": "Le témoin a déclaré qu'il n'avait jamais rencontré l'accusé.",
+              "english": "The witness stated that he had never met the accused.",
+              "tip": "\"N'avait\" contracts to nah-VEH — the ne is barely there but the vowel of avait stays open. Don't say nah-VAY."
+            },
+            {
+              "id": "b2_u08_l03_sp03",
+              "type": "speak",
+              "prompt": "Announce a sentence like a news anchor.",
+              "french": "Le tribunal l'a condamné à trois ans, dont deux avec sursis.",
+              "english": "The court sentenced him to three years, two of them suspended.",
+              "tip": "\"Sursis\" ends on a hissed -ee: sür-SEE, final s silent. Round your lips hard for the ü of the first syllable."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Le troisième jour du procès",
+              "french": "L'audience reprend à quatorze heures et, pour la première fois depuis lundi, l'accusé accepte de parler.\nLa présidente lui rappelle qu'il n'est pas obligé de répondre et que son silence ne saurait être retenu contre lui.\nIl déclare pourtant qu'il veut « rétablir les faits », et la salle se tait d'un coup.\nInterrogé sur la soirée du 14, il répond qu'il était chez sa sœur et qu'il en était reparti vers minuit.\nLe procureur lui fait observer que sa sœur, entendue la veille, avait situé son départ deux heures plus tôt.\n« Elle s'est trompée », répond l'accusé, sans hésiter.\nOn appelle alors le témoin suivant, un voisin qui prête serment d'une voix mal assurée.\nIl explique qu'il a entendu des cris, qu'il a d'abord cru à une dispute ordinaire, et qu'il n'a appelé la police qu'un quart d'heure plus tard.\nL'avocate de la défense lui demande s'il a vu quelqu'un sortir de l'immeuble ; il reconnaît que non.\nElle insiste : a-t-il reconnu une voix ? Il hésite longuement, puis admet qu'il ne saurait le dire.\nDans son réquisitoire, le procureur parlera d'un faisceau d'indices concordants ; la défense, elle, plaidera le doute.\nCar en droit français, le doute profite toujours à l'accusé, et la présidente le rappellera aux jurés avant qu'ils ne se retirent.\nÀ dix-neuf heures, la cour part délibérer sans annoncer d'horaire.\nDans le couloir, personne ne parle : chacun sait que ces heures-là décident d'une vie entière.",
+              "english": "The hearing resumes at two p.m. and, for the first time since Monday, the accused agrees to speak.\nThe presiding judge reminds him that he is not obliged to answer and that his silence cannot be held against him.\nHe states nonetheless that he wants to \"set the facts straight\", and the room falls silent at once.\nQuestioned about the evening of the 14th, he answers that he was at his sister's and that he left there around midnight.\nThe prosecutor points out to him that his sister, heard the day before, had put his departure two hours earlier.\n\"She got it wrong,\" the accused replies, without hesitating.\nThe next witness is then called, a neighbour who takes the oath in an unsteady voice.\nHe explains that he heard shouting, that he first thought it was an ordinary argument, and that he only called the police a quarter of an hour later.\nThe defence lawyer asks him whether he saw anyone leaving the building; he admits that he did not.\nShe presses on: did he recognise a voice? He hesitates for a long time, then admits that he could not say.\nIn his closing speech, the prosecutor will speak of a body of matching clues; the defence, for its part, will plead doubt.\nBecause in French law, doubt always benefits the accused, and the presiding judge will remind the jurors of that before they withdraw.\nAt seven p.m., the court goes off to deliberate without announcing a timetable.\nIn the corridor, nobody speaks: everyone knows that those hours decide an entire life.",
+              "questions": [
+                {
+                  "id": "b2_u08_l03_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Que reproche le procureur à la version de l'accusé ?",
+                  "options": [
+                    "elle contredit l'heure donnée par sa sœur",
+                    "elle contredit les images de vidéosurveillance",
+                    "elle change à chaque audience",
+                    "elle a été écrite par son avocate"
+                  ],
+                  "answer": "elle contredit l'heure donnée par sa sœur"
+                },
+                {
+                  "id": "b2_u08_l03_rd02",
+                  "type": "trueFalse",
+                  "prompt": "D'après le texte, le voisin a reconnu une voix avec certitude.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                },
+                {
+                  "id": "b2_u08_l03_rd03",
+                  "type": "multipleChoice",
+                  "prompt": "Quel principe la présidente rappellera-t-elle aux jurés ?",
+                  "options": [
+                    "que le doute profite à l'accusé",
+                    "que le silence vaut aveu",
+                    "que le verdict doit être unanime",
+                    "que les témoins ne peuvent pas se tromper"
+                  ],
+                  "answer": "que le doute profite à l'accusé"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "b2_u08_l03_wr01",
+              "type": "translate",
+              "prompt": "Report this statement in French: \"I have never met this man,\" he stated.",
+              "english": "He stated that he had never met this man.",
+              "answer": "Il a déclaré qu'il n'avait jamais rencontré cet homme.",
+              "acceptedAnswers": [
+                "il a declare qu'il n'avait jamais rencontre cet homme",
+                "il a affirmé qu'il n'avait jamais rencontré cet homme"
+              ]
+            },
+            {
+              "id": "b2_u08_l03_wr02",
+              "type": "fillBlank",
+              "prompt": "« Étiez-vous là ? » → Il a demandé ___ j'étais là.",
+              "answer": "si"
+            },
+            {
+              "id": "b2_u08_l03_wr03",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "The defendant was cleared for lack of evidence.",
+              "answer": "Le prévenu a été relaxé faute de preuves.",
+              "acceptedAnswers": [
+                "le prevenu a ete relaxe faute de preuves",
+                "le prévenu a été relaxé par manque de preuves"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "b2_u08_l03_pr01",
+              "type": "multipleChoice",
+              "prompt": "« J'ai vu la voiture », a-t-elle dit. Au discours indirect :",
+              "options": [
+                "Elle a dit qu'elle avait vu la voiture.",
+                "Elle a dit qu'elle a vu la voiture.",
+                "Elle a dit qu'elle verrait la voiture.",
+                "Elle a dit qu'elle voyait la voiture."
+              ],
+              "answer": "Elle a dit qu'elle avait vu la voiture."
+            },
+            {
+              "id": "b2_u08_l03_pr02",
+              "type": "fillBlank",
+              "prompt": "« Qu'est-ce que vous avez vu ? » → Il a voulu savoir ___ j'avais vu. (ce que / ce qui / que)",
+              "answer": "ce que"
+            },
+            {
+              "id": "b2_u08_l03_pr03",
+              "type": "arrangeWords",
+              "words": ["prêtent", "avant de", "Les témoins", "parler", "serment"],
+              "answer": "Les témoins prêtent serment avant de parler",
+              "english": "Witnesses take the oath before speaking."
+            },
+            {
+              "id": "b2_u08_l03_pr04",
+              "type": "match",
+              "prompt": "Associez chaque terme à sa traduction.",
+              "pairs": [
+                { "french": "le sursis", "english": "the suspended sentence" },
+                { "french": "l'aveu", "english": "the confession" },
+                { "french": "le huis clos", "english": "the closed session" },
+                { "french": "la plaidoirie", "english": "the closing speech for the defence" }
+              ]
+            },
+            {
+              "id": "b2_u08_l03_pr05",
+              "type": "multipleChoice",
+              "prompt": "Devant une cour d'assises, un accusé innocenté est…",
+              "options": ["acquitté", "relaxé", "condamné", "convoqué"],
+              "answer": "acquitté"
+            },
+            {
+              "id": "b2_u08_l03_pr06",
+              "type": "translate",
+              "prompt": "Translate into French, using reported speech.",
+              "english": "He announced that he would file a complaint.",
+              "answer": "Il a annoncé qu'il porterait plainte.",
+              "acceptedAnswers": [
+                "il a annonce qu'il porterait plainte",
+                "il a annoncé qu'il allait porter plainte"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "b2_u08_l03_qz01",
+              "type": "multipleChoice",
+              "prompt": "« Je suis arrivé hier », a-t-il expliqué. Au discours indirect, « hier » devient :",
+              "options": ["la veille", "le lendemain", "aujourd'hui", "ce jour-ci"],
+              "answer": "la veille"
+            },
+            {
+              "id": "b2_u08_l03_qz02",
+              "type": "multipleChoice",
+              "prompt": "Qui prononce le réquisitoire ?",
+              "options": ["le procureur", "l'avocat de la défense", "le greffier", "le juré"],
+              "answer": "le procureur"
+            },
+            {
+              "id": "b2_u08_l03_qz03",
+              "type": "fillBlank",
+              "prompt": "« Taisez-vous ! » → Le président lui a ordonné ___ se taire.",
+              "answer": "de"
+            },
+            {
+              "id": "b2_u08_l03_qz04",
+              "type": "trueFalse",
+              "prompt": "En droit français, le doute profite à l'accusé.",
+              "options": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "b2_u08_l03_qz05",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "The witness stated that he had not seen anything that evening.",
+              "answer": "Le témoin a déclaré qu'il n'avait rien vu ce soir-là.",
+              "acceptedAnswers": [
+                "le temoin a declare qu'il n'avait rien vu ce soir-la",
+                "le témoin a affirmé qu'il n'avait rien vu ce soir-là"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

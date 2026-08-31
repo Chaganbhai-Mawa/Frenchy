@@ -1,0 +1,1051 @@
+{
+  "id": "c1_u01",
+  "level": "C1",
+  "unit": 1,
+  "title": "Academic French",
+  "subtitle": "Master the essay, the oral presentation and the formal register",
+  "icon": "🎓",
+  "lessons": [
+    {
+      "id": "c1_u01_l01",
+      "level": "C1",
+      "unit": 1,
+      "title": "L'essai argumenté",
+      "description": "Build a French academic essay: thesis, antithesis, synthesis and the connectors that hold it together.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "The French essay: a ritual in three movements",
+              "body": "The French \"dissertation\" follows a codified structure: an introduction that moves from a hook (l'amorce) to the central question (la problématique) and announces the plan; a body organised in thèse, antithèse, synthèse; and a conclusion that answers the problématique and opens a new perspective (l'ouverture). Examiners judge the rigour of this architecture as much as your ideas.",
+              "examples": [
+                { "french": "Il convient tout d'abord de définir les termes du sujet.", "english": "It is first necessary to define the terms of the topic.", "note": "classic introduction move" },
+                { "french": "La problématique est la suivante : dans quelle mesure le progrès technique libère-t-il l'individu ?", "english": "The central question is the following: to what extent does technical progress free the individual?" },
+                { "french": "Dans un premier temps, nous examinerons les bienfaits du numérique.", "english": "First, we will examine the benefits of digital technology.", "note": "announcing the plan" },
+                { "french": "Nous verrons ensuite que cette liberté demeure largement illusoire.", "english": "We will then see that this freedom remains largely illusory." },
+                { "french": "En guise d'ouverture, on peut se demander si l'école ne devrait pas enseigner cet esprit critique.", "english": "By way of opening, one may wonder whether school should not teach this critical mindset." }
+              ],
+              "tip": "The \"nous\" of the essay is impersonal — it refers to the reasoning, not to you and your friends. Never write \"je pense que\" in a dissertation."
+            },
+            {
+              "heading": "Thèse, antithèse, synthèse",
+              "body": "The dialectical plan first defends a position (thèse), then confronts it with objections (antithèse), and finally overcomes the contradiction (synthèse). The synthesis is not a lukewarm compromise: it reformulates the problem at a higher level and proposes a nuanced resolution.",
+              "examples": [
+                { "french": "Certes, le télétravail accroît l'autonomie des salariés.", "english": "Admittedly, remote work increases employees' autonomy.", "note": "concession opening the thèse" },
+                { "french": "Néanmoins, il tend à effacer la frontière entre vie privée et vie professionnelle.", "english": "Nevertheless, it tends to erase the boundary between private and professional life.", "note": "pivot towards the antithèse" },
+                { "french": "En réalité, tout dépend du cadre que l'entreprise sait instaurer.", "english": "In reality, everything depends on the framework the company manages to establish.", "note": "synthèse" },
+                { "french": "Cette objection, pour pertinente qu'elle soit, ne résiste pas à l'examen.", "english": "This objection, however relevant it may be, does not withstand scrutiny." },
+                { "french": "Force est de constater que les deux thèses se rejoignent sur un point essentiel.", "english": "One is forced to note that the two theses converge on one essential point." }
+              ]
+            },
+            {
+              "heading": "Academic connectors: the essay's skeleton",
+              "body": "C1 writing replaces \"mais\", \"donc\" and \"aussi\" with a richer palette: \"en revanche\" and \"toutefois\" for opposition, \"en dépit de\" for concession, \"par conséquent\" and \"dès lors\" for consequence, \"en somme\" to conclude. Vary them — repeating \"cependant\" three times in a paragraph is considered clumsy.",
+              "examples": [
+                { "french": "En dépit des critiques, cette réforme a porté ses fruits.", "english": "In spite of the criticism, this reform has borne fruit." },
+                { "french": "Les chiffres, en revanche, racontent une tout autre histoire.", "english": "The figures, on the other hand, tell a quite different story." },
+                { "french": "Dès lors, comment expliquer un tel décalage ?", "english": "From then on, how can such a gap be explained?" },
+                { "french": "Quoi qu'il en soit, le débat reste ouvert.", "english": "Be that as it may, the debate remains open." },
+                { "french": "En somme, l'argument économique ne saurait suffire.", "english": "In short, the economic argument cannot suffice." },
+                { "french": "D'une part, la loi protège ; d'autre part, elle contraint.", "english": "On the one hand, the law protects; on the other, it constrains." }
+              ],
+              "tip": "\"Par contre\" is common in speech, but many teachers still prefer \"en revanche\" in formal writing. Play it safe in essays."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "la-these", "french": "la thèse", "english": "thesis, position defended", "partOfSpeech": "noun", "gender": "f", "plural": "thèses", "pronunciation": "tez", "example": "La thèse de l'auteur est exposée dès l'introduction.", "exampleEnglish": "The author's thesis is set out from the introduction.", "level": "C1", "category": "academic" },
+            { "id": "l-antithese", "french": "l'antithèse", "english": "antithesis, opposing view", "partOfSpeech": "noun", "gender": "f", "plural": "antithèses", "pronunciation": "ahn-tee-TEZ", "example": "L'antithèse confronte la thèse à ses limites.", "exampleEnglish": "The antithesis confronts the thesis with its limits.", "level": "C1", "category": "academic" },
+            { "id": "la-synthese", "french": "la synthèse", "english": "synthesis", "partOfSpeech": "noun", "gender": "f", "plural": "synthèses", "pronunciation": "san-TEZ", "example": "La synthèse dépasse l'opposition entre les deux points de vue.", "exampleEnglish": "The synthesis goes beyond the opposition between the two viewpoints.", "level": "C1", "category": "academic" },
+            { "id": "la-problematique", "french": "la problématique", "english": "central question, problem statement", "partOfSpeech": "noun", "gender": "f", "plural": "problématiques", "pronunciation": "pro-blay-mah-TEEK", "example": "Toute dissertation s'organise autour d'une problématique claire.", "exampleEnglish": "Every essay is organised around a clear central question.", "level": "C1", "category": "academic" },
+            { "id": "l-amorce", "french": "l'amorce", "english": "hook, opening line", "partOfSpeech": "noun", "gender": "f", "plural": "amorces", "pronunciation": "ah-MORS", "example": "Une citation bien choisie sert souvent d'amorce.", "exampleEnglish": "A well-chosen quotation often serves as a hook.", "level": "C1", "category": "academic" },
+            { "id": "l-ouverture", "french": "l'ouverture", "english": "opening (final broadening of a conclusion)", "partOfSpeech": "noun", "gender": "f", "plural": "ouvertures", "pronunciation": "oo-vehr-TUR", "example": "L'ouverture élargit le débat vers une question voisine.", "exampleEnglish": "The opening widens the debate towards a related question.", "level": "C1", "category": "academic" },
+            { "id": "le-raisonnement", "french": "le raisonnement", "english": "reasoning, line of argument", "partOfSpeech": "noun", "gender": "m", "plural": "raisonnements", "pronunciation": "ray-zon-MAHN", "example": "Son raisonnement repose sur une prémisse discutable.", "exampleEnglish": "His reasoning rests on a debatable premise.", "level": "C1", "category": "academic" },
+            { "id": "la-demarche", "french": "la démarche", "english": "approach, method", "partOfSpeech": "noun", "gender": "f", "plural": "démarches", "pronunciation": "day-MARSH", "example": "La démarche comparatiste éclaire les deux textes.", "exampleEnglish": "The comparative approach sheds light on both texts.", "level": "C1", "category": "academic" },
+            { "id": "l-enjeu", "french": "l'enjeu", "english": "stake, what is at issue", "partOfSpeech": "noun", "gender": "m", "plural": "enjeux", "pronunciation": "ahn-ZHUH", "example": "L'enjeu du débat dépasse la simple question technique.", "exampleEnglish": "What is at stake in the debate goes beyond the purely technical question.", "level": "C1", "category": "academic" },
+            { "id": "le-constat", "french": "le constat", "english": "observation, assessment", "partOfSpeech": "noun", "gender": "m", "plural": "constats", "pronunciation": "kon-STAH", "example": "Le constat est sans appel : les inégalités se creusent.", "exampleEnglish": "The assessment is final: inequalities are widening.", "level": "C1", "category": "academic" },
+            { "id": "etayer", "french": "étayer", "english": "to back up, to support (an argument)", "partOfSpeech": "verb", "pronunciation": "ay-tay-YAY", "example": "Chaque argument doit être étayé par un exemple précis.", "exampleEnglish": "Each argument must be backed up by a precise example.", "level": "C1", "category": "academic" },
+            { "id": "refuter", "french": "réfuter", "english": "to refute", "partOfSpeech": "verb", "pronunciation": "ray-fu-TAY", "example": "L'auteur réfute point par point la thèse adverse.", "exampleEnglish": "The author refutes the opposing thesis point by point.", "level": "C1", "category": "academic" },
+            { "id": "nuancer", "french": "nuancer", "english": "to qualify, to nuance", "partOfSpeech": "verb", "pronunciation": "nu-ahn-SAY", "example": "Il faut nuancer ce jugement trop catégorique.", "exampleEnglish": "This overly categorical judgement needs qualifying.", "level": "C1", "category": "academic" },
+            { "id": "conceder", "french": "concéder", "english": "to concede", "partOfSpeech": "verb", "pronunciation": "kon-say-DAY", "example": "Concédons que cette objection n'est pas sans fondement.", "exampleEnglish": "Let us concede that this objection is not without foundation.", "level": "C1", "category": "academic" },
+            { "id": "decouler-de", "french": "découler de", "english": "to follow from, to stem from", "partOfSpeech": "verb", "pronunciation": "day-koo-LAY duh", "example": "Deux conséquences découlent de ce constat.", "exampleEnglish": "Two consequences follow from this observation.", "level": "C1", "category": "academic" },
+            { "id": "soulever", "french": "soulever", "english": "to raise (a question, an objection)", "partOfSpeech": "verb", "pronunciation": "sool-VAY", "example": "Ce texte soulève une question éthique majeure.", "exampleEnglish": "This text raises a major ethical question.", "level": "C1", "category": "academic" },
+            { "id": "preconiser", "french": "préconiser", "english": "to advocate, to recommend", "partOfSpeech": "verb", "pronunciation": "pray-ko-nee-ZAY", "example": "Le rapport préconise une réforme en profondeur.", "exampleEnglish": "The report advocates an in-depth reform.", "level": "C1", "category": "academic" },
+            { "id": "remettre-en-question", "french": "remettre en question", "english": "to call into question", "partOfSpeech": "expression", "pronunciation": "ruh-METR ahn kes-TYON", "example": "Ces résultats remettent en question le consensus établi.", "exampleEnglish": "These results call the established consensus into question.", "level": "C1", "category": "academic" },
+            { "id": "neanmoins", "french": "néanmoins", "english": "nevertheless", "partOfSpeech": "adverb", "pronunciation": "nay-ahn-MWAN", "example": "L'argument est séduisant ; il est néanmoins fragile.", "exampleEnglish": "The argument is appealing; it is nevertheless fragile.", "level": "C1", "category": "connectors" },
+            { "id": "toutefois", "french": "toutefois", "english": "however", "partOfSpeech": "adverb", "pronunciation": "toot-FWAH", "example": "Toutefois, une lecture attentive révèle une autre intention.", "exampleEnglish": "However, a careful reading reveals another intention.", "level": "C1", "category": "connectors" },
+            { "id": "en-revanche", "french": "en revanche", "english": "on the other hand", "partOfSpeech": "expression", "pronunciation": "ahn ruh-VAHNSH", "example": "Le style est brillant ; le fond, en revanche, laisse à désirer.", "exampleEnglish": "The style is brilliant; the substance, on the other hand, leaves something to be desired.", "level": "C1", "category": "connectors" },
+            { "id": "certes", "french": "certes", "english": "admittedly, certainly", "partOfSpeech": "adverb", "pronunciation": "sehrt", "example": "Certes, le progrès a un coût, mais le statu quo en a un aussi.", "exampleEnglish": "Admittedly, progress has a cost, but so does the status quo.", "level": "C1", "category": "connectors" },
+            { "id": "en-depit-de", "french": "en dépit de", "english": "in spite of", "partOfSpeech": "expression", "pronunciation": "ahn day-PEE duh", "example": "En dépit de ses défauts, l'œuvre demeure fondatrice.", "exampleEnglish": "In spite of its flaws, the work remains foundational.", "level": "C1", "category": "connectors" },
+            { "id": "quoi-qu-il-en-soit", "french": "quoi qu'il en soit", "english": "be that as it may", "partOfSpeech": "expression", "pronunciation": "kwah keel ahn SWAH", "example": "Quoi qu'il en soit, la question mérite d'être posée.", "exampleEnglish": "Be that as it may, the question deserves to be asked.", "level": "C1", "category": "connectors" },
+            { "id": "des-lors", "french": "dès lors", "english": "from then on, consequently", "partOfSpeech": "expression", "pronunciation": "deh LOR", "example": "Dès lors, toute comparaison devient hasardeuse.", "exampleEnglish": "From then on, any comparison becomes risky.", "level": "C1", "category": "connectors" },
+            { "id": "par-consequent", "french": "par conséquent", "english": "consequently", "partOfSpeech": "expression", "pronunciation": "par kon-say-KAHN", "example": "Par conséquent, l'hypothèse initiale doit être abandonnée.", "exampleEnglish": "Consequently, the initial hypothesis must be abandoned.", "level": "C1", "category": "connectors" },
+            { "id": "en-somme", "french": "en somme", "english": "in short, all in all", "partOfSpeech": "expression", "pronunciation": "ahn SOM", "example": "En somme, trois facteurs expliquent cette évolution.", "exampleEnglish": "In short, three factors explain this development.", "level": "C1", "category": "connectors" },
+            { "id": "a-cet-egard", "french": "à cet égard", "english": "in this respect", "partOfSpeech": "expression", "pronunciation": "ah set ay-GAR", "example": "À cet égard, l'exemple allemand est éclairant.", "exampleEnglish": "In this respect, the German example is enlightening.", "level": "C1", "category": "connectors" },
+            { "id": "en-l-occurrence", "french": "en l'occurrence", "english": "in this case, as it happens", "partOfSpeech": "expression", "pronunciation": "ahn lo-ku-RAHNS", "example": "Le responsable, en l'occurrence l'État, doit rendre des comptes.", "exampleEnglish": "The responsible party, in this case the State, must be held accountable.", "level": "C1", "category": "connectors" },
+            { "id": "force-est-de-constater", "french": "force est de constater que", "english": "one is forced to note that", "partOfSpeech": "expression", "pronunciation": "fors eh duh kon-stah-TAY kuh", "example": "Force est de constater que les mesures n'ont rien changé.", "exampleEnglish": "One is forced to note that the measures have changed nothing.", "level": "C1", "category": "connectors" },
+            { "id": "il-n-en-demeure-pas-moins", "french": "il n'en demeure pas moins que", "english": "the fact remains that", "partOfSpeech": "expression", "pronunciation": "eel nahn duh-MUHR pah MWAN kuh", "example": "Il n'en demeure pas moins que le problème persiste.", "exampleEnglish": "The fact remains that the problem persists.", "level": "C1", "category": "connectors" },
+            { "id": "pertinent", "french": "pertinent", "english": "relevant, pertinent", "partOfSpeech": "adjective", "pronunciation": "pehr-tee-NAHN", "example": "Votre remarque est tout à fait pertinente.", "exampleEnglish": "Your remark is entirely relevant.", "level": "C1", "category": "academic" },
+            { "id": "coherent", "french": "cohérent", "english": "coherent, consistent", "partOfSpeech": "adjective", "pronunciation": "ko-ay-RAHN", "example": "Un plan cohérent facilite la lecture de l'essai.", "exampleEnglish": "A coherent outline makes the essay easier to read.", "level": "C1", "category": "academic" },
+            { "id": "la-coherence", "french": "la cohérence", "english": "coherence, consistency", "partOfSpeech": "noun", "gender": "f", "plural": "cohérences", "pronunciation": "ko-ay-RAHNS", "example": "La cohérence de l'argumentation impressionne le jury.", "exampleEnglish": "The coherence of the argumentation impresses the panel.", "level": "C1", "category": "academic" },
+            { "id": "la-dissertation", "french": "la dissertation", "english": "academic essay", "partOfSpeech": "noun", "gender": "f", "plural": "dissertations", "pronunciation": "dee-sehr-tah-SYON", "example": "La dissertation française obéit à des règles strictes.", "exampleEnglish": "The French essay obeys strict rules.", "level": "C1", "category": "academic" },
+            { "id": "la-premisse", "french": "la prémisse", "english": "premise", "partOfSpeech": "noun", "gender": "f", "plural": "prémisses", "pronunciation": "pray-MEES", "example": "Tout le raisonnement s'effondre si la prémisse est fausse.", "exampleEnglish": "The whole reasoning collapses if the premise is false.", "level": "C1", "category": "academic" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Concession structures: certes... mais, avoir beau, pour... que",
+              "body": "Concession lets you acknowledge an objection before dismantling it. \"Certes... mais\" is the classic pairing. \"Avoir beau + infinitive\" means \"however much one does something, in vain\". \"Pour + adjective + que + subjunctive\" is an elegant literary concession.",
+              "examples": [
+                { "french": "Certes, la mesure est coûteuse, mais son abandon le serait davantage.", "english": "Admittedly, the measure is costly, but abandoning it would be more so." },
+                { "french": "On a beau multiplier les lois, les comportements changent peu.", "english": "However many laws we pass, behaviour changes little." },
+                { "french": "Pour séduisante que soit cette idée, elle reste inapplicable.", "english": "However appealing this idea may be, it remains unworkable.", "note": "subjunctive after pour... que" },
+                { "french": "Si habile soit-il, l'orateur ne convaincra pas tout le monde.", "english": "However skilful he may be, the speaker will not convince everyone." },
+                { "french": "Quand bien même les chiffres seraient exacts, la conclusion ne suivrait pas.", "english": "Even if the figures were accurate, the conclusion would not follow.", "note": "quand bien même + conditional" }
+              ]
+            },
+            {
+              "heading": "Impersonal turns of phrase for objective argument",
+              "body": "Academic French avoids \"je\". Use impersonal structures: \"il convient de\", \"il importe de\", \"on ne saurait\" (one cannot), \"force est de constater que\". \"Ne saurait\" is a formal conditional of \"savoir\" meaning \"could not possibly\" — note that it takes \"ne\" alone, without \"pas\".",
+              "examples": [
+                { "french": "Il convient de distinguer deux notions voisines.", "english": "It is appropriate to distinguish two related notions." },
+                { "french": "Il importe de replacer ce texte dans son contexte.", "english": "It is important to put this text back in its context." },
+                { "french": "On ne saurait réduire la question à un simple calcul.", "english": "The question cannot possibly be reduced to a simple calculation.", "note": "ne without pas" },
+                { "french": "Encore faut-il s'entendre sur le sens des mots.", "english": "One must still agree on the meaning of the words.", "note": "inversion after encore" },
+                { "french": "Il va de soi que cette liste n'est pas exhaustive.", "english": "It goes without saying that this list is not exhaustive." }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "c1_u01_l01_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What is the function of this sentence in an essay?",
+              "french": "Dans un premier temps, nous examinerons les causes de cette crise.",
+              "options": ["Announcing the plan", "Refuting an objection", "Concluding the essay", "Quoting an author"],
+              "answer": "Announcing the plan"
+            },
+            {
+              "id": "c1_u01_l01_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. Which stage of the dialectical plan does this sentence open?",
+              "french": "Néanmoins, cette liberté nouvelle a un revers que l'on ne peut ignorer.",
+              "options": ["The antithèse", "The thèse", "The amorce", "The ouverture"],
+              "answer": "The antithèse"
+            },
+            {
+              "id": "c1_u01_l01_li03",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Force est de constater que le débat reste ouvert.",
+              "answer": "Force est de constater que le débat reste ouvert.",
+              "acceptedAnswers": ["force est de constater que le debat reste ouvert"]
+            },
+            {
+              "id": "c1_u01_l01_li04",
+              "type": "dictation",
+              "prompt": "Dictation: write exactly what you hear.",
+              "french": "En dépit de ses limites, ce raisonnement demeure convaincant.",
+              "answer": "En dépit de ses limites, ce raisonnement demeure convaincant.",
+              "acceptedAnswers": ["en depit de ses limites ce raisonnement demeure convaincant"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "c1_u01_l01_sp01",
+              "type": "speak",
+              "prompt": "Concede a point before countering it.",
+              "french": "Certes, l'argument est séduisant, mais il repose sur une prémisse fragile.",
+              "english": "Admittedly, the argument is appealing, but it rests on a fragile premise.",
+              "tip": "Pronounce \"certes\" as one crisp syllable, SEHRT — the final -es is silent."
+            },
+            {
+              "id": "c1_u01_l01_sp02",
+              "type": "speak",
+              "prompt": "State the central question of an essay.",
+              "french": "Dans quelle mesure la technologie transforme-t-elle notre rapport au savoir ?",
+              "english": "To what extent does technology transform our relationship to knowledge?",
+              "tip": "Link \"transforme-t-elle\" smoothly: trahns-form-TEL. The inserted -t- avoids a vowel clash."
+            },
+            {
+              "id": "c1_u01_l01_sp03",
+              "type": "speak",
+              "prompt": "Deliver a synthesis sentence.",
+              "french": "Quoi qu'il en soit, ces deux positions se rejoignent sur l'essentiel.",
+              "english": "Be that as it may, these two positions converge on the essential point.",
+              "tip": "\"Quoi qu'il en soit\" flows as kwah-keel-ahn-SWAH — no pause between the words."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Faut-il craindre l'intelligence artificielle à l'école ?",
+              "french": "L'irruption de l'intelligence artificielle dans les salles de classe suscite des inquiétudes aussi vives que légitimes.\nCertes, les outils génératifs permettent aux élèves de produire en quelques secondes des textes d'une correction irréprochable.\nMais est-ce là apprendre ? Rien n'est moins sûr.\nLa problématique mérite d'être posée sans détour : l'automatisation de l'écriture menace-t-elle la formation de la pensée ?\nD'une part, les défenseurs de ces outils font valoir un argument de poids.\nL'intelligence artificielle, disent-ils, libère l'élève des tâches mécaniques et lui permet de se concentrer sur l'essentiel : structurer une réflexion.\nEn outre, elle offre à chacun un tuteur infatigable, disponible à toute heure.\nD'autre part, les sceptiques rétorquent que l'on n'apprend à penser qu'en se confrontant à la difficulté d'écrire.\nDéléguer la formulation, c'est, à terme, déléguer le raisonnement lui-même.\nForce est de constater que les premières études leur donnent partiellement raison : les élèves qui s'en remettent systématiquement à la machine progressent moins.\nFaut-il pour autant bannir ces outils ? Ce serait à la fois illusoire et contre-productif.\nEn réalité, tout dépend de l'usage : l'intelligence artificielle peut être un excellent contradicteur, à condition que l'élève garde la main.\nDès lors, la question n'est plus de savoir s'il faut l'utiliser, mais comment l'enseigner.\nQuoi qu'il en soit, une chose est sûre : l'école ne pourra pas faire l'économie de ce débat.\nIl y va de sa mission la plus ancienne, qui n'est pas de produire des textes, mais de former des esprits.",
+              "english": "The arrival of artificial intelligence in classrooms is raising concerns as strong as they are legitimate.\nAdmittedly, generative tools allow pupils to produce impeccably correct texts in a few seconds.\nBut is that learning? Nothing is less certain.\nThe central question deserves to be asked bluntly: does the automation of writing threaten the formation of thought?\nOn the one hand, the defenders of these tools put forward a weighty argument.\nArtificial intelligence, they say, frees the pupil from mechanical tasks and lets them focus on the essential: structuring a line of thought.\nMoreover, it offers everyone a tireless tutor, available at any hour.\nOn the other hand, sceptics retort that one only learns to think by confronting the difficulty of writing.\nDelegating the wording is, in the long run, delegating the reasoning itself.\nOne is forced to note that the first studies partly prove them right: pupils who systematically rely on the machine progress less.\nShould these tools therefore be banned? That would be both illusory and counter-productive.\nIn reality, everything depends on usage: artificial intelligence can be an excellent sparring partner, provided the pupil stays in control.\nFrom then on, the question is no longer whether to use it, but how to teach it.\nBe that as it may, one thing is certain: school will not be able to avoid this debate.\nIts oldest mission is at stake — which is not to produce texts, but to form minds.",
+              "questions": [
+                {
+                  "id": "c1_u01_l01_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "What is the editorial's final position on AI at school?",
+                  "options": ["It should be taught and used under the pupil's control", "It should be banned from classrooms", "It should replace writing instruction", "It has no effect on learning"],
+                  "answer": "It should be taught and used under the pupil's control"
+                },
+                {
+                  "id": "c1_u01_l01_rd02",
+                  "type": "multipleChoice",
+                  "prompt": "Which sentence states the problématique of the text?",
+                  "options": ["L'automatisation de l'écriture menace-t-elle la formation de la pensée ?", "Les outils génératifs produisent des textes corrects.", "Les élèves progressent moins.", "L'école doit produire des textes."],
+                  "answer": "L'automatisation de l'écriture menace-t-elle la formation de la pensée ?"
+                },
+                {
+                  "id": "c1_u01_l01_rd03",
+                  "type": "trueFalse",
+                  "prompt": "The author believes banning AI tools would be an effective solution.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "c1_u01_l01_wr01",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "In spite of the criticism, this reform remains necessary.",
+              "answer": "En dépit des critiques, cette réforme reste nécessaire.",
+              "acceptedAnswers": ["en depit des critiques cette reforme reste necessaire", "en dépit des critiques, cette réforme demeure nécessaire", "en depit des critiques cette reforme demeure necessaire"]
+            },
+            {
+              "id": "c1_u01_l01_wr02",
+              "type": "fillBlank",
+              "prompt": "Complete the concession: ___ , l'argument est séduisant, mais il ne résiste pas à l'examen.",
+              "answer": "Certes",
+              "acceptedAnswers": ["certes"]
+            },
+            {
+              "id": "c1_u01_l01_wr03",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "words": ["constater", "que", "Force", "de", "persiste", "est", "le", "problème"],
+              "answer": "Force est de constater que le problème persiste",
+              "english": "One is forced to note that the problem persists"
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "c1_u01_l01_pr01",
+              "type": "multipleChoice",
+              "prompt": "In a dialectical essay, the synthèse should...",
+              "options": ["overcome the opposition at a higher level", "repeat the thèse more firmly", "split the difference between the two views", "introduce a brand-new topic"],
+              "answer": "overcome the opposition at a higher level"
+            },
+            {
+              "id": "c1_u01_l01_pr02",
+              "type": "fillBlank",
+              "prompt": "On a ___ multiplier les lois, les comportements changent peu. (however much...)",
+              "answer": "beau",
+              "acceptedAnswers": ["beau"]
+            },
+            {
+              "id": "c1_u01_l01_pr03",
+              "type": "match",
+              "prompt": "Match each connector with its English equivalent.",
+              "pairs": [
+                { "french": "en revanche", "english": "on the other hand" },
+                { "french": "dès lors", "english": "from then on" },
+                { "french": "en somme", "english": "in short" },
+                { "french": "à cet égard", "english": "in this respect" }
+              ]
+            },
+            {
+              "id": "c1_u01_l01_pr04",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "The report advocates an in-depth reform.",
+              "answer": "Le rapport préconise une réforme en profondeur.",
+              "acceptedAnswers": ["le rapport preconise une reforme en profondeur"]
+            },
+            {
+              "id": "c1_u01_l01_pr05",
+              "type": "multipleChoice",
+              "prompt": "\"On ne saurait réduire la question à un calcul.\" Why is there no \"pas\"?",
+              "options": ["Formal \"savoir\" in the conditional uses \"ne\" alone", "It is a typographical error", "\"Pas\" is forbidden after \"on\"", "The sentence is affirmative"],
+              "answer": "Formal \"savoir\" in the conditional uses \"ne\" alone"
+            },
+            {
+              "id": "c1_u01_l01_pr06",
+              "type": "fillBlank",
+              "prompt": "Pour séduisante que ___ cette idée, elle reste inapplicable. (être, subjunctive)",
+              "answer": "soit",
+              "acceptedAnswers": ["soit"]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "c1_u01_l01_qz01",
+              "type": "multipleChoice",
+              "prompt": "Which element belongs in the introduction of a dissertation?",
+              "options": ["La problématique", "La synthèse", "L'ouverture", "La réfutation finale"],
+              "answer": "La problématique"
+            },
+            {
+              "id": "c1_u01_l01_qz02",
+              "type": "multipleChoice",
+              "prompt": "Choose the most formal connector of opposition for written French.",
+              "options": ["en revanche", "par contre", "mais bon", "n'empêche"],
+              "answer": "en revanche"
+            },
+            {
+              "id": "c1_u01_l01_qz03",
+              "type": "fillBlank",
+              "prompt": "Quoi qu'il en ___ , le débat reste ouvert.",
+              "answer": "soit",
+              "acceptedAnswers": ["soit"]
+            },
+            {
+              "id": "c1_u01_l01_qz04",
+              "type": "multipleChoice",
+              "prompt": "\"Étayer un argument\" means...",
+              "options": ["to back it up with evidence", "to abandon it", "to exaggerate it", "to translate it"],
+              "answer": "to back it up with evidence"
+            },
+            {
+              "id": "c1_u01_l01_qz05",
+              "type": "trueFalse",
+              "prompt": "In a French dissertation, \"je pense que\" is the recommended way to introduce your opinion.",
+              "options": ["True", "False"],
+              "answer": "False"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1_u01_l02",
+      "level": "C1",
+      "unit": 1,
+      "title": "La présentation orale",
+      "description": "Structure a formal presentation, guide your audience with rhetorical signposts and handle the question session with poise.",
+      "estimatedMinutes": 19,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Opening and structuring un exposé",
+              "body": "A French oral presentation (un exposé) opens with a greeting, a hook, and an explicit roadmap. The audience expects to hear the fil conducteur — the guiding thread — announced before you develop anything. Signpost every transition: French listeners are trained to follow numbered structure.",
+              "examples": [
+                { "french": "Je vous remercie de votre présence ; mon intervention portera sur la transition énergétique.", "english": "Thank you for being here; my talk will deal with the energy transition." },
+                { "french": "Mon exposé s'articulera autour de trois axes.", "english": "My presentation will be organised around three main lines." },
+                { "french": "J'aborderai d'abord le contexte, avant d'en venir aux solutions concrètes.", "english": "I will first address the context, before coming to the concrete solutions." },
+                { "french": "Ceci m'amène tout naturellement à mon deuxième point.", "english": "This brings me quite naturally to my second point.", "note": "classic transition" },
+                { "french": "Permettez-moi d'ouvrir une brève parenthèse.", "english": "Allow me to open a brief digression." },
+                { "french": "Pour récapituler, retenons trois idées essentielles.", "english": "To recap, let us keep three essential ideas in mind." }
+              ],
+              "tip": "In formal settings, greet with \"Mesdames, Messieurs\" and thank the organisers before anything else — skipping the ritual sounds abrupt in French professional culture."
+            },
+            {
+              "heading": "Rhetorical devices that keep an audience awake",
+              "body": "Skilled French speakers use rhetorical questions, the rule of three (accumulating three parallel elements), and deliberate pauses. They also \"announce the announcement\": telling the audience something important is coming raises attention before the key point lands.",
+              "examples": [
+                { "french": "Alors, que faut-il en conclure ?", "english": "So, what should we conclude from this?", "note": "rhetorical question" },
+                { "french": "Ce projet est ambitieux, novateur et, disons-le franchement, risqué.", "english": "This project is ambitious, innovative and, let us say it frankly, risky.", "note": "rule of three" },
+                { "french": "J'insiste sur ce point, car tout le reste en découle.", "english": "I stress this point, because everything else follows from it." },
+                { "french": "Et c'est ici que réside le véritable enjeu.", "english": "And it is here that the real stake lies." },
+                { "french": "Vous l'aurez compris : le statu quo n'est plus tenable.", "english": "As you will have understood: the status quo is no longer tenable." }
+              ]
+            },
+            {
+              "heading": "Managing the question session",
+              "body": "The séance de questions is where credibility is won or lost. Reformulate hostile or vague questions before answering, buy thinking time with fixed phrases, and know how to defer gracefully when you do not know. Never bluff a French expert audience — acknowledging a limit is respected.",
+              "examples": [
+                { "french": "Si je comprends bien votre question, vous m'interrogez sur le financement.", "english": "If I understand your question correctly, you are asking me about the funding.", "note": "reformulating" },
+                { "french": "C'est une excellente question, qui mérite qu'on s'y arrête.", "english": "That is an excellent question, which deserves our attention.", "note": "buying time" },
+                { "french": "Je me permets de nuancer votre propos.", "english": "Allow me to qualify what you have said.", "note": "polite disagreement" },
+                { "french": "Je n'ai pas les chiffres en tête, mais je vous les ferai parvenir.", "english": "I do not have the figures in mind, but I will send them to you." },
+                { "french": "Votre remarque rejoint d'ailleurs mon premier point.", "english": "Your remark in fact ties in with my first point." }
+              ],
+              "tip": "\"Je me permets de...\" softens almost any intervention: interrupting, disagreeing, adding a point. It is the Swiss army knife of French meetings."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "l-expose", "french": "l'exposé", "english": "presentation, talk", "partOfSpeech": "noun", "gender": "m", "plural": "exposés", "pronunciation": "ek-spo-ZAY", "example": "Son exposé sur le climat a duré vingt minutes.", "exampleEnglish": "His presentation on the climate lasted twenty minutes.", "level": "C1", "category": "presentations" },
+            { "id": "l-intervention", "french": "l'intervention", "english": "talk, contribution (in a meeting)", "partOfSpeech": "noun", "gender": "f", "plural": "interventions", "pronunciation": "an-tehr-vahn-SYON", "example": "Mon intervention portera sur trois points.", "exampleEnglish": "My talk will focus on three points.", "level": "C1", "category": "presentations" },
+            { "id": "l-auditoire", "french": "l'auditoire", "english": "audience", "partOfSpeech": "noun", "gender": "m", "plural": "auditoires", "pronunciation": "oh-dee-TWAHR", "example": "L'auditoire a écouté dans un silence attentif.", "exampleEnglish": "The audience listened in attentive silence.", "level": "C1", "category": "presentations" },
+            { "id": "l-intervenant", "french": "l'intervenant", "english": "speaker, panellist", "partOfSpeech": "noun", "gender": "m", "plural": "intervenants", "pronunciation": "an-tehr-vuh-NAHN", "example": "Chaque intervenant dispose de dix minutes.", "exampleEnglish": "Each speaker has ten minutes.", "level": "C1", "category": "presentations" },
+            { "id": "la-diapositive", "french": "la diapositive", "english": "slide", "partOfSpeech": "noun", "gender": "f", "plural": "diapositives", "pronunciation": "dyah-po-zee-TEEV", "example": "Cette diapositive résume les résultats de l'étude.", "exampleEnglish": "This slide sums up the study's results.", "level": "C1", "category": "presentations" },
+            { "id": "le-support", "french": "le support", "english": "visual aid, handout", "partOfSpeech": "noun", "gender": "m", "plural": "supports", "pronunciation": "su-POR", "example": "Le support de présentation vous sera envoyé par courriel.", "exampleEnglish": "The presentation slides will be sent to you by email.", "level": "C1", "category": "presentations" },
+            { "id": "le-fil-conducteur", "french": "le fil conducteur", "english": "guiding thread, through-line", "partOfSpeech": "noun", "gender": "m", "plural": "fils conducteurs", "pronunciation": "feel kon-duk-TUHR", "example": "Gardez toujours le fil conducteur de votre exposé à l'esprit.", "exampleEnglish": "Always keep the guiding thread of your talk in mind.", "level": "C1", "category": "presentations" },
+            { "id": "la-prise-de-parole", "french": "la prise de parole", "english": "speaking (in public), taking the floor", "partOfSpeech": "noun", "gender": "f", "plural": "prises de parole", "pronunciation": "preez duh pah-ROL", "example": "La prise de parole en public s'apprend.", "exampleEnglish": "Public speaking can be learned.", "level": "C1", "category": "presentations" },
+            { "id": "le-trac", "french": "le trac", "english": "stage fright", "partOfSpeech": "noun", "gender": "m", "plural": "tracs", "pronunciation": "trak", "example": "Même les orateurs chevronnés ont le trac.", "exampleEnglish": "Even seasoned speakers get stage fright.", "level": "C1", "category": "presentations" },
+            { "id": "le-debit", "french": "le débit", "english": "speaking pace, delivery", "partOfSpeech": "noun", "gender": "m", "plural": "débits", "pronunciation": "day-BEE", "example": "Ralentissez votre débit dans les passages techniques.", "exampleEnglish": "Slow down your pace in the technical passages.", "level": "C1", "category": "presentations" },
+            { "id": "la-gestuelle", "french": "la gestuelle", "english": "body language, gestures", "partOfSpeech": "noun", "gender": "f", "plural": "gestuelles", "pronunciation": "zhes-tu-EL", "example": "Une gestuelle sobre renforce la crédibilité de l'orateur.", "exampleEnglish": "Restrained body language reinforces the speaker's credibility.", "level": "C1", "category": "presentations" },
+            { "id": "la-seance-de-questions", "french": "la séance de questions", "english": "question session, Q&A", "partOfSpeech": "noun", "gender": "f", "plural": "séances de questions", "pronunciation": "say-AHNS duh kes-TYON", "example": "La séance de questions suivra immédiatement l'exposé.", "exampleEnglish": "The question session will immediately follow the talk.", "level": "C1", "category": "presentations" },
+            { "id": "l-interlocuteur", "french": "l'interlocuteur", "english": "interlocutor, person you are speaking with", "partOfSpeech": "noun", "gender": "m", "plural": "interlocuteurs", "pronunciation": "an-tehr-lo-ku-TUHR", "example": "Regardez votre interlocuteur lorsque vous répondez.", "exampleEnglish": "Look at the person you are speaking with when you answer.", "level": "C1", "category": "presentations" },
+            { "id": "aborder", "french": "aborder", "english": "to address, to tackle (a topic)", "partOfSpeech": "verb", "pronunciation": "ah-bor-DAY", "example": "Nous aborderons ce point dans la seconde partie.", "exampleEnglish": "We will address this point in the second part.", "level": "C1", "category": "presentations" },
+            { "id": "entamer", "french": "entamer", "english": "to begin, to open (a talk, negotiations)", "partOfSpeech": "verb", "pronunciation": "ahn-tah-MAY", "example": "Elle a entamé son exposé par une anecdote frappante.", "exampleEnglish": "She opened her talk with a striking anecdote.", "level": "C1", "category": "presentations" },
+            { "id": "enchainer", "french": "enchaîner", "english": "to move on, to follow up smoothly", "partOfSpeech": "verb", "pronunciation": "ahn-sheh-NAY", "example": "Après ce constat, elle a enchaîné sur les solutions.", "exampleEnglish": "After this observation, she moved on to the solutions.", "level": "C1", "category": "presentations" },
+            { "id": "recapituler", "french": "récapituler", "english": "to recap, to summarise", "partOfSpeech": "verb", "pronunciation": "ray-kah-pee-tu-LAY", "example": "Avant de conclure, récapitulons les points essentiels.", "exampleEnglish": "Before concluding, let us recap the essential points.", "level": "C1", "category": "presentations" },
+            { "id": "reformuler", "french": "reformuler", "english": "to rephrase, to reformulate", "partOfSpeech": "verb", "pronunciation": "ruh-for-mu-LAY", "example": "Reformulez la question avant d'y répondre.", "exampleEnglish": "Rephrase the question before answering it.", "level": "C1", "category": "presentations" },
+            { "id": "capter-l-attention", "french": "capter l'attention", "english": "to capture the attention", "partOfSpeech": "expression", "pronunciation": "kap-TAY lah-tahn-SYON", "example": "Une question rhétorique capte l'attention de l'auditoire.", "exampleEnglish": "A rhetorical question captures the audience's attention.", "level": "C1", "category": "presentations" },
+            { "id": "mettre-en-evidence", "french": "mettre en évidence", "english": "to highlight, to bring out", "partOfSpeech": "expression", "pronunciation": "METR ahn ay-vee-DAHNS", "example": "Ce graphique met en évidence une tendance inquiétante.", "exampleEnglish": "This chart highlights a worrying trend.", "level": "C1", "category": "presentations" },
+            { "id": "ouvrir-une-parenthese", "french": "ouvrir une parenthèse", "english": "to make a digression", "partOfSpeech": "expression", "pronunciation": "oo-VREER un pah-rahn-TEZ", "example": "Permettez-moi d'ouvrir une parenthèse historique.", "exampleEnglish": "Allow me to make a historical digression.", "level": "C1", "category": "presentations" },
+            { "id": "revenir-sur", "french": "revenir sur", "english": "to come back to (a point)", "partOfSpeech": "expression", "pronunciation": "ruhv-NEER sur", "example": "Je reviendrai sur ce chiffre dans un instant.", "exampleEnglish": "I will come back to this figure in a moment.", "level": "C1", "category": "presentations" },
+            { "id": "s-articuler-autour-de", "french": "s'articuler autour de", "english": "to be organised around", "partOfSpeech": "expression", "pronunciation": "sar-tee-ku-LAY oh-TOOR duh", "example": "Mon propos s'articulera autour de deux axes.", "exampleEnglish": "My talk will be organised around two main lines.", "level": "C1", "category": "presentations" },
+            { "id": "l-axe", "french": "l'axe", "english": "main line, focus area", "partOfSpeech": "noun", "gender": "m", "plural": "axes", "pronunciation": "aks", "example": "Le second axe concerne le financement du projet.", "exampleEnglish": "The second main line concerns the project's funding.", "level": "C1", "category": "presentations" },
+            { "id": "le-propos", "french": "le propos", "english": "remarks, point being made", "partOfSpeech": "noun", "gender": "m", "plural": "propos", "pronunciation": "pro-POH", "example": "Un exemple illustrera mon propos.", "exampleEnglish": "An example will illustrate my point.", "level": "C1", "category": "presentations" },
+            { "id": "l-orateur", "french": "l'orateur", "english": "orator, public speaker", "partOfSpeech": "noun", "gender": "m", "plural": "orateurs", "pronunciation": "oh-rah-TUHR", "example": "Un bon orateur ménage des silences.", "exampleEnglish": "A good speaker makes deliberate use of pauses.", "level": "C1", "category": "presentations" },
+            { "id": "chevronne", "french": "chevronné", "english": "seasoned, experienced", "partOfSpeech": "adjective", "pronunciation": "shuh-vro-NAY", "example": "C'est une conférencière chevronnée.", "exampleEnglish": "She is a seasoned lecturer.", "level": "C1", "category": "presentations" },
+            { "id": "percutant", "french": "percutant", "english": "punchy, hard-hitting", "partOfSpeech": "adjective", "pronunciation": "pehr-ku-TAHN", "example": "Terminez par une formule percutante.", "exampleEnglish": "Finish with a punchy closing line.", "level": "C1", "category": "presentations" },
+            { "id": "articuler", "french": "articuler", "english": "to articulate, to enunciate", "partOfSpeech": "verb", "pronunciation": "ar-tee-ku-LAY", "example": "Articulez davantage lorsque la salle est grande.", "exampleEnglish": "Enunciate more clearly when the room is large.", "level": "C1", "category": "presentations" },
+            { "id": "interpeller", "french": "interpeller", "english": "to call out to, to challenge (an audience)", "partOfSpeech": "verb", "pronunciation": "an-tehr-puh-LAY", "example": "Ce chiffre devrait tous nous interpeller.", "exampleEnglish": "This figure should give us all pause.", "level": "C1", "category": "presentations" },
+            { "id": "menager-un-silence", "french": "ménager un silence", "english": "to make a deliberate pause", "partOfSpeech": "expression", "pronunciation": "may-nah-ZHAY uhn see-LAHNS", "example": "Ménagez un silence avant votre conclusion.", "exampleEnglish": "Make a deliberate pause before your conclusion.", "level": "C1", "category": "presentations" },
+            { "id": "je-me-permets-de", "french": "je me permets de", "english": "allow me to, I take the liberty of", "partOfSpeech": "expression", "pronunciation": "zhuh muh pehr-MEH duh", "example": "Je me permets de nuancer votre propos.", "exampleEnglish": "Allow me to qualify what you have said.", "level": "C1", "category": "presentations" },
+            { "id": "faire-parvenir", "french": "faire parvenir", "english": "to send, to forward (formal)", "partOfSpeech": "expression", "pronunciation": "fehr par-vuh-NEER", "example": "Je vous ferai parvenir les chiffres dès demain.", "exampleEnglish": "I will send you the figures as early as tomorrow.", "level": "C1", "category": "presentations" },
+            { "id": "la-formule", "french": "la formule", "english": "set phrase, wording", "partOfSpeech": "noun", "gender": "f", "plural": "formules", "pronunciation": "for-MUL", "example": "Cette formule de conclusion a marqué les esprits.", "exampleEnglish": "This closing phrase left a lasting impression.", "level": "C1", "category": "presentations" },
+            { "id": "marquer-les-esprits", "french": "marquer les esprits", "english": "to leave a lasting impression", "partOfSpeech": "expression", "pronunciation": "mar-KAY lay zes-PREE", "example": "Une anecdote bien choisie marque les esprits.", "exampleEnglish": "A well-chosen anecdote leaves a lasting impression.", "level": "C1", "category": "presentations" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Le futur as a presentation tense",
+              "body": "French roadmap sentences use the simple future where English often uses \"going to\": \"j'aborderai\", \"nous verrons\", \"je reviendrai sur\". The future here signals a formal commitment to the audience. In the closing, the past-in-the-talk is handled with the passé composé: \"comme nous l'avons vu\".",
+              "examples": [
+                { "french": "Dans un premier temps, j'exposerai le contexte réglementaire.", "english": "First, I will set out the regulatory context." },
+                { "french": "Nous verrons ensuite ce que révèlent les données de terrain.", "english": "We will then see what the field data reveals." },
+                { "french": "Je terminerai par quelques recommandations concrètes.", "english": "I will end with a few concrete recommendations." },
+                { "french": "Comme nous l'avons vu, le cadre juridique demeure flou.", "english": "As we have seen, the legal framework remains unclear.", "note": "closing reference back" },
+                { "french": "J'y reviendrai lors de la séance de questions.", "english": "I will come back to that during the question session.", "note": "y replaces sur ce point" }
+              ]
+            },
+            {
+              "heading": "Softening imperatives: politeness in the Q&A",
+              "body": "Bare imperatives sound harsh in formal exchanges. Use \"permettez-moi de\", \"je vous invite à\", \"n'hésitez pas à\", or conditional requests: \"pourriez-vous préciser... ?\". The conditional and the verb \"se permettre\" are the backbone of polite professional French.",
+              "examples": [
+                { "french": "Permettez-moi de reformuler votre question.", "english": "Allow me to rephrase your question." },
+                { "french": "Je vous invite à consulter le rapport complet en ligne.", "english": "I invite you to consult the full report online." },
+                { "french": "Pourriez-vous préciser ce que vous entendez par « rentabilité » ?", "english": "Could you clarify what you mean by \"profitability\"?" },
+                { "french": "N'hésitez pas à m'interrompre si un point manque de clarté.", "english": "Do not hesitate to interrupt me if a point lacks clarity." },
+                { "french": "Auriez-vous l'obligeance de répéter la seconde partie de votre question ?", "english": "Would you be so kind as to repeat the second part of your question?", "note": "very formal" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "c1_u01_l02_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. At which moment of the exposé would you hear this?",
+              "french": "Mon intervention s'articulera autour de trois axes.",
+              "options": ["The introduction", "The conclusion", "The question session", "A digression"],
+              "answer": "The introduction"
+            },
+            {
+              "id": "c1_u01_l02_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. What is the speaker doing?",
+              "french": "Si je comprends bien votre question, vous m'interrogez sur les coûts.",
+              "options": ["Reformulating a question", "Announcing the plan", "Concluding the talk", "Opening a digression"],
+              "answer": "Reformulating a question"
+            },
+            {
+              "id": "c1_u01_l02_li03",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Ceci m'amène tout naturellement à mon deuxième point.",
+              "answer": "Ceci m'amène tout naturellement à mon deuxième point.",
+              "acceptedAnswers": ["ceci m'amene tout naturellement a mon deuxieme point", "ceci mamene tout naturellement a mon deuxieme point"]
+            },
+            {
+              "id": "c1_u01_l02_li04",
+              "type": "dictation",
+              "prompt": "Dictation: write exactly what you hear.",
+              "french": "Pour récapituler, retenons trois idées essentielles.",
+              "answer": "Pour récapituler, retenons trois idées essentielles.",
+              "acceptedAnswers": ["pour recapituler retenons trois idees essentielles"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "c1_u01_l02_sp01",
+              "type": "speak",
+              "prompt": "Open a formal presentation.",
+              "french": "Mesdames, Messieurs, je vous remercie de votre présence.",
+              "english": "Ladies and gentlemen, thank you for being here.",
+              "tip": "Keep an even, measured rhythm: may-DAHM, may-SYUH — the plural endings are silent."
+            },
+            {
+              "id": "c1_u01_l02_sp02",
+              "type": "speak",
+              "prompt": "Make a smooth transition to your next point.",
+              "french": "Ceci m'amène tout naturellement à mon deuxième point.",
+              "english": "This brings me quite naturally to my second point.",
+              "tip": "Link \"m'amène\" as mah-MEN and glide through \"tout naturellement\" without pausing."
+            },
+            {
+              "id": "c1_u01_l02_sp03",
+              "type": "speak",
+              "prompt": "Politely ask a questioner for clarification.",
+              "french": "Pourriez-vous préciser ce que vous entendez par là ?",
+              "english": "Could you clarify what you mean by that?",
+              "tip": "The double r of \"pourriez\" is one sound: poo-RYAY. Rising intonation on \"là ?\"."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Le jour où j'ai raté ma soutenance (et ce que j'en ai appris)",
+              "french": "On m'avait pourtant prévenue : une soutenance ne s'improvise pas.\nJ'avais passé des semaines sur le fond, persuadée que la qualité de ma recherche parlerait d'elle-même.\nGrave erreur.\nLe jour venu, je me suis lancée sans annoncer mon plan, convaincue que le jury suivrait.\nAu bout de cinq minutes, la présidente a froncé les sourcils ; au bout de dix, elle consultait ses notes.\nMon débit, trop rapide, trahissait mon trac ; mes diapositives, surchargées, noyaient l'essentiel.\nPuis vint la séance de questions, et avec elle, la descente aux enfers.\nÀ la première objection, je me suis justifiée au lieu de reformuler ; à la deuxième, j'ai bluffé sur des chiffres que je n'avais pas.\nLe rapporteur, courtois mais implacable, a démonté ma réponse en trente secondes.\n« Mademoiselle, il n'y a aucune honte à dire qu'on ne sait pas », a-t-il conclu.\nCette phrase m'a poursuivie pendant des années — et elle a fait de moi une oratrice.\nDepuis, j'annonce toujours mon fil conducteur dès la première minute.\nJe ménage des silences, j'allège mes supports, je répète mes transitions à voix haute.\nSurtout, face à une question difficile, je commence par la reformuler : cela clarifie le débat et m'offre dix précieuses secondes.\nJ'ai soutenu depuis des dizaines de projets devant des comités exigeants.\nLe trac, lui, n'a jamais disparu ; j'ai simplement appris à en faire un allié.",
+              "english": "I had been warned, though: a thesis defence cannot be improvised.\nI had spent weeks on the substance, convinced that the quality of my research would speak for itself.\nSerious mistake.\nWhen the day came, I launched in without announcing my outline, convinced the panel would follow.\nAfter five minutes, the chairwoman frowned; after ten, she was consulting her notes.\nMy delivery, too fast, betrayed my stage fright; my slides, overloaded, drowned the essential.\nThen came the question session, and with it, the descent into hell.\nAt the first objection, I justified myself instead of rephrasing; at the second, I bluffed about figures I did not have.\nThe examiner, courteous but implacable, dismantled my answer in thirty seconds.\n\"Mademoiselle, there is no shame in saying that you do not know,\" he concluded.\nThat sentence haunted me for years — and it made me a public speaker.\nSince then, I always announce my guiding thread in the very first minute.\nI make deliberate pauses, I lighten my slides, I rehearse my transitions aloud.\nAbove all, faced with a difficult question, I start by rephrasing it: it clarifies the debate and buys me ten precious seconds.\nI have since defended dozens of projects before demanding committees.\nAs for stage fright, it never went away; I simply learned to make it an ally.",
+              "questions": [
+                {
+                  "id": "c1_u01_l02_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "What was the narrator's first structural mistake during the defence?",
+                  "options": ["She did not announce her plan", "She spoke too slowly", "She refused to answer questions", "She had no slides at all"],
+                  "answer": "She did not announce her plan"
+                },
+                {
+                  "id": "c1_u01_l02_rd02",
+                  "type": "multipleChoice",
+                  "prompt": "What technique does she now use when facing a difficult question?",
+                  "options": ["She rephrases it before answering", "She changes the subject", "She answers as fast as possible", "She asks the panel to skip it"],
+                  "answer": "She rephrases it before answering"
+                },
+                {
+                  "id": "c1_u01_l02_rd03",
+                  "type": "trueFalse",
+                  "prompt": "The narrator says her stage fright eventually disappeared completely.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "c1_u01_l02_wr01",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "My presentation will be organised around three main lines.",
+              "answer": "Mon exposé s'articulera autour de trois axes.",
+              "acceptedAnswers": ["mon expose s'articulera autour de trois axes", "mon expose sarticulera autour de trois axes", "mon intervention s'articulera autour de trois axes", "mon intervention sarticulera autour de trois axes"]
+            },
+            {
+              "id": "c1_u01_l02_wr02",
+              "type": "fillBlank",
+              "prompt": "Je me ___ de nuancer votre propos. (polite formula)",
+              "answer": "permets",
+              "acceptedAnswers": ["permets"]
+            },
+            {
+              "id": "c1_u01_l02_wr03",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "words": ["naturellement", "Ceci", "point", "à", "m'amène", "tout", "mon", "deuxième"],
+              "answer": "Ceci m'amène tout naturellement à mon deuxième point",
+              "english": "This brings me quite naturally to my second point"
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "c1_u01_l02_pr01",
+              "type": "multipleChoice",
+              "prompt": "A questioner is hostile and vague. Best first move?",
+              "options": ["Reformulate the question calmly", "Answer with more statistics immediately", "Ignore the question", "Admit defeat and sit down"],
+              "answer": "Reformulate the question calmly"
+            },
+            {
+              "id": "c1_u01_l02_pr02",
+              "type": "fillBlank",
+              "prompt": "Une question rhétorique ___ l'attention de l'auditoire. (captures)",
+              "answer": "capte",
+              "acceptedAnswers": ["capte"]
+            },
+            {
+              "id": "c1_u01_l02_pr03",
+              "type": "match",
+              "prompt": "Match each phrase with its function in a presentation.",
+              "pairs": [
+                { "french": "Mon exposé s'articulera autour de deux axes.", "english": "announcing the plan" },
+                { "french": "Ceci m'amène à mon second point.", "english": "transition" },
+                { "french": "Pour récapituler...", "english": "summing up" },
+                { "french": "C'est une excellente question.", "english": "buying time in the Q&A" }
+              ]
+            },
+            {
+              "id": "c1_u01_l02_pr04",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "I will come back to this figure in a moment.",
+              "answer": "Je reviendrai sur ce chiffre dans un instant.",
+              "acceptedAnswers": ["je reviendrai sur ce chiffre dans un instant"]
+            },
+            {
+              "id": "c1_u01_l02_pr05",
+              "type": "multipleChoice",
+              "prompt": "Which closing line is the most percutant for a formal talk?",
+              "options": ["Vous l'aurez compris : le statu quo n'est plus tenable.", "Bon, voilà, c'est tout.", "Je crois que j'ai fini, non ?", "Désolé, j'ai dépassé mon temps."],
+              "answer": "Vous l'aurez compris : le statu quo n'est plus tenable."
+            },
+            {
+              "id": "c1_u01_l02_pr06",
+              "type": "fillBlank",
+              "prompt": "Auriez-vous l'___ de répéter votre question ? (very formal politeness noun)",
+              "answer": "obligeance",
+              "acceptedAnswers": ["obligeance"]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "c1_u01_l02_qz01",
+              "type": "multipleChoice",
+              "prompt": "\"Le fil conducteur\" of a presentation is...",
+              "options": ["its guiding thread", "its opening joke", "its slide template", "its time limit"],
+              "answer": "its guiding thread"
+            },
+            {
+              "id": "c1_u01_l02_qz02",
+              "type": "multipleChoice",
+              "prompt": "Which tense do French speakers use to announce their roadmap?",
+              "options": ["The simple future", "The imperfect", "The passé simple", "The pluperfect"],
+              "answer": "The simple future"
+            },
+            {
+              "id": "c1_u01_l02_qz03",
+              "type": "fillBlank",
+              "prompt": "Même les orateurs chevronnés ont le ___ . (stage fright)",
+              "answer": "trac",
+              "acceptedAnswers": ["trac"]
+            },
+            {
+              "id": "c1_u01_l02_qz04",
+              "type": "multipleChoice",
+              "prompt": "You do not know the answer to a question. The recommended reaction is to...",
+              "options": ["acknowledge it and offer to follow up", "invent plausible figures", "repeat your conclusion", "end the session immediately"],
+              "answer": "acknowledge it and offer to follow up"
+            },
+            {
+              "id": "c1_u01_l02_qz05",
+              "type": "trueFalse",
+              "prompt": "\"Je me permets de nuancer votre propos\" is a polite way to disagree.",
+              "options": ["True", "False"],
+              "answer": "True"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1_u01_l03",
+      "level": "C1",
+      "unit": 1,
+      "title": "La langue soutenue",
+      "description": "Transform everyday French into the formal register: ne explétif, stylistic inversion, l'on, and the vocabulary of elegance.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "The three registers — and how to climb them",
+              "body": "French distinguishes registre familier (mates), registre courant (neutral) and registre soutenu (formal, written, ceremonial). Moving up means swapping vocabulary (bouquin → livre → ouvrage), restoring every \"ne\", avoiding \"ça\" in favour of \"cela\", and preferring nous to on. At C1 you are expected to switch registers deliberately, not by accident.",
+              "examples": [
+                { "french": "On a pas eu le temps de bosser là-dessus.", "english": "We didn't have time to work on it.", "note": "familier" },
+                { "french": "Nous n'avons pas eu le temps de travailler sur ce dossier.", "english": "We did not have time to work on this file.", "note": "courant" },
+                { "french": "Le temps nous a fait défaut pour étudier ce dossier.", "english": "Time was lacking for us to study this file.", "note": "soutenu" },
+                { "french": "C'est un truc compliqué. → Il s'agit d'une question complexe.", "english": "It's a complicated thing. → It is a complex question.", "note": "familier → soutenu" },
+                { "french": "Ça m'étonnerait. → Cela me surprendrait fort.", "english": "I doubt it. → That would greatly surprise me." }
+              ],
+              "tip": "Register mismatch is the most audible C1 mistake: one \"du coup\" in a formal letter undoes three paragraphs of elegance."
+            },
+            {
+              "heading": "Le ne explétif: the \"ne\" that negates nothing",
+              "body": "After verbs of fear (craindre, redouter), avant que, à moins que, and comparisons of inequality, formal French inserts a \"ne\" that carries no negative meaning. \"Je crains qu'il ne vienne\" means \"I fear he WILL come\". It is optional and belongs to careful speech — omitting it is fine in conversation, using it well is a badge of mastery.",
+              "examples": [
+                { "french": "Je crains que la situation ne s'aggrave.", "english": "I fear the situation will worsen.", "note": "no negation intended" },
+                { "french": "Partons avant qu'il ne pleuve.", "english": "Let us leave before it rains." },
+                { "french": "Le problème est plus grave qu'on ne le pense.", "english": "The problem is more serious than people think.", "note": "after comparison" },
+                { "french": "À moins que vous n'y voyiez un inconvénient, nous commencerons à neuf heures.", "english": "Unless you see an objection, we will start at nine." },
+                { "french": "Je redoute qu'il ne soit déjà trop tard.", "english": "I dread that it may already be too late." }
+              ],
+              "tip": "Test: if the English needs \"not\", the French needs \"ne... pas\". If the English is positive, that lone \"ne\" is explétif."
+            },
+            {
+              "heading": "Inversion and l'on: the polish of written French",
+              "body": "Beyond questions, formal French inverts subject and verb after adverbs like \"peut-être\", \"sans doute\", \"à peine\", \"aussi\" (= therefore), and in incidental clauses (précisa-t-elle). \"L'on\" is an elegant variant of \"on\" used after et, ou, où, que, si — mainly to avoid unpleasant vowel clashes.",
+              "examples": [
+                { "french": "Peut-être faudrait-il revoir cette hypothèse.", "english": "Perhaps this hypothesis should be revisited.", "note": "inversion after peut-être" },
+                { "french": "À peine le rapport fut-il publié que la polémique éclata.", "english": "Hardly had the report been published when the controversy erupted." },
+                { "french": "Aussi convient-il de rester prudent.", "english": "It is therefore advisable to remain cautious.", "note": "aussi = therefore + inversion" },
+                { "french": "C'est une erreur, précisa-t-elle, que nul n'avait remarquée.", "english": "It is a mistake, she pointed out, that no one had noticed.", "note": "incidental clause" },
+                { "french": "Si l'on en croit les experts, la reprise est proche.", "english": "If the experts are to be believed, the recovery is near.", "note": "l'on after si" },
+                { "french": "Encore eût-il fallu le prouver.", "english": "It would still have been necessary to prove it.", "note": "literary conditional passé 2e forme" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "le-registre", "french": "le registre", "english": "register (of language)", "partOfSpeech": "noun", "gender": "m", "plural": "registres", "pronunciation": "ruh-ZHEESTR", "example": "Adaptez votre registre à votre interlocuteur.", "exampleEnglish": "Adapt your register to the person you are speaking with.", "level": "C1", "category": "register" },
+            { "id": "soutenu", "french": "soutenu", "english": "formal, elevated (register)", "partOfSpeech": "adjective", "pronunciation": "soot-NU", "example": "Cette lettre est rédigée dans un registre soutenu.", "exampleEnglish": "This letter is written in a formal register.", "level": "C1", "category": "register" },
+            { "id": "familier", "french": "familier", "english": "informal, colloquial", "partOfSpeech": "adjective", "pronunciation": "fah-mee-LYAY", "example": "« Bouquin » est le mot familier pour « livre ».", "exampleEnglish": "\"Bouquin\" is the colloquial word for \"book\".", "level": "C1", "category": "register" },
+            { "id": "l-ouvrage", "french": "l'ouvrage", "english": "work, book (formal)", "partOfSpeech": "noun", "gender": "m", "plural": "ouvrages", "pronunciation": "oo-VRAHZH", "example": "Cet ouvrage fait autorité en la matière.", "exampleEnglish": "This work is the authority on the subject.", "level": "C1", "category": "register" },
+            { "id": "le-ne-expletif", "french": "le ne explétif", "english": "expletive ne (non-negative ne)", "partOfSpeech": "noun", "gender": "m", "plural": "ne explétifs", "pronunciation": "nuh ek-splay-TEEF", "example": "Le ne explétif apparaît après « avant que ».", "exampleEnglish": "The expletive ne appears after \"avant que\".", "level": "C1", "category": "register" },
+            { "id": "l-inversion", "french": "l'inversion", "english": "inversion (subject-verb)", "partOfSpeech": "noun", "gender": "f", "plural": "inversions", "pronunciation": "an-vehr-SYON", "example": "L'inversion après « peut-être » relève du style soutenu.", "exampleEnglish": "Inversion after \"peut-être\" belongs to formal style.", "level": "C1", "category": "register" },
+            { "id": "craindre", "french": "craindre", "english": "to fear", "partOfSpeech": "verb", "pronunciation": "KRANDR", "example": "Je crains que le délai ne soit trop court.", "exampleEnglish": "I fear the deadline may be too short.", "level": "C1", "category": "register" },
+            { "id": "redouter", "french": "redouter", "english": "to dread", "partOfSpeech": "verb", "pronunciation": "ruh-doo-TAY", "example": "Nous redoutons que la crise ne s'étende.", "exampleEnglish": "We dread that the crisis may spread.", "level": "C1", "category": "register" },
+            { "id": "s-averer", "french": "s'avérer", "english": "to turn out to be, to prove to be", "partOfSpeech": "verb", "pronunciation": "sah-vay-RAY", "example": "Cette hypothèse s'est avérée exacte.", "exampleEnglish": "This hypothesis turned out to be correct.", "level": "C1", "category": "register" },
+            { "id": "s-abstenir", "french": "s'abstenir", "english": "to refrain, to abstain", "partOfSpeech": "verb", "pronunciation": "sab-stuh-NEER", "example": "Le ministre s'est abstenu de tout commentaire.", "exampleEnglish": "The minister refrained from any comment.", "level": "C1", "category": "register" },
+            { "id": "convier", "french": "convier", "english": "to invite (formal)", "partOfSpeech": "verb", "pronunciation": "kon-VYAY", "example": "Vous êtes conviés à la cérémonie d'ouverture.", "exampleEnglish": "You are invited to the opening ceremony.", "level": "C1", "category": "register" },
+            { "id": "solliciter", "french": "solliciter", "english": "to request, to solicit (formal)", "partOfSpeech": "verb", "pronunciation": "so-lee-see-TAY", "example": "Je sollicite un entretien auprès de la direction.", "exampleEnglish": "I am requesting a meeting with the management.", "level": "C1", "category": "register" },
+            { "id": "requerir", "french": "requérir", "english": "to require, to call for (formal)", "partOfSpeech": "verb", "pronunciation": "ruh-kay-REER", "example": "Cette procédure requiert la plus grande rigueur.", "exampleEnglish": "This procedure requires the utmost rigour.", "level": "C1", "category": "register" },
+            { "id": "oeuvrer", "french": "œuvrer", "english": "to work, to strive (formal)", "partOfSpeech": "verb", "pronunciation": "uh-VRAY", "example": "L'association œuvre pour l'accès à l'éducation.", "exampleEnglish": "The association works for access to education.", "level": "C1", "category": "register" },
+            { "id": "demeurer", "french": "demeurer", "english": "to remain (formal)", "partOfSpeech": "verb", "pronunciation": "duh-muh-RAY", "example": "La question demeure entière.", "exampleEnglish": "The question remains wide open.", "level": "C1", "category": "register" },
+            { "id": "faire-defaut", "french": "faire défaut", "english": "to be lacking", "partOfSpeech": "expression", "pronunciation": "fehr day-FOH", "example": "Les moyens financiers nous font défaut.", "exampleEnglish": "We lack the financial means.", "level": "C1", "category": "register" },
+            { "id": "autrui", "french": "autrui", "english": "others, other people (formal)", "partOfSpeech": "pronoun", "pronunciation": "oh-TRWEE", "example": "Le respect d'autrui est le fondement de la vie en société.", "exampleEnglish": "Respect for others is the foundation of life in society.", "level": "C1", "category": "register" },
+            { "id": "quiconque", "french": "quiconque", "english": "whoever, anyone who", "partOfSpeech": "pronoun", "pronunciation": "kee-KONK", "example": "Quiconque enfreint le règlement s'expose à des sanctions.", "exampleEnglish": "Whoever breaks the rules is liable to sanctions.", "level": "C1", "category": "register" },
+            { "id": "nul-pronoun", "french": "nul", "english": "no one (formal pronoun)", "partOfSpeech": "pronoun", "pronunciation": "nul", "example": "Nul n'est censé ignorer la loi.", "exampleEnglish": "No one is supposed to be ignorant of the law.", "level": "C1", "category": "register" },
+            { "id": "jadis", "french": "jadis", "english": "in olden days, long ago", "partOfSpeech": "adverb", "pronunciation": "zhah-DEES", "example": "Jadis, ce quartier abritait des ateliers d'artisans.", "exampleEnglish": "Long ago, this district housed craftsmen's workshops.", "level": "C1", "category": "register" },
+            { "id": "naguere", "french": "naguère", "english": "not long ago, formerly", "partOfSpeech": "adverb", "pronunciation": "nah-GEHR", "example": "Cette pratique, naguère courante, a presque disparu.", "exampleEnglish": "This practice, common not long ago, has almost disappeared.", "level": "C1", "category": "register" },
+            { "id": "dorenavant", "french": "dorénavant", "english": "from now on, henceforth", "partOfSpeech": "adverb", "pronunciation": "do-ray-nah-VAHN", "example": "Dorénavant, les demandes se feront en ligne.", "exampleEnglish": "From now on, requests will be made online.", "level": "C1", "category": "register" },
+            { "id": "en-outre", "french": "en outre", "english": "moreover, furthermore", "partOfSpeech": "expression", "pronunciation": "ahn NOOTR", "example": "Le projet est coûteux ; il est en outre juridiquement fragile.", "exampleEnglish": "The project is costly; it is moreover legally fragile.", "level": "C1", "category": "register" },
+            { "id": "guere", "french": "ne... guère", "english": "hardly, scarcely", "partOfSpeech": "adverb", "pronunciation": "gehr", "example": "Cette explication ne convainc guère.", "exampleEnglish": "This explanation is hardly convincing.", "level": "C1", "category": "register" },
+            { "id": "maints", "french": "maints", "english": "many a, numerous (literary)", "partOfSpeech": "adjective", "pronunciation": "man", "example": "Il a été mis en garde à maintes reprises.", "exampleEnglish": "He was warned on many occasions.", "level": "C1", "category": "register" },
+            { "id": "veuillez", "french": "veuillez", "english": "please, kindly (formal imperative of vouloir)", "partOfSpeech": "expression", "pronunciation": "vuh-YAY", "example": "Veuillez agréer, Madame, l'expression de mes salutations distinguées.", "exampleEnglish": "Please accept, Madam, the expression of my distinguished greetings.", "level": "C1", "category": "register" },
+            { "id": "ci-joint", "french": "ci-joint", "english": "attached, enclosed", "partOfSpeech": "adjective", "pronunciation": "see-ZHWAN", "example": "Vous trouverez ci-joint le compte rendu de la réunion.", "exampleEnglish": "You will find attached the minutes of the meeting.", "level": "C1", "category": "register" },
+            { "id": "l-echeance", "french": "l'échéance", "english": "deadline, due date", "partOfSpeech": "noun", "gender": "f", "plural": "échéances", "pronunciation": "ay-shay-AHNS", "example": "Le rapport doit être remis avant l'échéance du 30 juin.", "exampleEnglish": "The report must be submitted before the June 30th deadline.", "level": "C1", "category": "register" },
+            { "id": "l-entretien", "french": "l'entretien", "english": "interview, formal meeting", "partOfSpeech": "noun", "gender": "m", "plural": "entretiens", "pronunciation": "ahn-truh-TYAN", "example": "Elle a obtenu un entretien avec le directeur.", "exampleEnglish": "She obtained a meeting with the director.", "level": "C1", "category": "register" },
+            { "id": "le-compte-rendu", "french": "le compte rendu", "english": "minutes, written report", "partOfSpeech": "noun", "gender": "m", "plural": "comptes rendus", "pronunciation": "kont rahn-DU", "example": "Le compte rendu sera diffusé à l'ensemble des participants.", "exampleEnglish": "The minutes will be circulated to all participants.", "level": "C1", "category": "register" },
+            { "id": "s-aggraver", "french": "s'aggraver", "english": "to worsen", "partOfSpeech": "verb", "pronunciation": "sah-grah-VAY", "example": "Je crains que le déficit ne s'aggrave.", "exampleEnglish": "I fear the deficit may worsen.", "level": "C1", "category": "register" },
+            { "id": "enfreindre", "french": "enfreindre", "english": "to infringe, to break (a rule)", "partOfSpeech": "verb", "pronunciation": "ahn-FRANDR", "example": "Quiconque enfreint cette clause devra des dommages et intérêts.", "exampleEnglish": "Whoever infringes this clause will owe damages.", "level": "C1", "category": "register" },
+            { "id": "sans-doute-inversion", "french": "sans doute", "english": "probably, no doubt (triggers inversion)", "partOfSpeech": "expression", "pronunciation": "sahn DOOT", "example": "Sans doute la réponse se trouve-t-elle ailleurs.", "exampleEnglish": "No doubt the answer lies elsewhere.", "level": "C1", "category": "register" },
+            { "id": "a-peine", "french": "à peine", "english": "hardly, scarcely (triggers inversion)", "partOfSpeech": "expression", "pronunciation": "ah PEN", "example": "À peine avait-elle terminé que les applaudissements éclatèrent.", "exampleEnglish": "She had hardly finished when the applause broke out.", "level": "C1", "category": "register" },
+            { "id": "le-cas-echeant", "french": "le cas échéant", "english": "if need be, where applicable", "partOfSpeech": "expression", "pronunciation": "luh kah ay-shay-AHN", "example": "Le cas échéant, une seconde réunion sera organisée.", "exampleEnglish": "If need be, a second meeting will be organised.", "level": "C1", "category": "register" },
+            { "id": "il-s-agit-de", "french": "il s'agit de", "english": "it is a matter of, it concerns", "partOfSpeech": "expression", "pronunciation": "eel sah-ZHEE duh", "example": "Il s'agit d'une question particulièrement délicate.", "exampleEnglish": "It is a particularly delicate question.", "level": "C1", "category": "register" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Where exactly does the ne explétif appear?",
+              "body": "Memorise the triggers: verbs of fear in the affirmative (craindre, redouter, avoir peur que), avant que, à moins que, de crainte que / de peur que, and comparisons of inequality (plus... que, moins... que, autre... que). It never appears after \"après que\" and disappears when the fear verb is negated: \"Je ne crains pas qu'il vienne.\"",
+              "examples": [
+                { "french": "De peur que la nouvelle ne s'ébruite, ils ont gardé le silence.", "english": "For fear that the news might get out, they kept silent." },
+                { "french": "Elle est plus douée qu'elle ne le croit.", "english": "She is more gifted than she believes." },
+                { "french": "Je ne crains pas qu'il vienne.", "english": "I am not afraid that he will come.", "note": "negated fear verb: no ne explétif" },
+                { "french": "Réglons ce différend à l'amiable, à moins que vous ne préfériez la voie judiciaire.", "english": "Let us settle this dispute amicably, unless you prefer legal proceedings." },
+                { "french": "Le résultat est tout autre qu'on ne l'espérait.", "english": "The result is quite different from what was hoped." }
+              ]
+            },
+            {
+              "heading": "Formal inversion patterns",
+              "body": "Three productive patterns: (1) sentence-initial adverbs — peut-être, sans doute, à peine, aussi, encore — pull the subject behind the verb; (2) incidental reporting clauses invert (affirma-t-il, précisa-t-elle); (3) in relative clauses, a noun subject may follow the verb for balance: \"le rapport que publie le ministère\". With a pronoun subject, add -t- between vowels: \"peut-être a-t-elle raison\".",
+              "examples": [
+                { "french": "Sans doute cette décision paraîtra-t-elle sévère.", "english": "No doubt this decision will seem harsh." },
+                { "french": "« Rien n'est perdu », affirma-t-il avec calme.", "english": "\"Nothing is lost,\" he asserted calmly." },
+                { "french": "Telle est la conclusion que propose le rapport.", "english": "Such is the conclusion the report proposes.", "note": "inversion in the relative clause" },
+                { "french": "Encore faut-il que le budget soit voté.", "english": "The budget still has to be passed." },
+                { "french": "Peut-être l'on découvrira-t-on un jour la vérité. → Peut-être découvrira-t-on un jour la vérité.", "english": "Perhaps the truth will be discovered one day.", "note": "one inversion only — do not double up" }
+              ],
+              "tip": "If the inversion feels heavy, formal French offers an escape hatch: \"peut-être que\" + normal order. Elegant writers use both."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "c1_u01_l03_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. Does the \"ne\" express a negation?",
+              "french": "Je crains que la situation ne s'aggrave.",
+              "options": ["No — it is a ne explétif", "Yes — the situation will not worsen"],
+              "answer": "No — it is a ne explétif"
+            },
+            {
+              "id": "c1_u01_l03_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. Which register is this?",
+              "french": "Le temps nous a fait défaut pour étudier ce dossier.",
+              "options": ["Soutenu", "Familier", "Argot", "Courant"],
+              "answer": "Soutenu"
+            },
+            {
+              "id": "c1_u01_l03_li03",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Peut-être faudrait-il revoir cette hypothèse.",
+              "answer": "Peut-être faudrait-il revoir cette hypothèse.",
+              "acceptedAnswers": ["peut-etre faudrait-il revoir cette hypothese", "peut etre faudrait il revoir cette hypothese"]
+            },
+            {
+              "id": "c1_u01_l03_li04",
+              "type": "dictation",
+              "prompt": "Dictation: write exactly what you hear.",
+              "french": "Si l'on en croit les experts, la reprise est proche.",
+              "answer": "Si l'on en croit les experts, la reprise est proche.",
+              "acceptedAnswers": ["si l'on en croit les experts la reprise est proche", "si lon en croit les experts la reprise est proche"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "c1_u01_l03_sp01",
+              "type": "speak",
+              "prompt": "Express a formal fear with the ne explétif.",
+              "french": "Je crains que le délai ne soit trop court.",
+              "english": "I fear the deadline may be too short.",
+              "tip": "The \"ne\" is unstressed and glides into \"soit\": nuh-SWAH. Do not pause before it."
+            },
+            {
+              "id": "c1_u01_l03_sp02",
+              "type": "speak",
+              "prompt": "Use formal inversion after \"sans doute\".",
+              "french": "Sans doute la réponse se trouve-t-elle ailleurs.",
+              "english": "No doubt the answer lies elsewhere.",
+              "tip": "Link \"trouve-t-elle\" as troov-TEL — the -t- is pronounced, the two words fuse."
+            },
+            {
+              "id": "c1_u01_l03_sp03",
+              "type": "speak",
+              "prompt": "Close a formal letter aloud.",
+              "french": "Veuillez agréer, Madame, l'expression de mes salutations distinguées.",
+              "english": "Please accept, Madam, the expression of my distinguished greetings.",
+              "tip": "\"Veuillez\" is vuh-YAY; keep an even, unhurried rhythm to the very end of the formula."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Lettre au maire : un exercice de style",
+              "french": "Monsieur le Maire,\nJe me permets de solliciter votre attention au sujet du projet d'aménagement du quartier des Tanneurs.\nRésidente de la rue des Remparts depuis plus de vingt ans, je suis ce dossier avec la plus grande vigilance.\nJadis paisible, notre quartier subit dorénavant les nuisances d'un chantier dont nul ne semble maîtriser le calendrier.\nJe crains, en outre, que la circulation ne s'aggrave considérablement une fois les travaux achevés.\nLes riverains, que l'on n'a guère consultés, découvrent les décisions dans la presse locale.\nForce est de constater que la concertation promise a fait défaut.\nSans doute m'objecterez-vous que l'intérêt général commande d'agir vite.\nJe l'entends volontiers ; encore faut-il que la précipitation ne se fasse pas au détriment des habitants.\nÀ moins que la municipalité ne prévoie des mesures d'accompagnement, la colère du quartier ira croissant.\nAussi convient-il, me semble-t-il, d'organiser sans tarder une réunion publique.\nQuiconque connaît notre quartier sait combien ses habitants sont attachés au dialogue.\nJe vous serais reconnaissante de bien vouloir m'indiquer les suites que vous entendez donner à cette demande.\nVous trouverez ci-joint une pétition rassemblant deux cent quarante signatures.\nDans l'attente de votre réponse, je demeure à votre disposition pour tout entretien que vous jugeriez utile.\nVeuillez agréer, Monsieur le Maire, l'expression de ma considération distinguée.\nJeanne Maréchal",
+              "english": "Dear Mayor,\nI take the liberty of drawing your attention to the development project for the Tanneurs district.\nA resident of the rue des Remparts for more than twenty years, I am following this matter with the greatest vigilance.\nOnce peaceful, our district now suffers the disturbances of a building site whose schedule no one seems to control.\nI fear, moreover, that traffic will worsen considerably once the works are finished.\nLocal residents, who were hardly consulted, learn of decisions in the local press.\nOne is forced to note that the promised consultation has been lacking.\nNo doubt you will object that the general interest demands swift action.\nI readily accept that; but haste must still not come at the residents' expense.\nUnless the town council provides supporting measures, the district's anger will keep growing.\nIt is therefore advisable, it seems to me, to organise a public meeting without delay.\nWhoever knows our district knows how attached its inhabitants are to dialogue.\nI would be grateful if you would let me know what follow-up you intend to give this request.\nYou will find attached a petition gathering two hundred and forty signatures.\nAwaiting your reply, I remain at your disposal for any meeting you may deem useful.\nPlease accept, Mr Mayor, the expression of my distinguished consideration.\nJeanne Maréchal",
+              "questions": [
+                {
+                  "id": "c1_u01_l03_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "In \"je crains que la circulation ne s'aggrave\", the \"ne\" is...",
+                  "options": ["a ne explétif — no negation intended", "a full negation", "a typographical error", "part of \"ne... guère\""],
+                  "answer": "a ne explétif — no negation intended"
+                },
+                {
+                  "id": "c1_u01_l03_rd02",
+                  "type": "multipleChoice",
+                  "prompt": "What concrete action does the letter request?",
+                  "options": ["A public meeting without delay", "Stopping the works permanently", "Financial compensation for residents", "The mayor's resignation"],
+                  "answer": "A public meeting without delay"
+                },
+                {
+                  "id": "c1_u01_l03_rd03",
+                  "type": "trueFalse",
+                  "prompt": "\"Sans doute m'objecterez-vous\" uses formal subject-verb inversion.",
+                  "options": ["True", "False"],
+                  "answer": "True"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "c1_u01_l03_wr01",
+              "type": "fillBlank",
+              "prompt": "Partons avant qu'il ___ pleuve. (ne explétif)",
+              "answer": "ne",
+              "acceptedAnswers": ["ne"]
+            },
+            {
+              "id": "c1_u01_l03_wr02",
+              "type": "translate",
+              "prompt": "Translate into French using a formal verb.",
+              "english": "I am requesting a meeting with the management.",
+              "answer": "Je sollicite un entretien auprès de la direction.",
+              "acceptedAnswers": ["je sollicite un entretien aupres de la direction", "je sollicite un entretien avec la direction"]
+            },
+            {
+              "id": "c1_u01_l03_wr03",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order (formal inversion).",
+              "words": ["revoir", "Peut-être", "cette", "faudrait-il", "hypothèse"],
+              "answer": "Peut-être faudrait-il revoir cette hypothèse",
+              "english": "Perhaps this hypothesis should be revisited"
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "c1_u01_l03_pr01",
+              "type": "multipleChoice",
+              "prompt": "Choose the registre soutenu version of \"On a pas eu le temps de bosser là-dessus.\"",
+              "options": ["Le temps nous a fait défaut pour étudier ce dossier.", "On n'a pas eu le temps de travailler dessus.", "Pas le temps, désolé.", "On a zappé ce truc."],
+              "answer": "Le temps nous a fait défaut pour étudier ce dossier."
+            },
+            {
+              "id": "c1_u01_l03_pr02",
+              "type": "multipleChoice",
+              "prompt": "In which sentence is the \"ne\" explétif?",
+              "options": ["Elle est plus douée qu'elle ne le croit.", "Il ne viendra pas demain.", "Nous ne savons rien.", "Je ne crains pas cet examen."],
+              "answer": "Elle est plus douée qu'elle ne le croit."
+            },
+            {
+              "id": "c1_u01_l03_pr03",
+              "type": "fillBlank",
+              "prompt": "Si ___ en croit les experts, la reprise est proche. (elegant variant of \"on\")",
+              "answer": "l'on",
+              "acceptedAnswers": ["l'on", "lon"]
+            },
+            {
+              "id": "c1_u01_l03_pr04",
+              "type": "match",
+              "prompt": "Match each everyday word with its formal equivalent.",
+              "pairs": [
+                { "french": "bouquin", "english": "ouvrage" },
+                { "french": "boulot", "english": "emploi" },
+                { "french": "les gens", "english": "autrui" },
+                { "french": "avant", "english": "jadis" }
+              ]
+            },
+            {
+              "id": "c1_u01_l03_pr05",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "Whoever breaks the rules is liable to sanctions.",
+              "answer": "Quiconque enfreint le règlement s'expose à des sanctions.",
+              "acceptedAnswers": ["quiconque enfreint le reglement s'expose a des sanctions", "quiconque enfreint le reglement sexpose a des sanctions"]
+            },
+            {
+              "id": "c1_u01_l03_pr06",
+              "type": "fillBlank",
+              "prompt": "À peine avait-elle terminé ___ les applaudissements éclatèrent.",
+              "answer": "que",
+              "acceptedAnswers": ["que"]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "c1_u01_l03_qz01",
+              "type": "multipleChoice",
+              "prompt": "\"Je crains qu'il ne vienne\" means...",
+              "options": ["I fear he will come", "I fear he will not come", "I hope he will come", "I forbid him to come"],
+              "answer": "I fear he will come"
+            },
+            {
+              "id": "c1_u01_l03_qz02",
+              "type": "multipleChoice",
+              "prompt": "After which word does formal French use \"l'on\" instead of \"on\"?",
+              "options": ["si", "mais", "car", "donc"],
+              "answer": "si"
+            },
+            {
+              "id": "c1_u01_l03_qz03",
+              "type": "fillBlank",
+              "prompt": "Sans doute cette décision paraîtra-t-___ sévère. (inversion pronoun)",
+              "answer": "elle",
+              "acceptedAnswers": ["elle"]
+            },
+            {
+              "id": "c1_u01_l03_qz04",
+              "type": "multipleChoice",
+              "prompt": "Which sentence belongs to the registre soutenu?",
+              "options": ["Nous vous saurions gré de nous répondre sous huitaine.", "Répondez-nous vite, merci !", "Tu peux me répondre rapido ?", "On attend ta réponse, c'est urgent."],
+              "answer": "Nous vous saurions gré de nous répondre sous huitaine."
+            },
+            {
+              "id": "c1_u01_l03_qz05",
+              "type": "trueFalse",
+              "prompt": "The ne explétif also appears after \"après que\".",
+              "options": ["True", "False"],
+              "answer": "False"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

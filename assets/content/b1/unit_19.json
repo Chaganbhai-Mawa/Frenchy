@@ -1,0 +1,1043 @@
+{
+  "id": "b1_u19",
+  "level": "B1",
+  "unit": 19,
+  "title": "Politics & Citizenship",
+  "subtitle": "Vote, discuss the big questions, and get involved locally",
+  "icon": "🗳️",
+  "lessons": [
+    {
+      "id": "b1_u19_l01",
+      "level": "B1",
+      "unit": 19,
+      "title": "Voter",
+      "description": "How elections work in practice in France: registering, the polling station, the two rounds, and the words you hear on election night.",
+      "estimatedMinutes": 18,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Le vocabulaire de base",
+              "body": "An election is une élection; the voting process itself is le scrutin. The people who vote are les électeurs, and each one has une voix — literally a voice, but here it means one vote. Someone who stands for election is un candidat or une candidate, and the period before the vote is la campagne électorale.",
+              "examples": [
+                { "french": "L'élection a lieu dimanche prochain.", "english": "The election takes place next Sunday." },
+                { "french": "Le scrutin ouvre à huit heures et ferme à vingt heures.", "english": "The poll opens at eight and closes at eight in the evening." },
+                { "french": "Trois candidats se présentent dans notre commune.", "english": "Three candidates are running in our town." },
+                { "french": "Elle a obtenu plus de mille voix.", "english": "She got more than a thousand votes." },
+                { "french": "La campagne électorale dure deux semaines.", "english": "The election campaign lasts two weeks." }
+              ],
+              "tip": "Un vote is the act of voting; une voix is one single vote counted for someone. « Il a eu 500 voix » — not « 500 votes »."
+            },
+            {
+              "heading": "Comment on vote, concrètement",
+              "body": "To vote you must be on la liste électorale — you register once at la mairie. On the day you go to your bureau de vote with une pièce d'identité, take a bulletin de vote for each candidate, step into l'isoloir to choose in secret, then drop your envelope into l'urne. The clerk says the ritual phrase « A voté ! »",
+              "examples": [
+                { "french": "Je me suis inscrit sur la liste électorale l'année dernière.", "english": "I registered on the electoral roll last year." },
+                { "french": "N'oublie pas ta pièce d'identité et ta carte d'électeur.", "english": "Don't forget your ID and your voter card." },
+                { "french": "On prend plusieurs bulletins, puis on passe par l'isoloir.", "english": "You take several ballot papers, then you go through the voting booth." },
+                { "french": "Il a glissé son enveloppe dans l'urne.", "english": "He slipped his envelope into the ballot box." },
+                { "french": "Si tu es absent, tu peux faire une procuration.", "english": "If you're away, you can arrange a proxy vote." }
+              ],
+              "tip": "You always take at least two bulletins into the isoloir, even if you already know your choice — it keeps your vote secret."
+            },
+            {
+              "heading": "Les deux tours et les résultats",
+              "body": "Most French elections have two rounds. If nobody wins la majorité absolue au premier tour, the leading candidates go through to le second tour two weeks later. After the polls close comes le dépouillement, the counting, and the results arrive in the evening. Journalists also talk about le taux de participation and l'abstention.",
+              "examples": [
+                { "french": "Personne n'a la majorité au premier tour.", "english": "Nobody has a majority in the first round." },
+                { "french": "Les deux premiers sont qualifiés pour le second tour.", "english": "The top two go through to the second round." },
+                { "french": "Le dépouillement commence dès la fermeture du bureau de vote.", "english": "The count begins as soon as the polling station closes." },
+                { "french": "Le taux de participation était de soixante pour cent.", "english": "Turnout was sixty per cent." },
+                { "french": "Les résultats sont annoncés vers vingt heures.", "english": "The results are announced around eight in the evening." }
+              ],
+              "tip": "In this unit all parties and candidates are invented. Learn the vocabulary, keep your own opinions for the café !"
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "voter", "french": "voter", "english": "to vote", "partOfSpeech": "verb", "pronunciation": "vo-tay", "example": "Je vote toujours le dimanche matin.", "exampleEnglish": "I always vote on Sunday morning.", "level": "B1", "category": "elections" },
+            { "id": "election", "french": "l'élection", "english": "the election", "partOfSpeech": "noun", "gender": "f", "plural": "les élections", "pronunciation": "ay-lek-syon", "example": "L'élection municipale a lieu au printemps.", "exampleEnglish": "The local election takes place in spring.", "level": "B1", "category": "elections" },
+            { "id": "scrutin", "french": "le scrutin", "english": "the ballot, the poll", "partOfSpeech": "noun", "gender": "m", "plural": "les scrutins", "pronunciation": "skrü-tan", "example": "Le scrutin est ouvert jusqu'à vingt heures.", "exampleEnglish": "The poll is open until eight in the evening.", "level": "B1", "category": "elections" },
+            { "id": "le-suffrage", "french": "le suffrage", "english": "the suffrage, the vote (cast)", "partOfSpeech": "noun", "gender": "m", "plural": "les suffrages", "pronunciation": "sü-frazh", "example": "Le maire est élu au suffrage universel.", "exampleEnglish": "The mayor is elected by universal suffrage.", "level": "B1", "category": "elections" },
+            { "id": "mandat", "french": "le mandat", "english": "the term of office, the mandate", "partOfSpeech": "noun", "gender": "m", "plural": "les mandats", "pronunciation": "man-da", "example": "Son mandat dure six ans.", "exampleEnglish": "Her term of office lasts six years.", "level": "B1", "category": "institutions" },
+            { "id": "mairie", "french": "la mairie", "english": "the town hall", "partOfSpeech": "noun", "gender": "f", "plural": "les mairies", "pronunciation": "meh-ree", "example": "Il faut s'inscrire à la mairie de son quartier.", "exampleEnglish": "You have to register at your local town hall.", "level": "B1", "category": "institutions" },
+            { "id": "le-maire", "french": "le maire", "english": "the mayor", "partOfSpeech": "noun", "gender": "m", "plural": "les maires", "pronunciation": "mehr", "example": "Le maire reçoit les habitants le mardi.", "exampleEnglish": "The mayor sees residents on Tuesdays.", "level": "B1", "category": "institutions" },
+            { "id": "commune", "french": "la commune", "english": "the municipality, the town", "partOfSpeech": "noun", "gender": "f", "plural": "les communes", "pronunciation": "ko-mün", "example": "Notre commune compte trois mille habitants.", "exampleEnglish": "Our municipality has three thousand inhabitants.", "level": "B1", "category": "institutions" },
+            { "id": "conseil-municipal", "french": "le conseil municipal", "english": "the town council", "partOfSpeech": "noun", "gender": "m", "plural": "les conseils municipaux", "pronunciation": "kon-sey mü-nee-see-pal", "example": "Le conseil municipal se réunit une fois par mois.", "exampleEnglish": "The town council meets once a month.", "level": "B1", "category": "institutions" },
+            { "id": "le-depute", "french": "le député", "english": "the member of parliament", "partOfSpeech": "noun", "gender": "m", "plural": "les députés", "pronunciation": "day-pü-tay", "example": "Le député de notre circonscription tient une permanence.", "exampleEnglish": "The MP for our constituency holds a drop-in surgery.", "level": "B1", "category": "institutions" },
+            { "id": "l-electeur", "french": "l'électeur", "english": "the voter", "partOfSpeech": "noun", "gender": "m", "plural": "les électeurs", "pronunciation": "ay-lek-teur", "example": "Les électeurs sont venus nombreux ce matin.", "exampleEnglish": "Voters turned out in large numbers this morning.", "level": "B1", "category": "elections" },
+            { "id": "le-citoyen", "french": "le citoyen", "english": "the citizen", "partOfSpeech": "noun", "gender": "m", "plural": "les citoyens", "pronunciation": "see-twa-yan", "example": "Chaque citoyen majeur peut voter.", "exampleEnglish": "Every adult citizen can vote.", "level": "B1", "category": "civics" },
+            { "id": "le-droit-de-vote", "french": "le droit de vote", "english": "the right to vote", "partOfSpeech": "noun", "gender": "m", "plural": "les droits de vote", "pronunciation": "drwa deu vot", "example": "Le droit de vote s'exerce à partir de dix-huit ans.", "exampleEnglish": "The right to vote applies from the age of eighteen.", "level": "B1", "category": "civics" },
+            { "id": "la-liste-electorale", "french": "la liste électorale", "english": "the electoral roll", "partOfSpeech": "noun", "gender": "f", "plural": "les listes électorales", "pronunciation": "leest ay-lek-to-ral", "example": "Vérifie que tu es bien sur la liste électorale.", "exampleEnglish": "Check that you really are on the electoral roll.", "level": "B1", "category": "elections" },
+            { "id": "s-inscrire", "french": "s'inscrire", "english": "to register, to sign up", "partOfSpeech": "verb", "pronunciation": "san-skreer", "example": "On peut s'inscrire en ligne ou à la mairie.", "exampleEnglish": "You can register online or at the town hall.", "level": "B1", "category": "elections" },
+            { "id": "le-bureau-de-vote", "french": "le bureau de vote", "english": "the polling station", "partOfSpeech": "noun", "gender": "m", "plural": "les bureaux de vote", "pronunciation": "bü-ro deu vot", "example": "Mon bureau de vote est dans l'école du quartier.", "exampleEnglish": "My polling station is in the local school.", "level": "B1", "category": "elections" },
+            { "id": "la-piece-didentite", "french": "la pièce d'identité", "english": "the identity document", "partOfSpeech": "noun", "gender": "f", "plural": "les pièces d'identité", "pronunciation": "pyess dee-dan-tee-tay", "example": "Sans pièce d'identité, on ne peut pas voter.", "exampleEnglish": "Without an ID document you can't vote.", "level": "B1", "category": "elections" },
+            { "id": "l-isoloir", "french": "l'isoloir", "english": "the voting booth", "partOfSpeech": "noun", "gender": "m", "plural": "les isoloirs", "pronunciation": "ee-zo-lwar", "example": "Le passage par l'isoloir est obligatoire.", "exampleEnglish": "Going through the voting booth is compulsory.", "level": "B1", "category": "elections" },
+            { "id": "bulletin-de-vote", "french": "le bulletin de vote", "english": "the ballot paper", "partOfSpeech": "noun", "gender": "m", "plural": "les bulletins de vote", "pronunciation": "bül-tan deu vot", "example": "Prends deux bulletins de vote au moins.", "exampleEnglish": "Take at least two ballot papers.", "level": "B1", "category": "elections" },
+            { "id": "urne", "french": "l'urne", "english": "the ballot box", "partOfSpeech": "noun", "gender": "f", "plural": "les urnes", "pronunciation": "ürn", "example": "Elle a mis son enveloppe dans l'urne.", "exampleEnglish": "She put her envelope in the ballot box.", "level": "B1", "category": "elections" },
+            { "id": "la-voix", "french": "la voix", "english": "the vote (cast for someone), the voice", "partOfSpeech": "noun", "gender": "f", "plural": "les voix", "pronunciation": "vwa", "example": "Il lui manque cent voix pour gagner.", "exampleEnglish": "He is a hundred votes short of winning.", "level": "B1", "category": "elections" },
+            { "id": "la-procuration", "french": "la procuration", "english": "the proxy vote", "partOfSpeech": "noun", "gender": "f", "plural": "les procurations", "pronunciation": "pro-kü-ra-syon", "example": "J'ai donné procuration à ma voisine.", "exampleEnglish": "I gave my neighbour my proxy.", "level": "B1", "category": "elections" },
+            { "id": "le-candidat", "french": "le candidat", "english": "the candidate (m)", "partOfSpeech": "noun", "gender": "m", "plural": "les candidats", "pronunciation": "kan-dee-da", "example": "Ce candidat défend surtout les transports en commun.", "exampleEnglish": "This candidate mainly argues for public transport.", "level": "B1", "category": "elections" },
+            { "id": "la-candidate", "french": "la candidate", "english": "the candidate (f)", "partOfSpeech": "noun", "gender": "f", "plural": "les candidates", "pronunciation": "kan-dee-dat", "example": "La candidate a présenté son programme hier.", "exampleEnglish": "The candidate presented her manifesto yesterday.", "level": "B1", "category": "elections" },
+            { "id": "se-presenter-aux-elections", "french": "se présenter aux élections", "english": "to stand for election, to run", "partOfSpeech": "expression", "pronunciation": "seu pray-zan-tay o zay-lek-syon", "example": "Elle se présente aux élections municipales.", "exampleEnglish": "She is standing in the local elections.", "level": "B1", "category": "elections" },
+            { "id": "le-parti", "french": "le parti", "english": "the (political) party", "partOfSpeech": "noun", "gender": "m", "plural": "les partis", "pronunciation": "par-tee", "example": "Ce parti imaginaire s'appelle « Horizon Commun ».", "exampleEnglish": "This imaginary party is called \"Horizon Commun\".", "level": "B1", "category": "elections" },
+            { "id": "le-programme", "french": "le programme", "english": "the manifesto, the programme", "partOfSpeech": "noun", "gender": "m", "plural": "les programmes", "pronunciation": "pro-gram", "example": "J'ai lu le programme des trois listes.", "exampleEnglish": "I read the manifestos of all three lists.", "level": "B1", "category": "elections" },
+            { "id": "la-campagne-electorale", "french": "la campagne électorale", "english": "the election campaign", "partOfSpeech": "noun", "gender": "f", "plural": "les campagnes électorales", "pronunciation": "kam-pañ ay-lek-to-ral", "example": "La campagne électorale a été plutôt calme.", "exampleEnglish": "The election campaign was fairly quiet.", "level": "B1", "category": "elections" },
+            { "id": "le-premier-tour", "french": "le premier tour", "english": "the first round", "partOfSpeech": "noun", "gender": "m", "plural": "les premiers tours", "pronunciation": "preu-myay toor", "example": "Rien n'est joué au premier tour.", "exampleEnglish": "Nothing is decided in the first round.", "level": "B1", "category": "elections" },
+            { "id": "le-second-tour", "french": "le second tour", "english": "the second round, the run-off", "partOfSpeech": "noun", "gender": "m", "plural": "les seconds tours", "pronunciation": "seu-gon toor", "example": "Le second tour aura lieu dans quinze jours.", "exampleEnglish": "The run-off will take place in a fortnight.", "level": "B1", "category": "elections" },
+            { "id": "majorite-politique", "french": "la majorité", "english": "the majority", "partOfSpeech": "noun", "gender": "f", "plural": "les majorités", "pronunciation": "ma-zho-ree-tay", "example": "Il faut la majorité absolue pour être élu au premier tour.", "exampleEnglish": "You need an absolute majority to be elected in the first round.", "level": "B1", "category": "elections" },
+            { "id": "elire", "french": "élire", "english": "to elect", "partOfSpeech": "verb", "pronunciation": "ay-leer", "example": "Les habitants élisent leur conseil municipal.", "exampleEnglish": "Residents elect their town council.", "level": "B1", "category": "elections" },
+            { "id": "le-depouillement", "french": "le dépouillement", "english": "the counting of the votes", "partOfSpeech": "noun", "gender": "m", "plural": "les dépouillements", "pronunciation": "day-poo-yeu-man", "example": "Le dépouillement a duré deux heures.", "exampleEnglish": "The count took two hours.", "level": "B1", "category": "elections" },
+            { "id": "le-resultat", "french": "le résultat", "english": "the result", "partOfSpeech": "noun", "gender": "m", "plural": "les résultats", "pronunciation": "ray-zül-ta", "example": "Les premiers résultats tombent à vingt heures.", "exampleEnglish": "The first results come in at eight o'clock.", "level": "B1", "category": "elections" },
+            { "id": "le-taux-de-participation", "french": "le taux de participation", "english": "the turnout, the participation rate", "partOfSpeech": "noun", "gender": "m", "plural": "les taux de participation", "pronunciation": "to deu par-tee-see-pa-syon", "example": "Le taux de participation a baissé cette année.", "exampleEnglish": "Turnout fell this year.", "level": "B1", "category": "elections" },
+            { "id": "abstention", "french": "l'abstention", "english": "the abstention (not voting)", "partOfSpeech": "noun", "gender": "f", "plural": "les abstentions", "pronunciation": "ap-stan-syon", "example": "L'abstention inquiète beaucoup d'élus.", "exampleEnglish": "Abstention worries a lot of elected officials.", "level": "B1", "category": "elections" },
+            { "id": "s-abstenir", "french": "s'abstenir", "english": "to abstain, to not vote", "partOfSpeech": "verb", "pronunciation": "sap-steu-neer", "example": "Un habitant sur trois s'est abstenu.", "exampleEnglish": "One resident in three abstained.", "level": "B1", "category": "elections" },
+            { "id": "sondage", "french": "le sondage", "english": "the opinion poll", "partOfSpeech": "noun", "gender": "m", "plural": "les sondages", "pronunciation": "son-dazh", "example": "Les sondages se trompent parfois.", "exampleEnglish": "Opinion polls are sometimes wrong.", "level": "B1", "category": "elections" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "La voix passive et « on » — expliquer une procédure",
+              "body": "To describe how a system works, French often uses the passive: être + past participle, which agrees with the subject. The person or body doing the action follows par. In everyday speech people usually prefer on + active verb, which is shorter and lighter. Both are correct; on is more spoken.",
+              "examples": [
+                { "french": "Le maire est élu par le conseil municipal.", "english": "The mayor is elected by the town council.", "note": "passive, neutral/administrative" },
+                { "french": "Les résultats sont annoncés vers vingt heures.", "english": "The results are announced around eight." },
+                { "french": "La liste électorale est mise à jour chaque année.", "english": "The electoral roll is updated every year.", "note": "mise agrees with la liste" },
+                { "french": "On annonce les résultats vers vingt heures.", "english": "They announce the results around eight.", "note": "same idea, spoken style" },
+                { "french": "On vote de huit heures à vingt heures.", "english": "Voting is from eight until eight." }
+              ],
+              "tip": "If you don't know or don't care who does the action, on is almost always the safer choice in conversation."
+            },
+            {
+              "heading": "Les pronoms relatifs qui, que, où — définir un mot",
+              "body": "Relative pronouns let you explain a civic word in one sentence instead of two. Use qui when the relative pronoun is the subject of the following verb, que when it is the object (it becomes qu' before a vowel), and où for a place or a moment in time.",
+              "examples": [
+                { "french": "L'isoloir est la cabine qui protège le secret du vote.", "english": "The isoloir is the booth that protects the secrecy of the vote.", "note": "qui = subject of protège" },
+                { "french": "Le bulletin que tu mets dans l'enveloppe doit être intact.", "english": "The ballot paper you put in the envelope must be undamaged.", "note": "que = object of mets" },
+                { "french": "Le bureau de vote est l'endroit où l'on vote.", "english": "The polling station is the place where you vote.", "note": "l'on after où sounds more careful than on" },
+                { "french": "Le second tour est le dimanche où tout se décide.", "english": "The run-off is the Sunday when everything is decided." },
+                { "french": "C'est une candidate qu'on connaît bien dans le quartier.", "english": "She's a candidate people know well in the neighbourhood." }
+              ],
+              "tip": "Quick test: if a verb comes straight after the gap, use qui; if a new subject comes after, use que."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "b1_u19_l01_li01",
+              "type": "listenChoose",
+              "french": "Le bureau de vote ferme à vingt heures.",
+              "options": ["The polling station closes at eight in the evening.", "The town hall opens at eight in the morning.", "The count starts at eight in the evening.", "The campaign ends at eight."],
+              "answer": "The polling station closes at eight in the evening."
+            },
+            {
+              "id": "b1_u19_l01_li02",
+              "type": "listenChoose",
+              "french": "Vous devez présenter une pièce d'identité avant de voter.",
+              "options": ["You must show an ID document before voting.", "You must sign the register after voting.", "You must take two ballot papers.", "You must register at the town hall."],
+              "answer": "You must show an ID document before voting."
+            },
+            {
+              "id": "b1_u19_l01_li03",
+              "type": "listenType",
+              "french": "Je me suis inscrit sur la liste électorale.",
+              "answer": "Je me suis inscrit sur la liste électorale.",
+              "acceptedAnswers": ["Je me suis inscrit sur la liste electorale", "je me suis inscrit sur la liste électorale", "Je me suis inscrit sur la liste électorale"]
+            },
+            {
+              "id": "b1_u19_l01_li04",
+              "type": "dictation",
+              "french": "Le taux de participation a baissé au second tour.",
+              "answer": "Le taux de participation a baissé au second tour.",
+              "acceptedAnswers": ["Le taux de participation a baisse au second tour", "le taux de participation a baissé au second tour", "Le taux de participation a baissé au second tour"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "b1_u19_l01_sp01",
+              "type": "speak",
+              "french": "Où se trouve mon bureau de vote, s'il vous plaît ?",
+              "english": "Where is my polling station, please?",
+              "prompt": "Ask a clerk at the town hall where you should go to vote.",
+              "tip": "Bureau is bü-ro: round your lips tightly for the u, and keep the final o open and short."
+            },
+            {
+              "id": "b1_u19_l01_sp02",
+              "type": "speak",
+              "french": "Je voudrais m'inscrire sur la liste électorale de la commune.",
+              "english": "I'd like to register on the town's electoral roll.",
+              "prompt": "Say why you have come to the town hall.",
+              "tip": "Link m'inscrire smoothly: mans-kreer, with the nasal an and a light rolled r at the end."
+            },
+            {
+              "id": "b1_u19_l01_sp03",
+              "type": "speak",
+              "french": "Personne n'a la majorité, donc il y aura un second tour.",
+              "english": "Nobody has a majority, so there will be a run-off.",
+              "prompt": "Comment on the results on election night.",
+              "tip": "Majorité has four clear syllables: ma-zho-ree-tay, with the zh sound of the s in \"measure\"."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Dimanche de scrutin à Val-Fleuri",
+              "french": "À Val-Fleuri, une commune de quatre mille habitants, le bureau de vote est installé dans le préau de l'école.\nIl ouvre à huit heures et ferme à dix-huit heures.\nSamira arrive vers dix heures avec sa carte d'électeur et sa pièce d'identité.\nElle prend trois bulletins de vote, puis elle passe par l'isoloir.\nDevant l'urne, l'assesseur vérifie son nom sur la liste électorale.\n« A voté ! » annonce-t-il, et Samira signe le registre.\nSon voisin, Antoine, est en déplacement : il a fait une procuration à sa fille.\nÀ dix-huit heures, le dépouillement commence ; des bénévoles comptent les voix à voix haute.\nAucune des trois listes n'obtient la majorité absolue : il y aura donc un second tour.\nLe taux de participation atteint cinquante-huit pour cent, un peu moins qu'il y a six ans.\n« L'abstention reste notre vrai souci », commente le maire sortant.\nDimanche prochain, les électeurs de Val-Fleuri retourneront à l'école.",
+              "english": "In Val-Fleuri, a town of four thousand inhabitants, the polling station is set up in the school's covered playground.\nIt opens at eight in the morning and closes at six in the evening.\nSamira arrives around ten with her voter card and her ID document.\nShe takes three ballot papers, then goes through the voting booth.\nIn front of the ballot box, the polling officer checks her name on the electoral roll.\n\"A voté!\" he announces, and Samira signs the register.\nHer neighbour, Antoine, is away on a trip: he has given his daughter a proxy.\nAt six o'clock the count begins; volunteers count the votes out loud.\nNone of the three lists gets an absolute majority: so there will be a run-off.\nTurnout reaches fifty-eight per cent, slightly less than six years ago.\n\"Abstention is still our real worry,\" comments the outgoing mayor.\nNext Sunday, the voters of Val-Fleuri will go back to the school.",
+              "questions": [
+                {
+                  "id": "b1_u19_l01_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Que fait Samira juste avant de passer par l'isoloir ?",
+                  "options": ["Elle prend trois bulletins de vote.", "Elle signe le registre.", "Elle compte les voix.", "Elle fait une procuration."],
+                  "answer": "Elle prend trois bulletins de vote."
+                },
+                {
+                  "id": "b1_u19_l01_rd02",
+                  "type": "trueFalse",
+                  "prompt": "Une liste a obtenu la majorité absolue dès le premier tour.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                },
+                {
+                  "id": "b1_u19_l01_rd03",
+                  "type": "multipleChoice",
+                  "prompt": "Pourquoi Antoine ne vote-t-il pas lui-même ?",
+                  "options": ["Il est en déplacement et a donné procuration.", "Il n'est pas sur la liste électorale.", "Il a oublié sa pièce d'identité.", "Il préfère s'abstenir."],
+                  "answer": "Il est en déplacement et a donné procuration."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "b1_u19_l01_wr01",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "The polling station opens at eight in the morning.",
+              "answer": "Le bureau de vote ouvre à huit heures.",
+              "acceptedAnswers": ["Le bureau de vote ouvre a huit heures", "Le bureau de vote ouvre à huit heures du matin"]
+            },
+            {
+              "id": "b1_u19_l01_wr02",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "I would like to register on the electoral roll.",
+              "answer": "Je voudrais m'inscrire sur la liste électorale.",
+              "acceptedAnswers": ["Je voudrais m'inscrire sur la liste electorale", "J'aimerais m'inscrire sur la liste électorale"]
+            },
+            {
+              "id": "b1_u19_l01_wr03",
+              "type": "arrangeWords",
+              "words": ["tour", "second", "aura", "un", "il", "y"],
+              "answer": "il y aura un second tour",
+              "english": "There will be a run-off."
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "b1_u19_l01_pr01",
+              "type": "match",
+              "pairs": [
+                { "french": "l'urne", "english": "the ballot box" },
+                { "french": "l'isoloir", "english": "the voting booth" },
+                { "french": "le dépouillement", "english": "the count" },
+                { "french": "la procuration", "english": "the proxy vote" }
+              ]
+            },
+            {
+              "id": "b1_u19_l01_pr02",
+              "type": "fillBlank",
+              "prompt": "Pour voter, il faut être inscrit sur la ___ électorale.",
+              "answer": "liste"
+            },
+            {
+              "id": "b1_u19_l01_pr03",
+              "type": "multipleChoice",
+              "prompt": "Le maire ___ élu par le conseil municipal.",
+              "options": ["est", "a", "sont", "être"],
+              "answer": "est"
+            },
+            {
+              "id": "b1_u19_l01_pr04",
+              "type": "fillBlank",
+              "prompt": "Le bureau de vote est l'endroit ___ l'on vote.",
+              "answer": "où"
+            },
+            {
+              "id": "b1_u19_l01_pr05",
+              "type": "arrangeWords",
+              "words": ["voix", "obtenu", "elle", "mille", "a", "plus", "de"],
+              "answer": "elle a obtenu plus de mille voix",
+              "english": "She got more than a thousand votes."
+            },
+            {
+              "id": "b1_u19_l01_pr06",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "Turnout fell this year.",
+              "answer": "Le taux de participation a baissé cette année.",
+              "acceptedAnswers": ["Le taux de participation a baisse cette annee", "La participation a baissé cette année"]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "b1_u19_l01_qz01",
+              "type": "multipleChoice",
+              "prompt": "Comment dit-on \"the ballot paper\" en français ?",
+              "options": ["le bulletin de vote", "le bureau de vote", "le taux de participation", "la liste électorale"],
+              "answer": "le bulletin de vote"
+            },
+            {
+              "id": "b1_u19_l01_qz02",
+              "type": "multipleChoice",
+              "prompt": "Choisissez le pronom relatif : « C'est la candidate ___ défend les transports en commun. »",
+              "options": ["qui", "que", "où", "dont"],
+              "answer": "qui"
+            },
+            {
+              "id": "b1_u19_l01_qz03",
+              "type": "trueFalse",
+              "prompt": "« S'abstenir » signifie voter pour le second tour.",
+              "options": ["True", "False"],
+              "answer": "False"
+            },
+            {
+              "id": "b1_u19_l01_qz04",
+              "type": "fillBlank",
+              "prompt": "Si personne n'a la majorité, il y a un ___ tour.",
+              "answer": "second"
+            },
+            {
+              "id": "b1_u19_l01_qz05",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "Every citizen has the right to vote.",
+              "answer": "Chaque citoyen a le droit de vote.",
+              "acceptedAnswers": ["Chaque citoyen a le droit de vote", "Tout citoyen a le droit de vote"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1_u19_l02",
+      "level": "B1",
+      "unit": 19,
+      "title": "Les grands débats",
+      "description": "The social questions people actually discuss at work or at dinner — and how to present both sides fairly without taking a side yourself.",
+      "estimatedMinutes": 18,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "De quoi on parle",
+              "body": "Everyday French debate turns around a handful of recurring themes: le pouvoir d'achat, l'emploi et le chômage, la santé, l'éducation, le logement, l'environnement et le climat, les transports, la sécurité and la retraite. Each one is un enjeu — something at stake — and each one has arguments on several sides.",
+              "examples": [
+                { "french": "En ce moment, le sujet numéro un, c'est le pouvoir d'achat.", "english": "Right now the number one topic is purchasing power." },
+                { "french": "Le logement est un enjeu majeur dans les grandes villes.", "english": "Housing is a major issue in big cities." },
+                { "french": "On parle beaucoup du climat et des transports.", "english": "People talk a lot about the climate and transport." },
+                { "french": "La question des retraites revient tous les ans.", "english": "The pensions question comes back every year." },
+                { "french": "C'est un débat qui divise, mais qui reste utile.", "english": "It's a debate that divides people, but it stays useful." }
+              ],
+              "tip": "Un sujet qui fâche is a touchy subject. If you want to change topic politely: « On parle d'autre chose ? »"
+            },
+            {
+              "heading": "Attribuer une opinion, pas la sienne",
+              "body": "The safest and most French way to discuss a hot topic is to report views rather than push your own. Use certains estiment que…, d'autres répondent que…, selon les partisans de…, pour ses opposants… This is exactly what teachers and journalists do, and it makes you sound thoughtful rather than aggressive.",
+              "examples": [
+                { "french": "Certains estiment que la mesure protège l'emploi.", "english": "Some feel the measure protects jobs." },
+                { "french": "D'autres répondent qu'elle coûte trop cher.", "english": "Others reply that it costs too much." },
+                { "french": "Selon ses partisans, la réforme simplifie les démarches.", "english": "According to its supporters, the reform simplifies the paperwork." },
+                { "french": "Pour ses opposants, elle va trop vite.", "english": "For its opponents, it is moving too fast." },
+                { "french": "Les deux camps ont des arguments sérieux.", "english": "Both sides have serious arguments." }
+              ],
+              "tip": "Adding « à mon avis » is fine, but « les gens qui pensent le contraire ont tort » closes the conversation. Keep the door open."
+            },
+            {
+              "heading": "Nuancer et rester poli",
+              "body": "Nuancer means softening a claim so it stays honest: c'est plus compliqué que ça, ça dépend des situations, en partie. To disagree without a fight, start by conceding: je comprends, mais… or c'est vrai, cela dit… Ending with a question keeps things friendly.",
+              "examples": [
+                { "french": "Je comprends l'argument, mais je le nuancerais un peu.", "english": "I understand the argument, but I'd qualify it a little." },
+                { "french": "C'est vrai en partie ; cela dit, ça dépend des villes.", "english": "That's partly true; that said, it depends on the town." },
+                { "french": "Je ne suis pas totalement d'accord, et toi, tu en penses quoi ?", "english": "I don't fully agree — what do you think?" },
+                { "french": "On peut trouver un compromis, non ?", "english": "We can find a compromise, can't we?" },
+                { "french": "Là-dessus, il n'y a pas de consensus.", "english": "There's no consensus on that." }
+              ],
+              "tip": "In French company, « je ne suis pas d'accord » is normal and not rude — the tone matters far more than the words."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "le-debat", "french": "le débat", "english": "the debate", "partOfSpeech": "noun", "gender": "m", "plural": "les débats", "pronunciation": "day-ba", "example": "Le débat a duré toute la soirée.", "exampleEnglish": "The debate lasted all evening.", "level": "B1", "category": "society" },
+            { "id": "debattre", "french": "débattre", "english": "to debate, to discuss", "partOfSpeech": "verb", "pronunciation": "day-batr", "example": "On a débattu du logement pendant une heure.", "exampleEnglish": "We debated housing for an hour.", "level": "B1", "category": "society" },
+            { "id": "l-opinion", "french": "l'opinion", "english": "the opinion", "partOfSpeech": "noun", "gender": "f", "plural": "les opinions", "pronunciation": "o-pee-nyon", "example": "Chacun a le droit d'avoir son opinion.", "exampleEnglish": "Everyone has the right to their own opinion.", "level": "B1", "category": "society" },
+            { "id": "l-avis", "french": "l'avis", "english": "the view, the opinion", "partOfSpeech": "noun", "gender": "m", "plural": "les avis", "pronunciation": "a-vee", "example": "À mon avis, les deux camps exagèrent un peu.", "exampleEnglish": "In my view, both sides exaggerate a little.", "level": "B1", "category": "society" },
+            { "id": "le-point-de-vue", "french": "le point de vue", "english": "the point of view", "partOfSpeech": "noun", "gender": "m", "plural": "les points de vue", "pronunciation": "pwan deu vü", "example": "J'essaie de comprendre son point de vue.", "exampleEnglish": "I'm trying to understand his point of view.", "level": "B1", "category": "society" },
+            { "id": "estimer", "french": "estimer", "english": "to consider, to feel (that)", "partOfSpeech": "verb", "pronunciation": "es-tee-may", "example": "Certains estiment que la mesure est trop lente.", "exampleEnglish": "Some consider the measure too slow.", "level": "B1", "category": "society" },
+            { "id": "soutenir", "french": "soutenir", "english": "to support, to back", "partOfSpeech": "verb", "pronunciation": "soo-teu-neer", "example": "Cette association soutient le projet.", "exampleEnglish": "This association backs the project.", "level": "B1", "category": "society" },
+            { "id": "s-opposer", "french": "s'opposer", "english": "to be opposed, to object", "partOfSpeech": "verb", "pronunciation": "so-po-zay", "example": "Une partie des habitants s'oppose au nouveau plan.", "exampleEnglish": "Some of the residents object to the new plan.", "level": "B1", "category": "society" },
+            { "id": "l-argument", "french": "l'argument", "english": "the argument (point made)", "partOfSpeech": "noun", "gender": "m", "plural": "les arguments", "pronunciation": "ar-gü-man", "example": "Son argument principal, c'est le coût.", "exampleEnglish": "His main argument is the cost.", "level": "B1", "category": "society" },
+            { "id": "convaincre", "french": "convaincre", "english": "to convince", "partOfSpeech": "verb", "pronunciation": "kon-vankr", "example": "Ce chiffre ne convainc pas tout le monde.", "exampleEnglish": "That figure doesn't convince everyone.", "level": "B1", "category": "society" },
+            { "id": "nuancer", "french": "nuancer", "english": "to qualify, to add nuance to", "partOfSpeech": "verb", "pronunciation": "nü-an-say", "example": "Il faudrait nuancer cette conclusion.", "exampleEnglish": "That conclusion needs qualifying.", "level": "B1", "category": "society" },
+            { "id": "l-enjeu", "french": "l'enjeu", "english": "the issue at stake", "partOfSpeech": "noun", "gender": "m", "plural": "les enjeux", "pronunciation": "an-zheu", "example": "Le vrai enjeu, c'est le financement.", "exampleEnglish": "The real issue at stake is funding.", "level": "B1", "category": "society" },
+            { "id": "societe", "french": "la société", "english": "society", "partOfSpeech": "noun", "gender": "f", "plural": "les sociétés", "pronunciation": "so-syay-tay", "example": "C'est un débat de société.", "exampleEnglish": "It's a debate about society.", "level": "B1", "category": "society" },
+            { "id": "le-pouvoir-dachat", "french": "le pouvoir d'achat", "english": "purchasing power", "partOfSpeech": "noun", "gender": "m", "plural": "les pouvoirs d'achat", "pronunciation": "poo-vwar da-sha", "example": "Beaucoup de familles parlent de leur pouvoir d'achat.", "exampleEnglish": "Many families talk about their purchasing power.", "level": "B1", "category": "economy" },
+            { "id": "chomage", "french": "le chômage", "english": "unemployment", "partOfSpeech": "noun", "gender": "m", "plural": "les chômages", "pronunciation": "sho-mazh", "example": "Le chômage a baissé dans la région.", "exampleEnglish": "Unemployment has fallen in the region.", "level": "B1", "category": "economy" },
+            { "id": "l-emploi", "french": "l'emploi", "english": "employment, the job", "partOfSpeech": "noun", "gender": "m", "plural": "les emplois", "pronunciation": "an-plwa", "example": "L'emploi des jeunes revient souvent dans le débat.", "exampleEnglish": "Youth employment often comes up in the debate.", "level": "B1", "category": "economy" },
+            { "id": "l-education", "french": "l'éducation", "english": "education", "partOfSpeech": "noun", "gender": "f", "plural": "les éducations", "pronunciation": "ay-dü-ka-syon", "example": "L'éducation reste une priorité pour beaucoup d'électeurs.", "exampleEnglish": "Education remains a priority for many voters.", "level": "B1", "category": "society" },
+            { "id": "la-sante", "french": "la santé", "english": "health", "partOfSpeech": "noun", "gender": "f", "plural": "les santés", "pronunciation": "san-tay", "example": "L'accès à la santé varie selon les territoires.", "exampleEnglish": "Access to healthcare varies from area to area.", "level": "B1", "category": "society" },
+            { "id": "la-retraite", "french": "la retraite", "english": "retirement, the pension", "partOfSpeech": "noun", "gender": "f", "plural": "les retraites", "pronunciation": "reu-tret", "example": "L'âge de la retraite fait débat.", "exampleEnglish": "The retirement age is a matter of debate.", "level": "B1", "category": "society" },
+            { "id": "le-logement", "french": "le logement", "english": "housing", "partOfSpeech": "noun", "gender": "m", "plural": "les logements", "pronunciation": "lozh-man", "example": "Le logement coûte cher près du centre.", "exampleEnglish": "Housing is expensive near the centre.", "level": "B1", "category": "society" },
+            { "id": "environnement", "french": "l'environnement", "english": "the environment", "partOfSpeech": "noun", "gender": "m", "plural": "les environnements", "pronunciation": "an-vee-ron-man", "example": "L'environnement intéresse surtout les jeunes électeurs, selon ce sondage.", "exampleEnglish": "The environment interests young voters most, according to this poll.", "level": "B1", "category": "environment" },
+            { "id": "climat", "french": "le climat", "english": "the climate", "partOfSpeech": "noun", "gender": "m", "plural": "les climats", "pronunciation": "klee-ma", "example": "Le climat est devenu un sujet quotidien.", "exampleEnglish": "The climate has become an everyday topic.", "level": "B1", "category": "environment" },
+            { "id": "l-impot", "french": "l'impôt", "english": "the tax", "partOfSpeech": "noun", "gender": "m", "plural": "les impôts", "pronunciation": "an-po", "example": "Une partie des impôts finance les écoles.", "exampleEnglish": "Part of taxes funds schools.", "level": "B1", "category": "economy" },
+            { "id": "le-service-public", "french": "le service public", "english": "the public service", "partOfSpeech": "noun", "gender": "m", "plural": "les services publics", "pronunciation": "ser-vees pü-bleek", "example": "Le service public de santé est très discuté.", "exampleEnglish": "The public health service is much discussed.", "level": "B1", "category": "society" },
+            { "id": "immigration", "french": "l'immigration", "english": "immigration", "partOfSpeech": "noun", "gender": "f", "plural": "les immigrations", "pronunciation": "ee-mee-gra-syon", "example": "L'immigration est un sujet sur lequel les avis divergent.", "exampleEnglish": "Immigration is a topic on which views differ.", "level": "B1", "category": "society" },
+            { "id": "la-securite", "french": "la sécurité", "english": "safety, security", "partOfSpeech": "noun", "gender": "f", "plural": "les sécurités", "pronunciation": "say-kü-ree-tay", "example": "La sécurité près de la gare inquiète certains riverains.", "exampleEnglish": "Safety near the station worries some local residents.", "level": "B1", "category": "society" },
+            { "id": "egalite", "french": "l'égalité", "english": "equality", "partOfSpeech": "noun", "gender": "f", "plural": "les égalités", "pronunciation": "ay-ga-lee-tay", "example": "L'égalité entre les femmes et les hommes progresse lentement.", "exampleEnglish": "Equality between women and men is progressing slowly.", "level": "B1", "category": "society" },
+            { "id": "inegalite", "french": "l'inégalité", "english": "the inequality", "partOfSpeech": "noun", "gender": "f", "plural": "les inégalités", "pronunciation": "ee-nay-ga-lee-tay", "example": "Les inégalités entre quartiers restent visibles.", "exampleEnglish": "Inequalities between neighbourhoods are still visible.", "level": "B1", "category": "society" },
+            { "id": "la-liberte", "french": "la liberté", "english": "freedom, liberty", "partOfSpeech": "noun", "gender": "f", "plural": "les libertés", "pronunciation": "lee-ber-tay", "example": "La liberté d'expression protège aussi les avis qu'on n'aime pas.", "exampleEnglish": "Freedom of expression also protects views we dislike.", "level": "B1", "category": "civics" },
+            { "id": "la-laicite", "french": "la laïcité", "english": "secularism (French state neutrality)", "partOfSpeech": "noun", "gender": "f", "plural": "les laïcités", "pronunciation": "la-ee-see-tay", "example": "La laïcité est expliquée dès l'école primaire.", "exampleEnglish": "Secularism is explained from primary school onwards.", "level": "B1", "category": "civics" },
+            { "id": "la-reforme", "french": "la réforme", "english": "the reform", "partOfSpeech": "noun", "gender": "f", "plural": "les réformes", "pronunciation": "ray-form", "example": "Chaque réforme a ses partisans et ses opposants.", "exampleEnglish": "Every reform has its supporters and its opponents.", "level": "B1", "category": "society" },
+            { "id": "manifestation", "french": "la manifestation", "english": "the demonstration, the protest march", "partOfSpeech": "noun", "gender": "f", "plural": "les manifestations", "pronunciation": "ma-nee-fes-ta-syon", "example": "Une manifestation est prévue samedi après-midi.", "exampleEnglish": "A demonstration is planned for Saturday afternoon.", "level": "B1", "category": "society" },
+            { "id": "greve", "french": "la grève", "english": "the strike", "partOfSpeech": "noun", "gender": "f", "plural": "les grèves", "pronunciation": "grev", "example": "À cause de la grève, il n'y a qu'un train sur deux.", "exampleEnglish": "Because of the strike, only one train in two is running.", "level": "B1", "category": "work" },
+            { "id": "syndicat", "french": "le syndicat", "english": "the trade union", "partOfSpeech": "noun", "gender": "m", "plural": "les syndicats", "pronunciation": "san-dee-ka", "example": "Le syndicat et la direction se rencontrent lundi.", "exampleEnglish": "The union and management are meeting on Monday.", "level": "B1", "category": "work" },
+            { "id": "la-polemique", "french": "la polémique", "english": "the row, the controversy", "partOfSpeech": "noun", "gender": "f", "plural": "les polémiques", "pronunciation": "po-lay-meek", "example": "Sa phrase a lancé une petite polémique locale.", "exampleEnglish": "His sentence sparked a small local row.", "level": "B1", "category": "media" },
+            { "id": "controverse", "french": "controversé", "english": "controversial", "partOfSpeech": "adjective", "pronunciation": "kon-tro-ver-say", "example": "C'est un projet controversé dans le quartier.", "exampleEnglish": "It's a controversial project in the neighbourhood.", "level": "B1", "category": "media" },
+            { "id": "le-clivage", "french": "le clivage", "english": "the divide, the split", "partOfSpeech": "noun", "gender": "m", "plural": "les clivages", "pronunciation": "klee-vazh", "example": "Le clivage entre villes et campagnes est net.", "exampleEnglish": "The divide between towns and countryside is clear.", "level": "B1", "category": "society" },
+            { "id": "le-compromis", "french": "le compromis", "english": "the compromise", "partOfSpeech": "noun", "gender": "m", "plural": "les compromis", "pronunciation": "kon-pro-mee", "example": "Ils ont fini par trouver un compromis.", "exampleEnglish": "They eventually found a compromise.", "level": "B1", "category": "society" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Penser que + indicatif, ne pas penser que + subjonctif",
+              "body": "After verbs of opinion in the affirmative (je pense que, je trouve que, j'estime que, il me semble que) French uses the indicative — you are stating something you hold to be true. When the same verb is negative or a question, doubt enters and the subjunctive is normal: je ne pense pas que ce soit… Il faut que also takes the subjunctive.",
+              "examples": [
+                { "french": "Je pense que ce projet est utile.", "english": "I think this project is useful.", "note": "affirmative → indicative est" },
+                { "french": "Je ne pense pas que ce projet soit utile.", "english": "I don't think this project is useful.", "note": "negative → subjunctive soit" },
+                { "french": "Certains estiment que la réforme va trop vite.", "english": "Some feel the reform is going too fast." },
+                { "french": "Il faut qu'on écoute les deux camps.", "english": "We need to listen to both sides.", "note": "il faut que → subjunctive écoute" },
+                { "french": "Croyez-vous qu'il y ait un consensus ?", "english": "Do you think there is a consensus?", "note": "question → subjunctive ait" }
+              ],
+              "tip": "The four subjunctives you'll meet most in debate are soit (être), ait (avoir), fasse (faire) and puisse (pouvoir). Learn those four and you can bluff the rest."
+            },
+            {
+              "heading": "Attribuer : selon, d'après, pour, et le conditionnel de prudence",
+              "body": "To make clear that an opinion is not yours, put the source first: selon X, d'après X, pour X. Journalists go further and use the conditional to report something unconfirmed — la mairie aurait accepté means the town hall has reportedly agreed. This conditionnel de l'information is a very useful hedge.",
+              "examples": [
+                { "french": "Selon les partisans du projet, il créera des emplois.", "english": "According to the project's supporters, it will create jobs." },
+                { "french": "D'après ce sondage, l'opinion est partagée.", "english": "According to this poll, opinion is divided." },
+                { "french": "Pour ses opposants, le coût est trop élevé.", "english": "For its opponents, the cost is too high." },
+                { "french": "La mairie aurait accepté de revoir le plan.", "english": "The town hall has reportedly agreed to revise the plan.", "note": "conditional = unconfirmed report" },
+                { "french": "Il y aurait eu deux cents personnes à la réunion.", "english": "There were said to be two hundred people at the meeting." }
+              ],
+              "tip": "Selon moi and d'après moi both mean \"in my view\", but à mon avis is by far the most common in speech."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "b1_u19_l02_li01",
+              "type": "listenChoose",
+              "french": "Certains estiment que la mesure protège l'emploi.",
+              "options": ["Some feel the measure protects jobs.", "Everyone agrees the measure protects jobs.", "Some feel the measure destroys jobs.", "Nobody knows what the measure does."],
+              "answer": "Some feel the measure protects jobs."
+            },
+            {
+              "id": "b1_u19_l02_li02",
+              "type": "listenChoose",
+              "french": "D'autres répondent que ça coûte trop cher.",
+              "options": ["Others reply that it costs too much.", "Others reply that it is free.", "Others ask how much it costs.", "Others say the price has fallen."],
+              "answer": "Others reply that it costs too much."
+            },
+            {
+              "id": "b1_u19_l02_li03",
+              "type": "listenType",
+              "french": "À mon avis, le vrai enjeu, c'est le logement.",
+              "answer": "À mon avis, le vrai enjeu, c'est le logement.",
+              "acceptedAnswers": ["A mon avis, le vrai enjeu, c'est le logement", "à mon avis le vrai enjeu c'est le logement", "A mon avis le vrai enjeu c'est le logement"]
+            },
+            {
+              "id": "b1_u19_l02_li04",
+              "type": "dictation",
+              "french": "Je ne pense pas qu'il y ait un consensus sur ce sujet.",
+              "answer": "Je ne pense pas qu'il y ait un consensus sur ce sujet.",
+              "acceptedAnswers": ["Je ne pense pas qu'il y ait un consensus sur ce sujet", "je ne pense pas qu'il y ait un consensus sur ce sujet"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "b1_u19_l02_sp01",
+              "type": "speak",
+              "french": "Certains estiment que c'est urgent, d'autres préfèrent attendre.",
+              "english": "Some feel it's urgent, others prefer to wait.",
+              "prompt": "Present both sides of a local question without saying what you think.",
+              "tip": "Estiment ends in a silent -ent: say es-teem, never es-tee-ment."
+            },
+            {
+              "id": "b1_u19_l02_sp02",
+              "type": "speak",
+              "french": "Je comprends l'argument, mais je le nuancerais un peu.",
+              "english": "I understand the argument, but I'd qualify it a little.",
+              "prompt": "Disagree politely with something a colleague has just said.",
+              "tip": "Nuancerais is four syllables, nü-an-seu-reh; keep the final -ais open, like the e in \"bed\"."
+            },
+            {
+              "id": "b1_u19_l02_sp03",
+              "type": "speak",
+              "french": "Et toi, sur cette question, tu en penses quoi ?",
+              "english": "And you, what do you think about this question?",
+              "prompt": "Hand the conversation back to the other person.",
+              "tip": "In casual speech the question word goes last: tu en penses quoi ? — let the pitch rise on quoi."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Une zone piétonne au centre-ville ?",
+              "french": "Depuis six mois, la même question revient dans tous les cafés de Val-Fleuri : faut-il fermer le centre-ville aux voitures ?\nLa mairie a organisé une réunion publique pour écouter les habitants.\nCertains estiment qu'une zone piétonne rendrait le centre plus agréable et plus sûr pour les enfants.\nSelon eux, l'air serait meilleur et les terrasses des cafés y gagneraient.\nD'autres répondent que les commerçants perdraient une partie de leur clientèle.\nPour ces derniers, le vrai enjeu, c'est le stationnement : sans parking, les gens iront ailleurs.\nUne troisième voix, plus discrète, demande d'abord des transports en commun plus fréquents.\n« Le débat est légitime, mais il est plus compliqué qu'il n'en a l'air », résume une habitante.\nLa mairie aurait proposé un compromis : une rue piétonne le samedi seulement, pendant un an.\nUn sondage local montre une opinion partagée, presque cinquante-cinquante.\nLes deux camps se retrouveront en octobre pour un nouveau débat.\nD'ici là, chacun est invité à donner son avis sur le site de la commune.",
+              "english": "For six months the same question has come up in every café in Val-Fleuri: should the town centre be closed to cars?\nThe town hall organised a public meeting to listen to residents.\nSome feel that a pedestrian zone would make the centre nicer and safer for children.\nIn their view the air would be better and café terraces would benefit.\nOthers reply that shopkeepers would lose part of their customer base.\nFor the latter, the real issue is parking: without a car park, people will go elsewhere.\nA third, quieter voice is asking first for more frequent public transport.\n\"The debate is legitimate, but it's more complicated than it looks,\" sums up one resident.\nThe town hall has reportedly offered a compromise: a pedestrian street on Saturdays only, for one year.\nA local poll shows opinion divided, almost fifty-fifty.\nThe two sides will meet again in October for a further debate.\nUntil then, everyone is invited to give their view on the town's website.",
+              "questions": [
+                {
+                  "id": "b1_u19_l02_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Quel compromis la mairie aurait-elle proposé ?",
+                  "options": ["Une rue piétonne le samedi seulement, pendant un an.", "La fermeture totale du centre-ville.", "La construction d'un grand parking souterrain.", "La gratuité des transports en commun."],
+                  "answer": "Une rue piétonne le samedi seulement, pendant un an."
+                },
+                {
+                  "id": "b1_u19_l02_rd02",
+                  "type": "trueFalse",
+                  "prompt": "D'après le texte, les habitants sont presque tous du même avis.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                },
+                {
+                  "id": "b1_u19_l02_rd03",
+                  "type": "multipleChoice",
+                  "prompt": "Selon les commerçants, quel est le vrai enjeu ?",
+                  "options": ["Le stationnement.", "La qualité de l'air.", "La sécurité des enfants.", "Le prix des terrasses."],
+                  "answer": "Le stationnement."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "b1_u19_l02_wr01",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "Some feel that the reform is going too fast.",
+              "answer": "Certains estiment que la réforme va trop vite.",
+              "acceptedAnswers": ["Certains estiment que la reforme va trop vite", "Certains pensent que la réforme va trop vite"]
+            },
+            {
+              "id": "b1_u19_l02_wr02",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "I don't think there is a consensus on this question.",
+              "answer": "Je ne pense pas qu'il y ait un consensus sur cette question.",
+              "acceptedAnswers": ["Je ne pense pas qu'il y ait un consensus sur cette question", "Je ne crois pas qu'il y ait un consensus sur cette question"]
+            },
+            {
+              "id": "b1_u19_l02_wr03",
+              "type": "arrangeWords",
+              "words": ["camps", "des", "sérieux", "les", "arguments", "deux", "ont"],
+              "answer": "les deux camps ont des arguments sérieux",
+              "english": "Both sides have serious arguments."
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "b1_u19_l02_pr01",
+              "type": "match",
+              "pairs": [
+                { "french": "l'enjeu", "english": "the issue at stake" },
+                { "french": "le compromis", "english": "the compromise" },
+                { "french": "la grève", "english": "the strike" },
+                { "french": "le clivage", "english": "the divide" }
+              ]
+            },
+            {
+              "id": "b1_u19_l02_pr02",
+              "type": "fillBlank",
+              "prompt": "Je ne pense pas que ce projet ___ vraiment utile.",
+              "answer": "soit"
+            },
+            {
+              "id": "b1_u19_l02_pr03",
+              "type": "multipleChoice",
+              "prompt": "___ ce sondage, l'opinion est partagée.",
+              "options": ["D'après", "Pendant", "Malgré", "Depuis"],
+              "answer": "D'après"
+            },
+            {
+              "id": "b1_u19_l02_pr04",
+              "type": "multipleChoice",
+              "prompt": "Quelle phrase attribue clairement l'opinion à quelqu'un d'autre ?",
+              "options": ["Pour ses opposants, le coût est trop élevé.", "Le coût est trop élevé, c'est évident.", "Tout le monde sait que le coût est trop élevé.", "Le coût est scandaleux."],
+              "answer": "Pour ses opposants, le coût est trop élevé."
+            },
+            {
+              "id": "b1_u19_l02_pr05",
+              "type": "arrangeWords",
+              "words": ["compliqué", "c'est", "que", "plus", "ça"],
+              "answer": "c'est plus compliqué que ça",
+              "english": "It's more complicated than that."
+            },
+            {
+              "id": "b1_u19_l02_pr06",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "The town hall has reportedly accepted the plan.",
+              "answer": "La mairie aurait accepté le plan.",
+              "acceptedAnswers": ["La mairie aurait accepte le plan", "La mairie aurait accepté le projet"]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "b1_u19_l02_qz01",
+              "type": "multipleChoice",
+              "prompt": "Que signifie « nuancer un argument » ?",
+              "options": ["Le rendre plus mesuré, moins absolu.", "Le répéter plus fort.", "Le traduire en anglais.", "Le refuser complètement."],
+              "answer": "Le rendre plus mesuré, moins absolu."
+            },
+            {
+              "id": "b1_u19_l02_qz02",
+              "type": "fillBlank",
+              "prompt": "Il faut qu'on ___ les deux camps. (écouter)",
+              "answer": "écoute"
+            },
+            {
+              "id": "b1_u19_l02_qz03",
+              "type": "multipleChoice",
+              "prompt": "Comment dit-on \"purchasing power\" en français ?",
+              "options": ["le pouvoir d'achat", "le prix de vente", "le coût du travail", "le budget familial"],
+              "answer": "le pouvoir d'achat"
+            },
+            {
+              "id": "b1_u19_l02_qz04",
+              "type": "trueFalse",
+              "prompt": "Après « je pense que », on utilise normalement l'indicatif.",
+              "options": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "b1_u19_l02_qz05",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "Others reply that it costs too much.",
+              "answer": "D'autres répondent que ça coûte trop cher.",
+              "acceptedAnswers": ["D'autres repondent que ca coute trop cher", "D'autres répondent que cela coûte trop cher"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1_u19_l03",
+      "level": "B1",
+      "unit": 19,
+      "title": "S'engager",
+      "description": "Joining an association, signing a petition, speaking up at a neighbourhood council — the practical French of getting involved where you live.",
+      "estimatedMinutes": 17,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Rejoindre une association",
+              "body": "France runs on associations — over a million of them, from the football club to the food bank. To join you adhérer à l'association and pay une cotisation, often twenty or thirty euros a year. Someone who gives time without pay is un bénévole, and the activity itself is le bénévolat. Every association has une assemblée générale once a year.",
+              "examples": [
+                { "french": "J'ai adhéré à une association de quartier en septembre.", "english": "I joined a neighbourhood association in September." },
+                { "french": "La cotisation annuelle est de vingt euros.", "english": "The annual membership fee is twenty euros." },
+                { "french": "Nous cherchons des bénévoles pour le samedi matin.", "english": "We're looking for volunteers for Saturday mornings." },
+                { "french": "L'assemblée générale a lieu en janvier.", "english": "The general meeting takes place in January." },
+                { "french": "Le trésorier présente les comptes de l'année.", "english": "The treasurer presents the year's accounts." }
+              ],
+              "tip": "Le forum des associations, held in most towns in early September, is the easiest way to find one — dozens of stands in a single gym."
+            },
+            {
+              "heading": "Le conseil de quartier et la pétition",
+              "body": "Many towns have un conseil de quartier: an open meeting where residents and un élu discuss local matters, following un ordre du jour. If you want to push an idea, you can lancer une pétition, collect signatures, and hand it to la mairie. Some towns also run un budget participatif, where residents vote on projects to fund.",
+              "examples": [
+                { "french": "Le conseil de quartier se réunit tous les deux mois.", "english": "The neighbourhood council meets every two months." },
+                { "french": "L'ordre du jour est envoyé une semaine avant.", "english": "The agenda is sent out a week beforehand." },
+                { "french": "Nous avons lancé une pétition pour un passage piéton.", "english": "We launched a petition for a pedestrian crossing." },
+                { "french": "Elle a recueilli trois cents signatures en dix jours.", "english": "She collected three hundred signatures in ten days." },
+                { "french": "Le budget participatif finance trois projets par an.", "english": "The participatory budget funds three projects a year." }
+              ],
+              "tip": "At a conseil de quartier, raise your hand and start with « Bonsoir, j'habite rue… » — introducing yourself first is expected."
+            },
+            {
+              "heading": "Proposer et se rendre utile",
+              "body": "Getting involved mostly means offering something concrete: du temps, un coup de main, une idée. Useful openers are je voudrais participer à…, je peux donner un coup de main, on pourrait organiser… If you can only give a little, say so honestly: je peux venir une fois par mois.",
+              "examples": [
+                { "french": "Je voudrais participer à la collecte de printemps.", "english": "I'd like to take part in the spring collection." },
+                { "french": "Je peux donner un coup de main le samedi matin.", "english": "I can lend a hand on Saturday mornings." },
+                { "french": "On pourrait organiser un atelier pour les enfants.", "english": "We could organise a workshop for the children." },
+                { "french": "Je suis disponible une fois par mois, pas plus.", "english": "I'm available once a month, no more." },
+                { "french": "En signant cette pétition, on soutient le projet.", "english": "By signing this petition, we support the project." }
+              ],
+              "tip": "Un coup de main is the everyday word for help. « Tu me donnes un coup de main ? » is warmer than « Tu peux m'aider ? »"
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "s-engager", "french": "s'engager", "english": "to get involved, to commit", "partOfSpeech": "verb", "pronunciation": "san-ga-zhay", "example": "Il s'est engagé dans une association de quartier.", "exampleEnglish": "He got involved in a neighbourhood association.", "level": "B1", "category": "civics" },
+            { "id": "engagement", "french": "l'engagement", "english": "the commitment, the involvement", "partOfSpeech": "noun", "gender": "m", "plural": "les engagements", "pronunciation": "an-gazh-man", "example": "Son engagement associatif prend deux soirées par semaine.", "exampleEnglish": "His voluntary commitment takes two evenings a week.", "level": "B1", "category": "civics" },
+            { "id": "association", "french": "l'association", "english": "the association, the non-profit", "partOfSpeech": "noun", "gender": "f", "plural": "les associations", "pronunciation": "a-so-sya-syon", "example": "L'association organise un repas de quartier en juin.", "exampleEnglish": "The association organises a neighbourhood meal in June.", "level": "B1", "category": "civics" },
+            { "id": "adherer", "french": "adhérer", "english": "to join (an association)", "partOfSpeech": "verb", "pronunciation": "a-day-ray", "example": "Pour adhérer, il suffit de remplir ce formulaire.", "exampleEnglish": "To join, you just fill in this form.", "level": "B1", "category": "civics" },
+            { "id": "adhesion", "french": "l'adhésion", "english": "the membership", "partOfSpeech": "noun", "gender": "f", "plural": "les adhésions", "pronunciation": "a-day-zyon", "example": "Votre adhésion est valable un an.", "exampleEnglish": "Your membership is valid for one year.", "level": "B1", "category": "civics" },
+            { "id": "cotisation", "french": "la cotisation", "english": "the membership fee, the subscription", "partOfSpeech": "noun", "gender": "f", "plural": "les cotisations", "pronunciation": "ko-tee-za-syon", "example": "La cotisation reste modeste pour les étudiants.", "exampleEnglish": "The fee stays low for students.", "level": "B1", "category": "civics" },
+            { "id": "le-membre", "french": "le membre", "english": "the member", "partOfSpeech": "noun", "gender": "m", "plural": "les membres", "pronunciation": "manbr", "example": "L'association compte quatre-vingts membres.", "exampleEnglish": "The association has eighty members.", "level": "B1", "category": "civics" },
+            { "id": "benevole", "french": "le bénévole", "english": "the volunteer", "partOfSpeech": "noun", "gender": "m", "plural": "les bénévoles", "pronunciation": "bay-nay-vol", "example": "Les bénévoles tiennent le stand tout le week-end.", "exampleEnglish": "The volunteers run the stall all weekend.", "level": "B1", "category": "civics" },
+            { "id": "benevolat", "french": "le bénévolat", "english": "voluntary work", "partOfSpeech": "noun", "gender": "m", "plural": "les bénévolats", "pronunciation": "bay-nay-vo-la", "example": "Le bénévolat lui a fait rencontrer tout le quartier.", "exampleEnglish": "Volunteering made him meet the whole neighbourhood.", "level": "B1", "category": "civics" },
+            { "id": "assemblee-generale", "french": "l'assemblée générale", "english": "the annual general meeting", "partOfSpeech": "noun", "gender": "f", "plural": "les assemblées générales", "pronunciation": "a-san-blay zhay-nay-ral", "example": "L'assemblée générale élit le nouveau bureau.", "exampleEnglish": "The general meeting elects the new committee.", "level": "B1", "category": "civics" },
+            { "id": "le-tresorier", "french": "le trésorier", "english": "the treasurer", "partOfSpeech": "noun", "gender": "m", "plural": "les trésoriers", "pronunciation": "tray-zo-ryay", "example": "Le trésorier a présenté un budget équilibré.", "exampleEnglish": "The treasurer presented a balanced budget.", "level": "B1", "category": "civics" },
+            { "id": "le-formulaire", "french": "le formulaire", "english": "the form", "partOfSpeech": "noun", "gender": "m", "plural": "les formulaires", "pronunciation": "for-mü-lehr", "example": "Remplissez le formulaire et signez en bas.", "exampleEnglish": "Fill in the form and sign at the bottom.", "level": "B1", "category": "admin" },
+            { "id": "la-demarche", "french": "la démarche", "english": "the procedure, the step to take", "partOfSpeech": "noun", "gender": "f", "plural": "les démarches", "pronunciation": "day-marsh", "example": "La démarche prend cinq minutes en ligne.", "exampleEnglish": "The procedure takes five minutes online.", "level": "B1", "category": "admin" },
+            { "id": "petition", "french": "la pétition", "english": "the petition", "partOfSpeech": "noun", "gender": "f", "plural": "les pétitions", "pronunciation": "pay-tee-syon", "example": "La pétition demande un passage piéton devant l'école.", "exampleEnglish": "The petition asks for a crossing outside the school.", "level": "B1", "category": "civics" },
+            { "id": "signer", "french": "signer", "english": "to sign", "partOfSpeech": "verb", "pronunciation": "see-ñay", "example": "Trois cents personnes ont signé en dix jours.", "exampleEnglish": "Three hundred people signed in ten days.", "level": "B1", "category": "civics" },
+            { "id": "le-conseil-de-quartier", "french": "le conseil de quartier", "english": "the neighbourhood council", "partOfSpeech": "noun", "gender": "m", "plural": "les conseils de quartier", "pronunciation": "kon-sey deu kar-tyay", "example": "Le conseil de quartier est ouvert à tous les habitants.", "exampleEnglish": "The neighbourhood council is open to all residents.", "level": "B1", "category": "civics" },
+            { "id": "le-quartier", "french": "le quartier", "english": "the neighbourhood, the district", "partOfSpeech": "noun", "gender": "m", "plural": "les quartiers", "pronunciation": "kar-tyay", "example": "Notre quartier a sa propre fête en juin.", "exampleEnglish": "Our neighbourhood has its own street party in June.", "level": "B1", "category": "city" },
+            { "id": "le-voisin", "french": "le voisin", "english": "the neighbour", "partOfSpeech": "noun", "gender": "m", "plural": "les voisins", "pronunciation": "vwa-zan", "example": "Mes voisins tiennent la buvette de la fête.", "exampleEnglish": "My neighbours run the refreshment stand at the party.", "level": "B1", "category": "city" },
+            { "id": "la-reunion", "french": "la réunion", "english": "the meeting", "partOfSpeech": "noun", "gender": "f", "plural": "les réunions", "pronunciation": "ray-ü-nyon", "example": "La réunion publique commence à dix-neuf heures.", "exampleEnglish": "The public meeting starts at seven in the evening.", "level": "B1", "category": "civics" },
+            { "id": "l-ordre-du-jour", "french": "l'ordre du jour", "english": "the agenda", "partOfSpeech": "noun", "gender": "m", "plural": "les ordres du jour", "pronunciation": "ordr dü zhoor", "example": "Trois points sont à l'ordre du jour ce soir.", "exampleEnglish": "There are three items on the agenda tonight.", "level": "B1", "category": "civics" },
+            { "id": "l-elu", "french": "l'élu", "english": "the elected representative", "partOfSpeech": "noun", "gender": "m", "plural": "les élus", "pronunciation": "ay-lü", "example": "Un élu de la mairie répond aux questions.", "exampleEnglish": "An elected official from the town hall answers questions.", "level": "B1", "category": "civics" },
+            { "id": "concertation", "french": "la concertation", "english": "the consultation process", "partOfSpeech": "noun", "gender": "f", "plural": "les concertations", "pronunciation": "kon-ser-ta-syon", "example": "La concertation sur le parc durera trois mois.", "exampleEnglish": "The consultation on the park will last three months.", "level": "B1", "category": "civics" },
+            { "id": "le-budget-participatif", "french": "le budget participatif", "english": "the participatory budget", "partOfSpeech": "noun", "gender": "m", "plural": "les budgets participatifs", "pronunciation": "büd-zhay par-tee-see-pa-teef", "example": "Le budget participatif finance les idées des habitants.", "exampleEnglish": "The participatory budget funds residents' ideas.", "level": "B1", "category": "civics" },
+            { "id": "subvention", "french": "la subvention", "english": "the grant, the subsidy", "partOfSpeech": "noun", "gender": "f", "plural": "les subventions", "pronunciation": "süb-van-syon", "example": "L'association a demandé une subvention à la mairie.", "exampleEnglish": "The association applied to the town hall for a grant.", "level": "B1", "category": "civics" },
+            { "id": "le-projet", "french": "le projet", "english": "the project, the plan", "partOfSpeech": "noun", "gender": "m", "plural": "les projets", "pronunciation": "pro-zhay", "example": "Notre projet de jardin partagé a été retenu.", "exampleEnglish": "Our shared-garden project was selected.", "level": "B1", "category": "civics" },
+            { "id": "la-collecte", "french": "la collecte", "english": "the collection drive", "partOfSpeech": "noun", "gender": "f", "plural": "les collectes", "pronunciation": "ko-lekt", "example": "La collecte de jouets a lieu avant Noël.", "exampleEnglish": "The toy collection takes place before Christmas.", "level": "B1", "category": "civics" },
+            { "id": "don", "french": "le don", "english": "the donation", "partOfSpeech": "noun", "gender": "m", "plural": "les dons", "pronunciation": "don", "example": "Un don de dix euros suffit pour aider.", "exampleEnglish": "A ten-euro donation is enough to help.", "level": "B1", "category": "civics" },
+            { "id": "solidarite", "french": "la solidarité", "english": "solidarity, mutual support", "partOfSpeech": "noun", "gender": "f", "plural": "les solidarités", "pronunciation": "so-lee-da-ree-tay", "example": "La solidarité entre voisins a beaucoup aidé cet hiver.", "exampleEnglish": "Solidarity between neighbours helped a lot this winter.", "level": "B1", "category": "civics" },
+            { "id": "entraide", "french": "l'entraide", "english": "mutual aid, helping each other", "partOfSpeech": "noun", "gender": "f", "plural": "les entraides", "pronunciation": "an-tred", "example": "Un groupe d'entraide s'est créé dans l'immeuble.", "exampleEnglish": "A mutual-aid group was set up in the building.", "level": "B1", "category": "civics" },
+            { "id": "la-cause", "french": "la cause", "english": "the cause (one defends)", "partOfSpeech": "noun", "gender": "f", "plural": "les causes", "pronunciation": "kohz", "example": "Elle défend cette cause depuis dix ans.", "exampleEnglish": "She has been defending this cause for ten years.", "level": "B1", "category": "civics" },
+            { "id": "militer", "french": "militer", "english": "to campaign, to be an activist", "partOfSpeech": "verb", "pronunciation": "mee-lee-tay", "example": "Il milite pour des pistes cyclables plus sûres.", "exampleEnglish": "He campaigns for safer cycle lanes.", "level": "B1", "category": "civics" },
+            { "id": "militant", "french": "le militant", "english": "the activist, the campaigner", "partOfSpeech": "noun", "gender": "m", "plural": "les militants", "pronunciation": "mee-lee-tan", "example": "Les militants distribuent des tracts devant le marché.", "exampleEnglish": "The campaigners hand out leaflets outside the market.", "level": "B1", "category": "civics" },
+            { "id": "tract", "french": "le tract", "english": "the leaflet, the flyer", "partOfSpeech": "noun", "gender": "m", "plural": "les tracts", "pronunciation": "trakt", "example": "On a imprimé deux cents tracts pour la réunion.", "exampleEnglish": "We printed two hundred leaflets for the meeting.", "level": "B1", "category": "civics" },
+            { "id": "sensibiliser", "french": "sensibiliser", "english": "to raise awareness among", "partOfSpeech": "verb", "pronunciation": "san-see-bee-lee-zay", "example": "L'atelier sensibilise les enfants au tri des déchets.", "exampleEnglish": "The workshop raises children's awareness of waste sorting.", "level": "B1", "category": "civics" },
+            { "id": "mobilisation", "french": "la mobilisation", "english": "the mobilisation, the turnout", "partOfSpeech": "noun", "gender": "f", "plural": "les mobilisations", "pronunciation": "mo-bee-lee-za-syon", "example": "La mobilisation des habitants a surpris la mairie.", "exampleEnglish": "The residents' mobilisation surprised the town hall.", "level": "B1", "category": "civics" },
+            { "id": "se-mobiliser", "french": "se mobiliser", "english": "to rally, to get mobilised", "partOfSpeech": "verb", "pronunciation": "seu mo-bee-lee-zay", "example": "Le quartier s'est mobilisé pour sauver la bibliothèque.", "exampleEnglish": "The neighbourhood rallied to save the library.", "level": "B1", "category": "civics" },
+            { "id": "recruter", "french": "recruter", "english": "to recruit", "partOfSpeech": "verb", "pronunciation": "reu-krü-tay", "example": "L'association recrute des bénévoles pour l'été.", "exampleEnglish": "The association is recruiting volunteers for the summer.", "level": "B1", "category": "civics" },
+            { "id": "la-permanence", "french": "la permanence", "english": "the drop-in session, the duty desk", "partOfSpeech": "noun", "gender": "f", "plural": "les permanences", "pronunciation": "per-ma-nans", "example": "Une permanence a lieu le mercredi de 17 h à 19 h.", "exampleEnglish": "There is a drop-in session on Wednesdays from 5 to 7 pm.", "level": "B1", "category": "civics" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Le conditionnel pour proposer poliment",
+              "body": "In a meeting, the conditional turns an order into a suggestion. Take the future stem and add the imparfait endings: on pourrait, il faudrait, ce serait, j'aimerais, je proposerais. Compare on doit faire ça (we must do that) with on pourrait faire ça (we could do that) — the second one invites a reply.",
+              "examples": [
+                { "french": "On pourrait organiser un atelier au printemps.", "english": "We could organise a workshop in the spring." },
+                { "french": "Il faudrait prévenir les voisins une semaine avant.", "english": "We ought to tell the neighbours a week beforehand." },
+                { "french": "Ce serait bien d'avoir plus de bénévoles.", "english": "It would be good to have more volunteers." },
+                { "french": "J'aimerais participer à la collecte de printemps.", "english": "I'd like to take part in the spring collection." },
+                { "french": "Je proposerais plutôt le samedi matin.", "english": "I'd suggest Saturday morning instead." }
+              ],
+              "tip": "Il faudrait is the single most useful phrase in a French meeting: it says something must happen without blaming anyone."
+            },
+            {
+              "heading": "Le gérondif : en + participe présent",
+              "body": "The gérondif says how or when something happens, with the same subject in both halves. Build it from the nous form of the present: nous signons → en signant, nous participons → en participant. Three verbs are irregular: être → en étant, avoir → en ayant, savoir → en sachant.",
+              "examples": [
+                { "french": "En signant cette pétition, vous soutenez le projet.", "english": "By signing this petition, you support the project." },
+                { "french": "En participant au conseil de quartier, on rencontre ses voisins.", "english": "By taking part in the neighbourhood council, you meet your neighbours." },
+                { "french": "Elle a trouvé son association en cherchant sur le site de la mairie.", "english": "She found her association by searching on the town hall's website." },
+                { "french": "En donnant deux heures par mois, on aide déjà beaucoup.", "english": "By giving two hours a month, you already help a lot." },
+                { "french": "En étant bénévole, on apprend énormément.", "english": "By being a volunteer, you learn a huge amount.", "note": "irregular: être → en étant" }
+              ],
+              "tip": "Careful: the gérondif needs the same subject on both sides. « En signant la pétition, la mairie a réagi » would mean the town hall signed it!"
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "b1_u19_l03_li01",
+              "type": "listenChoose",
+              "french": "Nous cherchons des bénévoles pour le samedi matin.",
+              "options": ["We're looking for volunteers for Saturday mornings.", "We're looking for members for Sunday evenings.", "We're paying staff for Saturday mornings.", "We're closing the stand on Saturday morning."],
+              "answer": "We're looking for volunteers for Saturday mornings."
+            },
+            {
+              "id": "b1_u19_l03_li02",
+              "type": "listenChoose",
+              "french": "La cotisation annuelle est de vingt euros.",
+              "options": ["The annual membership fee is twenty euros.", "The annual grant is twenty euros.", "The monthly fee is twenty euros.", "The donation is twenty-two euros."],
+              "answer": "The annual membership fee is twenty euros."
+            },
+            {
+              "id": "b1_u19_l03_li03",
+              "type": "listenType",
+              "french": "Je peux donner un coup de main le samedi.",
+              "answer": "Je peux donner un coup de main le samedi.",
+              "acceptedAnswers": ["Je peux donner un coup de main le samedi", "je peux donner un coup de main le samedi"]
+            },
+            {
+              "id": "b1_u19_l03_li04",
+              "type": "dictation",
+              "french": "Le conseil de quartier se réunit tous les deux mois.",
+              "answer": "Le conseil de quartier se réunit tous les deux mois.",
+              "acceptedAnswers": ["Le conseil de quartier se reunit tous les deux mois", "le conseil de quartier se réunit tous les deux mois"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "b1_u19_l03_sp01",
+              "type": "speak",
+              "french": "Bonjour, je voudrais adhérer à votre association.",
+              "english": "Hello, I'd like to join your association.",
+              "prompt": "Introduce yourself at an association's stand at the September forum.",
+              "tip": "Adhérer has two clear é sounds: a-day-ray, each one short and bright, never \"adeer\"."
+            },
+            {
+              "id": "b1_u19_l03_sp02",
+              "type": "speak",
+              "french": "On pourrait organiser un atelier pour les enfants du quartier.",
+              "english": "We could organise a workshop for the children of the neighbourhood.",
+              "prompt": "Make a suggestion at a neighbourhood council meeting.",
+              "tip": "Pourrait ends in the open è sound: poo-reh, and the double r is barely rolled."
+            },
+            {
+              "id": "b1_u19_l03_sp03",
+              "type": "speak",
+              "french": "En signant cette pétition, vous soutenez le projet du jardin partagé.",
+              "english": "By signing this petition, you support the shared-garden project.",
+              "prompt": "Explain to a passer-by what their signature does.",
+              "tip": "Signant is see-ñan: the gn is the ñ of \"onion\", and the ending is nasal."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Le jardin partagé de la rue des Lilas",
+              "french": "Tout a commencé par une conversation entre deux voisines devant un terrain vague, rue des Lilas.\nElles ont écrit à la mairie, sans réponse pendant deux mois.\nAlors elles ont lancé une pétition et recueilli quatre cent dix signatures en trois semaines.\nEn octobre, un élu est venu au conseil de quartier pour écouter les habitants.\nL'ordre du jour tenait en une ligne : « Que faire du terrain de la rue des Lilas ? »\nUne association s'est créée dans la foulée, avec une cotisation de quinze euros par an.\nAujourd'hui, elle compte soixante membres et une dizaine de bénévoles réguliers.\nLa mairie a accordé une petite subvention et prêté l'eau ; le reste vient de dons.\nLe samedi matin, une permanence accueille les nouveaux et distribue les outils.\n« En participant, on rencontre des gens qu'on n'aurait jamais croisés », explique Sofia, la trésorière.\nLe projet a été retenu cette année par le budget participatif de la commune.\nIl faudrait maintenant trouver deux bénévoles de plus pour l'atelier des enfants.",
+              "english": "It all started with a conversation between two neighbours in front of a piece of waste ground on rue des Lilas.\nThey wrote to the town hall, with no reply for two months.\nSo they launched a petition and collected four hundred and ten signatures in three weeks.\nIn October, an elected representative came to the neighbourhood council to listen to residents.\nThe agenda fitted on one line: \"What should we do with the rue des Lilas site?\"\nAn association was set up straight away, with a fee of fifteen euros a year.\nToday it has sixty members and about ten regular volunteers.\nThe town hall granted a small subsidy and provided water; the rest comes from donations.\nOn Saturday mornings, a drop-in session welcomes newcomers and hands out the tools.\n\"By taking part, you meet people you would never have come across,\" explains Sofia, the treasurer.\nThe project was selected this year by the town's participatory budget.\nNow they need to find two more volunteers for the children's workshop.",
+              "questions": [
+                {
+                  "id": "b1_u19_l03_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Qu'ont fait les deux voisines après le silence de la mairie ?",
+                  "options": ["Elles ont lancé une pétition.", "Elles ont acheté le terrain.", "Elles ont organisé une grève.", "Elles se sont présentées aux élections."],
+                  "answer": "Elles ont lancé une pétition."
+                },
+                {
+                  "id": "b1_u19_l03_rd02",
+                  "type": "trueFalse",
+                  "prompt": "L'association fonctionne uniquement grâce à la subvention de la mairie.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                },
+                {
+                  "id": "b1_u19_l03_rd03",
+                  "type": "multipleChoice",
+                  "prompt": "Que se passe-t-il le samedi matin ?",
+                  "options": ["Une permanence accueille les nouveaux.", "Le conseil municipal se réunit.", "On distribue des tracts au marché.", "L'assemblée générale élit le bureau."],
+                  "answer": "Une permanence accueille les nouveaux."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "b1_u19_l03_wr01",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "I'd like to join your association.",
+              "answer": "Je voudrais adhérer à votre association.",
+              "acceptedAnswers": ["Je voudrais adherer a votre association", "J'aimerais adhérer à votre association"]
+            },
+            {
+              "id": "b1_u19_l03_wr02",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "We could organise a workshop for the children.",
+              "answer": "On pourrait organiser un atelier pour les enfants.",
+              "acceptedAnswers": ["On pourrait organiser un atelier pour les enfants", "Nous pourrions organiser un atelier pour les enfants"]
+            },
+            {
+              "id": "b1_u19_l03_wr03",
+              "type": "arrangeWords",
+              "words": ["projet", "vous", "en", "le", "soutenez", "signant"],
+              "answer": "en signant vous soutenez le projet",
+              "english": "By signing, you support the project."
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "b1_u19_l03_pr01",
+              "type": "match",
+              "pairs": [
+                { "french": "le bénévole", "english": "the volunteer" },
+                { "french": "la cotisation", "english": "the membership fee" },
+                { "french": "l'ordre du jour", "english": "the agenda" },
+                { "french": "la subvention", "english": "the grant" }
+              ]
+            },
+            {
+              "id": "b1_u19_l03_pr02",
+              "type": "fillBlank",
+              "prompt": "En ___ cette pétition, vous soutenez le projet. (signer)",
+              "answer": "signant"
+            },
+            {
+              "id": "b1_u19_l03_pr03",
+              "type": "multipleChoice",
+              "prompt": "Pour proposer poliment une idée en réunion, on dit :",
+              "options": ["On pourrait organiser un atelier.", "Vous devez organiser un atelier.", "Organisez un atelier tout de suite.", "Il faut absolument m'écouter."],
+              "answer": "On pourrait organiser un atelier."
+            },
+            {
+              "id": "b1_u19_l03_pr04",
+              "type": "fillBlank",
+              "prompt": "Il ___ prévenir les voisins une semaine avant. (falloir, conditionnel)",
+              "answer": "faudrait"
+            },
+            {
+              "id": "b1_u19_l03_pr05",
+              "type": "arrangeWords",
+              "words": ["bénévoles", "cherchons", "des", "nous", "réguliers"],
+              "answer": "nous cherchons des bénévoles réguliers",
+              "english": "We are looking for regular volunteers."
+            },
+            {
+              "id": "b1_u19_l03_pr06",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "The neighbourhood council meets every two months.",
+              "answer": "Le conseil de quartier se réunit tous les deux mois.",
+              "acceptedAnswers": ["Le conseil de quartier se reunit tous les deux mois", "Le conseil de quartier se réunit tous les 2 mois"]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "b1_u19_l03_qz01",
+              "type": "multipleChoice",
+              "prompt": "Comment dit-on \"voluntary work\" en français ?",
+              "options": ["le bénévolat", "le bénéfice", "la cotisation", "le salariat"],
+              "answer": "le bénévolat"
+            },
+            {
+              "id": "b1_u19_l03_qz02",
+              "type": "fillBlank",
+              "prompt": "Pour adhérer, il faut remplir un ___ et payer la cotisation.",
+              "answer": "formulaire"
+            },
+            {
+              "id": "b1_u19_l03_qz03",
+              "type": "trueFalse",
+              "prompt": "Une permanence est un moment où l'on peut venir sans rendez-vous.",
+              "options": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "b1_u19_l03_qz04",
+              "type": "multipleChoice",
+              "prompt": "Quel gérondif est correct ?",
+              "options": ["en participant", "en participer", "en participé", "en participons"],
+              "answer": "en participant"
+            },
+            {
+              "id": "b1_u19_l03_qz05",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "The association is recruiting volunteers for the summer.",
+              "answer": "L'association recrute des bénévoles pour l'été.",
+              "acceptedAnswers": ["L'association recrute des benevoles pour l'ete", "L'association recrute des bénévoles pour l'été"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

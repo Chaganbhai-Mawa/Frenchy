@@ -1,0 +1,581 @@
+{
+  "id": "c1_u30",
+  "level": "C1",
+  "unit": 30,
+  "title": "C1 Consolidation",
+  "subtitle": "Bring together synthesis, critical argument, and oral presentation — the three pillars of advanced academic and professional French",
+  "icon": "🏁",
+  "lessons": [
+    {
+      "id": "c1_u30_l01",
+      "level": "C1",
+      "unit": 30,
+      "title": "Synthèse de documents",
+      "description": "Combine several source texts into a single, objective synthesis — extracting the shared thread and the points of tension without ever inserting your own opinion.",
+      "estimatedMinutes": 19,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Qu'est-ce qu'une synthèse de documents ?",
+              "body": "A synthèse de documents draws together several source texts around a shared question and restates their content in a single, organized whole — without adding a personal opinion anywhere. The exercise tests whether you can identify what the sources actually say, where they agree, where they clash, and how to present that map clearly. The temptation to slip in 'je pense que' is exactly what a synthesis forbids.",
+              "examples": [
+                { "french": "Ces trois documents interrogent, chacun à sa manière, la place du travail dans l'existence.", "english": "These three documents each examine, in their own way, the place of work in life." },
+                { "french": "La synthèse ne consiste pas à résumer chaque texte l'un après l'autre, mais à croiser leurs idées.", "english": "A synthesis does not consist of summarizing each text one after another, but of crossing their ideas together." },
+                { "french": "Aucun jugement personnel ne doit transparaître dans une synthèse objective.", "english": "No personal judgment should show through in an objective synthesis." },
+                { "french": "L'exercice suppose de dégager une problématique commune aux documents proposés.", "english": "The exercise requires drawing out a shared underlying question from the documents provided." },
+                { "french": "Un bon synthétiseur s'efface derrière les idées qu'il organise.", "english": "A good synthesizer disappears behind the ideas they are organizing." }
+              ],
+              "tip": "The single most common failure is writing three mini-summaries back to back — a real synthesis interleaves the sources, sentence by sentence, around shared themes."
+            },
+            {
+              "heading": "Organiser la synthèse : plan et fil conducteur",
+              "body": "Before writing a word, group the documents' ideas into two or three themes, not into 'document 1, document 2, document 3'. Each paragraph should carry an idée directrice — a single guiding idea — and weave in whichever sources speak to it, named as they contribute. The fil conducteur (the thread running through the whole piece) is what turns a pile of quotations into a coherent text.",
+              "examples": [
+                { "french": "Le premier axe rassemble les documents qui insistent sur les bénéfices du télétravail.", "english": "The first strand brings together the documents that emphasize the benefits of remote work." },
+                { "french": "Ce deuxième axe met en évidence une tension entre flexibilité et isolement.", "english": "This second strand highlights a tension between flexibility and isolation." },
+                { "french": "Chaque paragraphe doit s'organiser autour d'une seule idée directrice, clairement énoncée.", "english": "Each paragraph should be organized around a single, clearly stated guiding idea." },
+                { "french": "Le fil conducteur relie les trois parties sans jamais se rompre.", "english": "The connecting thread links the three parts without ever breaking." }
+              ],
+              "tip": "Draft your plan as a list of themes first, then assign each source to the theme it serves — never the reverse."
+            },
+            {
+              "heading": "Reformuler sans trahir : citer, paraphraser, attribuer",
+              "body": "Every idea borrowed from a source must be clearly attributed — 'selon l'auteur', 'pour X', 'd'après ce document' — and reformulated in your own words rather than copied verbatim. Paraphrasing precisely, without distorting the original claim, is the technical skill this exercise really tests; a synthesis that quotes at length has missed the point.",
+              "examples": [
+                { "french": "Selon l'auteur du premier document, cette évolution est irréversible.", "english": "According to the author of the first document, this shift is irreversible." },
+                { "french": "Pour le sociologue cité dans le deuxième texte, la fracture se creuse surtout chez les jeunes actifs.", "english": "For the sociologist quoted in the second text, the divide is widening especially among young workers." },
+                { "french": "L'auteur soutient l'idée selon laquelle la technologie ne fait qu'amplifier des tendances déjà anciennes.", "english": "The author defends the idea that technology only amplifies already old trends." },
+                { "french": "Reformuler n'est pas simplifier à outrance : il faut préserver la nuance du propos initial.", "english": "Paraphrasing is not oversimplifying: the nuance of the original point must be preserved." },
+                { "french": "Toute citation directe doit rester brève et se justifier par sa force propre.", "english": "Any direct quotation must stay brief and be justified by its own particular force." }
+              ],
+              "tip": "If you cannot paraphrase a sentence without changing its meaning, you have not fully understood it yet — reread before you reformulate."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "synthese-de-documents", "french": "la synthèse de documents", "english": "the document synthesis", "partOfSpeech": "noun", "gender": "f", "plural": "les synthèses de documents", "pronunciation": "san-TEZ duh do-kew-MAHN", "example": "L'épreuve de synthèse de documents exige rigueur et neutralité.", "exampleEnglish": "The document synthesis exercise demands rigor and neutrality.", "level": "C1", "category": "document-synthesis" },
+            { "id": "corpus", "french": "le corpus", "english": "the corpus, the set of source texts", "partOfSpeech": "noun", "gender": "m", "plural": "les corpus", "pronunciation": "kor-PUSS", "example": "Le corpus rassemble trois documents publiés à dix ans d'intervalle.", "exampleEnglish": "The corpus brings together three documents published ten years apart.", "level": "C1", "category": "document-synthesis" },
+            { "id": "problematique-commune", "french": "la problématique commune", "english": "the shared underlying question", "partOfSpeech": "noun", "gender": "f", "plural": "les problématiques communes", "pronunciation": "pro-blay-mah-TEEK ko-MEWN", "example": "Il faut d'abord dégager la problématique commune aux documents.", "exampleEnglish": "One must first identify the shared underlying question in the documents.", "level": "C1", "category": "document-synthesis" },
+            { "id": "idee-directrice", "french": "l'idée directrice", "english": "the guiding idea", "partOfSpeech": "noun", "gender": "f", "plural": "les idées directrices", "pronunciation": "ee-DAY dee-rek-TREES", "example": "Chaque paragraphe s'organise autour d'une seule idée directrice.", "exampleEnglish": "Each paragraph is organized around a single guiding idea.", "level": "C1", "category": "document-synthesis" },
+            { "id": "fil-conducteur", "french": "le fil conducteur", "english": "the connecting thread", "partOfSpeech": "noun", "gender": "m", "plural": "les fils conducteurs", "pronunciation": "feel kon-dook-TUR", "example": "Le fil conducteur relie les trois parties sans jamais se rompre.", "exampleEnglish": "The connecting thread links the three parts without ever breaking.", "level": "C1", "category": "document-synthesis" },
+            { "id": "axe-de-lecture", "french": "l'axe de lecture", "english": "the analytical angle, the reading strand", "partOfSpeech": "noun", "gender": "m", "plural": "les axes de lecture", "pronunciation": "aks duh lek-TEWR", "example": "Le premier axe de lecture rassemble les documents optimistes.", "exampleEnglish": "The first analytical angle brings together the optimistic documents.", "level": "C1", "category": "document-synthesis" },
+            { "id": "convergence", "french": "la convergence", "english": "the convergence, the point of agreement", "partOfSpeech": "noun", "gender": "f", "plural": "les convergences", "pronunciation": "kon-vehr-ZHAHNS", "example": "Une convergence nette se dessine entre les deux premiers documents.", "exampleEnglish": "A clear convergence emerges between the first two documents.", "level": "C1", "category": "document-synthesis" },
+            { "id": "divergence", "french": "la divergence", "english": "the divergence, the point of disagreement", "partOfSpeech": "noun", "gender": "f", "plural": "les divergences", "pronunciation": "dee-vehr-ZHAHNS", "example": "La divergence porte moins sur les faits que sur leur interprétation.", "exampleEnglish": "The divergence concerns the interpretation more than the facts themselves.", "level": "C1", "category": "document-synthesis" },
+            { "id": "denominateur-commun", "french": "le dénominateur commun", "english": "the common denominator", "partOfSpeech": "noun", "gender": "m", "plural": "les dénominateurs communs", "pronunciation": "day-no-mee-nah-TUR ko-MAHN", "example": "Malgré leurs différences, les trois textes partagent un dénominateur commun.", "exampleEnglish": "Despite their differences, the three texts share a common denominator.", "level": "C1", "category": "document-synthesis" },
+            { "id": "mettre-en-parallele", "french": "mettre en parallèle", "english": "to draw a parallel between, to set side by side", "partOfSpeech": "expression", "pronunciation": "MET-truh ahn pah-rah-LEL", "example": "Il est utile de mettre en parallèle ces deux points de vue opposés.", "exampleEnglish": "It is useful to set these two opposing viewpoints side by side.", "level": "C1", "category": "document-synthesis" },
+            { "id": "recouper-les-informations", "french": "recouper les informations", "english": "to cross-check the information", "partOfSpeech": "expression", "pronunciation": "ruh-koo-PAY layz an-for-mah-SYON", "example": "Recouper les informations permet de repérer les contradictions apparentes.", "exampleEnglish": "Cross-checking the information helps spot apparent contradictions.", "level": "C1", "category": "document-synthesis" },
+            { "id": "hierarchiser", "french": "hiérarchiser", "english": "to rank by importance, to prioritize", "partOfSpeech": "verb", "pronunciation": "yay-rar-shee-ZAY", "example": "Il faut hiérarchiser les informations avant de rédiger le plan.", "exampleEnglish": "The information must be ranked by importance before drafting the outline.", "level": "C1", "category": "document-synthesis" },
+            { "id": "reformuler", "french": "reformuler", "english": "to paraphrase, to rephrase", "partOfSpeech": "verb", "pronunciation": "ruh-for-mew-LAY", "example": "Reformuler n'est pas simplifier à outrance.", "exampleEnglish": "Paraphrasing is not oversimplifying.", "level": "C1", "category": "document-synthesis" },
+            { "id": "paraphraser", "french": "paraphraser", "english": "to paraphrase", "partOfSpeech": "verb", "pronunciation": "pah-rah-frah-ZAY", "example": "Paraphraser un auteur exige de préserver la nuance de son propos.", "exampleEnglish": "Paraphrasing an author requires preserving the nuance of their point.", "level": "C1", "category": "document-synthesis" },
+            { "id": "attribuer-une-idee", "french": "attribuer une idée", "english": "to attribute an idea (to its source)", "partOfSpeech": "expression", "pronunciation": "ah-tree-BWAY ewn ee-DAY", "example": "N'oubliez jamais d'attribuer une idée à l'auteur qui l'a formulée.", "exampleEnglish": "Never forget to attribute an idea to the author who formulated it.", "level": "C1", "category": "document-synthesis" },
+            { "id": "l-auteur", "french": "l'auteur", "english": "the author", "partOfSpeech": "noun", "gender": "m", "plural": "les auteurs", "pronunciation": "oh-TUR", "example": "L'auteur du deuxième document adopte un ton résolument critique.", "exampleEnglish": "The author of the second document takes a resolutely critical tone.", "level": "C1", "category": "document-synthesis" },
+            { "id": "extrait", "french": "l'extrait", "english": "the excerpt", "partOfSpeech": "noun", "gender": "m", "plural": "les extraits", "pronunciation": "ek-STREH", "example": "Cet extrait provient d'un article publié dans la presse économique.", "exampleEnglish": "This excerpt comes from an article published in the financial press.", "level": "C1", "category": "document-synthesis" },
+            { "id": "illustrer-un-propos", "french": "illustrer un propos", "english": "to illustrate a point", "partOfSpeech": "expression", "pronunciation": "ee-lew-STRAY uhn pro-POH", "example": "Un exemple bien choisi illustre un propos sans l'alourdir.", "exampleEnglish": "A well-chosen example illustrates a point without weighing it down.", "level": "C1", "category": "document-synthesis" },
+            { "id": "converger-vers", "french": "converger vers", "english": "to converge towards", "partOfSpeech": "expression", "pronunciation": "kon-vehr-ZHAY vehr", "example": "Les trois textes convergent vers un même constat.", "exampleEnglish": "The three texts converge on the same observation.", "level": "C1", "category": "document-synthesis" },
+            { "id": "diverger-de", "french": "diverger de", "english": "to diverge from", "partOfSpeech": "expression", "pronunciation": "dee-vehr-ZHAY duh", "example": "Le troisième document diverge nettement des deux premiers.", "exampleEnglish": "The third document diverges clearly from the first two.", "level": "C1", "category": "document-synthesis" },
+            { "id": "coherence-densemble", "french": "la cohérence d'ensemble", "english": "the overall coherence", "partOfSpeech": "noun", "gender": "f", "pronunciation": "ko-ay-RAHNS dahn-SAHM-bluh", "example": "Une transition maladroite peut nuire à la cohérence d'ensemble.", "exampleEnglish": "An awkward transition can harm the overall coherence.", "level": "C1", "category": "document-synthesis" },
+            { "id": "l-argumentaire", "french": "l'argumentaire", "english": "the line of argument, the case (built from evidence)", "partOfSpeech": "noun", "gender": "m", "plural": "les argumentaires", "pronunciation": "ar-gew-mahn-TEHR", "example": "L'argumentaire du document s'appuie sur des chiffres précis.", "exampleEnglish": "The document's line of argument relies on precise figures.", "level": "C1", "category": "document-synthesis" },
+            { "id": "objectivite", "french": "l'objectivité", "english": "the objectivity", "partOfSpeech": "noun", "gender": "f", "pronunciation": "ob-zhek-tee-vee-TAY", "example": "L'objectivité est la première exigence d'une bonne synthèse.", "exampleEnglish": "Objectivity is the first requirement of a good synthesis.", "level": "C1", "category": "document-synthesis" },
+            { "id": "esprit-de-synthese", "french": "l'esprit de synthèse", "english": "the synthesizing mindset, the ability to see the whole picture", "partOfSpeech": "noun", "gender": "m", "pronunciation": "es-PREE duh san-TEZ", "example": "Cet exercice développe surtout l'esprit de synthèse.", "exampleEnglish": "This exercise mainly develops the ability to see the whole picture.", "level": "C1", "category": "document-synthesis" },
+            { "id": "condenser", "french": "condenser", "english": "to condense", "partOfSpeech": "verb", "pronunciation": "kon-dahn-SAY", "example": "Il faut condenser trois pages en un seul paragraphe dense.", "exampleEnglish": "Three pages must be condensed into a single dense paragraph.", "level": "C1", "category": "document-synthesis" },
+            { "id": "idee-force", "french": "l'idée-force", "english": "the key idea, the central point", "partOfSpeech": "noun", "gender": "f", "plural": "les idées-force", "pronunciation": "ee-DAY fors", "example": "Chaque document apporte une idée-force au dossier commun.", "exampleEnglish": "Each document contributes a key idea to the shared file.", "level": "C1", "category": "document-synthesis" },
+            { "id": "mettre-en-relation", "french": "mettre en relation", "english": "to connect, to relate (ideas to one another)", "partOfSpeech": "expression", "pronunciation": "MET-truh ahn ruh-lah-SYON", "example": "L'exercice consiste à mettre en relation des idées venues de sources différentes.", "exampleEnglish": "The exercise consists of connecting ideas from different sources.", "level": "C1", "category": "document-synthesis" },
+            { "id": "point-commun", "french": "le point commun", "english": "the common point, the shared feature", "partOfSpeech": "noun", "gender": "m", "plural": "les points communs", "pronunciation": "pwan ko-MAHN", "example": "Le point commun entre ces textes est leur méfiance envers les chiffres bruts.", "exampleEnglish": "The common point among these texts is their distrust of raw figures.", "level": "C1", "category": "document-synthesis" },
+            { "id": "contradiction-apparente", "french": "la contradiction apparente", "english": "the apparent contradiction", "partOfSpeech": "noun", "gender": "f", "plural": "les contradictions apparentes", "pronunciation": "kon-trah-deek-SYON ah-pah-RAHNT", "example": "Cette contradiction apparente se dissipe à la lecture attentive.", "exampleEnglish": "This apparent contradiction fades away on close reading.", "level": "C1", "category": "document-synthesis" },
+            { "id": "nuancer-une-affirmation", "french": "nuancer une affirmation", "english": "to qualify a statement", "partOfSpeech": "expression", "pronunciation": "new-ahn-SAY ewn ah-feer-mah-SYON", "example": "Le second document vient nuancer une affirmation trop tranchée du premier.", "exampleEnglish": "The second document qualifies an overly blunt statement made by the first.", "level": "C1", "category": "document-synthesis" },
+            { "id": "tour-a-tour", "french": "tour à tour", "english": "in turn, alternately", "partOfSpeech": "adverb", "pronunciation": "toor ah TOOR", "example": "L'auteur se montre tour à tour optimiste et sceptique.", "exampleEnglish": "The author appears, in turn, optimistic and skeptical.", "level": "C1", "category": "document-synthesis" },
+            { "id": "aux-yeux-de", "french": "aux yeux de", "english": "in the eyes of, from the point of view of", "partOfSpeech": "expression", "pronunciation": "oh zyuh duh", "example": "Aux yeux de l'auteur, cette réforme demeure insuffisante.", "exampleEnglish": "In the author's eyes, this reform remains insufficient.", "level": "C1", "category": "document-synthesis" },
+            { "id": "affirmer-que", "french": "affirmer que", "english": "to assert that, to claim that", "partOfSpeech": "expression", "pronunciation": "ah-feer-MAY kuh", "example": "L'auteur affirme que la tendance va s'accélérer.", "exampleEnglish": "The author asserts that the trend will accelerate.", "level": "C1", "category": "document-synthesis" },
+            { "id": "soutenir-lidee-que", "french": "soutenir l'idée que", "english": "to argue that, to maintain the view that", "partOfSpeech": "expression", "pronunciation": "soo-tuh-NEER lee-DAY kuh", "example": "L'auteur soutient l'idée que la technologie amplifie des tendances anciennes.", "exampleEnglish": "The author maintains the view that technology amplifies old trends.", "level": "C1", "category": "document-synthesis" },
+            { "id": "contester-lidee-selon-laquelle", "french": "contester l'idée selon laquelle", "english": "to dispute the idea that", "partOfSpeech": "expression", "pronunciation": "kon-tess-TAY lee-DAY suh-lon lah-KEL", "example": "Le troisième document conteste l'idée selon laquelle le phénomène serait récent.", "exampleEnglish": "The third document disputes the idea that the phenomenon is recent.", "level": "C1", "category": "document-synthesis" },
+            { "id": "a-la-difference-de", "french": "à la différence de", "english": "unlike, in contrast to", "partOfSpeech": "expression", "pronunciation": "ah lah dee-fay-RAHNS duh", "example": "À la différence du premier document, celui-ci s'appuie sur une enquête de terrain.", "exampleEnglish": "Unlike the first document, this one relies on fieldwork.", "level": "C1", "category": "document-synthesis" },
+            { "id": "de-meme-que", "french": "de même que", "english": "just as, similarly to", "partOfSpeech": "expression", "pronunciation": "duh mem kuh", "example": "De même que le premier texte, celui-ci insiste sur la question du temps libre.", "exampleEnglish": "Just as the first text, this one emphasizes the question of free time.", "level": "C1", "category": "document-synthesis" },
+            { "id": "dans-la-meme-optique", "french": "dans la même optique", "english": "along the same lines, from the same perspective", "partOfSpeech": "expression", "pronunciation": "dahn lah mem op-TEEK", "example": "Dans la même optique, un troisième auteur relève un effet similaire.", "exampleEnglish": "Along the same lines, a third author notes a similar effect.", "level": "C1", "category": "document-synthesis" },
+            { "id": "se-garder-de-tout-jugement", "french": "se garder de tout jugement", "english": "to refrain from any judgment", "partOfSpeech": "expression", "pronunciation": "suh gar-DAY duh too zhewzh-MAHN", "example": "Une bonne synthèse se garde de tout jugement personnel.", "exampleEnglish": "A good synthesis refrains from any personal judgment.", "level": "C1", "category": "document-synthesis" },
+            { "id": "faire-la-part-des-choses", "french": "faire la part des choses", "english": "to strike a balance, to weigh things fairly", "partOfSpeech": "expression", "pronunciation": "fehr lah par day SHOZ", "example": "Le lecteur attend du synthétiseur qu'il fasse la part des choses.", "exampleEnglish": "The reader expects the synthesizer to strike a fair balance.", "level": "C1", "category": "document-synthesis" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Le discours rapporté et l'attribution des idées",
+              "body": "A synthesis constantly reports what someone else said, so the vocabulary of attribution matters as much as grammar: 'selon', 'd'après', 'pour + author', plus reporting verbs like 'affirmer que', 'soutenir que', 'contester l'idée selon laquelle'. Each phrase locates a claim with its owner, which is exactly what keeps a synthesis honest and traceable back to its sources.",
+              "examples": [
+                { "french": "Selon l'auteur, cette évolution est irréversible.", "english": "According to the author, this shift is irreversible." },
+                { "french": "Pour le sociologue cité, la fracture se creuse chez les jeunes actifs.", "english": "For the sociologist quoted, the divide is widening among young workers." },
+                { "french": "L'auteur soutient que la technologie amplifie des tendances déjà anciennes.", "english": "The author maintains that technology amplifies already old trends." },
+                { "french": "Le second document conteste l'idée selon laquelle ce phénomène serait récent.", "english": "The second document disputes the idea that this phenomenon is recent." }
+              ],
+              "tip": "Vary your reporting verbs — reusing 'dit que' for every source flattens the tone; 'affirme', 'soutient', 'nuance', 'conteste' each signal a different relationship to the claim."
+            },
+            {
+              "heading": "Mettre en relation : comparaison et opposition",
+              "body": "Once ideas are attributed, the synthesis must connect them: 'alors que' and 'tandis que' hold two facts in tension inside one sentence; 'à la différence de' and 'contrairement à' mark an explicit contrast; 'de même que' and 'dans la même optique' mark agreement. Choosing the right connector does the comparative work that a synthesis needs, without a single word of personal opinion.",
+              "examples": [
+                { "french": "Alors que le premier document loue la flexibilité du télétravail, le second en souligne les dérives.", "english": "Whereas the first document praises the flexibility of remote work, the second highlights its excesses." },
+                { "french": "Contrairement à ce qu'affirme le premier auteur, le second relativise cette avancée.", "english": "Contrary to what the first author claims, the second author puts this advance into perspective." },
+                { "french": "Tandis que certains y voient un progrès, d'autres redoutent un recul social.", "english": "Whereas some see progress in it, others fear a social setback." },
+                { "french": "De même que le premier texte, celui-ci insiste sur la question du temps libre.", "english": "Just as the first text, this one emphasizes the question of free time." }
+              ],
+              "tip": "'Alors que' and 'tandis que' can open either clause of the sentence — put the less important idea in the 'alors que' clause so the main point lands in the independent clause."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "c1_u30_l01_li01", "type": "listenChoose", "prompt": "Listen. What does the speaker say about the two documents?", "french": "Alors que le premier document loue la flexibilité du télétravail, le second en souligne les dérives.", "options": ["The two documents disagree about remote work's effects", "The two documents say exactly the same thing", "Neither document discusses remote work", "The second document was written first"], "answer": "The two documents disagree about remote work's effects" },
+            { "id": "c1_u30_l01_li02", "type": "listenChoose", "prompt": "Listen. What is being described here?", "french": "Une bonne synthèse se garde de tout jugement personnel.", "options": ["The requirement to stay objective in a synthesis", "The requirement to state a strong personal opinion", "A rule for writing a cover letter", "A rule about quoting sources word for word"], "answer": "The requirement to stay objective in a synthesis" },
+            { "id": "c1_u30_l01_li03", "type": "listenType", "prompt": "Listen and type what you hear.", "french": "Le fil conducteur relie les trois parties sans jamais se rompre.", "answer": "Le fil conducteur relie les trois parties sans jamais se rompre.", "acceptedAnswers": ["le fil conducteur relie les trois parties sans jamais se rompre"] },
+            { "id": "c1_u30_l01_li04", "type": "dictation", "prompt": "Dictation: write exactly what you hear.", "french": "L'auteur soutient que la technologie amplifie des tendances déjà anciennes.", "answer": "L'auteur soutient que la technologie amplifie des tendances déjà anciennes.", "acceptedAnswers": ["l'auteur soutient que la technologie amplifie des tendances deja anciennes", "l auteur soutient que la technologie amplifie des tendances deja anciennes"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "c1_u30_l01_sp01", "type": "speak", "prompt": "State the shared underlying question of a set of source documents.", "french": "Ces trois documents interrogent, chacun à sa manière, la place du travail dans l'existence.", "english": "These three documents each examine, in their own way, the place of work in life.", "tip": "Give equal weight to each of the three clauses — a synthesis introduction should sound balanced, not like it favors one source." },
+            { "id": "c1_u30_l01_sp02", "type": "speak", "prompt": "Point out a tension between flexibility and isolation found across your sources.", "french": "Ce deuxième axe met en évidence une tension entre flexibilité et isolement.", "english": "This second strand highlights a tension between flexibility and isolation.", "tip": "Stress 'tension' — it signals to the listener that a real disagreement between sources is coming, not just a list." },
+            { "id": "c1_u30_l01_sp03", "type": "speak", "prompt": "Explain that paraphrasing is not the same as oversimplifying.", "french": "Reformuler n'est pas simplifier à outrance.", "english": "Paraphrasing is not oversimplifying.", "tip": "Keep 'à outrance' crisp and slightly clipped — it means 'to excess', and rushing it loses the contrast the sentence is making." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Le télétravail : une synthèse",
+              "french": "Trois documents récents interrogent, chacun à sa manière, les effets du télétravail sur la vie professionnelle.\nLe premier axe de lecture rassemble les textes qui insistent sur les bénéfices de cette organisation.\nSelon l'auteur du premier document, le télétravail redonne aux salariés une autonomie que le bureau traditionnel avait progressivement effacée.\nPour l'économiste cité dans ce même texte, la suppression des trajets quotidiens représente un gain de temps considérable, réinvesti dans la vie personnelle.\nAlors que ce premier document loue la flexibilité du télétravail, le deuxième en souligne les dérives.\nD'après ce second auteur, la frontière entre vie privée et vie professionnelle tend à s'effacer, au point que certains salariés ne parviennent plus à se déconnecter.\nContrairement à ce qu'affirme le premier texte, celui-ci relativise donc l'idée d'un gain de temps réel.\nUne divergence nette se dessine ainsi entre ces deux premiers documents quant aux effets du télétravail sur l'équilibre de vie.\nLe troisième document, de nature plus sociologique, conteste l'idée selon laquelle ce phénomène serait entièrement nouveau.\nTandis que les deux premiers textes se concentrent sur l'expérience individuelle, celui-ci met en évidence une fracture générationnelle plus ancienne.\nMalgré leurs divergences, les trois documents partagent néanmoins un dénominateur commun : tous s'accordent sur la nécessité d'un cadre clair, fixé par l'entreprise plutôt que laissé à chaque salarié.\nCe point de convergence mérite d'être souligné, car il dépasse les clivages entre les trois sources.\nQuoi qu'il en soit, le télétravail apparaît, à travers ces trois documents, comme une transformation encore en cours, dont les effets définitifs restent à mesurer.",
+              "english": "Three recent documents each examine, in their own way, the effects of remote work on professional life.\nThe first analytical angle brings together the texts that emphasize the benefits of this arrangement.\nAccording to the author of the first document, remote work restores to employees an autonomy that the traditional office had gradually erased.\nFor the economist quoted in this same text, eliminating the daily commute represents a considerable time saving, reinvested in personal life.\nWhereas this first document praises the flexibility of remote work, the second highlights its excesses.\nAccording to this second author, the boundary between private and professional life tends to blur, to the point that some employees can no longer disconnect.\nContrary to what the first text claims, this one therefore puts the idea of a real time saving into perspective.\nA clear divergence thus emerges between these first two documents regarding the effects of remote work on life balance.\nThe third document, more sociological in nature, disputes the idea that this phenomenon is entirely new.\nWhereas the first two texts focus on individual experience, this one highlights an older generational divide.\nDespite their divergences, the three documents nevertheless share a common denominator: all agree on the need for a clear framework, set by the company rather than left to each employee.\nThis point of convergence deserves to be highlighted, as it goes beyond the divides between the three sources.\nBe that as it may, remote work appears, across these three documents, as a transformation still underway, whose final effects remain to be measured.",
+              "questions": [
+                { "id": "c1_u30_l01_rd01", "type": "multipleChoice", "prompt": "What do the first and second documents disagree about, according to the synthesis?", "options": ["Whether remote work truly produces a time saving and better balance", "Whether remote work should be banned", "The salary of remote workers", "Which company invented remote work"], "answer": "Whether remote work truly produces a time saving and better balance" },
+                { "id": "c1_u30_l01_rd02", "type": "trueFalse", "prompt": "True or false: the third document claims remote work's tensions are an entirely new phenomenon.", "options": ["True", "False"], "answer": "False" },
+                { "id": "c1_u30_l01_rd03", "type": "multipleChoice", "prompt": "What common denominator do all three documents share, according to the synthesis?", "options": ["The need for a clear framework set by the company", "The need to ban remote work entirely", "The need for higher salaries", "The need for longer commutes"], "answer": "The need for a clear framework set by the company" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "c1_u30_l01_wr01", "type": "translate", "prompt": "Translate: \"A good synthesis refrains from any personal judgment.\"", "english": "A good synthesis refrains from any personal judgment.", "answer": "Une bonne synthèse se garde de tout jugement personnel.", "acceptedAnswers": ["une bonne synthese se garde de tout jugement personnel"] },
+            { "id": "c1_u30_l01_wr02", "type": "arrangeWords", "prompt": "Put the words in order.", "english": "The connecting thread links the three parts without ever breaking.", "words": ["Le", "fil", "conducteur", "relie", "les", "trois", "parties", "sans", "jamais", "se", "rompre"], "answer": "Le fil conducteur relie les trois parties sans jamais se rompre" },
+            { "id": "c1_u30_l01_wr03", "type": "fillBlank", "prompt": "Complete with the correct attribution: \"___ l'auteur du premier document, cette évolution est irréversible.\"", "answer": "Selon", "hint": "A one-word preposition meaning 'according to'." }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "c1_u30_l01_pr01", "type": "multipleChoice", "prompt": "Which expression means 'to strike a balance, to weigh things fairly'?", "options": ["faire la part des choses", "se garder de tout jugement", "mettre en parallèle", "hiérarchiser"], "answer": "faire la part des choses" },
+            { "id": "c1_u30_l01_pr02", "type": "fillBlank", "prompt": "Complete: \"Reformuler n'est pas simplifier à ___.\"", "answer": "outrance", "hint": "It means 'to excess'." },
+            { "id": "c1_u30_l01_pr03", "type": "match", "prompt": "Match each expression with its meaning.", "pairs": [ { "french": "le dénominateur commun", "english": "the common denominator" }, { "french": "la divergence", "english": "the divergence, the point of disagreement" }, { "french": "recouper les informations", "english": "to cross-check the information" }, { "french": "l'idée directrice", "english": "the guiding idea" } ] },
+            { "id": "c1_u30_l01_pr04", "type": "trueFalse", "prompt": "A document synthesis should express the writer's own personal opinion.", "options": ["True", "False"], "answer": "False" },
+            { "id": "c1_u30_l01_pr05", "type": "arrangeWords", "prompt": "Put the words in order.", "english": "The author maintains that technology amplifies already old trends.", "words": ["L'auteur", "soutient", "que", "la", "technologie", "amplifie", "des", "tendances", "déjà", "anciennes"], "answer": "L'auteur soutient que la technologie amplifie des tendances déjà anciennes" },
+            { "id": "c1_u30_l01_pr06", "type": "translate", "prompt": "Translate: \"Each paragraph is organized around a single guiding idea.\"", "english": "Each paragraph is organized around a single guiding idea.", "answer": "Chaque paragraphe s'organise autour d'une seule idée directrice.", "acceptedAnswers": ["chaque paragraphe s'organise autour d'une seule idee directrice", "chaque paragraphe s organise autour d une seule idee directrice"] }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "c1_u30_l01_qz01", "type": "multipleChoice", "prompt": "What is the 'fil conducteur' of a synthesis?", "options": ["The connecting thread that links all parts of the text", "The first document quoted", "The final personal opinion", "A footnote citing sources"], "answer": "The connecting thread that links all parts of the text" },
+            { "id": "c1_u30_l01_qz02", "type": "fillBlank", "prompt": "Complete: \"L'auteur ___ l'idée selon laquelle ce phénomène serait récent.\" (disputes)", "answer": "conteste" },
+            { "id": "c1_u30_l01_qz03", "type": "multipleChoice", "prompt": "Which sentence correctly uses a contrast connector?", "options": ["Alors que le premier document loue la flexibilité, le second en souligne les dérives.", "Alors que le premier document loue la flexibilité, le second aussi la loue.", "Alors que le premier document, le second aussi.", "Alors le premier document loue la flexibilité que le second."], "answer": "Alors que le premier document loue la flexibilité, le second en souligne les dérives." },
+            { "id": "c1_u30_l01_qz04", "type": "trueFalse", "prompt": "True or false: a good synthesis should organize ideas by theme, not summarize each source one after another.", "options": ["True", "False"], "answer": "True" },
+            { "id": "c1_u30_l01_qz05", "type": "multipleChoice", "prompt": "According to the reading passage, what do all three documents on remote work ultimately agree on?", "options": ["The need for a clear framework set by the company", "That remote work should be abolished", "That salaries must rise", "That commuting is beneficial"], "answer": "The need for a clear framework set by the company" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1_u30_l02",
+      "level": "C1",
+      "unit": 30,
+      "title": "Essai critique",
+      "description": "Build a critical essay that takes a clear position, supports it with well-chosen evidence, concedes counterarguments honestly, and closes with a judgment that earns its weight.",
+      "estimatedMinutes": 19,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Prendre position : la thèse défendue",
+              "body": "Unlike a synthesis, a critical essay requires a clear personal position — a thèse defended from the first paragraph onward, not discovered gradually. The introduction should state plainly what you think and why the question matters, so the reader knows immediately what is being argued and can judge the case as it unfolds.",
+              "examples": [
+                { "french": "Nous soutiendrons ici que cette réforme, malgré ses intentions louables, manque son objectif.", "english": "We will argue here that this reform, despite its laudable intentions, misses its goal." },
+                { "french": "Notre thèse est simple : la technologie ne règle rien qu'elle ne complique par ailleurs.", "english": "Our thesis is simple: technology solves nothing that it does not also complicate elsewhere." },
+                { "french": "Il convient d'emblée de prendre position sur cette question controversée.", "english": "It is worth taking a clear position on this controversial question from the outset." },
+                { "french": "Ce jugement mérite d'être défendu avec la même rigueur qu'il a été formé.", "english": "This judgment deserves to be defended with the same rigor with which it was formed." },
+                { "french": "L'essai critique assume sa subjectivité, à condition qu'elle reste argumentée.", "english": "The critical essay owns its subjectivity, provided it stays argued rather than asserted." }
+              ],
+              "tip": "State your thesis in one clean sentence before the essay's first paragraph ends — a reader who cannot summarize your position after the intro will not follow the rest of the argument."
+            },
+            {
+              "heading": "Nuancer sans se dédire : concession et réfutation",
+              "body": "A convincing essay grants the strongest counterargument before dismantling it — conceding a real point ('certes... mais', 'on objectera que') shows the writer has considered the other side seriously, which makes the eventual refutation land harder, not softer.",
+              "examples": [
+                { "french": "Certes, cette mesure a permis des progrès réels ; elle n'en demeure pas moins insuffisante.", "english": "Granted, this measure has brought real progress; it nevertheless remains insufficient." },
+                { "french": "On objectera que la situation s'est déjà améliorée depuis dix ans.", "english": "One might object that the situation has already improved over the past ten years." },
+                { "french": "Cette objection, pour légitime qu'elle soit, ne résiste pas à l'examen des chiffres.", "english": "This objection, however legitimate, does not withstand scrutiny of the figures." },
+                { "french": "Loin de invalider notre thèse, cette nuance vient au contraire la renforcer.", "english": "Far from invalidating our thesis, this nuance in fact reinforces it." }
+              ],
+              "tip": "Concede the objection in its strongest possible form — refuting a weak version of the counterargument (a straw man) convinces no one and undermines your credibility."
+            },
+            {
+              "heading": "Illustrer et peser : l'exemple probant",
+              "body": "A claim stated without evidence remains an opinion; a claim illustrated by a well-chosen, precisely described example becomes a demonstration. The exemple probant does more work than three vague ones — pick a single case, describe it precisely, and show explicitly how it supports the point rather than simply placing it nearby.",
+              "examples": [
+                { "french": "Un seul exemple probant vaut mieux qu'une accumulation d'anecdotes vagues.", "english": "One well-chosen example is worth more than a pile of vague anecdotes." },
+                { "french": "Ce cas illustre, mieux qu'un long développement, la portée réelle du phénomène.", "english": "This case illustrates, better than a long development could, the real scope of the phenomenon." },
+                { "french": "Il ne suffit pas de citer un fait ; il faut en tirer explicitement la conséquence.", "english": "It is not enough to cite a fact; its consequence must be drawn out explicitly." },
+                { "french": "La limite de cet exemple, c'est qu'il ne se généralise pas facilement.", "english": "The limitation of this example is that it does not generalize easily." },
+                { "french": "Peser un argument, c'est aussi mesurer sa portée exacte, ni plus ni moins.", "english": "To weigh an argument is also to measure its exact scope, no more and no less." }
+              ],
+              "tip": "After every example, add one sentence spelling out exactly what it proves — an unexplained example asks the reader to do the essay's work for them."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "essai-critique", "french": "l'essai critique", "english": "the critical essay", "partOfSpeech": "noun", "gender": "m", "plural": "les essais critiques", "pronunciation": "eh-SEH kree-TEEK", "example": "L'essai critique assume sa subjectivité, à condition qu'elle reste argumentée.", "exampleEnglish": "The critical essay owns its subjectivity, provided it stays argued.", "level": "C1", "category": "critical-essay" },
+            { "id": "these-defendue", "french": "la thèse défendue", "english": "the thesis being defended", "partOfSpeech": "noun", "gender": "f", "plural": "les thèses défendues", "pronunciation": "tez day-fahn-DEW", "example": "Notre thèse est simple : la technologie ne règle rien qu'elle ne complique par ailleurs.", "exampleEnglish": "Our thesis is simple: technology solves nothing that it does not also complicate.", "level": "C1", "category": "critical-essay" },
+            { "id": "prendre-position", "french": "prendre position", "english": "to take a stance, to state one's position", "partOfSpeech": "expression", "pronunciation": "prahn-druh po-zee-SYON", "example": "Il convient d'emblée de prendre position sur cette question controversée.", "exampleEnglish": "It is worth taking a clear position on this controversial question from the outset.", "level": "C1", "category": "critical-essay" },
+            { "id": "defendre-un-jugement", "french": "défendre un jugement", "english": "to defend a judgment", "partOfSpeech": "expression", "pronunciation": "day-fahn-druh uhn zhewzh-MAHN", "example": "Ce jugement mérite d'être défendu avec la même rigueur qu'il a été formé.", "exampleEnglish": "This judgment deserves to be defended with the same rigor with which it was formed.", "level": "C1", "category": "critical-essay" },
+            { "id": "concession", "french": "la concession", "english": "the concession (in an argument)", "partOfSpeech": "noun", "gender": "f", "plural": "les concessions", "pronunciation": "kon-seh-SYON", "example": "Une concession bien placée renforce la crédibilité de l'ensemble du raisonnement.", "exampleEnglish": "A well-placed concession strengthens the credibility of the whole argument.", "level": "C1", "category": "critical-essay" },
+            { "id": "concéder-un-point", "french": "concéder un point", "english": "to concede a point", "partOfSpeech": "expression", "pronunciation": "kon-say-DAY uhn pwan", "example": "Il faut savoir concéder un point avant de le réfuter.", "exampleEnglish": "One must know how to concede a point before refuting it.", "level": "C1", "category": "critical-essay" },
+            { "id": "refuter", "french": "réfuter", "english": "to refute, to rebut", "partOfSpeech": "verb", "pronunciation": "ray-few-TAY", "example": "Cette objection, pour légitime qu'elle soit, ne résiste pas à l'examen ; nous allons la réfuter.", "exampleEnglish": "This objection, however legitimate, does not withstand scrutiny; we will refute it.", "level": "C1", "category": "critical-essay" },
+            { "id": "objection", "french": "l'objection", "english": "the objection", "partOfSpeech": "noun", "gender": "f", "plural": "les objections", "pronunciation": "ob-zhek-SYON", "example": "On objectera que la situation s'est déjà améliorée depuis dix ans.", "exampleEnglish": "One might object that the situation has already improved over the past ten years.", "level": "C1", "category": "critical-essay" },
+            { "id": "esprit-critique", "french": "l'esprit critique", "english": "the critical mind, critical thinking", "partOfSpeech": "noun", "gender": "m", "pronunciation": "es-PREE kree-TEEK", "example": "L'esprit critique consiste à évaluer un argument, non à le rejeter d'emblée.", "exampleEnglish": "Critical thinking means evaluating an argument, not rejecting it outright.", "level": "C1", "category": "critical-essay" },
+            { "id": "porter-un-jugement", "french": "porter un jugement", "english": "to pass judgment", "partOfSpeech": "expression", "pronunciation": "por-TAY uhn zhewzh-MAHN", "example": "Il est difficile de porter un jugement sans connaître tous les faits.", "exampleEnglish": "It is difficult to pass judgment without knowing all the facts.", "level": "C1", "category": "critical-essay" },
+            { "id": "subjectivite-assumee", "french": "la subjectivité assumée", "english": "the openly owned subjectivity", "partOfSpeech": "noun", "gender": "f", "pronunciation": "sub-zhek-tee-vee-TAY ah-sew-MAY", "example": "L'essai repose sur une subjectivité assumée, mais toujours argumentée.", "exampleEnglish": "The essay rests on an openly owned subjectivity, but one that is always argued.", "level": "C1", "category": "critical-essay" },
+            { "id": "demonstration", "french": "la démonstration", "english": "the demonstration, the proof", "partOfSpeech": "noun", "gender": "f", "plural": "les démonstrations", "pronunciation": "day-mon-strah-SYON", "example": "Un exemple précis transforme une opinion en démonstration.", "exampleEnglish": "A precise example turns an opinion into a demonstration.", "level": "C1", "category": "critical-essay" },
+            { "id": "exemple-probant", "french": "l'exemple probant", "english": "the compelling example, the telling case", "partOfSpeech": "noun", "gender": "m", "plural": "les exemples probants", "pronunciation": "eg-zahm-pluh pro-BAHN", "example": "Un seul exemple probant vaut mieux qu'une accumulation d'anecdotes vagues.", "exampleEnglish": "One compelling example is worth more than a pile of vague anecdotes.", "level": "C1", "category": "critical-essay" },
+            { "id": "portee-dun-argument", "french": "la portée d'un argument", "english": "the scope, the reach of an argument", "partOfSpeech": "noun", "gender": "f", "pronunciation": "por-TAY dun ar-gew-MAHN", "example": "Peser un argument, c'est mesurer sa portée exacte.", "exampleEnglish": "To weigh an argument is to measure its exact scope.", "level": "C1", "category": "critical-essay" },
+            { "id": "limite-dun-raisonnement", "french": "la limite d'un raisonnement", "english": "the limit, the weak point of a line of reasoning", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lee-MEET dun ray-zon-MAHN", "example": "La limite de cet exemple, c'est qu'il ne se généralise pas facilement.", "exampleEnglish": "The limitation of this example is that it does not generalize easily.", "level": "C1", "category": "critical-essay" },
+            { "id": "pertinence", "french": "la pertinence", "english": "the relevance, the aptness", "partOfSpeech": "noun", "gender": "f", "pronunciation": "pehr-tee-NAHNS", "example": "La pertinence d'un argument compte davantage que son nombre de mots.", "exampleEnglish": "An argument's relevance matters more than its word count.", "level": "C1", "category": "critical-essay" },
+            { "id": "argument-dautorite", "french": "l'argument d'autorité", "english": "the appeal to authority", "partOfSpeech": "noun", "gender": "m", "plural": "les arguments d'autorité", "pronunciation": "ar-gew-mahn doh-toh-ree-TAY", "example": "Un argument d'autorité ne suffit pas s'il n'est pas accompagné de preuves.", "exampleEnglish": "An appeal to authority is not enough unless it is backed by evidence.", "level": "C1", "category": "critical-essay" },
+            { "id": "apprecier", "french": "apprécier", "english": "to assess, to appraise (a work, an argument)", "partOfSpeech": "verb", "pronunciation": "ah-pray-syay", "example": "Il faut apprécier une œuvre selon ses propres critères, pas ceux d'un autre genre.", "exampleEnglish": "A work must be assessed on its own terms, not those of a different genre.", "level": "C1", "category": "critical-essay" },
+            { "id": "juger", "french": "juger", "english": "to judge", "partOfSpeech": "verb", "pronunciation": "zhew-ZHAY", "example": "Juger sans nuance revient souvent à mal juger.", "exampleEnglish": "Judging without nuance often amounts to judging badly.", "level": "C1", "category": "critical-essay" },
+            { "id": "remettre-en-question", "french": "remettre en question", "english": "to call into question", "partOfSpeech": "expression", "pronunciation": "ruh-MET-truh ahn kess-TYON", "example": "Ce constat remet en question l'ensemble du raisonnement initial.", "exampleEnglish": "This finding calls the entire initial reasoning into question.", "level": "C1", "category": "critical-essay" },
+            { "id": "invalider", "french": "invalider", "english": "to invalidate", "partOfSpeech": "verb", "pronunciation": "an-vah-lee-DAY", "example": "Loin d'invalider notre thèse, cette nuance vient au contraire la renforcer.", "exampleEnglish": "Far from invalidating our thesis, this nuance in fact reinforces it.", "level": "C1", "category": "critical-essay" },
+            { "id": "renforcer-une-these", "french": "renforcer une thèse", "english": "to reinforce a thesis", "partOfSpeech": "expression", "pronunciation": "rahn-for-SAY ewn tez", "example": "Chaque exemple bien choisi vient renforcer une thèse déjà solide.", "exampleEnglish": "Each well-chosen example reinforces an already solid thesis.", "level": "C1", "category": "critical-essay" },
+            { "id": "resister-a-lexamen", "french": "résister à l'examen", "english": "to withstand scrutiny", "partOfSpeech": "expression", "pronunciation": "ray-zees-TAY ah lek-zah-MAHN", "example": "Cette objection ne résiste pas à l'examen des chiffres.", "exampleEnglish": "This objection does not withstand scrutiny of the figures.", "level": "C1", "category": "critical-essay" },
+            { "id": "opinion-tranchee", "french": "l'opinion tranchée", "english": "the sharply stated opinion, the clear-cut view", "partOfSpeech": "noun", "gender": "f", "plural": "les opinions tranchées", "pronunciation": "oh-pee-NYON trahn-SHAY", "example": "L'essai défend une opinion tranchée, mais jamais gratuite.", "exampleEnglish": "The essay defends a clear-cut view, but never a gratuitous one.", "level": "C1", "category": "critical-essay" },
+            { "id": "la-nuance-critique", "french": "la nuance critique", "english": "the critical nuance", "partOfSpeech": "noun", "gender": "f", "plural": "les nuances critiques", "pronunciation": "new-AHNS kree-TEEK", "example": "Sans nuance critique, un essai vire à la simple opinion.", "exampleEnglish": "Without critical nuance, an essay turns into mere opinion.", "level": "C1", "category": "critical-essay" },
+            { "id": "developper-un-argument", "french": "développer un argument", "english": "to develop an argument", "partOfSpeech": "expression", "pronunciation": "day-vlo-PAY uhn ar-gew-MAHN", "example": "Il vaut mieux développer un seul argument à fond que trois superficiellement.", "exampleEnglish": "It is better to develop one argument thoroughly than three superficially.", "level": "C1", "category": "critical-essay" },
+            { "id": "au-regard-de", "french": "au regard de", "english": "with regard to, in light of", "partOfSpeech": "expression", "pronunciation": "oh ruh-GAR duh", "example": "Cette réforme, au regard de ses résultats, mérite d'être réévaluée.", "exampleEnglish": "This reform, in light of its results, deserves to be reassessed.", "level": "C1", "category": "critical-essay" },
+            { "id": "certes-mais", "french": "certes... mais", "english": "granted... but (concession structure)", "partOfSpeech": "expression", "pronunciation": "sehrt meh", "example": "Certes, cette mesure a permis des progrès réels ; elle n'en demeure pas moins insuffisante.", "exampleEnglish": "Granted, this measure has brought real progress; it nevertheless remains insufficient.", "level": "C1", "category": "critical-essay" },
+            { "id": "pour-legitime-quelle-soit", "french": "pour légitime qu'elle soit", "english": "however legitimate it may be", "partOfSpeech": "expression", "pronunciation": "poor lay-zhee-TEEM kel swah", "example": "Cette objection, pour légitime qu'elle soit, ne change rien à la conclusion.", "exampleEnglish": "This objection, however legitimate, changes nothing about the conclusion.", "level": "C1", "category": "critical-essay" },
+            { "id": "loin-de", "french": "loin de", "english": "far from", "partOfSpeech": "expression", "pronunciation": "lwan duh", "example": "Loin d'affaiblir la thèse, cette objection la rend plus précise.", "exampleEnglish": "Far from weakening the thesis, this objection makes it more precise.", "level": "C1", "category": "critical-essay" },
+            { "id": "de-surcroit", "french": "de surcroît", "english": "moreover, in addition", "partOfSpeech": "adverb", "pronunciation": "duh sur-KRWAH", "example": "L'argument est solide et repose, de surcroît, sur des données fiables.", "exampleEnglish": "The argument is solid and, moreover, rests on reliable data.", "level": "C1", "category": "critical-essay" },
+            { "id": "voire", "french": "voire", "english": "indeed, even (intensifying a previous claim)", "partOfSpeech": "adverb", "pronunciation": "vwahr", "example": "Cette mesure est insuffisante, voire contre-productive.", "exampleEnglish": "This measure is insufficient, indeed counter-productive.", "level": "C1", "category": "critical-essay" },
+            { "id": "a-plus-forte-raison", "french": "à plus forte raison", "english": "all the more so, a fortiori", "partOfSpeech": "expression", "pronunciation": "ah plew fort ray-ZON", "example": "Si l'argument vaut pour un cas isolé, il vaut à plus forte raison pour l'ensemble.", "exampleEnglish": "If the argument holds for one isolated case, it holds all the more for the whole.", "level": "C1", "category": "critical-essay" },
+            { "id": "sous-cet-angle", "french": "sous cet angle", "english": "from this angle, seen this way", "partOfSpeech": "expression", "pronunciation": "soo set AHN-gluh", "example": "Sous cet angle, la réforme apparaît beaucoup moins convaincante.", "exampleEnglish": "Seen this way, the reform appears much less convincing.", "level": "C1", "category": "critical-essay" },
+            { "id": "biais", "french": "le biais", "english": "the bias", "partOfSpeech": "noun", "gender": "m", "plural": "les biais", "pronunciation": "byeh", "example": "Tout jugement critique doit se méfier de ses propres biais.", "exampleEnglish": "Any critical judgment must be wary of its own biases.", "level": "C1", "category": "critical-essay" },
+            { "id": "fonde", "french": "fondé", "english": "well-founded, justified", "partOfSpeech": "adjective", "pronunciation": "fon-DAY", "example": "Ce jugement est parfaitement fondé au regard des faits exposés.", "exampleEnglish": "This judgment is perfectly well-founded given the facts set out.", "level": "C1", "category": "critical-essay" },
+            { "id": "discutable", "french": "discutable", "english": "debatable, questionable", "partOfSpeech": "adjective", "pronunciation": "dee-skew-TAH-bluh", "example": "Cette affirmation reste discutable en l'absence de preuves solides.", "exampleEnglish": "This claim remains debatable in the absence of solid evidence.", "level": "C1", "category": "critical-essay" },
+            { "id": "convaincant", "french": "convaincant", "english": "convincing", "partOfSpeech": "adjective", "pronunciation": "kon-van-KAHN", "example": "L'argument, bien qu'élégant, n'est pas totalement convaincant.", "exampleEnglish": "The argument, although elegant, is not entirely convincing.", "level": "C1", "category": "critical-essay" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Le subjonctif dans le jugement critique",
+              "body": "Judgment verbs and impersonal expressions of opinion trigger the subjunctive in the clause that follows: 'il est regrettable que', 'il semble que' (when doubt lingers), 'pour légitime qu'elle soit', 'bien que' and 'quoique' for concession. The subjunctive marks the idea as filtered through the writer's judgment rather than stated as plain fact — exactly the register a critical essay needs.",
+              "examples": [
+                { "french": "Il est regrettable que cette réforme n'ait pas été davantage évaluée.", "english": "It is regrettable that this reform was not evaluated more thoroughly." },
+                { "french": "Bien que l'argument soit séduisant, il ne résiste pas à l'examen.", "english": "Although the argument is appealing, it does not withstand scrutiny." },
+                { "french": "Quoique cette mesure ait porté ses fruits, elle demeure insuffisante.", "english": "Although this measure has borne fruit, it remains insufficient." },
+                { "french": "Pour légitime qu'elle soit, cette objection ne change rien à la conclusion.", "english": "However legitimate it may be, this objection changes nothing about the conclusion." }
+              ],
+              "tip": "'Pour + adjectif + que + subjonctif' is a literary concession pattern ('pour légitime qu'elle soit' = 'however legitimate it may be') — recognizing it in reading matters more than producing it fluently in speech."
+            },
+            {
+              "heading": "Connecteurs sophistiqués de l'argumentation",
+              "body": "A handful of connectors mark the most sophisticated register of written argument: 'néanmoins' and 'en dépit de' pivot against a preceding point without abandoning it; 'quoi qu'il en soit' closes a digression and returns to the main line; 'cela étant' and 'il n'en demeure pas moins que' concede a point while reasserting the essay's central claim.",
+              "examples": [
+                { "french": "L'argument est séduisant ; il demeure néanmoins fragile sur un point précis.", "english": "The argument is appealing; it nevertheless remains fragile on one precise point." },
+                { "french": "En dépit de ses qualités, ce raisonnement laisse une question sans réponse.", "english": "In spite of its merits, this reasoning leaves one question unanswered." },
+                { "french": "Quoi qu'il en soit, la question centrale de cet essai reste entière.", "english": "Be that as it may, the central question of this essay remains wide open." },
+                { "french": "Cela étant, il n'en demeure pas moins que la thèse initiale résiste à l'examen.", "english": "That being so, the fact remains that the initial thesis withstands scrutiny." }
+              ],
+              "tip": "'Il n'en demeure pas moins que' is a concession-then-reassertion in one phrase — use it to close an argument, not to open one; it needs a preceding point to push back against."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "c1_u30_l02_li01", "type": "listenChoose", "prompt": "Listen. What does the speaker do in this sentence?", "french": "Certes, cette mesure a permis des progrès réels ; elle n'en demeure pas moins insuffisante.", "options": ["Concede a point and then reassert the original criticism", "Fully agree with the measure", "Reject the measure without any nuance", "Change the subject entirely"], "answer": "Concede a point and then reassert the original criticism" },
+            { "id": "c1_u30_l02_li02", "type": "listenChoose", "prompt": "Listen. What is being claimed about the example?", "french": "Un seul exemple probant vaut mieux qu'une accumulation d'anecdotes vagues.", "options": ["One well-chosen example is more persuasive than many vague ones", "More examples are always better than fewer", "Anecdotes are more reliable than examples", "Examples should never be used in an essay"], "answer": "One well-chosen example is more persuasive than many vague ones" },
+            { "id": "c1_u30_l02_li03", "type": "listenType", "prompt": "Listen and type what you hear.", "french": "Il est regrettable que cette réforme n'ait pas été davantage évaluée.", "answer": "Il est regrettable que cette réforme n'ait pas été davantage évaluée.", "acceptedAnswers": ["il est regrettable que cette reforme n'ait pas ete davantage evaluee", "il est regrettable que cette reforme n ait pas ete davantage evaluee"] },
+            { "id": "c1_u30_l02_li04", "type": "dictation", "prompt": "Dictation: write exactly what you hear.", "french": "Loin d'invalider notre thèse, cette nuance vient au contraire la renforcer.", "answer": "Loin d'invalider notre thèse, cette nuance vient au contraire la renforcer.", "acceptedAnswers": ["loin d'invalider notre these, cette nuance vient au contraire la renforcer", "loin d invalider notre these cette nuance vient au contraire la renforcer"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "c1_u30_l02_sp01", "type": "speak", "prompt": "State your thesis clearly at the start of a critical essay.", "french": "Notre thèse est simple : la technologie ne règle rien qu'elle ne complique par ailleurs.", "english": "Our thesis is simple: technology solves nothing that it does not also complicate elsewhere.", "tip": "Land firmly on 'simple' — the word itself signals you are about to state your position in one clean sentence, so pause briefly before the colon." },
+            { "id": "c1_u30_l02_sp02", "type": "speak", "prompt": "Concede a real strength of the opposing view before pushing back.", "french": "Certes, cette mesure a permis des progrès réels ; elle n'en demeure pas moins insuffisante.", "english": "Granted, this measure has brought real progress; it nevertheless remains insufficient.", "tip": "Give the first clause genuine warmth before the semicolon shifts the tone — the concession must sound sincere, not grudging, for the pivot to work." },
+            { "id": "c1_u30_l02_sp03", "type": "speak", "prompt": "Explain what a single well-chosen example is worth.", "french": "Un seul exemple probant vaut mieux qu'une accumulation d'anecdotes vagues.", "english": "One well-chosen example is worth more than a pile of vague anecdotes.", "tip": "Slow down on 'accumulation d'anecdotes vagues' — the string of syllables should sound deliberately cluttered, mirroring the criticism it makes." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Les réseaux sociaux nuisent-ils à la pensée critique ?",
+              "french": "On accuse volontiers les réseaux sociaux d'affaiblir la pensée critique, et l'on n'a pas tort de s'en inquiéter.\nNotre thèse est cependant plus nuancée : ce n'est pas l'outil qui nuit à la pensée, mais l'usage passif qu'on en fait.\nCertes, le défilement continu de contenus courts favorise une lecture rapide, fragmentée, peu propice à l'analyse approfondie.\nOn objectera que cette fragmentation touche aujourd'hui l'ensemble de la lecture numérique, bien au-delà des seuls réseaux sociaux.\nCette objection, pour légitime qu'elle soit, ne résiste pas entièrement à l'examen : la logique algorithmique de ces plateformes, conçue pour maximiser le temps passé, aggrave le phénomène plutôt qu'elle ne le reflète simplement.\nUn exemple probant illustre ce point : plusieurs études montrent que les utilisateurs exposés à un flux algorithmique retiennent moins d'arguments qu'après la lecture d'un article structuré.\nCe cas illustre, mieux qu'un long développement, la portée réelle du phénomène.\nIl serait néanmoins injuste de réduire ces outils à leur seul effet négatif.\nEn dépit de ces critiques, certains usages actifs, où l'utilisateur cherche, compare et vérifie ses sources, développent au contraire un esprit critique plus aiguisé.\nQuoi qu'il en soit, la responsabilité individuelle ne suffit pas à elle seule à corriger un biais structurel intégré à l'architecture même de ces plateformes.\nIl n'en demeure pas moins que la question posée dépasse la seule technologie : elle interroge la manière dont chacun choisit, ou non, de résister à la facilité.\nLoin d'invalider notre thèse, cette dernière remarque vient au contraire la renforcer.",
+              "english": "Social media is readily accused of weakening critical thinking, and this worry is not unfounded.\nOur thesis, however, is more nuanced: it is not the tool itself that harms thinking, but the passive way it is used.\nGranted, the endless scroll of short content encourages quick, fragmented reading, ill-suited to in-depth analysis.\nOne might object that this fragmentation now affects digital reading as a whole, far beyond social media alone.\nThis objection, however legitimate, does not entirely withstand scrutiny: the algorithmic logic of these platforms, designed to maximize time spent, worsens the phenomenon rather than merely reflecting it.\nA compelling example illustrates this point: several studies show that users exposed to an algorithmic feed retain fewer arguments than after reading a structured article.\nThis case illustrates, better than a long development could, the real scope of the phenomenon.\nIt would nevertheless be unfair to reduce these tools to their negative effect alone.\nIn spite of these criticisms, certain active uses, in which the user searches, compares, and verifies sources, in fact develop a sharper critical mind.\nBe that as it may, individual responsibility alone is not enough to correct a structural bias built into the very architecture of these platforms.\nThe fact remains that the question at hand goes beyond technology alone: it questions how each person chooses, or not, to resist ease.\nFar from invalidating our thesis, this last remark in fact reinforces it.",
+              "questions": [
+                { "id": "c1_u30_l02_rd01", "type": "multipleChoice", "prompt": "What is the essay's central thesis?", "options": ["It is passive use, not the tool itself, that harms critical thinking", "Social media should be banned entirely", "Reading has never been affected by digital tools", "Algorithms have no influence on attention"], "answer": "It is passive use, not the tool itself, that harms critical thinking" },
+                { "id": "c1_u30_l02_rd02", "type": "trueFalse", "prompt": "True or false: the essay claims active uses of social media (searching, comparing, verifying) can sharpen critical thinking.", "options": ["True", "False"], "answer": "True" },
+                { "id": "c1_u30_l02_rd03", "type": "multipleChoice", "prompt": "What does the essay conclude the underlying question really is?", "options": ["How each person chooses to resist ease, not just the technology itself", "Which platform is the most popular", "How much time people spend online", "Whether phones should be banned in schools"], "answer": "How each person chooses to resist ease, not just the technology itself" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "c1_u30_l02_wr01", "type": "translate", "prompt": "Translate: \"Granted, this measure has brought real progress; it nevertheless remains insufficient.\"", "english": "Granted, this measure has brought real progress; it nevertheless remains insufficient.", "answer": "Certes, cette mesure a permis des progrès réels ; elle n'en demeure pas moins insuffisante.", "acceptedAnswers": ["certes, cette mesure a permis des progres reels ; elle n'en demeure pas moins insuffisante"] },
+            { "id": "c1_u30_l02_wr02", "type": "arrangeWords", "prompt": "Put the words in order.", "english": "One well-chosen example is worth more than a pile of vague anecdotes.", "words": ["Un", "seul", "exemple", "probant", "vaut", "mieux", "qu'une", "accumulation", "d'anecdotes", "vagues"], "answer": "Un seul exemple probant vaut mieux qu'une accumulation d'anecdotes vagues" },
+            { "id": "c1_u30_l02_wr03", "type": "fillBlank", "prompt": "Complete with the correct connector: \"L'argument est séduisant ; il demeure ___ fragile sur un point précis.\"", "answer": "néanmoins", "hint": "A sophisticated adverb meaning 'nevertheless'." }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "c1_u30_l02_pr01", "type": "multipleChoice", "prompt": "Which expression introduces the strongest form of a counterargument before refuting it?", "options": ["certes... mais", "voire", "à plus forte raison", "de surcroît"], "answer": "certes... mais" },
+            { "id": "c1_u30_l02_pr02", "type": "fillBlank", "prompt": "Complete: \"Il est regrettable que cette réforme n'___ pas été davantage évaluée.\" (subjunctive of avoir)", "answer": "ait", "hint": "Subjunctive of 'avoir', third person singular." },
+            { "id": "c1_u30_l02_pr03", "type": "match", "prompt": "Match each expression with its meaning.", "pairs": [ { "french": "l'exemple probant", "english": "the compelling example" }, { "french": "résister à l'examen", "english": "to withstand scrutiny" }, { "french": "remettre en question", "english": "to call into question" }, { "french": "la portée d'un argument", "english": "the scope of an argument" } ] },
+            { "id": "c1_u30_l02_pr04", "type": "trueFalse", "prompt": "A strong critical essay should ignore the strongest counterargument rather than address it.", "options": ["True", "False"], "answer": "False" },
+            { "id": "c1_u30_l02_pr05", "type": "arrangeWords", "prompt": "Put the words in order.", "english": "Far from invalidating our thesis, this nuance in fact reinforces it.", "words": ["Loin", "de", "invalider", "notre", "thèse", "cette", "nuance", "vient", "au", "contraire", "la", "renforcer"], "answer": "Loin de invalider notre thèse cette nuance vient au contraire la renforcer" },
+            { "id": "c1_u30_l02_pr06", "type": "translate", "prompt": "Translate: \"This objection, however legitimate, does not withstand scrutiny.\"", "english": "This objection, however legitimate, does not withstand scrutiny.", "answer": "Cette objection, pour légitime qu'elle soit, ne résiste pas à l'examen.", "acceptedAnswers": ["cette objection, pour legitime qu'elle soit, ne resiste pas a l'examen", "cette objection pour legitime qu elle soit ne resiste pas a l examen"] }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "c1_u30_l02_qz01", "type": "multipleChoice", "prompt": "What does 'l'exemple probant' mean?", "options": ["The compelling, well-chosen example", "The final conclusion", "A weak, vague anecdote", "The essay's introduction"], "answer": "The compelling, well-chosen example" },
+            { "id": "c1_u30_l02_qz02", "type": "fillBlank", "prompt": "Complete: \"___ légitime qu'elle soit, cette objection ne change rien à la conclusion.\" (however)", "answer": "Pour" },
+            { "id": "c1_u30_l02_qz03", "type": "multipleChoice", "prompt": "Which sentence correctly uses a concession-then-reassertion structure?", "options": ["Certes, cette mesure a permis des progrès réels ; elle n'en demeure pas moins insuffisante.", "Cette mesure a permis des progrès réels et rien d'autre.", "Cette mesure n'a permis aucun progrès réel.", "Certes cette mesure, mais des progrès réels."], "answer": "Certes, cette mesure a permis des progrès réels ; elle n'en demeure pas moins insuffisante." },
+            { "id": "c1_u30_l02_qz04", "type": "trueFalse", "prompt": "True or false: 'il est regrettable que' is followed by the indicative, not the subjunctive.", "options": ["True", "False"], "answer": "False" },
+            { "id": "c1_u30_l02_qz05", "type": "multipleChoice", "prompt": "According to the reading passage, what worsens the fragmentation of attention on social media, according to the essay?", "options": ["The algorithmic logic designed to maximize time spent", "The font size used on screens", "The price of smartphones", "The number of daily notifications alone"], "answer": "The algorithmic logic designed to maximize time spent" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1_u30_l03",
+      "level": "C1",
+      "unit": 30,
+      "title": "Exposé oral structuré",
+      "description": "Deliver a structured oral presentation — a hook, a clear roadmap, signposted transitions, and a close that lands — while fielding tough questions on your feet.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Capter l'attention et annoncer le plan",
+              "body": "A structured presentation opens with an accroche — a question, a striking fact, a brief anecdote — that earns the audience's attention before any content is delivered. It then states the plan explicitly: the listener should know, within the first thirty seconds, how many parts are coming and what each will cover, because unlike a reader, they cannot flip back to check.",
+              "examples": [
+                { "french": "Savez-vous que près d'un salarié sur deux se dit aujourd'hui en situation de surcharge informationnelle ?", "english": "Did you know that nearly one employee in two now describes themselves as suffering from information overload?" },
+                { "french": "Nous articulerons notre propos en trois temps : le constat, les causes, puis les pistes de solution.", "english": "We will structure our talk in three parts: the observation, the causes, then possible solutions." },
+                { "french": "Commençons, si vous le voulez bien, par planter le décor.", "english": "Let us begin, if you will, by setting the scene." },
+                { "french": "Cette question mérite qu'on s'y arrête quelques instants avant d'entrer dans le vif du sujet.", "english": "This question deserves a moment's pause before we get to the heart of the matter." }
+              ],
+              "tip": "Announce your plan in one breath, with the same three signal words each time ('premièrement... deuxièmement... enfin') — a listener tracks structure through repetition, not through elegant variation."
+            },
+            {
+              "heading": "Baliser son discours : les transitions à l'oral",
+              "body": "Spoken presentations need more explicit signposting than written texts, because the audience cannot see paragraph breaks. Fixed transition phrases — 'cela m'amène à...', 'venons-en maintenant à...', 'après avoir vu X, voyons Y' — mark every shift of topic clearly, and a short internal summary before each transition helps the audience keep pace.",
+              "examples": [
+                { "french": "Cela m'amène naturellement à la deuxième partie de mon exposé.", "english": "This brings me naturally to the second part of my talk." },
+                { "french": "Venons-en maintenant aux solutions envisageables.", "english": "Let us now turn to the possible solutions." },
+                { "french": "Après avoir dressé ce constat, voyons quelles en sont les causes profondes.", "english": "Having laid out this observation, let us look at its underlying causes." },
+                { "french": "Avant d'aller plus loin, résumons brièvement ce que nous venons de voir.", "english": "Before going any further, let us briefly summarize what we have just seen." }
+              ],
+              "tip": "Pause visibly for one full second at each transition phrase — the silence itself signals a shift, even to a listener who missed the words."
+            },
+            {
+              "heading": "Gérer les questions et conclure avec impact",
+              "body": "A confident speaker treats a difficult question as an opportunity, not a threat: reformulating it aloud buys thinking time and confirms understanding, while 'je n'ai pas la réponse exacte, mais...' is far stronger than an improvised guess. The conclusion should return explicitly to the opening hook and end on one memorable sentence, not trail off into a list of remaining uncertainties.",
+              "examples": [
+                { "french": "Si je reformule votre question, vous me demandez si cette tendance est réversible.", "english": "If I may rephrase your question, you are asking me whether this trend is reversible." },
+                { "french": "Je n'ai pas de chiffre exact à vous donner, mais je peux vous indiquer l'ordre de grandeur.", "english": "I do not have an exact figure for you, but I can give you the order of magnitude." },
+                { "french": "Pour revenir à notre question de départ, la réponse est résolument nuancée.", "english": "To return to our opening question, the answer is decidedly nuanced." },
+                { "french": "Je vous remercie de votre attention et reste à votre disposition pour toute question.", "english": "Thank you for your attention, and I remain available for any questions." },
+                { "french": "En définitive, c'est moins la technique qui manque que la volonté de s'en saisir.", "english": "Ultimately, it is not technique that is lacking, but the will to seize it." }
+              ],
+              "tip": "Never end on 'voilà, c'est tout' — close instead with a short sentence that echoes your opening hook, so the presentation feels designed rather than merely stopped."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "expose-oral", "french": "l'exposé oral", "english": "the oral presentation", "partOfSpeech": "noun", "gender": "m", "plural": "les exposés oraux", "pronunciation": "ek-spo-ZAY oh-RAHL", "example": "L'exposé oral s'articule en trois temps clairement annoncés.", "exampleEnglish": "The oral presentation is structured in three clearly announced parts.", "level": "C1", "category": "oral-presentation" },
+            { "id": "auditoire", "french": "l'auditoire", "english": "the audience", "partOfSpeech": "noun", "gender": "m", "plural": "les auditoires", "pronunciation": "oh-dee-TWAHR", "example": "Il faut capter l'attention de l'auditoire dès les premières secondes.", "exampleEnglish": "The audience's attention must be captured within the first few seconds.", "level": "C1", "category": "oral-presentation" },
+            { "id": "accroche", "french": "l'accroche", "english": "the hook, the attention-grabbing opener", "partOfSpeech": "noun", "gender": "f", "plural": "les accroches", "pronunciation": "ah-KROSH", "example": "Une bonne accroche prend souvent la forme d'une question ou d'un fait marquant.", "exampleEnglish": "A good hook often takes the form of a question or a striking fact.", "level": "C1", "category": "oral-presentation" },
+            { "id": "annoncer-le-plan", "french": "annoncer le plan", "english": "to announce the outline, to lay out the structure", "partOfSpeech": "expression", "pronunciation": "ah-non-SAY luh plahn", "example": "Le locuteur doit annoncer le plan dès les premières trente secondes.", "exampleEnglish": "The speaker must announce the outline within the first thirty seconds.", "level": "C1", "category": "oral-presentation" },
+            { "id": "planter-le-decor", "french": "planter le décor", "english": "to set the scene", "partOfSpeech": "expression", "pronunciation": "plahn-TAY luh day-KOR", "example": "Commençons par planter le décor avant d'entrer dans le vif du sujet.", "exampleEnglish": "Let us begin by setting the scene before getting to the heart of the matter.", "level": "C1", "category": "oral-presentation" },
+            { "id": "entrer-dans-le-vif-du-sujet", "french": "entrer dans le vif du sujet", "english": "to get to the heart of the matter", "partOfSpeech": "expression", "pronunciation": "ahn-TRAY dahn luh veef dew sew-ZHEH", "example": "Après cette brève introduction, entrons dans le vif du sujet.", "exampleEnglish": "After this brief introduction, let us get to the heart of the matter.", "level": "C1", "category": "oral-presentation" },
+            { "id": "baliser-son-discours", "french": "baliser son discours", "english": "to signpost one's talk", "partOfSpeech": "expression", "pronunciation": "bah-lee-ZAY son dee-SKOOR", "example": "Il faut baliser son discours pour que l'auditoire ne se perde pas.", "exampleEnglish": "One must signpost one's talk so the audience does not get lost.", "level": "C1", "category": "oral-presentation" },
+            { "id": "transition", "french": "la transition", "english": "the transition (between parts of a talk)", "partOfSpeech": "noun", "gender": "f", "plural": "les transitions", "pronunciation": "trahn-zee-SYON", "example": "Une transition claire évite au public de se demander où en est l'exposé.", "exampleEnglish": "A clear transition keeps the audience from wondering where the talk stands.", "level": "C1", "category": "oral-presentation" },
+            { "id": "cela-mamene-a", "french": "cela m'amène à", "english": "this brings me to", "partOfSpeech": "expression", "pronunciation": "suh-lah mah-MEN ah", "example": "Cela m'amène naturellement à la deuxième partie de mon exposé.", "exampleEnglish": "This brings me naturally to the second part of my talk.", "level": "C1", "category": "oral-presentation" },
+            { "id": "venons-en-a", "french": "venons-en à", "english": "let us turn to", "partOfSpeech": "expression", "pronunciation": "vuh-non-zahn ah", "example": "Venons-en maintenant aux solutions envisageables.", "exampleEnglish": "Let us now turn to the possible solutions.", "level": "C1", "category": "oral-presentation" },
+            { "id": "resumer-brievement", "french": "résumer brièvement", "english": "to briefly summarize", "partOfSpeech": "expression", "pronunciation": "ray-zew-MAY bree-ehv-MAHN", "example": "Avant d'aller plus loin, résumons brièvement ce que nous venons de voir.", "exampleEnglish": "Before going any further, let us briefly summarize what we have just seen.", "level": "C1", "category": "oral-presentation" },
+            { "id": "support-visuel", "french": "le support visuel", "english": "the visual aid, the slide deck", "partOfSpeech": "noun", "gender": "m", "plural": "les supports visuels", "pronunciation": "sew-POR vee-zew-EL", "example": "Le support visuel doit illustrer le propos, pas le remplacer.", "exampleEnglish": "The visual aid should illustrate the talk, not replace it.", "level": "C1", "category": "oral-presentation" },
+            { "id": "improviser", "french": "improviser", "english": "to improvise", "partOfSpeech": "verb", "pronunciation": "am-pro-vee-ZAY", "example": "Mieux vaut reformuler la question que d'improviser une réponse hasardeuse.", "exampleEnglish": "It is better to rephrase the question than to improvise a risky answer.", "level": "C1", "category": "oral-presentation" },
+            { "id": "gerer-les-questions", "french": "gérer les questions", "english": "to handle the questions (in a Q&A)", "partOfSpeech": "expression", "pronunciation": "zhay-RAY lay kess-TYON", "example": "Savoir gérer les questions difficiles distingue un bon orateur.", "exampleEnglish": "Knowing how to handle difficult questions sets a good speaker apart.", "level": "C1", "category": "oral-presentation" },
+            { "id": "reformuler-une-question", "french": "reformuler une question", "english": "to rephrase a question", "partOfSpeech": "expression", "pronunciation": "ruh-for-mew-LAY ewn kess-TYON", "example": "Si je reformule votre question, vous me demandez si cette tendance est réversible.", "exampleEnglish": "If I may rephrase your question, you are asking whether this trend is reversible.", "level": "C1", "category": "oral-presentation" },
+            { "id": "rebondir-sur", "french": "rebondir sur", "english": "to build on, to pick up on (a remark)", "partOfSpeech": "expression", "pronunciation": "ruh-bon-DEER sur", "example": "L'orateur a su rebondir sur la remarque du public avec aisance.", "exampleEnglish": "The speaker skillfully built on the audience's remark.", "level": "C1", "category": "oral-presentation" },
+            { "id": "gestuelle", "french": "la gestuelle", "english": "the body language, the gestures", "partOfSpeech": "noun", "gender": "f", "pronunciation": "zhes-TWEL", "example": "Une gestuelle mesurée renforce le propos sans le distraire.", "exampleEnglish": "Measured body language reinforces the talk without distracting from it.", "level": "C1", "category": "oral-presentation" },
+            { "id": "debit", "french": "le débit", "english": "the speaking pace, the rate of delivery", "partOfSpeech": "noun", "gender": "m", "plural": "les débits", "pronunciation": "day-BEE", "example": "Un débit trop rapide nuit à la compréhension de l'auditoire.", "exampleEnglish": "A pace that is too fast harms the audience's understanding.", "level": "C1", "category": "oral-presentation" },
+            { "id": "articulation", "french": "l'articulation", "english": "the articulation, the clear pronunciation", "partOfSpeech": "noun", "gender": "f", "pronunciation": "ar-tee-kew-lah-SYON", "example": "Une bonne articulation compte plus que le volume de la voix.", "exampleEnglish": "Clear articulation matters more than the volume of the voice.", "level": "C1", "category": "oral-presentation" },
+            { "id": "diction", "french": "la diction", "english": "the diction, the manner of speaking", "partOfSpeech": "noun", "gender": "f", "pronunciation": "deek-SYON", "example": "Une diction soignée met en valeur un propos déjà solide.", "exampleEnglish": "Polished diction showcases an already solid argument.", "level": "C1", "category": "oral-presentation" },
+            { "id": "le-trac", "french": "le trac", "english": "the stage fright, the nerves", "partOfSpeech": "noun", "gender": "m", "pronunciation": "trahk", "example": "Même les orateurs expérimentés ressentent parfois le trac.", "exampleEnglish": "Even experienced speakers sometimes feel stage fright.", "level": "C1", "category": "oral-presentation" },
+            { "id": "maitriser-son-sujet", "french": "maîtriser son sujet", "english": "to have full command of one's subject", "partOfSpeech": "expression", "pronunciation": "may-tree-ZAY son sew-ZHEH", "example": "Maîtriser son sujet permet de répondre aux questions avec assurance.", "exampleEnglish": "Having full command of one's subject makes it possible to answer questions confidently.", "level": "C1", "category": "oral-presentation" },
+            { "id": "synthetiser-a-loral", "french": "synthétiser à l'oral", "english": "to summarize on the spot, to synthesize orally", "partOfSpeech": "expression", "pronunciation": "san-tay-tee-ZAY ah lo-RAHL", "example": "Il faut savoir synthétiser à l'oral, sans le filet d'un brouillon écrit.", "exampleEnglish": "One must know how to synthesize on the spot, without the safety net of a written draft.", "level": "C1", "category": "oral-presentation" },
+            { "id": "conclure-avec-impact", "french": "conclure avec impact", "english": "to close with impact", "partOfSpeech": "expression", "pronunciation": "kon-KLEWR ah-vek am-PAKT", "example": "Il vaut mieux conclure avec impact que de s'éteindre sur une remarque secondaire.", "exampleEnglish": "It is better to close with impact than to trail off on a secondary remark.", "level": "C1", "category": "oral-presentation" },
+            { "id": "question-rhetorique", "french": "la question rhétorique", "english": "the rhetorical question", "partOfSpeech": "noun", "gender": "f", "plural": "les questions rhétoriques", "pronunciation": "kess-TYON ray-to-REEK", "example": "Une question rhétorique bien placée relance l'attention de l'auditoire.", "exampleEnglish": "A well-placed rhetorical question re-engages the audience's attention.", "level": "C1", "category": "oral-presentation" },
+            { "id": "loi-des-trois", "french": "la loi des trois", "english": "the rule of three (rhetorical device)", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lwah day TRWAH", "example": "La loi des trois structure naturellement une phrase de conclusion.", "exampleEnglish": "The rule of three naturally structures a closing sentence.", "level": "C1", "category": "oral-presentation" },
+            { "id": "anaphore", "french": "l'anaphore", "english": "the anaphora (repetition at the start of clauses)", "partOfSpeech": "noun", "gender": "f", "plural": "les anaphores", "pronunciation": "ah-nah-FOR", "example": "L'anaphore donne du rythme à une conclusion prononcée à voix haute.", "exampleEnglish": "Anaphora gives rhythm to a conclusion spoken aloud.", "level": "C1", "category": "oral-presentation" },
+            { "id": "prendre-la-parole", "french": "prendre la parole", "english": "to take the floor, to begin speaking", "partOfSpeech": "expression", "pronunciation": "prahn-druh lah pah-ROLL", "example": "L'oratrice a pris la parole avec assurance devant un public nombreux.", "exampleEnglish": "The speaker took the floor confidently in front of a large audience.", "level": "C1", "category": "oral-presentation" },
+            { "id": "captiver-lauditoire", "french": "captiver l'auditoire", "english": "to captivate the audience", "partOfSpeech": "expression", "pronunciation": "kap-tee-VAY lo-dee-TWAHR", "example": "Une anecdote bien racontée peut captiver l'auditoire d'emblée.", "exampleEnglish": "A well-told anecdote can captivate the audience right away.", "level": "C1", "category": "oral-presentation" },
+            { "id": "l-orateur", "french": "l'orateur", "english": "the speaker, the orator", "partOfSpeech": "noun", "gender": "m", "plural": "les orateurs", "pronunciation": "or-ah-TUR", "example": "Un bon orateur adapte son débit au rythme de son propos.", "exampleEnglish": "A good speaker adapts their pace to the rhythm of their talk.", "level": "C1", "category": "oral-presentation" },
+            { "id": "session-de-questions", "french": "la session de questions", "english": "the Q&A session, the question period", "partOfSpeech": "noun", "gender": "f", "plural": "les sessions de questions", "pronunciation": "seh-SYON duh kess-TYON", "example": "La session de questions permet de vérifier la maîtrise réelle du sujet.", "exampleEnglish": "The Q&A session reveals how well the subject is truly mastered.", "level": "C1", "category": "oral-presentation" },
+            { "id": "recentrer-le-debat", "french": "recentrer le débat", "english": "to bring the discussion back on track", "partOfSpeech": "expression", "pronunciation": "ruh-sahn-TRAY luh day-BAH", "example": "L'orateur a su recentrer le débat après une question hors sujet.", "exampleEnglish": "The speaker managed to bring the discussion back on track after an off-topic question.", "level": "C1", "category": "oral-presentation" },
+            { "id": "passe-simple", "french": "le passé simple", "english": "the simple past (literary tense)", "partOfSpeech": "noun", "gender": "m", "pronunciation": "pah-SAY sam-PLUH", "example": "Le passé simple s'emploie à l'écrit, jamais dans un exposé oral.", "exampleEnglish": "The simple past is used in writing, never in an oral presentation.", "level": "C1", "category": "oral-presentation" },
+            { "id": "registre-oral", "french": "le registre oral", "english": "the spoken register", "partOfSpeech": "noun", "gender": "m", "plural": "les registres oraux", "pronunciation": "reh-ZHEE-truh oh-RAHL", "example": "Le registre oral tolère des répétitions que l'écrit proscrit.", "exampleEnglish": "The spoken register tolerates repetitions that writing forbids.", "level": "C1", "category": "oral-presentation" },
+            { "id": "reperes-temporels", "french": "les repères temporels", "english": "the time markers, the temporal signposts", "partOfSpeech": "noun", "gender": "m", "pronunciation": "ruh-PEHR tahm-po-REL", "example": "Des repères temporels clairs aident l'auditoire à suivre un récit oral.", "exampleEnglish": "Clear time markers help the audience follow a spoken narrative.", "level": "C1", "category": "oral-presentation" },
+            { "id": "capter-lattention", "french": "capter l'attention", "english": "to capture attention", "partOfSpeech": "expression", "pronunciation": "kap-TAY lah-tahn-SYON", "example": "Il faut capter l'attention de l'auditoire dès les premières secondes.", "exampleEnglish": "The audience's attention must be captured within the first few seconds.", "level": "C1", "category": "oral-presentation" },
+            { "id": "en-definitive", "french": "en définitive", "english": "ultimately, in the final analysis", "partOfSpeech": "expression", "pronunciation": "ahn day-fee-nee-TEEV", "example": "En définitive, c'est moins la technique qui manque que la volonté de s'en saisir.", "exampleEnglish": "Ultimately, it is not technique that is lacking, but the will to seize it.", "level": "C1", "category": "oral-presentation" },
+            { "id": "revenir-a-la-question-de-depart", "french": "revenir à la question de départ", "english": "to return to the opening question", "partOfSpeech": "expression", "pronunciation": "ruh-vuh-NEER ah lah kess-TYON duh day-PAR", "example": "Pour revenir à notre question de départ, la réponse est résolument nuancée.", "exampleEnglish": "To return to our opening question, the answer is decidedly nuanced.", "level": "C1", "category": "oral-presentation" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Reconnaître le passé simple à l'écrit, l'éviter à l'oral",
+              "body": "A structured oral presentation often comments on written or literary sources, so recognizing the passé simple on sight matters even though it is never spoken. 'Il fut', 'elle dit', 'ils prirent' belong to narrative and historical writing; converted aloud, they become passé composé: 'il a été', 'elle a dit', 'ils ont pris'. Confusing the two registers — reading a passé simple form aloud as if it were a spoken form — is a classic tell of an unprepared presenter.",
+              "examples": [
+                { "french": "Le texte dit : « il fut le premier à formuler cette hypothèse » — à l'oral, on dira : « il a été le premier ».", "english": "The text says: 'he was the first to formulate this hypothesis' — spoken aloud, one says: 'il a été le premier'." },
+                { "french": "« Elle prit la parole devant l'assemblée » devient, à l'oral, « elle a pris la parole ».", "english": "'She took the floor before the assembly' becomes, spoken aloud, 'elle a pris la parole'." },
+                { "french": "Le passé simple signale un récit écrit et distancié ; le passé composé signale un récit oral et vécu.", "english": "The simple past signals a written, distanced narrative; the compound past signals a spoken, lived one." },
+                { "french": "En citant un texte littéraire à voix haute, on peut garder le passé simple entre guillemets, en le signalant comme citation.", "english": "When quoting a literary text aloud, the simple past may be kept within quotation marks, flagged clearly as a quotation." }
+              ],
+              "tip": "If you must quote a passé simple form aloud, slow down and mark it as a quotation with your voice — otherwise it will sound like a mispronounced passé composé rather than a deliberate literary register."
+            },
+            {
+              "heading": "Les tournures rhétoriques à l'oral",
+              "body": "Spoken persuasion leans on devices that would look repetitive on the page but land powerfully aloud: the question rhétorique re-engages a drifting audience without expecting an answer; the loi des trois groups examples or arguments in threes, which the ear finds naturally satisfying; anaphore repeats an opening word or phrase across several clauses to build momentum toward a conclusion.",
+              "examples": [
+                { "french": "Voulons-nous vraiment d'un monde où l'attention se marchande à la seconde ?", "english": "Do we really want a world where attention is traded by the second?" },
+                { "french": "Ce constat appelle trois réponses : investir, former, protéger.", "english": "This finding calls for three responses: investing, training, protecting." },
+                { "french": "Il faut agir. Il faut agir vite. Il faut agir ensemble.", "english": "We must act. We must act quickly. We must act together." },
+                { "french": "Une question bien posée vaut parfois mieux qu'une longue démonstration.", "english": "A well-posed question is sometimes worth more than a long demonstration." }
+              ],
+              "tip": "Use the rule of three sparingly — once per presentation, ideally at the conclusion — its force comes from scarcity; overused, it starts to sound like a formula rather than genuine emphasis."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "c1_u30_l03_li01", "type": "listenChoose", "prompt": "Listen. What is the speaker doing in this sentence?", "french": "Nous articulerons notre propos en trois temps : le constat, les causes, puis les pistes de solution.", "options": ["Announcing the structure of the presentation", "Concluding the presentation", "Asking the audience a question", "Apologizing for running out of time"], "answer": "Announcing the structure of the presentation" },
+            { "id": "c1_u30_l03_li02", "type": "listenChoose", "prompt": "Listen. What technique is used here?", "french": "Il faut agir. Il faut agir vite. Il faut agir ensemble.", "options": ["Anaphora, repeating the same opening words for rhetorical effect", "A simple list of unrelated facts", "A direct quotation from a written source", "A rhetorical question"], "answer": "Anaphora, repeating the same opening words for rhetorical effect" },
+            { "id": "c1_u30_l03_li03", "type": "listenType", "prompt": "Listen and type what you hear.", "french": "Cela m'amène naturellement à la deuxième partie de mon exposé.", "answer": "Cela m'amène naturellement à la deuxième partie de mon exposé.", "acceptedAnswers": ["cela m'amene naturellement a la deuxieme partie de mon expose", "cela m amene naturellement a la deuxieme partie de mon expose"] },
+            { "id": "c1_u30_l03_li04", "type": "dictation", "prompt": "Dictation: write exactly what you hear.", "french": "Je n'ai pas de chiffre exact à vous donner, mais je peux vous indiquer l'ordre de grandeur.", "answer": "Je n'ai pas de chiffre exact à vous donner, mais je peux vous indiquer l'ordre de grandeur.", "acceptedAnswers": ["je n'ai pas de chiffre exact a vous donner, mais je peux vous indiquer l'ordre de grandeur", "je n ai pas de chiffre exact a vous donner mais je peux vous indiquer l ordre de grandeur"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "c1_u30_l03_sp01", "type": "speak", "prompt": "Open a presentation with a striking question to hook the audience.", "french": "Savez-vous que près d'un salarié sur deux se dit aujourd'hui en situation de surcharge informationnelle ?", "english": "Did you know that nearly one employee in two now describes themselves as suffering from information overload?", "tip": "Let the question rise slightly in pitch and pause after it — a hook needs a beat of silence before you move into the plan." },
+            { "id": "c1_u30_l03_sp02", "type": "speak", "prompt": "Signal a transition to the next part of your talk.", "french": "Venons-en maintenant aux solutions envisageables.", "english": "Let us now turn to the possible solutions.", "tip": "Say 'venons-en' as one smooth unit and pause fully after 'maintenant' — the pause is what marks the shift for a listener who cannot see paragraph breaks." },
+            { "id": "c1_u30_l03_sp03", "type": "speak", "prompt": "Handle a tough question by rephrasing it before answering.", "french": "Si je reformule votre question, vous me demandez si cette tendance est réversible.", "english": "If I may rephrase your question, you are asking whether this trend is reversible.", "tip": "Keep an even, unhurried pace here — rephrasing calmly signals confidence, while rushing it can sound like you are stalling." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Transcription d'un exposé : l'intelligence artificielle au travail",
+              "french": "Bonjour à toutes et à tous, et merci de votre présence ce matin.\nSavez-vous que, selon une étude récente, près d'un métier sur quatre verra une part significative de ses tâches transformée par l'intelligence artificielle d'ici dix ans ?\nCette question mérite qu'on s'y arrête quelques instants avant d'entrer dans le vif du sujet.\nNous articulerons notre propos en trois temps : le constat, les risques, puis les leviers d'adaptation.\nCommençons, si vous le voulez bien, par planter le décor.\nL'intelligence artificielle ne remplace pas des métiers entiers, mais des tâches précises à l'intérieur de ces métiers, ce qui change radicalement la nature du problème posé.\nCela m'amène naturellement à la deuxième partie de mon exposé, consacrée aux risques que cette transformation fait peser sur certains postes.\nLes emplois les plus exposés ne sont pas nécessairement les moins qualifiés, contrairement à une idée reçue tenace.\nVenons-en maintenant aux solutions envisageables, qui reposent moins sur la résistance au changement que sur l'anticipation.\nTrois leviers se dégagent : former en amont, accompagner la transition, et repenser certains postes plutôt que les supprimer.\nAvant de conclure, résumons brièvement ce que nous venons de voir : un constat contrasté, des risques réels, mais des marges de manœuvre concrètes.\nPour revenir à notre question de départ, la réponse est résolument nuancée : ni catastrophe annoncée, ni transition sans douleur.\nJe vous remercie de votre attention et reste à votre disposition pour toute question.",
+              "english": "Good morning everyone, and thank you for being here this morning.\nDid you know that, according to a recent study, nearly one job in four will see a significant share of its tasks transformed by artificial intelligence within ten years?\nThis question deserves a moment's pause before we get to the heart of the matter.\nWe will structure our talk in three parts: the observation, the risks, then the levers for adaptation.\nLet us begin, if you will, by setting the scene.\nArtificial intelligence does not replace entire jobs, but specific tasks within those jobs, which radically changes the nature of the problem at hand.\nThis brings me naturally to the second part of my talk, devoted to the risks this transformation poses for certain positions.\nThe most exposed jobs are not necessarily the least skilled ones, contrary to a persistent misconception.\nLet us now turn to the possible solutions, which rely less on resisting change than on anticipating it.\nThree levers emerge: training in advance, supporting the transition, and rethinking certain positions rather than eliminating them.\nBefore concluding, let us briefly summarize what we have just seen: a mixed observation, real risks, but concrete room for maneuver.\nTo return to our opening question, the answer is decidedly nuanced: neither an announced catastrophe nor a painless transition.\nThank you for your attention, and I remain available for any questions.",
+              "questions": [
+                { "id": "c1_u30_l03_rd01", "type": "multipleChoice", "prompt": "According to the transcript, what does artificial intelligence mainly replace?", "options": ["Specific tasks within jobs, not entire jobs", "Entire jobs, without exception", "Only unskilled jobs", "Nothing at all"], "answer": "Specific tasks within jobs, not entire jobs" },
+                { "id": "c1_u30_l03_rd02", "type": "trueFalse", "prompt": "True or false: according to the speaker, the most exposed jobs are always the least skilled ones.", "options": ["True", "False"], "answer": "False" },
+                { "id": "c1_u30_l03_rd03", "type": "multipleChoice", "prompt": "What are the three levers for adaptation mentioned in the talk?", "options": ["Training in advance, supporting the transition, rethinking positions", "Hiring more managers, cutting salaries, closing offices", "Banning AI, ignoring the issue, waiting", "Only training in advance"], "answer": "Training in advance, supporting the transition, rethinking positions" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "c1_u30_l03_wr01", "type": "translate", "prompt": "Translate: \"This brings me naturally to the second part of my talk.\"", "english": "This brings me naturally to the second part of my talk.", "answer": "Cela m'amène naturellement à la deuxième partie de mon exposé.", "acceptedAnswers": ["cela m'amene naturellement a la deuxieme partie de mon expose", "cela m amene naturellement a la deuxieme partie de mon expose"] },
+            { "id": "c1_u30_l03_wr02", "type": "arrangeWords", "prompt": "Put the words in order.", "english": "We will structure our talk in three parts: the observation, the causes, then possible solutions.", "words": ["Nous", "articulerons", "notre", "propos", "en", "trois", "temps", "le", "constat", "les", "causes", "puis", "les", "pistes", "de", "solution"], "answer": "Nous articulerons notre propos en trois temps le constat les causes puis les pistes de solution" },
+            { "id": "c1_u30_l03_wr03", "type": "fillBlank", "prompt": "Complete with the correct transition: \"___-en maintenant aux solutions envisageables.\"", "answer": "Venons", "hint": "A fixed oral transition meaning 'let us turn to'." }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "c1_u30_l03_pr01", "type": "multipleChoice", "prompt": "Which expression means 'to get to the heart of the matter'?", "options": ["entrer dans le vif du sujet", "planter le décor", "gérer les questions", "capter l'attention"], "answer": "entrer dans le vif du sujet" },
+            { "id": "c1_u30_l03_pr02", "type": "fillBlank", "prompt": "Complete: \"Une bonne ___ prend souvent la forme d'une question ou d'un fait marquant.\" (hook)", "answer": "accroche", "hint": "The opener that grabs the audience's attention." },
+            { "id": "c1_u30_l03_pr03", "type": "match", "prompt": "Match each expression with its meaning.", "pairs": [ { "french": "le débit", "english": "the speaking pace" }, { "french": "la loi des trois", "english": "the rule of three" }, { "french": "le trac", "english": "stage fright" }, { "french": "captiver l'auditoire", "english": "to captivate the audience" } ] },
+            { "id": "c1_u30_l03_pr04", "type": "trueFalse", "prompt": "The passé simple is commonly spoken aloud in everyday oral presentations.", "options": ["True", "False"], "answer": "False" },
+            { "id": "c1_u30_l03_pr05", "type": "arrangeWords", "prompt": "Put the words in order.", "english": "It is better to close with impact than to trail off on a secondary remark.", "words": ["Il", "vaut", "mieux", "conclure", "avec", "impact", "que", "de", "s'éteindre", "sur", "une", "remarque", "secondaire"], "answer": "Il vaut mieux conclure avec impact que de s'éteindre sur une remarque secondaire" },
+            { "id": "c1_u30_l03_pr06", "type": "translate", "prompt": "Translate: \"If I may rephrase your question, you are asking whether this trend is reversible.\"", "english": "If I may rephrase your question, you are asking whether this trend is reversible.", "answer": "Si je reformule votre question, vous me demandez si cette tendance est réversible.", "acceptedAnswers": ["si je reformule votre question, vous me demandez si cette tendance est reversible", "si je reformule votre question vous me demandez si cette tendance est reversible"] }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "c1_u30_l03_qz01", "type": "multipleChoice", "prompt": "What is the purpose of 'annoncer le plan' at the start of a presentation?", "options": ["To tell the audience how many parts are coming and what each covers", "To apologize for being late", "To ask the audience a rhetorical question", "To end the presentation early"], "answer": "To tell the audience how many parts are coming and what each covers" },
+            { "id": "c1_u30_l03_qz02", "type": "fillBlank", "prompt": "Complete: \"Il faut agir. Il faut agir vite. Il faut agir ___.\" (together)", "answer": "ensemble" },
+            { "id": "c1_u30_l03_qz03", "type": "multipleChoice", "prompt": "Which sentence correctly converts a passé simple form into spoken register?", "options": ["« Il fut le premier » devient, à l'oral, « il a été le premier ».", "« Il fut le premier » devient, à l'oral, « il fût le premier ».", "« Il fut le premier » reste identique à l'oral.", "« Il fut le premier » devient, à l'oral, « il est le premier »."], "answer": "« Il fut le premier » devient, à l'oral, « il a été le premier »." },
+            { "id": "c1_u30_l03_qz04", "type": "trueFalse", "prompt": "True or false: rephrasing a difficult question before answering it buys the speaker thinking time and shows understanding.", "options": ["True", "False"], "answer": "True" },
+            { "id": "c1_u30_l03_qz05", "type": "multipleChoice", "prompt": "According to the transcript, what does the speaker say about the most exposed jobs?", "options": ["They are not necessarily the least skilled ones", "They are always the least skilled ones", "They no longer exist", "They will disappear within a year"], "answer": "They are not necessarily the least skilled ones" }
+          ]
+        }
+      ]
+    }
+  ]
+}

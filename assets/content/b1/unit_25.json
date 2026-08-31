@@ -1,0 +1,574 @@
+{
+  "id": "b1_u25",
+  "level": "B1",
+  "unit": 25,
+  "title": "Describing Change",
+  "subtitle": "Compare then and now, describe trends, and tell the story of how your life changed",
+  "icon": "📈",
+  "lessons": [
+    {
+      "id": "b1_u25_l01",
+      "level": "B1",
+      "unit": 25,
+      "title": "Avant / maintenant",
+      "description": "Use the imparfait and the présent side by side to describe how things used to be and how they are now.",
+      "estimatedMinutes": 17,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Then and now: imparfait vs présent",
+              "body": "When you compare how life used to be with how it is today, French leans on two tenses: the imparfait for the old picture and the présent for the current one. The imparfait describes a state or habit that was ongoing, with no clear end in mind — perfect for setting a scene from the past.",
+              "examples": [
+                { "french": "Avant, je vivais à la campagne.", "english": "Before, I used to live in the countryside." },
+                { "french": "Maintenant, j'habite en ville.", "english": "Now, I live in the city." },
+                { "french": "On mangeait plus lentement, autrefois.", "english": "People used to eat more slowly, in the old days." },
+                { "french": "Aujourd'hui, tout va plus vite.", "english": "Today, everything moves faster." },
+                { "french": "Elle ne travaillait pas ; maintenant, elle est cheffe d'entreprise.", "english": "She didn't use to work; now, she's a company head." }
+              ],
+              "tip": "Think of the imparfait as a paused photo of the past and the présent as a live video of today — the contrast is the whole point of this lesson."
+            },
+            {
+              "heading": "Time markers for contrast",
+              "body": "A handful of adverbs and expressions do the heavy lifting when you contrast past and present: \"avant\", \"autrefois\" and \"à l'époque\" point backwards, while \"maintenant\", \"aujourd'hui\", \"de nos jours\", \"désormais\" and \"actuellement\" point to today. Placing one of each in the same sentence makes the change obvious.",
+              "examples": [
+                { "french": "Autrefois, on écrivait des lettres ; de nos jours, on envoie des messages.", "english": "In the old days, people wrote letters; nowadays, people send messages." },
+                { "french": "À l'époque, personne n'avait de portable.", "english": "Back then, nobody had a mobile phone." },
+                { "french": "Désormais, tout le monde est connecté en permanence.", "english": "From now on, everyone is permanently connected." },
+                { "french": "Actuellement, je travaille à mi-temps.", "english": "Currently, I work part-time." }
+              ],
+              "tip": "\"Actuellement\" means \"currently\", not \"actually\" — a classic false friend to watch for."
+            },
+            {
+              "heading": "Talking about what's no longer true",
+              "body": "To say something has stopped being the case, use \"ne ... plus\" (no longer). To say it's still true, use \"encore\" or \"toujours\" — but note \"toujours\" is ambiguous: it can mean \"always\" or \"still\", depending on context.",
+              "examples": [
+                { "french": "Je ne fume plus depuis deux ans.", "english": "I no longer smoke, for two years now." },
+                { "french": "Il n'habite plus chez ses parents.", "english": "He no longer lives with his parents." },
+                { "french": "Elle travaille encore le samedi.", "english": "She still works on Saturdays." },
+                { "french": "Il est toujours aussi curieux.", "english": "He's still just as curious.", "note": "toujours = still, here" }
+              ],
+              "tip": "Context tells you which \"toujours\" you're hearing: with a state that could change, it usually means \"still\"."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "avant", "french": "avant", "english": "before, in the past", "partOfSpeech": "adverb", "pronunciation": "ah-VAHN", "example": "Avant, je n'aimais pas le café.", "exampleEnglish": "Before, I didn't like coffee.", "level": "B1", "category": "change" },
+            { "id": "autrefois", "french": "autrefois", "english": "in the past, formerly", "partOfSpeech": "adverb", "pronunciation": "oh-truh-FWAH", "example": "Autrefois, ce village était minuscule.", "exampleEnglish": "In the past, this village was tiny.", "level": "B1", "category": "change" },
+            { "id": "a-l-epoque", "french": "à l'époque", "english": "at the time, back then", "partOfSpeech": "expression", "pronunciation": "ah lay-POHK", "example": "À l'époque, on n'avait pas Internet.", "exampleEnglish": "Back then, we didn't have the Internet.", "level": "B1", "category": "change" },
+            { "id": "de-nos-jours", "french": "de nos jours", "english": "nowadays", "partOfSpeech": "expression", "pronunciation": "duh noh ZHOOR", "example": "De nos jours, tout le monde a un smartphone.", "exampleEnglish": "Nowadays, everyone has a smartphone.", "level": "B1", "category": "change" },
+            { "id": "aujourd-hui", "french": "aujourd'hui", "english": "today", "partOfSpeech": "adverb", "pronunciation": "oh-zhoor-DWEE", "example": "Aujourd'hui, je vis très différemment.", "exampleEnglish": "Today, I live very differently.", "level": "B1", "category": "change" },
+            { "id": "maintenant", "french": "maintenant", "english": "now", "partOfSpeech": "adverb", "pronunciation": "mant-NAHN", "example": "Maintenant, je me sens plus libre.", "exampleEnglish": "Now, I feel freer.", "level": "B1", "category": "change" },
+            { "id": "desormais", "french": "désormais", "english": "from now on, nowadays", "partOfSpeech": "adverb", "pronunciation": "day-zor-MEH", "example": "Désormais, je fais du sport chaque matin.", "exampleEnglish": "From now on, I do sport every morning.", "level": "B1", "category": "change" },
+            { "id": "actuellement", "french": "actuellement", "english": "currently", "partOfSpeech": "adverb", "pronunciation": "ak-tu-ehl-MAHN", "example": "Actuellement, elle vit à Lyon.", "exampleEnglish": "Currently, she lives in Lyon.", "level": "B1", "category": "change" },
+            { "id": "encore-adv", "french": "encore", "english": "still, again", "partOfSpeech": "adverb", "pronunciation": "ahn-KOHR", "example": "Il habite encore chez ses parents.", "exampleEnglish": "He still lives with his parents.", "level": "B1", "category": "change" },
+            { "id": "ne-plus", "french": "ne ... plus", "english": "no longer, not ... anymore", "partOfSpeech": "expression", "pronunciation": "nuh ploo", "example": "Je ne prends plus le bus le matin.", "exampleEnglish": "I no longer take the bus in the morning.", "level": "B1", "category": "change" },
+            { "id": "toujours", "french": "toujours", "english": "always / still", "partOfSpeech": "adverb", "pronunciation": "too-ZHOOR", "example": "Elle est toujours aussi énergique.", "exampleEnglish": "She's still just as energetic.", "level": "B1", "category": "change" },
+            { "id": "changer", "french": "changer", "english": "to change", "partOfSpeech": "verb", "pronunciation": "shahn-ZHAY", "example": "Mon quotidien a beaucoup changé.", "exampleEnglish": "My daily life has changed a lot.", "level": "B1", "category": "change" },
+            { "id": "le-changement", "french": "le changement", "english": "the change", "partOfSpeech": "noun", "gender": "m", "plural": "changements", "pronunciation": "shahnzh-MAHN", "example": "C'est un changement radical pour moi.", "exampleEnglish": "It's a radical change for me.", "level": "B1", "category": "change" },
+            { "id": "evoluer", "french": "évoluer", "english": "to evolve, to change gradually", "partOfSpeech": "verb", "pronunciation": "ay-voh-lu-AY", "example": "Ses goûts ont évolué avec l'âge.", "exampleEnglish": "Her tastes have evolved with age.", "level": "B1", "category": "change" },
+            { "id": "l-evolution", "french": "l'évolution", "english": "the evolution, the development", "partOfSpeech": "noun", "gender": "f", "plural": "évolutions", "pronunciation": "lay-voh-lu-SYOHN", "example": "L'évolution de la ville est frappante.", "exampleEnglish": "The town's evolution is striking.", "level": "B1", "category": "change" },
+            { "id": "se-transformer", "french": "se transformer", "english": "to transform, to change completely", "partOfSpeech": "verb", "pronunciation": "suh trahns-for-MAY", "example": "Le quartier s'est transformé en dix ans.", "exampleEnglish": "The neighbourhood has transformed in ten years.", "level": "B1", "category": "change" },
+            { "id": "la-transformation", "french": "la transformation", "english": "the transformation", "partOfSpeech": "noun", "gender": "f", "plural": "transformations", "pronunciation": "lah trahns-for-mah-SYOHN", "example": "Cette transformation a surpris tout le monde.", "exampleEnglish": "This transformation surprised everyone.", "level": "B1", "category": "change" },
+            { "id": "la-vie", "french": "la vie", "english": "life", "partOfSpeech": "noun", "gender": "f", "plural": "vies", "pronunciation": "vee", "example": "La vie était plus simple, autrefois.", "exampleEnglish": "Life was simpler, in the old days.", "level": "B1", "category": "change" },
+            { "id": "habitude", "french": "l'habitude", "english": "the habit", "partOfSpeech": "noun", "gender": "f", "plural": "habitudes", "pronunciation": "lah-bee-TUD", "example": "Nos habitudes ont beaucoup changé.", "exampleEnglish": "Our habits have changed a lot.", "level": "B1", "category": "change" },
+            { "id": "le-quotidien", "french": "le quotidien", "english": "daily life", "partOfSpeech": "noun", "gender": "m", "plural": "quotidiens", "pronunciation": "luh ko-tee-DYAN", "example": "Le télétravail a changé mon quotidien.", "exampleEnglish": "Remote work has changed my daily life.", "level": "B1", "category": "change" },
+            { "id": "se-rendre-compte", "french": "se rendre compte", "english": "to realize", "partOfSpeech": "expression", "pronunciation": "suh RAHN-druh KOHNT", "example": "Je me suis rendu compte que tout avait changé.", "exampleEnglish": "I realized that everything had changed.", "level": "B1", "category": "change" },
+            { "id": "realiser", "french": "réaliser", "english": "to achieve, to carry out", "partOfSpeech": "verb", "pronunciation": "ray-ah-lee-ZAY", "example": "Elle a réalisé un vrai changement de vie.", "exampleEnglish": "She achieved a real life change.", "level": "B1", "category": "change" },
+            { "id": "demenager", "french": "déménager", "english": "to move house", "partOfSpeech": "verb", "pronunciation": "day-may-nah-ZHAY", "example": "On a déménagé il y a deux ans.", "exampleEnglish": "We moved two years ago.", "level": "B1", "category": "change" },
+            { "id": "different", "french": "différent(e)", "english": "different", "partOfSpeech": "adjective", "pronunciation": "dee-fay-RAHN", "example": "Ma vie est complètement différente aujourd'hui.", "exampleEnglish": "My life is completely different today.", "level": "B1", "category": "change" },
+            { "id": "pareil", "french": "pareil(le)", "english": "the same, alike", "partOfSpeech": "adjective", "pronunciation": "pah-RAY", "example": "Rien n'est plus pareil depuis notre déménagement.", "exampleEnglish": "Nothing is the same anymore since we moved.", "level": "B1", "category": "change" },
+            { "id": "ressembler-a", "french": "ressembler à", "english": "to resemble, to look like", "partOfSpeech": "verb", "pronunciation": "ruh-sahm-BLAY ah", "example": "Cette ville ne ressemble plus à celle de mon enfance.", "exampleEnglish": "This town no longer resembles the one from my childhood.", "level": "B1", "category": "change" },
+            { "id": "semblable", "french": "semblable", "english": "similar", "partOfSpeech": "adjective", "pronunciation": "sahn-BLAH-bluh", "example": "Les deux photos ne sont pas semblables du tout.", "exampleEnglish": "The two photos aren't similar at all.", "level": "B1", "category": "change" },
+            { "id": "par-rapport-a", "french": "par rapport à", "english": "compared with, in relation to", "partOfSpeech": "expression", "pronunciation": "par rah-POR ah", "example": "Par rapport à avant, tout va plus vite.", "exampleEnglish": "Compared with before, everything moves faster.", "level": "B1", "category": "change" },
+            { "id": "jusqu-a", "french": "jusqu'à", "english": "until", "partOfSpeech": "preposition", "pronunciation": "zhus-KAH", "example": "Jusqu'à récemment, je vivais chez mes parents.", "exampleEnglish": "Until recently, I lived with my parents.", "level": "B1", "category": "change" },
+            { "id": "depuis", "french": "depuis", "english": "since, for", "partOfSpeech": "preposition", "pronunciation": "duh-PWEE", "example": "Depuis mon déménagement, tout a changé.", "exampleEnglish": "Since I moved, everything has changed.", "level": "B1", "category": "change" },
+            { "id": "il-y-a", "french": "il y a", "english": "ago", "partOfSpeech": "expression", "pronunciation": "eel-ee-AH", "example": "Il y a dix ans, ce quartier était désert.", "exampleEnglish": "Ten years ago, this neighbourhood was deserted.", "level": "B1", "category": "change" },
+            { "id": "le-souvenir", "french": "le souvenir", "english": "the memory", "partOfSpeech": "noun", "gender": "m", "plural": "souvenirs", "pronunciation": "soov-NEER", "example": "J'en garde un souvenir très net.", "exampleEnglish": "I have a very clear memory of it.", "level": "B1", "category": "change" },
+            { "id": "se-souvenir-de", "french": "se souvenir de", "english": "to remember", "partOfSpeech": "verb", "pronunciation": "suh soov-NEER duh", "example": "Je me souviens très bien de l'ancien quartier.", "exampleEnglish": "I remember the old neighbourhood very well.", "level": "B1", "category": "change" },
+            { "id": "oublier", "french": "oublier", "english": "to forget", "partOfSpeech": "verb", "pronunciation": "oo-blee-AY", "example": "On oublie vite comment c'était avant.", "exampleEnglish": "We quickly forget how things were before.", "level": "B1", "category": "change" },
+            { "id": "ancien", "french": "ancien(ne)", "english": "old, former", "partOfSpeech": "adjective", "pronunciation": "ahn-SYAN", "example": "C'est mon ancien appartement.", "exampleEnglish": "That's my old apartment.", "level": "B1", "category": "change" },
+            { "id": "moderne", "french": "moderne", "english": "modern", "partOfSpeech": "adjective", "pronunciation": "moh-DAIRN", "example": "Le quartier est devenu très moderne.", "exampleEnglish": "The neighbourhood has become very modern.", "level": "B1", "category": "change" },
+            { "id": "generation", "french": "la génération", "english": "the generation", "partOfSpeech": "noun", "gender": "f", "plural": "générations", "pronunciation": "zhay-nay-rah-SYOHN", "example": "Chaque génération vit des changements différents.", "exampleEnglish": "Each generation experiences different changes.", "level": "B1", "category": "change" },
+            { "id": "l-enfance", "french": "l'enfance", "english": "childhood", "partOfSpeech": "noun", "gender": "f", "plural": "enfances", "pronunciation": "lahn-FAHNSS", "example": "Rien ne ressemble à mon enfance ici.", "exampleEnglish": "Nothing looks like my childhood here anymore.", "level": "B1", "category": "change" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Forming and using the imparfait",
+              "body": "Take the \"nous\" form of the présent, drop \"-ons\", and add: -ais, -ais, -ait, -ions, -iez, -aient. Only \"être\" is irregular in its stem (ét-). Use the imparfait for descriptions, habits, and background states in the past — exactly what you need to paint the \"before\" picture.",
+              "examples": [
+                { "french": "Nous habitions un petit village.", "english": "We used to live in a small village." },
+                { "french": "J'étais plus timide, avant.", "english": "I used to be shyer, before." },
+                { "french": "Tu prenais toujours le même chemin.", "english": "You always used to take the same path." },
+                { "french": "Ils travaillaient six jours sur sept.", "english": "They used to work six days out of seven." }
+              ],
+              "tip": "The imparfait describes; the passé composé narrates a single completed event. \"Avant/maintenant\" contrasts almost always use the imparfait for the past side."
+            },
+            {
+              "heading": "Building a then/now sentence",
+              "body": "A strong then/now sentence usually has three parts: a time marker for the past (avant, autrefois), the imparfait, and a contrasting time marker for the present (maintenant, aujourd'hui) with the présent. Link the two halves with \"mais\", \"alors que\" or simply a semicolon.",
+              "examples": [
+                { "french": "Avant, on écrivait des lettres ; maintenant, on envoie des emails.", "english": "Before, people wrote letters; now, they send emails." },
+                { "french": "Autrefois, elle vivait seule, alors qu'aujourd'hui elle a une grande famille.", "english": "In the past, she lived alone, whereas today she has a big family." },
+                { "french": "À l'époque, je ne cuisinais jamais ; désormais, je cuisine tous les soirs.", "english": "Back then, I never cooked; now, I cook every evening." }
+              ],
+              "tip": "\"Alors que\" is a very useful B1 connector for contrast — it works for both time and opposition, so it fits perfectly in this lesson."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "b1_u25_l01_li01", "type": "listenChoose", "prompt": "Listen. What is being described?", "french": "Avant, je vivais à la campagne ; maintenant, j'habite en ville.", "options": ["A change of home", "A change of job", "A change of diet", "A change of season"], "answer": "A change of home" },
+            { "id": "b1_u25_l01_li02", "type": "listenChoose", "prompt": "Listen. Which tense describes the past habit?", "french": "On mangeait plus lentement, autrefois.", "options": ["Imparfait", "Présent", "Futur", "Passé composé"], "answer": "Imparfait" },
+            { "id": "b1_u25_l01_li03", "type": "listenType", "prompt": "Listen and type what you hear.", "french": "Désormais, tout le monde est connecté en permanence.", "answer": "Désormais, tout le monde est connecté en permanence.", "acceptedAnswers": ["desormais tout le monde est connecte en permanence"] },
+            { "id": "b1_u25_l01_li04", "type": "dictation", "prompt": "Listen carefully and write the full sentence.", "french": "Je ne fume plus depuis deux ans.", "answer": "Je ne fume plus depuis deux ans.", "acceptedAnswers": ["je ne fume plus depuis deux ans"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "b1_u25_l01_sp01", "type": "speak", "prompt": "Say that life was simpler before.", "french": "Avant, la vie était plus simple.", "english": "Before, life was simpler.", "tip": "Stress \"simple\" gently — the imparfait ending -ait is a soft, closed sound." },
+            { "id": "b1_u25_l01_sp02", "type": "speak", "prompt": "Say that you no longer live with your parents.", "french": "Je n'habite plus chez mes parents.", "english": "I no longer live with my parents.", "tip": "\"Ne ... plus\" wraps around the verb — don't forget the \"ne\" even in fast speech." },
+            { "id": "b1_u25_l01_sp03", "type": "speak", "prompt": "Say that everyone is connected nowadays.", "french": "De nos jours, tout le monde est connecté.", "english": "Nowadays, everyone is connected.", "tip": "\"De nos jours\" is a fixed expression — say it as one smooth chunk." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Mon quartier, avant et maintenant",
+              "french": "Quand j'étais enfant, mon quartier était très différent d'aujourd'hui.\nIl y avait un grand marché tous les samedis, avec des odeurs de pain chaud et de fruits frais.\nLes voisins se connaissaient tous et on laissait souvent la porte ouverte.\nAutrefois, il n'y avait presque pas de voitures dans notre petite rue.\nOn jouait dehors jusqu'au soir, sans avoir peur de rien.\nAujourd'hui, tout a changé.\nLe marché a disparu ; à sa place, il y a un grand supermarché moderne.\nDe nos jours, les gens se parlent moins, même s'ils habitent porte à porte.\nIl y a beaucoup plus de circulation, et les enfants jouent surtout à l'intérieur.\nJe me rends compte que ce n'est plus vraiment le même endroit.\nPourtant, par rapport à avant, le quartier est plus propre et mieux éclairé.\nJe ne sais pas si c'est un vrai progrès, ou juste un changement de plus.",
+              "english": "When I was a child, my neighbourhood was very different from today.\nThere was a big market every Saturday, with smells of warm bread and fresh fruit.\nThe neighbours all knew each other and we often left the door open.\nIn the old days, there were almost no cars in our little street.\nWe played outside until evening, without being afraid of anything.\nToday, everything has changed.\nThe market has disappeared; in its place, there's a big modern supermarket.\nNowadays, people talk to each other less, even if they live door to door.\nThere's much more traffic, and children mostly play indoors.\nI realize that it's not really the same place anymore.\nAnd yet, compared with before, the neighbourhood is cleaner and better lit.\nI don't know if it's real progress, or just one more change.",
+              "questions": [
+                { "id": "b1_u25_l01_rd01", "type": "multipleChoice", "prompt": "What used to happen every Saturday in the neighbourhood?", "options": ["A big market", "A football match", "A street party", "A concert"], "answer": "A big market" },
+                { "id": "b1_u25_l01_rd02", "type": "trueFalse", "prompt": "According to the text, there is less traffic today than before.", "options": ["True", "False"], "answer": "False" },
+                { "id": "b1_u25_l01_rd03", "type": "multipleChoice", "prompt": "What does the narrator say has replaced the old market?", "options": ["A modern supermarket", "A car park", "A school", "A park"], "answer": "A modern supermarket" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "b1_u25_l01_wr01", "type": "translate", "prompt": "Translate: \"Before, this street was much quieter.\"", "english": "Before, this street was much quieter.", "answer": "Avant, cette rue était beaucoup plus calme.", "acceptedAnswers": ["avant cette rue etait beaucoup plus calme"] },
+            { "id": "b1_u25_l01_wr02", "type": "translate", "prompt": "Translate: \"I no longer recognize my own neighbourhood.\"", "english": "I no longer recognize my own neighbourhood.", "answer": "Je ne reconnais plus mon propre quartier.", "acceptedAnswers": ["je ne reconnais plus mon propre quartier"] },
+            { "id": "b1_u25_l01_wr03", "type": "fillBlank", "prompt": "De nos jours, tout le monde ___ (être) connecté en permanence.", "answer": "est" }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "b1_u25_l01_pr01", "type": "fillBlank", "prompt": "Avant, on ___ (écrire) des lettres.", "answer": "écrivait" },
+            { "id": "b1_u25_l01_pr02", "type": "multipleChoice", "prompt": "Which word means \"nowadays\"?", "options": ["de nos jours", "autrefois", "jadis", "avant"], "answer": "de nos jours" },
+            { "id": "b1_u25_l01_pr03", "type": "arrangeWords", "words": ["différente", "vie", "ma", "est", "aujourd'hui", "complètement"], "answer": "ma vie est complètement différente aujourd'hui", "english": "My life is completely different today." },
+            { "id": "b1_u25_l01_pr04", "type": "match", "pairs": [ { "french": "autrefois", "english": "in the past" }, { "french": "désormais", "english": "from now on" }, { "french": "encore", "english": "still" }, { "french": "ne ... plus", "english": "no longer" } ] },
+            { "id": "b1_u25_l01_pr05", "type": "trueFalse", "prompt": "\"Toujours\" can mean both \"always\" and \"still\".", "options": ["True", "False"], "answer": "True" },
+            { "id": "b1_u25_l01_pr06", "type": "translate", "prompt": "Translate: \"At the time, nobody had a mobile phone.\"", "english": "At the time, nobody had a mobile phone.", "answer": "À l'époque, personne n'avait de portable.", "acceptedAnswers": ["a l'epoque personne n'avait de portable"] }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "b1_u25_l01_qz01", "type": "multipleChoice", "prompt": "Which tense is used to describe a habitual past state?", "options": ["Imparfait", "Présent", "Futur simple", "Impératif"], "answer": "Imparfait" },
+            { "id": "b1_u25_l01_qz02", "type": "fillBlank", "prompt": "Je ne ___ (habiter) plus chez mes parents.", "answer": "habite" },
+            { "id": "b1_u25_l01_qz03", "type": "translate", "prompt": "Translate: \"Life was simpler before.\"", "english": "Life was simpler before.", "answer": "La vie était plus simple avant.", "acceptedAnswers": ["la vie etait plus simple avant"] },
+            { "id": "b1_u25_l01_qz04", "type": "multipleChoice", "prompt": "\"Actuellement\" means...", "options": ["Currently", "Actually", "Eventually", "Occasionally"], "answer": "Currently" },
+            { "id": "b1_u25_l01_qz05", "type": "listenChoose", "prompt": "Listen and choose the correct meaning.", "french": "Autrefois, il n'y avait presque pas de voitures ici.", "options": ["In the past, there were almost no cars here.", "Nowadays, there are too many cars here.", "Soon, there will be no cars here.", "Right now, there are no cars here."], "answer": "In the past, there were almost no cars here." }
+          ]
+        }
+
+      ]
+    },
+    {
+      "id": "b1_u25_l02",
+      "level": "B1",
+      "unit": 25,
+      "title": "Les tendances",
+      "description": "Describe rising and falling trends, talk about statistics, and say what's becoming more or less popular.",
+      "estimatedMinutes": 18,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Reading a trend",
+              "body": "French uses a small set of verbs and nouns to describe a line going up or down: \"augmenter\"/\"la hausse\" for a rise, \"diminuer\"/\"la baisse\" for a fall, and \"la tendance\" for the general direction. These words appear constantly in the news, in graphs, and in everyday conversation about prices, habits, or opinions.",
+              "examples": [
+                { "french": "Le nombre d'utilisateurs augmente chaque année.", "english": "The number of users increases every year." },
+                { "french": "On observe une nette baisse des ventes.", "english": "We're seeing a marked drop in sales." },
+                { "french": "La tendance est clairement à la hausse.", "english": "The trend is clearly upward." },
+                { "french": "Ce chiffre a doublé en cinq ans.", "english": "This figure has doubled in five years." },
+                { "french": "Le taux de participation a diminué depuis 2010.", "english": "The turnout rate has decreased since 2010." }
+              ],
+              "tip": "\"La hausse\" and \"la baisse\" are nouns — use them after \"en\" (en hausse, en baisse) or \"à la\" (à la hausse)."
+            },
+            {
+              "heading": "Talking in percentages and fractions",
+              "body": "Statistics rarely stop at whole numbers. You'll need \"le pourcentage\", \"la moyenne\" (the average), and fraction words like \"la moitié\" (half), \"le tiers\" (a third), \"la majorité\" and \"la minorité\". \"Environ\" softens a figure when it's approximate.",
+              "examples": [
+                { "french": "Vingt pour cent des Français ont changé de métier.", "english": "Twenty percent of French people have changed careers." },
+                { "french": "La moitié des sondés disent avoir changé d'avis.", "english": "Half of those surveyed say they've changed their minds." },
+                { "french": "Un tiers de la population vit désormais en ville.", "english": "A third of the population now lives in cities." },
+                { "french": "En moyenne, ce chiffre a augmenté de dix points.", "english": "On average, this figure has increased by ten points." }
+              ],
+              "tip": "\"La majorité\" takes a singular verb in French even when it clearly refers to many people: \"la majorité pense que...\"."
+            },
+            {
+              "heading": "What's popular and what's not",
+              "body": "To describe a growing or shrinking trend in popularity, use \"de plus en plus\" (more and more) or \"de moins en moins\" (less and less) before an adjective or a verb. Combine them with \"populaire\" and \"la popularité\" to talk about fashions, habits, and opinions.",
+              "examples": [
+                { "french": "Ce sport devient de plus en plus populaire.", "english": "This sport is becoming more and more popular." },
+                { "french": "Les gens lisent de moins en moins la presse papier.", "english": "People read the print press less and less." },
+                { "french": "Sa popularité a beaucoup grandi cette année.", "english": "His popularity has grown a lot this year." },
+                { "french": "Selon un sondage récent, cette idée séduit de plus en plus.", "english": "According to a recent poll, this idea is winning more and more people over." }
+              ],
+              "tip": "\"De plus en plus\" and \"de moins en moins\" never change form — no agreement needed, which makes them easy to reuse."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "la-tendance", "french": "la tendance", "english": "the trend", "partOfSpeech": "noun", "gender": "f", "plural": "tendances", "pronunciation": "tahn-DAHNS", "example": "La tendance est clairement à la hausse.", "exampleEnglish": "The trend is clearly upward.", "level": "B1", "category": "trends" },
+            { "id": "augmenter", "french": "augmenter", "english": "to increase, to go up", "partOfSpeech": "verb", "pronunciation": "og-mahn-TAY", "example": "Le nombre de visiteurs augmente chaque mois.", "exampleEnglish": "The number of visitors increases every month.", "level": "B1", "category": "trends" },
+            { "id": "diminuer", "french": "diminuer", "english": "to decrease", "partOfSpeech": "verb", "pronunciation": "dee-mee-nu-AY", "example": "Le taux de chômage a diminué cette année.", "exampleEnglish": "The unemployment rate has decreased this year.", "level": "B1", "category": "trends" },
+            { "id": "la-hausse", "french": "la hausse", "english": "the rise, the increase", "partOfSpeech": "noun", "gender": "f", "plural": "hausses", "pronunciation": "lah OHSS", "example": "On note une hausse importante des prix.", "exampleEnglish": "There is a significant rise in prices." , "level": "B1", "category": "trends" },
+            { "id": "la-baisse", "french": "la baisse", "english": "the fall, the drop", "partOfSpeech": "noun", "gender": "f", "plural": "baisses", "pronunciation": "lah BESS", "example": "Les ventes sont en baisse depuis janvier.", "exampleEnglish": "Sales have been falling since January.", "level": "B1", "category": "trends" },
+            { "id": "le-pourcentage", "french": "le pourcentage", "english": "the percentage", "partOfSpeech": "noun", "gender": "m", "plural": "pourcentages", "pronunciation": "poor-sahn-TAHZH", "example": "Quel pourcentage de la population est concerné ?", "exampleEnglish": "What percentage of the population is affected?", "level": "B1", "category": "statistics" },
+            { "id": "la-statistique", "french": "la statistique", "english": "the statistic", "partOfSpeech": "noun", "gender": "f", "plural": "statistiques", "pronunciation": "stah-tee-STEEK", "example": "Cette statistique surprend tout le monde.", "exampleEnglish": "This statistic surprises everyone.", "level": "B1", "category": "statistics" },
+            { "id": "le-chiffre", "french": "le chiffre", "english": "the figure, the number", "partOfSpeech": "noun", "gender": "m", "plural": "chiffres", "pronunciation": "SHEE-fruh", "example": "Ce chiffre a doublé en cinq ans.", "exampleEnglish": "This figure has doubled in five years.", "level": "B1", "category": "statistics" },
+            { "id": "la-moyenne", "french": "la moyenne", "english": "the average", "partOfSpeech": "noun", "gender": "f", "plural": "moyennes", "pronunciation": "mwah-YEN", "example": "En moyenne, les prix ont augmenté de dix pour cent.", "exampleEnglish": "On average, prices have gone up by ten percent.", "level": "B1", "category": "statistics" },
+            { "id": "sondage", "french": "le sondage", "english": "the opinion poll", "partOfSpeech": "noun", "gender": "m", "plural": "sondages", "pronunciation": "son-DAHZH", "example": "Selon ce sondage, l'opinion évolue vite.", "exampleEnglish": "According to this poll, opinion is changing fast.", "level": "B1", "category": "statistics" },
+            { "id": "majorite-politique", "french": "la majorité", "english": "the majority", "partOfSpeech": "noun", "gender": "f", "plural": "majorités", "pronunciation": "mah-zho-ree-TAY", "example": "La majorité des Français utilisent Internet chaque jour.", "exampleEnglish": "The majority of French people use the Internet every day.", "level": "B1", "category": "statistics" },
+            { "id": "minorite", "french": "la minorité", "english": "the minority", "partOfSpeech": "noun", "gender": "f", "plural": "minorités", "pronunciation": "mee-noh-ree-TAY", "example": "Seule une minorité rejette encore cette idée.", "exampleEnglish": "Only a minority still reject this idea.", "level": "B1", "category": "statistics" },
+            { "id": "la-plupart", "french": "la plupart", "english": "most, the majority", "partOfSpeech": "expression", "pronunciation": "lah plu-PAR", "example": "La plupart des gens ont changé d'avis.", "exampleEnglish": "Most people have changed their minds.", "level": "B1", "category": "statistics" },
+            { "id": "la-moitie", "french": "la moitié", "english": "half", "partOfSpeech": "noun", "gender": "f", "plural": "moitiés", "pronunciation": "mwah-tee-AY", "example": "La moitié des sondés approuvent ce changement.", "exampleEnglish": "Half of those surveyed approve of this change.", "level": "B1", "category": "statistics" },
+            { "id": "le-tiers", "french": "le tiers", "english": "a third", "partOfSpeech": "noun", "gender": "m", "plural": "tiers", "pronunciation": "luh TYEHR", "example": "Un tiers de la population vit désormais en ville.", "exampleEnglish": "A third of the population now lives in cities.", "level": "B1", "category": "statistics" },
+            { "id": "environ", "french": "environ", "english": "about, approximately", "partOfSpeech": "adverb", "pronunciation": "ahn-vee-RON", "example": "Environ soixante pour cent sont d'accord.", "exampleEnglish": "About sixty percent agree.", "level": "B1", "category": "statistics" },
+            { "id": "le-graphique", "french": "le graphique", "english": "the chart, the graph", "partOfSpeech": "noun", "gender": "m", "plural": "graphiques", "pronunciation": "grah-FEEK", "example": "Ce graphique montre l'évolution sur dix ans.", "exampleEnglish": "This chart shows the change over ten years.", "level": "B1", "category": "trends" },
+            { "id": "la-courbe", "french": "la courbe", "english": "the curve, the line (on a graph)", "partOfSpeech": "noun", "gender": "f", "plural": "courbes", "pronunciation": "KOORB", "example": "La courbe monte régulièrement depuis 2015.", "exampleEnglish": "The line has been rising steadily since 2015.", "level": "B1", "category": "trends" },
+            { "id": "populaire", "french": "populaire", "english": "popular", "partOfSpeech": "adjective", "pronunciation": "poh-pu-LEHR", "example": "Ce loisir est de plus en plus populaire.", "exampleEnglish": "This hobby is more and more popular.", "level": "B1", "category": "trends" },
+            { "id": "la-popularite", "french": "la popularité", "english": "the popularity", "partOfSpeech": "noun", "gender": "f", "plural": "popularités", "pronunciation": "poh-pu-lah-ree-TAY", "example": "Sa popularité a beaucoup grandi.", "exampleEnglish": "His popularity has grown a lot.", "level": "B1", "category": "trends" },
+            { "id": "de-plus-en-plus", "french": "de plus en plus", "english": "more and more", "partOfSpeech": "expression", "pronunciation": "duh plooz-ahn-PLOOSS", "example": "De plus en plus de gens travaillent à distance.", "exampleEnglish": "More and more people work remotely.", "level": "B1", "category": "trends" },
+            { "id": "de-moins-en-moins", "french": "de moins en moins", "english": "less and less", "partOfSpeech": "expression", "pronunciation": "duh mwan-zahn-mwan", "example": "On lit de moins en moins la presse papier.", "exampleEnglish": "People read the print press less and less.", "level": "B1", "category": "trends" },
+            { "id": "le-taux", "french": "le taux", "english": "the rate", "partOfSpeech": "noun", "gender": "m", "plural": "taux", "pronunciation": "luh TOH", "example": "Le taux de chômage a diminué.", "exampleEnglish": "The unemployment rate has decreased.", "level": "B1", "category": "statistics" },
+            { "id": "selon", "french": "selon", "english": "according to", "partOfSpeech": "preposition", "pronunciation": "suh-LON", "example": "Selon ce sondage, l'opinion a changé.", "exampleEnglish": "According to this poll, opinion has changed.", "level": "B1", "category": "statistics" },
+            { "id": "d-apres", "french": "d'après", "english": "according to", "partOfSpeech": "expression", "pronunciation": "dah-PREH", "example": "D'après les chiffres, la tendance se confirme.", "exampleEnglish": "According to the figures, the trend is confirmed.", "level": "B1", "category": "statistics" },
+            { "id": "doubler", "french": "doubler", "english": "to double", "partOfSpeech": "verb", "pronunciation": "doo-BLAY", "example": "Le nombre d'abonnés a doublé en un an.", "exampleEnglish": "The number of subscribers has doubled in a year.", "level": "B1", "category": "trends" },
+            { "id": "stable", "french": "stable", "english": "stable", "partOfSpeech": "adjective", "pronunciation": "STAH-bluh", "example": "Le chiffre reste stable depuis deux ans.", "exampleEnglish": "The figure has stayed stable for two years.", "level": "B1", "category": "trends" },
+            { "id": "la-stabilite", "french": "la stabilité", "english": "the stability", "partOfSpeech": "noun", "gender": "f", "plural": "stabilités", "pronunciation": "stah-bee-lee-TAY", "example": "Cette stabilité surprend les analystes.", "exampleEnglish": "This stability surprises the analysts.", "level": "B1", "category": "trends" },
+            { "id": "significatif", "french": "significatif(ve)", "english": "significant", "partOfSpeech": "adjective", "pronunciation": "see-nyee-fee-kah-TEEF", "example": "La hausse est significative cette année.", "exampleEnglish": "The rise is significant this year.", "level": "B1", "category": "statistics" },
+            { "id": "constater", "french": "constater", "english": "to note, to observe", "partOfSpeech": "verb", "pronunciation": "kohn-stah-TAY", "example": "On constate une tendance à la baisse.", "exampleEnglish": "A downward trend is noted.", "level": "B1", "category": "statistics" },
+            { "id": "reveler", "french": "révéler", "english": "to reveal", "partOfSpeech": "verb", "pronunciation": "ray-vay-LAY", "example": "Le sondage révèle un vrai changement d'avis.", "exampleEnglish": "The poll reveals a real change of opinion.", "level": "B1", "category": "statistics" },
+            { "id": "indiquer", "french": "indiquer", "english": "to indicate", "partOfSpeech": "verb", "pronunciation": "an-dee-KAY", "example": "Ce chiffre indique une évolution rapide.", "exampleEnglish": "This figure indicates a rapid change.", "level": "B1", "category": "statistics" },
+            { "id": "concerner", "french": "concerner", "english": "to concern, to affect", "partOfSpeech": "verb", "pronunciation": "kohn-sehr-NAY", "example": "Cette tendance concerne surtout les jeunes.", "exampleEnglish": "This trend mostly concerns young people.", "level": "B1", "category": "statistics" },
+            { "id": "toucher", "french": "toucher", "english": "to affect", "partOfSpeech": "verb", "pronunciation": "too-SHAY", "example": "La hausse des prix touche toutes les familles.", "exampleEnglish": "The rise in prices affects every family.", "level": "B1", "category": "statistics" },
+            { "id": "superieur-a", "french": "supérieur à", "english": "higher than", "partOfSpeech": "expression", "pronunciation": "su-pay-RYUR ah", "example": "Ce taux est supérieur à la moyenne nationale.", "exampleEnglish": "This rate is higher than the national average.", "level": "B1", "category": "statistics" },
+            { "id": "inferieur-a", "french": "inférieur à", "english": "lower than", "partOfSpeech": "expression", "pronunciation": "an-fay-RYUR ah", "example": "Ce chiffre est inférieur à celui de l'an dernier.", "exampleEnglish": "This figure is lower than last year's.", "level": "B1", "category": "statistics" },
+            { "id": "inverser", "french": "inverser", "english": "to reverse", "partOfSpeech": "verb", "pronunciation": "an-vehr-SAY", "example": "La tendance s'est inversée en un an.", "exampleEnglish": "The trend reversed within a year.", "level": "B1", "category": "trends" },
+            { "id": "net", "french": "net(te)", "english": "marked, clear (of a change)", "partOfSpeech": "adjective", "pronunciation": "NET", "example": "On observe une nette augmentation.", "exampleEnglish": "We're seeing a marked increase.", "level": "B1", "category": "statistics" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Expressing proportions",
+              "body": "To say what share of a group does something, use \"la moitié de\", \"le tiers de\", \"la majorité de\" or a percentage, followed by \"de\" + a plural noun, and a plural verb. \"Un/une ... sur ...\" (one in ...) is another very natural way to express a proportion.",
+              "examples": [
+                { "french": "La moitié des Français ont déjà changé de métier.", "english": "Half of French people have already changed jobs." },
+                { "french": "Un Français sur trois dit avoir changé d'avis.", "english": "One French person in three says they've changed their mind." },
+                { "french": "La majorité des sondés approuvent cette évolution.", "english": "The majority of those surveyed approve of this change." }
+              ],
+              "tip": "Even though \"la moitié\", \"le tiers\" and \"la majorité\" are singular nouns, the verb that follows \"de + plural noun\" is usually plural, agreeing with the people counted."
+            },
+            {
+              "heading": "Describing movement with passer de ... à",
+              "body": "\"Passer de ... à ...\" is the standard way to describe a figure moving from one value to another over time. Combine it with \"en + [number of years]\" to show how fast the change happened.",
+              "examples": [
+                { "french": "Le taux est passé de 10 % à 25 % en cinq ans.", "english": "The rate went from 10% to 25% in five years." },
+                { "french": "Le nombre d'utilisateurs est passé de cent à mille.", "english": "The number of users went from a hundred to a thousand." },
+                { "french": "Ce chiffre est passé de la baisse à la hausse.", "english": "This figure went from falling to rising." }
+              ],
+              "tip": "\"Passer de X à Y\" always uses \"être\" as the auxiliary in the passé composé: \"il est passé de ... à ...\"."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "b1_u25_l02_li01", "type": "listenChoose", "prompt": "Listen. What is the trend?", "french": "La tendance est clairement à la hausse.", "options": ["Rising", "Falling", "Stable", "Reversing"], "answer": "Rising" },
+            { "id": "b1_u25_l02_li02", "type": "listenChoose", "prompt": "Listen. What proportion is mentioned?", "french": "La moitié des sondés approuvent ce changement.", "options": ["Half", "A third", "A quarter", "All"], "answer": "Half" },
+            { "id": "b1_u25_l02_li03", "type": "listenType", "prompt": "Listen and type what you hear.", "french": "Ce sport devient de plus en plus populaire.", "answer": "Ce sport devient de plus en plus populaire.", "acceptedAnswers": ["ce sport devient de plus en plus populaire"] },
+            { "id": "b1_u25_l02_li04", "type": "dictation", "prompt": "Listen carefully and write the full sentence.", "french": "Le nombre d'abonnés a doublé en un an.", "answer": "Le nombre d'abonnés a doublé en un an.", "acceptedAnswers": ["le nombre d'abonnes a double en un an"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "b1_u25_l02_sp01", "type": "speak", "prompt": "Say that the trend is clearly upward.", "french": "La tendance est clairement à la hausse.", "english": "The trend is clearly upward.", "tip": "Link \"clairement\" and \"à la hausse\" smoothly — no pause between them." },
+            { "id": "b1_u25_l02_sp02", "type": "speak", "prompt": "Say that a third of the population lives in cities.", "french": "Un tiers de la population vit en ville.", "english": "A third of the population lives in cities.", "tip": "\"Tiers\" ends in a silent \"s\" — say it as \"tyehr\"." },
+            { "id": "b1_u25_l02_sp03", "type": "speak", "prompt": "Say that this hobby is becoming more and more popular.", "french": "Ce loisir devient de plus en plus populaire.", "english": "This hobby is becoming more and more popular.", "tip": "Keep \"de plus en plus\" rhythmic — three short beats, no stress on any one word." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Le télétravail : ce que dit le sondage",
+              "french": "Un nouveau sondage vient de paraître sur les habitudes de travail des Français.\nSelon cette étude, le télétravail est de plus en plus populaire depuis quelques années.\nEn effet, le pourcentage de salariés qui travaillent au moins un jour par semaine à la maison a doublé depuis 2019.\nLa moitié des personnes interrogées disent préférer ce nouveau rythme de vie.\nCependant, un tiers d'entre elles constatent aussi un sentiment d'isolement.\nLe graphique publié avec le sondage montre une courbe qui monte régulièrement.\nLa tendance touche surtout les grandes villes, où le taux dépasse la moyenne nationale.\nÀ la campagne, en revanche, le chiffre reste plus stable.\nD'après les chercheurs, cette évolution est loin d'être terminée.\nIls prévoient que ce taux continuera d'augmenter dans les prochaines années.\nLa minorité qui reste opposée au télétravail invoque surtout la difficulté à se concentrer.\nUne chose est sûre : nos habitudes de travail ne ressemblent plus à celles d'avant.",
+              "english": "A new poll has just been published on the working habits of French people.\nAccording to this study, remote work has become more and more popular in recent years.\nIndeed, the percentage of employees who work from home at least one day a week has doubled since 2019.\nHalf of the people surveyed say they prefer this new pace of life.\nHowever, a third of them also note a feeling of isolation.\nThe chart published with the poll shows a steadily rising line.\nThe trend mostly affects big cities, where the rate exceeds the national average.\nIn the countryside, on the other hand, the figure remains more stable.\nAccording to the researchers, this change is far from over.\nThey predict that this rate will keep increasing in the coming years.\nThe minority who remain opposed to remote work mostly cite difficulty concentrating.\nOne thing is certain: our working habits no longer resemble what they used to be.",
+              "questions": [
+                { "id": "b1_u25_l02_rd01", "type": "multipleChoice", "prompt": "What has doubled since 2019, according to the poll?", "options": ["The percentage working from home at least one day a week", "The average salary", "The number of companies", "The unemployment rate"], "answer": "The percentage working from home at least one day a week" },
+                { "id": "b1_u25_l02_rd02", "type": "trueFalse", "prompt": "The trend is stronger in the countryside than in big cities.", "options": ["True", "False"], "answer": "False" },
+                { "id": "b1_u25_l02_rd03", "type": "multipleChoice", "prompt": "What reason do opponents of remote work give?", "options": ["Difficulty concentrating", "Cost of equipment", "Lack of internet access", "Fear of losing their job"], "answer": "Difficulty concentrating" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "b1_u25_l02_wr01", "type": "translate", "prompt": "Translate: \"The rate went from 10% to 25% in five years.\"", "english": "The rate went from 10% to 25% in five years.", "answer": "Le taux est passé de 10 % à 25 % en cinq ans.", "acceptedAnswers": ["le taux est passe de 10 a 25 en cinq ans"] },
+            { "id": "b1_u25_l02_wr02", "type": "translate", "prompt": "Translate: \"This hobby is more and more popular.\"", "english": "This hobby is more and more popular.", "answer": "Ce loisir est de plus en plus populaire.", "acceptedAnswers": ["ce loisir est de plus en plus populaire"] },
+            { "id": "b1_u25_l02_wr03", "type": "fillBlank", "prompt": "La moitié ___ Français utilisent cette application.", "answer": "des" }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "b1_u25_l02_pr01", "type": "fillBlank", "prompt": "Le chiffre a ___ (doubler) en cinq ans.", "answer": "doublé" },
+            { "id": "b1_u25_l02_pr02", "type": "multipleChoice", "prompt": "Which word means \"a third\"?", "options": ["le tiers", "la moitié", "le pourcentage", "la moyenne"], "answer": "le tiers" },
+            { "id": "b1_u25_l02_pr03", "type": "arrangeWords", "words": ["hausse", "la", "clairement", "tendance", "à", "est", "la"], "answer": "la tendance est clairement à la hausse", "english": "The trend is clearly upward." },
+            { "id": "b1_u25_l02_pr04", "type": "match", "pairs": [ { "french": "augmenter", "english": "to increase" }, { "french": "diminuer", "english": "to decrease" }, { "french": "stable", "english": "stable" }, { "french": "inverser", "english": "to reverse" } ] },
+            { "id": "b1_u25_l02_pr05", "type": "trueFalse", "prompt": "\"De moins en moins\" means \"less and less\".", "options": ["True", "False"], "answer": "True" },
+            { "id": "b1_u25_l02_pr06", "type": "translate", "prompt": "Translate: \"According to this poll, opinion is changing fast.\"", "english": "According to this poll, opinion is changing fast.", "answer": "Selon ce sondage, l'opinion évolue vite.", "acceptedAnswers": ["selon ce sondage l'opinion evolue vite"] }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "b1_u25_l02_qz01", "type": "multipleChoice", "prompt": "Which noun means \"a rise, an increase\"?", "options": ["la hausse", "la baisse", "la moyenne", "le tiers"], "answer": "la hausse" },
+            { "id": "b1_u25_l02_qz02", "type": "fillBlank", "prompt": "La majorité des sondés ___ (approuver) ce changement.", "answer": "approuvent" },
+            { "id": "b1_u25_l02_qz03", "type": "translate", "prompt": "Translate: \"This trend mostly affects young people.\"", "english": "This trend mostly affects young people.", "answer": "Cette tendance concerne surtout les jeunes.", "acceptedAnswers": ["cette tendance concerne surtout les jeunes"] },
+            { "id": "b1_u25_l02_qz04", "type": "multipleChoice", "prompt": "\"Le taux est passé de 10 % à 25 %\" means the rate...", "options": ["went from 10% to 25%", "stayed at 10%", "fell to 25%", "was always 25%"], "answer": "went from 10% to 25%" },
+            { "id": "b1_u25_l02_qz05", "type": "listenChoose", "prompt": "Listen and choose the correct meaning.", "french": "Un tiers de la population vit désormais en ville.", "options": ["A third of the population now lives in the city.", "Half of the population lives in the city.", "Most of the population lives in the countryside.", "The whole population lives in the city."], "answer": "A third of the population now lives in the city." }
+          ]
+        }
+
+      ]
+    },
+    {
+      "id": "b1_u25_l03",
+      "level": "B1",
+      "unit": 25,
+      "title": "Ma vie a changé",
+      "description": "Tell the story of a personal change, from the turning point to how you feel about it today.",
+      "estimatedMinutes": 18,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "The turning point",
+              "body": "Every personal change story has a moment where things shifted — a \"tournant\" (turning point) or a \"déclic\" (the click, the moment it suddenly made sense). French marks this moment with the passé composé, since it's a single completed event, even if the story around it uses the imparfait.",
+              "examples": [
+                { "french": "Il y a eu un vrai tournant dans ma vie l'année dernière.", "english": "There was a real turning point in my life last year." },
+                { "french": "J'ai eu un déclic le jour de mon trentième anniversaire.", "english": "I had a moment of realization on my thirtieth birthday." },
+                { "french": "J'ai décidé de tout changer.", "english": "I decided to change everything." },
+                { "french": "J'ai enfin osé partir.", "english": "I finally dared to leave." }
+              ],
+              "tip": "\"Le déclic\" is a very B1-idiomatic way to say \"the moment it clicked\" — French speakers use it constantly in personal stories."
+            },
+            {
+              "heading": "The process of change",
+              "body": "After the turning point comes the process: getting used to a new life, adapting, growing. \"S'adapter\", \"s'habituer à\" and \"grandir\" describe this gradual movement, often in the imparfait if you're describing what the process felt like, or the passé composé if you're marking its completion.",
+              "examples": [
+                { "french": "Je me suis adapté petit à petit à ma nouvelle vie.", "english": "I gradually adapted to my new life." },
+                { "french": "Il a fallu du temps pour m'habituer à ce rythme.", "english": "It took time to get used to this pace." },
+                { "french": "J'ai beaucoup grandi pendant cette période.", "english": "I grew a lot during that period." },
+                { "french": "Je progressais chaque semaine, sans m'en rendre compte.", "english": "I was progressing every week, without realizing it." }
+              ],
+              "tip": "\"Petit à petit\" (little by little) pairs naturally with change verbs to show the process wasn't instant."
+            },
+            {
+              "heading": "Looking back",
+              "body": "To close a change story, French speakers often step back and reflect using \"avec le recul\" (looking back, in hindsight), and describe how they feel now with words like \"la fierté\" (pride) and \"la confiance en soi\" (self-confidence).",
+              "examples": [
+                { "french": "Avec le recul, je ne regrette rien.", "english": "Looking back, I regret nothing." },
+                { "french": "Je suis fier du chemin parcouru.", "english": "I'm proud of how far I've come." },
+                { "french": "J'ai gagné en confiance en moi.", "english": "I've gained self-confidence." },
+                { "french": "Depuis ce changement, je me sens enfin épanoui.", "english": "Since that change, I finally feel fulfilled." }
+              ],
+              "tip": "\"Le chemin parcouru\" (literally \"the path travelled\") is a lovely fixed image for describing personal progress."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "un-tournant", "french": "un tournant", "english": "a turning point", "partOfSpeech": "noun", "gender": "m", "plural": "tournants", "pronunciation": "an toor-NAHN", "example": "Ce jour-là a été un vrai tournant dans ma vie.", "exampleEnglish": "That day was a real turning point in my life.", "level": "B1", "category": "personal-change" },
+            { "id": "le-declic", "french": "le déclic", "english": "the moment of realization, the click", "partOfSpeech": "noun", "gender": "m", "plural": "déclics", "pronunciation": "luh day-KLEEK", "example": "J'ai eu un déclic ce jour-là.", "exampleEnglish": "I had a moment of realization that day.", "level": "B1", "category": "personal-change" },
+            { "id": "decider", "french": "décider", "english": "to decide", "partOfSpeech": "verb", "pronunciation": "day-see-DAY", "example": "J'ai décidé de changer de vie.", "exampleEnglish": "I decided to change my life.", "level": "B1", "category": "personal-change" },
+            { "id": "decision", "french": "la décision", "english": "the decision", "partOfSpeech": "noun", "gender": "f", "plural": "décisions", "pronunciation": "day-see-ZYOHN", "example": "Cette décision a tout changé pour moi.", "exampleEnglish": "This decision changed everything for me.", "level": "B1", "category": "personal-change" },
+            { "id": "oser", "french": "oser", "english": "to dare", "partOfSpeech": "verb", "pronunciation": "oh-ZAY", "example": "J'ai enfin osé partir.", "exampleEnglish": "I finally dared to leave.", "level": "B1", "category": "personal-change" },
+            { "id": "quitter", "french": "quitter", "english": "to leave (a place, a job)", "partOfSpeech": "verb", "pronunciation": "kee-TAY", "example": "J'ai quitté mon emploi pour voyager.", "exampleEnglish": "I left my job to travel.", "level": "B1", "category": "personal-change" },
+            { "id": "recommencer", "french": "recommencer", "english": "to start over", "partOfSpeech": "verb", "pronunciation": "ruh-koh-mahn-SAY", "example": "J'ai dû tout recommencer à zéro.", "exampleEnglish": "I had to start everything over from scratch.", "level": "B1", "category": "personal-change" },
+            { "id": "se-lancer", "french": "se lancer", "english": "to take the plunge, to go for it", "partOfSpeech": "verb", "pronunciation": "suh lahn-SAY", "example": "Je me suis enfin lancé dans ce projet.", "exampleEnglish": "I finally took the plunge on this project.", "level": "B1", "category": "personal-change" },
+            { "id": "s-installer", "french": "s'installer", "english": "to settle, to move in", "partOfSpeech": "verb", "pronunciation": "san-stah-LAY", "example": "Je me suis installé dans une nouvelle ville.", "exampleEnglish": "I settled in a new city.", "level": "B1", "category": "personal-change" },
+            { "id": "s-adapter", "french": "s'adapter", "english": "to adapt", "partOfSpeech": "verb", "pronunciation": "sa-dap-TAY", "example": "Je me suis adapté petit à petit.", "exampleEnglish": "I gradually adapted.", "level": "B1", "category": "personal-change" },
+            { "id": "s-habituer-a", "french": "s'habituer à", "english": "to get used to", "partOfSpeech": "verb", "pronunciation": "sa-bee-tü-AY ah", "example": "Il a fallu du temps pour m'habituer à ce rythme.", "exampleEnglish": "It took time to get used to this pace.", "level": "B1", "category": "personal-change" },
+            { "id": "le-parcours", "french": "le parcours", "english": "the path, the journey (life)", "partOfSpeech": "noun", "gender": "m", "plural": "parcours", "pronunciation": "luh par-KOOR", "example": "Mon parcours n'a rien de linéaire.", "exampleEnglish": "My journey is anything but linear.", "level": "B1", "category": "personal-change" },
+            { "id": "l-experience", "french": "l'expérience", "english": "the experience", "partOfSpeech": "noun", "gender": "f", "plural": "expériences", "pronunciation": "leks-pay-RYAHNS", "example": "Cette expérience a changé ma façon de voir les choses.", "exampleEnglish": "This experience changed the way I see things.", "level": "B1", "category": "personal-change" },
+            { "id": "une-erreur", "french": "une erreur", "english": "a mistake", "partOfSpeech": "noun", "gender": "f", "plural": "erreurs", "pronunciation": "ün eh-RUHR", "example": "J'ai appris de mes erreurs.", "exampleEnglish": "I learned from my mistakes.", "level": "B1", "category": "personal-change" },
+            { "id": "avec-le-recul", "french": "avec le recul", "english": "looking back, in hindsight", "partOfSpeech": "expression", "pronunciation": "ah-vek luh ruh-KUL", "example": "Avec le recul, je ne regrette rien.", "exampleEnglish": "Looking back, I regret nothing.", "level": "B1", "category": "personal-change" },
+            { "id": "depuis-que", "french": "depuis que", "english": "ever since (+ clause)", "partOfSpeech": "conjunction", "pronunciation": "duh-PWEE kuh", "example": "Depuis que j'ai déménagé, je me sens plus libre.", "exampleEnglish": "Ever since I moved, I've felt freer.", "level": "B1", "category": "personal-change" },
+            { "id": "grandir", "french": "grandir", "english": "to grow up, to grow", "partOfSpeech": "verb", "pronunciation": "grahn-DEER", "example": "J'ai beaucoup grandi pendant cette période.", "exampleEnglish": "I grew a lot during that period.", "level": "B1", "category": "personal-change" },
+            { "id": "murir", "french": "mûrir", "english": "to mature", "partOfSpeech": "verb", "pronunciation": "mu-REER", "example": "Cette épreuve m'a fait mûrir.", "exampleEnglish": "That ordeal made me mature.", "level": "B1", "category": "personal-change" },
+            { "id": "la-maturite", "french": "la maturité", "english": "the maturity", "partOfSpeech": "noun", "gender": "f", "plural": "maturités", "pronunciation": "mah-tu-ree-TAY", "example": "J'ai gagné en maturité depuis ce jour-là.", "exampleEnglish": "I've gained maturity since that day.", "level": "B1", "category": "personal-change" },
+            { "id": "devenir", "french": "devenir", "english": "to become", "partOfSpeech": "verb", "pronunciation": "duhv-NEER", "example": "Je suis devenu quelqu'un de plus calme.", "exampleEnglish": "I've become someone calmer.", "level": "B1", "category": "personal-change" },
+            { "id": "rester", "french": "rester", "english": "to stay, to remain", "partOfSpeech": "verb", "pronunciation": "res-TAY", "example": "Une partie de moi est restée la même.", "exampleEnglish": "Part of me has stayed the same.", "level": "B1", "category": "personal-change" },
+            { "id": "garder", "french": "garder", "english": "to keep", "partOfSpeech": "verb", "pronunciation": "gar-DAY", "example": "J'ai gardé mes vraies valeurs.", "exampleEnglish": "I've kept my true values.", "level": "B1", "category": "personal-change" },
+            { "id": "perdre", "french": "perdre", "english": "to lose", "partOfSpeech": "verb", "pronunciation": "PEHR-druh", "example": "J'ai perdu mes anciennes habitudes en chemin.", "exampleEnglish": "I lost my old habits along the way.", "level": "B1", "category": "personal-change" },
+            { "id": "gagner", "french": "gagner", "english": "to gain", "partOfSpeech": "verb", "pronunciation": "gah-NYAY", "example": "J'ai gagné en confiance en moi.", "exampleEnglish": "I've gained self-confidence.", "level": "B1", "category": "personal-change" },
+            { "id": "la-confiance-en-soi", "french": "la confiance en soi", "english": "self-confidence", "partOfSpeech": "noun", "gender": "f", "plural": "confiances en soi", "pronunciation": "lah kohn-FYAHNS ahn SWAH", "example": "Ce changement m'a donné de la confiance en soi.", "exampleEnglish": "This change gave me self-confidence.", "level": "B1", "category": "personal-change" },
+            { "id": "s-epanouir", "french": "s'épanouir", "english": "to flourish, to blossom", "partOfSpeech": "verb", "pronunciation": "say-pah-NWEER", "example": "Je me suis enfin épanoui dans ce nouveau métier.", "exampleEnglish": "I finally flourished in this new job.", "level": "B1", "category": "personal-change" },
+            { "id": "epanouissant", "french": "épanouissant(e)", "english": "fulfilling", "partOfSpeech": "adjective", "pronunciation": "ay-pah-nwee-SAHN", "example": "Cette nouvelle vie est vraiment épanouissante.", "exampleEnglish": "This new life is truly fulfilling.", "level": "B1", "category": "personal-change" },
+            { "id": "le-demenagement", "french": "le déménagement", "english": "the move, the relocation", "partOfSpeech": "noun", "gender": "m", "plural": "déménagements", "pronunciation": "luh day-may-nazh-MAHN", "example": "Le déménagement a marqué le début de tout.", "exampleEnglish": "The move marked the start of everything.", "level": "B1", "category": "personal-change" },
+            { "id": "un-nouveau-depart", "french": "un nouveau départ", "english": "a fresh start", "partOfSpeech": "expression", "pronunciation": "an noo-VOH day-PAR", "example": "Pour moi, ce fut un vrai nouveau départ.", "exampleEnglish": "For me, it was a real fresh start.", "level": "B1", "category": "personal-change" },
+            { "id": "surmonter", "french": "surmonter", "english": "to overcome", "partOfSpeech": "verb", "pronunciation": "sür-mon-TAY", "example": "J'ai surmonté mes peurs petit à petit.", "exampleEnglish": "I overcame my fears little by little.", "level": "B1", "category": "personal-change" },
+            { "id": "un-obstacle", "french": "un obstacle", "english": "an obstacle", "partOfSpeech": "noun", "gender": "m", "plural": "obstacles", "pronunciation": "an ob-STAH-kluh", "example": "Chaque obstacle m'a rendu plus fort.", "exampleEnglish": "Every obstacle made me stronger.", "level": "B1", "category": "personal-change" },
+            { "id": "progresser", "french": "progresser", "english": "to progress, to improve", "partOfSpeech": "verb", "pronunciation": "proh-greh-SAY", "example": "Je progressais chaque semaine, sans m'en rendre compte.", "exampleEnglish": "I was progressing every week, without realizing it.", "level": "B1", "category": "personal-change" },
+            { "id": "fier", "french": "fier(-ère)", "english": "proud", "partOfSpeech": "adjective", "pronunciation": "fyehr", "example": "Je suis fier du chemin parcouru.", "exampleEnglish": "I'm proud of how far I've come.", "level": "B1", "category": "personal-change" },
+            { "id": "la-fierte", "french": "la fierté", "english": "the pride", "partOfSpeech": "noun", "gender": "f", "plural": "fiertés", "pronunciation": "fyehr-TAY", "example": "Je repense à cette période avec fierté.", "exampleEnglish": "I look back on that period with pride.", "level": "B1", "category": "personal-change" },
+            { "id": "se-sentir", "french": "se sentir", "english": "to feel", "partOfSpeech": "verb", "pronunciation": "suh sahn-TEER", "example": "Depuis ce changement, je me sens enfin bien.", "exampleEnglish": "Since that change, I finally feel good.", "level": "B1", "category": "personal-change" },
+            { "id": "la-reconversion", "french": "la reconversion", "english": "the career change, the reinvention", "partOfSpeech": "noun", "gender": "f", "plural": "reconversions", "pronunciation": "lah ruh-kon-ver-SYON", "example": "Ma reconversion a demandé beaucoup de courage.", "exampleEnglish": "My career change took a lot of courage.", "level": "B1", "category": "personal-change" },
+            { "id": "la-vie", "french": "la vie", "english": "life", "partOfSpeech": "noun", "gender": "f", "plural": "vies", "pronunciation": "vee", "example": "Ma vie a complètement changé cette année-là.", "exampleEnglish": "My life completely changed that year.", "level": "B1", "category": "personal-change" },
+            { "id": "changer", "french": "changer", "english": "to change", "partOfSpeech": "verb", "pronunciation": "shahn-ZHAY", "example": "J'ai changé bien plus que je ne le pensais.", "exampleEnglish": "I changed much more than I thought.", "level": "B1", "category": "personal-change" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Passé composé vs imparfait in a change narrative",
+              "body": "A personal change story usually mixes both past tenses: the imparfait sets the scene (\"before, I was...\") and the passé composé marks the single event that changed everything (\"then, I decided...\"). Getting this contrast right is what makes a story sound natural rather than like a list of facts.",
+              "examples": [
+                { "french": "Avant, j'étais plutôt timide, mais un jour, j'ai osé changer de vie.", "english": "Before, I was rather shy, but one day, I dared to change my life." },
+                { "french": "Je travaillais dans la finance quand j'ai décidé de tout quitter.", "english": "I was working in finance when I decided to leave everything." },
+                { "french": "Je ne savais pas ce que je voulais, jusqu'au jour où j'ai eu un déclic.", "english": "I didn't know what I wanted, until the day I had a realization." }
+              ],
+              "tip": "A useful pattern: imparfait + \"quand\" + passé composé — it captures the background interrupted by the turning-point event."
+            },
+            {
+              "heading": "Depuis que + présent, and avant de + infinitive",
+              "body": "\"Depuis que\" (ever since) is followed by a clause, usually in the présent if the effect is ongoing. \"Avant de\" + infinitive and \"après avoir/être\" + past participle are useful for sequencing the steps of your story without repeating the subject.",
+              "examples": [
+                { "french": "Depuis que j'ai déménagé, je me sens plus libre.", "english": "Ever since I moved, I've felt freer." },
+                { "french": "Avant de partir, j'ai longuement réfléchi.", "english": "Before leaving, I thought about it for a long time." },
+                { "french": "Après avoir surmonté mes peurs, j'ai enfin osé me lancer.", "english": "After overcoming my fears, I finally dared to take the plunge." }
+              ],
+              "tip": "\"Avant de\" and \"après avoir/être\" both require the same subject in both halves of the sentence — otherwise, use \"avant que\" + subjunctive."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "b1_u25_l03_li01", "type": "listenChoose", "prompt": "Listen. What happened?", "french": "J'ai eu un déclic le jour de mon trentième anniversaire.", "options": ["A moment of realization", "A job promotion", "A house move", "An accident"], "answer": "A moment of realization" },
+            { "id": "b1_u25_l03_li02", "type": "listenChoose", "prompt": "Listen. Which tense sets the background scene here?", "french": "Je travaillais dans la finance quand j'ai décidé de tout quitter.", "options": ["Imparfait", "Présent", "Futur", "Impératif"], "answer": "Imparfait" },
+            { "id": "b1_u25_l03_li03", "type": "listenType", "prompt": "Listen and type what you hear.", "french": "Depuis que j'ai déménagé, je me sens plus libre.", "answer": "Depuis que j'ai déménagé, je me sens plus libre.", "acceptedAnswers": ["depuis que j'ai demenage je me sens plus libre"] },
+            { "id": "b1_u25_l03_li04", "type": "dictation", "prompt": "Listen carefully and write the full sentence.", "french": "Je suis fier du chemin parcouru.", "answer": "Je suis fier du chemin parcouru.", "acceptedAnswers": ["je suis fier du chemin parcouru"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "b1_u25_l03_sp01", "type": "speak", "prompt": "Say that you finally dared to leave.", "french": "J'ai enfin osé partir.", "english": "I finally dared to leave.", "tip": "\"Osé\" rhymes with \"café\" — a clean, open \"ay\" sound." },
+            { "id": "b1_u25_l03_sp02", "type": "speak", "prompt": "Say that this change gave you self-confidence.", "french": "Ce changement m'a donné de la confiance en soi.", "english": "This change gave me self-confidence.", "tip": "\"Confiance en soi\" is a fixed expression — practise it as one block." },
+            { "id": "b1_u25_l03_sp03", "type": "speak", "prompt": "Say that looking back, you regret nothing.", "french": "Avec le recul, je ne regrette rien.", "english": "Looking back, I regret nothing.", "tip": "Pause slightly after \"avec le recul\" — it's a reflective opener, so give it a beat." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Ma vie a changé",
+              "french": "Il y a cinq ans, je travaillais dans un bureau, du lundi au vendredi, sans jamais me poser de questions.\nJ'étais plutôt content de ma vie, ou du moins je le croyais.\nPuis, un jour, j'ai eu un vrai déclic.\nJe me suis rendu compte que je n'étais pas épanoui dans ce métier.\nAprès avoir longuement réfléchi, j'ai décidé de tout quitter pour me lancer dans la pâtisserie.\nMa famille pensait que c'était une erreur, mais j'ai osé le faire quand même.\nLes premiers mois ont été difficiles : j'ai dû recommencer à zéro et apprendre un nouveau métier.\nPetit à petit, je me suis adapté à ce nouveau rythme de vie.\nJ'ai surmonté beaucoup d'obstacles, et j'ai gagné en confiance en moi.\nAujourd'hui, je tiens ma propre boulangerie, et je me sens enfin à ma place.\nAvec le recul, ce tournant a été la meilleure décision de ma vie.\nJe suis fier du chemin parcouru depuis ce jour-là.",
+              "english": "Five years ago, I worked in an office, Monday to Friday, never asking myself any questions.\nI was fairly happy with my life, or at least I thought so.\nThen, one day, I had a real moment of realization.\nI realized I wasn't fulfilled in that job.\nAfter thinking it over for a long time, I decided to leave everything to go into pastry-making.\nMy family thought it was a mistake, but I dared to do it anyway.\nThe first months were hard: I had to start from scratch and learn a new trade.\nLittle by little, I adapted to this new pace of life.\nI overcame many obstacles, and I gained self-confidence.\nToday, I run my own bakery, and I finally feel like I'm where I belong.\nLooking back, that turning point was the best decision of my life.\nI'm proud of how far I've come since that day.",
+              "questions": [
+                { "id": "b1_u25_l03_rd01", "type": "multipleChoice", "prompt": "What was the narrator's job before the change?", "options": ["Office work", "Teaching", "Cooking", "Driving"], "answer": "Office work" },
+                { "id": "b1_u25_l03_rd02", "type": "trueFalse", "prompt": "The narrator's family fully supported the decision from the start.", "options": ["True", "False"], "answer": "False" },
+                { "id": "b1_u25_l03_rd03", "type": "multipleChoice", "prompt": "What does the narrator do today?", "options": ["Runs a bakery", "Works in finance", "Studies at university", "Travels full-time"], "answer": "Runs a bakery" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "b1_u25_l03_wr01", "type": "translate", "prompt": "Translate: \"I decided to change everything.\"", "english": "I decided to change everything.", "answer": "J'ai décidé de tout changer.", "acceptedAnswers": ["j'ai decide de tout changer"] },
+            { "id": "b1_u25_l03_wr02", "type": "translate", "prompt": "Translate: \"Ever since I moved, I've felt freer.\"", "english": "Ever since I moved, I've felt freer.", "answer": "Depuis que j'ai déménagé, je me sens plus libre.", "acceptedAnswers": ["depuis que j'ai demenage je me sens plus libre"] },
+            { "id": "b1_u25_l03_wr03", "type": "fillBlank", "prompt": "Je travaillais dans un bureau quand j'___ (avoir) un déclic.", "answer": "ai eu" }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "b1_u25_l03_pr01", "type": "fillBlank", "prompt": "J'ai enfin ___ (oser) me lancer dans ce projet.", "answer": "osé" },
+            { "id": "b1_u25_l03_pr02", "type": "multipleChoice", "prompt": "Which word means \"a turning point\"?", "options": ["un tournant", "un obstacle", "un souvenir", "un parcours"], "answer": "un tournant" },
+            { "id": "b1_u25_l03_pr03", "type": "arrangeWords", "words": ["parcouru", "fier", "chemin", "je", "suis", "du"], "answer": "je suis fier du chemin parcouru", "english": "I'm proud of how far I've come." },
+            { "id": "b1_u25_l03_pr04", "type": "match", "pairs": [ { "french": "surmonter", "english": "to overcome" }, { "french": "s'adapter", "english": "to adapt" }, { "french": "grandir", "english": "to grow up" }, { "french": "recommencer", "english": "to start over" } ] },
+            { "id": "b1_u25_l03_pr05", "type": "trueFalse", "prompt": "\"Le déclic\" describes the moment a change suddenly makes sense.", "options": ["True", "False"], "answer": "True" },
+            { "id": "b1_u25_l03_pr06", "type": "translate", "prompt": "Translate: \"I overcame my fears little by little.\"", "english": "I overcame my fears little by little.", "answer": "J'ai surmonté mes peurs petit à petit.", "acceptedAnswers": ["j'ai surmonte mes peurs petit a petit"] }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "b1_u25_l03_qz01", "type": "multipleChoice", "prompt": "Which expression means \"looking back, in hindsight\"?", "options": ["avec le recul", "de nos jours", "à l'époque", "de plus en plus"], "answer": "avec le recul" },
+            { "id": "b1_u25_l03_qz02", "type": "fillBlank", "prompt": "Je travaillais dans la finance quand j'___ (décider) de tout quitter.", "answer": "ai décidé" },
+            { "id": "b1_u25_l03_qz03", "type": "translate", "prompt": "Translate: \"I'm proud of how far I've come.\"", "english": "I'm proud of how far I've come.", "answer": "Je suis fier du chemin parcouru.", "acceptedAnswers": ["je suis fier du chemin parcouru"] },
+            { "id": "b1_u25_l03_qz04", "type": "multipleChoice", "prompt": "\"S'habituer à\" means...", "options": ["to get used to", "to leave", "to forget", "to overcome"], "answer": "to get used to" },
+            { "id": "b1_u25_l03_qz05", "type": "listenChoose", "prompt": "Listen and choose the correct meaning.", "french": "Ce changement m'a donné de la confiance en soi.", "options": ["This change gave me self-confidence.", "This change made me anxious.", "This change cost me a lot.", "This change surprised my family."], "answer": "This change gave me self-confidence." }
+          ]
+        }
+
+      ]
+    }
+  ]
+}

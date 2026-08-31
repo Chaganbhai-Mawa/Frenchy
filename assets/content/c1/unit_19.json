@@ -1,0 +1,832 @@
+{
+  "id": "c1_u19",
+  "level": "C1",
+  "unit": 19,
+  "title": "Argument & Fallacy",
+  "subtitle": "Name arguments precisely, spot sophisms, and refute with method",
+  "icon": "🧮",
+  "lessons": [
+    {
+      "id": "c1_u19_l01",
+      "level": "C1",
+      "unit": 19,
+      "title": "Les types d'arguments",
+      "description": "Name and deploy the four classic argument types: analogy, authority, cause, and example.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "L'anatomie d'un bon argument",
+              "body": "In academic and professional French, an argument (un argument) is not a mere opinion: it links a premise (une prémisse) to a conclusion (une conclusion) through a stated reason. A rigorous speaker names the type of argument being used — this precision is a hallmark of C1-level debate and editorial writing.",
+              "examples": [
+                { "french": "Ma prémisse est simple : sans données, aucune décision n'est fondée.", "english": "My premise is simple: without data, no decision is well-founded." },
+                { "french": "De cette prémisse découle une conclusion claire.", "english": "From this premise a clear conclusion follows." },
+                { "french": "Un raisonnement solide s'appuie sur des faits vérifiables.", "english": "Sound reasoning rests on verifiable facts." },
+                { "french": "Cet argument n'est pas valide : la logique est rompue.", "english": "This argument is not valid: the logic is broken." }
+              ],
+              "tip": "In French debate, naming the type of argument explicitly (\"c'est un argument d'autorité\") signals analytical mastery, not pedantry."
+            },
+            {
+              "heading": "L'argument par analogie et l'argument d'autorité",
+              "body": "The argument by analogy (l'argument par analogie) transfers a conclusion from a familiar case to a similar one. The argument from authority (l'argument d'autorité) relies on an expert's word — legitimate when the expert is genuinely competent, weak when merely famous.",
+              "examples": [
+                { "french": "Diriger une entreprise sans stratégie, c'est comme naviguer sans carte : voilà une analogie éclairante.", "english": "Running a company without a strategy is like sailing without a map: that is an illuminating analogy." },
+                { "french": "L'argument d'autorité ne vaut que si l'autorité invoquée est compétente dans le domaine concerné.", "english": "The argument from authority only holds if the authority invoked is competent in the relevant field." },
+                { "french": "Selon plusieurs experts, cette méthode reste la plus fiable.", "english": "According to several experts, this method remains the most reliable." },
+                { "french": "Une analogie mal choisie égare plus qu'elle n'éclaire.", "english": "A poorly chosen analogy misleads more than it clarifies." }
+              ],
+              "tip": "Ask whether the two cases in an analogy truly share the relevant feature — a weak analogy is often disguised as a strong one."
+            },
+            {
+              "heading": "L'argument de cause à effet et l'argument par l'exemple",
+              "body": "The causal argument (l'argument de cause à effet) claims that one event produces another; it requires a demonstrated causal link (un lien de causalité), not mere sequence. The argument by example (l'argument par l'exemple) illustrates a general claim with one or more concrete cases — convincing only if the example is representative.",
+              "examples": [
+                { "french": "La hausse des prix a entraîné une baisse de la consommation : voilà un lien de causalité établi.", "english": "The price increase led to a drop in consumption: that is an established causal link." },
+                { "french": "Prenons un exemple : dans ce service, le télétravail a réduit l'absentéisme de moitié.", "english": "Let's take an example: in this department, remote work halved absenteeism." },
+                { "french": "Un seul exemple n'illustre pas une règle générale.", "english": "A single example does not illustrate a general rule." },
+                { "french": "Il faut distinguer la corrélation de la causalité.", "english": "One must distinguish correlation from causation." }
+              ],
+              "tip": "In editorial French, \"cela explique\" claims causality; \"cela coïncide avec\" only claims correlation — the choice of verb matters."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "un-argument", "french": "un argument", "english": "an argument, a supporting reason", "partOfSpeech": "noun", "gender": "m", "plural": "des arguments", "pronunciation": "uhn ar-gue-MAHN", "example": "Cet argument mérite d'être développé.", "exampleEnglish": "This argument deserves to be developed.", "level": "C1", "category": "argumentation" },
+            { "id": "une-these", "french": "une thèse", "english": "a thesis, a claim being defended", "partOfSpeech": "noun", "gender": "f", "plural": "des thèses", "pronunciation": "uen TEHZ", "example": "Sa thèse repose sur trois arguments distincts.", "exampleEnglish": "Her thesis rests on three distinct arguments.", "level": "C1", "category": "argumentation" },
+            { "id": "une-premisse", "french": "une prémisse", "english": "a premise (of a syllogism)", "partOfSpeech": "noun", "gender": "f", "plural": "des prémisses", "pronunciation": "uen pray-MEESS", "example": "Si la prémisse est fausse, la conclusion s'effondre.", "exampleEnglish": "If the premise is false, the conclusion collapses.", "level": "C1", "category": "argumentation" },
+            { "id": "une-conclusion", "french": "une conclusion", "english": "a conclusion", "partOfSpeech": "noun", "gender": "f", "plural": "des conclusions", "pronunciation": "uen kon-klu-ZYON", "example": "La conclusion ne découle pas des prémisses.", "exampleEnglish": "The conclusion does not follow from the premises.", "level": "C1", "category": "argumentation" },
+            { "id": "un-raisonnement", "french": "un raisonnement", "english": "a line of reasoning", "partOfSpeech": "noun", "gender": "m", "plural": "des raisonnements", "pronunciation": "uhn ray-zon-MAHN", "example": "Le raisonnement tient, malgré une prémisse fragile.", "exampleEnglish": "The reasoning holds, despite a fragile premise.", "level": "C1", "category": "argumentation" },
+            { "id": "la-logique", "french": "la logique", "english": "logic", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah loh-ZHEEK", "example": "La logique de la démonstration échappe à l'auditoire.", "exampleEnglish": "The logic of the demonstration escapes the audience.", "level": "C1", "category": "argumentation" },
+            { "id": "un-syllogisme", "french": "un syllogisme", "english": "a syllogism", "partOfSpeech": "noun", "gender": "m", "plural": "des syllogismes", "pronunciation": "uhn see-loh-ZHEEZM", "example": "Ce syllogisme paraît solide en apparence seulement.", "exampleEnglish": "This syllogism seems solid only on the surface.", "level": "C1", "category": "argumentation" },
+            { "id": "valide", "french": "valide", "english": "valid", "partOfSpeech": "adjective", "pronunciation": "vah-LEED", "example": "Un raisonnement peut être valide sans être vrai.", "exampleEnglish": "A line of reasoning can be valid without being true.", "level": "C1", "category": "argumentation" },
+            { "id": "invalide", "french": "invalide", "english": "invalid, unsound", "partOfSpeech": "adjective", "pronunciation": "an-vah-LEED", "example": "L'argument est invalide dès la deuxième étape.", "exampleEnglish": "The argument is invalid from the second step onward.", "level": "C1", "category": "argumentation" },
+            { "id": "fonde", "french": "fondé", "english": "well-founded, justified", "partOfSpeech": "adjective", "pronunciation": "fon-DAY", "example": "Ce reproche n'est pas fondé.", "exampleEnglish": "This criticism is not well-founded.", "level": "C1", "category": "argumentation" },
+            { "id": "convaincant", "french": "convaincant", "english": "convincing", "partOfSpeech": "adjective", "pronunciation": "kohn-van-KAHN", "example": "Son plaidoyer était bref mais convaincant.", "exampleEnglish": "His plea was brief but convincing.", "level": "C1", "category": "argumentation" },
+            { "id": "une-deduction", "french": "une déduction", "english": "a deduction", "partOfSpeech": "noun", "gender": "f", "plural": "des déductions", "pronunciation": "uen day-duk-SYON", "example": "Sa déduction est correcte, mais son point de départ est faux.", "exampleEnglish": "His deduction is correct, but his starting point is wrong.", "level": "C1", "category": "argumentation" },
+            { "id": "une-induction", "french": "une induction", "english": "an induction (generalising from cases)", "partOfSpeech": "noun", "gender": "f", "plural": "des inductions", "pronunciation": "uen an-duk-SYON", "example": "L'induction reste probable, jamais certaine.", "exampleEnglish": "Induction remains probable, never certain.", "level": "C1", "category": "argumentation" },
+            { "id": "une-analogie", "french": "une analogie", "english": "an analogy", "partOfSpeech": "noun", "gender": "f", "plural": "des analogies", "pronunciation": "uen ah-nah-loh-ZHEE", "example": "L'analogie est parlante, à condition de ne pas la pousser trop loin.", "exampleEnglish": "The analogy is telling, provided it is not pushed too far.", "level": "C1", "category": "argumentation" },
+            { "id": "argument-d-autorite", "french": "un argument d'autorité", "english": "an argument from authority", "partOfSpeech": "expression", "pronunciation": "uhn ar-gue-MAHN doh-toh-ree-TAY", "example": "L'argument d'autorité ne dispense pas de la preuve.", "exampleEnglish": "The argument from authority does not dispense with proof.", "level": "C1", "category": "argumentation" },
+            { "id": "une-autorite", "french": "une autorité", "english": "an authority (a recognised expert)", "partOfSpeech": "noun", "gender": "f", "plural": "des autorités", "pronunciation": "uen oh-toh-ree-TAY", "example": "C'est une autorité reconnue dans son domaine.", "exampleEnglish": "She is a recognised authority in her field.", "level": "C1", "category": "argumentation" },
+            { "id": "un-expert", "french": "un expert", "english": "an expert", "partOfSpeech": "noun", "gender": "m", "plural": "des experts", "pronunciation": "uhn eks-PEHR", "example": "L'expert consulté confirme cette analyse.", "exampleEnglish": "The expert consulted confirms this analysis.", "level": "C1", "category": "argumentation" },
+            { "id": "une-cause", "french": "une cause", "english": "a cause", "partOfSpeech": "noun", "gender": "f", "plural": "des causes", "pronunciation": "uen KOHZ", "example": "La véritable cause du retard n'a jamais été identifiée.", "exampleEnglish": "The true cause of the delay was never identified.", "level": "C1", "category": "argumentation" },
+            { "id": "une-consequence", "french": "une conséquence", "english": "a consequence", "partOfSpeech": "noun", "gender": "f", "plural": "des conséquences", "pronunciation": "uen kon-say-KAHNS", "example": "Cette décision aura des conséquences durables.", "exampleEnglish": "This decision will have lasting consequences.", "level": "C1", "category": "argumentation" },
+            { "id": "un-lien-de-causalite", "french": "un lien de causalité", "english": "a causal link", "partOfSpeech": "expression", "pronunciation": "uhn lyan duh koh-zah-lee-TAY", "example": "Aucun lien de causalité n'a été démontré entre les deux phénomènes.", "exampleEnglish": "No causal link has been shown between the two phenomena.", "level": "C1", "category": "argumentation" },
+            { "id": "un-exemple", "french": "un exemple", "english": "an example", "partOfSpeech": "noun", "gender": "m", "plural": "des exemples", "pronunciation": "uhn nek-ZAHN-pluh", "example": "Cet exemple ne suffit pas à prouver la règle.", "exampleEnglish": "This example is not enough to prove the rule.", "level": "C1", "category": "argumentation" },
+            { "id": "generaliser", "french": "généraliser", "english": "to generalise", "partOfSpeech": "verb", "pronunciation": "zhay-nay-rah-lee-ZAY", "example": "On ne peut pas généraliser à partir d'un seul cas.", "exampleEnglish": "One cannot generalise from a single case.", "level": "C1", "category": "argumentation" },
+            { "id": "plausible", "french": "plausible", "english": "plausible", "partOfSpeech": "adjective", "pronunciation": "ploh-ZEEBL", "example": "L'explication est plausible, mais elle reste à vérifier.", "exampleEnglish": "The explanation is plausible, but it remains to be verified.", "level": "C1", "category": "argumentation" },
+            { "id": "credibilite", "french": "la crédibilité", "english": "credibility", "partOfSpeech": "noun", "gender": "f", "plural": "les crédibilités", "pronunciation": "lah kray-dee-bee-lee-TAY", "example": "Un seul chiffre erroné suffit à ruiner la crédibilité de l'exposé.", "exampleEnglish": "A single wrong figure is enough to ruin the credibility of the talk.", "level": "C1", "category": "argumentation" },
+            { "id": "s-appuyer-sur", "french": "s'appuyer sur", "english": "to rely on, to be based on", "partOfSpeech": "expression", "pronunciation": "sah-pwee-yay sür", "example": "Cette thèse s'appuie sur des données récentes.", "exampleEnglish": "This thesis relies on recent data.", "level": "C1", "category": "argumentation" },
+            { "id": "etayer", "french": "étayer", "english": "to back up, to support (an argument)", "partOfSpeech": "verb", "pronunciation": "ay-tay-YAY", "example": "Chaque affirmation doit être étayée par un exemple précis.", "exampleEnglish": "Each claim must be backed up by a precise example.", "level": "C1", "category": "argumentation" },
+            { "id": "un-contre-argument", "french": "un contre-argument", "english": "a counter-argument", "partOfSpeech": "noun", "gender": "m", "plural": "des contre-arguments", "pronunciation": "uhn kohn-truh-ahr-gü-MAHN", "example": "Il n'a proposé aucun contre-argument sérieux.", "exampleEnglish": "He offered no serious counter-argument.", "level": "C1", "category": "argumentation" },
+            { "id": "la-pertinence", "french": "la pertinence", "english": "relevance", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah pehr-tee-NAHNS", "example": "On peut discuter la pertinence de cet exemple.", "exampleEnglish": "One can question the relevance of this example.", "level": "C1", "category": "argumentation" },
+            { "id": "pertinent", "french": "pertinent", "english": "relevant, pertinent", "partOfSpeech": "adjective", "pronunciation": "pehr-tee-NAHN", "example": "Votre remarque est tout à fait pertinente.", "exampleEnglish": "Your remark is entirely relevant.", "level": "C1", "category": "argumentation" },
+            { "id": "comparer", "french": "comparer", "english": "to compare", "partOfSpeech": "verb", "pronunciation": "kom-pah-RAY", "example": "Il est tentant de comparer les deux situations, à tort.", "exampleEnglish": "It is tempting, wrongly, to compare the two situations.", "level": "C1", "category": "argumentation" },
+            { "id": "demontrer", "french": "démontrer", "english": "to demonstrate, to prove", "partOfSpeech": "verb", "pronunciation": "day-mon-TRAY", "example": "Ces chiffres démontrent une tendance claire.", "exampleEnglish": "These figures demonstrate a clear trend.", "level": "C1", "category": "argumentation" },
+            { "id": "une-preuve", "french": "une preuve", "english": "a proof, a piece of evidence", "partOfSpeech": "noun", "gender": "f", "plural": "des preuves", "pronunciation": "uen PRUHV", "example": "Aucune preuve tangible n'appuie cette affirmation.", "exampleEnglish": "No tangible evidence supports this claim.", "level": "C1", "category": "argumentation" },
+            { "id": "un-fait", "french": "un fait", "english": "a fact", "partOfSpeech": "noun", "gender": "m", "plural": "des faits", "pronunciation": "uhn FEH", "example": "Distinguons les faits des opinions.", "exampleEnglish": "Let us distinguish facts from opinions.", "level": "C1", "category": "argumentation" },
+            { "id": "une-hypothese", "french": "une hypothèse", "english": "a hypothesis", "partOfSpeech": "noun", "gender": "f", "plural": "des hypothèses", "pronunciation": "uen ee-poh-TEHZ", "example": "L'hypothèse reste à confirmer par des faits.", "exampleEnglish": "The hypothesis remains to be confirmed by facts.", "level": "C1", "category": "argumentation" },
+            { "id": "solide", "french": "solide", "english": "solid, sound", "partOfSpeech": "adjective", "pronunciation": "soh-LEED", "example": "L'argument paraît solide au premier abord.", "exampleEnglish": "The argument seems solid at first glance.", "level": "C1", "category": "argumentation" },
+            { "id": "illustrer", "french": "illustrer", "english": "to illustrate", "partOfSpeech": "verb", "pronunciation": "ee-loos-TRAY", "example": "Cet exemple illustre parfaitement la thèse défendue.", "exampleEnglish": "This example perfectly illustrates the thesis being defended.", "level": "C1", "category": "argumentation" },
+            { "id": "argument-par-analogie", "french": "un argument par analogie", "english": "an argument by analogy", "partOfSpeech": "expression", "pronunciation": "uhn ar-gue-MAHN par ah-nah-loh-ZHEE", "example": "Un argument par analogie éclaire, mais il ne prouve rien à lui seul.", "exampleEnglish": "An argument by analogy sheds light, but it proves nothing on its own.", "level": "C1", "category": "argumentation" },
+            { "id": "un-cas-representatif", "french": "un cas représentatif", "english": "a representative case", "partOfSpeech": "expression", "pronunciation": "uhn kah ruh-pray-zahn-tah-TEEF", "example": "Choisir un cas représentatif renforce l'argument par l'exemple.", "exampleEnglish": "Choosing a representative case strengthens the argument by example.", "level": "C1", "category": "argumentation" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Marquer la cause et la conséquence avec précision",
+              "body": "C1 French distinguishes cause and consequence with a range of connectors that go beyond \"parce que\". \"Étant donné que\" and \"du fait que\" take the indicative and introduce an established cause. \"De sorte que\" takes the indicative when stating a real result, but the subjunctive when stating an intended purpose — a subtlety worth mastering when constructing a causal argument.",
+              "examples": [
+                { "french": "Étant donné que les ventes ont chuté, la cause semble établie.", "english": "Given that sales have dropped, the cause seems established.", "note": "indicative — stated fact" },
+                { "french": "Du fait que l'échantillon était réduit, les résultats restent fragiles.", "english": "Because the sample was small, the results remain fragile.", "note": "indicative — stated fact" },
+                { "french": "Les prix ont baissé, de sorte que la demande a augmenté.", "english": "Prices fell, so demand increased.", "note": "indicative — real result" },
+                { "french": "Il faut reformuler la question de sorte qu'elle soit neutre.", "english": "The question must be reworded so that it is neutral.", "note": "subjunctive — intended purpose" }
+              ],
+              "tip": "If you can replace the clause with \"and as a result...\", use the indicative; if it means \"in order that...\", switch to the subjunctive."
+            },
+            {
+              "heading": "Construire la comparaison de l'analogie",
+              "body": "The argument by analogy relies on comparative structures: \"de même que... de même\", \"tout comme\", and \"à l'image de\" pair two situations explicitly, while \"autant... autant\" contrasts them. These structures let a C1 speaker build an analogy with visible grammatical symmetry, which makes the parallel easier to follow and to challenge.",
+              "examples": [
+                { "french": "De même qu'un capitaine ne quitte pas son navire, de même un dirigeant ne fuit pas la crise.", "english": "Just as a captain does not abandon ship, a leader does not flee a crisis." },
+                { "french": "Tout comme un moteur sans entretien finit par s'arrêter, une équipe sans reconnaissance finit par se démotiver.", "english": "Just as an engine without maintenance eventually stops, a team without recognition eventually loses motivation." },
+                { "french": "À l'image d'un jardin qu'on laisse à l'abandon, un projet sans suivi périclite.", "english": "Like a garden left untended, a project without follow-up declines." },
+                { "french": "Autant le premier cas est clair, autant le second reste discutable.", "english": "As clear as the first case is, the second remains debatable." }
+              ],
+              "tip": "An analogy is only as strong as the shared feature it names — always ask what exactly the two situations have in common."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "c1_u19_l01_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. Which type of argument is being described?",
+              "french": "Diriger sans stratégie, c'est comme naviguer sans carte.",
+              "options": ["Un argument par analogie", "Un argument d'autorité", "Un argument de cause à effet", "Un argument par l'exemple"],
+              "answer": "Un argument par analogie"
+            },
+            {
+              "id": "c1_u19_l01_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. What is being claimed?",
+              "french": "Selon plusieurs experts, cette méthode reste la plus fiable.",
+              "options": ["An appeal to expert authority", "A causal claim", "A personal opinion", "A hasty generalisation"],
+              "answer": "An appeal to expert authority"
+            },
+            {
+              "id": "c1_u19_l01_li03",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Aucun lien de causalité n'a été démontré.",
+              "answer": "Aucun lien de causalité n'a été démontré.",
+              "acceptedAnswers": ["aucun lien de causalite n'a ete demontre", "aucun lien de causalité n'a été démontré"]
+            },
+            {
+              "id": "c1_u19_l01_li04",
+              "type": "dictation",
+              "prompt": "Listen and write the sentence exactly.",
+              "french": "Un seul exemple n'illustre pas une règle générale.",
+              "answer": "Un seul exemple n'illustre pas une règle générale.",
+              "acceptedAnswers": ["un seul exemple n'illustre pas une regle generale", "un seul exemple n'illustre pas une règle générale"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "c1_u19_l01_sp01",
+              "type": "speak",
+              "prompt": "Name the type of argument you are about to make, then state it.",
+              "french": "C'est un argument de cause à effet : la baisse des prix a entraîné la hausse des ventes.",
+              "english": "This is a causal argument: the price drop led to the rise in sales.",
+              "tip": "Stress \"cause à effet\" clearly — nasal vowels: kohz ah eh-FEH."
+            },
+            {
+              "id": "c1_u19_l01_sp02",
+              "type": "speak",
+              "prompt": "Challenge an analogy politely but firmly.",
+              "french": "Votre analogie est séduisante, mais les deux situations ne sont pas comparables.",
+              "english": "Your analogy is appealing, but the two situations are not comparable.",
+              "tip": "\"Séduisante\" softens the criticism before the firm \"mais\" — keep the tone measured, not combative."
+            },
+            {
+              "id": "c1_u19_l01_sp03",
+              "type": "speak",
+              "prompt": "Ask for the evidence behind a claim.",
+              "french": "Sur quoi vous appuyez-vous pour affirmer cela ?",
+              "english": "What are you basing that claim on?",
+              "tip": "This is the standard C1 request for evidence — memorise it as a reflex phrase for any debate."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Le débat de la semaine de quatre jours",
+              "french": "Chaque trimestre, l'équipe se réunit pour discuter d'une proposition audacieuse.\nCe mois-ci, la question est simple : faut-il passer à la semaine de quatre jours ?\nYasmine prend la parole la première : « Regardez notre concurrent : depuis qu'il est passé à quatre jours, sa productivité a augmenté de douze pour cent. »\nMarc lève un sourcil. « C'est un lien de causalité un peu rapide. D'autres facteurs expliquent peut-être cette hausse. »\n« Justement, reprend Yasmine, une étude de l'université de Lyon confirme la tendance sur cinquante entreprises. »\n« Voilà un argument d'autorité solide, admet Marc, mais une étude ne remplace pas notre propre contexte. »\nKarim intervient alors avec une image : « C'est comme réduire les heures d'un moteur sans changer sa charge : le travail ne disparaît pas, il se déplace. »\n« Ton analogie suppose que notre charge de travail est fixe, objecte Yasmine. Or nous pouvons aussi la répartir autrement. »\nLe responsable, Antoine, prend alors un exemple concret : « Dans le service commercial, le vendredi off a réduit l'absentéisme de moitié le mois dernier. »\n« Un seul mois ne suffit pas à conclure, remarque Marc, prudent comme toujours. »\n« C'est vrai, concède Antoine, mais c'est un indice encourageant, pas une preuve définitive. »\nAprès une heure de débat, chacun reconnaît la force et la limite de son propre argument.\nLa réunion se termine sur une décision mesurée : un essai de trois mois, suivi d'un vrai bilan chiffré.\n« Au moins, conclut Karim en souriant, nous aurons alors un exemple qui nous appartient vraiment. »",
+              "english": "Every quarter, the team meets to discuss a bold proposal.\nThis month, the question is simple: should the company move to a four-day week?\nYasmine speaks first: \"Look at our competitor: since they switched to four days, their productivity has risen by twelve percent.\"\nMarc raises an eyebrow. \"That's a rather quick causal link. Other factors might explain that rise.\"\n\"Exactly why, Yasmine continues, a study from the University of Lyon confirms the trend across fifty companies.\"\n\"That's a solid argument from authority, Marc admits, but a study doesn't replace our own context.\"\nKarim then steps in with an image: \"It's like cutting an engine's hours without changing its load: the work doesn't disappear, it just shifts.\"\n\"Your analogy assumes our workload is fixed, Yasmine objects. But we can also redistribute it differently.\"\nThe manager, Antoine, then offers a concrete example: \"In the sales department, the Friday off cut absenteeism in half last month.\"\n\"One month isn't enough to conclude anything, Marc notes, cautious as ever.\"\n\"True, Antoine concedes, but it's an encouraging sign, not definitive proof.\"\nAfter an hour of debate, everyone acknowledges both the strength and the limit of their own argument.\nThe meeting ends with a measured decision: a three-month trial, followed by a real, numbers-based review.\n\"At least, Karim concludes with a smile, we'll then have an example that's truly our own.\"",
+              "questions": [
+                {
+                  "id": "c1_u19_l01_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "What does Marc criticize about Yasmine's first claim regarding the competitor?",
+                  "options": ["It assumes causation from a mere correlation", "It is based on a false analogy", "It attacks Yasmine personally", "It contradicts the study from Lyon"],
+                  "answer": "It assumes causation from a mere correlation"
+                },
+                {
+                  "id": "c1_u19_l01_rd02",
+                  "type": "multipleChoice",
+                  "prompt": "What does Karim's analogy compare the four-day week to?",
+                  "options": ["An engine running fewer hours without a reduced load", "A ship without a captain", "A garden left untended", "A student skipping class"],
+                  "answer": "An engine running fewer hours without a reduced load"
+                },
+                {
+                  "id": "c1_u19_l01_rd03",
+                  "type": "trueFalse",
+                  "prompt": "Antoine treats the drop in absenteeism as definitive proof that the four-day week works.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "c1_u19_l01_wr01",
+              "type": "translate",
+              "prompt": "Translate into French, naming the argument type explicitly.",
+              "english": "This is an argument by example: three clients out of five confirmed the problem.",
+              "answer": "C'est un argument par l'exemple : trois clients sur cinq ont confirmé le problème.",
+              "acceptedAnswers": ["c'est un argument par l'exemple : trois clients sur cinq ont confirme le probleme", "c'est un argument par l'exemple, trois clients sur cinq ont confirme le probleme"]
+            },
+            {
+              "id": "c1_u19_l01_wr02",
+              "type": "fillBlank",
+              "prompt": "Complete with the missing word: \"Aucun lien de ___ n'a été démontré entre les deux phénomènes.\"",
+              "answer": "causalité",
+              "acceptedAnswers": ["causalite"]
+            },
+            {
+              "id": "c1_u19_l01_wr03",
+              "type": "translate",
+              "prompt": "Translate into French using a comparative analogy structure.",
+              "english": "Just as a captain does not abandon ship, a leader does not flee a crisis.",
+              "answer": "De même qu'un capitaine ne quitte pas son navire, de même un dirigeant ne fuit pas la crise.",
+              "acceptedAnswers": ["de meme qu'un capitaine ne quitte pas son navire, de meme un dirigeant ne fuit pas la crise"]
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "c1_u19_l01_pr01", "type": "multipleChoice", "prompt": "Which connector introduces an established cause with the indicative?", "options": ["Étant donné que", "De sorte que (purpose)", "Bien que", "Quoique"], "answer": "Étant donné que" },
+            { "id": "c1_u19_l01_pr02", "type": "match", "pairs": [ { "french": "un argument par analogie", "english": "an argument by analogy" }, { "french": "un argument d'autorité", "english": "an argument from authority" }, { "french": "un lien de causalité", "english": "a causal link" }, { "french": "un cas représentatif", "english": "a representative case" } ] },
+            { "id": "c1_u19_l01_pr03", "type": "fillBlank", "prompt": "Une thèse doit s'___ sur des données récentes.", "answer": "appuyer" },
+            { "id": "c1_u19_l01_pr04", "type": "trueFalse", "prompt": "An argument from authority is automatically strong regardless of the expert's field.", "options": ["True", "False"], "answer": "False" },
+            { "id": "c1_u19_l01_pr05", "type": "arrangeWords", "words": ["ne", "prouve", "seul", "un", "exemple", "rien"], "answer": "un seul exemple ne prouve rien", "english": "A single example proves nothing." },
+            { "id": "c1_u19_l01_pr06", "type": "translate", "prompt": "Translate: \"The reasoning holds, despite a fragile premise.\"", "english": "The reasoning holds, despite a fragile premise.", "answer": "Le raisonnement tient, malgré une prémisse fragile.", "acceptedAnswers": ["le raisonnement tient, malgre une premisse fragile"] }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "c1_u19_l01_qz01", "type": "multipleChoice", "prompt": "\"C'est comme naviguer sans carte\" is an example of which argument type?", "options": ["Un argument par analogie", "Un argument d'autorité", "Un argument de cause à effet", "Un argument par l'exemple"], "answer": "Un argument par analogie" },
+            { "id": "c1_u19_l01_qz02", "type": "fillBlank", "prompt": "Un argument d'autorité ne dispense pas de la ___.", "answer": "preuve" },
+            { "id": "c1_u19_l01_qz03", "type": "trueFalse", "prompt": "\"De sorte que\" always takes the subjunctive.", "options": ["True", "False"], "answer": "False" },
+            { "id": "c1_u19_l01_qz04", "type": "translate", "prompt": "Translate: \"One cannot generalise from a single case.\"", "english": "One cannot generalise from a single case.", "answer": "On ne peut pas généraliser à partir d'un seul cas.", "acceptedAnswers": ["on ne peut pas generaliser a partir d'un seul cas"] },
+            { "id": "c1_u19_l01_qz05", "type": "match", "pairs": [ { "french": "une prémisse", "english": "a premise" }, { "french": "une conclusion", "english": "a conclusion" }, { "french": "une preuve", "english": "a proof" }, { "french": "une hypothèse", "english": "a hypothesis" } ] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1_u19_l02",
+      "level": "C1",
+      "unit": 19,
+      "title": "Les sophismes",
+      "description": "Identify the logical fallacies that most often derail everyday debate: strawman, false dilemma, ad hominem, slippery slope.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "L'homme de paille et le faux dilemme",
+              "body": "A sophism (un sophisme) looks valid but isn't. The straw man (l'homme de paille) attacks an exaggerated version of the opponent's claim instead of the claim itself. The false dilemma (le faux dilemme) reduces a situation to only two options when more actually exist.",
+              "examples": [
+                { "french": "Vous voulez réduire nos réunions ? Alors vous voulez qu'on ne communique plus jamais !", "english": "You want to shorten our meetings? So you want us to never communicate again!", "note": "homme de paille" },
+                { "french": "Ce n'est pas ce que j'ai dit ; vous déformez ma position pour mieux l'attaquer.", "english": "That's not what I said; you're distorting my position to attack it more easily." },
+                { "french": "Soit vous approuvez le projet tel quel, soit vous êtes contre l'innovation.", "english": "Either you approve the project as is, or you're against innovation.", "note": "faux dilemme" },
+                { "french": "Il existe sûrement une troisième option entre ces deux extrêmes.", "english": "There is surely a third option between these two extremes." }
+              ],
+              "tip": "When you hear \"donc vous voulez...\" followed by an extreme conclusion, suspect a straw man."
+            },
+            {
+              "heading": "L'attaque ad hominem et la pente glissante",
+              "body": "The ad hominem attack (l'attaque ad hominem) targets the person instead of the argument. The slippery slope (la pente glissante) claims that one small step will inevitably trigger a chain of extreme consequences, without showing why each step must follow.",
+              "examples": [
+                { "french": "Vous critiquez ce budget, mais vous êtes toujours en retard : votre avis ne compte pas.", "english": "You criticise this budget, but you're always late: your opinion doesn't count.", "note": "attaque ad hominem" },
+                { "french": "Restons sur le fond : le budget, pas ma ponctualité.", "english": "Let's stay on the substance: the budget, not my punctuality." },
+                { "french": "Si on autorise le télétravail un jour par semaine, bientôt plus personne ne viendra au bureau.", "english": "If we allow remote work one day a week, soon nobody will come to the office at all.", "note": "pente glissante" },
+                { "french": "Rien ne prouve qu'une mesure limitée entraîne automatiquement son extrême.", "english": "Nothing proves that a limited measure automatically leads to its extreme version." }
+              ],
+              "tip": "A slippery-slope claim needs a demonstrated mechanism at each step — without one, it is merely an assumption dressed up as logic."
+            },
+            {
+              "heading": "Repérer un sophisme au quotidien",
+              "body": "Fallacies often hide behind confident tone rather than solid logic. Learn to spot the signals: a claim that feels emotionally satisfying but skips evidence, a debate that shifts from the topic to the person, or a chain of consequences asserted rather than proven.",
+              "examples": [
+                { "french": "Ce raisonnement est fallacieux : il joue sur la peur plutôt que sur les faits.", "english": "This reasoning is fallacious: it plays on fear rather than facts." },
+                { "french": "Méfiez-vous d'un argument trop parfait pour être vrai.", "english": "Be wary of an argument that seems too perfect to be true." },
+                { "french": "Repérer le sophisme, c'est déjà commencer à le désarmer.", "english": "Spotting the fallacy is already the first step in disarming it." },
+                { "french": "Un biais ne rend pas un argument faux, mais il invite à la prudence.", "english": "A bias does not make an argument false, but it invites caution." }
+              ],
+              "tip": "Naming the fallacy calmly (\"c'est un homme de paille\") is far more persuasive than simply saying \"you're wrong\"."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "un-sophisme", "french": "un sophisme", "english": "a fallacy, a sophism", "partOfSpeech": "noun", "gender": "m", "plural": "des sophismes", "pronunciation": "uhn soh-FEEZM", "example": "Ce raisonnement relève du pur sophisme.", "exampleEnglish": "This reasoning is pure sophistry.", "level": "C1", "category": "fallacies" },
+            { "id": "une-erreur-de-raisonnement", "french": "une erreur de raisonnement", "english": "a reasoning error", "partOfSpeech": "expression", "pronunciation": "uen eh-RUHR duh ray-zon-MAHN", "example": "L'erreur de raisonnement saute aux yeux dès la deuxième phrase.", "exampleEnglish": "The reasoning error is obvious from the second sentence.", "level": "C1", "category": "fallacies" },
+            { "id": "un-homme-de-paille", "french": "un homme de paille", "english": "a straw man (fallacy)", "partOfSpeech": "noun", "gender": "m", "plural": "des hommes de paille", "pronunciation": "uhn om duh PAH-yuh", "example": "Vous attaquez un homme de paille : personne n'a jamais défendu cette position.", "exampleEnglish": "You're attacking a straw man: nobody ever defended that position.", "level": "C1", "category": "fallacies" },
+            { "id": "un-faux-dilemme", "french": "un faux dilemme", "english": "a false dilemma", "partOfSpeech": "noun", "gender": "m", "plural": "des faux dilemmes", "pronunciation": "uhn foh dee-LEM", "example": "Ce n'est pas tout ou rien : votre faux dilemme oublie les options intermédiaires.", "exampleEnglish": "It isn't all or nothing: your false dilemma ignores the middle options.", "level": "C1", "category": "fallacies" },
+            { "id": "attaque-ad-hominem", "french": "une attaque ad hominem", "english": "an ad hominem attack", "partOfSpeech": "expression", "pronunciation": "uen ah-TAK ad oh-mee-NEM", "example": "Répondre par une attaque ad hominem, c'est éviter le débat de fond.", "exampleEnglish": "Responding with an ad hominem attack is a way of avoiding the real debate.", "level": "C1", "category": "fallacies" },
+            { "id": "une-pente-glissante", "french": "une pente glissante", "english": "a slippery slope", "partOfSpeech": "noun", "gender": "f", "plural": "des pentes glissantes", "pronunciation": "uen pahnt glee-SAHNT", "example": "L'argument de la pente glissante suppose une chaîne de conséquences jamais démontrée.", "exampleEnglish": "The slippery-slope argument assumes a chain of consequences that is never demonstrated.", "level": "C1", "category": "fallacies" },
+            { "id": "une-generalisation-hative", "french": "une généralisation hâtive", "english": "a hasty generalisation", "partOfSpeech": "noun", "gender": "f", "plural": "des généralisations hâtives", "pronunciation": "uen jay-nay-rah-lee-za-syohn ah-TEEV", "example": "Deux cas isolés ne justifient pas une généralisation hâtive.", "exampleEnglish": "Two isolated cases do not justify a hasty generalisation.", "level": "C1", "category": "fallacies" },
+            { "id": "un-raisonnement-circulaire", "french": "un raisonnement circulaire", "english": "circular reasoning", "partOfSpeech": "expression", "pronunciation": "uhn ray-zon-MAHN seer-kew-LEHR", "example": "Prouver A par B, puis B par A : voilà un raisonnement circulaire.", "exampleEnglish": "Proving A with B, then B with A: that is circular reasoning.", "level": "C1", "category": "fallacies" },
+            { "id": "petition-de-principe", "french": "la pétition de principe", "english": "begging the question", "partOfSpeech": "noun", "gender": "f", "plural": "les pétitions de principe", "pronunciation": "lah pay-tee-SYON duh pran-SEEP", "example": "Supposer vrai ce qu'il fallait démontrer : c'est une pétition de principe.", "exampleEnglish": "Assuming true what needed to be proven: that is begging the question.", "level": "C1", "category": "fallacies" },
+            { "id": "une-fausse-causalite", "french": "une fausse causalité", "english": "a false causality (post hoc fallacy)", "partOfSpeech": "expression", "pronunciation": "uen fohs koh-zah-lee-TAY", "example": "Deux événements successifs ne font pas une fausse causalité disparaître, ils l'exposent.", "exampleEnglish": "Two successive events do not make a false causality vanish, they expose it.", "level": "C1", "category": "fallacies" },
+            { "id": "appel-a-l-emotion", "french": "l'appel à l'émotion", "english": "the appeal to emotion", "partOfSpeech": "expression", "pronunciation": "lah-PEL ah lay-moh-SYON", "example": "L'appel à l'émotion remplace la preuve par le ressenti.", "exampleEnglish": "The appeal to emotion replaces proof with feeling.", "level": "C1", "category": "fallacies" },
+            { "id": "l-appel-a-la-peur", "french": "l'appel à la peur", "english": "the appeal to fear", "partOfSpeech": "expression", "pronunciation": "lah-PEL ah lah PUHR", "example": "L'appel à la peur agite une catastrophe sans jamais la démontrer.", "exampleEnglish": "The appeal to fear waves around a catastrophe without ever demonstrating it.", "level": "C1", "category": "fallacies" },
+            { "id": "appel-a-la-popularite", "french": "l'appel à la popularité", "english": "the appeal to popularity", "partOfSpeech": "expression", "pronunciation": "lah-PEL ah lah poh-pu-lah-ree-TAY", "example": "Tout le monde le pense ne prouve pas que ce soit vrai : c'est un appel à la popularité.", "exampleEnglish": "Everyone thinking it doesn't prove it's true: that is an appeal to popularity.", "level": "C1", "category": "fallacies" },
+            { "id": "appel-a-l-autorite", "french": "l'appel à l'autorité", "english": "the appeal to (misused) authority", "partOfSpeech": "expression", "pronunciation": "lah-PEL ah loh-toh-ree-TAY", "example": "Citer une célébrité hors de son domaine, c'est un appel à l'autorité mal placé.", "exampleEnglish": "Quoting a celebrity outside their field is a misplaced appeal to authority.", "level": "C1", "category": "fallacies" },
+            { "id": "une-caricature", "french": "une caricature", "english": "a caricature, a distorted portrayal", "partOfSpeech": "noun", "gender": "f", "plural": "des caricatures", "pronunciation": "uen kah-ree-kah-TÜR", "example": "Ce résumé est une caricature de ma position réelle.", "exampleEnglish": "This summary is a caricature of my actual position.", "level": "C1", "category": "fallacies" },
+            { "id": "deformer", "french": "déformer", "english": "to distort (someone's words)", "partOfSpeech": "verb", "pronunciation": "day-for-MAY", "example": "Cessez de déformer mes propos pour les attaquer plus facilement.", "exampleEnglish": "Stop distorting my words to attack them more easily.", "level": "C1", "category": "fallacies" },
+            { "id": "exagerer", "french": "exagérer", "english": "to exaggerate", "partOfSpeech": "verb", "pronunciation": "eg-zah-zhay-RAY", "example": "En exagérant ma position, vous la rendez plus facile à démolir.", "exampleEnglish": "By exaggerating my position, you make it easier to demolish.", "level": "C1", "category": "fallacies" },
+            { "id": "denaturer", "french": "dénaturer", "english": "to misrepresent, to distort the nature of", "partOfSpeech": "verb", "pronunciation": "day-nah-tü-RAY", "example": "Ce résumé dénature complètement mon argument initial.", "exampleEnglish": "This summary completely misrepresents my original argument.", "level": "C1", "category": "fallacies" },
+            { "id": "fallacieux", "french": "fallacieux", "english": "fallacious, misleading", "partOfSpeech": "adjective", "pronunciation": "fah-lah-SYUH", "example": "L'argument est fallacieux, mais présenté avec assurance.", "exampleEnglish": "The argument is fallacious, but presented with confidence.", "level": "C1", "category": "fallacies" },
+            { "id": "trompeur", "french": "trompeur", "english": "deceptive, misleading", "partOfSpeech": "adjective", "pronunciation": "trom-PUHR", "example": "La simplicité de ce raisonnement est trompeuse.", "exampleEnglish": "The simplicity of this reasoning is deceptive.", "level": "C1", "category": "fallacies" },
+            { "id": "biaise", "french": "biaisé", "english": "biased, skewed", "partOfSpeech": "adjective", "pronunciation": "byeh-ZAY", "example": "L'échantillon est biaisé, donc la conclusion est fragile.", "exampleEnglish": "The sample is biased, so the conclusion is fragile.", "level": "C1", "category": "fallacies" },
+            { "id": "un-biais", "french": "un biais", "english": "a bias", "partOfSpeech": "noun", "gender": "m", "plural": "des biais", "pronunciation": "uhn BYEH", "example": "Chacun a ses biais ; l'important est de les reconnaître.", "exampleEnglish": "Everyone has their biases; the important thing is to recognise them.", "level": "C1", "category": "fallacies" },
+            { "id": "une-faille", "french": "une faille", "english": "a flaw, a gap in reasoning", "partOfSpeech": "noun", "gender": "f", "plural": "des failles", "pronunciation": "uen FAH-yuh", "example": "Il y a une faille évidente au cœur de cette démonstration.", "exampleEnglish": "There is an obvious flaw at the heart of this demonstration.", "level": "C1", "category": "fallacies" },
+            { "id": "discrediter", "french": "discréditer", "english": "to discredit", "partOfSpeech": "verb", "pronunciation": "diss-kray-dee-TAY", "example": "Attaquer la personne pour discréditer l'idée : le procédé est connu.", "exampleEnglish": "Attacking the person to discredit the idea: the trick is well known.", "level": "C1", "category": "fallacies" },
+            { "id": "detourner-la-question", "french": "détourner la question", "english": "to dodge the question, to change the subject", "partOfSpeech": "expression", "pronunciation": "day-toor-nay lah kes-TYON", "example": "Répondez à la question au lieu de la détourner.", "exampleEnglish": "Answer the question instead of dodging it.", "level": "C1", "category": "fallacies" },
+            { "id": "un-proces-d-intention", "french": "un procès d'intention", "english": "an assumption of bad intent", "partOfSpeech": "expression", "pronunciation": "uhn proh-SEH dan-tan-SYON", "example": "Lui prêter cette arrière-pensée est un procès d'intention injustifié.", "exampleEnglish": "Ascribing that hidden motive to him is an unjustified assumption of bad intent.", "level": "C1", "category": "fallacies" },
+            { "id": "une-diversion", "french": "une diversion", "english": "a diversion, a deflection", "partOfSpeech": "noun", "gender": "f", "plural": "des diversions", "pronunciation": "uen dee-vehr-SYON", "example": "Ce détail n'est qu'une diversion pour éviter le vrai sujet.", "exampleEnglish": "That detail is just a diversion to avoid the real subject.", "level": "C1", "category": "fallacies" },
+            { "id": "un-raccourci", "french": "un raccourci", "english": "a shortcut (in reasoning), an oversimplification", "partOfSpeech": "noun", "gender": "m", "plural": "des raccourcis", "pronunciation": "uhn rah-koor-SEE", "example": "Ce raccourci fait gagner une phrase et perdre la précision.", "exampleEnglish": "This shortcut saves a sentence and loses precision.", "level": "C1", "category": "fallacies" },
+            { "id": "une-extrapolation", "french": "une extrapolation", "english": "an extrapolation, an unwarranted extension", "partOfSpeech": "noun", "gender": "f", "plural": "des extrapolations", "pronunciation": "uen eks-trah-poh-lah-SYON", "example": "Passer d'un cas à toute l'équipe, c'est une extrapolation risquée.", "exampleEnglish": "Going from one case to the whole team is a risky extrapolation.", "level": "C1", "category": "fallacies" },
+            { "id": "reperer", "french": "repérer", "english": "to spot, to identify", "partOfSpeech": "verb", "pronunciation": "ruh-pay-RAY", "example": "Avec un peu d'entraînement, on repère vite les sophismes.", "exampleEnglish": "With a little practice, one quickly spots fallacies.", "level": "C1", "category": "fallacies" },
+            { "id": "demasquer", "french": "démasquer", "english": "to unmask, to expose", "partOfSpeech": "verb", "pronunciation": "day-mahs-KAY", "example": "Il suffit de démasquer le sophisme pour désamorcer le débat.", "exampleEnglish": "Unmasking the fallacy is enough to defuse the debate.", "level": "C1", "category": "fallacies" },
+            { "id": "identifier", "french": "identifier", "english": "to identify", "partOfSpeech": "verb", "pronunciation": "ee-dahn-tee-FYAY", "example": "Il faut d'abord identifier le type de sophisme employé.", "exampleEnglish": "You must first identify the type of fallacy being used.", "level": "C1", "category": "fallacies" },
+            { "id": "une-manipulation", "french": "une manipulation", "english": "a manipulation", "partOfSpeech": "noun", "gender": "f", "plural": "des manipulations", "pronunciation": "uen mah-nee-pu-lah-SYON", "example": "Ce n'est pas de la persuasion, c'est de la manipulation.", "exampleEnglish": "This isn't persuasion, it's manipulation.", "level": "C1", "category": "fallacies" },
+            { "id": "un-piege-rhetorique", "french": "un piège rhétorique", "english": "a rhetorical trap", "partOfSpeech": "expression", "pronunciation": "uhn PYEZH ray-toh-REEK", "example": "Ne tombez pas dans ce piège rhétorique : la question est mal posée.", "exampleEnglish": "Don't fall into this rhetorical trap: the question is loaded.", "level": "C1", "category": "fallacies" },
+            { "id": "la-mauvaise-foi", "french": "la mauvaise foi", "english": "bad faith, arguing dishonestly", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah moh-VEZ FWAH", "example": "Nier l'évidence, c'est de la mauvaise foi.", "exampleEnglish": "Denying the obvious is bad faith.", "level": "C1", "category": "fallacies" },
+            { "id": "un-argument-specieux", "french": "un argument spécieux", "english": "a specious argument", "partOfSpeech": "expression", "pronunciation": "uhn ar-gue-MAHN spay-SYUH", "example": "Un argument spécieux séduit par la forme et échoue sur le fond.", "exampleEnglish": "A specious argument seduces by its form and fails on substance.", "level": "C1", "category": "fallacies" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Rejeter une fausse causalité : \"ce n'est pas parce que... que...\"",
+              "body": "To reject a post-hoc fallacy in French, the construction \"ce n'est pas parce que... que...\" is essential: it names the (false) reasoning being rejected before denying its conclusion, the clause after \"que\" staying in the indicative because it reports the disputed claim, not a wish or doubt.",
+              "examples": [
+                { "french": "Ce n'est pas parce que les deux événements se suivent qu'ils sont liés.", "english": "It is not because the two events follow one another that they are linked." },
+                { "french": "Ce n'est pas parce qu'il a réussi une fois que la méthode est fiable.", "english": "It is not because it worked once that the method is reliable." },
+                { "french": "Ce n'est pas parce que tout le monde le pense que c'est vrai.", "english": "It is not because everyone thinks it that it is true." },
+                { "french": "Ce n'est pas parce qu'une mesure est limitée qu'elle mène automatiquement à son extrême.", "english": "It is not because a measure is limited that it automatically leads to its extreme." }
+              ],
+              "tip": "This structure is the single most useful C1 phrase for dismantling a false-causality or slippery-slope claim in live conversation."
+            },
+            {
+              "heading": "Exposer un faux dilemme avec \"ne... que\" et le conditionnel",
+              "body": "The restrictive structure \"ne... que\" exposes a false dilemma by naming exactly what options a claim wrongly limits itself to. Pairing it with the conditional (\"il y aurait\", \"on pourrait\") politely reopens the space of options without direct confrontation.",
+              "examples": [
+                { "french": "Votre proposition ne laisse que deux issues, alors qu'il y en aurait sans doute d'autres.", "english": "Your proposal leaves only two outcomes, whereas there would surely be others." },
+                { "french": "On pourrait envisager une solution intermédiaire entre ces deux extrêmes.", "english": "One could consider a middle-ground solution between these two extremes." },
+                { "french": "Ce choix ne se limite pas à \"tout ou rien\".", "english": "This choice is not limited to \"all or nothing\"." },
+                { "french": "Il y aurait sûrement une troisième voie, si l'on prenait le temps de la chercher.", "english": "There would surely be a third way, if we took the time to look for it." }
+              ],
+              "tip": "Naming the missing options aloud (\"ne... que\") is more disarming than simply saying \"I disagree\"."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "c1_u19_l02_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. Which fallacy is this?",
+              "french": "Vous voulez réduire nos réunions ? Alors vous voulez qu'on ne communique plus jamais !",
+              "options": ["Un homme de paille", "Un faux dilemme", "Une attaque ad hominem", "Une pente glissante"],
+              "answer": "Un homme de paille"
+            },
+            {
+              "id": "c1_u19_l02_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. Which fallacy is this?",
+              "french": "Vous critiquez ce budget, mais vous êtes toujours en retard : votre avis ne compte pas.",
+              "options": ["Une attaque ad hominem", "Un faux dilemme", "Une généralisation hâtive", "Un appel à la popularité"],
+              "answer": "Une attaque ad hominem"
+            },
+            {
+              "id": "c1_u19_l02_li03",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Soit vous approuvez le projet, soit vous êtes contre l'innovation.",
+              "answer": "Soit vous approuvez le projet, soit vous êtes contre l'innovation.",
+              "acceptedAnswers": ["soit vous approuvez le projet, soit vous etes contre l'innovation"]
+            },
+            {
+              "id": "c1_u19_l02_li04",
+              "type": "dictation",
+              "prompt": "Listen and write the sentence exactly.",
+              "french": "Repérer le sophisme, c'est déjà commencer à le désarmer.",
+              "answer": "Repérer le sophisme, c'est déjà commencer à le désarmer.",
+              "acceptedAnswers": ["reperer le sophisme, c'est deja commencer a le desarmer"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "c1_u19_l02_sp01",
+              "type": "speak",
+              "prompt": "Name a straw man politely and redirect the debate.",
+              "french": "Ce n'est pas ce que j'ai dit ; vous déformez ma position.",
+              "english": "That's not what I said; you're distorting my position.",
+              "tip": "Keep a calm, even tone — naming the fallacy works best without sounding accusatory."
+            },
+            {
+              "id": "c1_u19_l02_sp02",
+              "type": "speak",
+              "prompt": "Refuse to be drawn into an ad hominem exchange.",
+              "french": "Restons sur le fond, pas sur les personnes.",
+              "english": "Let's stick to the substance, not the people.",
+              "tip": "\"Le fond\" (substance) versus \"la forme\" (style) is a classic C1 pair — practice the nasal \"on\" in \"fond\"."
+            },
+            {
+              "id": "c1_u19_l02_sp03",
+              "type": "speak",
+              "prompt": "Reject a slippery-slope claim.",
+              "french": "Rien ne prouve qu'une mesure limitée entraîne automatiquement son extrême.",
+              "english": "Nothing proves that a limited measure automatically leads to its extreme.",
+              "tip": "Slow down on \"automatiquement\" — it carries the key stress of the whole sentence."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "L'assemblée du syndic",
+              "french": "Dans la salle commune de l'immeuble, les résidents se retrouvent pour l'assemblée annuelle.\nLe sujet du jour divise : faut-il autoriser les chiens dans la cour intérieure ?\nMadame Rocher ouvre le débat : « Je propose simplement d'autoriser les chiens tenus en laisse, aux heures calmes. »\nMonsieur Belin réplique aussitôt : « Donc vous voulez que la cour devienne un chenil et que plus personne n'ose s'y promener ? »\n« Ce n'est pas du tout ce que j'ai dit, corrige Madame Rocher. Vous déformez ma proposition pour mieux la rejeter. »\nMonsieur Belin insiste : « De toute façon, soit on interdit tous les animaux, soit on accepte le chaos. »\n« Il existe sûrement une solution intermédiaire, suggère le président du syndic, comme des horaires précis. »\nUne voisine, Farida, s'en mêle : « Monsieur Belin n'a jamais eu de chien, alors son avis sur la question ne vaut rien. »\n« Restons sur le fond, intervient le président, pas sur qui possède ou non un animal. »\nMonsieur Belin poursuit néanmoins : « Si on autorise les chiens un jour, bientôt on autorisera les barbecues, puis la musique tard le soir. »\n« Rien ne prouve qu'une règle précise entraîne automatiquement toutes les autres, objecte Madame Rocher. »\nAprès une heure d'échanges, le groupe reconnaît que chaque sophisme repéré a clarifié le vrai désaccord.\nLe président propose alors un essai de deux mois, avec des horaires fixes et un bilan collectif.\n« Voilà, conclut-il, une décision fondée sur des faits, et non sur la peur du pire scénario. »",
+              "english": "In the building's common room, the residents gather for the annual meeting.\nToday's topic divides them: should dogs be allowed in the inner courtyard?\nMadame Rocher opens the debate: \"I'm simply proposing that leashed dogs be allowed, during quiet hours.\"\nMonsieur Belin replies at once: \"So you want the courtyard to become a kennel where nobody dares walk anymore?\"\n\"That is not at all what I said, Madame Rocher corrects him. You're distorting my proposal to reject it more easily.\"\nMonsieur Belin insists: \"Either way, either we ban all animals, or we accept chaos.\"\n\"There is surely a middle-ground solution, the building manager suggests, such as set time slots.\"\nA neighbour, Farida, joins in: \"Monsieur Belin has never had a dog, so his opinion on the matter is worthless.\"\n\"Let's stick to the substance, the manager intervenes, not to who does or doesn't own a pet.\"\nMonsieur Belin nonetheless continues: \"If we allow dogs one day, soon we'll allow barbecues, then loud music late at night.\"\n\"Nothing proves that one precise rule automatically leads to all the others, Madame Rocher objects.\"\nAfter an hour of exchanges, the group acknowledges that each fallacy spotted clarified the real disagreement.\nThe manager then proposes a two-month trial, with fixed time slots and a collective review.\n\"There, he concludes, a decision founded on facts, not on fear of the worst-case scenario.\"",
+              "questions": [
+                {
+                  "id": "c1_u19_l02_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "What fallacy does Monsieur Belin commit when he claims Madame Rocher wants the courtyard to become a kennel?",
+                  "options": ["Un homme de paille", "Une pente glissante", "Un appel à la popularité", "Une pétition de principe"],
+                  "answer": "Un homme de paille"
+                },
+                {
+                  "id": "c1_u19_l02_rd02",
+                  "type": "multipleChoice",
+                  "prompt": "What fallacy does Farida commit when dismissing Monsieur Belin's opinion because he has never owned a dog?",
+                  "options": ["Une attaque ad hominem", "Un faux dilemme", "Une généralisation hâtive", "Une fausse causalité"],
+                  "answer": "Une attaque ad hominem"
+                },
+                {
+                  "id": "c1_u19_l02_rd03",
+                  "type": "trueFalse",
+                  "prompt": "The meeting ends without any decision being made.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "c1_u19_l02_wr01",
+              "type": "translate",
+              "prompt": "Translate into French using \"ce n'est pas parce que... que...\".",
+              "english": "It is not because everyone thinks it that it is true.",
+              "answer": "Ce n'est pas parce que tout le monde le pense que c'est vrai.",
+              "acceptedAnswers": ["ce n'est pas parce que tout le monde le pense que c'est vrai"]
+            },
+            {
+              "id": "c1_u19_l02_wr02",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Vous ___ mes propos pour mieux les attaquer.\"",
+              "answer": "déformez",
+              "acceptedAnswers": ["deformez"]
+            },
+            {
+              "id": "c1_u19_l02_wr03",
+              "type": "translate",
+              "prompt": "Translate: \"Let's stay on the substance, not the people.\"",
+              "english": "Let's stay on the substance, not the people.",
+              "answer": "Restons sur le fond, pas sur les personnes.",
+              "acceptedAnswers": ["restons sur le fond, pas sur les personnes"]
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "c1_u19_l02_pr01", "type": "multipleChoice", "prompt": "\"Soit vous êtes avec nous, soit vous êtes contre nous\" is which fallacy?", "options": ["Un faux dilemme", "Un homme de paille", "Une pente glissante", "Une pétition de principe"], "answer": "Un faux dilemme" },
+            { "id": "c1_u19_l02_pr02", "type": "match", "pairs": [ { "french": "un homme de paille", "english": "a straw man" }, { "french": "un faux dilemme", "english": "a false dilemma" }, { "french": "une attaque ad hominem", "english": "an ad hominem attack" }, { "french": "une pente glissante", "english": "a slippery slope" } ] },
+            { "id": "c1_u19_l02_pr03", "type": "fillBlank", "prompt": "Prouver A par B, puis B par A : voilà un raisonnement ___.", "answer": "circulaire" },
+            { "id": "c1_u19_l02_pr04", "type": "trueFalse", "prompt": "A bias automatically makes an argument false.", "options": ["True", "False"], "answer": "False" },
+            { "id": "c1_u19_l02_pr05", "type": "arrangeWords", "words": ["repérer", "le", "sophisme", "commence", "à", "le", "désarmer"], "answer": "repérer le sophisme commence à le désarmer", "english": "Spotting the fallacy begins to disarm it." },
+            { "id": "c1_u19_l02_pr06", "type": "translate", "prompt": "Translate: \"Nothing proves that a limited measure automatically leads to its extreme.\"", "english": "Nothing proves that a limited measure automatically leads to its extreme.", "answer": "Rien ne prouve qu'une mesure limitée entraîne automatiquement son extrême.", "acceptedAnswers": ["rien ne prouve qu'une mesure limitee entraine automatiquement son extreme"] }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "c1_u19_l02_qz01", "type": "multipleChoice", "prompt": "Attacking the person instead of the argument is called:", "options": ["une attaque ad hominem", "un homme de paille", "un faux dilemme", "une pente glissante"], "answer": "une attaque ad hominem" },
+            { "id": "c1_u19_l02_qz02", "type": "fillBlank", "prompt": "Supposer vrai ce qu'il fallait démontrer : c'est une ___ de principe.", "answer": "pétition" },
+            { "id": "c1_u19_l02_qz03", "type": "trueFalse", "prompt": "A slippery-slope argument requires a demonstrated mechanism at each step to be sound.", "options": ["True", "False"], "answer": "True" },
+            { "id": "c1_u19_l02_qz04", "type": "translate", "prompt": "Translate: \"You're distorting my words to attack them more easily.\"", "english": "You're distorting my words to attack them more easily.", "answer": "Vous déformez mes propos pour les attaquer plus facilement.", "acceptedAnswers": ["vous deformez mes propos pour les attaquer plus facilement"] },
+            { "id": "c1_u19_l02_qz05", "type": "match", "pairs": [ { "french": "un biais", "english": "a bias" }, { "french": "une faille", "english": "a flaw" }, { "french": "une diversion", "english": "a diversion" }, { "french": "la mauvaise foi", "english": "bad faith" } ] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1_u19_l03",
+      "level": "C1",
+      "unit": 19,
+      "title": "Réfuter avec méthode",
+      "description": "Build a methodical refutation: isolate the premise, concede what deserves it, and answer point by point.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Isoler la prémisse avant de réfuter",
+              "body": "A methodical refutation (une réfutation) never attacks the whole argument at once. It first isolates the exact premise (isoler la prémisse) that is doubtful, states it back clearly, and only then shows why it fails — this order keeps the exchange fair and the refutation harder to dismiss.",
+              "examples": [
+                { "french": "Isolons d'abord la prémisse en question : vous supposez que le budget est fixe.", "english": "Let us first isolate the premise in question: you assume the budget is fixed." },
+                { "french": "Décortiquons ce raisonnement étape par étape.", "english": "Let us pick this reasoning apart step by step." },
+                { "french": "Avant de réfuter, résumons fidèlement la position adverse.", "english": "Before refuting, let us faithfully summarise the opposing position." },
+                { "french": "Une réfutation solide vise la prémisse, pas la personne.", "english": "A solid refutation targets the premise, not the person." }
+              ],
+              "tip": "Restating the opponent's claim accurately before refuting it is the single clearest sign of intellectual honesty in French academic debate."
+            },
+            {
+              "heading": "Concéder, puis réfuter le reste",
+              "body": "Method also means selective concession: acknowledge (reconnaître, concéder) whatever part of the opposing argument genuinely holds, then refute only what remains weak. This structured honesty makes the final refutation far more convincing than an all-or-nothing rejection.",
+              "examples": [
+                { "french": "Je concède que le premier point est fondé ; le second, en revanche, ne l'est pas.", "english": "I concede that the first point is well-founded; the second, however, is not." },
+                { "french": "Reconnaissons la part de vérité dans cette objection avant d'y répondre.", "english": "Let us acknowledge the grain of truth in this objection before answering it." },
+                { "french": "Nuancer n'est pas céder : c'est préciser où se situe le désaccord.", "english": "To qualify is not to give in: it is to clarify exactly where the disagreement lies." },
+                { "french": "Un contre-exemple bien choisi suffit parfois à invalider toute la règle.", "english": "A well-chosen counter-example is sometimes enough to invalidate the whole rule." }
+              ],
+              "tip": "In French, \"je vous concède que...\" followed by \"mais\" is a near-formulaic way to sound both fair and firm."
+            },
+            {
+              "heading": "Répondre point par point, avec rigueur",
+              "body": "A finished refutation is structured (systématique, méthodique): it answers point by point (point par point), distinguishes what is disputed from what is not, and closes with a clear statement of what has and has not been shown — never a vague impression of victory.",
+              "examples": [
+                { "french": "Répondons point par point, sans rien laisser de côté.", "english": "Let us answer point by point, without leaving anything aside." },
+                { "french": "Distinguons ce qui est prouvé de ce qui reste supposé.", "english": "Let us distinguish what is proven from what remains assumed." },
+                { "french": "La rigueur consiste à ne conclure que ce que les faits permettent.", "english": "Rigour consists in concluding only what the facts allow." },
+                { "french": "En définitive, l'argument initial ne tient plus.", "english": "Ultimately, the initial argument no longer holds." }
+              ],
+              "tip": "End a refutation with a precise closing connector (\"en définitive\", \"en somme\") rather than trailing off — it signals that the method reached a conclusion."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "refuter", "french": "réfuter", "english": "to refute", "partOfSpeech": "verb", "pronunciation": "ray-fu-TAY", "example": "L'auteur réfute point par point la thèse adverse.", "exampleEnglish": "The author refutes the opposing thesis point by point.", "level": "C1", "category": "refutation" },
+            { "id": "une-refutation", "french": "une réfutation", "english": "a refutation", "partOfSpeech": "noun", "gender": "f", "plural": "des réfutations", "pronunciation": "uen ray-fu-tah-SYON", "example": "Sa réfutation est méthodique et sans ambiguïté.", "exampleEnglish": "His refutation is methodical and unambiguous.", "level": "C1", "category": "refutation" },
+            { "id": "contester", "french": "contester", "english": "to dispute, to contest", "partOfSpeech": "verb", "pronunciation": "kohn-tess-TAY", "example": "Personne ne conteste la gravité du problème.", "exampleEnglish": "Nobody disputes the seriousness of the problem.", "level": "C1", "category": "refutation" },
+            { "id": "contredire", "french": "contredire", "english": "to contradict", "partOfSpeech": "verb", "pronunciation": "kon-truh-DEER", "example": "Je ne prétends pas contredire les faits, seulement leur interprétation.", "exampleEnglish": "I do not claim to contradict the facts, only their interpretation.", "level": "C1", "category": "refutation" },
+            { "id": "invalider", "french": "invalider", "english": "to invalidate, to strike down", "partOfSpeech": "verb", "pronunciation": "an-vah-lee-DAY", "example": "Un seul contre-exemple suffit à invalider la règle.", "exampleEnglish": "A single counter-example is enough to invalidate the rule.", "level": "C1", "category": "refutation" },
+            { "id": "remettre-en-question", "french": "remettre en question", "english": "to call into question", "partOfSpeech": "expression", "pronunciation": "ruh-metr ahn kess-TYOHN", "example": "Ces résultats remettent en question le consensus établi.", "exampleEnglish": "These results call the established consensus into question.", "level": "C1", "category": "refutation" },
+            { "id": "nuancer", "french": "nuancer", "english": "to qualify, to add nuance to", "partOfSpeech": "verb", "pronunciation": "nu-ahn-SAY", "example": "Il faut nuancer ce jugement trop catégorique.", "exampleEnglish": "This overly categorical judgement needs qualifying.", "level": "C1", "category": "refutation" },
+            { "id": "conceder", "french": "concéder", "english": "to concede", "partOfSpeech": "verb", "pronunciation": "kon-say-DAY", "example": "Concédons que cette objection n'est pas sans fondement.", "exampleEnglish": "Let us concede that this objection is not without foundation.", "level": "C1", "category": "refutation" },
+            { "id": "une-concession", "french": "une concession", "english": "a concession", "partOfSpeech": "noun", "gender": "f", "plural": "des concessions", "pronunciation": "uen kon-seh-SYON", "example": "Cette concession ne change rien à ma conclusion générale.", "exampleEnglish": "This concession changes nothing about my overall conclusion.", "level": "C1", "category": "refutation" },
+            { "id": "reconnaitre", "french": "reconnaître", "english": "to acknowledge, to recognise", "partOfSpeech": "verb", "pronunciation": "ruh-koh-NEH-truh", "example": "Reconnaissons la part de vérité dans cette remarque.", "exampleEnglish": "Let us acknowledge the grain of truth in this remark.", "level": "C1", "category": "refutation" },
+            { "id": "objecter", "french": "objecter", "english": "to object (that)", "partOfSpeech": "verb", "pronunciation": "ob-zhek-TAY", "example": "On objectera que la définition proposée reste vague.", "exampleEnglish": "It will be objected that the proposed definition remains vague.", "level": "C1", "category": "refutation" },
+            { "id": "une-objection", "french": "une objection", "english": "an objection", "partOfSpeech": "noun", "gender": "f", "plural": "des objections", "pronunciation": "uen ob-jek-SYOHN", "example": "Anticipez l'objection au lieu de l'ignorer.", "exampleEnglish": "Anticipate the objection instead of ignoring it.", "level": "C1", "category": "refutation" },
+            { "id": "repliquer", "french": "répliquer", "english": "to reply sharply, to retort", "partOfSpeech": "verb", "pronunciation": "ray-plee-KAY", "example": "Il a répliqué sans se laisser déstabiliser.", "exampleEnglish": "He retorted without losing his composure.", "level": "C1", "category": "refutation" },
+            { "id": "une-replique", "french": "une réplique", "english": "a rejoinder, a sharp reply", "partOfSpeech": "noun", "gender": "f", "plural": "des répliques", "pronunciation": "uen ray-PLEEK", "example": "Sa réplique a clos le débat en une phrase.", "exampleEnglish": "His rejoinder closed the debate in one sentence.", "level": "C1", "category": "refutation" },
+            { "id": "un-contre-exemple", "french": "un contre-exemple", "english": "a counter-example", "partOfSpeech": "noun", "gender": "m", "plural": "des contre-exemples", "pronunciation": "uhn kohntr-eg-ZAHMPL", "example": "Un contre-exemple bien choisi vaut mieux que dix objections vagues.", "exampleEnglish": "A well-chosen counter-example is worth more than ten vague objections.", "level": "C1", "category": "refutation" },
+            { "id": "isoler", "french": "isoler", "english": "to isolate, to single out", "partOfSpeech": "verb", "pronunciation": "ee-zoh-LAY", "example": "Isolons la prémisse contestée avant d'aller plus loin.", "exampleEnglish": "Let us isolate the disputed premise before going further.", "level": "C1", "category": "refutation" },
+            { "id": "decortiquer", "french": "décortiquer", "english": "to pick apart, to dissect (figuratively)", "partOfSpeech": "verb", "pronunciation": "day-kor-tee-KAY", "example": "Le professeur décortique le raisonnement ligne par ligne.", "exampleEnglish": "The teacher picks the reasoning apart line by line.", "level": "C1", "category": "refutation" },
+            { "id": "analyser", "french": "analyser", "english": "to analyse", "partOfSpeech": "verb", "pronunciation": "ah-nah-lee-ZAY", "example": "Analysons chaque étape avant de conclure.", "exampleEnglish": "Let us analyse each step before concluding.", "level": "C1", "category": "refutation" },
+            { "id": "structurer", "french": "structurer", "english": "to structure", "partOfSpeech": "verb", "pronunciation": "strük-tü-RAY", "example": "Une réfutation efficace se structure en trois temps.", "exampleEnglish": "An effective refutation is structured in three stages.", "level": "C1", "category": "refutation" },
+            { "id": "distinguer", "french": "distinguer", "english": "to distinguish (X from Y)", "partOfSpeech": "verb", "pronunciation": "dees-tan-GAY", "example": "Distinguons ce qui est prouvé de ce qui reste supposé.", "exampleEnglish": "Let us distinguish what is proven from what remains assumed.", "level": "C1", "category": "refutation" },
+            { "id": "clarifier", "french": "clarifier", "english": "to clarify", "partOfSpeech": "verb", "pronunciation": "klah-ree-FYAY", "example": "Pouvez-vous clarifier le point exact du désaccord ?", "exampleEnglish": "Could you clarify the exact point of disagreement?", "level": "C1", "category": "refutation" },
+            { "id": "preciser", "french": "préciser", "english": "to specify, to clarify", "partOfSpeech": "verb", "pronunciation": "pray-see-ZAY", "example": "Précisons les termes avant de poursuivre le débat.", "exampleEnglish": "Let us specify the terms before continuing the debate.", "level": "C1", "category": "refutation" },
+            { "id": "rigoureux", "french": "rigoureux", "english": "rigorous", "partOfSpeech": "adjective", "pronunciation": "ree-goo-RUH", "example": "Une réfutation rigoureuse ne laisse rien au hasard.", "exampleEnglish": "A rigorous refutation leaves nothing to chance.", "level": "C1", "category": "refutation" },
+            { "id": "la-rigueur", "french": "la rigueur", "english": "rigour", "partOfSpeech": "noun", "gender": "f", "plural": "les rigueurs", "pronunciation": "lah ree-GUHR", "example": "La rigueur consiste à ne conclure que ce que les faits permettent.", "exampleEnglish": "Rigour consists in concluding only what the facts allow.", "level": "C1", "category": "refutation" },
+            { "id": "methodique", "french": "méthodique", "english": "methodical", "partOfSpeech": "adjective", "pronunciation": "may-toh-DEEK", "example": "Son approche méthodique impressionne le jury.", "exampleEnglish": "His methodical approach impresses the panel.", "level": "C1", "category": "refutation" },
+            { "id": "systematique", "french": "systématique", "english": "systematic", "partOfSpeech": "adjective", "pronunciation": "sees-tay-mah-TEEK", "example": "Une réponse systématique vaut mieux qu'une réaction improvisée.", "exampleEnglish": "A systematic answer is better than an improvised reaction.", "level": "C1", "category": "refutation" },
+            { "id": "point-par-point", "french": "point par point", "english": "point by point", "partOfSpeech": "expression", "pronunciation": "pwan par pwan", "example": "Répondons point par point, sans rien laisser de côté.", "exampleEnglish": "Let us answer point by point, without leaving anything aside.", "level": "C1", "category": "refutation" },
+            { "id": "mettre-en-evidence", "french": "mettre en évidence", "english": "to highlight, to expose (a flaw)", "partOfSpeech": "expression", "pronunciation": "MEHTR ahn nay-vee-DAHNS", "example": "Cette question met en évidence la faille du raisonnement.", "exampleEnglish": "This question exposes the flaw in the reasoning.", "level": "C1", "category": "refutation" },
+            { "id": "un-vice-de-raisonnement", "french": "un vice de raisonnement", "english": "a flaw in the reasoning", "partOfSpeech": "expression", "pronunciation": "uhn vees duh ray-zon-MAHN", "example": "Le vice de raisonnement apparaît dès la troisième étape.", "exampleEnglish": "The flaw in the reasoning appears from the third step onward.", "level": "C1", "category": "refutation" },
+            { "id": "neanmoins", "french": "néanmoins", "english": "nevertheless", "partOfSpeech": "adverb", "pronunciation": "nay-ahn-MWAN", "example": "L'argument est séduisant ; il est néanmoins fragile.", "exampleEnglish": "The argument is appealing; it is nevertheless fragile.", "level": "C1", "category": "refutation" },
+            { "id": "toutefois", "french": "toutefois", "english": "however", "partOfSpeech": "adverb", "pronunciation": "toot-FWAH", "example": "Toutefois, une lecture attentive révèle une autre faille.", "exampleEnglish": "However, a careful reading reveals another flaw.", "level": "C1", "category": "refutation" },
+            { "id": "en-depit-de", "french": "en dépit de", "english": "in spite of", "partOfSpeech": "expression", "pronunciation": "ahn day-PEE duh", "example": "En dépit de ses défauts, l'objection mérite d'être examinée.", "exampleEnglish": "In spite of its flaws, the objection deserves examination.", "level": "C1", "category": "refutation" },
+            { "id": "quoi-qu-il-en-soit", "french": "quoi qu'il en soit", "english": "be that as it may", "partOfSpeech": "expression", "pronunciation": "kwah keel ahn SWAH", "example": "Quoi qu'il en soit, la conclusion initiale ne tient plus.", "exampleEnglish": "Be that as it may, the initial conclusion no longer holds.", "level": "C1", "category": "refutation" },
+            { "id": "cependant", "french": "cependant", "english": "however", "partOfSpeech": "conjunction", "pronunciation": "suh-pahn-DAHN", "example": "Cependant, il reste un point à éclaircir.", "exampleEnglish": "However, one point remains to be clarified.", "level": "C1", "category": "refutation" },
+            { "id": "en-revanche", "french": "en revanche", "english": "on the other hand, by contrast", "partOfSpeech": "expression", "pronunciation": "ahn ruh-VAHNSH", "example": "Le premier point tient ; le second, en revanche, s'effondre.", "exampleEnglish": "The first point holds; the second, by contrast, collapses.", "level": "C1", "category": "refutation" },
+            { "id": "par-consequent", "french": "par conséquent", "english": "consequently", "partOfSpeech": "expression", "pronunciation": "par kon-say-KAHN", "example": "Par conséquent, l'argument initial doit être abandonné.", "exampleEnglish": "Consequently, the initial argument must be abandoned.", "level": "C1", "category": "refutation" },
+            { "id": "en-definitive", "french": "en définitive", "english": "ultimately, when all is said and done", "partOfSpeech": "expression", "pronunciation": "ahn day-fee-nee-TEEV", "example": "En définitive, l'argument initial ne tient plus.", "exampleEnglish": "Ultimately, the initial argument no longer holds.", "level": "C1", "category": "refutation" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Le gérondif de méthode : \"en + participe présent\"",
+              "body": "The gerund (\"en\" + present participle) expresses the manner or the means by which a refutation proceeds. It answers the implicit question \"comment ?\" and lets a C1 speaker describe method in a single compact clause instead of a full sentence.",
+              "examples": [
+                { "french": "En isolant la prémisse, on repère aussitôt la faille.", "english": "By isolating the premise, one immediately spots the flaw." },
+                { "french": "En distinguant le fait de l'opinion, on clarifie tout le débat.", "english": "By distinguishing fact from opinion, one clarifies the whole debate." },
+                { "french": "En répondant point par point, elle a désamorcé chaque objection.", "english": "By answering point by point, she defused every objection." },
+                { "french": "On progresse en concédant ce qui doit l'être, sans plus.", "english": "One makes progress by conceding what must be conceded, and no more." }
+              ],
+              "tip": "The gerund's subject must match the main clause's subject — \"en isolant..., on repère\" works because \"on\" does both the isolating and the spotting."
+            },
+            {
+              "heading": "Le doute et la réfutation au subjonctif",
+              "body": "Verbs and expressions of doubt or denial — \"il est faux que\", \"je ne pense pas que\", \"il n'est pas certain que\" — trigger the subjunctive in the clause that follows, because the speaker is refusing to assert the claim as fact. This is a key marker of methodical, non-committal refutation.",
+              "examples": [
+                { "french": "Il est faux que cette mesure entraîne automatiquement le chaos.", "english": "It is false that this measure automatically leads to chaos." },
+                { "french": "Je ne pense pas que l'exemple choisi soit représentatif.", "english": "I do not think the chosen example is representative." },
+                { "french": "Il n'est pas certain que la corrélation implique une cause.", "english": "It is not certain that the correlation implies a cause." },
+                { "french": "Rien ne permet d'affirmer que la prémisse soit vraie.", "english": "Nothing allows us to claim that the premise is true." }
+              ],
+              "tip": "Contrast this with \"il est vrai que\" or \"je pense que\", which state a fact and keep the indicative — the subjunctive itself signals refutation."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "c1_u19_l03_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What is the speaker doing?",
+              "french": "Isolons d'abord la prémisse en question : vous supposez que le budget est fixe.",
+              "options": ["Isolating the premise before refuting it", "Conceding the whole argument", "Attacking the person", "Changing the subject"],
+              "answer": "Isolating the premise before refuting it"
+            },
+            {
+              "id": "c1_u19_l03_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. What structure is used, and why?",
+              "french": "Il est faux que cette mesure entraîne automatiquement le chaos.",
+              "options": ["Subjunctive, because the claim is being denied", "Indicative, because the claim is a fact", "Conditional, because it is a hypothesis", "Imperative, because it is an order"],
+              "answer": "Subjunctive, because the claim is being denied"
+            },
+            {
+              "id": "c1_u19_l03_li03",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Je concède que le premier point est fondé.",
+              "answer": "Je concède que le premier point est fondé.",
+              "acceptedAnswers": ["je concede que le premier point est fonde"]
+            },
+            {
+              "id": "c1_u19_l03_li04",
+              "type": "dictation",
+              "prompt": "Listen and write the sentence exactly.",
+              "french": "En définitive, l'argument initial ne tient plus.",
+              "answer": "En définitive, l'argument initial ne tient plus.",
+              "acceptedAnswers": ["en definitive, l'argument initial ne tient plus"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "c1_u19_l03_sp01",
+              "type": "speak",
+              "prompt": "Open a refutation by restating the opponent's premise.",
+              "french": "Si je comprends bien, votre argument repose sur l'idée que...",
+              "english": "If I understand correctly, your argument rests on the idea that...",
+              "tip": "Restating the claim first is the C1 signature move — it proves you listened before you disagree."
+            },
+            {
+              "id": "c1_u19_l03_sp02",
+              "type": "speak",
+              "prompt": "Concede one point while holding your ground on another.",
+              "french": "Je vous concède ce point, mais la conclusion générale ne tient pas.",
+              "english": "I'll grant you that point, but the overall conclusion doesn't hold.",
+              "tip": "Pause slightly before \"mais\" — the contrast is the whole point of the sentence."
+            },
+            {
+              "id": "c1_u19_l03_sp03",
+              "type": "speak",
+              "prompt": "Close a methodical refutation.",
+              "french": "En définitive, l'argument ne résiste pas à l'examen.",
+              "english": "Ultimately, the argument does not survive scrutiny.",
+              "tip": "\"En définitive\" signals you are wrapping up — let your intonation fall on the final word."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Le débat sur l'essai gratuit",
+              "french": "Le comité produit se réunit pour trancher une question sensible : faut-il raccourcir l'essai gratuit de trente à quinze jours ?\nLe directeur commercial, Julien, défend sa position avec assurance : « Nos concurrents proposent quinze jours ; nous devons nous aligner. »\nLéa, responsable des données, prend la parole avec méthode. « Isolons d'abord la prémisse : vous supposez que la durée actuelle explique nos résultats moins bons. »\n« C'est exactement cela, confirme Julien. »\n« Je vous concède que la comparaison avec la concurrence est un indice utile, poursuit Léa. »\n« Cependant, nos chiffres montrent autre chose : les utilisateurs qui se convertissent le font presque tous après le vingtième jour. »\n« Il est donc faux que raccourcir l'essai n'aurait aucun effet négatif, ajoute-t-elle. »\nJulien hésite. « Vos données sont-elles fiables sur une aussi longue période ? »\n« Bonne question, répond Léa. Distinguons ce qui est prouvé de ce qui reste une hypothèse : la fiabilité, oui ; la causalité totale, pas encore. »\n« En dépit de cette réserve, reprend-elle, le risque de perdre des conversions me paraît réel. »\nLe comité écoute, convaincu par cette réfutation point par point plutôt que par un simple refus.\n« Toutefois, propose Léa, nous pourrions tester quinze jours sur un groupe restreint avant toute décision générale. »\nJulien accepte : « En définitive, votre méthode est plus rigoureuse que ma seule intuition. »\nLa réunion se termine sur un compromis méthodique : un essai limité, mesuré, puis réexaminé.",
+              "english": "The product committee meets to settle a sensitive question: should the free trial be shortened from thirty to fifteen days?\nThe sales director, Julien, defends his position with confidence: \"Our competitors offer fifteen days; we must fall in line.\"\nLéa, the data lead, speaks up methodically. \"Let's first isolate the premise: you assume the current length explains our weaker results.\"\n\"That's exactly it, Julien confirms.\"\n\"I'll grant you that the comparison with competitors is a useful clue, Léa continues.\"\n\"However, our figures show something else: the users who convert almost all do so after day twenty.\"\n\"So it is false that shortening the trial would have no negative effect, she adds.\"\nJulien hesitates. \"Is your data reliable over such a long period?\"\n\"Good question, Léa replies. Let's distinguish what is proven from what remains a hypothesis: the reliability, yes; full causality, not yet.\"\n\"In spite of that reservation, she continues, the risk of losing conversions seems real to me.\"\nThe committee listens, convinced by this point-by-point refutation rather than by a flat refusal.\n\"However, Léa proposes, we could test fifteen days on a small group before any general decision.\"\nJulien agrees: \"Ultimately, your method is more rigorous than my intuition alone.\"\nThe meeting ends with a methodical compromise: a limited, measured trial, to be reviewed afterward.",
+              "questions": [
+                {
+                  "id": "c1_u19_l03_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "According to Léa, what premise is Julien's argument built on?",
+                  "options": ["That the trial length explains their weaker results", "That competitors are always right", "That the data collection is unreliable", "That users dislike free trials"],
+                  "answer": "That the trial length explains their weaker results"
+                },
+                {
+                  "id": "c1_u19_l03_rd02",
+                  "type": "multipleChoice",
+                  "prompt": "What does Léa concede to Julien?",
+                  "options": ["That the comparison with competitors is a useful clue", "That his data is invalid", "That the trial must stay at thirty days", "That she has no counter-argument"],
+                  "answer": "That the comparison with competitors is a useful clue"
+                },
+                {
+                  "id": "c1_u19_l03_rd03",
+                  "type": "trueFalse",
+                  "prompt": "Léa claims certainty about full causality between the trial length and conversions.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "c1_u19_l03_wr01",
+              "type": "translate",
+              "prompt": "Translate into French using the gerund of manner.",
+              "english": "By isolating the premise, one immediately spots the flaw.",
+              "answer": "En isolant la prémisse, on repère aussitôt la faille.",
+              "acceptedAnswers": ["en isolant la premisse, on repere aussitot la faille"]
+            },
+            {
+              "id": "c1_u19_l03_wr02",
+              "type": "fillBlank",
+              "prompt": "Complete with the subjunctive: \"Il est faux que cette mesure ___ (entraîner) automatiquement le chaos.\"",
+              "answer": "entraîne",
+              "acceptedAnswers": ["entraine"]
+            },
+            {
+              "id": "c1_u19_l03_wr03",
+              "type": "translate",
+              "prompt": "Translate: \"I'll grant you that point, but the overall conclusion doesn't hold.\"",
+              "english": "I'll grant you that point, but the overall conclusion doesn't hold.",
+              "answer": "Je vous concède ce point, mais la conclusion générale ne tient pas.",
+              "acceptedAnswers": ["je vous concede ce point, mais la conclusion generale ne tient pas"]
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "c1_u19_l03_pr01", "type": "multipleChoice", "prompt": "Which verb form follows \"il n'est pas certain que\"?", "options": ["The subjunctive", "The indicative", "The conditional", "The imperative"], "answer": "The subjunctive" },
+            { "id": "c1_u19_l03_pr02", "type": "match", "pairs": [ { "french": "isoler", "english": "to isolate" }, { "french": "concéder", "english": "to concede" }, { "french": "réfuter", "english": "to refute" }, { "french": "distinguer", "english": "to distinguish" } ] },
+            { "id": "c1_u19_l03_pr03", "type": "fillBlank", "prompt": "Répondons ___ par ___, sans rien laisser de côté.", "answer": "point" },
+            { "id": "c1_u19_l03_pr04", "type": "trueFalse", "prompt": "A methodical refutation should restate the opponent's claim before challenging it.", "options": ["True", "False"], "answer": "True" },
+            { "id": "c1_u19_l03_pr05", "type": "arrangeWords", "words": ["la", "rigueur", "consiste", "à", "ne", "conclure", "que", "les", "faits", "permettent"], "answer": "la rigueur consiste à ne conclure que les faits permettent", "english": "Rigour consists in concluding only what the facts allow." },
+            { "id": "c1_u19_l03_pr06", "type": "translate", "prompt": "Translate: \"Ultimately, the argument does not survive scrutiny.\"", "english": "Ultimately, the argument does not survive scrutiny.", "answer": "En définitive, l'argument ne résiste pas à l'examen.", "acceptedAnswers": ["en definitive, l'argument ne resiste pas a l'examen"] }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "c1_u19_l03_qz01", "type": "multipleChoice", "prompt": "What should a methodical refutation isolate before responding?", "options": ["The exact disputed premise", "The opponent's tone of voice", "The audience's mood", "The length of the debate"], "answer": "The exact disputed premise" },
+            { "id": "c1_u19_l03_qz02", "type": "fillBlank", "prompt": "En ___ la prémisse, on repère aussitôt la faille.", "answer": "isolant" },
+            { "id": "c1_u19_l03_qz03", "type": "trueFalse", "prompt": "\"Je pense que\" triggers the subjunctive in the clause that follows.", "options": ["True", "False"], "answer": "False" },
+            { "id": "c1_u19_l03_qz04", "type": "translate", "prompt": "Translate: \"Let us distinguish what is proven from what remains assumed.\"", "english": "Let us distinguish what is proven from what remains assumed.", "answer": "Distinguons ce qui est prouvé de ce qui reste supposé.", "acceptedAnswers": ["distinguons ce qui est prouve de ce qui reste suppose"] },
+            { "id": "c1_u19_l03_qz05", "type": "match", "pairs": [ { "french": "une concession", "english": "a concession" }, { "french": "une objection", "english": "an objection" }, { "french": "un contre-exemple", "english": "a counter-example" }, { "french": "une réplique", "english": "a rejoinder" } ] }
+          ]
+        }
+      ]
+    }
+  ]
+}

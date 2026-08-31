@@ -1,0 +1,579 @@
+{
+  "id": "b1_u28",
+  "level": "B1",
+  "unit": 28,
+  "title": "Justice & Rules",
+  "subtitle": "Everyday rules, rights and duties, and how to describe a dispute formally",
+  "icon": "📜",
+  "lessons": [
+    {
+      "id": "b1_u28_l01",
+      "level": "B1",
+      "unit": 28,
+      "title": "Les règles du quotidien",
+      "description": "Talk about everyday rules and obligations: what's forbidden, what you must do, and what you're not allowed to do.",
+      "estimatedMinutes": 17,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Il est interdit de / il est permis de",
+              "body": "Use the impersonal structure 'il est interdit de + infinitive' to say something is forbidden, and 'il est permis de' or 'il est autorisé de' for what is allowed. These formulas sound official and are common on signs, in rulebooks, and in spoken warnings.",
+              "examples": [
+                { "french": "Il est interdit de fumer dans les lieux publics.", "english": "Smoking is forbidden in public places." },
+                { "french": "Il est permis de se garer ici le dimanche.", "english": "Parking is allowed here on Sundays." },
+                { "french": "On n'a pas le droit de klaxonner la nuit.", "english": "You're not allowed to honk your horn at night." },
+                { "french": "Il est strictement interdit de marcher sur la pelouse.", "english": "Walking on the grass is strictly forbidden." }
+              ],
+              "tip": "Signs often drop 'il est interdit de' and just use the infinitive: 'Ne pas fumer' (No smoking), 'Ne pas marcher sur la pelouse.'"
+            },
+            {
+              "heading": "On doit / il faut : expressing obligation",
+              "body": "'On doit + infinitive' and 'il faut + infinitive' both express obligation ('must/have to'). 'Devoir' can take any subject (je dois, tu dois...), while 'il faut' is impersonal and never changes. Both are everyday ways to state a rule.",
+              "examples": [
+                { "french": "On doit respecter le règlement intérieur.", "english": "We must respect the house rules." },
+                { "french": "Il faut porter une pièce d'identité.", "english": "You must carry an ID." },
+                { "french": "Les élèves doivent arriver à l'heure.", "english": "Students must arrive on time." },
+                { "french": "Il ne faut pas enfreindre la loi.", "english": "You must not break the law." }
+              ],
+              "tip": "'Il ne faut pas' means 'must not' (a prohibition) — it's stronger than 'on ne doit pas', which sounds more like advice."
+            },
+            {
+              "heading": "Rules and their consequences",
+              "body": "When you describe a rule, you often also mention what happens if it's broken: an amende (fine), a sanction, or a contravention. The verb risquer + noun is the natural way to describe a possible consequence.",
+              "examples": [
+                { "french": "Le stationnement est interdit, sauf le dimanche.", "english": "Parking is forbidden, except on Sundays." },
+                { "french": "Si vous enfreignez le règlement, vous risquez une amende.", "english": "If you break the rules, you risk a fine." },
+                { "french": "Cette consigne est en vigueur depuis janvier.", "english": "This rule has been in effect since January." }
+              ],
+              "tip": "'Sauf' (except) is a handy word for adding exceptions to a rule you're describing."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "la-regle", "french": "la règle", "english": "the rule", "partOfSpeech": "noun", "gender": "f", "plural": "règles", "pronunciation": "lah REGL", "example": "Chaque jeu a ses propres règles.", "exampleEnglish": "Every game has its own rules.", "level": "B1", "category": "rules" },
+            { "id": "le-reglement", "french": "le règlement", "english": "the rules, the regulations", "partOfSpeech": "noun", "gender": "m", "plural": "règlements", "pronunciation": "reh-gluh-MAHN", "example": "Le règlement interdit le bruit après vingt-deux heures.", "exampleEnglish": "The rules forbid noise after ten p.m.", "level": "B1", "category": "rules" },
+            { "id": "le-reglement-interieur", "french": "le règlement intérieur", "english": "house rules, internal regulations", "partOfSpeech": "noun", "gender": "m", "plural": "règlements intérieurs", "pronunciation": "luh reh-gluh-MAHN an-tay-RYUHR", "example": "Le règlement intérieur est affiché dans le hall.", "exampleEnglish": "The house rules are posted in the lobby.", "level": "B1", "category": "rules" },
+            { "id": "droit", "french": "le droit", "english": "the right (legal)", "partOfSpeech": "noun", "gender": "m", "plural": "droits", "pronunciation": "drwah", "example": "Chacun a le droit de s'exprimer librement.", "exampleEnglish": "Everyone has the right to express themselves freely.", "level": "B1", "category": "rules" },
+            { "id": "loi", "french": "la loi", "english": "the law", "partOfSpeech": "noun", "gender": "f", "plural": "lois", "pronunciation": "lwah", "example": "Cette loi est entrée en vigueur cette année.", "exampleEnglish": "This law came into effect this year.", "level": "B1", "category": "rules" },
+            { "id": "l-obligation", "french": "l'obligation", "english": "the obligation", "partOfSpeech": "noun", "gender": "f", "plural": "obligations", "pronunciation": "oh-blee-gah-SYOHN", "example": "Le port du casque est une obligation à vélo.", "exampleEnglish": "Wearing a helmet is an obligation when cycling.", "level": "B1", "category": "obligation" },
+            { "id": "obligatoire", "french": "obligatoire", "english": "compulsory, mandatory", "partOfSpeech": "adjective", "pronunciation": "oh-blee-gah-TWAHR", "example": "Le port de la ceinture est obligatoire en voiture.", "exampleEnglish": "Wearing a seatbelt is mandatory in a car.", "level": "B1", "category": "obligation" },
+            { "id": "l-interdiction", "french": "l'interdiction", "english": "the ban, the prohibition", "partOfSpeech": "noun", "gender": "f", "plural": "interdictions", "pronunciation": "an-tehr-deek-SYOHN", "example": "L'interdiction de fumer s'applique à toute la gare.", "exampleEnglish": "The smoking ban applies to the whole station.", "level": "B1", "category": "obligation" },
+            { "id": "interdire", "french": "interdire", "english": "to forbid", "partOfSpeech": "verb", "pronunciation": "an-tehr-DEER", "example": "Le règlement interdit les animaux dans le magasin.", "exampleEnglish": "The rules forbid animals in the shop.", "level": "B1", "category": "obligation" },
+            { "id": "interdit", "french": "interdit", "english": "forbidden", "partOfSpeech": "adjective", "pronunciation": "an-tehr-DEE", "example": "L'accès au chantier est interdit.", "exampleEnglish": "Access to the construction site is forbidden.", "level": "B1", "category": "obligation" },
+            { "id": "permis-adj", "french": "permis", "english": "allowed, permitted", "partOfSpeech": "adjective", "pronunciation": "pehr-MEE", "example": "Le pique-nique est permis dans ce parc.", "exampleEnglish": "Picnicking is allowed in this park.", "level": "B1", "category": "obligation" },
+            { "id": "respecter", "french": "respecter", "english": "to respect, to abide by", "partOfSpeech": "verb", "pronunciation": "res-pek-TAY", "example": "Il faut respecter les horaires d'ouverture.", "exampleEnglish": "You have to respect the opening hours.", "level": "B1", "category": "obligation" },
+            { "id": "enfreindre", "french": "enfreindre", "english": "to infringe, to break (a rule)", "partOfSpeech": "verb", "pronunciation": "ahn-FRANDR", "example": "Quiconque enfreint le règlement sera sanctionné.", "exampleEnglish": "Whoever breaks the rules will be penalised.", "level": "B1", "category": "obligation" },
+            { "id": "obeir", "french": "obéir", "english": "to obey", "partOfSpeech": "verb", "pronunciation": "oh-bay-EER", "example": "Les enfants doivent obéir aux consignes du maître-nageur.", "exampleEnglish": "Children must obey the lifeguard's instructions.", "level": "B1", "category": "obligation" },
+            { "id": "desobeir", "french": "désobéir", "english": "to disobey", "partOfSpeech": "verb", "pronunciation": "day-zoh-bay-EER", "example": "Il a désobéi au panneau et s'est garé quand même.", "exampleEnglish": "He disobeyed the sign and parked anyway.", "level": "B1", "category": "obligation" },
+            { "id": "l-amende", "french": "l'amende", "english": "the fine", "partOfSpeech": "noun", "gender": "f", "plural": "les amendes", "pronunciation": "lah-MAHND", "example": "Il a payé une amende de trois cents euros.", "exampleEnglish": "He paid a three-hundred-euro fine.", "level": "B1", "category": "rules" },
+            { "id": "l-autorisation", "french": "l'autorisation", "english": "the permission, the authorisation", "partOfSpeech": "noun", "gender": "f", "plural": "les autorisations", "pronunciation": "loh-toh-ree-zah-SYOHN", "example": "Il faut une autorisation pour manifester ici.", "exampleEnglish": "You need a permit to demonstrate here.", "level": "B1", "category": "rules" },
+            { "id": "legal", "french": "légal", "english": "legal", "partOfSpeech": "adjective", "pronunciation": "lay-GAHL", "example": "Cette pratique est parfaitement légale.", "exampleEnglish": "This practice is perfectly legal.", "level": "B1", "category": "rules" },
+            { "id": "illegal", "french": "illégal", "english": "illegal", "partOfSpeech": "adjective", "pronunciation": "ee-lay-GAHL", "example": "Se garer sur ce trottoir est illégal.", "exampleEnglish": "Parking on this pavement is illegal.", "level": "B1", "category": "rules" },
+            { "id": "infraction", "french": "une infraction", "english": "an offence", "partOfSpeech": "noun", "gender": "f", "plural": "infractions", "pronunciation": "an-frak-SYOHN", "example": "Rouler sans casque est une infraction.", "exampleEnglish": "Riding without a helmet is an offence.", "level": "B1", "category": "rules" },
+            { "id": "contravention", "french": "une contravention", "english": "a traffic ticket, a fine", "partOfSpeech": "noun", "gender": "f", "plural": "contraventions", "pronunciation": "kohn-trah-vahn-SYOHN", "example": "J'ai reçu une contravention pour stationnement gênant.", "exampleEnglish": "I got a ticket for obstructive parking.", "level": "B1", "category": "rules" },
+            { "id": "sanctionner", "french": "sanctionner", "english": "to penalise, to punish", "partOfSpeech": "verb", "pronunciation": "sahnk-syoh-NAY", "example": "La mairie sanctionne les propriétaires qui ne trient pas leurs déchets.", "exampleEnglish": "The town hall penalises owners who don't sort their waste.", "level": "B1", "category": "rules" },
+            { "id": "la-sanction", "french": "la sanction", "english": "the sanction, the penalty", "partOfSpeech": "noun", "gender": "f", "plural": "sanctions", "pronunciation": "lah sahnk-SYOHN", "example": "La sanction dépend de la gravité de l'infraction.", "exampleEnglish": "The penalty depends on the seriousness of the offence.", "level": "B1", "category": "rules" },
+            { "id": "le-panneau", "french": "le panneau", "english": "the sign", "partOfSpeech": "noun", "gender": "m", "plural": "panneaux", "pronunciation": "pah-NOH", "example": "Regarde le panneau : le stationnement est interdit ici.", "exampleEnglish": "Look at the sign: parking is forbidden here.", "level": "B1", "category": "rules" },
+            { "id": "le-code-de-la-route", "french": "le code de la route", "english": "the highway code", "partOfSpeech": "noun", "gender": "m", "plural": "codes de la route", "pronunciation": "luh kohd duh lah ROOT", "example": "Il faut connaître le code de la route pour passer l'examen.", "exampleEnglish": "You need to know the highway code to pass the test.", "level": "B1", "category": "rules" },
+            { "id": "le-stationnement", "french": "le stationnement", "english": "the parking", "partOfSpeech": "noun", "gender": "m", "plural": "stationnements", "pronunciation": "luh stah-syohn-MAHN", "example": "Le stationnement est gratuit le week-end.", "exampleEnglish": "Parking is free on the weekend.", "level": "B1", "category": "rules" },
+            { "id": "la-limitation-de-vitesse", "french": "la limitation de vitesse", "english": "the speed limit", "partOfSpeech": "noun", "gender": "f", "plural": "limitations de vitesse", "pronunciation": "lee-mee-tah-syohn duh vee-TESS", "example": "La limitation de vitesse est de cinquante en ville.", "exampleEnglish": "The speed limit is fifty in town.", "level": "B1", "category": "rules" },
+            { "id": "fumer", "french": "fumer", "english": "to smoke", "partOfSpeech": "verb", "pronunciation": "fu-MAY", "example": "Il est interdit de fumer dans les restaurants.", "exampleEnglish": "It's forbidden to smoke in restaurants.", "level": "B1", "category": "rules" },
+            { "id": "klaxonner", "french": "klaxonner", "english": "to honk, to sound the horn", "partOfSpeech": "verb", "pronunciation": "klak-soh-NAY", "example": "Il est interdit de klaxonner près de l'hôpital.", "exampleEnglish": "It's forbidden to honk near the hospital.", "level": "B1", "category": "rules" },
+            { "id": "l-affichage", "french": "l'affichage", "english": "the posted notice, the display", "partOfSpeech": "noun", "gender": "m", "plural": "affichages", "pronunciation": "lah-fee-SHAHZH", "example": "L'affichage indique les horaires d'ouverture.", "exampleEnglish": "The notice board shows the opening hours.", "level": "B1", "category": "rules" },
+            { "id": "l-acces", "french": "l'accès", "english": "the access", "partOfSpeech": "noun", "gender": "m", "plural": "accès", "pronunciation": "lak-SEH", "example": "L'accès est réservé au personnel.", "exampleEnglish": "Access is reserved for staff." , "level": "B1", "category": "rules" },
+            { "id": "la-consigne", "french": "la consigne", "english": "the instruction, the guideline", "partOfSpeech": "noun", "gender": "f", "plural": "consignes", "pronunciation": "kohn-SEEN-yuh", "example": "Lisez bien les consignes avant de commencer.", "exampleEnglish": "Read the instructions carefully before starting.", "level": "B1", "category": "rules" },
+            { "id": "en-vigueur", "french": "en vigueur", "english": "in effect, in force", "partOfSpeech": "expression", "pronunciation": "ahn vee-GUHR", "example": "La nouvelle règle est en vigueur depuis lundi.", "exampleEnglish": "The new rule has been in effect since Monday.", "level": "B1", "category": "rules" },
+            { "id": "sauf", "french": "sauf", "english": "except", "partOfSpeech": "conjunction", "pronunciation": "sohf", "example": "Ouvert tous les jours, sauf le lundi.", "exampleEnglish": "Open every day, except Monday.", "level": "B1", "category": "rules" },
+            { "id": "avoir-le-droit-de", "french": "avoir le droit de", "english": "to have the right to", "partOfSpeech": "expression", "pronunciation": "ah-VWAHR luh DRWAH duh", "example": "Vous avez le droit de refuser.", "exampleEnglish": "You have the right to refuse.", "level": "B1", "category": "rules" },
+            { "id": "il-est-interdit-de", "french": "il est interdit de", "english": "it is forbidden to", "partOfSpeech": "expression", "pronunciation": "eel eh tan-tehr-DEE duh", "example": "Il est interdit de jeter des déchets ici.", "exampleEnglish": "It is forbidden to throw litter here.", "level": "B1", "category": "rules" },
+            { "id": "tenue-correcte-exigee", "french": "tenue correcte exigée", "english": "proper attire required", "partOfSpeech": "expression", "pronunciation": "tuh-NU koh-REKT eg-zee-ZHAY", "example": "L'affiche précise : tenue correcte exigée.", "exampleEnglish": "The sign specifies: proper attire required.", "level": "B1", "category": "rules" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Devoir + infinitive vs il faut + infinitive",
+              "body": "'Devoir' conjugates with the subject (je dois, tu dois, il/elle doit, nous devons, vous devez, ils/elles doivent), so it points to a specific person's obligation. 'Il faut' never changes form — it's a general, impersonal obligation that applies to everyone.",
+              "examples": [
+                { "french": "Je dois signaler ce problème au propriétaire.", "english": "I must report this problem to the owner." },
+                { "french": "Vous devez respecter la limitation de vitesse.", "english": "You must respect the speed limit." },
+                { "french": "Il faut suivre le règlement dans cette résidence.", "english": "You have to follow the rules in this building." },
+                { "french": "Il ne faut pas désobéir aux consignes de sécurité.", "english": "You must not disobey the safety instructions." }
+              ],
+              "tip": "For a softer, more general rule use 'il faut'; to point at a specific person's duty, switch to 'devoir'."
+            },
+            {
+              "heading": "Avoir le droit de + infinitive (affirmative and negative)",
+              "body": "'Avoir le droit de + infinitive' expresses a right. In the negative, 'ne pas avoir le droit de' is a common, everyday way to say someone isn't allowed to do something — softer than 'il est interdit de' but just as clear.",
+              "examples": [
+                { "french": "Tu as le droit de te garer ici après dix-neuf heures.", "english": "You have the right to park here after 7 p.m." },
+                { "french": "Nous n'avons pas le droit de fumer dans le bâtiment.", "english": "We're not allowed to smoke in the building." },
+                { "french": "Les mineurs n'ont pas le droit de voter.", "english": "Minors don't have the right to vote." }
+              ],
+              "tip": "Notice the word order: 'ne' + subject pronoun + 'avoir' + 'pas' + 'le droit de' — the negation wraps around the conjugated verb, not the infinitive."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "b1_u28_l01_li01", "type": "listenChoose", "french": "Il est interdit de fumer dans le hall.", "options": ["Smoking is forbidden in the lobby.", "Smoking is allowed in the lobby.", "The lobby is being repainted.", "The lobby closes at ten."], "answer": "Smoking is forbidden in the lobby." },
+            { "id": "b1_u28_l01_li02", "type": "listenType", "french": "On doit respecter le règlement intérieur.", "answer": "On doit respecter le règlement intérieur.", "acceptedAnswers": ["On doit respecter le reglement interieur", "on doit respecter le reglement interieur"] },
+            { "id": "b1_u28_l01_li03", "type": "dictation", "french": "Le stationnement est interdit, sauf le dimanche.", "answer": "Le stationnement est interdit, sauf le dimanche.", "acceptedAnswers": ["Le stationnement est interdit sauf le dimanche", "le stationnement est interdit sauf le dimanche"] },
+            { "id": "b1_u28_l01_li04", "type": "listenChoose", "french": "Si vous enfreignez le règlement, vous risquez une amende.", "options": ["If you break the rules, you risk a fine.", "If you follow the rules, you get a reward.", "The rules changed last year.", "You must pay in cash."], "answer": "If you break the rules, you risk a fine." }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "b1_u28_l01_sp01", "type": "speak", "french": "Il est interdit de stationner ici.", "english": "Parking is forbidden here.", "prompt": "Say this rule aloud as if you were warning a friend about to park badly.", "tip": "Give 'interdit' a firm, clipped stress so it sounds like a genuine warning." },
+            { "id": "b1_u28_l01_sp02", "type": "speak", "french": "On n'a pas le droit de klaxonner après vingt-deux heures.", "english": "You're not allowed to honk your horn after 10 p.m.", "prompt": "Explain this local rule to a tourist who just honked outside your building.", "tip": "Practise 'klaxonner' slowly first: klak-soh-NAY, with the stress on the last syllable." },
+            { "id": "b1_u28_l01_sp03", "type": "speak", "french": "Il faut respecter les consignes de sécurité.", "english": "You have to respect the safety instructions.", "prompt": "Say this as a workplace supervisor giving an instruction to a new employee.", "tip": "Keep 'il faut' short and neutral — it should sound like a fact, not a threat." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Le règlement de la résidence",
+              "french": "Bienvenue dans la résidence Les Tilleuls !\nMerci de lire attentivement ce règlement avant votre emménagement.\nLe silence est obligatoire entre vingt-deux heures et sept heures du matin.\nIl est interdit de fumer dans les parties communes, y compris les couloirs et l'ascenseur.\nLes animaux sont autorisés, sauf dans la piscine et sur la pelouse centrale.\nLe stationnement est réservé aux résidents munis d'un badge ; les visiteurs doivent se garer dans la rue.\nChaque locataire doit sortir ses poubelles le mardi soir uniquement.\nIl est formellement interdit d'accrocher du linge aux fenêtres donnant sur la rue.\nEn cas de non-respect du règlement intérieur, le syndic peut adresser un avertissement écrit.\nSi l'infraction se répète, une sanction financière peut être appliquée.\nPour toute question, adressez-vous à l'accueil, ouvert du lundi au vendredi.\nNous vous remercions par avance de respecter ces quelques règles simples.",
+              "english": "Welcome to the Les Tilleuls residence!\nPlease read this set of rules carefully before you move in.\nSilence is required between 10 p.m. and 7 a.m.\nSmoking is forbidden in common areas, including the hallways and the lift.\nPets are allowed, except in the pool and on the central lawn.\nParking is reserved for residents with a badge; visitors must park on the street.\nEach tenant must take out the bins on Tuesday evening only.\nIt is strictly forbidden to hang laundry from windows facing the street.\nIf the house rules are not respected, the building manager may send a written warning.\nIf the offence is repeated, a financial penalty may be applied.\nFor any questions, please go to reception, open Monday to Friday.\nThank you in advance for respecting these few simple rules.",
+              "questions": [
+                { "id": "b1_u28_l01_rd01", "type": "multipleChoice", "prompt": "Entre quelles heures le silence est-il obligatoire ?", "options": ["22h-7h", "20h-8h", "23h-6h", "21h-9h"], "answer": "22h-7h" },
+                { "id": "b1_u28_l01_rd02", "type": "trueFalse", "prompt": "Les animaux sont autorisés partout dans la résidence, y compris la piscine.", "options": ["True", "False"], "answer": "False" },
+                { "id": "b1_u28_l01_rd03", "type": "multipleChoice", "prompt": "Que peut faire le syndic en cas de non-respect du règlement ?", "options": ["Envoyer un avertissement écrit", "Appeler la police immédiatement", "Expulser le locataire sans préavis", "Ne rien faire"], "answer": "Envoyer un avertissement écrit" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "b1_u28_l01_wr01", "type": "translate", "prompt": "Translate into French: 'It is forbidden to park here.'", "english": "It is forbidden to park here.", "answer": "Il est interdit de se garer ici.", "acceptedAnswers": ["Il est interdit de se garer ici", "il est interdit de se garer ici"] },
+            { "id": "b1_u28_l01_wr02", "type": "fillBlank", "prompt": "Il ___ respecter le règlement intérieur. (falloir)", "answer": "faut" },
+            { "id": "b1_u28_l01_wr03", "type": "arrangeWords", "words": ["droit", "tu", "de", "as", "le", "refuser"], "answer": "tu as le droit de refuser", "english": "You have the right to refuse." }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "b1_u28_l01_pr01", "type": "multipleChoice", "prompt": "Quelle expression signifie « must not »?", "options": ["il ne faut pas", "il est permis de", "on a le droit de", "il est autorisé de"], "answer": "il ne faut pas" },
+            { "id": "b1_u28_l01_pr02", "type": "fillBlank", "prompt": "Le stationnement est ___ devant l'école. (interdit)", "answer": "interdit" },
+            { "id": "b1_u28_l01_pr03", "type": "match", "pairs": [
+                { "french": "une amende", "english": "a fine" },
+                { "french": "la consigne", "english": "the instruction" },
+                { "french": "en vigueur", "english": "in effect" },
+                { "french": "désobéir", "english": "to disobey" }
+              ] },
+            { "id": "b1_u28_l01_pr04", "type": "translate", "prompt": "Translate: 'You must respect the speed limit.'", "english": "You must respect the speed limit.", "answer": "Vous devez respecter la limitation de vitesse.", "acceptedAnswers": ["Vous devez respecter la limitation de vitesse", "vous devez respecter la limitation de vitesse"] },
+            { "id": "b1_u28_l01_pr05", "type": "trueFalse", "prompt": "'Il faut' change de forme selon le sujet de la phrase.", "options": ["True", "False"], "answer": "False" },
+            { "id": "b1_u28_l01_pr06", "type": "arrangeWords", "words": ["ici", "de", "interdit", "est", "fumer", "il"], "answer": "il est interdit de fumer ici", "english": "It's forbidden to smoke here." }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "b1_u28_l01_qz01", "type": "multipleChoice", "prompt": "Que veut dire « il est interdit de » ?", "options": ["it is forbidden to", "it is recommended to", "it is possible to", "it is necessary to"], "answer": "it is forbidden to" },
+            { "id": "b1_u28_l01_qz02", "type": "fillBlank", "prompt": "On ___ respecter le règlement. (devoir)", "answer": "doit" },
+            { "id": "b1_u28_l01_qz03", "type": "trueFalse", "prompt": "'Sauf' veut dire « except ».", "options": ["True", "False"], "answer": "True" },
+            { "id": "b1_u28_l01_qz04", "type": "translate", "prompt": "Translate: 'Smoking is forbidden here.'", "english": "Smoking is forbidden here.", "answer": "Il est interdit de fumer ici.", "acceptedAnswers": ["Il est interdit de fumer ici", "il est interdit de fumer ici"] },
+            { "id": "b1_u28_l01_qz05", "type": "multipleChoice", "prompt": "Quel mot désigne une amende pour infraction au code de la route ?", "options": ["une contravention", "une garantie", "un recours", "un avenant"], "answer": "une contravention" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1_u28_l02",
+      "level": "B1",
+      "unit": 28,
+      "title": "Droits et devoirs",
+      "description": "Explore rights and duties in everyday life: as a tenant, a consumer, and a citizen.",
+      "estimatedMinutes": 17,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Locataire et propriétaire : les bases",
+              "body": "As a locataire (tenant), you sign a bail (lease) and pay a caution (security deposit) alongside the loyer (rent). The propriétaire, or bailleur in official documents, must keep the property in good condition; you, in turn, must take care of routine entretien (upkeep).",
+              "examples": [
+                { "french": "Le locataire signe le bail et verse une caution.", "english": "The tenant signs the lease and pays a deposit." },
+                { "french": "Le propriétaire doit faire les grosses réparations.", "english": "The landlord must carry out major repairs." },
+                { "french": "L'entretien courant est à la charge du locataire.", "english": "Routine upkeep is the tenant's responsibility." },
+                { "french": "On fait l'état des lieux à l'entrée et à la sortie.", "english": "You do a fixtures inventory when moving in and out." }
+              ],
+              "tip": "Always keep a copy of the état des lieux — it protects you if there's a dispute about damage later."
+            },
+            {
+              "heading": "Consommateur : garanties et recours",
+              "body": "As a consommateur (consumer), you're protected by a garantie on most purchases and can réclamer a remboursement if something goes wrong. If the seller refuses to help, you have un recours: a consumer association or a médiateur.",
+              "examples": [
+                { "french": "L'appareil est encore sous garantie.", "english": "The appliance is still under warranty." },
+                { "french": "Je réclame un remboursement complet.", "english": "I am demanding a full refund." },
+                { "french": "Le service après-vente n'a pas répondu à ma facture erronée.", "english": "Customer service didn't respond about my incorrect invoice." },
+                { "french": "En cas de refus, vous avez un recours auprès d'une association de consommateurs.", "english": "If refused, you can turn to a consumer association." }
+              ],
+              "tip": "The phrase 'un vice caché' (a hidden defect) is key vocabulary for anything faulty a seller didn't disclose."
+            },
+            {
+              "heading": "Citoyen : droits et devoirs partagés",
+              "body": "Being a citoyen comes with both droits (rights, like voting) and devoirs (duties, like paying impôts and respecting the law). Reaching majeur age (18) changes your légal status: you're no longer mineur and gain full responsabilité for your actions.",
+              "examples": [
+                { "french": "Chaque citoyen a le devoir de payer ses impôts.", "english": "Every citizen has a duty to pay their taxes." },
+                { "french": "On devient majeur à dix-huit ans en France.", "english": "You become a legal adult at eighteen in France." },
+                { "french": "Un mineur n'a pas la même responsabilité qu'un adulte.", "english": "A minor doesn't have the same responsibility as an adult." }
+              ],
+              "tip": "In French, 'devoir' is both a verb ('to have to') and a noun ('a duty') — context tells them apart."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "le-locataire", "french": "le locataire", "english": "the tenant", "partOfSpeech": "noun", "gender": "m", "plural": "locataires", "pronunciation": "lo-kah-TAIR", "example": "Le locataire précédent est parti en juin.", "exampleEnglish": "The previous tenant left in June.", "level": "B1", "category": "tenant" },
+            { "id": "le-colocataire", "french": "le colocataire", "english": "the flatmate", "partOfSpeech": "noun", "gender": "m", "plural": "colocataires", "pronunciation": "luh koh-loh-kah-TEHR", "example": "Mon colocataire paie la moitié du loyer.", "exampleEnglish": "My flatmate pays half the rent.", "level": "B1", "category": "tenant" },
+            { "id": "le-proprietaire", "french": "le propriétaire", "english": "the owner, the landlord", "partOfSpeech": "noun", "gender": "m", "plural": "propriétaires", "pronunciation": "pro-pree-ay-TAIR", "example": "Le propriétaire habite au dernier étage.", "exampleEnglish": "The landlord lives on the top floor.", "level": "B1", "category": "tenant" },
+            { "id": "le-bailleur", "french": "le bailleur", "english": "the lessor (formal: landlord)", "partOfSpeech": "noun", "gender": "m", "plural": "bailleurs", "pronunciation": "luh bye-YUHR", "example": "Le bailleur doit remettre un logement décent.", "exampleEnglish": "The lessor must provide a decent home.", "level": "B1", "category": "tenant" },
+            { "id": "le-bail", "french": "le bail", "english": "the lease", "partOfSpeech": "noun", "gender": "m", "plural": "baux", "pronunciation": "bye", "example": "Le bail dure trois ans.", "exampleEnglish": "The lease lasts three years.", "level": "B1", "category": "tenant" },
+            { "id": "le-loyer", "french": "le loyer", "english": "the rent", "partOfSpeech": "noun", "gender": "m", "plural": "loyers", "pronunciation": "lwah-YAY", "example": "Le loyer augmente chaque année.", "exampleEnglish": "The rent goes up every year.", "level": "B1", "category": "tenant" },
+            { "id": "la-caution", "french": "la caution", "english": "the security deposit", "partOfSpeech": "noun", "gender": "f", "plural": "cautions", "pronunciation": "koh-SYON", "example": "La caution est rendue à la fin du bail.", "exampleEnglish": "The deposit is returned at the end of the lease.", "level": "B1", "category": "tenant" },
+            { "id": "l-etat-des-lieux", "french": "l'état des lieux", "english": "the fixtures inventory", "partOfSpeech": "noun", "gender": "m", "plural": "états des lieux", "pronunciation": "lay-TAH day LYUH", "example": "On fait l'état des lieux avant de recevoir les clés.", "exampleEnglish": "You do the inventory check before getting the keys.", "level": "B1", "category": "tenant" },
+            { "id": "le-preavis", "french": "le préavis", "english": "the notice period", "partOfSpeech": "noun", "gender": "m", "plural": "préavis", "pronunciation": "luh pray-ah-VEE", "example": "Le préavis est d'un mois en zone tendue.", "exampleEnglish": "The notice period is one month in a high-demand area.", "level": "B1", "category": "tenant" },
+            { "id": "reparer", "french": "réparer", "english": "to repair, to fix", "partOfSpeech": "verb", "pronunciation": "ray-pah-RAY", "example": "Le propriétaire doit réparer la chaudière.", "exampleEnglish": "The landlord must repair the boiler.", "level": "B1", "category": "tenant" },
+            { "id": "l-entretien", "french": "l'entretien", "english": "the upkeep, the maintenance", "partOfSpeech": "noun", "gender": "m", "plural": "entretiens", "pronunciation": "ahn-truh-TYAN", "example": "L'entretien du chauffage est à la charge du locataire.", "exampleEnglish": "Heating maintenance is the tenant's responsibility.", "level": "B1", "category": "tenant" },
+            { "id": "le-consommateur", "french": "le consommateur", "english": "the consumer", "partOfSpeech": "noun", "gender": "m", "plural": "consommateurs", "pronunciation": "luh kon-so-mah-TUHR", "example": "Le consommateur a plus de pouvoir qu'il ne croit.", "exampleEnglish": "The consumer has more power than they think.", "level": "B1", "category": "consumer" },
+            { "id": "le-contrat", "french": "le contrat", "english": "the contract", "partOfSpeech": "noun", "gender": "m", "plural": "contrats", "pronunciation": "luh kohn-TRAH", "example": "Elle a signé le contrat sans le lire en entier.", "exampleEnglish": "She signed the contract without reading it in full.", "level": "B1", "category": "consumer" },
+            { "id": "un-avenant", "french": "un avenant", "english": "an amendment, a rider (to a contract)", "partOfSpeech": "noun", "gender": "m", "plural": "avenants", "pronunciation": "uhn ahv-NAHN", "example": "Un avenant précise les nouvelles conditions.", "exampleEnglish": "An amendment specifies the new conditions.", "level": "B1", "category": "consumer" },
+            { "id": "la-garantie", "french": "la garantie", "english": "the warranty, the guarantee", "partOfSpeech": "noun", "gender": "f", "plural": "garanties", "pronunciation": "lah gah-rahn-TEE", "example": "L'appareil est encore sous garantie.", "exampleEnglish": "The device is still under warranty.", "level": "B1", "category": "consumer" },
+            { "id": "le-remboursement", "french": "le remboursement", "english": "the refund", "partOfSpeech": "noun", "gender": "m", "plural": "remboursements", "pronunciation": "luh rahm-boors-MAHN", "example": "J'attends le remboursement du magasin.", "exampleEnglish": "I'm waiting for the refund from the shop.", "level": "B1", "category": "consumer" },
+            { "id": "reclamer", "french": "réclamer", "english": "to demand, to claim", "partOfSpeech": "verb", "pronunciation": "ray-klah-MAY", "example": "Je réclame un remboursement complet.", "exampleEnglish": "I am demanding a full refund.", "level": "B1", "category": "consumer" },
+            { "id": "le-recours", "french": "un recours", "english": "a recourse, a course of action", "partOfSpeech": "noun", "gender": "m", "plural": "recours", "pronunciation": "luh ruh-KOOR", "example": "Vous avez un recours auprès d'une association.", "exampleEnglish": "You have recourse through an association.", "level": "B1", "category": "consumer" },
+            { "id": "la-facture", "french": "la facture", "english": "the bill, the invoice", "partOfSpeech": "noun", "gender": "f", "plural": "factures", "pronunciation": "lah fahk-TUR", "example": "La facture indique un montant erroné.", "exampleEnglish": "The invoice shows an incorrect amount.", "level": "B1", "category": "consumer" },
+            { "id": "le-service-apres-vente", "french": "le service après-vente", "english": "customer service, after-sales service", "partOfSpeech": "noun", "gender": "m", "plural": "services après-vente", "pronunciation": "luh sair-VEES ah-preh VAHNT", "example": "Le service après-vente n'a jamais répondu.", "exampleEnglish": "After-sales service never replied.", "level": "B1", "category": "consumer" },
+            { "id": "un-vice-cache", "french": "un vice caché", "english": "a hidden defect", "partOfSpeech": "noun", "gender": "m", "plural": "vices cachés", "pronunciation": "uhn vees kah-SHAY", "example": "La voiture avait un vice caché non signalé.", "exampleEnglish": "The car had an undisclosed hidden defect.", "level": "B1", "category": "consumer" },
+            { "id": "la-conformite", "french": "la conformité", "english": "the conformity, the compliance", "partOfSpeech": "noun", "gender": "f", "plural": "conformités", "pronunciation": "lah kohn-for-mee-TAY", "example": "Le produit n'est pas en conformité avec la description.", "exampleEnglish": "The product doesn't match its description.", "level": "B1", "category": "consumer" },
+            { "id": "delai-de-retractation", "french": "un délai de rétractation", "english": "a withdrawal period, a cooling-off period", "partOfSpeech": "noun", "gender": "m", "plural": "délais de rétractation", "pronunciation": "day-LAY duh ray-trak-tah-SYOHN", "example": "Vous avez un délai de rétractation de quatorze jours.", "exampleEnglish": "You have a fourteen-day cooling-off period.", "level": "B1", "category": "consumer" },
+            { "id": "association-de-consommateurs", "french": "une association de consommateurs", "english": "a consumer association", "partOfSpeech": "noun", "gender": "f", "plural": "associations de consommateurs", "pronunciation": "ah-so-syah-syohn duh kon-so-mah-TUHR", "example": "Contactez une association de consommateurs si besoin.", "exampleEnglish": "Contact a consumer association if needed.", "level": "B1", "category": "consumer" },
+            { "id": "citoyen", "french": "le citoyen / la citoyenne", "english": "citizen", "partOfSpeech": "noun", "gender": "m", "plural": "citoyens", "pronunciation": "see-twah-YAN", "example": "Chaque citoyen a le devoir de voter.", "exampleEnglish": "Every citizen has a duty to vote.", "level": "B1", "category": "citizen" },
+            { "id": "voter", "french": "voter", "english": "to vote", "partOfSpeech": "verb", "pronunciation": "voh-TAY", "example": "On peut voter à partir de dix-huit ans.", "exampleEnglish": "You can vote from the age of eighteen.", "level": "B1", "category": "citizen" },
+            { "id": "l-impot", "french": "l'impôt", "english": "the tax", "partOfSpeech": "noun", "gender": "m", "plural": "impôts", "pronunciation": "lam-POH", "example": "Chaque citoyen a le devoir de payer ses impôts.", "exampleEnglish": "Every citizen has a duty to pay their taxes.", "level": "B1", "category": "citizen" },
+            { "id": "la-securite-sociale", "french": "la sécurité sociale", "english": "social security (the French health/welfare system)", "partOfSpeech": "noun", "gender": "f", "plural": "sécurités sociales", "pronunciation": "lah say-kew-ree-tay so-see-AL", "example": "La sécurité sociale rembourse une partie des soins.", "exampleEnglish": "Social security refunds part of medical costs.", "level": "B1", "category": "citizen" },
+            { "id": "l-assurance", "french": "une assurance", "english": "an insurance policy", "partOfSpeech": "noun", "gender": "f", "plural": "assurances", "pronunciation": "ah-syu-RAHNSS", "example": "Il est obligatoire d'avoir une assurance habitation.", "exampleEnglish": "It's mandatory to have home insurance.", "level": "B1", "category": "citizen" },
+            { "id": "devoir-nom", "french": "le devoir", "english": "the duty", "partOfSpeech": "noun", "gender": "m", "plural": "devoirs", "pronunciation": "duh-VWAHR", "example": "Voter est aussi un devoir de citoyen.", "exampleEnglish": "Voting is also a citizen's duty.", "level": "B1", "category": "citizen" },
+            { "id": "la-responsabilite", "french": "la responsabilité", "english": "the responsibility", "partOfSpeech": "noun", "gender": "f", "plural": "responsabilités", "pronunciation": "ress-pohn-sah-bee-lee-TAY", "example": "Devenir majeur, c'est prendre plus de responsabilités.", "exampleEnglish": "Becoming an adult means taking on more responsibility.", "level": "B1", "category": "citizen" },
+            { "id": "resilier", "french": "résilier", "english": "to cancel, to terminate (a contract)", "partOfSpeech": "verb", "pronunciation": "ray-zee-LYAY", "example": "J'ai résilié mon contrat d'assurance.", "exampleEnglish": "I cancelled my insurance contract.", "level": "B1", "category": "citizen" },
+            { "id": "la-clause", "french": "la clause", "english": "the clause", "partOfSpeech": "noun", "gender": "f", "plural": "clauses", "pronunciation": "KLOHZ", "example": "Lisez bien chaque clause avant de signer.", "exampleEnglish": "Read every clause carefully before signing.", "level": "B1", "category": "citizen" },
+            { "id": "l-echeance", "french": "l'échéance", "english": "the deadline, the due date", "partOfSpeech": "noun", "gender": "f", "plural": "échéances", "pronunciation": "lay-shay-AHNSS", "example": "Le loyer doit être payé avant l'échéance.", "exampleEnglish": "The rent must be paid before the due date.", "level": "B1", "category": "citizen" },
+            { "id": "majeur", "french": "majeur", "english": "of legal age, an adult", "partOfSpeech": "adjective", "pronunciation": "mah-ZHUHR", "example": "On devient majeur à dix-huit ans en France.", "exampleEnglish": "You become a legal adult at eighteen in France.", "level": "B1", "category": "citizen" },
+            { "id": "mineur", "french": "mineur", "english": "underage, a minor", "partOfSpeech": "adjective", "pronunciation": "mee-NUHR", "example": "Un mineur n'a pas le droit de voter.", "exampleEnglish": "A minor doesn't have the right to vote.", "level": "B1", "category": "citizen" },
+            { "id": "exiger", "french": "exiger", "english": "to demand, to require", "partOfSpeech": "verb", "pronunciation": "eg-zee-ZHAY", "example": "La loi exige que chacun respecte ses obligations.", "exampleEnglish": "The law requires everyone to fulfil their obligations.", "level": "B1", "category": "citizen" },
+            { "id": "le-justiciable", "french": "le justiciable", "english": "the person subject to the law", "partOfSpeech": "noun", "gender": "m", "plural": "justiciables", "pronunciation": "luh zhüs-tee-SYAH-bluh", "example": "Tout justiciable a droit à un traitement équitable.", "exampleEnglish": "Anyone subject to the law has a right to fair treatment.", "level": "B1", "category": "citizen" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Devoir as a verb vs. le devoir as a noun",
+              "body": "'Devoir' the verb ('to have to') and 'le devoir' the noun ('a duty') look identical but behave differently: the verb is conjugated and followed by an infinitive, while the noun takes an article and can be singular or plural.",
+              "examples": [
+                { "french": "Je dois renouveler mon assurance avant l'échéance.", "english": "I have to renew my insurance before the due date." },
+                { "french": "Payer ses impôts est un devoir civique.", "english": "Paying your taxes is a civic duty." },
+                { "french": "Les citoyens ont des droits, mais aussi des devoirs.", "english": "Citizens have rights, but also duties." }
+              ],
+              "tip": "If a word right after 'devoir' looks like a verb, it's the modal verb; if it's preceded by 'le/un/des', it's the noun."
+            },
+            {
+              "heading": "Relative pronoun 'dont' with contracts and obligations",
+              "body": "'Dont' replaces 'de + noun' and is especially useful when describing contracts, clauses, or obligations you're talking 'about'. It avoids clunky repetition and sounds much more natural at B1 level.",
+              "examples": [
+                { "french": "C'est une clause dont je ne me souvenais pas.", "english": "It's a clause I didn't remember." },
+                { "french": "Voici le contrat dont nous avons parlé.", "english": "Here's the contract we talked about." },
+                { "french": "La caution, dont le montant est élevé, sera rendue plus tard.", "english": "The deposit, whose amount is high, will be returned later." }
+              ],
+              "tip": "Use 'dont' whenever the English sentence would need 'of which', 'about which', or 'whose'."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "b1_u28_l02_li01", "type": "listenChoose", "french": "Le propriétaire doit faire les grosses réparations.", "options": ["The landlord must carry out major repairs.", "The tenant must paint the walls.", "The rent is due tomorrow.", "The lease has expired."], "answer": "The landlord must carry out major repairs." },
+            { "id": "b1_u28_l02_li02", "type": "listenType", "french": "La caution est rendue à la fin du bail.", "answer": "La caution est rendue à la fin du bail.", "acceptedAnswers": ["La caution est rendue a la fin du bail", "la caution est rendue a la fin du bail"] },
+            { "id": "b1_u28_l02_li03", "type": "dictation", "french": "Chaque citoyen a le devoir de payer ses impôts.", "answer": "Chaque citoyen a le devoir de payer ses impôts.", "acceptedAnswers": ["Chaque citoyen a le devoir de payer ses impots", "chaque citoyen a le devoir de payer ses impots"] },
+            { "id": "b1_u28_l02_li04", "type": "listenChoose", "french": "Vous avez un délai de rétractation de quatorze jours.", "options": ["You have a fourteen-day cooling-off period.", "You have a fourteen-day warranty.", "You must pay within fourteen days.", "The lease lasts fourteen months."], "answer": "You have a fourteen-day cooling-off period." }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "b1_u28_l02_sp01", "type": "speak", "french": "L'entretien courant est à la charge du locataire.", "english": "Routine upkeep is the tenant's responsibility.", "prompt": "Explain to a new roommate who is responsible for small repairs in the flat.", "tip": "Link 'à la charge de' smoothly — it means 'the responsibility of'." },
+            { "id": "b1_u28_l02_sp02", "type": "speak", "french": "Je réclame un remboursement complet.", "english": "I am demanding a full refund.", "prompt": "Say this firmly, as if speaking to customer service about a faulty product.", "tip": "Stress 'complet' at the end to show you won't accept a partial refund." },
+            { "id": "b1_u28_l02_sp03", "type": "speak", "french": "Chaque citoyen a des droits, mais aussi des devoirs.", "english": "Every citizen has rights, but also duties.", "prompt": "Say this as if explaining civic life to someone new to France.", "tip": "Pause slightly before 'mais aussi' to highlight the contrast." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Locataire pour la première fois",
+              "french": "Marie vient de signer son premier bail et elle a beaucoup de questions.\nD'abord, elle a versé une caution équivalente à un mois de loyer.\nLe jour de l'emménagement, elle a fait l'état des lieux avec le propriétaire.\nIls ont noté ensemble les petites taches sur le parquet et une fenêtre qui ferme mal.\nMarie sait que l'entretien courant, comme changer une ampoule, est à sa charge.\nEn revanche, si la chaudière tombe en panne, c'est au propriétaire de la réparer.\nElle a aussi appris qu'elle doit respecter un préavis d'un mois avant de partir.\nDe son côté, le propriétaire n'a pas le droit d'entrer dans le logement sans prévenir.\nMarie a lu attentivement chaque clause du contrat avant de signer.\nElle a même gardé une copie de l'état des lieux, au cas où.\nGrâce à ces précautions, elle se sent prête à assumer son nouveau rôle de locataire.",
+              "english": "Marie has just signed her first lease and has a lot of questions.\nFirst, she paid a deposit equal to one month's rent.\nOn moving-in day, she did the fixtures inventory with the landlord.\nTogether they noted the small stains on the floor and a window that closes badly.\nMarie knows that routine upkeep, like changing a lightbulb, is her responsibility.\nOn the other hand, if the boiler breaks down, it's the landlord's job to repair it.\nShe also learned that she must give one month's notice before leaving.\nFor his part, the landlord isn't allowed to enter the flat without warning.\nMarie carefully read every clause of the contract before signing.\nShe even kept a copy of the fixtures inventory, just in case.\nThanks to these precautions, she feels ready to take on her new role as a tenant.",
+              "questions": [
+                { "id": "b1_u28_l02_rd01", "type": "multipleChoice", "prompt": "Qu'est-ce que Marie a versé en signant son bail ?", "options": ["Une caution", "Une amende", "Un impôt", "Une clause"], "answer": "Une caution" },
+                { "id": "b1_u28_l02_rd02", "type": "trueFalse", "prompt": "Le propriétaire peut entrer dans le logement quand il veut, sans prévenir.", "options": ["True", "False"], "answer": "False" },
+                { "id": "b1_u28_l02_rd03", "type": "multipleChoice", "prompt": "Qui doit réparer la chaudière si elle tombe en panne ?", "options": ["Le propriétaire", "Le locataire", "Le colocataire", "L'association de consommateurs"], "answer": "Le propriétaire" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "b1_u28_l02_wr01", "type": "translate", "prompt": "Translate into French: 'I am demanding a full refund.'", "english": "I am demanding a full refund.", "answer": "Je réclame un remboursement complet.", "acceptedAnswers": ["Je réclame un remboursement complet", "je reclame un remboursement complet"] },
+            { "id": "b1_u28_l02_wr02", "type": "fillBlank", "prompt": "Le propriétaire doit ___ les grosses réparations. (faire)", "answer": "faire" },
+            { "id": "b1_u28_l02_wr03", "type": "arrangeWords", "words": ["a", "devoir", "citoyen", "voter", "chaque", "le", "de"], "answer": "chaque citoyen a le devoir de voter", "english": "Every citizen has the duty to vote." }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "b1_u28_l02_pr01", "type": "multipleChoice", "prompt": "Qui verse une caution en signant un bail ?", "options": ["le locataire", "le bailleur", "le juge", "le médiateur"], "answer": "le locataire" },
+            { "id": "b1_u28_l02_pr02", "type": "fillBlank", "prompt": "L'appareil est encore sous ___. (garantie)", "answer": "garantie" },
+            { "id": "b1_u28_l02_pr03", "type": "match", "pairs": [
+                { "french": "le loyer", "english": "the rent" },
+                { "french": "l'échéance", "english": "the deadline" },
+                { "french": "résilier", "english": "to cancel" },
+                { "french": "majeur", "english": "of legal age" }
+              ] },
+            { "id": "b1_u28_l02_pr04", "type": "translate", "prompt": "Translate: 'You have a fourteen-day cooling-off period.'", "english": "You have a fourteen-day cooling-off period.", "answer": "Vous avez un délai de rétractation de quatorze jours.", "acceptedAnswers": ["Vous avez un délai de rétractation de quatorze jours", "vous avez un delai de retractation de quatorze jours"] },
+            { "id": "b1_u28_l02_pr05", "type": "trueFalse", "prompt": "Le mot 'devoir' peut être à la fois un verbe et un nom.", "options": ["True", "False"], "answer": "True" },
+            { "id": "b1_u28_l02_pr06", "type": "arrangeWords", "words": ["complet", "un", "remboursement", "je", "réclame"], "answer": "je réclame un remboursement complet", "english": "I am demanding a full refund." }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "b1_u28_l02_qz01", "type": "multipleChoice", "prompt": "Que signifie « l'état des lieux » ?", "options": ["fixtures inventory", "the rent", "the deposit", "the lease"], "answer": "fixtures inventory" },
+            { "id": "b1_u28_l02_qz02", "type": "fillBlank", "prompt": "On devient ___ à dix-huit ans en France. (majeur)", "answer": "majeur" },
+            { "id": "b1_u28_l02_qz03", "type": "trueFalse", "prompt": "Un mineur a le droit de voter en France.", "options": ["True", "False"], "answer": "False" },
+            { "id": "b1_u28_l02_qz04", "type": "translate", "prompt": "Translate: 'Every citizen has a duty to pay taxes.'", "english": "Every citizen has a duty to pay taxes.", "answer": "Chaque citoyen a le devoir de payer ses impôts.", "acceptedAnswers": ["Chaque citoyen a le devoir de payer ses impôts", "chaque citoyen a le devoir de payer ses impots"] },
+            { "id": "b1_u28_l02_qz05", "type": "multipleChoice", "prompt": "Quel mot désigne un défaut non signalé par le vendeur ?", "options": ["un vice caché", "une garantie", "un avenant", "une échéance"], "answer": "un vice caché" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1_u28_l03",
+      "level": "B1",
+      "unit": 28,
+      "title": "Un petit litige",
+      "description": "Describe a problem formally and write a polite but firm letter of complaint.",
+      "estimatedMinutes": 18,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Décrire un litige",
+              "body": "A litige (dispute) or un différend (disagreement) usually starts with a défectueux (faulty) or abîmé (damaged) product, or a préjudice (harm) you've suffered. Naming the problem clearly is the first step before you complain.",
+              "examples": [
+                { "french": "Le colis est arrivé endommagé.", "english": "The parcel arrived damaged." },
+                { "french": "L'article que j'ai reçu est défectueux.", "english": "The item I received is faulty." },
+                { "french": "Ce litige aurait pu être évité.", "english": "This dispute could have been avoided." },
+                { "french": "Je suis très insatisfait du service.", "english": "I am very dissatisfied with the service." }
+              ],
+              "tip": "'Un différend' (a disagreement) is often confused with 'différent' (different) — they sound identical but are spelled differently."
+            },
+            {
+              "heading": "Se plaindre par écrit",
+              "body": "To formally complain, use se plaindre or porter plainte for something serious, and une réclamation for a written complaint. Exposer les faits calmly and demanding a dédommagement (compensation) is the standard structure.",
+              "examples": [
+                { "french": "Je souhaite déposer une réclamation.", "english": "I wish to file a complaint." },
+                { "french": "J'expose les faits dans l'ordre chronologique.", "english": "I am laying out the facts in chronological order." },
+                { "french": "Je demande un dédommagement pour le préjudice subi.", "english": "I am requesting compensation for the harm suffered." },
+                { "french": "Si rien ne change, je porterai plainte.", "english": "If nothing changes, I will file a formal complaint." }
+              ],
+              "tip": "Keep your tone formel even when frustrated — a calm, structured complaint is taken far more seriously."
+            },
+            {
+              "heading": "Résoudre le litige : de l'amiable au tribunal",
+              "body": "Most small disputes are settled à l'amiable (amicably), often with the help of a médiateur. If that fails, you can send a mise en demeure (formal notice) or ultimately saisir le tribunal (take it to court) before a juge.",
+              "examples": [
+                { "french": "Nous avons réglé le différend à l'amiable.", "english": "We settled the disagreement amicably." },
+                { "french": "Un médiateur peut aider les deux parties à trouver un accord.", "english": "A mediator can help both parties reach an agreement." },
+                { "french": "J'ai envoyé une mise en demeure par courrier recommandé.", "english": "I sent a formal notice by registered mail." }
+              ],
+              "tip": "A 'mise en demeure' is a serious step — it formally warns the other party before you consider legal action."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "le-litige", "french": "le litige", "english": "the dispute", "partOfSpeech": "noun", "gender": "m", "plural": "litiges", "pronunciation": "luh lee-TEEZH", "example": "En cas de litige, on peut saisir un médiateur.", "exampleEnglish": "In case of a dispute, you can go to a mediator.", "level": "B1", "category": "dispute" },
+            { "id": "un-differend", "french": "un différend", "english": "a dispute, a disagreement", "partOfSpeech": "noun", "gender": "m", "plural": "différends", "pronunciation": "dee-fay-RAHN", "example": "Le différend a été réglé à l'amiable.", "exampleEnglish": "The dispute was settled amicably.", "level": "B1", "category": "dispute" },
+            { "id": "un-desaccord", "french": "un désaccord", "english": "a disagreement", "partOfSpeech": "noun", "gender": "m", "plural": "désaccords", "pronunciation": "day-zah-KOR", "example": "Il y a un désaccord sur le montant à rembourser.", "exampleEnglish": "There's a disagreement about the amount to refund.", "level": "B1", "category": "dispute" },
+            { "id": "un-probleme", "french": "un problème", "english": "a problem", "partOfSpeech": "noun", "gender": "m", "plural": "problèmes", "pronunciation": "uhn proh-BLEM", "example": "J'ai un problème avec ma dernière commande.", "exampleEnglish": "I have a problem with my last order.", "level": "B1", "category": "dispute" },
+            { "id": "la-plainte", "french": "la plainte", "english": "the complaint", "partOfSpeech": "noun", "gender": "f", "plural": "plaintes", "pronunciation": "lah PLANT", "example": "Ma plainte a été enregistrée en ligne.", "exampleEnglish": "My complaint was filed online.", "level": "B1", "category": "dispute" },
+            { "id": "porter-plainte", "french": "porter plainte", "english": "to file a complaint", "partOfSpeech": "expression", "pronunciation": "por-TAY PLANT", "example": "Si rien ne change, je porterai plainte.", "exampleEnglish": "If nothing changes, I will file a formal complaint.", "level": "B1", "category": "dispute" },
+            { "id": "se-plaindre", "french": "se plaindre", "english": "to complain", "partOfSpeech": "verb", "pronunciation": "suh PLANDR", "example": "Elle s'est plainte auprès du service client.", "exampleEnglish": "She complained to customer service.", "level": "B1", "category": "dispute" },
+            { "id": "la-reclamation", "french": "une réclamation", "english": "a complaint (written)", "partOfSpeech": "noun", "gender": "f", "plural": "réclamations", "pronunciation": "ray-klah-mah-SYON", "example": "Je souhaite déposer une réclamation.", "exampleEnglish": "I wish to file a complaint.", "level": "B1", "category": "dispute" },
+            { "id": "dedommagement", "french": "le dédommagement", "english": "the compensation", "partOfSpeech": "noun", "gender": "m", "plural": "dédommagements", "pronunciation": "day-doh-mahzh-MAHN", "example": "Je demande un dédommagement pour le préjudice subi.", "exampleEnglish": "I am requesting compensation for the harm suffered.", "level": "B1", "category": "dispute" },
+            { "id": "le-prejudice", "french": "le préjudice", "english": "the harm, the damage suffered", "partOfSpeech": "noun", "gender": "m", "plural": "préjudices", "pronunciation": "luh pray-zhu-DEES", "example": "Le préjudice est difficile à chiffrer.", "exampleEnglish": "The harm is difficult to put a figure on.", "level": "B1", "category": "dispute" },
+            { "id": "a-l-amiable", "french": "à l'amiable", "english": "amicably", "partOfSpeech": "expression", "pronunciation": "ah lah-MYAHBL", "example": "Nous avons réglé le différend à l'amiable.", "exampleEnglish": "We settled the disagreement amicably.", "level": "B1", "category": "dispute" },
+            { "id": "resoudre", "french": "résoudre", "english": "to solve, to resolve", "partOfSpeech": "verb", "pronunciation": "ray-ZOODR", "example": "Nous avons résolu le litige en une semaine.", "exampleEnglish": "We resolved the dispute in a week.", "level": "B1", "category": "dispute" },
+            { "id": "un-accord-amiable", "french": "un accord amiable", "english": "an amicable settlement", "partOfSpeech": "noun", "gender": "m", "plural": "accords amiables", "pronunciation": "uhn nah-KOR ah-MYAHBL", "example": "Les deux parties ont trouvé un accord amiable.", "exampleEnglish": "Both parties reached an amicable settlement.", "level": "B1", "category": "dispute" },
+            { "id": "saisir", "french": "saisir", "english": "to refer a matter to (a court)", "partOfSpeech": "verb", "pronunciation": "seh-ZEER", "example": "En dernier recours, on peut saisir le tribunal.", "exampleEnglish": "As a last resort, you can take it to court.", "level": "B1", "category": "dispute" },
+            { "id": "le-tribunal", "french": "le tribunal", "english": "the court", "partOfSpeech": "noun", "gender": "m", "plural": "tribunaux", "pronunciation": "luh tree-bü-NAHL", "example": "L'affaire est allée jusqu'au tribunal.", "exampleEnglish": "The case went all the way to court.", "level": "B1", "category": "dispute" },
+            { "id": "le-juge", "french": "le juge", "english": "the judge", "partOfSpeech": "noun", "gender": "m", "plural": "juges", "pronunciation": "luh ZHÜZH", "example": "Le juge a écouté les deux parties.", "exampleEnglish": "The judge listened to both parties.", "level": "B1", "category": "dispute" },
+            { "id": "b2u6-le-mediateur", "french": "un médiateur", "english": "a mediator", "partOfSpeech": "noun", "gender": "m", "plural": "médiateurs", "pronunciation": "uhn may-dyah-TUHR", "example": "Un médiateur peut aider les deux parties à trouver un accord.", "exampleEnglish": "A mediator can help both parties reach an agreement.", "level": "B1", "category": "dispute" },
+            { "id": "l-avocat", "french": "l'avocat", "english": "the lawyer", "partOfSpeech": "noun", "gender": "m", "plural": "avocats", "pronunciation": "lah-vo-KAH", "example": "Elle a consulté un avocat avant d'agir.", "exampleEnglish": "She consulted a lawyer before taking action.", "level": "B1", "category": "dispute" },
+            { "id": "defectueux", "french": "défectueux", "english": "faulty, defective", "partOfSpeech": "adjective", "pronunciation": "day-fek-TUH", "example": "L'article que j'ai reçu est défectueux.", "exampleEnglish": "The item I received is faulty.", "level": "B1", "category": "dispute" },
+            { "id": "insatisfait", "french": "insatisfait", "english": "dissatisfied", "partOfSpeech": "adjective", "pronunciation": "an-sah-tees-FAY", "example": "Je suis très insatisfait du service.", "exampleEnglish": "I am very dissatisfied with the service.", "level": "B1", "category": "dispute" },
+            { "id": "abime", "french": "abîmé", "english": "damaged", "partOfSpeech": "adjective", "pronunciation": "ah-bee-MAY", "example": "Le colis est arrivé abîmé.", "exampleEnglish": "The parcel arrived damaged.", "level": "B1", "category": "dispute" },
+            { "id": "endommage", "french": "endommagé", "english": "damaged", "partOfSpeech": "adjective", "pronunciation": "ahn-doh-mah-ZHAY", "example": "L'écran était endommagé à la livraison.", "exampleEnglish": "The screen was damaged on delivery.", "level": "B1", "category": "dispute" },
+            { "id": "le-colis", "french": "le colis", "english": "the parcel, the package", "partOfSpeech": "noun", "gender": "m", "plural": "colis", "pronunciation": "luh koh-LEE", "example": "Le colis est arrivé endommagé.", "exampleEnglish": "The parcel arrived damaged.", "level": "B1", "category": "dispute" },
+            { "id": "en-recommande", "french": "en recommandé", "english": "by registered post", "partOfSpeech": "expression", "pronunciation": "ahn ruh-koh-mahn-DAY", "example": "J'ai envoyé une mise en demeure en recommandé.", "exampleEnglish": "I sent a formal notice by registered mail.", "level": "B1", "category": "dispute" },
+            { "id": "mise-en-demeure", "french": "la mise en demeure", "english": "the formal notice", "partOfSpeech": "noun", "gender": "f", "plural": "mises en demeure", "pronunciation": "meez ahn duh-MUHR", "example": "J'ai envoyé une mise en demeure par courrier recommandé.", "exampleEnglish": "I sent a formal notice by registered mail.", "level": "B1", "category": "dispute" },
+            { "id": "vice-de-forme", "french": "un vice de forme", "english": "a procedural defect", "partOfSpeech": "noun", "gender": "m", "plural": "vices de forme", "pronunciation": "vees duh FORM", "example": "Le contrat comporte un vice de forme.", "exampleEnglish": "The contract has a procedural defect.", "level": "B1", "category": "dispute" },
+            { "id": "la-piece-jointe", "french": "la pièce jointe", "english": "the attachment (email)", "partOfSpeech": "noun", "gender": "f", "plural": "pièces jointes", "pronunciation": "lah pyes ZHWANT", "example": "Vous trouverez la facture en pièce jointe.", "exampleEnglish": "You will find the invoice attached.", "level": "B1", "category": "dispute" },
+            { "id": "ci-joint", "french": "ci-joint", "english": "attached, enclosed", "partOfSpeech": "adjective", "pronunciation": "see-ZHWAN", "example": "Veuillez trouver ci-joint une copie de ma facture.", "exampleEnglish": "Please find enclosed a copy of my invoice.", "level": "B1", "category": "dispute" },
+            { "id": "l-expediteur", "french": "l'expéditeur", "english": "the sender", "partOfSpeech": "noun", "gender": "m", "plural": "expéditeurs", "pronunciation": "leks-pay-dee-TUHR", "example": "L'expéditeur n'a jamais reçu de réponse.", "exampleEnglish": "The sender never received a reply.", "level": "B1", "category": "dispute" },
+            { "id": "le-destinataire", "french": "le destinataire", "english": "the recipient", "partOfSpeech": "noun", "gender": "m", "plural": "destinataires", "pronunciation": "luh des-tee-nah-TAIR", "example": "Le destinataire doit répondre sous quinze jours.", "exampleEnglish": "The recipient must reply within fifteen days.", "level": "B1", "category": "dispute" },
+            { "id": "a-l-attention-de", "french": "à l'attention de", "english": "for the attention of", "partOfSpeech": "expression", "pronunciation": "ah lah-tahn-syohn duh", "example": "J'écris à l'attention du service client.", "exampleEnglish": "I am writing for the attention of customer service.", "level": "B1", "category": "dispute" },
+            { "id": "l-objet-du-message", "french": "l'objet", "english": "the subject line", "partOfSpeech": "noun", "gender": "m", "plural": "objets", "pronunciation": "lohb-ZHEH", "example": "L'objet de ma lettre est clair : réclamation.", "exampleEnglish": "The subject of my letter is clear: complaint.", "level": "B1", "category": "dispute" },
+            { "id": "formel", "french": "formel", "english": "formal", "partOfSpeech": "adjective", "pronunciation": "for-MEL", "example": "Gardez un ton formel dans votre lettre.", "exampleEnglish": "Keep a formal tone in your letter.", "level": "B1", "category": "dispute" },
+            { "id": "exposer", "french": "exposer", "english": "to lay out, to state (facts)", "partOfSpeech": "verb", "pronunciation": "ek-spo-ZAY", "example": "J'expose les faits dans l'ordre chronologique.", "exampleEnglish": "I am laying out the facts in chronological order.", "level": "B1", "category": "dispute" },
+            { "id": "cordialement", "french": "cordialement", "english": "kind regards", "partOfSpeech": "adverb", "pronunciation": "kor-dyahl-MAHN", "example": "Cordialement, Julien Roche", "exampleEnglish": "Kind regards, Julien Roche", "level": "B1", "category": "dispute" },
+            { "id": "b2-veuillez-agreer", "french": "veuillez agréer", "english": "please accept (formal closing)", "partOfSpeech": "expression", "pronunciation": "vuh-YAY ah-gray-AY", "example": "Veuillez agréer, Madame, l'expression de mes salutations distinguées.", "exampleEnglish": "Please accept, Madam, my distinguished regards.", "level": "B1", "category": "dispute" },
+            { "id": "le-service-client", "french": "le service client", "english": "customer service", "partOfSpeech": "noun", "gender": "m", "plural": "services clients", "pronunciation": "luh sair-VEES klee-YAHN", "example": "J'ai contacté le service client à trois reprises.", "exampleEnglish": "I contacted customer service three times.", "level": "B1", "category": "dispute" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Le conditionnel de politesse dans une réclamation",
+              "body": "Formal complaints sound far more polite in the conditionnel: 'je souhaiterais' (I would like) and 'j'aimerais' (I would love) soften a demand without weakening it. This register is expected in written French complaints, even firm ones.",
+              "examples": [
+                { "french": "Je souhaiterais obtenir un remboursement rapide.", "english": "I would like to receive a prompt refund." },
+                { "french": "J'aimerais connaître les raisons de ce retard.", "english": "I would like to know the reasons for this delay." },
+                { "french": "Pourriez-vous me confirmer la réception de ce courrier ?", "english": "Could you confirm receipt of this letter?" }
+              ],
+              "tip": "Even a firm letter usually opens in the conditionnel — it signals professionalism before you state the facts."
+            },
+            {
+              "heading": "Le subjonctif après une exigence",
+              "body": "After expressions of demand or requirement — 'il faut que', 'je souhaite que', 'j'exige que' — the following verb goes into the subjonctif. This is a hallmark of formal complaint letters.",
+              "examples": [
+                { "french": "Il faut que vous répariez cet article rapidement.", "english": "You need to repair this item quickly." },
+                { "french": "Je souhaite que vous procédiez au remboursement.", "english": "I would like you to proceed with the refund." },
+                { "french": "J'exige que ce problème soit résolu avant la fin du mois.", "english": "I demand that this problem be resolved by the end of the month." }
+              ],
+              "tip": "Spot the subjonctif by its endings: -e, -es, -e, -ions, -iez, -ent — 'que vous répariez' looks unusual because of this pattern."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "b1_u28_l03_li01", "type": "listenChoose", "french": "Le colis est arrivé endommagé.", "options": ["The parcel arrived damaged.", "The parcel never arrived.", "The parcel was returned.", "The parcel arrived early."], "answer": "The parcel arrived damaged." },
+            { "id": "b1_u28_l03_li02", "type": "listenType", "french": "Je souhaiterais obtenir un remboursement rapide.", "answer": "Je souhaiterais obtenir un remboursement rapide.", "acceptedAnswers": ["Je souhaiterais obtenir un remboursement rapide", "je souhaiterais obtenir un remboursement rapide"] },
+            { "id": "b1_u28_l03_li03", "type": "dictation", "french": "Nous avons réglé le différend à l'amiable.", "answer": "Nous avons réglé le différend à l'amiable.", "acceptedAnswers": ["Nous avons regle le differend a l'amiable", "nous avons regle le differend a l'amiable"] },
+            { "id": "b1_u28_l03_li04", "type": "listenChoose", "french": "J'ai envoyé une mise en demeure par courrier recommandé.", "options": ["I sent a formal notice by registered mail.", "I received a refund by post.", "I cancelled my subscription.", "I signed a new contract."], "answer": "I sent a formal notice by registered mail." }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "b1_u28_l03_sp01", "type": "speak", "french": "Je suis très insatisfait du service reçu.", "english": "I am very dissatisfied with the service I received.", "prompt": "Say this calmly but firmly, as if opening a phone call to customer service.", "tip": "Keep the tone level and controlled — 'insatisfait' should sound formal, not angry." },
+            { "id": "b1_u28_l03_sp02", "type": "speak", "french": "Je souhaiterais un dédommagement pour le préjudice subi.", "english": "I would like compensation for the harm suffered.", "prompt": "Say this as the closing request of a formal complaint conversation.", "tip": "The conditionnel 'souhaiterais' should sound polite, not hesitant." },
+            { "id": "b1_u28_l03_sp03", "type": "speak", "french": "Nous avons réglé le différend à l'amiable.", "english": "We settled the disagreement amicably.", "prompt": "Say this as if reporting back to a friend that the dispute is now over.", "tip": "Let your voice relax on 'à l'amiable' to show relief that it's resolved." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Une lettre de réclamation",
+              "french": "Objet : Réclamation concernant une commande défectueuse\nMadame, Monsieur,\nJe me permets de vous écrire à l'attention du service client.\nLe 3 juillet, j'ai reçu le colis numéro 45872, mais l'article était endommagé.\nL'écran présentait une fissure visible dès l'ouverture du paquet.\nJ'ai aussitôt contacté le service après-vente, sans obtenir de réponse satisfaisante.\nJe vous rappelle que cet appareil est encore sous garantie.\nJe souhaiterais donc obtenir soit un remboursement complet, soit un échange rapide.\nVous trouverez ci-joint une photo de l'article ainsi qu'une copie de ma facture.\nSans réponse de votre part sous quinze jours, je me verrai contrainte de saisir une association de consommateurs.\nJe reste à votre disposition pour tout renseignement complémentaire.\nVeuillez agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\nCamille Béraud",
+              "english": "Subject: Complaint regarding a faulty order\nDear Sir or Madam,\nI am writing to you for the attention of customer service.\nOn 3 July, I received parcel number 45872, but the item was damaged.\nThe screen had a visible crack as soon as the package was opened.\nI immediately contacted after-sales service, without receiving a satisfactory response.\nI would remind you that this device is still under warranty.\nI would therefore like to receive either a full refund or a prompt exchange.\nPlease find enclosed a photo of the item as well as a copy of my invoice.\nWithout a response from you within fifteen days, I will be forced to contact a consumer association.\nI remain available for any further information.\nPlease accept, Sir or Madam, my distinguished regards.\nCamille Béraud",
+              "questions": [
+                { "id": "b1_u28_l03_rd01", "type": "multipleChoice", "prompt": "Quel est le problème avec l'article reçu ?", "options": ["Il est endommagé (l'écran est fissuré)", "Il n'est jamais arrivé", "Il a été livré en double", "Il est trop cher"], "answer": "Il est endommagé (l'écran est fissuré)" },
+                { "id": "b1_u28_l03_rd02", "type": "trueFalse", "prompt": "L'appareil n'est plus sous garantie.", "options": ["True", "False"], "answer": "False" },
+                { "id": "b1_u28_l03_rd03", "type": "multipleChoice", "prompt": "Que fera Camille si elle n'a pas de réponse sous quinze jours ?", "options": ["Elle saisira une association de consommateurs", "Elle ira au tribunal immédiatement", "Elle annulera sa commande", "Elle renverra l'article sans rien dire"], "answer": "Elle saisira une association de consommateurs" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "b1_u28_l03_wr01", "type": "translate", "prompt": "Translate into French: 'I would like a full refund.'", "english": "I would like a full refund.", "answer": "Je souhaiterais un remboursement complet.", "acceptedAnswers": ["Je souhaiterais un remboursement complet", "je souhaiterais un remboursement complet"] },
+            { "id": "b1_u28_l03_wr02", "type": "fillBlank", "prompt": "Il faut que vous ___ cet article rapidement. (réparer)", "answer": "répariez" },
+            { "id": "b1_u28_l03_wr03", "type": "arrangeWords", "words": ["colis", "arrivé", "le", "endommagé", "est"], "answer": "le colis est arrivé endommagé", "english": "The parcel arrived damaged." }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "b1_u28_l03_pr01", "type": "multipleChoice", "prompt": "Quel mot désigne un accord trouvé sans passer par un tribunal ?", "options": ["à l'amiable", "en vigueur", "en recommandé", "ci-joint"], "answer": "à l'amiable" },
+            { "id": "b1_u28_l03_pr02", "type": "fillBlank", "prompt": "Vous trouverez ___ une copie de ma facture. (ci-joint)", "answer": "ci-joint" },
+            { "id": "b1_u28_l03_pr03", "type": "match", "pairs": [
+                { "french": "le destinataire", "english": "the recipient" },
+                { "french": "défectueux", "english": "faulty" },
+                { "french": "saisir", "english": "to refer to court" },
+                { "french": "un médiateur", "english": "a mediator" }
+              ] },
+            { "id": "b1_u28_l03_pr04", "type": "translate", "prompt": "Translate: 'I would like compensation for the harm suffered.'", "english": "I would like compensation for the harm suffered.", "answer": "Je souhaiterais un dédommagement pour le préjudice subi.", "acceptedAnswers": ["Je souhaiterais un dédommagement pour le préjudice subi", "je souhaiterais un dedommagement pour le prejudice subi"] },
+            { "id": "b1_u28_l03_pr05", "type": "trueFalse", "prompt": "'Veuillez agréer' est une formule de politesse utilisée à la fin d'une lettre formelle.", "options": ["True", "False"], "answer": "True" },
+            { "id": "b1_u28_l03_pr06", "type": "arrangeWords", "words": ["amiable", "réglé", "nous", "avons", "le", "litige", "à", "l'"], "answer": "nous avons réglé le litige à l'amiable", "english": "We settled the dispute amicably." }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "b1_u28_l03_qz01", "type": "multipleChoice", "prompt": "Que signifie « porter plainte » ?", "options": ["to file a complaint", "to pay a fine", "to sign a contract", "to renew a lease"], "answer": "to file a complaint" },
+            { "id": "b1_u28_l03_qz02", "type": "fillBlank", "prompt": "Il faut que vous ___ ce problème rapidement. (résoudre)", "answer": "résolviez" },
+            { "id": "b1_u28_l03_qz03", "type": "trueFalse", "prompt": "Une 'mise en demeure' est une simple carte de vœux.", "options": ["True", "False"], "answer": "False" },
+            { "id": "b1_u28_l03_qz04", "type": "translate", "prompt": "Translate: 'The parcel arrived damaged.'", "english": "The parcel arrived damaged.", "answer": "Le colis est arrivé endommagé.", "acceptedAnswers": ["Le colis est arrivé endommagé", "le colis est arrive endommage"] },
+            { "id": "b1_u28_l03_qz05", "type": "multipleChoice", "prompt": "Quelle formule ouvre poliment une réclamation écrite ?", "options": ["Je souhaiterais...", "Salut !", "À plus tard", "Coucou"], "answer": "Je souhaiterais..." }
+          ]
+        }
+      ]
+    }
+  ]
+}

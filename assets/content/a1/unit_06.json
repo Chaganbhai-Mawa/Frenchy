@@ -1,0 +1,876 @@
+{
+  "id": "a1_u06",
+  "level": "A1",
+  "unit": 6,
+  "title": "Food & Drinks",
+  "subtitle": "Talk about food you love and order like a local",
+  "icon": "🥐",
+  "lessons": [
+    {
+      "id": "a1_u06_l01",
+      "level": "A1",
+      "unit": 6,
+      "title": "Au petit-déjeuner",
+      "description": "Name French breakfast foods and say what you eat and drink.",
+      "estimatedMinutes": 13,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "A French breakfast",
+              "body": "The French breakfast — le petit-déjeuner — is usually simple and sweet: bread or a croissant, butter, jam, and a hot drink. To say what you eat and drink, use \"je mange\" (I eat) and \"je bois\" (I drink).",
+              "examples": [
+                { "french": "Je mange du pain avec du beurre.", "english": "I eat bread with butter." },
+                { "french": "Je bois du thé.", "english": "I drink tea." },
+                { "french": "Il mange un croissant.", "english": "He eats a croissant." },
+                { "french": "Elle boit du jus d'orange.", "english": "She drinks some orange juice." },
+                { "french": "Je mange une tartine avec du miel.", "english": "I eat a slice of bread with honey." }
+              ],
+              "tip": "Many French people dip their croissant or tartine straight into their coffee — it's completely normal!"
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "petit-dejeuner", "french": "le petit-déjeuner", "english": "breakfast", "partOfSpeech": "noun", "gender": "m", "pronunciation": "puh-TEE day-zhuh-NAY", "example": "Le petit-déjeuner est à huit heures.", "exampleEnglish": "Breakfast is at eight o'clock.", "level": "A1", "category": "food" },
+            { "id": "pain", "french": "le pain", "english": "bread", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh PAHN", "example": "Je mange du pain.", "exampleEnglish": "I eat some bread.", "level": "A1", "category": "food" },
+            { "id": "croissant", "french": "le croissant", "english": "croissant", "partOfSpeech": "noun", "gender": "m", "pronunciation": "krwah-SAHN", "example": "Un croissant, s'il vous plaît.", "exampleEnglish": "A croissant, please.", "level": "A1", "category": "food" },
+            { "id": "beurre", "french": "le beurre", "english": "butter", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh BUHR", "example": "Du pain avec du beurre.", "exampleEnglish": "Bread with butter.", "level": "A1", "category": "food" },
+            { "id": "confiture", "french": "la confiture", "english": "jam", "partOfSpeech": "noun", "gender": "f", "pronunciation": "kohn-fee-TOOR", "example": "J'adore la confiture de fraises.", "exampleEnglish": "I love strawberry jam.", "level": "A1", "category": "food" },
+            { "id": "lait", "french": "le lait", "english": "milk", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh LEH", "example": "Elle boit du lait.", "exampleEnglish": "She drinks some milk.", "level": "A1", "category": "food" },
+            { "id": "jus-d-orange", "french": "le jus d'orange", "english": "orange juice", "partOfSpeech": "noun", "gender": "m", "pronunciation": "zhoo doh-RAHNZH", "example": "Il boit du jus d'orange.", "exampleEnglish": "He drinks some orange juice.", "level": "A1", "category": "food" },
+            { "id": "the", "french": "le thé", "english": "tea", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh TAY", "example": "Je bois du thé au lait.", "exampleEnglish": "I drink tea with milk.", "level": "A1", "category": "food" },
+            { "id": "manger", "french": "manger", "english": "to eat", "partOfSpeech": "verb", "pronunciation": "mahn-ZHAY", "example": "Je mange un croissant.", "exampleEnglish": "I eat a croissant.", "level": "A1", "category": "food" },
+            { "id": "boire", "french": "boire", "english": "to drink", "partOfSpeech": "verb", "pronunciation": "BWAHR", "example": "Tu bois du café ?", "exampleEnglish": "Do you drink coffee?", "level": "A1", "category": "food" },
+            { "id": "tartine", "french": "une tartine", "english": "a slice of bread (with butter or jam)", "partOfSpeech": "noun", "gender": "f", "pronunciation": "oon tar-TEEN", "example": "Je mange une tartine avec du miel.", "exampleEnglish": "I eat a slice of bread with honey.", "level": "A1", "category": "food" },
+            { "id": "cereales", "french": "les céréales", "english": "cereal", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lay say-ray-AHL", "example": "Elle mange des céréales le matin.", "exampleEnglish": "She eats cereal in the morning.", "level": "A1", "category": "food" },
+            { "id": "oeuf", "french": "un œuf", "english": "an egg", "partOfSpeech": "noun", "gender": "m", "pronunciation": "uhn UHF", "example": "Il mange un œuf au petit-déjeuner.", "exampleEnglish": "He eats an egg at breakfast.", "level": "A1", "category": "food" },
+            { "id": "sucre", "french": "le sucre", "english": "sugar", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh SOO-kruh", "example": "Tu prends du sucre dans ton café ?", "exampleEnglish": "Do you take sugar in your coffee?", "level": "A1", "category": "food" },
+            { "id": "yaourt", "french": "un yaourt", "english": "a yogurt", "partOfSpeech": "noun", "gender": "m", "pronunciation": "uhn yah-OORT", "example": "Je mange un yaourt à la fraise.", "exampleEnglish": "I eat a strawberry yogurt.", "level": "A1", "category": "food" },
+            { "id": "miel", "french": "le miel", "english": "honey", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh MYEL", "example": "J'aime le miel sur mes tartines.", "exampleEnglish": "I like honey on my bread.", "level": "A1", "category": "food" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Le, un... or du?",
+              "body": "French has three kinds of articles. \"Le / la / les\" point to something specific or general (the). \"Un / une / des\" count things you can count (a, some). For things you don't count — like bread, milk or jam — French uses the partitive: \"du\" (masculine), \"de la\" (feminine), \"de l'\" before a vowel.",
+              "examples": [
+                { "french": "Je mange un croissant.", "english": "I eat a croissant.", "note": "countable → un" },
+                { "french": "Je mange du pain.", "english": "I eat some bread.", "note": "du + masculine" },
+                { "french": "Je mange de la confiture.", "english": "I eat some jam.", "note": "de la + feminine" },
+                { "french": "Je bois de l'eau.", "english": "I drink some water.", "note": "de l' + vowel" },
+                { "french": "Elle mange des céréales.", "english": "She eats some cereal.", "note": "des + plural" },
+                { "french": "Il mange un œuf.", "english": "He eats an egg.", "note": "countable → un" }
+              ],
+              "tip": "English can drop \"some\" (I eat bread), but French cannot drop the article: Je mange du pain."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a1_u06_l01_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What does it mean?",
+              "french": "Je mange du pain avec du beurre.",
+              "options": ["I eat bread with butter.", "I eat bread with jam.", "I drink milk.", "I eat a croissant."],
+              "answer": "I eat bread with butter."
+            },
+            {
+              "id": "a1_u06_l01_li02",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Je mange un croissant.",
+              "answer": "Je mange un croissant.",
+              "acceptedAnswers": ["je mange un croissant"]
+            },
+            {
+              "id": "a1_u06_l01_li03",
+              "type": "listenChoose",
+              "prompt": "Listen. What does she drink at breakfast?",
+              "french": "Elle boit du thé au petit-déjeuner.",
+              "options": ["Tea", "Coffee", "Milk", "Orange juice"],
+              "answer": "Tea"
+            },
+            {
+              "id": "a1_u06_l01_li04",
+              "type": "dictation",
+              "prompt": "Dictation: write the sentence you hear.",
+              "french": "Il y a de la confiture.",
+              "answer": "Il y a de la confiture.",
+              "acceptedAnswers": ["il y a de la confiture"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a1_u06_l01_sp01",
+              "type": "speak",
+              "prompt": "Say that you eat some bread.",
+              "french": "Je mange du pain",
+              "english": "I eat some bread",
+              "tip": "\"Pain\" is nasal: pahn — don't pronounce the final n fully."
+            },
+            {
+              "id": "a1_u06_l01_sp02",
+              "type": "speak",
+              "prompt": "Say \"butter and jam\".",
+              "french": "Du beurre et de la confiture",
+              "english": "Some butter and some jam",
+              "tip": "\"Beurre\" rhymes with \"sir\" said the French way: buhr."
+            },
+            {
+              "id": "a1_u06_l01_sp03",
+              "type": "speak",
+              "prompt": "Say that you drink tea with milk.",
+              "french": "Je bois du thé au lait",
+              "english": "I drink tea with milk",
+              "tip": "\"Bois\" sounds like \"bwah\" — the s is silent."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Le petit-déjeuner de Camille",
+              "french": "Le matin, Camille mange du pain avec du beurre et de la confiture.\nElle boit du thé au lait.\nSon frère Hugo mange un croissant et il boit du jus d'orange.\nIl adore les croissants !",
+              "english": "In the morning, Camille eats bread with butter and jam.\nShe drinks tea with milk.\nHer brother Hugo eats a croissant and drinks orange juice.\nHe loves croissants!",
+              "questions": [
+                {
+                  "id": "a1_u06_l01_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "What does Camille drink?",
+                  "options": ["Tea with milk", "Orange juice", "Black coffee", "Water"],
+                  "answer": "Tea with milk"
+                },
+                {
+                  "id": "a1_u06_l01_rd02",
+                  "type": "trueFalse",
+                  "prompt": "Hugo eats bread with jam.",
+                  "options": ["True", "False"],
+                  "answer": "False",
+                  "tip": "Hugo eats a croissant."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a1_u06_l01_wr01",
+              "type": "translate",
+              "prompt": "Translate into French: \"I eat some bread.\"",
+              "english": "I eat some bread.",
+              "answer": "Je mange du pain.",
+              "acceptedAnswers": ["je mange du pain"]
+            },
+            {
+              "id": "a1_u06_l01_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "She drinks some milk.",
+              "words": ["boit", "lait", "Elle", "du"],
+              "answer": "Elle boit du lait"
+            },
+            {
+              "id": "a1_u06_l01_wr03",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Je mange ___ la confiture.\" (some jam)",
+              "answer": "de",
+              "hint": "La confiture is feminine: de la."
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a1_u06_l01_pr01",
+              "type": "multipleChoice",
+              "prompt": "Choose the correct article: \"Je bois ___ eau.\"",
+              "options": ["de l'", "du", "de la", "des"],
+              "answer": "de l'",
+              "tip": "Before a vowel, the partitive becomes \"de l'\"."
+            },
+            {
+              "id": "a1_u06_l01_pr02",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Elle mange ___ céréales.\" (some cereal)",
+              "answer": "des",
+              "hint": "Les céréales is plural."
+            },
+            {
+              "id": "a1_u06_l01_pr03",
+              "type": "translate",
+              "prompt": "Translate into French: \"I drink some milk.\"",
+              "english": "I drink some milk.",
+              "answer": "Je bois du lait.",
+              "acceptedAnswers": ["je bois du lait"]
+            },
+            {
+              "id": "a1_u06_l01_pr04",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "I eat bread with jam.",
+              "words": ["confiture", "du", "Je", "avec", "pain", "de", "mange", "la"],
+              "answer": "Je mange du pain avec de la confiture"
+            },
+            {
+              "id": "a1_u06_l01_pr05",
+              "type": "listenChoose",
+              "prompt": "Listen. What does it mean?",
+              "french": "Je mange un yaourt.",
+              "options": ["I eat a yogurt.", "I eat an egg.", "I drink some milk.", "I eat some honey."],
+              "answer": "I eat a yogurt."
+            },
+            {
+              "id": "a1_u06_l01_pr06",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "le sucre", "english": "sugar" },
+                { "french": "le miel", "english": "honey" },
+                { "french": "un œuf", "english": "an egg" },
+                { "french": "une tartine", "english": "a slice of bread" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a1_u06_l01_qz01",
+              "type": "multipleChoice",
+              "prompt": "\"Some bread\" in French is:",
+              "options": ["du pain", "de la pain", "des pain", "le pain"],
+              "answer": "du pain"
+            },
+            {
+              "id": "a1_u06_l01_qz02",
+              "type": "multipleChoice",
+              "prompt": "Choose the correct article: \"Je mange ___ confiture.\"",
+              "options": ["de la", "du", "des", "de l'"],
+              "answer": "de la"
+            },
+            {
+              "id": "a1_u06_l01_qz03",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "le pain", "english": "bread" },
+                { "french": "le lait", "english": "milk" },
+                { "french": "la confiture", "english": "jam" },
+                { "french": "le beurre", "english": "butter" }
+              ]
+            },
+            {
+              "id": "a1_u06_l01_qz04",
+              "type": "trueFalse",
+              "prompt": "\"Du\" is used before masculine nouns to say \"some\".",
+              "options": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "a1_u06_l01_qz05",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Il boit ___ jus d'orange.\"",
+              "answer": "du"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1_u06_l02",
+      "level": "A1",
+      "unit": 6,
+      "title": "J'aime le café",
+      "description": "Say what you like, love and hate — food edition.",
+      "estimatedMinutes": 12,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Like, love, hate",
+              "body": "Three key verbs for your tastes: \"aimer\" (to like / to love), \"adorer\" (to love, stronger) and \"détester\" (to hate). Before a vowel, je becomes j': j'aime, j'adore. You can soften or strengthen with \"beaucoup\" (a lot): j'aime beaucoup le thé.",
+              "examples": [
+                { "french": "J'aime le café.", "english": "I like coffee." },
+                { "french": "J'adore les croissants !", "english": "I love croissants!" },
+                { "french": "Je déteste le lait.", "english": "I hate milk." },
+                { "french": "Je préfère le thé.", "english": "I prefer tea." },
+                { "french": "J'aime beaucoup la glace.", "english": "I like ice cream a lot." }
+              ],
+              "tip": "\"J'aime\" — never \"je aime\". French drops the e of \"je\" before a vowel sound."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "aimer", "french": "aimer", "english": "to like / to love", "partOfSpeech": "verb", "pronunciation": "eh-MAY", "example": "J'aime le chocolat.", "exampleEnglish": "I like chocolate.", "level": "A1", "category": "food" },
+            { "id": "adorer", "french": "adorer", "english": "to love / to adore", "partOfSpeech": "verb", "pronunciation": "ah-doh-RAY", "example": "J'adore les croissants !", "exampleEnglish": "I love croissants!", "level": "A1", "category": "food" },
+            { "id": "detester", "french": "détester", "english": "to hate", "partOfSpeech": "verb", "pronunciation": "day-teh-STAY", "example": "Il déteste le fromage.", "exampleEnglish": "He hates cheese.", "level": "A1", "category": "food" },
+            { "id": "preferer", "french": "préférer", "english": "to prefer", "partOfSpeech": "verb", "pronunciation": "pray-fay-RAY", "example": "Je préfère le thé.", "exampleEnglish": "I prefer tea.", "level": "A1", "category": "food" },
+            { "id": "cafe", "french": "le café", "english": "coffee", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh kah-FAY", "example": "Tu aimes le café ?", "exampleEnglish": "Do you like coffee?", "level": "A1", "category": "food" },
+            { "id": "chocolat", "french": "le chocolat", "english": "chocolate", "partOfSpeech": "noun", "gender": "m", "pronunciation": "shoh-koh-LAH", "example": "J'adore le chocolat.", "exampleEnglish": "I love chocolate.", "level": "A1", "category": "food" },
+            { "id": "fromage", "french": "le fromage", "english": "cheese", "partOfSpeech": "noun", "gender": "m", "pronunciation": "froh-MAHZH", "example": "La France adore le fromage.", "exampleEnglish": "France loves cheese.", "level": "A1", "category": "food" },
+            { "id": "beaucoup", "french": "beaucoup", "english": "a lot / very much", "partOfSpeech": "adverb", "pronunciation": "boh-KOO", "example": "J'aime beaucoup le thé.", "exampleEnglish": "I like tea a lot.", "level": "A1", "category": "basics" },
+            { "id": "gateau", "french": "le gâteau", "english": "cake", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh gah-TOH", "example": "Nous adorons le gâteau au chocolat.", "exampleEnglish": "We love chocolate cake.", "level": "A1", "category": "food" },
+            { "id": "glace", "french": "la glace", "english": "ice cream", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah GLAHSS", "example": "Elle adore la glace à la vanille.", "exampleEnglish": "She loves vanilla ice cream.", "level": "A1", "category": "food" },
+            { "id": "poisson", "french": "le poisson", "english": "fish", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh pwah-SOHN", "example": "Je préfère le poisson.", "exampleEnglish": "I prefer fish.", "level": "A1", "category": "food" },
+            { "id": "viande", "french": "la viande", "english": "meat", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah VYAHND", "example": "Il ne mange pas de viande.", "exampleEnglish": "He doesn't eat meat.", "level": "A1", "category": "food" },
+            { "id": "salade", "french": "la salade", "english": "salad", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah sah-LAHD", "example": "J'aime la salade verte.", "exampleEnglish": "I like green salad.", "level": "A1", "category": "food" },
+            { "id": "epinards", "french": "les épinards", "english": "spinach", "partOfSpeech": "noun", "gender": "m", "pronunciation": "lay zay-pee-NAR", "example": "Ils détestent les épinards.", "exampleEnglish": "They hate spinach.", "level": "A1", "category": "food" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Aimer + le / la / les",
+              "body": "After verbs of liking — aimer, adorer, détester, préférer — French always uses the definite article le, la or les, even when speaking in general. English says \"I like coffee\", but French says \"J'aime LE café\", never \"j'aime du café\".",
+              "examples": [
+                { "french": "J'aime le café.", "english": "I like coffee." },
+                { "french": "Elle adore la confiture.", "english": "She loves jam." },
+                { "french": "Ils détestent les épinards.", "english": "They hate spinach." },
+                { "french": "Nous adorons le gâteau au chocolat.", "english": "We love chocolate cake." },
+                { "french": "Tu aimes la salade ?", "english": "Do you like salad?" }
+              ],
+              "tip": "Compare: \"Je bois du café\" (I drink some coffee — an amount) but \"J'aime le café\" (I like coffee — in general)."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a1_u06_l02_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What does it mean?",
+              "french": "J'adore le chocolat !",
+              "options": ["I love chocolate!", "I hate chocolate!", "I like coffee!", "I prefer chocolate!"],
+              "answer": "I love chocolate!"
+            },
+            {
+              "id": "a1_u06_l02_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. How does she feel about coffee?",
+              "french": "Elle déteste le café.",
+              "options": ["She hates it", "She loves it", "She likes it a lot", "She prefers it"],
+              "answer": "She hates it"
+            },
+            {
+              "id": "a1_u06_l02_li03",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "J'aime le fromage.",
+              "answer": "J'aime le fromage.",
+              "acceptedAnswers": ["j'aime le fromage", "jaime le fromage"]
+            },
+            {
+              "id": "a1_u06_l02_li04",
+              "type": "dictation",
+              "prompt": "Dictation: write the sentence you hear.",
+              "french": "Il aime beaucoup le thé.",
+              "answer": "Il aime beaucoup le thé.",
+              "acceptedAnswers": ["il aime beaucoup le the"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a1_u06_l02_sp01",
+              "type": "speak",
+              "prompt": "Say that you like coffee.",
+              "french": "J'aime le café",
+              "english": "I like coffee",
+              "tip": "\"J'aime\" is one smooth sound: zhem."
+            },
+            {
+              "id": "a1_u06_l02_sp02",
+              "type": "speak",
+              "prompt": "Say that you love croissants.",
+              "french": "J'adore les croissants",
+              "english": "I love croissants",
+              "tip": "Link \"les\" to nothing here — \"croissants\" starts with a consonant: lay krwah-SAHN."
+            },
+            {
+              "id": "a1_u06_l02_sp03",
+              "type": "speak",
+              "prompt": "Say that you hate cheese.",
+              "french": "Je déteste le fromage",
+              "english": "I hate cheese",
+              "tip": "Both é sounds are like \"ay\": day-TEST."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Les goûts de la famille",
+              "french": "Dans ma famille, nous aimons le petit-déjeuner !\nMon père adore le café noir.\nMa mère préfère le thé.\nMoi, j'aime le chocolat chaud et les croissants.\nMais je déteste le lait !",
+              "english": "In my family, we love breakfast!\nMy father loves black coffee.\nMy mother prefers tea.\nMe, I like hot chocolate and croissants.\nBut I hate milk!",
+              "questions": [
+                {
+                  "id": "a1_u06_l02_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "What does the father love?",
+                  "options": ["Black coffee", "Tea", "Hot chocolate", "Milk"],
+                  "answer": "Black coffee"
+                },
+                {
+                  "id": "a1_u06_l02_rd02",
+                  "type": "trueFalse",
+                  "prompt": "The narrator hates milk.",
+                  "options": ["True", "False"],
+                  "answer": "True"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a1_u06_l02_wr01",
+              "type": "translate",
+              "prompt": "Translate into French: \"I like coffee.\"",
+              "english": "I like coffee.",
+              "answer": "J'aime le café.",
+              "acceptedAnswers": ["j'aime le cafe", "jaime le cafe"]
+            },
+            {
+              "id": "a1_u06_l02_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "She loves croissants.",
+              "words": ["les", "adore", "croissants", "Elle"],
+              "answer": "Elle adore les croissants"
+            },
+            {
+              "id": "a1_u06_l02_wr03",
+              "type": "fillBlank",
+              "prompt": "Complete: \"J'aime ___ chocolat.\"",
+              "answer": "le",
+              "hint": "After \"aimer\", use the definite article."
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a1_u06_l02_pr01",
+              "type": "multipleChoice",
+              "prompt": "Choose the correct sentence.",
+              "options": ["Elle adore la glace.", "Elle adore de la glace.", "Elle adore glace.", "Elle adorer la glace."],
+              "answer": "Elle adore la glace.",
+              "tip": "After \"adorer\", use le, la or les."
+            },
+            {
+              "id": "a1_u06_l02_pr02",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Je déteste ___ épinards.\"",
+              "answer": "les",
+              "hint": "Les épinards is plural — use the definite article."
+            },
+            {
+              "id": "a1_u06_l02_pr03",
+              "type": "translate",
+              "prompt": "Translate into French: \"He loves chocolate.\"",
+              "english": "He loves chocolate.",
+              "answer": "Il adore le chocolat.",
+              "acceptedAnswers": ["il adore le chocolat"]
+            },
+            {
+              "id": "a1_u06_l02_pr04",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "I prefer fish.",
+              "words": ["poisson", "Je", "le", "préfère"],
+              "answer": "Je préfère le poisson"
+            },
+            {
+              "id": "a1_u06_l02_pr05",
+              "type": "listenChoose",
+              "prompt": "Listen. What does it mean?",
+              "french": "Nous aimons la viande.",
+              "options": ["We like meat.", "We hate meat.", "We like fish.", "We prefer salad."],
+              "answer": "We like meat."
+            },
+            {
+              "id": "a1_u06_l02_pr06",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "le gâteau", "english": "cake" },
+                { "french": "la glace", "english": "ice cream" },
+                { "french": "le poisson", "english": "fish" },
+                { "french": "la viande", "english": "meat" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a1_u06_l02_qz01",
+              "type": "multipleChoice",
+              "prompt": "Which sentence is correct?",
+              "options": ["J'aime le café.", "J'aime du café.", "Je aime le café.", "J'aime café."],
+              "answer": "J'aime le café."
+            },
+            {
+              "id": "a1_u06_l02_qz02",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "aimer", "english": "to like" },
+                { "french": "adorer", "english": "to love" },
+                { "french": "détester", "english": "to hate" },
+                { "french": "préférer", "english": "to prefer" }
+              ]
+            },
+            {
+              "id": "a1_u06_l02_qz03",
+              "type": "trueFalse",
+              "prompt": "After \"aimer\", French uses le, la or les — not du or de la.",
+              "options": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "a1_u06_l02_qz04",
+              "type": "multipleChoice",
+              "prompt": "How do you say \"I hate cheese\"?",
+              "options": ["Je déteste le fromage.", "Je détester le fromage.", "Je déteste du fromage.", "J'adore le fromage."],
+              "answer": "Je déteste le fromage."
+            },
+            {
+              "id": "a1_u06_l02_qz05",
+              "type": "fillBlank",
+              "prompt": "Complete with the correct form of \"aimer\": \"Tu ___ le thé ?\"",
+              "answer": "aimes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1_u06_l03",
+      "level": "A1",
+      "unit": 6,
+      "title": "Au café",
+      "description": "Order drinks and food politely and ask for the bill.",
+      "estimatedMinutes": 12,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Ordering politely",
+              "body": "The magic phrase for ordering is \"je voudrais\" (I would like) — much more polite than \"je veux\" (I want). Always add \"s'il vous plaît\". The waiter may ask \"Vous désirez ?\" (What would you like?).",
+              "examples": [
+                { "french": "Je voudrais un café, s'il vous plaît.", "english": "I would like a coffee, please." },
+                { "french": "Vous désirez ?", "english": "What would you like?", "note": "the waiter's question" },
+                { "french": "Une carafe d'eau, s'il vous plaît.", "english": "A jug of water, please." },
+                { "french": "Je voudrais un sandwich au fromage, s'il vous plaît.", "english": "I would like a cheese sandwich, please." },
+                { "french": "Et une limonade pour madame.", "english": "And a lemonade for the lady." }
+              ],
+              "tip": "In a café, \"un café\" means an espresso. If you want milk in it, ask for \"un café crème\"."
+            },
+            {
+              "heading": "Paying",
+              "body": "When you want to pay, ask for \"l'addition\" (the bill). The waiter tells you the total with \"Ça fait...\" (That comes to...).",
+              "examples": [
+                { "french": "L'addition, s'il vous plaît !", "english": "The bill, please!" },
+                { "french": "Ça fait sept euros.", "english": "That's seven euros." },
+                { "french": "Ça fait combien ?", "english": "How much is it?" },
+                { "french": "Il laisse un pourboire à la serveuse.", "english": "He leaves a tip for the waitress." }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "je-voudrais", "french": "je voudrais", "english": "I would like", "partOfSpeech": "expression", "pronunciation": "zhuh voo-DREH", "example": "Je voudrais un thé, s'il vous plaît.", "exampleEnglish": "I would like a tea, please.", "level": "A1", "category": "food" },
+            { "id": "boisson", "french": "une boisson", "english": "a drink", "partOfSpeech": "noun", "gender": "f", "pronunciation": "oon bwah-SOHN", "example": "Une boisson chaude ou froide ?", "exampleEnglish": "A hot or cold drink?", "level": "A1", "category": "food" },
+            { "id": "eau", "french": "l'eau", "english": "water", "partOfSpeech": "noun", "gender": "f", "pronunciation": "LOH", "example": "Un verre d'eau, s'il vous plaît.", "exampleEnglish": "A glass of water, please.", "level": "A1", "category": "food" },
+            { "id": "chocolat-chaud", "french": "un chocolat chaud", "english": "a hot chocolate", "partOfSpeech": "noun", "gender": "m", "pronunciation": "shoh-koh-LAH SHOH", "example": "Je voudrais un chocolat chaud.", "exampleEnglish": "I would like a hot chocolate.", "level": "A1", "category": "food" },
+            { "id": "addition", "french": "l'addition", "english": "the bill", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah-dee-SYOHN", "example": "L'addition, s'il vous plaît !", "exampleEnglish": "The bill, please!", "level": "A1", "category": "food" },
+            { "id": "serveur", "french": "le serveur", "english": "the waiter", "partOfSpeech": "noun", "gender": "m", "pronunciation": "sehr-VUHR", "example": "Le serveur arrive.", "exampleEnglish": "The waiter is coming.", "level": "A1", "category": "food" },
+            { "id": "carte", "french": "la carte", "english": "the menu", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah KART", "example": "La carte, s'il vous plaît.", "exampleEnglish": "The menu, please.", "level": "A1", "category": "food" },
+            { "id": "commander", "french": "commander", "english": "to order", "partOfSpeech": "verb", "pronunciation": "koh-mahn-DAY", "example": "Vous voulez commander ?", "exampleEnglish": "Would you like to order?", "level": "A1", "category": "food" },
+            { "id": "verre", "french": "un verre", "english": "a glass", "partOfSpeech": "noun", "gender": "m", "pronunciation": "uhn VEHR", "example": "Un verre d'eau, s'il vous plaît.", "exampleEnglish": "A glass of water, please.", "level": "A1", "category": "food" },
+            { "id": "tasse", "french": "une tasse", "english": "a cup", "partOfSpeech": "noun", "gender": "f", "pronunciation": "oon TAHSS", "example": "Une tasse de thé, s'il vous plaît.", "exampleEnglish": "A cup of tea, please.", "level": "A1", "category": "food" },
+            { "id": "sandwich", "french": "un sandwich", "english": "a sandwich", "partOfSpeech": "noun", "gender": "m", "pronunciation": "uhn sahnd-WEECH", "example": "Je voudrais un sandwich au fromage.", "exampleEnglish": "I would like a cheese sandwich.", "level": "A1", "category": "food" },
+            { "id": "limonade", "french": "une limonade", "english": "a lemonade", "partOfSpeech": "noun", "gender": "f", "pronunciation": "oon lee-moh-NAHD", "example": "Elle commande une limonade.", "exampleEnglish": "She orders a lemonade.", "level": "A1", "category": "food" },
+            { "id": "serveuse", "french": "la serveuse", "english": "the waitress", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah sehr-VUHZ", "example": "La serveuse apporte la carte.", "exampleEnglish": "The waitress brings the menu.", "level": "A1", "category": "food" },
+            { "id": "pourboire", "french": "le pourboire", "english": "the tip", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh poor-BWAHR", "example": "Il laisse un pourboire.", "exampleEnglish": "He leaves a tip.", "level": "A1", "category": "food" }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a1_u06_l03_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What does it mean?",
+              "french": "Je voudrais un café, s'il vous plaît.",
+              "options": ["I would like a coffee, please.", "I would like a tea, please.", "The bill, please.", "The menu, please."],
+              "answer": "I would like a coffee, please."
+            },
+            {
+              "id": "a1_u06_l03_li02",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "L'addition, s'il vous plaît !",
+              "answer": "L'addition, s'il vous plaît !",
+              "acceptedAnswers": ["l'addition s'il vous plait", "laddition sil vous plait", "l addition s il vous plait"]
+            },
+            {
+              "id": "a1_u06_l03_li03",
+              "type": "listenChoose",
+              "prompt": "Listen. Who says this, and why?",
+              "french": "Vous désirez ?",
+              "options": ["The waiter, to take your order", "The customer, to pay", "The waiter, to say goodbye", "The customer, to say thank you"],
+              "answer": "The waiter, to take your order"
+            },
+            {
+              "id": "a1_u06_l03_li04",
+              "type": "dictation",
+              "prompt": "Dictation: write the sentence you hear.",
+              "french": "Je voudrais un chocolat chaud.",
+              "answer": "Je voudrais un chocolat chaud.",
+              "acceptedAnswers": ["je voudrais un chocolat chaud"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a1_u06_l03_sp01",
+              "type": "speak",
+              "prompt": "Order a coffee politely.",
+              "french": "Je voudrais un café, s'il vous plaît",
+              "english": "I would like a coffee, please",
+              "tip": "\"Voudrais\" is voo-DREH — the final s is silent."
+            },
+            {
+              "id": "a1_u06_l03_sp02",
+              "type": "speak",
+              "prompt": "Ask for the bill.",
+              "french": "L'addition, s'il vous plaît",
+              "english": "The bill, please",
+              "tip": "\"Addition\" ends in a nasal -sion: ah-dee-SYOHN."
+            },
+            {
+              "id": "a1_u06_l03_sp03",
+              "type": "speak",
+              "prompt": "Order a tea and a glass of water.",
+              "french": "Un thé et un verre d'eau, s'il vous plaît",
+              "english": "A tea and a glass of water, please",
+              "tip": "\"Verre d'eau\" flows together: vehr-DOH."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Au café de la gare",
+              "french": "— Bonjour, madame. Vous désirez ?\n— Bonjour ! Je voudrais un café et un croissant, s'il vous plaît.\n— Et pour monsieur ?\n— Un chocolat chaud, s'il vous plaît.\n— Très bien !\nPlus tard :\n— L'addition, s'il vous plaît !\n— Voilà. Ça fait sept euros.",
+              "english": "— Hello, ma'am. What would you like?\n— Hello! I would like a coffee and a croissant, please.\n— And for you, sir?\n— A hot chocolate, please.\n— Very good!\nLater:\n— The bill, please!\n— Here you are. That's seven euros.",
+              "questions": [
+                {
+                  "id": "a1_u06_l03_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "What does the woman order?",
+                  "options": ["A coffee and a croissant", "A hot chocolate", "A tea and a croissant", "A glass of water"],
+                  "answer": "A coffee and a croissant"
+                },
+                {
+                  "id": "a1_u06_l03_rd02",
+                  "type": "trueFalse",
+                  "prompt": "The bill is seven euros.",
+                  "options": ["True", "False"],
+                  "answer": "True"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a1_u06_l03_wr01",
+              "type": "translate",
+              "prompt": "Translate into French: \"I would like a coffee, please.\"",
+              "english": "I would like a coffee, please.",
+              "answer": "Je voudrais un café, s'il vous plaît.",
+              "acceptedAnswers": ["je voudrais un cafe s'il vous plait", "je voudrais un cafe sil vous plait"]
+            },
+            {
+              "id": "a1_u06_l03_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "The bill, please.",
+              "words": ["plaît", "L'addition,", "vous", "s'il"],
+              "answer": "L'addition, s'il vous plaît"
+            },
+            {
+              "id": "a1_u06_l03_wr03",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Je ___ un thé, s'il vous plaît.\"",
+              "answer": "voudrais"
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a1_u06_l03_pr01",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Ça ___ sept euros.\" (That's seven euros.)",
+              "answer": "fait"
+            },
+            {
+              "id": "a1_u06_l03_pr02",
+              "type": "multipleChoice",
+              "prompt": "Choose the correct word: \"Un verre ___ eau, s'il vous plaît.\"",
+              "options": ["d'", "de", "du", "des"],
+              "answer": "d'",
+              "tip": "De becomes d' before a vowel: un verre d'eau."
+            },
+            {
+              "id": "a1_u06_l03_pr03",
+              "type": "translate",
+              "prompt": "Translate into French: \"A cup of tea, please.\"",
+              "english": "A cup of tea, please.",
+              "answer": "Une tasse de thé, s'il vous plaît.",
+              "acceptedAnswers": ["une tasse de the s'il vous plait", "une tasse de the sil vous plait"]
+            },
+            {
+              "id": "a1_u06_l03_pr04",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "I would like a cheese sandwich.",
+              "words": ["fromage", "voudrais", "un", "Je", "au", "sandwich"],
+              "answer": "Je voudrais un sandwich au fromage"
+            },
+            {
+              "id": "a1_u06_l03_pr05",
+              "type": "listenChoose",
+              "prompt": "Listen. What does it mean?",
+              "french": "Ça fait combien ?",
+              "options": ["How much is it?", "What would you like?", "The bill, please.", "Here you are."],
+              "answer": "How much is it?"
+            },
+            {
+              "id": "a1_u06_l03_pr06",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "un verre", "english": "a glass" },
+                { "french": "une tasse", "english": "a cup" },
+                { "french": "la serveuse", "english": "the waitress" },
+                { "french": "le pourboire", "english": "the tip" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a1_u06_l03_qz01",
+              "type": "multipleChoice",
+              "prompt": "You want to order politely. What do you say?",
+              "options": ["Je voudrais un café, s'il vous plaît.", "Donne-moi un café !", "Le café !", "J'aime le café."],
+              "answer": "Je voudrais un café, s'il vous plaît."
+            },
+            {
+              "id": "a1_u06_l03_qz02",
+              "type": "multipleChoice",
+              "prompt": "How do you ask for the bill?",
+              "options": ["L'addition, s'il vous plaît.", "La carte, s'il vous plaît.", "Une boisson, s'il vous plaît.", "Vous désirez ?"],
+              "answer": "L'addition, s'il vous plaît."
+            },
+            {
+              "id": "a1_u06_l03_qz03",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "l'addition", "english": "the bill" },
+                { "french": "la carte", "english": "the menu" },
+                { "french": "une boisson", "english": "a drink" },
+                { "french": "l'eau", "english": "water" }
+              ]
+            },
+            {
+              "id": "a1_u06_l03_qz04",
+              "type": "trueFalse",
+              "prompt": "\"Je voudrais\" is more polite than \"je veux\".",
+              "options": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "a1_u06_l03_qz05",
+              "type": "translate",
+              "prompt": "Translate into French: \"A hot chocolate, please.\"",
+              "english": "A hot chocolate, please.",
+              "answer": "Un chocolat chaud, s'il vous plaît.",
+              "acceptedAnswers": ["un chocolat chaud s'il vous plait", "un chocolat chaud sil vous plait"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

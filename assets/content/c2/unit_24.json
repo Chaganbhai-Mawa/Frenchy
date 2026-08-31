@@ -1,0 +1,589 @@
+{
+  "id": "c2_u24",
+  "level": "C2",
+  "unit": 24,
+  "title": "Science Communication",
+  "subtitle": "Argue a controversy, explain uncertainty, and weigh the ethics of popularising science",
+  "icon": "🔭",
+  "lessons": [
+    {
+      "id": "c2_u24_l01",
+      "level": "C2",
+      "unit": 24,
+      "title": "La controverse scientifique",
+      "description": "How a genuine scientific controversy differs from manufactured doubt, the rhetorical moves used on both sides, and how consensus is distinguished from a false balance between positions.",
+      "estimatedMinutes": 19,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Anatomie d'une controverse scientifique",
+              "body": "A scientific controversy, properly speaking, opposes claims that remain falsifiable: rival teams can point to the experiment, the data set, or the observation that would settle the matter. This distinguishes it sharply from a purely political quarrel, even when the two get tangled together in public debate — a distinction worth naming explicitly before any discussion of who is right.",
+              "examples": [
+                { "french": "Une controverse scientifique porte sur des énoncés réfutables, pas sur de simples opinions.", "english": "A scientific controversy concerns falsifiable claims, not mere opinions." },
+                { "french": "Les deux équipes s'accordent au moins sur ce qui, en théorie, trancherait le débat.", "english": "The two teams agree at least on what would, in theory, settle the debate." },
+                { "french": "Une controverse politisée emprunte le vocabulaire de la science sans en respecter la méthode.", "english": "A politicised controversy borrows science's vocabulary without respecting its method." },
+                { "french": "Il faut distinguer le désaccord entre chercheurs et le doute entretenu depuis l'extérieur.", "english": "One must distinguish disagreement among researchers from doubt maintained from outside." },
+                { "french": "La controverse s'éteint quand une expérience décisive vient trancher, pas quand l'opinion se lasse.", "english": "The controversy dies out when a decisive experiment settles it, not when public opinion grows tired of it." }
+              ],
+              "tip": "Ask what single piece of evidence would resolve the dispute — if no answer exists, you are likely outside genuine scientific controversy."
+            },
+            {
+              "heading": "Le doute organisé et les stratégies rhétoriques",
+              "body": "Certain actors do not seek to win a scientific argument but to prolong it indefinitely, a strategy historians of science call manufactured doubt: cherry-picking a single outlier study, demanding an impossible standard of proof, or presenting a fringe view as an equal 'other side' of a settled matter. Recognising the pattern matters more than refuting any single claim it produces.",
+              "examples": [
+                { "french": "Le doute organisé ne cherche pas à convaincre, seulement à retarder toute conclusion.", "english": "Manufactured doubt does not seek to persuade, only to delay any conclusion." },
+                { "french": "Isoler une étude marginale et la présenter comme représentative est un procédé classique.", "english": "Isolating one fringe study and presenting it as representative is a classic tactic." },
+                { "french": "Exiger une certitude absolue avant d'agir revient souvent à exiger l'impossible.", "english": "Demanding absolute certainty before acting often amounts to demanding the impossible." },
+                { "french": "Le faux équilibre journalistique donne autant de temps de parole à une position marginale qu'au consensus.", "english": "False journalistic balance gives a fringe position as much airtime as the consensus." },
+                { "french": "Semer le doute coûte moins cher que produire la preuve du contraire.", "english": "Sowing doubt costs less than producing proof of the contrary." }
+              ],
+              "tip": "When a debate never seems to conclude despite decades of evidence, suspect manufactured doubt rather than genuine scientific disagreement."
+            },
+            {
+              "heading": "Trancher : consensus, minorité légitime et marge",
+              "body": "A scientific consensus is not unanimity but the settled convergence of independent lines of evidence, strong enough that a reasonable minority position still deserves a hearing while a truly marginal one does not deserve equal platforming. Learning to sort a legitimate minority view — one still testing its claims against evidence — from an entrenched fringe one is itself an advanced communication skill.",
+              "examples": [
+                { "french": "Le consensus scientifique n'exige pas l'unanimité, seulement une convergence solide.", "english": "Scientific consensus does not require unanimity, only a solid convergence." },
+                { "french": "Une position minoritaire légitime continue de produire des données ; une position marginale s'en dispense.", "english": "A legitimate minority position keeps producing data; a fringe one dispenses with that." },
+                { "french": "Donner le même poids aux deux camps n'est pas de la neutralité, c'est une distorsion.", "english": "Giving both sides equal weight is not neutrality, it is a distortion." },
+                { "french": "La communauté scientifique se rallie rarement d'un coup ; elle se rallie par paliers successifs.", "english": "The scientific community rarely rallies all at once; it rallies in successive stages." },
+                { "french": "Savoir quand une controverse est close relève autant du jugement que de la lecture des données.", "english": "Knowing when a controversy is closed is as much a matter of judgment as of reading the data." }
+              ],
+              "tip": "Ask three questions of any 'other side': does it publish testable data, does it revise its claims under new evidence, and does it engage the strongest counter-argument?"
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "la-controverse", "french": "la controverse", "english": "the controversy", "partOfSpeech": "noun", "gender": "f", "plural": "les controverses", "pronunciation": "lah kon-tro-VAIRSS", "example": "La controverse ne portait plus sur les données, mais sur leur interprétation.", "exampleEnglish": "The controversy no longer concerned the data, but their interpretation.", "level": "C2", "category": "science-controversy" },
+            { "id": "le-debat-scientifique", "french": "le débat scientifique", "english": "the scientific debate", "partOfSpeech": "noun", "gender": "m", "plural": "les débats scientifiques", "pronunciation": "luh day-bah syahn-tee-FEEK", "example": "Le débat scientifique s'est vite transformé en débat médiatique.", "exampleEnglish": "The scientific debate quickly turned into a media debate.", "level": "C2", "category": "science-controversy" },
+            { "id": "la-polemique", "french": "la polémique", "english": "the row, the public controversy", "partOfSpeech": "noun", "gender": "f", "plural": "les polémiques", "pronunciation": "lah po-lay-MEEK", "example": "La polémique a éclipsé les résultats mêmes de l'étude.", "exampleEnglish": "The row eclipsed the study's own findings.", "level": "C2", "category": "science-controversy" },
+            { "id": "le-consensus", "french": "le consensus", "english": "the consensus", "partOfSpeech": "noun", "gender": "m", "plural": "les consensus", "pronunciation": "luh kohn-sahn-SEWSS", "example": "Le consensus s'est formé progressivement, au fil de dizaines d'études indépendantes.", "exampleEnglish": "The consensus formed gradually, over dozens of independent studies.", "level": "C2", "category": "science-controversy" },
+            { "id": "la-communaute-scientifique", "french": "la communauté scientifique", "english": "the scientific community", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah koh-mu-noh-TAY syahn-tee-FEEK", "example": "La communauté scientifique ne parle jamais tout à fait d'une seule voix.", "exampleEnglish": "The scientific community never quite speaks with a single voice.", "level": "C2", "category": "science-controversy" },
+            { "id": "l-hypothese", "french": "l'hypothèse", "english": "the hypothesis", "partOfSpeech": "noun", "gender": "f", "plural": "les hypothèses", "pronunciation": "lee-po-TEZ", "example": "L'hypothèse rivale n'a résisté à aucune des trois répliques de l'expérience.", "exampleEnglish": "The rival hypothesis survived none of the three replications of the experiment.", "level": "C2", "category": "science-controversy" },
+            { "id": "la-preuve", "french": "la preuve", "english": "the proof, the evidence", "partOfSpeech": "noun", "gender": "f", "plural": "les preuves", "pronunciation": "lah PRUHV", "example": "Aucune preuve nouvelle n'est venue soutenir la thèse minoritaire depuis dix ans.", "exampleEnglish": "No new evidence has come to support the minority position in ten years.", "level": "C2", "category": "science-controversy" },
+            { "id": "le-fait", "french": "le fait", "english": "the fact", "partOfSpeech": "noun", "gender": "m", "plural": "les faits", "pronunciation": "luh FEH", "example": "Les faits sont stables ; c'est leur portée politique qui divise.", "exampleEnglish": "The facts are stable; it is their political import that divides people.", "level": "C2", "category": "science-controversy" },
+            { "id": "la-theorie", "french": "la théorie", "english": "the theory", "partOfSpeech": "noun", "gender": "f", "plural": "les théories", "pronunciation": "lah tay-oh-REE", "example": "Traiter une théorie de « simple théorie » trahit une confusion sur le mot lui-même.", "exampleEnglish": "Dismissing a theory as \"just a theory\" betrays a confusion about the word itself.", "level": "C2", "category": "science-controversy" },
+            { "id": "le-postulat", "french": "le postulat", "english": "the postulate, the founding assumption", "partOfSpeech": "noun", "gender": "m", "plural": "les postulats", "pronunciation": "luh poh-stu-LAH", "example": "Le postulat de départ n'est presque jamais discuté publiquement.", "exampleEnglish": "The starting postulate is almost never discussed in public.", "level": "C2", "category": "science-controversy" },
+            { "id": "le-biais", "french": "le biais", "english": "the bias", "partOfSpeech": "noun", "gender": "m", "plural": "les biais", "pronunciation": "luh BYEH", "example": "Un biais de financement ne se voit jamais dans les résultats bruts.", "exampleEnglish": "A funding bias never shows up in the raw results.", "level": "C2", "category": "science-controversy" },
+            { "id": "refuter", "french": "réfuter", "english": "to refute", "partOfSpeech": "verb", "pronunciation": "ray-fuu-TAY", "example": "Réfuter une théorie exige plus qu'un contre-exemple isolé.", "exampleEnglish": "Refuting a theory requires more than a single isolated counter-example.", "level": "C2", "category": "science-controversy" },
+            { "id": "contester", "french": "contester", "english": "to contest, to dispute", "partOfSpeech": "verb", "pronunciation": "kohn-tes-TAY", "example": "Contester une méthode n'équivaut pas à contester tous ses résultats.", "exampleEnglish": "Disputing a method is not the same as disputing all its results.", "level": "C2", "category": "science-controversy" },
+            { "id": "remettre-en-question", "french": "remettre en question", "english": "to call into question", "partOfSpeech": "expression", "pronunciation": "ruh-METR ahn kess-TYOHN", "example": "Une seule anomalie ne suffit pas à remettre en question tout un modèle.", "exampleEnglish": "A single anomaly is not enough to call an entire model into question.", "level": "C2", "category": "science-controversy" },
+            { "id": "dementir", "french": "démentir", "english": "to deny, to refute", "partOfSpeech": "verb", "pronunciation": "day-mahn-TEER", "example": "L'institut a démenti l'étude dès sa publication, sans attendre la réplication.", "exampleEnglish": "The institute denied the study as soon as it was published, without waiting for replication.", "level": "C2", "category": "science-controversy" },
+            { "id": "corroborer", "french": "corroborer", "english": "to corroborate", "partOfSpeech": "verb", "pronunciation": "ko-ro-bo-RAY", "example": "Trois équipes indépendantes ont corroboré le résultat initial.", "exampleEnglish": "Three independent teams corroborated the initial result.", "level": "C2", "category": "science-controversy" },
+            { "id": "invalider", "french": "invalider", "english": "to invalidate", "partOfSpeech": "verb", "pronunciation": "an-vah-lee-DAY", "example": "Un protocole mal contrôlé suffit à invalider une conclusion spectaculaire.", "exampleEnglish": "A poorly controlled protocol is enough to invalidate a spectacular conclusion.", "level": "C2", "category": "science-controversy" },
+            { "id": "la-contre-expertise", "french": "la contre-expertise", "english": "the counter-assessment, the second opinion", "partOfSpeech": "noun", "gender": "f", "plural": "les contre-expertises", "pronunciation": "lah kohn-truh-ex-per-TEEZ", "example": "Une contre-expertise indépendante a été demandée avant toute décision.", "exampleEnglish": "An independent counter-assessment was requested before any decision.", "level": "C2", "category": "science-controversy" },
+            { "id": "l-expert", "french": "l'expert", "english": "the expert", "partOfSpeech": "noun", "gender": "m", "plural": "les experts", "pronunciation": "lex-PAIR", "example": "L'expert consulté ne représente pas forcément l'ensemble du champ.", "exampleEnglish": "The expert consulted does not necessarily represent the whole field.", "level": "C2", "category": "science-controversy" },
+            { "id": "trancher", "french": "trancher", "english": "to settle, to decide (a question)", "partOfSpeech": "verb", "pronunciation": "trahn-SHAY", "example": "Seule une nouvelle série d'expériences pourra trancher le débat.", "exampleEnglish": "Only a new round of experiments can settle the debate.", "level": "C2", "category": "science-controversy" },
+            { "id": "le-camp", "french": "le camp", "english": "the side, the camp (in a dispute)", "partOfSpeech": "noun", "gender": "m", "plural": "les camps", "pronunciation": "luh KAHN", "example": "Les deux camps s'accusent mutuellement de mauvaise foi.", "exampleEnglish": "Both camps accuse each other of bad faith.", "level": "C2", "category": "science-controversy" },
+            { "id": "le-clivage", "french": "le clivage", "english": "the divide, the split", "partOfSpeech": "noun", "gender": "m", "plural": "les clivages", "pronunciation": "luh klee-VAHZH", "example": "Le clivage recoupe rarement les frontières disciplinaires elles-mêmes.", "exampleEnglish": "The divide rarely maps onto disciplinary boundaries themselves.", "level": "C2", "category": "science-controversy" },
+            { "id": "s-affronter", "french": "s'affronter", "english": "to clash, to confront each other", "partOfSpeech": "verb", "pronunciation": "sah-frohn-TAY", "example": "Les deux chercheurs se sont affrontés publiquement lors du colloque.", "exampleEnglish": "The two researchers clashed publicly at the conference.", "level": "C2", "category": "science-controversy" },
+            { "id": "houleux", "french": "houleux", "english": "stormy, heated (of a debate)", "partOfSpeech": "adjective", "pronunciation": "oo-LUH", "example": "L'échange est resté houleux jusqu'à la fin de la séance.", "exampleEnglish": "The exchange remained heated until the end of the session.", "level": "C2", "category": "science-controversy" },
+            { "id": "la-partie-prenante", "french": "la partie prenante", "english": "the stakeholder", "partOfSpeech": "noun", "gender": "f", "plural": "les parties prenantes", "pronunciation": "lah par-TEE pruh-NAHNT", "example": "Chaque partie prenante défend un intérêt qu'elle ne nomme pas toujours.", "exampleEnglish": "Each stakeholder defends an interest it does not always name outright.", "level": "C2", "category": "science-controversy" },
+            { "id": "divergent", "french": "divergent", "english": "divergent, conflicting", "partOfSpeech": "adjective", "pronunciation": "dee-vair-ZHAHN", "example": "Les deux modèles produisent des projections divergentes au-delà de dix ans.", "exampleEnglish": "The two models produce divergent projections beyond ten years.", "level": "C2", "category": "science-controversy" },
+            { "id": "le-point-de-discorde", "french": "le point de discorde", "english": "the point of contention", "partOfSpeech": "noun", "gender": "m", "plural": "les points de discorde", "pronunciation": "luh pwan duh dee-SKORD", "example": "Le vrai point de discorde n'est jamais formulé en public.", "exampleEnglish": "The real point of contention is never stated in public.", "level": "C2", "category": "science-controversy" },
+            { "id": "l-orthodoxie", "french": "l'orthodoxie", "english": "the orthodoxy", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lor-toh-dok-SEE", "example": "L'orthodoxie du champ n'a pas toujours raison, mais elle a l'avantage de la preuve.", "exampleEnglish": "The orthodoxy of the field is not always right, but it has evidence on its side.", "level": "C2", "category": "science-controversy" },
+            { "id": "l-heterodoxie", "french": "l'hétérodoxie", "english": "the heterodoxy, the dissenting view", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lay-tay-ro-dok-SEE", "example": "Une hétérodoxie féconde se distingue d'un simple entêtement.", "exampleEnglish": "A fruitful heterodoxy is distinct from mere stubbornness.", "level": "C2", "category": "science-controversy" },
+            { "id": "marginal", "french": "marginal", "english": "fringe, marginal", "partOfSpeech": "adjective", "pronunciation": "mar-zhee-NAHL", "example": "Une position marginale mérite d'être entendue, pas nécessairement d'être crue.", "exampleEnglish": "A fringe position deserves to be heard, not necessarily to be believed.", "level": "C2", "category": "science-controversy" },
+            { "id": "dominant", "french": "dominant", "english": "dominant, prevailing", "partOfSpeech": "adjective", "pronunciation": "doh-mee-NAHN", "example": "Le modèle dominant intègre désormais les objections qui l'avaient d'abord contesté.", "exampleEnglish": "The dominant model now incorporates the objections that first challenged it.", "level": "C2", "category": "science-controversy" },
+            { "id": "la-mauvaise-foi", "french": "la mauvaise foi", "english": "bad faith, arguing dishonestly", "partOfSpeech": "expression", "pronunciation": "lah moh-VEZ FWAH", "example": "Accuser l'autre camp de mauvaise foi dispense trop souvent de lui répondre.", "exampleEnglish": "Accusing the other camp of bad faith too often excuses not answering it.", "level": "C2", "category": "science-controversy" },
+            { "id": "le-conflit-d-interets", "french": "le conflit d'intérêts", "english": "the conflict of interest", "partOfSpeech": "noun", "gender": "m", "plural": "les conflits d'intérêts", "pronunciation": "luh kon-flee dan-tay-REH", "example": "Le conflit d'intérêts n'invalide pas une étude, mais il oblige à la déclarer.", "exampleEnglish": "A conflict of interest does not invalidate a study, but it must be disclosed.", "level": "C2", "category": "science-controversy" },
+            { "id": "le-negationnisme", "french": "le négationnisme", "english": "denialism", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh nay-gah-syo-NEEZM", "example": "Le négationnisme rejette la preuve, il ne la discute pas.", "exampleEnglish": "Denialism rejects the evidence, it does not discuss it.", "level": "C2", "category": "science-controversy" },
+            { "id": "le-climatoscepticisme", "french": "le climatoscepticisme", "english": "climate change skepticism", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh klee-mah-toh-sep-tee-SEEZM", "example": "Le climatoscepticisme s'est déplacé du déni des faits vers le déni des solutions.", "exampleEnglish": "Climate skepticism has shifted from denying the facts to denying the solutions.", "level": "C2", "category": "science-controversy" },
+            { "id": "le-complotisme", "french": "le complotisme", "english": "conspiracy-mongering", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh kon-ploh-TEEZM", "example": "Le complotisme prospère précisément là où l'explication officielle reste floue.", "exampleEnglish": "Conspiracy-mongering thrives precisely where the official explanation stays vague.", "level": "C2", "category": "science-controversy" },
+            { "id": "la-theorie-du-complot", "french": "la théorie du complot", "english": "the conspiracy theory", "partOfSpeech": "noun", "gender": "f", "plural": "les théories du complot", "pronunciation": "lah tay-o-ree dü kom-ploh", "example": "Une théorie du complot n'admet, par construction, aucune preuve contraire.", "exampleEnglish": "A conspiracy theory admits, by design, no evidence to the contrary.", "level": "C2", "category": "science-controversy" },
+            { "id": "l-infox", "french": "l'infox", "english": "fake news (official French term)", "partOfSpeech": "noun", "gender": "f", "plural": "les infox", "pronunciation": "lan-FOKS", "example": "Une infox scientifique se propage souvent plus vite que son démenti.", "exampleEnglish": "A piece of scientific fake news often spreads faster than its rebuttal.", "level": "C2", "category": "science-controversy" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Le subjonctif du doute et de la contestation",
+              "body": "Verbs and expressions of doubt, denial, or dispute — douter que, contester que, il n'est pas certain que, il n'est pas prouvé que — take the subjunctive because they present the following clause as unverified rather than established. The same verb flips to the indicative once it is negated or turned into a question expressing confidence, since the speaker then treats the fact as settled.",
+              "examples": [
+                { "french": "Les chercheurs doutent que ce seul essai suffise à trancher la question.", "english": "The researchers doubt that this single trial is enough to settle the question." },
+                { "french": "Personne ne conteste sérieusement que le phénomène existe.", "english": "No one seriously disputes that the phenomenon exists.", "note": "'conteste' here is affirmative and near-certain, so it takes the indicative" },
+                { "french": "Il n'est pas prouvé que ce facteur soit la cause principale.", "english": "It has not been proven that this factor is the main cause." },
+                { "french": "Je ne doute pas que les données soient exactes ; je doute de leur interprétation.", "english": "I don't doubt that the data are accurate; I doubt their interpretation.", "note": "negated 'douter' can still keep the subjunctive when nuance is wanted" },
+                { "french": "Est-il certain que ce lien de causalité soit établi ?", "english": "Is it certain that this causal link is established?" }
+              ],
+              "tip": "Treat 'contester que' and 'douter que' as automatically subjunctive-triggering, then check whether negation or a rhetorical question has flipped the speaker's stance toward certainty."
+            },
+            {
+              "heading": "Les tournures concessives avancées : quand bien même, si tant est que",
+              "body": "Beyond 'bien que' and 'quoique', C2 argument favours sharper concessive tools: 'quand bien même' plus the conditional grants a hypothesis fully before dismissing its force, and 'si tant est que' plus the subjunctive concedes a claim while visibly questioning whether it even holds. Both let a speaker appear generous to the opposing view while still winning the point.",
+              "examples": [
+                { "french": "Quand bien même cette étude serait confirmée, elle ne suffirait pas à elle seule.", "english": "Even if this study were confirmed, it would not be enough on its own." },
+                { "french": "Si tant est que le lien existe, son ampleur reste à mesurer.", "english": "Assuming the link even exists, its scale still remains to be measured.", "note": "'si tant est que' itself already casts doubt on the premise" },
+                { "french": "Quand bien même on lui accorderait ce point, la conclusion générale ne changerait pas.", "english": "Even granting him that point, the general conclusion would not change." },
+                { "french": "Ce résultat, si tant est qu'il soit reproductible, ne concerne qu'un cas très particulier.", "english": "This result, assuming it is even reproducible, concerns only a very particular case." },
+                { "french": "Il concède le point, quand bien même il continue de rejeter la conclusion.", "english": "He concedes the point, even while continuing to reject the conclusion." }
+              ],
+              "tip": "Reach for 'si tant est que' when you want to concede a claim while signalling, in the same breath, that you are not sure it is even true."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "c2_u24_l01_li01", "type": "listenChoose", "prompt": "Listen. Which term is being described?", "french": "Cette stratégie ne vise pas à convaincre, seulement à retarder toute conclusion.", "options": ["Le doute organisé", "Le consensus", "La contre-expertise", "L'hypothèse"], "answer": "Le doute organisé" },
+            { "id": "c2_u24_l01_li02", "type": "listenChoose", "prompt": "Listen. Which term is being described?", "french": "Rejeter la preuve sans même la discuter.", "options": ["Le négationnisme", "L'orthodoxie", "La partie prenante", "Le clivage"], "answer": "Le négationnisme" },
+            { "id": "c2_u24_l01_li03", "type": "listenType", "prompt": "Listen and type this sentence exactly.", "french": "Le consensus s'est formé progressivement, au fil de dizaines d'études indépendantes.", "answer": "Le consensus s'est formé progressivement, au fil de dizaines d'études indépendantes.", "acceptedAnswers": ["le consensus s'est forme progressivement au fil de dizaines d'etudes independantes", "le consensus s est forme progressivement au fil de dizaines d etudes independantes"] },
+            { "id": "c2_u24_l01_li04", "type": "dictation", "prompt": "Dictation: write down this sentence exactly.", "french": "Donner le même poids aux deux camps n'est pas de la neutralité, c'est une distorsion.", "answer": "Donner le même poids aux deux camps n'est pas de la neutralité, c'est une distorsion.", "acceptedAnswers": ["donner le meme poids aux deux camps n'est pas de la neutralite c'est une distorsion", "donner le meme poids aux deux camps n est pas de la neutralite c est une distorsion"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "c2_u24_l01_sp01", "type": "speak", "prompt": "Deliver this line as if closing a panel discussion on a contested topic.", "french": "Savoir quand une controverse est close relève autant du jugement que de la lecture des données.", "english": "Knowing when a controversy is closed is as much a matter of judgment as of reading the data.", "tip": "Slow down on 'autant... que' — the balance between the two nouns is the whole point." },
+            { "id": "c2_u24_l01_sp02", "type": "speak", "prompt": "Say this line as though gently correcting a journalist's false balance on air.", "french": "Le faux équilibre journalistique donne autant de temps de parole à une position marginale qu'au consensus.", "english": "False journalistic balance gives a fringe position as much airtime as the consensus.", "tip": "Keep the tone measured, not indignant — the critique should sound like expertise, not anger." },
+            { "id": "c2_u24_l01_sp03", "type": "speak", "prompt": "Recite this concessive sentence with a clear pause before the second clause.", "french": "Quand bien même cette étude serait confirmée, elle ne suffirait pas à elle seule.", "english": "Even if this study were confirmed, it would not be enough on its own.", "tip": "The pause after 'confirmée' lets the concession land before you take it back." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Une controverse qui n'en est plus une",
+              "french": "Pendant près de vingt ans, la question a divisé la communauté scientifique : une minorité de chercheurs contestait l'ampleur du phénomène, quand bien même l'essentiel du champ s'accordait déjà sur ses grandes lignes. Les médias, soucieux d'équilibre, ont longtemps donné à cette minorité un temps de parole disproportionné à son poids réel dans la littérature spécialisée. Or le désaccord ne portait, à y regarder de près, ni sur les mêmes données ni sur la même méthode : les études isolées invoquées par les sceptiques n'avaient, pour la plupart, jamais été reproduites. Ce n'est pas la preuve qui manquait au consensus ; c'est la volonté politique de le reconnaître qui faisait défaut. Aujourd'hui, la controverse elle-même appartient à l'histoire des sciences davantage qu'à la science en cours : elle illustre comment le doute, savamment entretenu, peut retarder une décision de plusieurs décennies sans jamais apporter la preuve du contraire. Les climatosceptiques d'hier ont, pour beaucoup, changé de terrain : ils ne nient plus le fait, ils en contestent désormais les solutions.",
+              "english": "For nearly twenty years, the question divided the scientific community: a minority of researchers disputed the scale of the phenomenon, even though most of the field already agreed on its broad outlines. Media outlets, anxious to appear balanced, long gave that minority airtime disproportionate to its real weight in the specialist literature. Yet on closer inspection, the disagreement concerned neither the same data nor the same method: the isolated studies invoked by the skeptics had, for the most part, never been replicated. It was not proof the consensus lacked; it was the political will to acknowledge it. Today the controversy itself belongs more to the history of science than to science in progress: it shows how doubt, skilfully sustained, can delay a decision for decades without ever producing proof of the contrary. Yesterday's climate skeptics have, for the most part, shifted ground: they no longer deny the fact, they now dispute the solutions.",
+              "questions": [
+                { "id": "c2_u24_l01_rd01", "type": "multipleChoice", "prompt": "According to the passage, what did the disagreement actually concern once examined closely?", "options": ["Not the same data or method as the consensus relied on", "An identical data set interpreted the same way", "A dispute entirely internal to peer review", "A disagreement the whole field shared equally"], "answer": "Not the same data or method as the consensus relied on" },
+                { "id": "c2_u24_l01_rd02", "type": "multipleChoice", "prompt": "What does the author say was missing, rather than proof?", "options": ["The political will to acknowledge the consensus", "A single decisive experiment", "Funding for further replication", "International cooperation between labs"], "answer": "The political will to acknowledge the consensus" },
+                { "id": "c2_u24_l01_rd03", "type": "trueFalse", "prompt": "The passage claims that many former climate skeptics have shifted from denying the fact to disputing the solutions.", "options": ["True", "False"], "answer": "True" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "c2_u24_l01_wr01", "type": "translate", "prompt": "Translate into French.", "english": "Giving both sides equal weight is not neutrality, it is a distortion.", "answer": "Donner le même poids aux deux camps n'est pas de la neutralité, c'est une distorsion.", "acceptedAnswers": ["donner le meme poids aux deux camps n'est pas de la neutralite c'est une distorsion", "donner le meme poids aux deux camps n est pas de la neutralite c est une distorsion"] },
+            { "id": "c2_u24_l01_wr02", "type": "arrangeWords", "prompt": "Rebuild this sentence about manufactured doubt.", "words": ["ne", "organisé", "convaincre", "cherche", "pas", "à", "Le", "doute"], "answer": "Le doute organisé ne cherche pas à convaincre", "english": "Manufactured doubt does not seek to persuade." },
+            { "id": "c2_u24_l01_wr03", "type": "fillBlank", "prompt": "Une position ___ mérite d'être entendue, pas nécessairement d'être crue.", "answer": "marginale", "tip": "Feminine form of the adjective describing a fringe position, agreeing with 'position'." }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "c2_u24_l01_pr01", "type": "multipleChoice", "prompt": "Quelle expression désigne le fait de présenter une position marginale comme un équivalent du consensus ?", "options": ["Le faux équilibre", "La contre-expertise", "La théorie du complot", "L'orthodoxie"], "answer": "Le faux équilibre" },
+            { "id": "c2_u24_l01_pr02", "type": "match", "prompt": "Match each term with its meaning.", "pairs": [ { "french": "le négationnisme", "english": "rejecting evidence outright, without discussion" }, { "french": "la partie prenante", "english": "a stakeholder with a declared or hidden interest" }, { "french": "corroborer", "english": "to independently confirm a result" }, { "french": "houleux", "english": "stormy, heated, said of a debate" } ] },
+            { "id": "c2_u24_l01_pr03", "type": "fillBlank", "prompt": "Le doute organisé ne cherche pas à convaincre, seulement à ___ toute conclusion.", "answer": "retarder" },
+            { "id": "c2_u24_l01_pr04", "type": "trueFalse", "prompt": "Une controverse scientifique authentique porte, par définition, sur des énoncés irréfutables.", "options": ["True", "False"], "answer": "False" },
+            { "id": "c2_u24_l01_pr05", "type": "translate", "prompt": "Translate: A legitimate minority position keeps producing data.", "english": "A legitimate minority position keeps producing data.", "answer": "Une position minoritaire légitime continue de produire des données.", "acceptedAnswers": ["une position minoritaire legitime continue de produire des donnees"] },
+            { "id": "c2_u24_l01_pr06", "type": "multipleChoice", "prompt": "Quelle tournure permet de concéder une prémisse tout en signalant qu'elle reste douteuse ?", "options": ["Si tant est que", "Bien que", "Alors que", "Depuis que"], "answer": "Si tant est que" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "c2_u24_l01_qz01", "type": "multipleChoice", "prompt": "Qu'est-ce qui distingue une controverse scientifique authentique d'un désaccord purement politique ?", "options": ["Elle porte sur des énoncés réfutables par l'expérience", "Elle se règle toujours par un vote", "Elle n'implique jamais d'experts", "Elle ne concerne que l'opinion publique"], "answer": "Elle porte sur des énoncés réfutables par l'expérience" },
+            { "id": "c2_u24_l01_qz02", "type": "fillBlank", "prompt": "Le ___ scientifique n'exige pas l'unanimité, seulement une convergence solide.", "answer": "consensus" },
+            { "id": "c2_u24_l01_qz03", "type": "multipleChoice", "prompt": "What is 'manufactured doubt' primarily designed to do?", "options": ["Delay a conclusion rather than genuinely refute it", "Prove a rival hypothesis correct", "Fund new independent research", "Standardise experimental methods"], "answer": "Delay a conclusion rather than genuinely refute it" },
+            { "id": "c2_u24_l01_qz04", "type": "trueFalse", "prompt": "'Contester que' est toujours suivi de l'indicatif, jamais du subjonctif.", "options": ["True", "False"], "answer": "False", "tip": "Affirmative 'contester que' normally takes the subjunctive; only a strongly negated or near-certain use shifts it toward the indicative." },
+            { "id": "c2_u24_l01_qz05", "type": "multipleChoice", "prompt": "Quel terme désigne une personne ou un groupe ayant un intérêt déclaré ou non dans l'issue d'un débat ?", "options": ["La partie prenante", "L'orthodoxie", "Le clivage", "La preuve"], "answer": "La partie prenante" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c2_u24_l02",
+      "level": "C2",
+      "unit": 24,
+      "title": "Expliquer l'incertitude",
+      "description": "The vocabulary of degrees of certainty, how to communicate a margin of error or a confidence interval to a lay audience, and the trap of mistaking correlation for causation.",
+      "estimatedMinutes": 19,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Nommer précisément les degrés de certitude",
+              "body": "French offers a graduated scale between 'c'est certain' and 'c'est impossible' — il est probable que, il se peut que, il n'est pas exclu que, tout porte à croire que — and a skilled science communicator picks the exact rung rather than defaulting to a flat yes or no. Collapsing that scale into a binary claim is itself a common source of public misunderstanding about what scientists actually said.",
+              "examples": [
+                { "french": "Il est hautement probable que ce traitement réduise le risque, sans l'annuler.", "english": "It is highly probable that this treatment reduces the risk, without eliminating it." },
+                { "french": "Il n'est pas exclu qu'un facteur encore inconnu explique une partie de l'écart.", "english": "It cannot be ruled out that some still-unknown factor explains part of the gap." },
+                { "french": "Tout porte à croire que la tendance se confirmera, sans que cela soit garanti.", "english": "Everything suggests the trend will be confirmed, without that being guaranteed." },
+                { "french": "Dire « c'est prouvé » ou « ce n'est pas prouvé » aplatit presque toujours une réalité graduée.", "english": "Saying \"it's proven\" or \"it isn't proven\" almost always flattens a graduated reality." },
+                { "french": "Le degré de certitude affiché doit refléter la force réelle des données, ni plus ni moins.", "english": "The degree of certainty stated must reflect the actual strength of the data, no more and no less." }
+              ],
+              "tip": "Before publishing a claim, ask which of the five or six French hedging phrases actually matches the evidence — then resist the pressure to round it up to full certainty."
+            },
+            {
+              "heading": "Rendre une marge d'erreur lisible pour le grand public",
+              "body": "A margin of error or confidence interval means little as a bare number; it needs translating into a concrete range and, ideally, a plain comparison the reader can picture. Explaining that a result 'could plausibly be anywhere between X and Y' respects the science far more than quoting a single misleadingly precise figure.",
+              "examples": [
+                { "french": "La marge d'erreur signifie que le chiffre réel se situe probablement entre 2 et 5 %, pas exactement à 3,4 %.", "english": "The margin of error means the real figure probably lies between 2 and 5%, not exactly at 3.4%." },
+                { "french": "Un échantillon plus large réduit la marge d'erreur, mais ne l'élimine jamais.", "english": "A larger sample reduces the margin of error, but never eliminates it." },
+                { "french": "Présenter un seul chiffre sans sa fourchette donne une fausse impression de précision.", "english": "Presenting a single figure without its range gives a false impression of precision." },
+                { "french": "L'intervalle de confiance répond à la question : dans quelle mesure peut-on faire confiance à ce chiffre ?", "english": "The confidence interval answers the question: how much can this figure be trusted?" },
+                { "french": "Un échantillon non représentatif fausse le résultat, quelle que soit sa taille.", "english": "An unrepresentative sample skews the result, whatever its size." }
+              ],
+              "tip": "Translate any margin of error into a concrete range in the very same sentence as the headline figure — never let the two travel separately."
+            },
+            {
+              "heading": "Corrélation, causalité et le piège de l'extrapolation",
+              "body": "The single most common error in science communication is silently sliding from 'these two things move together' to 'one causes the other', when a genuine causal claim needs a mechanism, a controlled comparison, or both. A second, related trap is extrapolating a small or preliminary result — a promising cell study, a short pilot — into a sweeping claim the data cannot yet support.",
+              "examples": [
+                { "french": "Une corrélation, aussi forte soit-elle, ne prouve jamais à elle seule un lien de causalité.", "english": "A correlation, however strong, never proves a causal link on its own." },
+                { "french": "Extrapoler un résultat préliminaire à l'ensemble de la population est un raccourci risqué.", "english": "Extrapolating a preliminary result to the whole population is a risky shortcut." },
+                { "french": "Confondre corrélation et causalité reste l'erreur la plus fréquente dans la vulgarisation.", "english": "Confusing correlation with causation remains the most common error in popularisation." },
+                { "french": "Une étude menée sur des souris ne se transpose pas directement à l'être humain.", "english": "A study conducted on mice does not translate directly to humans." },
+                { "french": "Le titre promettait un remède ; l'étude, elle, ne portait que sur douze patients.", "english": "The headline promised a cure; the study itself covered only twelve patients." }
+              ],
+              "tip": "Whenever a headline claims X causes Y, look for the word 'mechanism' in the study — its absence is a strong signal that only a correlation was actually shown."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "l-incertitude", "french": "l'incertitude", "english": "the uncertainty", "partOfSpeech": "noun", "gender": "f", "plural": "les incertitudes", "pronunciation": "lan-sair-tee-TUD", "example": "Nommer l'incertitude clairement vaut mieux qu'une fausse assurance.", "exampleEnglish": "Naming the uncertainty clearly is better than false assurance.", "level": "C2", "category": "scientific-uncertainty" },
+            { "id": "le-doute", "french": "le doute", "english": "the doubt", "partOfSpeech": "noun", "gender": "m", "plural": "les doutes", "pronunciation": "luh DOOT", "example": "Un doute raisonnable subsiste sur l'ampleur exacte de l'effet.", "exampleEnglish": "A reasonable doubt remains about the exact scale of the effect.", "level": "C2", "category": "scientific-uncertainty" },
+            { "id": "la-probabilite", "french": "la probabilité", "english": "the probability", "partOfSpeech": "noun", "gender": "f", "plural": "les probabilités", "pronunciation": "lah pro-bah-bee-lee-TAY", "example": "La probabilité augmente avec l'âge, sans jamais devenir une certitude.", "exampleEnglish": "The probability rises with age, without ever becoming a certainty.", "level": "C2", "category": "scientific-uncertainty" },
+            { "id": "le-degre-de-certitude", "french": "le degré de certitude", "english": "the degree of certainty", "partOfSpeech": "noun", "gender": "m", "plural": "les degrés de certitude", "pronunciation": "luh duh-GRAY duh sair-tee-TUD", "example": "Le degré de certitude affiché doit correspondre à la force réelle des données.", "exampleEnglish": "The degree of certainty stated must match the actual strength of the data.", "level": "C2", "category": "scientific-uncertainty" },
+            { "id": "l-intervalle-de-confiance", "french": "l'intervalle de confiance", "english": "the confidence interval", "partOfSpeech": "noun", "gender": "m", "plural": "les intervalles de confiance", "pronunciation": "lan-tair-vahl duh kon-fee-AHNSS", "example": "L'intervalle de confiance indique la fourchette la plus probable, pas un chiffre unique.", "exampleEnglish": "The confidence interval indicates the most likely range, not a single figure.", "level": "C2", "category": "scientific-uncertainty" },
+            { "id": "la-marge-d-erreur", "french": "la marge d'erreur", "english": "the margin of error", "partOfSpeech": "noun", "gender": "f", "plural": "les marges d'erreur", "pronunciation": "lah marzh dair-RUR", "example": "La marge d'erreur n'est pas un aveu de faiblesse, c'est un gage de rigueur.", "exampleEnglish": "The margin of error is not an admission of weakness, it is a mark of rigour.", "level": "C2", "category": "scientific-uncertainty" },
+            { "id": "l-alea", "french": "l'aléa", "english": "the random factor, the element of chance", "partOfSpeech": "noun", "gender": "m", "plural": "les aléas", "pronunciation": "lah-lay-AH", "example": "Une part d'aléa subsiste dans tout résultat expérimental.", "exampleEnglish": "An element of chance remains present in every experimental result.", "level": "C2", "category": "scientific-uncertainty" },
+            { "id": "la-fourchette", "french": "la fourchette", "english": "the range, the bracket (of figures)", "partOfSpeech": "noun", "gender": "f", "plural": "les fourchettes", "pronunciation": "lah foor-SHET", "example": "Mieux vaut annoncer une fourchette large qu'un chiffre faussement précis.", "exampleEnglish": "Better to announce a wide range than a falsely precise figure.", "level": "C2", "category": "scientific-uncertainty" },
+            { "id": "l-echantillon", "french": "l'échantillon", "english": "the sample", "partOfSpeech": "noun", "gender": "m", "plural": "les échantillons", "pronunciation": "lay-shahn-tee-YON", "example": "L'échantillon reste trop petit pour généraliser le résultat.", "exampleEnglish": "The sample remains too small to generalise the result.", "level": "C2", "category": "scientific-uncertainty" },
+            { "id": "representatif", "french": "représentatif", "english": "representative", "partOfSpeech": "adjective", "pronunciation": "ruh-pray-zahn-tah-TEEF", "example": "Un panel représentatif reste indispensable avant toute conclusion générale.", "exampleEnglish": "A representative panel remains essential before any general conclusion.", "level": "C2", "category": "scientific-uncertainty" },
+            { "id": "fiable", "french": "fiable", "english": "reliable, trustworthy", "partOfSpeech": "adjective", "pronunciation": "fee-AH-bluh", "example": "Un résultat fiable n'est pas forcément un résultat spectaculaire.", "exampleEnglish": "A reliable result is not necessarily a spectacular one.", "level": "C2", "category": "scientific-uncertainty" },
+            { "id": "la-fiabilite", "french": "la fiabilité", "english": "the reliability", "partOfSpeech": "noun", "gender": "f", "plural": "les fiabilités", "pronunciation": "lah fyah-bee-lee-TAY", "example": "La fiabilité d'une mesure se juge sur sa reproductibilité, pas sur sa précision apparente.", "exampleEnglish": "The reliability of a measurement is judged by its reproducibility, not its apparent precision.", "level": "C2", "category": "scientific-uncertainty" },
+            { "id": "la-correlation", "french": "la corrélation", "english": "the correlation", "partOfSpeech": "noun", "gender": "f", "plural": "les corrélations", "pronunciation": "lah koh-ray-lah-SYON", "example": "La corrélation observée reste forte, mais elle ne dit rien du mécanisme.", "exampleEnglish": "The correlation observed remains strong, but it says nothing about the mechanism.", "level": "C2", "category": "scientific-uncertainty" },
+            { "id": "la-causalite", "french": "la causalité", "english": "the causality, the causation", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah koh-zah-lee-TAY", "example": "Établir la causalité demande un protocole que cette étude n'avait pas.", "exampleEnglish": "Establishing causation requires a protocol this study did not have.", "level": "C2", "category": "scientific-uncertainty" },
+            { "id": "extrapoler", "french": "extrapoler", "english": "to extrapolate", "partOfSpeech": "verb", "pronunciation": "ex-trah-po-LAY", "example": "Extrapoler un résultat préliminaire à toute la population est un raccourci risqué.", "exampleEnglish": "Extrapolating a preliminary result to the whole population is a risky shortcut.", "level": "C2", "category": "scientific-uncertainty" },
+            { "id": "le-scenario", "french": "le scénario", "english": "the scenario", "partOfSpeech": "noun", "gender": "m", "plural": "les scénarios", "pronunciation": "luh say-nah-RYOH", "example": "Chaque scénario est assorti d'une probabilité, jamais d'une certitude.", "exampleEnglish": "Every scenario comes with a probability attached, never a certainty.", "level": "C2", "category": "scientific-uncertainty" },
+            { "id": "plausible", "french": "plausible", "english": "plausible", "partOfSpeech": "adjective", "pronunciation": "ploh-ZEE-bluh", "example": "Ce scénario reste plausible, sans être pour autant le plus probable.", "exampleEnglish": "This scenario remains plausible, without being the most probable one.", "level": "C2", "category": "scientific-uncertainty" },
+            { "id": "vraisemblable", "french": "vraisemblable", "english": "likely, plausible", "partOfSpeech": "adjective", "pronunciation": "vreh-sahm-BLAH-bluh", "example": "L'hypothèse la plus vraisemblable n'est pas toujours la plus rassurante.", "exampleEnglish": "The most likely hypothesis is not always the most reassuring one.", "level": "C2", "category": "scientific-uncertainty" },
+            { "id": "improbable", "french": "improbable", "english": "unlikely, improbable", "partOfSpeech": "adjective", "pronunciation": "an-proh-BAH-bluh", "example": "Un tel scénario reste improbable, sans être totalement exclu.", "exampleEnglish": "Such a scenario remains unlikely, without being entirely ruled out.", "level": "C2", "category": "scientific-uncertainty" },
+            { "id": "quasi-certain", "french": "quasi certain", "english": "near-certain", "partOfSpeech": "adjective", "pronunciation": "kah-zee sair-TAN", "example": "Le lien est quasi certain, même si le mécanisme précis échappe encore.", "exampleEnglish": "The link is near-certain, even though the precise mechanism still eludes us.", "level": "C2", "category": "scientific-uncertainty" },
+            { "id": "nuancer", "french": "nuancer", "english": "to qualify, to add nuance to", "partOfSpeech": "verb", "pronunciation": "nu-ahn-SAY", "example": "Il faut nuancer ce chiffre : il ne concerne qu'un sous-groupe précis.", "exampleEnglish": "This figure needs qualifying: it concerns only one specific subgroup.", "level": "C2", "category": "scientific-uncertainty" },
+            { "id": "ponderer", "french": "pondérer", "english": "to weigh, to qualify (a statement)", "partOfSpeech": "verb", "pronunciation": "pon-day-RAY", "example": "Chaque affirmation doit être pondérée par son degré d'incertitude.", "exampleEnglish": "Every statement must be weighed against its degree of uncertainty.", "level": "C2", "category": "scientific-uncertainty" },
+            { "id": "relativiser", "french": "relativiser", "english": "to put into perspective", "partOfSpeech": "verb", "pronunciation": "ruh-lah-tee-vee-ZAY", "example": "Il convient de relativiser un résultat obtenu sur un échantillon si réduit.", "exampleEnglish": "A result obtained from such a small sample should be put into perspective.", "level": "C2", "category": "scientific-uncertainty" },
+            { "id": "le-risque", "french": "le risque", "english": "the risk", "partOfSpeech": "noun", "gender": "m", "plural": "les risques", "pronunciation": "luh REESK", "example": "Le risque relatif augmente, mais le risque absolu reste très faible.", "exampleEnglish": "The relative risk increases, but the absolute risk remains very low.", "level": "C2", "category": "scientific-uncertainty" },
+            { "id": "la-statistique", "french": "la statistique", "english": "the statistic", "partOfSpeech": "noun", "gender": "f", "plural": "les statistiques", "pronunciation": "stah-tee-STEEK", "example": "Une statistique isolée n'a de sens qu'avec son contexte et sa marge d'erreur.", "exampleEnglish": "An isolated statistic only makes sense with its context and margin of error.", "level": "C2", "category": "scientific-uncertainty" },
+            { "id": "le-taux", "french": "le taux", "english": "the rate", "partOfSpeech": "noun", "gender": "m", "plural": "les taux", "pronunciation": "luh TOH", "example": "Le taux annoncé masque d'importantes variations selon les régions.", "exampleEnglish": "The stated rate masks significant variation from one region to another.", "level": "C2", "category": "scientific-uncertainty" },
+            { "id": "prudent", "french": "prudent", "english": "cautious, careful (of wording)", "partOfSpeech": "adjective", "pronunciation": "prew-DAHN", "example": "Les auteurs restent prudents dans leurs conclusions.", "exampleEnglish": "The authors remain cautious in their conclusions.", "level": "C2", "category": "scientific-uncertainty" },
+            { "id": "la-prudence", "french": "la prudence", "english": "caution", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah prew-DAHNSS", "example": "La prudence des auteurs contraste avec le titre choisi par la rédaction.", "exampleEnglish": "The authors' caution contrasts with the headline chosen by the editors.", "level": "C2", "category": "scientific-uncertainty" },
+            { "id": "l-approximation", "french": "l'approximation", "english": "the approximation", "partOfSpeech": "noun", "gender": "f", "plural": "les approximations", "pronunciation": "lah-prok-see-mah-SYON", "example": "Toute mesure suppose une approximation ; le mentionner n'est pas un aveu de faiblesse.", "exampleEnglish": "Every measurement involves an approximation; saying so is not an admission of weakness.", "level": "C2", "category": "scientific-uncertainty" },
+            { "id": "approximatif", "french": "approximatif", "english": "approximate, rough", "partOfSpeech": "adjective", "pronunciation": "ah-prok-see-mah-TEEF", "example": "Le chiffre reste approximatif tant que l'étude complète n'est pas publiée.", "exampleEnglish": "The figure remains approximate until the full study is published.", "level": "C2", "category": "scientific-uncertainty" },
+            { "id": "le-chiffre", "french": "le chiffre", "english": "the figure, the number", "partOfSpeech": "noun", "gender": "m", "plural": "les chiffres", "pronunciation": "luh SHEE-fruh", "example": "Le chiffre cité sans sa fourchette a circulé bien plus vite que la nuance.", "exampleEnglish": "The figure quoted without its range spread far faster than the nuance did.", "level": "C2", "category": "scientific-uncertainty" },
+            { "id": "significatif", "french": "significatif", "english": "statistically significant", "partOfSpeech": "adjective", "pronunciation": "see-nyee-fee-kah-TEEF", "example": "L'écart observé n'est pas significatif au seuil habituel de 5 %.", "exampleEnglish": "The gap observed is not significant at the usual 5% threshold.", "level": "C2", "category": "scientific-uncertainty" },
+            { "id": "le-seuil", "french": "le seuil", "english": "the threshold", "partOfSpeech": "noun", "gender": "m", "plural": "les seuils", "pronunciation": "luh SUH-yuh", "example": "Le seuil de signification a été fixé avant même de recueillir les données.", "exampleEnglish": "The significance threshold was set before the data were even collected.", "level": "C2", "category": "scientific-uncertainty" },
+            { "id": "la-donnee", "french": "la donnée", "english": "the data point, the datum", "partOfSpeech": "noun", "gender": "f", "plural": "les données", "pronunciation": "lah do-NAY", "example": "Chaque donnée doit être resituée dans l'ensemble avant d'être commentée.", "exampleEnglish": "Every data point must be placed back in context before being commented on.", "level": "C2", "category": "scientific-uncertainty" },
+            { "id": "quantifier", "french": "quantifier", "english": "to quantify", "partOfSpeech": "verb", "pronunciation": "kahn-tee-fee-AY", "example": "Il est plus difficile de quantifier l'incertitude que de la nommer.", "exampleEnglish": "It is harder to quantify uncertainty than simply to name it.", "level": "C2", "category": "scientific-uncertainty" },
+            { "id": "estimer", "french": "estimer", "english": "to estimate", "partOfSpeech": "verb", "pronunciation": "es-tee-MAY", "example": "Les auteurs estiment l'effet entre 10 et 15 %, selon les scénarios.", "exampleEnglish": "The authors estimate the effect at between 10 and 15%, depending on the scenario.", "level": "C2", "category": "scientific-uncertainty" },
+            { "id": "l-estimation", "french": "l'estimation", "english": "the estimate, the estimation", "partOfSpeech": "noun", "gender": "f", "plural": "les estimations", "pronunciation": "les-tee-mah-SYON", "example": "L'estimation initiale a été revue à la baisse après contre-vérification.", "exampleEnglish": "The initial estimate was revised downward after a cross-check.", "level": "C2", "category": "scientific-uncertainty" },
+            { "id": "l-imprecision", "french": "l'imprécision", "english": "the imprecision", "partOfSpeech": "noun", "gender": "f", "plural": "les imprécisions", "pronunciation": "lan-pray-see-ZYON", "example": "Reconnaître l'imprécision d'une mesure est un signe de rigueur, non de faiblesse.", "exampleEnglish": "Acknowledging a measurement's imprecision is a sign of rigour, not weakness.", "level": "C2", "category": "scientific-uncertainty" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Le conditionnel journalistique et épistémique pour l'information non confirmée",
+              "body": "French press and science writing routinely uses the conditional not for hypotheticals but to flag a claim as reported rather than confirmed: 'le traitement réduirait le risque' signals that the reduction is what the study suggests, not an established fact the writer is personally vouching for. Dropping the conditional in favour of the indicative is exactly the move that turns a hedged finding into a false certainty.",
+              "examples": [
+                { "french": "Le nouveau traitement réduirait le risque de 30 %, selon une étude préliminaire.", "english": "The new treatment reportedly reduces the risk by 30%, according to a preliminary study.", "note": "conditional signals 'this is what is reported', not a confirmed fact" },
+                { "french": "Il y aurait un lien entre les deux phénomènes, sans que le mécanisme soit connu.", "english": "There is said to be a link between the two phenomena, without the mechanism being known." },
+                { "french": "Compare : le traitement réduit le risque de 30 % affirme un fait établi ; réduirait le signale comme provisoire.", "english": "Compare: 'the treatment reduces the risk by 30%' asserts an established fact; 'would reduce' flags it as provisional." },
+                { "french": "Ce facteur expliquerait une partie de l'écart observé entre les deux groupes.", "english": "This factor is thought to explain part of the gap observed between the two groups." },
+                { "french": "Les résultats seraient confirmés par une seconde équipe d'ici la fin de l'année.", "english": "The results are expected to be confirmed by a second team by the end of the year." }
+              ],
+              "tip": "When summarising a single, not-yet-replicated study, default to the conditional — switch to the indicative only once independent confirmation exists."
+            },
+            {
+              "heading": "Devoir et pouvoir au sens épistémique",
+              "body": "Beyond obligation and ability, 'devoir' and 'pouvoir' carry an epistemic sense that expresses the speaker's degree of confidence in an explanation: 'cela doit s'expliquer par' signals a near-certain inference, while 'cela pourrait s'expliquer par' signals a merely possible one. Learning to hear this second layer of meaning is essential to reading — and writing — cautious scientific prose correctly.",
+              "examples": [
+                { "french": "Cet écart doit s'expliquer par une différence de méthode plutôt que par l'effet lui-même.", "english": "This gap is most likely explained by a difference in method rather than by the effect itself.", "note": "epistemic 'devoir': a confident inference, not an obligation" },
+                { "french": "Le phénomène pourrait s'expliquer par plusieurs facteurs combinés.", "english": "The phenomenon could be explained by several combined factors.", "note": "epistemic 'pouvoir': a live possibility among others" },
+                { "french": "Il a dû se tromper de colonne en recopiant les chiffres.", "english": "He must have mixed up the columns when copying the figures.", "note": "'devoir' + infinitif passé for a confident inference about the past" },
+                { "french": "Cela ne peut pas s'expliquer par le seul hasard, vu la régularité de l'effet.", "english": "This cannot be explained by chance alone, given how regular the effect is." },
+                { "french": "Le résultat pourrait tout aussi bien s'inverser avec un échantillon plus large.", "english": "The result could just as easily reverse with a larger sample." }
+              ],
+              "tip": "Read 'devoir' as 'it is very likely that' and 'pouvoir' as 'it is possible that' whenever they attach to an explanation rather than to a person's duty or ability."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "c2_u24_l02_li01", "type": "listenChoose", "prompt": "Listen. Which term is being described?", "french": "La fourchette la plus probable dans laquelle se situe un résultat.", "options": ["L'intervalle de confiance", "Le seuil", "La causalité", "L'aléa"], "answer": "L'intervalle de confiance" },
+            { "id": "c2_u24_l02_li02", "type": "listenChoose", "prompt": "Listen. Which term is being described?", "french": "Généraliser un résultat préliminaire à toute une population.", "options": ["Extrapoler", "Pondérer", "Relativiser", "Quantifier"], "answer": "Extrapoler" },
+            { "id": "c2_u24_l02_li03", "type": "listenType", "prompt": "Listen and type this sentence exactly.", "french": "Une corrélation, aussi forte soit-elle, ne prouve jamais à elle seule un lien de causalité.", "answer": "Une corrélation, aussi forte soit-elle, ne prouve jamais à elle seule un lien de causalité.", "acceptedAnswers": ["une correlation aussi forte soit elle ne prouve jamais a elle seule un lien de causalite"] },
+            { "id": "c2_u24_l02_li04", "type": "dictation", "prompt": "Dictation: write down this sentence exactly.", "french": "Mieux vaut annoncer une fourchette large qu'un chiffre faussement précis.", "answer": "Mieux vaut annoncer une fourchette large qu'un chiffre faussement précis.", "acceptedAnswers": ["mieux vaut annoncer une fourchette large qu'un chiffre faussement precis", "mieux vaut annoncer une fourchette large qu un chiffre faussement precis"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "c2_u24_l02_sp01", "type": "speak", "prompt": "Deliver this line as though explaining a study's limits to a radio host.", "french": "Le degré de certitude affiché doit correspondre à la force réelle des données.", "english": "The degree of certainty stated must match the actual strength of the data.", "tip": "Give equal weight to both halves of the sentence — this is a balanced principle, not a complaint." },
+            { "id": "c2_u24_l02_sp02", "type": "speak", "prompt": "Say this line as if gently correcting a colleague's overconfident headline.", "french": "Confondre corrélation et causalité reste l'erreur la plus fréquente dans la vulgarisation.", "english": "Confusing correlation with causation remains the most common error in popularisation.", "tip": "Land softly on 'la plus fréquente' — this should sound like a shared professional caution, not an accusation." },
+            { "id": "c2_u24_l02_sp03", "type": "speak", "prompt": "Recite this hedged claim exactly as a science journalist would read it aloud.", "french": "Le nouveau traitement réduirait le risque de 30 %, selon une étude préliminaire.", "english": "The new treatment reportedly reduces the risk by 30%, according to a preliminary study.", "tip": "Stress the conditional ending '-rait' clearly — it is doing the work of the whole caveat." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Ce que le titre ne disait pas",
+              "french": "« Ce nouveau régime alimentaire réduirait de moitié le risque de la maladie », annonçait le titre, repris dans la journée par une dizaine de sites d'actualité. L'étude elle-même, publiée dans une revue spécialisée, portait sur quatre-vingts participants suivis pendant six semaines : un échantillon trop restreint pour permettre la moindre généralisation. Les auteurs, prudents, avaient pourtant pris soin de préciser leur fourchette d'incertitude et de rappeler qu'aucun mécanisme causal n'avait été établi ; seule une corrélation, déjà connue, se trouvait confirmée sur ce groupe précis. Rien dans l'article original ne permettait d'affirmer que suivre ce régime réduirait quoi que ce soit chez le lecteur moyen. Le glissement s'est opéré ailleurs, dans la chaîne de reprises successives : chaque relais a supprimé un peu plus de nuance, jusqu'à ce que la fourchette prudente des chercheurs devienne un chiffre unique, rond et mémorisable. Ce n'est pas la science qui avait menti ; c'est la vulgarisation qui, à chaque étape, avait sacrifié l'incertitude au profit de la clarté.",
+              "english": "\"This new diet reportedly cuts the risk of the disease in half,\" the headline announced, picked up within the day by a dozen news sites. The study itself, published in a specialist journal, involved eighty participants followed for six weeks: too small a sample to allow any generalisation. The authors, cautious, had nonetheless taken care to specify their margin of uncertainty and to note that no causal mechanism had been established; only an already-known correlation had been confirmed in this particular group. Nothing in the original article supported the claim that following this diet would reduce anything at all for the average reader. The slide happened elsewhere, in the chain of successive reposts: each relay stripped away a little more nuance, until the researchers' cautious range became a single, round, memorable number. It was not the science that had lied; it was the popularisation that, at every step, had sacrificed uncertainty for the sake of clarity.",
+              "questions": [
+                { "id": "c2_u24_l02_rd01", "type": "multipleChoice", "prompt": "What was the actual scope of the original study?", "options": ["Eighty participants followed for six weeks", "A large-scale trial over several years", "A meta-analysis of dozens of prior studies", "A study conducted only on animal models"], "answer": "Eighty participants followed for six weeks" },
+                { "id": "c2_u24_l02_rd02", "type": "multipleChoice", "prompt": "Where, according to the passage, did the distortion actually occur?", "options": ["In the chain of successive media reposts, not in the original study", "In the researchers' own data collection", "In the peer review process itself", "In the funding source of the study"], "answer": "In the chain of successive media reposts, not in the original study" },
+                { "id": "c2_u24_l02_rd03", "type": "trueFalse", "prompt": "The original study established a confirmed causal mechanism for the effect described.", "options": ["True", "False"], "answer": "False" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "c2_u24_l02_wr01", "type": "translate", "prompt": "Translate into French.", "english": "A correlation, however strong, never proves a causal link on its own.", "answer": "Une corrélation, aussi forte soit-elle, ne prouve jamais à elle seule un lien de causalité.", "acceptedAnswers": ["une correlation aussi forte soit elle ne prouve jamais a elle seule un lien de causalite"] },
+            { "id": "c2_u24_l02_wr02", "type": "arrangeWords", "prompt": "Rebuild this sentence about margins of error.", "words": ["large", "un", "annoncer", "chiffre", "Mieux", "vaut", "fourchette", "qu'un", "faussement", "précis", "une"], "answer": "Mieux vaut annoncer une fourchette large qu'un chiffre faussement précis", "english": "Better to announce a wide range than a falsely precise figure." },
+            { "id": "c2_u24_l02_wr03", "type": "fillBlank", "prompt": "Extrapoler un résultat préliminaire à toute la population est un ___ risqué.", "answer": "raccourci", "tip": "A shortcut in reasoning that skips a necessary step." }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "c2_u24_l02_pr01", "type": "multipleChoice", "prompt": "Quelle tournure verbale signale une information rapportée, non confirmée par le journaliste lui-même ?", "options": ["Le conditionnel", "L'impératif", "Le passé composé", "Le futur simple"], "answer": "Le conditionnel" },
+            { "id": "c2_u24_l02_pr02", "type": "match", "prompt": "Match each term with its meaning.", "pairs": [ { "french": "la marge d'erreur", "english": "the range within which the true figure probably lies" }, { "french": "extrapoler", "english": "to generalise a small result beyond what it supports" }, { "french": "significatif", "english": "unlikely to be due to chance alone, statistically" }, { "french": "l'échantillon", "english": "the group of participants or cases actually studied" } ] },
+            { "id": "c2_u24_l02_pr03", "type": "fillBlank", "prompt": "Un échantillon non ___ fausse le résultat, quelle que soit sa taille.", "answer": "représentatif" },
+            { "id": "c2_u24_l02_pr04", "type": "trueFalse", "prompt": "Un intervalle de confiance donne un chiffre unique et parfaitement exact.", "options": ["True", "False"], "answer": "False" },
+            { "id": "c2_u24_l02_pr05", "type": "translate", "prompt": "Translate: Every statement must be weighed against its degree of uncertainty.", "english": "Every statement must be weighed against its degree of uncertainty.", "answer": "Chaque affirmation doit être pondérée par son degré d'incertitude.", "acceptedAnswers": ["chaque affirmation doit etre ponderee par son degre d'incertitude", "chaque affirmation doit etre ponderee par son degre d incertitude"] },
+            { "id": "c2_u24_l02_pr06", "type": "multipleChoice", "prompt": "Que signale l'usage épistémique de « devoir » dans « cet écart doit s'expliquer par... » ?", "options": ["Une inférence jugée quasi certaine par le locuteur", "Une obligation morale", "Une capacité physique", "Un ordre donné à quelqu'un"], "answer": "Une inférence jugée quasi certaine par le locuteur" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "c2_u24_l02_qz01", "type": "multipleChoice", "prompt": "Pourquoi une fourchette est-elle préférable à un chiffre unique dans la vulgarisation scientifique ?", "options": ["Elle évite une fausse impression de précision", "Elle est plus facile à mémoriser", "Elle dispense de citer la source", "Elle remplace l'intervalle de confiance"], "answer": "Elle évite une fausse impression de précision" },
+            { "id": "c2_u24_l02_qz02", "type": "fillBlank", "prompt": "Confondre corrélation et ___ reste l'erreur la plus fréquente dans la vulgarisation.", "answer": "causalité" },
+            { "id": "c2_u24_l02_qz03", "type": "multipleChoice", "prompt": "What does the French journalistic conditional typically signal in a science report?", "options": ["That the claim is reported, not personally confirmed by the writer", "That the event will happen in the future", "That the writer is expressing a wish", "That the claim has been fully verified"], "answer": "That the claim is reported, not personally confirmed by the writer" },
+            { "id": "c2_u24_l02_qz04", "type": "trueFalse", "prompt": "Un échantillon plus large élimine totalement la marge d'erreur.", "options": ["True", "False"], "answer": "False", "tip": "A larger sample reduces the margin of error, but never eliminates it entirely." },
+            { "id": "c2_u24_l02_qz05", "type": "multipleChoice", "prompt": "Quel verbe, au sens épistémique, exprime une possibilité plutôt qu'une quasi-certitude ?", "options": ["Pouvoir", "Devoir", "Falloir", "Vouloir"], "answer": "Pouvoir" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c2_u24_l03",
+      "level": "C2",
+      "unit": 24,
+      "title": "L'éthique de la vulgarisation",
+      "description": "The ethical tension between simplifying and betraying the science, the temptation of sensationalism and clickbait, and the professional standards — transparency, disclosure, correction — that keep popularisation honest.",
+      "estimatedMinutes": 19,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Vulgariser sans trahir : la tension centrale",
+              "body": "To popularise is necessarily to cut, and every cut risks removing exactly the nuance that made a finding true rather than merely appealing; the communicator's craft lies in choosing which simplifications preserve the substance and which quietly falsify it. A metaphor that illuminates a mechanism serves the science, while one that merely flatters the reader's existing beliefs betrays it.",
+              "examples": [
+                { "french": "Vulgariser, c'est choisir ce que l'on sacrifie sans trahir ce qui reste.", "english": "To popularise is to choose what to sacrifice without betraying what remains." },
+                { "french": "Une bonne analogie révèle un mécanisme ; une mauvaise ne fait que le flatter.", "english": "A good analogy reveals a mechanism; a bad one merely flatters it." },
+                { "french": "Simplifier n'oblige pas à mentir, à condition de le signaler quand la nuance disparaît.", "english": "Simplifying does not require lying, provided you flag it when nuance disappears." },
+                { "french": "Le texte accessible n'est pas nécessairement le texte le plus fidèle à l'étude d'origine.", "english": "The accessible text is not necessarily the one most faithful to the original study." },
+                { "french": "La responsabilité du vulgarisateur ne s'arrête pas à la dernière phrase de son article.", "english": "The communicator's responsibility does not end at the last sentence of their article." }
+              ],
+              "tip": "Before publishing a simplification, ask whether an expert reading it would call it a fair shortcut or a distortion — that judgment call is the whole job."
+            },
+            {
+              "heading": "Sensationnalisme, titre racoleur et appât à clics",
+              "body": "Economic pressure pushes toward headlines that promise more certainty, more drama, or more direct relevance to the reader's life than the underlying study can support — a distortion that happens before a single sentence of the article is even read. Recognising a clickbait pattern (the miracle cure, the alarming statistic stripped of context, the rhetorical question implying a scandal) protects both the reader and the communicator's own credibility.",
+              "examples": [
+                { "french": "Un titre racoleur promet toujours plus que l'article ne peut tenir.", "english": "A clickbait headline always promises more than the article can deliver." },
+                { "french": "Le sensationnalisme capte l'attention une fois, puis épuise la confiance du lecteur.", "english": "Sensationalism captures attention once, then wears out the reader's trust." },
+                { "french": "Réduire une étude à un chiffre choc, c'est déjà la caricaturer.", "english": "Reducing a study to one shocking figure is already to caricature it." },
+                { "french": "L'appât à clics fonctionne d'autant mieux qu'il exploite une peur ou un espoir déjà là.", "english": "Clickbait works all the better when it exploits a fear or hope already present." },
+                { "french": "Exagérer un résultat pour le rendre partageable finit par nuire au sujet lui-même.", "english": "Exaggerating a result to make it shareable ends up harming the very subject it covers." }
+              ],
+              "tip": "Read your own headline as a stranger would, with no access to the article — if it claims more than the study shows, rewrite it before rewriting anything else."
+            },
+            {
+              "heading": "Déontologie, transparence et conflits d'intérêts",
+              "body": "Professional standards for science communication include disclosing funding sources and conflicts of interest, correcting errors visibly rather than quietly, and clearly separating the reporting of a finding from advocacy for a policy built on it. Transparency about what remains uncertain is itself part of the communicator's credibility, not a threat to it.",
+              "examples": [
+                { "french": "La déontologie impose de signaler tout financement susceptible d'influencer le propos.", "english": "Professional ethics require disclosing any funding that could influence the piece." },
+                { "french": "Corriger une erreur visiblement vaut mieux que la corriger en silence.", "english": "Correcting an error visibly is better than correcting it silently." },
+                { "french": "Rapporter un résultat et défendre une politique publique sont deux gestes distincts.", "english": "Reporting a finding and advocating for a public policy are two distinct acts." },
+                { "french": "La transparence sur l'incertitude renforce la crédibilité, elle ne l'affaiblit pas.", "english": "Transparency about uncertainty strengthens credibility, it does not weaken it." },
+                { "french": "L'intégrité du vulgarisateur se mesure autant à ses corrections qu'à ses articles.", "english": "A communicator's integrity is measured as much by their corrections as by their articles." }
+              ],
+              "tip": "Put the funding source and any conflict of interest in the piece itself, not only in a linked disclosure page few readers will ever open."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "la-vulgarisation", "french": "la vulgarisation", "english": "popularisation, science communication", "partOfSpeech": "noun", "gender": "f", "plural": "les vulgarisations", "pronunciation": "lah vewl-gah-ree-zah-SYON", "example": "La vulgarisation exige une maîtrise du sujet supérieure à celle du cours magistral.", "exampleEnglish": "Popularisation demands a finer mastery of the subject than a formal lecture.", "level": "C2", "category": "popularization-ethics" },
+            { "id": "vulgariser", "french": "vulgariser", "english": "to popularise (knowledge)", "partOfSpeech": "verb", "pronunciation": "vewl-gah-ree-ZAY", "example": "Vulgariser sans trahir demande du temps et beaucoup de relecture.", "exampleEnglish": "Popularising without betraying takes time and a great deal of rereading.", "level": "C2", "category": "popularization-ethics" },
+            { "id": "simplifier", "french": "simplifier", "english": "to simplify", "partOfSpeech": "verb", "pronunciation": "sam-plee-fee-AY", "example": "On peut simplifier sans mentir, à condition de signaler ce qui a été laissé de côté.", "exampleEnglish": "You can simplify without lying, provided you flag what has been left out.", "level": "C2", "category": "popularization-ethics" },
+            { "id": "edulcorer", "french": "édulcorer", "english": "to water down, to sanitise (a message)", "partOfSpeech": "verb", "pronunciation": "ay-dul-koh-RAY", "example": "Édulcorer un résultat inquiétant pour rassurer le public reste une faute déontologique.", "exampleEnglish": "Watering down a worrying result to reassure the public remains an ethical breach.", "level": "C2", "category": "popularization-ethics" },
+            { "id": "le-grand-public", "french": "le grand public", "english": "the general public", "partOfSpeech": "noun", "gender": "m", "plural": "les grands publics", "pronunciation": "luh grahn pew-BLEEK", "example": "Le grand public mérite une explication rigoureuse, pas seulement une explication simple.", "exampleEnglish": "The general public deserves a rigorous explanation, not merely a simple one.", "level": "C2", "category": "popularization-ethics" },
+            { "id": "accessible", "french": "accessible", "english": "accessible, understandable", "partOfSpeech": "adjective", "pronunciation": "ak-say-SEE-bluh", "example": "Un texte peut être à la fois rigoureux et parfaitement accessible.", "exampleEnglish": "A text can be both rigorous and perfectly accessible.", "level": "C2", "category": "popularization-ethics" },
+            { "id": "l-ethique", "french": "l'éthique", "english": "the ethics", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lay-TEEK", "example": "L'éthique de la vulgarisation ne se résume pas à ne jamais se tromper.", "exampleEnglish": "The ethics of popularisation cannot be reduced to never making a mistake.", "level": "C2", "category": "popularization-ethics" },
+            { "id": "la-deontologie", "french": "la déontologie", "english": "the professional code of ethics", "partOfSpeech": "noun", "gender": "f", "plural": "les déontologies", "pronunciation": "lah day-on-to-lo-ZHEE", "example": "La déontologie du métier impose de déclarer tout partenariat rémunéré.", "exampleEnglish": "The profession's code of ethics requires disclosing any paid partnership.", "level": "C2", "category": "popularization-ethics" },
+            { "id": "la-transparence", "french": "la transparence", "english": "transparency", "partOfSpeech": "noun", "gender": "f", "plural": "les transparences", "pronunciation": "lah trahns-pah-RAHNSS", "example": "La transparence sur les sources de financement fait partie du texte, pas d'une annexe.", "exampleEnglish": "Transparency about funding sources belongs in the piece itself, not in an appendix.", "level": "C2", "category": "popularization-ethics" },
+            { "id": "l-integrite", "french": "l'intégrité", "english": "the integrity", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lan-tay-gree-TAY", "example": "L'intégrité du vulgarisateur se mesure à ce qu'il refuse de simplifier.", "exampleEnglish": "A communicator's integrity is measured by what they refuse to simplify.", "level": "C2", "category": "popularization-ethics" },
+            { "id": "reducteur", "french": "réducteur", "english": "reductive, oversimplifying", "partOfSpeech": "adjective", "pronunciation": "ray-dük-TUHR", "example": "Un résumé réducteur peut être exact phrase par phrase et faux dans l'ensemble.", "exampleEnglish": "A reductive summary can be accurate sentence by sentence and false overall.", "level": "C2", "category": "popularization-ethics" },
+            { "id": "la-desinformation", "french": "la désinformation", "english": "disinformation", "partOfSpeech": "noun", "gender": "f", "plural": "les désinformations", "pronunciation": "lah day-zan-for-mah-SYON", "example": "La frontière entre simplification excessive et désinformation reste parfois ténue.", "exampleEnglish": "The line between excessive simplification and disinformation can sometimes be thin.", "level": "C2", "category": "popularization-ethics" },
+            { "id": "la-nuance", "french": "la nuance", "english": "the nuance, the subtlety", "partOfSpeech": "noun", "gender": "f", "plural": "les nuances", "pronunciation": "lah nu-AHNSS", "example": "C'est souvent la nuance qui distingue la vulgarisation honnête du raccourci trompeur.", "exampleEnglish": "It is often nuance that separates honest popularisation from a misleading shortcut.", "level": "C2", "category": "popularization-ethics" },
+            { "id": "nuance", "french": "nuancé", "english": "nuanced, qualified", "partOfSpeech": "adjective", "pronunciation": "nu-ahn-SAY", "example": "Un article nuancé se partage moins vite qu'un article catégorique.", "exampleEnglish": "A nuanced article spreads less quickly than a categorical one.", "level": "C2", "category": "popularization-ethics" },
+            { "id": "trahir", "french": "trahir", "english": "to betray, to misrepresent", "partOfSpeech": "verb", "pronunciation": "trah-EER", "example": "Une image frappante ne doit pas trahir l'idée scientifique qu'elle illustre.", "exampleEnglish": "A striking image must not misrepresent the scientific idea it illustrates.", "level": "C2", "category": "popularization-ethics" },
+            { "id": "caricaturer", "french": "caricaturer", "english": "to caricature", "partOfSpeech": "verb", "pronunciation": "kah-ree-kah-tu-RAY", "example": "Réduire une théorie à un slogan revient souvent à la caricaturer.", "exampleEnglish": "Reducing a theory to a slogan often amounts to caricaturing it.", "level": "C2", "category": "popularization-ethics" },
+            { "id": "la-caricature", "french": "la caricature", "english": "the caricature", "partOfSpeech": "noun", "gender": "f", "plural": "les caricatures", "pronunciation": "lah kah-ree-kah-TUR", "example": "La caricature d'une théorie complexe est plus facile à partager que la théorie elle-même.", "exampleEnglish": "The caricature of a complex theory is easier to share than the theory itself.", "level": "C2", "category": "popularization-ethics" },
+            { "id": "deformer", "french": "déformer", "english": "to distort", "partOfSpeech": "verb", "pronunciation": "day-for-MAY", "example": "En simplifiant trop vite, on déforme parfois le résultat d'origine.", "exampleEnglish": "By simplifying too hastily, one sometimes distorts the original finding.", "level": "C2", "category": "popularization-ethics" },
+            { "id": "la-deformation", "french": "la déformation", "english": "the distortion", "partOfSpeech": "noun", "gender": "f", "plural": "les déformations", "pronunciation": "lah day-for-mah-SYON", "example": "La déformation s'installe rarement dès la première reprise, mais s'accumule.", "exampleEnglish": "Distortion rarely sets in at the first repost, but accumulates over time.", "level": "C2", "category": "popularization-ethics" },
+            { "id": "exagerer", "french": "exagérer", "english": "to exaggerate", "partOfSpeech": "verb", "pronunciation": "eg-zah-zhay-RAY", "example": "Exagérer un résultat pour le rendre partageable finit par nuire au sujet lui-même.", "exampleEnglish": "Exaggerating a result to make it shareable ends up harming the subject itself.", "level": "C2", "category": "popularization-ethics" },
+            { "id": "l-exageration", "french": "l'exagération", "english": "the exaggeration", "partOfSpeech": "noun", "gender": "f", "plural": "les exagérations", "pronunciation": "leg-zah-zhay-rah-SYON", "example": "L'exagération attire le clic, puis épuise la confiance qu'elle avait d'abord gagnée.", "exampleEnglish": "Exaggeration attracts the click, then wears out the trust it first earned.", "level": "C2", "category": "popularization-ethics" },
+            { "id": "le-raccourci", "french": "le raccourci", "english": "the shortcut, the oversimplification", "partOfSpeech": "noun", "gender": "m", "plural": "les raccourcis", "pronunciation": "luh ra-koor-SEE", "example": "Ce raccourci est commode à lire, mais franchement trompeur.", "exampleEnglish": "This shortcut is easy to read, but frankly misleading.", "level": "C2", "category": "popularization-ethics" },
+            { "id": "le-sensationnalisme", "french": "le sensationnalisme", "english": "sensationalism", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh sahn-sah-syo-nah-LEEZM", "example": "Le sensationnalisme fait lire une fois et perdre un lectorat sur la durée.", "exampleEnglish": "Sensationalism gets you read once and loses you a readership over time.", "level": "C2", "category": "popularization-ethics" },
+            { "id": "sensationnaliste", "french": "sensationnaliste", "english": "sensationalist", "partOfSpeech": "adjective", "pronunciation": "sahn-sah-syo-nah-LEEST", "example": "Un titre sensationnaliste finit toujours par se retourner contre son auteur.", "exampleEnglish": "A sensationalist headline always ends up backfiring on its author.", "level": "C2", "category": "popularization-ethics" },
+            { "id": "racoleur", "french": "racoleur", "english": "attention-grabbing, clickbait-y", "partOfSpeech": "adjective", "pronunciation": "rah-koh-LUR", "example": "Le titre, franchement racoleur, ne correspondait à aucune phrase de l'article.", "exampleEnglish": "The headline, frankly clickbait-y, matched no sentence in the article.", "level": "C2", "category": "popularization-ethics" },
+            { "id": "l-appat-a-clics", "french": "l'appât à clics", "english": "clickbait", "partOfSpeech": "noun", "gender": "m", "pronunciation": "lah-pah ah KLEEK", "example": "L'appât à clics fonctionne d'autant mieux qu'il exploite une peur déjà présente.", "exampleEnglish": "Clickbait works all the better when it exploits a fear already present.", "level": "C2", "category": "popularization-ethics" },
+            { "id": "la-responsabilite", "french": "la responsabilité", "english": "the responsibility", "partOfSpeech": "noun", "gender": "f", "plural": "les responsabilités", "pronunciation": "lah res-pon-sah-bee-lee-TAY", "example": "La responsabilité du vulgarisateur ne s'arrête pas à la publication de l'article.", "exampleEnglish": "The communicator's responsibility does not end when the article is published.", "level": "C2", "category": "popularization-ethics" },
+            { "id": "responsable", "french": "responsable", "english": "responsible, accountable", "partOfSpeech": "adjective", "pronunciation": "res-pon-SAH-bluh", "example": "Une vulgarisation responsable assume ses simplifications au lieu de les cacher.", "exampleEnglish": "Responsible popularisation owns its simplifications instead of hiding them.", "level": "C2", "category": "popularization-ethics" },
+            { "id": "induire-en-erreur", "french": "induire en erreur", "english": "to mislead", "partOfSpeech": "expression", "pronunciation": "an-DWEER ahn ay-RUR", "example": "Un graphique mal construit peut induire en erreur sans qu'un seul mot soit faux.", "exampleEnglish": "A poorly built chart can mislead without a single word being false.", "level": "C2", "category": "popularization-ethics" },
+            { "id": "pedagogique", "french": "pédagogique", "english": "pedagogical, teaching-related", "partOfSpeech": "adjective", "pronunciation": "pay-dah-goh-ZHEEK", "example": "Le choix pédagogique de l'analogie compte autant que son exactitude.", "exampleEnglish": "The pedagogical choice of the analogy matters as much as its accuracy.", "level": "C2", "category": "popularization-ethics" },
+            { "id": "la-clarte", "french": "la clarté", "english": "clarity", "partOfSpeech": "noun", "gender": "f", "pronunciation": "klar-TAY", "example": "La clarté ne doit jamais s'obtenir aux dépens de l'exactitude.", "exampleEnglish": "Clarity must never be achieved at the expense of accuracy.", "level": "C2", "category": "popularization-ethics" },
+            { "id": "fidele", "french": "fidèle", "english": "faithful (to the source science)", "partOfSpeech": "adjective", "pronunciation": "fee-DEL", "example": "Un texte fidèle à l'étude peut rester tout à fait accessible.", "exampleEnglish": "A text faithful to the study can still remain perfectly accessible.", "level": "C2", "category": "popularization-ethics" },
+            { "id": "la-fidelite", "french": "la fidélité", "english": "the faithfulness, the accuracy (to a source)", "partOfSpeech": "noun", "gender": "f", "pronunciation": "fee-day-lee-TAY", "example": "La fidélité au texte scientifique ne se mesure pas au nombre de mots repris tels quels.", "exampleEnglish": "Faithfulness to the scientific text is not measured by how many words are copied verbatim.", "level": "C2", "category": "popularization-ethics" },
+            { "id": "honnete", "french": "honnête", "english": "honest", "partOfSpeech": "adjective", "pronunciation": "oh-NET", "example": "Une vulgarisation honnête dit ce qu'elle ne sait pas encore.", "exampleEnglish": "Honest popularisation says what it does not yet know.", "level": "C2", "category": "popularization-ethics" },
+            { "id": "l-honnetete", "french": "l'honnêteté", "english": "honesty", "partOfSpeech": "noun", "gender": "f", "pronunciation": "loh-net-TAY", "example": "L'honnêteté intellectuelle exige d'admettre les limites de sa propre synthèse.", "exampleEnglish": "Intellectual honesty requires admitting the limits of one's own synthesis.", "level": "C2", "category": "popularization-ethics" },
+            { "id": "la-metaphore", "french": "la métaphore", "english": "the metaphor", "partOfSpeech": "noun", "gender": "f", "plural": "les métaphores", "pronunciation": "may-tah-FOR", "example": "La métaphore choisie doit éclairer le mécanisme, pas seulement le nommer joliment.", "exampleEnglish": "The chosen metaphor should illuminate the mechanism, not just name it prettily.", "level": "C2", "category": "popularization-ethics" },
+            { "id": "l-analogie", "french": "l'analogie", "english": "the analogy", "partOfSpeech": "noun", "gender": "f", "plural": "les analogies", "pronunciation": "lah-nah-loh-ZHEE", "example": "Toute analogie a une limite qu'il vaut mieux préciser que taire.", "exampleEnglish": "Every analogy has a limit better stated than left unsaid.", "level": "C2", "category": "popularization-ethics" },
+            { "id": "la-credibilite", "french": "la crédibilité", "english": "the credibility", "partOfSpeech": "noun", "gender": "f", "pronunciation": "kray-dee-bee-lee-TAY", "example": "La crédibilité se construit lentement et se perd en une seule exagération.", "exampleEnglish": "Credibility is built slowly and lost in a single exaggeration.", "level": "C2", "category": "popularization-ethics" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Les tournures impersonnelles et le passif pour l'objectivité",
+              "body": "Ethical science writing often erases the individual voice in favour of impersonal and passive constructions — il a été démontré que, on estime que, il convient de, il importe de — precisely so the claim appears to rest on the evidence rather than on the writer's personal authority. Overusing the same tools to hide a genuinely personal or biased choice, however, is itself a subtle form of the very distortion this register is meant to avoid.",
+              "examples": [
+                { "french": "Il a été démontré que l'effet disparaît au-delà d'un certain seuil.", "english": "It has been demonstrated that the effect disappears beyond a certain threshold." },
+                { "french": "On estime que le phénomène touche environ un dixième de la population.", "english": "It is estimated that the phenomenon affects about a tenth of the population." },
+                { "french": "Il convient de préciser les limites de l'étude dès le premier paragraphe.", "english": "The study's limits should be stated as early as the first paragraph." },
+                { "french": "Cette théorie fut longtemps rejetée avant d'être largement adoptée.", "english": "This theory was long rejected before being widely adopted.", "note": "passive voice keeps focus on the theory, not on who rejected or adopted it" },
+                { "french": "Il importe de distinguer ce qui est établi de ce qui reste hypothétique.", "english": "It is important to distinguish what is established from what remains hypothetical." }
+              ],
+              "tip": "Use the impersonal register to foreground the evidence, but never to disguise a choice that is really yours — name the source of an estimate whenever you can."
+            },
+            {
+              "heading": "Le gérondif de manière et la mise en relief par c'est... qui/que",
+              "body": "The gerund (en + present participle) names the exact manner in which a distortion happens — 'en simplifiant', 'en exagérant' — pinning the ethical fault to a specific act rather than a vague accusation. The cleft construction 'ce n'est pas X qui..., c'est Y qui...' then lets a writer redirect blame precisely, isolating the true cause of a distortion from an easier, more obvious target.",
+              "examples": [
+                { "french": "En simplifiant trop vite, on risque de trahir l'idée même que l'on voulait transmettre.", "english": "By simplifying too hastily, one risks betraying the very idea one meant to convey." },
+                { "french": "C'est en exagérant le chiffre qu'on a fini par perdre la confiance du lecteur.", "english": "It was by exaggerating the figure that the reader's trust was ultimately lost." },
+                { "french": "Ce n'est pas la science qui avait menti ; c'est la vulgarisation qui avait sacrifié la nuance.", "english": "It was not the science that had lied; it was the popularisation that had sacrificed nuance." },
+                { "french": "Ce n'est pas le chercheur qui est responsable du titre, c'est la rédaction qui l'a choisi.", "english": "It is not the researcher who is responsible for the headline, it is the editorial desk that chose it." },
+                { "french": "En corrigeant l'erreur publiquement, le site a regagné une partie de sa crédibilité.", "english": "By correcting the error publicly, the site regained part of its credibility." }
+              ],
+              "tip": "Reach for 'ce n'est pas X qui..., c'est Y qui...' whenever an argument needs to redirect blame precisely, away from an obvious but wrong target."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "c2_u24_l03_li01", "type": "listenChoose", "prompt": "Listen. Which term is being described?", "french": "Un titre qui promet toujours plus que l'article ne peut tenir.", "options": ["Le titre racoleur", "La déontologie", "La fidélité", "L'analogie"], "answer": "Le titre racoleur" },
+            { "id": "c2_u24_l03_li02", "type": "listenChoose", "prompt": "Listen. Which term is being described?", "french": "Réduire une théorie complexe à un slogan facile à partager.", "options": ["Caricaturer", "Corroborer", "Relativiser", "Estimer"], "answer": "Caricaturer" },
+            { "id": "c2_u24_l03_li03", "type": "listenType", "prompt": "Listen and type this sentence exactly.", "french": "Vulgariser, c'est choisir ce que l'on sacrifie sans trahir ce qui reste.", "answer": "Vulgariser, c'est choisir ce que l'on sacrifie sans trahir ce qui reste.", "acceptedAnswers": ["vulgariser c'est choisir ce que l'on sacrifie sans trahir ce qui reste", "vulgariser c est choisir ce que l on sacrifie sans trahir ce qui reste"] },
+            { "id": "c2_u24_l03_li04", "type": "dictation", "prompt": "Dictation: write down this sentence exactly.", "french": "La crédibilité se construit lentement et se perd en une seule exagération.", "answer": "La crédibilité se construit lentement et se perd en une seule exagération.", "acceptedAnswers": ["la credibilite se construit lentement et se perd en une seule exageration"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "c2_u24_l03_sp01", "type": "speak", "prompt": "Deliver this line as a piece of advice to a junior science journalist.", "french": "Le texte accessible n'est pas nécessairement le texte le plus fidèle à l'étude d'origine.", "english": "The accessible text is not necessarily the one most faithful to the original study.", "tip": "Give a slight weight to 'nécessairement' — the point is a tension, not an absolute rule." },
+            { "id": "c2_u24_l03_sp02", "type": "speak", "prompt": "Say this line as though defending a decision to correct a published article publicly.", "french": "Corriger une erreur visiblement vaut mieux que la corriger en silence.", "english": "Correcting an error visibly is better than correcting it silently.", "tip": "Keep the tone confident and calm — this is a principle you stand behind, not an apology." },
+            { "id": "c2_u24_l03_sp03", "type": "speak", "prompt": "Recite this cleft sentence with a clear pause at the semicolon.", "french": "Ce n'est pas la science qui avait menti ; c'est la vulgarisation qui avait sacrifié la nuance.", "english": "It was not the science that had lied; it was the popularisation that had sacrificed nuance.", "tip": "The pause at the semicolon is what lets the redirection of blame land clearly." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "La ligne que la vulgarisation ne doit pas franchir",
+              "french": "Faut-il choisir entre être compris et être exact ? La question, mal posée, laisse croire à une opposition qui n'existe pas nécessairement. Un bon texte de vulgarisation ne nivelle pas la science par le bas ; il choisit, parmi toutes les nuances possibles, celles qui changeraient la conclusion si on les retirait, et il laisse tomber les autres sans les taire complètement. La différence tient souvent à une seule phrase : celle qui reconnaît, en une ligne, ce que l'article ne peut pas dire avec certitude. Cette phrase coûte cher en clics, mais elle coûte encore plus cher à l'auteur qui s'en passe, une fois que ses lecteurs découvrent, par une autre source, ce qu'il avait omis. La déontologie du métier n'interdit pas la métaphore ni l'image frappante ; elle interdit seulement l'image qui trahit le mécanisme qu'elle prétend expliquer. Entre le titre honnête, moins spectaculaire, et le titre racoleur, plus partagé, le choix relève d'une éthique professionnelle avant d'être une question de style. Le lecteur, lui, ne voit jamais la différence sur le moment ; il ne la découvre, souvent, qu'après avoir été trompé une première fois.",
+              "english": "Must one choose between being understood and being accurate? The question, poorly framed, suggests an opposition that need not exist. A good piece of popularisation does not level science down to its lowest common denominator; it chooses, among all the possible nuances, those that would change the conclusion if removed, and lets the rest go without hiding them entirely. The difference often comes down to a single sentence: the one that acknowledges, in one line, what the article cannot state with certainty. That sentence costs clicks, but it costs the author even more once readers discover, through another source, what was left out. The profession's code of ethics does not forbid metaphor or a striking image; it forbids only the image that betrays the mechanism it claims to explain. Between the honest, less spectacular headline and the clickbait-y, more shared one, the choice is a matter of professional ethics before it is a matter of style. The reader never sees the difference in the moment; they often discover it only after having been misled once already.",
+              "questions": [
+                { "id": "c2_u24_l03_rd01", "type": "multipleChoice", "prompt": "According to the passage, which nuances should a good popularisation piece keep?", "options": ["Those that would change the conclusion if removed", "All of them, without exception", "None, since simplification requires cutting everything", "Only those that make the headline more shareable"], "answer": "Those that would change the conclusion if removed" },
+                { "id": "c2_u24_l03_rd02", "type": "multipleChoice", "prompt": "What does the profession's code of ethics forbid, according to the passage?", "options": ["An image that betrays the mechanism it claims to explain", "The use of any metaphor whatsoever", "Publishing articles without a headline", "Citing more than one study per article"], "answer": "An image that betrays the mechanism it claims to explain" },
+                { "id": "c2_u24_l03_rd03", "type": "trueFalse", "prompt": "The passage claims that readers usually notice a dishonest simplification immediately, at the moment they read it.", "options": ["True", "False"], "answer": "False" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "c2_u24_l03_wr01", "type": "translate", "prompt": "Translate into French.", "english": "Reducing a study to one shocking figure is already to caricature it.", "answer": "Réduire une étude à un chiffre choc, c'est déjà la caricaturer.", "acceptedAnswers": ["reduire une etude a un chiffre choc c'est deja la caricaturer", "reduire une etude a un chiffre choc c est deja la caricaturer"] },
+            { "id": "c2_u24_l03_wr02", "type": "arrangeWords", "prompt": "Rebuild this sentence about betraying an idea through simplification.", "words": ["vulgarisateur", "ne", "responsabilité", "s'arrête", "La", "pas", "du", "à", "l'article"], "answer": "La responsabilité du vulgarisateur ne s'arrête pas à l'article", "english": "The communicator's responsibility does not end at the article." },
+            { "id": "c2_u24_l03_wr03", "type": "fillBlank", "prompt": "La transparence sur l'incertitude renforce la ___, elle ne l'affaiblit pas.", "answer": "crédibilité", "tip": "Same family as 'crédible' — the noun for how trustworthy a source appears." }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "c2_u24_l03_pr01", "type": "multipleChoice", "prompt": "Quel terme désigne un contenu conçu pour attirer le clic plus que pour informer ?", "options": ["L'appât à clics", "La contre-expertise", "L'orthodoxie", "Le postulat"], "answer": "L'appât à clics" },
+            { "id": "c2_u24_l03_pr02", "type": "match", "prompt": "Match each term with its meaning.", "pairs": [ { "french": "édulcorer", "english": "to water down a worrying finding to reassure the reader" }, { "french": "la déontologie", "english": "the profession's own code of ethical conduct" }, { "french": "réducteur", "english": "accurate in each part but false as a whole" }, { "french": "l'intégrité", "english": "refusing to simplify past the point of honesty" } ] },
+            { "id": "c2_u24_l03_pr03", "type": "fillBlank", "prompt": "Un titre ___ promet toujours plus que l'article ne peut tenir.", "answer": "racoleur" },
+            { "id": "c2_u24_l03_pr04", "type": "trueFalse", "prompt": "Signaler ses sources de financement affaiblit la crédibilité d'un article de vulgarisation.", "options": ["True", "False"], "answer": "False" },
+            { "id": "c2_u24_l03_pr05", "type": "translate", "prompt": "Translate: A good analogy reveals a mechanism; a bad one merely flatters it.", "english": "A good analogy reveals a mechanism; a bad one merely flatters it.", "answer": "Une bonne analogie révèle un mécanisme ; une mauvaise ne fait que le flatter.", "acceptedAnswers": ["une bonne analogie revele un mecanisme une mauvaise ne fait que le flatter"] },
+            { "id": "c2_u24_l03_pr06", "type": "multipleChoice", "prompt": "Quelle construction permet de rediriger précisément la responsabilité d'une distorsion ?", "options": ["Ce n'est pas X qui..., c'est Y qui...", "Bien que + subjonctif", "Si + imparfait", "Le futur antérieur"], "answer": "Ce n'est pas X qui..., c'est Y qui..." }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "c2_u24_l03_qz01", "type": "multipleChoice", "prompt": "Selon le texte, qu'est-ce qui distingue une vulgarisation honnête d'un raccourci trompeur ?", "options": ["Elle garde les nuances qui changeraient la conclusion si on les retirait", "Elle évite systématiquement toute métaphore", "Elle cite le plus grand nombre possible d'études", "Elle ne s'adresse jamais au grand public"], "answer": "Elle garde les nuances qui changeraient la conclusion si on les retirait" },
+            { "id": "c2_u24_l03_qz02", "type": "fillBlank", "prompt": "La ___ impose de signaler tout financement susceptible d'influencer le propos.", "answer": "déontologie" },
+            { "id": "c2_u24_l03_qz03", "type": "multipleChoice", "prompt": "What is the ethical function of naming a limitation in the first paragraph of an article, according to this lesson?", "options": ["It respects the reader by stating uncertainty upfront rather than hiding it", "It guarantees the article will not be shared as widely", "It replaces the need to cite the original study", "It satisfies a legal requirement in most countries"], "answer": "It respects the reader by stating uncertainty upfront rather than hiding it" },
+            { "id": "c2_u24_l03_qz04", "type": "trueFalse", "prompt": "Le gérondif « en simplifiant » peut désigner la manière précise dont une distorsion se produit.", "options": ["True", "False"], "answer": "True" },
+            { "id": "c2_u24_l03_qz05", "type": "multipleChoice", "prompt": "Quel est le principal risque d'une métaphore mal choisie en vulgarisation ?", "options": ["Elle flatte le lecteur sans révéler le mécanisme réel", "Elle rend le texte trop long", "Elle empêche toute traduction en anglais", "Elle est interdite par la loi sur la presse"], "answer": "Elle flatte le lecteur sans révéler le mécanisme réel" }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,611 @@
+{
+  "id": "b1_u15",
+  "level": "B1",
+  "unit": 15,
+  "title": "Art & Museums",
+  "subtitle": "Visit a museum, describe a work of art, and debate street art",
+  "icon": "🖼️",
+  "lessons": [
+    {
+      "id": "b1_u15_l01",
+      "level": "B1",
+      "unit": 15,
+      "title": "Visiter un musée",
+      "description": "Buy tickets, find your way around the collections, join a guided tour and say what you are looking at.",
+      "estimatedMinutes": 18,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "At the ticket desk",
+              "body": "French museums separate the ticket desk (le guichet, la billetterie) from the entrance itself. You will be asked whether you want the permanent collection only or the temporary exhibition too. Reduced and free rates are common, so it is worth saying who you are: student, under 26, unemployed, teacher.",
+              "examples": [
+                { "french": "Bonjour, deux entrées pour l'exposition temporaire, s'il vous plaît.", "english": "Hello, two tickets for the temporary exhibition, please." },
+                { "french": "Est-ce que le billet donne accès à la collection permanente ?", "english": "Does the ticket give access to the permanent collection?" },
+                { "french": "J'ai droit au tarif réduit : je suis étudiante.", "english": "I'm entitled to the reduced rate: I'm a student." },
+                { "french": "L'entrée est gratuite le premier dimanche du mois.", "english": "Admission is free on the first Sunday of the month." },
+                { "french": "J'ai réservé en ligne, voici mon billet sur le téléphone.", "english": "I booked online, here's my ticket on my phone." },
+                { "french": "Les sacs à dos sont interdits en salle : il faut les laisser au vestiaire.", "english": "Backpacks aren't allowed in the galleries: you have to leave them in the cloakroom." }
+              ],
+              "tip": "In many French museums entry is free for EU residents under 26. Say « J'ai moins de vingt-six ans » and show an ID."
+            },
+            {
+              "heading": "Finding your way",
+              "body": "Ask for a plan at the desk and use it to talk about rooms, floors and wings. The staff you meet in the galleries are les gardiens de salle; the person who curates the collection is le conservateur or la conservatrice. Small labels next to each work are called les cartels.",
+              "examples": [
+                { "french": "Vous auriez un plan du musée, s'il vous plaît ?", "english": "Would you have a map of the museum, please?" },
+                { "french": "La peinture du dix-neuvième siècle se trouve au deuxième étage, aile est.", "english": "Nineteenth-century painting is on the second floor, east wing." },
+                { "french": "Excusez-moi, par où passe-t-on pour rejoindre la galerie des sculptures ?", "english": "Excuse me, which way do we go to reach the sculpture gallery?" },
+                { "french": "Les salles du fond sont fermées pour travaux jusqu'en mars.", "english": "The rooms at the back are closed for works until March." },
+                { "french": "Le cartel indique le titre, la date et la technique.", "english": "The label gives the title, the date and the medium." }
+              ],
+              "tip": "« Se trouver » (to be located) sounds far more natural than « être » when you give directions inside a building."
+            },
+            {
+              "heading": "Tours and reacting to what you see",
+              "body": "You can choose la visite libre (on your own), l'audioguide, or la visite guidée led by un guide-conférencier. While you walk, react with simple but expressive sentences — French visitors comment freely in front of the works. Keep your voice low: it is considered rude to talk loudly in the galleries.",
+              "examples": [
+                { "french": "La visite guidée dure une heure et demie et part du hall.", "english": "The guided tour lasts an hour and a half and leaves from the hall." },
+                { "french": "Je préfère la visite libre, avec l'audioguide en français.", "english": "I prefer visiting on my own, with the audio guide in French." },
+                { "french": "Regarde cette toile : je la trouve vraiment saisissante.", "english": "Look at this canvas: I find it really striking." },
+                { "french": "On peut rester dix minutes devant une seule œuvre, ça vaut le coup.", "english": "You can stay ten minutes in front of a single work, it's worth it." },
+                { "french": "Il y a trop de monde ; on revient plutôt en semaine ?", "english": "There are too many people; shall we come back on a weekday instead?" },
+                { "french": "J'ai flâné une heure dans la galerie sans regarder le plan.", "english": "I strolled around the gallery for an hour without looking at the map." }
+              ],
+              "tip": "« Ça vaut le coup » (it's worth it) is everyday spoken French and very useful when recommending an exhibition."
+            }
+          ]
+        }
+,
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "le-musee", "french": "le musée", "english": "museum", "partOfSpeech": "noun", "gender": "m", "plural": "les musées", "pronunciation": "luh mu-ZAY", "example": "Le musée ouvre à dix heures tous les jours sauf le mardi.", "exampleEnglish": "The museum opens at ten every day except Tuesday.", "level": "B1", "category": "art" },
+            { "id": "le-musee-d-art-moderne", "french": "le musée d'art moderne", "english": "modern art museum", "partOfSpeech": "noun", "gender": "m", "plural": "les musées d'art moderne", "pronunciation": "luh mu-ZAY dar mo-DEHRN", "example": "Le musée d'art moderne présente surtout des œuvres du vingtième siècle.", "exampleEnglish": "The modern art museum mainly shows twentieth-century works.", "level": "B1", "category": "art" },
+            { "id": "l-oeuvre", "french": "l'œuvre", "english": "work (of art)", "partOfSpeech": "noun", "gender": "f", "plural": "les œuvres", "pronunciation": "LUHVR", "example": "Cette œuvre est prêtée par un collectionneur privé.", "exampleEnglish": "This work is on loan from a private collector.", "level": "B1", "category": "art" },
+            { "id": "le-chef-d-oeuvre", "french": "le chef-d'œuvre", "english": "masterpiece", "partOfSpeech": "noun", "gender": "m", "plural": "les chefs-d'œuvre", "pronunciation": "luh shay-DUHVR", "example": "On dit que c'est le chef-d'œuvre de sa dernière période.", "exampleEnglish": "It is said to be the masterpiece of his last period.", "level": "B1", "category": "art" },
+            { "id": "l-exposition", "french": "l'exposition", "english": "exhibition", "partOfSpeech": "noun", "gender": "f", "plural": "les expositions", "pronunciation": "lek-spo-zee-SYOHN", "example": "L'exposition attire des visiteurs de toute la région.", "exampleEnglish": "The exhibition attracts visitors from all over the region.", "level": "B1", "category": "art" },
+            { "id": "l-exposition-temporaire", "french": "l'exposition temporaire", "english": "temporary exhibition", "partOfSpeech": "noun", "gender": "f", "plural": "les expositions temporaires", "pronunciation": "lek-spo-zee-SYOHN tahn-po-REHR", "example": "L'exposition temporaire se termine à la fin du mois.", "exampleEnglish": "The temporary exhibition ends at the end of the month.", "level": "B1", "category": "art" },
+            { "id": "la-collection-permanente", "french": "la collection permanente", "english": "permanent collection", "partOfSpeech": "noun", "gender": "f", "plural": "les collections permanentes", "pronunciation": "lah ko-lek-SYOHN pehr-mah-NAHNT", "example": "La collection permanente est accessible avec le même billet.", "exampleEnglish": "The permanent collection is included with the same ticket.", "level": "B1", "category": "art" },
+            { "id": "la-salle", "french": "la salle", "english": "room, gallery room", "partOfSpeech": "noun", "gender": "f", "plural": "les salles", "pronunciation": "lah SAHL", "example": "La salle sept est fermée pour restauration.", "exampleEnglish": "Room seven is closed for restoration.", "level": "B1", "category": "art" },
+            { "id": "la-galerie", "french": "la galerie", "english": "gallery", "partOfSpeech": "noun", "gender": "f", "plural": "les galeries", "pronunciation": "lah gal-REE", "example": "La grande galerie donne sur la cour intérieure.", "exampleEnglish": "The great gallery looks onto the inner courtyard.", "level": "B1", "category": "art" },
+            { "id": "l-aile", "french": "l'aile", "english": "wing (of a building)", "partOfSpeech": "noun", "gender": "f", "plural": "les ailes", "pronunciation": "LEHL", "example": "L'aile nord abrite les dessins et les gravures.", "exampleEnglish": "The north wing houses the drawings and engravings.", "level": "B1", "category": "art" },
+            { "id": "l-etage", "french": "l'étage", "english": "floor, storey", "partOfSpeech": "noun", "gender": "m", "plural": "les étages", "pronunciation": "lay-TAHZH", "example": "Les impressionnistes sont au dernier étage.", "exampleEnglish": "The impressionists are on the top floor.", "level": "B1", "category": "art" },
+            { "id": "l-entree", "french": "l'entrée", "english": "entrance, admission", "partOfSpeech": "noun", "gender": "f", "plural": "les entrées", "pronunciation": "lahn-TRAY", "example": "L'entrée est gratuite pour les moins de vingt-six ans.", "exampleEnglish": "Admission is free for under twenty-sixes.", "level": "B1", "category": "art" },
+            { "id": "billet", "french": "le billet", "english": "ticket", "partOfSpeech": "noun", "gender": "m", "plural": "les billets", "pronunciation": "luh bee-YEH", "example": "Gardez votre billet, on vous le demandera à l'étage.", "exampleEnglish": "Keep your ticket, you'll be asked for it upstairs.", "level": "B1", "category": "art" },
+            { "id": "le-guichet", "french": "le guichet", "english": "ticket window, counter", "partOfSpeech": "noun", "gender": "m", "plural": "les guichets", "pronunciation": "luh gee-SHEH", "example": "Il y a moins de monde au guichet du fond.", "exampleEnglish": "There are fewer people at the counter at the back.", "level": "B1", "category": "art" },
+            { "id": "la-billetterie-en-ligne", "french": "la billetterie en ligne", "english": "online ticketing", "partOfSpeech": "noun", "gender": "f", "plural": "les billetteries en ligne", "pronunciation": "lah bee-yeh-TREE ahn LEE-nyuh", "example": "Passe par la billetterie en ligne, tu éviteras la queue.", "exampleEnglish": "Go through the online ticketing, you'll avoid the queue.", "level": "B1", "category": "art" },
+            { "id": "le-tarif-reduit", "french": "le tarif réduit", "english": "reduced rate", "partOfSpeech": "noun", "gender": "m", "plural": "les tarifs réduits", "pronunciation": "luh tah-REEF ray-DWEE", "example": "Les enseignants bénéficient du tarif réduit sur présentation de leur carte.", "exampleEnglish": "Teachers get the reduced rate on presentation of their card.", "level": "B1", "category": "art" },
+            { "id": "gratuit", "french": "gratuit", "english": "free (of charge)", "partOfSpeech": "adjective", "pronunciation": "grah-TWEE", "example": "L'audioguide est gratuit avec le billet plein tarif.", "exampleEnglish": "The audio guide is free with the full-price ticket.", "level": "B1", "category": "art" },
+            { "id": "reserver", "french": "réserver", "english": "to book, to reserve", "partOfSpeech": "verb", "pronunciation": "ray-zehr-VAY", "example": "Il vaut mieux réserver un créneau à l'avance.", "exampleEnglish": "It's better to book a time slot in advance.", "level": "B1", "category": "art" },
+            { "id": "le-vestiaire", "french": "le vestiaire", "english": "cloakroom", "partOfSpeech": "noun", "gender": "m", "plural": "les vestiaires", "pronunciation": "luh ves-TYEHR", "example": "Laissez vos manteaux au vestiaire, c'est obligatoire.", "exampleEnglish": "Leave your coats in the cloakroom, it's compulsory.", "level": "B1", "category": "art" },
+            { "id": "le-casier", "french": "le casier", "english": "locker", "partOfSpeech": "noun", "gender": "m", "plural": "les casiers", "pronunciation": "luh kah-ZYAY", "example": "Mets ton sac dans un casier, il faut une pièce d'un euro.", "exampleEnglish": "Put your bag in a locker, you need a one-euro coin.", "level": "B1", "category": "art" },
+            { "id": "la-visite-guidee", "french": "la visite guidée", "english": "guided tour", "partOfSpeech": "noun", "gender": "f", "plural": "les visites guidées", "pronunciation": "lah vee-ZEET gee-DAY", "example": "La visite guidée de quatorze heures est déjà complète.", "exampleEnglish": "The two o'clock guided tour is already full.", "level": "B1", "category": "art" },
+            { "id": "la-visite-libre", "french": "la visite libre", "english": "self-guided visit", "partOfSpeech": "noun", "gender": "f", "plural": "les visites libres", "pronunciation": "lah vee-ZEET LEEBR", "example": "En visite libre, on avance à son rythme.", "exampleEnglish": "On a self-guided visit, you go at your own pace.", "level": "B1", "category": "art" },
+            { "id": "l-audioguide", "french": "l'audioguide", "english": "audio guide", "partOfSpeech": "noun", "gender": "m", "plural": "les audioguides", "pronunciation": "loh-dyo-GEED", "example": "L'audioguide existe en six langues, dont le japonais.", "exampleEnglish": "The audio guide comes in six languages, including Japanese.", "level": "B1", "category": "art" },
+            { "id": "le-guide-conferencier", "french": "le guide-conférencier", "english": "museum tour guide, docent", "partOfSpeech": "noun", "gender": "m", "plural": "les guides-conférenciers", "pronunciation": "luh GEED kohn-fay-rahn-SYAY", "example": "Le guide-conférencier raconte l'histoire de chaque salle.", "exampleEnglish": "The tour guide tells the story of each room.", "level": "B1", "category": "art" },
+            { "id": "le-conservateur", "french": "le conservateur", "english": "curator", "partOfSpeech": "noun", "gender": "m", "plural": "les conservateurs", "pronunciation": "luh kohn-sehr-vah-TUHR", "example": "Le conservateur a choisi lui-même l'ordre des salles.", "exampleEnglish": "The curator himself chose the order of the rooms.", "level": "B1", "category": "art" },
+            { "id": "le-gardien-de-salle", "french": "le gardien de salle", "english": "gallery attendant, warden", "partOfSpeech": "noun", "gender": "m", "plural": "les gardiens de salle", "pronunciation": "luh gar-DYAN duh SAHL", "example": "Demandez au gardien de salle, il connaît toutes les œuvres.", "exampleEnglish": "Ask the gallery attendant, he knows all the works.", "level": "B1", "category": "art" },
+            { "id": "le-cartel", "french": "le cartel", "english": "wall label (next to a work)", "partOfSpeech": "noun", "gender": "m", "plural": "les cartels", "pronunciation": "luh kar-TEL", "example": "Je lis toujours le cartel avant de regarder la toile.", "exampleEnglish": "I always read the label before looking at the canvas.", "level": "B1", "category": "art" },
+            { "id": "le-plan", "french": "le plan", "english": "map, floor plan", "partOfSpeech": "noun", "gender": "m", "plural": "les plans", "pronunciation": "luh PLAHN", "example": "Prenez un plan à l'accueil, le bâtiment est immense.", "exampleEnglish": "Take a map at reception, the building is huge.", "level": "B1", "category": "art" },
+            { "id": "la-vitrine", "french": "la vitrine", "english": "display case", "partOfSpeech": "noun", "gender": "f", "plural": "les vitrines", "pronunciation": "lah vee-TREEN", "example": "Les bijoux anciens sont protégés dans une vitrine.", "exampleEnglish": "The ancient jewellery is protected in a display case.", "level": "B1", "category": "art" },
+            { "id": "la-boutique", "french": "la boutique", "english": "museum shop", "partOfSpeech": "noun", "gender": "f", "plural": "les boutiques", "pronunciation": "lah boo-TEEK", "example": "On sort toujours par la boutique du musée.", "exampleEnglish": "You always leave through the museum shop.", "level": "B1", "category": "art" },
+            { "id": "la-file-d-attente", "french": "la file d'attente", "english": "queue, line", "partOfSpeech": "noun", "gender": "f", "plural": "les files d'attente", "pronunciation": "lah FEEL dah-TAHNT", "example": "La file d'attente faisait le tour du bâtiment.", "exampleEnglish": "The queue went all the way round the building.", "level": "B1", "category": "art" },
+            { "id": "la-foule", "french": "la foule", "english": "crowd", "partOfSpeech": "noun", "gender": "f", "plural": "les foules", "pronunciation": "lah FOOL", "example": "Difficile d'apprécier une œuvre dans la foule du samedi.", "exampleEnglish": "It's hard to appreciate a work in the Saturday crowd.", "level": "B1", "category": "art" },
+            { "id": "l-horaire", "french": "l'horaire", "english": "opening times, schedule", "partOfSpeech": "noun", "gender": "m", "plural": "les horaires", "pronunciation": "loh-REHR", "example": "Vérifie les horaires : le musée ferme plus tôt en hiver.", "exampleEnglish": "Check the opening times: the museum closes earlier in winter.", "level": "B1", "category": "art" },
+            { "id": "exposer", "french": "exposer", "english": "to exhibit, to display", "partOfSpeech": "verb", "pronunciation": "ek-spo-ZAY", "example": "Le musée expose une trentaine de dessins inédits.", "exampleEnglish": "The museum is displaying around thirty previously unseen drawings.", "level": "B1", "category": "art" },
+            { "id": "admirer", "french": "admirer", "english": "to admire", "partOfSpeech": "verb", "pronunciation": "ad-mee-RAY", "example": "Nous avons admiré les fresques du plafond pendant vingt minutes.", "exampleEnglish": "We admired the ceiling frescoes for twenty minutes.", "level": "B1", "category": "art" },
+            { "id": "contempler", "french": "contempler", "english": "to gaze at, to contemplate", "partOfSpeech": "verb", "pronunciation": "kohn-tahn-PLAY", "example": "Elle contemple la même toile depuis un quart d'heure.", "exampleEnglish": "She has been gazing at the same canvas for a quarter of an hour.", "level": "B1", "category": "art" },
+            { "id": "flaner", "french": "flâner", "english": "to stroll, to wander", "partOfSpeech": "verb", "pronunciation": "flah-NAY", "example": "J'aime flâner dans les salles sans but précis.", "exampleEnglish": "I like wandering through the rooms with no particular aim.", "level": "B1", "category": "art" }
+          ]
+        }
+,
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Relative pronouns: qui, que, où",
+              "body": "In a museum you constantly point things out, and French does that with relative pronouns. Use qui when the missing word is the subject of the following verb, que (qu' before a vowel) when it is the direct object, and où for a place or a moment in time. Unlike English, the relative pronoun can never be dropped in French.",
+              "examples": [
+                { "french": "C'est une toile qui date de 1890.", "english": "It's a canvas that dates from 1890.", "note": "qui = subject of « date »" },
+                { "french": "Voici l'œuvre que je préfère.", "english": "Here is the work (that) I prefer.", "note": "que = object of « préfère »" },
+                { "french": "La salle où sont exposés les dessins est au fond.", "english": "The room where the drawings are displayed is at the back." },
+                { "french": "C'est l'année où le musée a rouvert.", "english": "That's the year (when) the museum reopened.", "note": "où also works for time" },
+                { "french": "Le guide qu'on a suivi expliquait très bien.", "english": "The guide we followed explained things very well.", "note": "que → qu' before « on »" }
+              ],
+              "tip": "Quick test: if a verb follows immediately, use qui. If a subject follows, use que."
+            },
+            {
+              "heading": "dont and ce qui / ce que",
+              "body": "Dont replaces de + noun, so it appears after verbs and expressions built with de: parler de, avoir besoin de, être fier de. Ce qui and ce que mean \"what\" when there is no specific noun to refer back to, and they are very common in opinions: ce que j'aime, ce qui me frappe.",
+              "examples": [
+                { "french": "C'est l'artiste dont je t'ai parlé hier.", "english": "That's the artist I told you about yesterday.", "note": "parler de → dont" },
+                { "french": "Une exposition dont tout le monde parle en ce moment.", "english": "An exhibition everyone is talking about at the moment." },
+                { "french": "Ce qui me frappe, c'est la lumière.", "english": "What strikes me is the light.", "note": "ce qui = subject" },
+                { "french": "Ce que j'aime dans ce musée, c'est le calme.", "english": "What I like about this museum is the quiet.", "note": "ce que = object" },
+                { "french": "Explique-moi ce dont tu as besoin pour la visite.", "english": "Tell me what you need for the visit.", "note": "avoir besoin de → ce dont" }
+              ],
+              "tip": "« Ce qui me frappe, c'est… » is a ready-made opener for describing any work of art."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "b1_u15_l01_li01", "type": "listenChoose", "french": "Deux entrées pour l'exposition temporaire, s'il vous plaît.", "options": ["Deux entrées pour l'exposition temporaire, s'il vous plaît.", "Deux billets pour la collection permanente, s'il vous plaît.", "Deux places pour la visite guidée, s'il vous plaît.", "Deux plans du musée, s'il vous plaît."], "answer": "Deux entrées pour l'exposition temporaire, s'il vous plaît." },
+            { "id": "b1_u15_l01_li02", "type": "listenChoose", "french": "La visite guidée part du hall dans dix minutes.", "options": ["La visite guidée part du hall dans dix minutes.", "La visite libre commence au deuxième étage.", "L'audioguide se retire au vestiaire.", "La boutique ferme dans dix minutes."], "answer": "La visite guidée part du hall dans dix minutes." },
+            { "id": "b1_u15_l01_li03", "type": "listenType", "french": "L'entrée est gratuite le premier dimanche du mois.", "answer": "L'entrée est gratuite le premier dimanche du mois.", "acceptedAnswers": ["L'entrée est gratuite le premier dimanche du mois", "L'entree est gratuite le premier dimanche du mois", "l'entree est gratuite le premier dimanche du mois"] },
+            { "id": "b1_u15_l01_li04", "type": "dictation", "french": "Le cartel indique le titre, la date et la technique de l'œuvre.", "answer": "Le cartel indique le titre, la date et la technique de l'œuvre.", "acceptedAnswers": ["Le cartel indique le titre la date et la technique de l'oeuvre", "Le cartel indique le titre, la date et la technique de l'oeuvre", "le cartel indique le titre la date et la technique de l'œuvre"] }
+          ]
+        }
+,
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "b1_u15_l01_sp01", "type": "speak", "french": "Bonjour, je voudrais deux billets au tarif réduit, s'il vous plaît.", "english": "Hello, I'd like two tickets at the reduced rate, please.", "prompt": "Buy your tickets at the counter.", "tip": "In « voudrais » the -ais ending sounds like the è in « père » — say voo-DREH, not voo-DRAY." },
+            { "id": "b1_u15_l01_sp02", "type": "speak", "french": "Vous auriez un plan du musée ? Je cherche la galerie des sculptures.", "english": "Would you have a map of the museum? I'm looking for the sculpture gallery.", "prompt": "Ask an attendant for directions.", "tip": "Link « vous auriez » as voo-zoh-RYAY: the s of vous is pronounced z before the vowel." },
+            { "id": "b1_u15_l01_sp03", "type": "speak", "french": "Ce qui me frappe dans cette œuvre, c'est la lumière du fond.", "english": "What strikes me in this work is the light in the background.", "prompt": "React out loud in front of a painting.", "tip": "« œuvre » is one syllable: UHVR. Round your lips and let the r fade at the back of the throat." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Un samedi au musée",
+              "french": "Samedi dernier, Léa et son frère Malik sont allés au musée des Beaux-Arts de leur ville.\nIls avaient réservé un créneau en ligne, ce qui leur a évité une file d'attente de quarante minutes.\nAu guichet, l'employée leur a demandé s'ils voulaient aussi l'exposition temporaire.\nMalik a hésité : le billet combiné coûtait cinq euros de plus.\nFinalement, Léa a insisté, parce que c'était l'exposition dont tous ses collègues parlaient.\nIls ont laissé leurs sacs au vestiaire, pris un plan et un audioguide gratuit.\nLa collection permanente occupe deux étages ; les salles du fond étaient fermées pour restauration.\nMalik a préféré la galerie des sculptures, où la lumière tombe du plafond.\nLéa, elle, est restée un quart d'heure devant une seule toile, sans bouger.\n« Ce que j'aime ici, c'est qu'on peut prendre son temps », a-t-elle dit en sortant.\nÀ la boutique, ils ont acheté une reproduction et deux cartes postales.\nEn rentrant, ils se sont promis de revenir en semaine, quand il y a moins de monde.",
+              "english": "Last Saturday, Léa and her brother Malik went to the fine arts museum in their town.\nThey had booked a time slot online, which saved them a forty-minute queue.\nAt the counter, the assistant asked them whether they also wanted the temporary exhibition.\nMalik hesitated: the combined ticket cost five euros more.\nIn the end Léa insisted, because it was the exhibition all her colleagues were talking about.\nThey left their bags in the cloakroom, took a map and a free audio guide.\nThe permanent collection takes up two floors; the rooms at the back were closed for restoration.\nMalik preferred the sculpture gallery, where the light falls from the ceiling.\nLéa, for her part, stayed a quarter of an hour in front of a single canvas, without moving.\n\"What I like here is that you can take your time,\" she said on the way out.\nAt the shop they bought a reproduction and two postcards.\nOn the way home they promised each other to come back on a weekday, when there are fewer people.",
+              "questions": [
+                { "id": "b1_u15_l01_rd01", "type": "multipleChoice", "prompt": "Pourquoi Léa et Malik n'ont-ils pas attendu quarante minutes ?", "options": ["Parce qu'ils avaient réservé un créneau en ligne", "Parce qu'ils sont arrivés très tôt", "Parce que l'entrée était gratuite", "Parce qu'ils avaient un tarif réduit"], "answer": "Parce qu'ils avaient réservé un créneau en ligne" },
+                { "id": "b1_u15_l01_rd02", "type": "trueFalse", "prompt": "Toutes les salles de la collection permanente étaient ouvertes.", "options": ["True", "False"], "answer": "False" },
+                { "id": "b1_u15_l01_rd03", "type": "multipleChoice", "prompt": "Qu'est-ce que Malik a préféré ?", "options": ["La galerie des sculptures", "L'exposition temporaire", "La boutique du musée", "La visite guidée"], "answer": "La galerie des sculptures" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "b1_u15_l01_wr01", "type": "translate", "prompt": "Translate: I booked online, so we avoided the queue.", "english": "I booked online, so we avoided the queue.", "answer": "J'ai réservé en ligne, donc nous avons évité la file d'attente.", "acceptedAnswers": ["J'ai réservé en ligne, donc on a évité la file d'attente.", "J'ai reserve en ligne, donc nous avons evite la file d'attente.", "J'ai réservé en ligne donc nous avons évité la file d'attente"] },
+            { "id": "b1_u15_l01_wr02", "type": "translate", "prompt": "Translate: This is the exhibition everyone is talking about.", "english": "This is the exhibition everyone is talking about.", "answer": "C'est l'exposition dont tout le monde parle.", "acceptedAnswers": ["C'est l'exposition dont tout le monde parle", "Voici l'exposition dont tout le monde parle.", "C'est l'exposition dont tout le monde parle en ce moment."] },
+            { "id": "b1_u15_l01_wr03", "type": "arrangeWords", "words": ["étage", "sculptures", "au", "sont", "les", "deuxième"], "answer": "les sculptures sont au deuxième étage", "english": "The sculptures are on the second floor." }
+          ]
+        }
+,
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "b1_u15_l01_pr01", "type": "fillBlank", "prompt": "C'est une toile ___ date du dix-neuvième siècle.", "answer": "qui" },
+            { "id": "b1_u15_l01_pr02", "type": "fillBlank", "prompt": "Voici l'artiste ___ je t'ai parlé la semaine dernière.", "answer": "dont" },
+            { "id": "b1_u15_l01_pr03", "type": "match", "pairs": [{ "french": "le guichet", "english": "the ticket counter" }, { "french": "le vestiaire", "english": "the cloakroom" }, { "french": "le cartel", "english": "the wall label" }, { "french": "la file d'attente", "english": "the queue" }] },
+            { "id": "b1_u15_l01_pr04", "type": "multipleChoice", "prompt": "Choisissez la phrase correcte.", "options": ["La salle où sont exposés les dessins est fermée.", "La salle qui sont exposés les dessins est fermée.", "La salle que sont exposés les dessins est fermée.", "La salle dont sont exposés les dessins est fermée."], "answer": "La salle où sont exposés les dessins est fermée." },
+            { "id": "b1_u15_l01_pr05", "type": "arrangeWords", "words": ["l'audioguide", "je", "en", "voudrais", "français"], "answer": "je voudrais l'audioguide en français", "english": "I'd like the audio guide in French." },
+            { "id": "b1_u15_l01_pr06", "type": "translate", "prompt": "Translate: What I like in this museum is the quiet.", "english": "What I like in this museum is the quiet.", "answer": "Ce que j'aime dans ce musée, c'est le calme.", "acceptedAnswers": ["Ce que j'aime dans ce musée c'est le calme", "Ce que j'aime dans ce musee, c'est le calme."] }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "b1_u15_l01_qz01", "type": "multipleChoice", "prompt": "Où laisse-t-on son manteau et son sac à dos ?", "options": ["Au vestiaire", "Au guichet", "Dans la galerie", "À la boutique"], "answer": "Au vestiaire" },
+            { "id": "b1_u15_l01_qz02", "type": "fillBlank", "prompt": "Ce ___ me frappe, c'est la lumière du fond.", "answer": "qui" },
+            { "id": "b1_u15_l01_qz03", "type": "multipleChoice", "prompt": "« Le cartel » désigne :", "options": ["la petite étiquette à côté de l'œuvre", "le billet d'entrée", "le plan du musée", "la boutique du musée"], "answer": "la petite étiquette à côté de l'œuvre" },
+            { "id": "b1_u15_l01_qz04", "type": "trueFalse", "prompt": "En français, on peut supprimer le pronom relatif comme en anglais : « l'œuvre je préfère ».", "options": ["True", "False"], "answer": "False" },
+            { "id": "b1_u15_l01_qz05", "type": "translate", "prompt": "Translate: Two tickets at the reduced rate, please.", "english": "Two tickets at the reduced rate, please.", "answer": "Deux billets au tarif réduit, s'il vous plaît.", "acceptedAnswers": ["Deux billets au tarif reduit, s'il vous plait.", "Deux entrées au tarif réduit, s'il vous plaît.", "Deux billets au tarif réduit s'il vous plaît"] }
+          ]
+        }
+      ]
+    }
+,
+    {
+      "id": "b1_u15_l02",
+      "level": "B1",
+      "unit": 15,
+      "title": "Décrire une œuvre",
+      "description": "Talk about composition, colour and light, then put words on the impression a work leaves on you.",
+      "estimatedMinutes": 18,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Describing the composition",
+              "body": "Start with what is where. French uses au premier plan (in the foreground), au second plan (in the middle ground) and à l'arrière-plan (in the background). Then situate things with au centre, à gauche, en haut, en bas. This gives your description a clear structure before you say anything subjective.",
+              "examples": [
+                { "french": "Au premier plan, on voit une femme assise près d'une fenêtre.", "english": "In the foreground, we see a woman sitting near a window." },
+                { "french": "À l'arrière-plan, la ville se devine dans la brume.", "english": "In the background, the city can just be made out in the mist." },
+                { "french": "La composition est très équilibrée : rien ne pèse d'un côté.", "english": "The composition is very balanced: nothing weighs down one side." },
+                { "french": "Le regard est attiré vers le centre de la toile.", "english": "The eye is drawn towards the centre of the canvas." },
+                { "french": "En bas à droite, on distingue la signature de l'artiste.", "english": "At the bottom right, you can make out the artist's signature." },
+                { "french": "La perspective donne une impression de profondeur.", "english": "The perspective creates an impression of depth." }
+              ],
+              "tip": "« On voit… », « on distingue… », « on devine… » form a natural scale from clear to barely visible."
+            },
+            {
+              "heading": "Colour and light",
+              "body": "Colours in French are described with intensity words: vif (vivid), pâle (pale), terne (dull), sombre (dark), clair (light). Painters' vocabulary also groups colours into des couleurs chaudes (reds, oranges, yellows) and des couleurs froides (blues, greens, greys). Light and shadow, la lumière et l'ombre, are what create le contraste.",
+              "examples": [
+                { "french": "Les couleurs sont vives, presque agressives.", "english": "The colours are vivid, almost aggressive." },
+                { "french": "L'artiste travaille surtout des teintes froides : bleu, vert, gris.", "english": "The artist mainly works with cold shades: blue, green, grey." },
+                { "french": "La lumière vient de la gauche et éclaire seulement le visage.", "english": "The light comes from the left and lights only the face." },
+                { "french": "Le contraste entre l'ombre et la lumière est très fort.", "english": "The contrast between shadow and light is very strong." },
+                { "french": "Le fond est terne, ce qui met en valeur le personnage.", "english": "The background is dull, which sets off the figure." },
+                { "french": "On distingue plusieurs nuances de bleu dans le ciel.", "english": "You can make out several shades of blue in the sky." }
+              ],
+              "tip": "« Mettre en valeur » (to set off, to highlight) is the standard verb for saying that one element makes another stand out."
+            },
+            {
+              "heading": "Saying what it does to you",
+              "body": "After the objective description comes le ressenti — how the work makes you feel. B1 speakers are expected to nuance: not just j'aime, but this work suggests, evokes, disturbs or soothes. Useful frames are: cette œuvre me donne l'impression de…, elle évoque…, je la trouve…",
+              "examples": [
+                { "french": "Cette toile me donne une impression de calme profond.", "english": "This canvas gives me an impression of deep calm." },
+                { "french": "Le tableau évoque l'enfance sans jamais la représenter.", "english": "The picture evokes childhood without ever depicting it." },
+                { "french": "Je trouve ce portrait franchement troublant.", "english": "I find this portrait frankly unsettling." },
+                { "french": "Les couleurs suggèrent la fin d'une journée d'été.", "english": "The colours suggest the end of a summer's day." },
+                { "french": "Ce paysage m'émeut, je ne saurais pas dire pourquoi.", "english": "This landscape moves me, I couldn't say why." },
+                { "french": "L'ensemble est apaisant, presque silencieux.", "english": "The whole thing is soothing, almost silent." }
+              ],
+              "tip": "« Je ne saurais pas dire pourquoi » (I couldn't say why) is an elegant conditional that buys you time in a discussion."
+            }
+          ]
+        }
+,
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "la-toile", "french": "la toile", "english": "canvas, painting", "partOfSpeech": "noun", "gender": "f", "plural": "les toiles", "pronunciation": "lah TWAHL", "example": "Cette toile mesure presque trois mètres de large.", "exampleEnglish": "This canvas is almost three metres wide.", "level": "B1", "category": "art" },
+            { "id": "la-peinture", "french": "la peinture", "english": "painting (art form, paint)", "partOfSpeech": "noun", "gender": "f", "plural": "les peintures", "pronunciation": "lah pahn-TUR", "example": "La peinture à l'huile sèche très lentement.", "exampleEnglish": "Oil paint dries very slowly.", "level": "B1", "category": "art" },
+            { "id": "le-pinceau", "french": "le pinceau", "english": "paintbrush", "partOfSpeech": "noun", "gender": "m", "plural": "les pinceaux", "pronunciation": "luh pan-SOH", "example": "On voit encore la trace du pinceau sur la toile.", "exampleEnglish": "You can still see the brushstroke on the canvas.", "level": "B1", "category": "art" },
+            { "id": "la-composition", "french": "la composition", "english": "composition", "partOfSpeech": "noun", "gender": "f", "plural": "les compositions", "pronunciation": "lah kohn-po-zee-SYOHN", "example": "La composition repose sur une grande diagonale.", "exampleEnglish": "The composition is built on a large diagonal.", "level": "B1", "category": "art" },
+            { "id": "le-premier-plan", "french": "le premier plan", "english": "the foreground", "partOfSpeech": "noun", "gender": "m", "plural": "les premiers plans", "pronunciation": "luh pruh-MYAY PLAHN", "example": "Au premier plan, un chien dort sur le carrelage.", "exampleEnglish": "In the foreground, a dog is sleeping on the tiles.", "level": "B1", "category": "art" },
+            { "id": "l-arriere-plan", "french": "l'arrière-plan", "english": "the background", "partOfSpeech": "noun", "gender": "m", "plural": "les arrière-plans", "pronunciation": "lah-ryehr-PLAHN", "example": "L'arrière-plan reste volontairement flou.", "exampleEnglish": "The background is deliberately left blurred.", "level": "B1", "category": "art" },
+            { "id": "la-perspective", "french": "la perspective", "english": "perspective", "partOfSpeech": "noun", "gender": "f", "plural": "les perspectives", "pronunciation": "lah pehr-spek-TEEV", "example": "La perspective n'est pas respectée, et c'est voulu.", "exampleEnglish": "The perspective isn't accurate, and that's intentional.", "level": "B1", "category": "art" },
+            { "id": "l-equilibre", "french": "l'équilibre", "english": "balance", "partOfSpeech": "noun", "gender": "m", "plural": "les équilibres", "pronunciation": "lay-kee-LEE-bruh", "example": "Il y a un bel équilibre entre les masses sombres et claires.", "exampleEnglish": "There is a fine balance between the dark and light masses.", "level": "B1", "category": "art" },
+            { "id": "la-couleur", "french": "la couleur", "english": "colour", "partOfSpeech": "noun", "gender": "f", "plural": "les couleurs", "pronunciation": "lah koo-LUHR", "example": "Les couleurs sont plus douces que sur la reproduction.", "exampleEnglish": "The colours are softer than in the reproduction.", "level": "B1", "category": "art" },
+            { "id": "la-teinte", "french": "la teinte", "english": "shade, hue", "partOfSpeech": "noun", "gender": "f", "plural": "les teintes", "pronunciation": "lah TANT", "example": "Le peintre a choisi des teintes très chaudes.", "exampleEnglish": "The painter chose very warm shades.", "level": "B1", "category": "art" },
+            { "id": "la-nuance", "french": "la nuance", "english": "nuance, subtle shade", "partOfSpeech": "noun", "gender": "f", "plural": "les nuances", "pronunciation": "lah nu-AHNS", "example": "On compte au moins six nuances de vert dans ce feuillage.", "exampleEnglish": "There are at least six shades of green in this foliage.", "level": "B1", "category": "art" },
+            { "id": "le-contraste", "french": "le contraste", "english": "contrast", "partOfSpeech": "noun", "gender": "m", "plural": "les contrastes", "pronunciation": "luh kohn-TRAHST", "example": "Le contraste entre le fond noir et la robe blanche est saisissant.", "exampleEnglish": "The contrast between the black background and the white dress is striking.", "level": "B1", "category": "art" },
+            { "id": "lumiere", "french": "la lumière", "english": "light", "partOfSpeech": "noun", "gender": "f", "plural": "les lumières", "pronunciation": "lah lu-MYEHR", "example": "La lumière semble venir d'une fenêtre invisible.", "exampleEnglish": "The light seems to come from an invisible window.", "level": "B1", "category": "art" },
+            { "id": "l-ombre", "french": "l'ombre", "english": "shadow, shade", "partOfSpeech": "noun", "gender": "f", "plural": "les ombres", "pronunciation": "LOHM-bruh", "example": "Le visage est à moitié dans l'ombre.", "exampleEnglish": "The face is half in shadow.", "level": "B1", "category": "art" },
+            { "id": "le-trait", "french": "le trait", "english": "line, stroke", "partOfSpeech": "noun", "gender": "m", "plural": "les traits", "pronunciation": "luh TREH", "example": "Le trait est nerveux, presque tremblant.", "exampleEnglish": "The line is nervous, almost trembling.", "level": "B1", "category": "art" },
+            { "id": "la-forme", "french": "la forme", "english": "shape, form", "partOfSpeech": "noun", "gender": "f", "plural": "les formes", "pronunciation": "lah FORM", "example": "Les formes géométriques structurent tout le tableau.", "exampleEnglish": "Geometric shapes give the whole picture its structure.", "level": "B1", "category": "art" },
+            { "id": "vif", "french": "vif", "english": "vivid, bright", "partOfSpeech": "adjective", "pronunciation": "VEEF", "example": "Un rouge vif traverse toute la composition.", "exampleEnglish": "A vivid red runs across the whole composition.", "level": "B1", "category": "art" },
+            { "id": "terne", "french": "terne", "english": "dull, drab", "partOfSpeech": "adjective", "pronunciation": "TEHRN", "example": "Le ciel est terne, comme un jour de novembre.", "exampleEnglish": "The sky is dull, like a November day.", "level": "B1", "category": "art" },
+            { "id": "pale", "french": "pâle", "english": "pale", "partOfSpeech": "adjective", "pronunciation": "PAHL", "example": "Sa peau est très pâle sur ce portrait.", "exampleEnglish": "Her skin is very pale in this portrait.", "level": "B1", "category": "art" },
+            { "id": "sombre", "french": "sombre", "english": "dark, sombre", "partOfSpeech": "adjective", "pronunciation": "SOHM-bruh", "example": "L'atmosphère est sombre, presque menaçante.", "exampleEnglish": "The atmosphere is dark, almost threatening.", "level": "B1", "category": "art" },
+            { "id": "chaud", "french": "chaud", "english": "warm (colour)", "partOfSpeech": "adjective", "pronunciation": "SHOH", "example": "Les couleurs chaudes dominent la partie droite.", "exampleEnglish": "Warm colours dominate the right-hand part.", "level": "B1", "category": "art" },
+            { "id": "froid", "french": "froid", "english": "cold (colour)", "partOfSpeech": "adjective", "pronunciation": "FRWAH", "example": "Il n'utilise que des tons froids dans cette série.", "exampleEnglish": "He uses only cold tones in this series.", "level": "B1", "category": "art" },
+            { "id": "le-portrait", "french": "le portrait", "english": "portrait", "partOfSpeech": "noun", "gender": "m", "plural": "les portraits", "pronunciation": "luh por-TREH", "example": "Ce portrait montre une femme d'une trentaine d'années.", "exampleEnglish": "This portrait shows a woman of about thirty.", "level": "B1", "category": "art" },
+            { "id": "l-autoportrait", "french": "l'autoportrait", "english": "self-portrait", "partOfSpeech": "noun", "gender": "m", "plural": "les autoportraits", "pronunciation": "loh-to-por-TREH", "example": "L'artiste a peint un autoportrait chaque année.", "exampleEnglish": "The artist painted a self-portrait every year.", "level": "B1", "category": "art" },
+            { "id": "paysage", "french": "le paysage", "english": "landscape", "partOfSpeech": "noun", "gender": "m", "plural": "les paysages", "pronunciation": "luh pay-ee-ZAHZH", "example": "C'est un paysage d'hiver, sans aucun personnage.", "exampleEnglish": "It's a winter landscape, with no figures at all.", "level": "B1", "category": "art" },
+            { "id": "la-nature-morte", "french": "la nature morte", "english": "still life", "partOfSpeech": "noun", "gender": "f", "plural": "les natures mortes", "pronunciation": "lah nah-TUR MORT", "example": "Une nature morte simple : du pain, un verre, un couteau.", "exampleEnglish": "A simple still life: bread, a glass, a knife.", "level": "B1", "category": "art" },
+            { "id": "la-silhouette", "french": "la silhouette", "english": "silhouette, outline", "partOfSpeech": "noun", "gender": "f", "plural": "les silhouettes", "pronunciation": "lah see-loo-ET", "example": "On aperçoit une silhouette au fond du couloir.", "exampleEnglish": "You can glimpse a silhouette at the end of the corridor.", "level": "B1", "category": "art" },
+            { "id": "abstrait", "french": "abstrait", "english": "abstract", "partOfSpeech": "adjective", "pronunciation": "ab-STREH", "example": "Je comprends mal l'art abstrait, mais celui-ci me plaît.", "exampleEnglish": "I don't really understand abstract art, but I like this one.", "level": "B1", "category": "art" },
+            { "id": "representer", "french": "représenter", "english": "to depict, to represent", "partOfSpeech": "verb", "pronunciation": "ruh-pray-zahn-TAY", "example": "Ce tableau représente une scène de marché.", "exampleEnglish": "This picture depicts a market scene.", "level": "B1", "category": "art" },
+            { "id": "evoquer", "french": "évoquer", "english": "to evoke, to bring to mind", "partOfSpeech": "verb", "pronunciation": "ay-vo-KAY", "example": "Ces couleurs évoquent la Méditerranée.", "exampleEnglish": "These colours bring the Mediterranean to mind.", "level": "B1", "category": "art" },
+            { "id": "suggerer", "french": "suggérer", "english": "to suggest, to hint at", "partOfSpeech": "verb", "pronunciation": "sug-zhay-RAY", "example": "L'artiste suggère le mouvement sans le montrer.", "exampleEnglish": "The artist suggests movement without showing it.", "level": "B1", "category": "art" },
+            { "id": "emouvoir", "french": "émouvoir", "english": "to move (emotionally)", "partOfSpeech": "verb", "pronunciation": "ay-moo-VWAHR", "example": "Cette sculpture m'émeut à chaque visite.", "exampleEnglish": "This sculpture moves me every time I visit.", "level": "B1", "category": "art" },
+            { "id": "saisissant", "french": "saisissant", "english": "striking, arresting", "partOfSpeech": "adjective", "pronunciation": "seh-zee-SAHN", "example": "Le regard du modèle est vraiment saisissant.", "exampleEnglish": "The sitter's gaze is really striking.", "level": "B1", "category": "art" },
+            { "id": "troublant", "french": "troublant", "english": "unsettling, disturbing", "partOfSpeech": "adjective", "pronunciation": "troo-BLAHN", "example": "Il y a quelque chose de troublant dans ce sourire.", "exampleEnglish": "There is something unsettling about this smile.", "level": "B1", "category": "art" },
+            { "id": "apaisant", "french": "apaisant", "english": "soothing, calming", "partOfSpeech": "adjective", "pronunciation": "ah-peh-ZAHN", "example": "Le bleu du fond est étrangement apaisant.", "exampleEnglish": "The blue of the background is strangely soothing.", "level": "B1", "category": "art" },
+            { "id": "l-impression", "french": "l'impression", "english": "impression, feeling", "partOfSpeech": "noun", "gender": "f", "plural": "les impressions", "pronunciation": "lan-preh-SYOHN", "example": "J'ai l'impression que la scène va basculer.", "exampleEnglish": "I have the feeling the scene is about to tip over.", "level": "B1", "category": "art" },
+            { "id": "le-ressenti", "french": "le ressenti", "english": "felt experience, personal response", "partOfSpeech": "noun", "gender": "m", "plural": "les ressentis", "pronunciation": "luh ruh-sahn-TEE", "example": "Le guide nous a demandé notre ressenti devant l'œuvre.", "exampleEnglish": "The guide asked us for our personal response to the work.", "level": "B1", "category": "art" }
+          ]
+        }
+,
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Adjectives of colour: agreement and its exceptions",
+              "body": "Colour adjectives normally agree with the noun: une robe verte, des murs blancs. But there are two important exceptions. First, when a colour is qualified by a second word, nothing agrees at all: des yeux bleu clair. Second, colours borrowed from objects (orange, marron) stay invariable, with the exception of rose, mauve, écarlate and fauve, which do agree.",
+              "examples": [
+                { "french": "Une toile verte et une toile blanche.", "english": "A green canvas and a white canvas.", "note": "normal agreement" },
+                { "french": "Des nuances bleu clair et vert foncé.", "english": "Light blue and dark green shades.", "note": "compound colour = invariable" },
+                { "french": "Des rideaux orange dans la salle du fond.", "english": "Orange curtains in the back room.", "note": "orange = invariable" },
+                { "french": "Des fleurs roses au premier plan.", "english": "Pink flowers in the foreground.", "note": "rose does agree" },
+                { "french": "Elle porte une écharpe marron et des gants marron.", "english": "She is wearing a brown scarf and brown gloves.", "note": "marron = invariable" }
+              ],
+              "tip": "If you can insert a shade word (clair, foncé, pâle, vif) after the colour, freeze the whole phrase: no -e, no -s."
+            },
+            {
+              "heading": "Comparing works: plus / moins / aussi … que",
+              "body": "To compare two works, use plus … que, moins … que, aussi … que with adjectives and adverbs. For nouns use plus de / moins de / autant de. The superlative adds the definite article: le plus, la plus, les plus. Remember the irregular forms: bon → meilleur, bien → mieux.",
+              "examples": [
+                { "french": "Ce portrait est plus sombre que l'autoportrait de 1902.", "english": "This portrait is darker than the 1902 self-portrait." },
+                { "french": "Cette toile est moins colorée, mais aussi forte.", "english": "This canvas is less colourful, but just as powerful." },
+                { "french": "Il y a autant de personnages dans les deux tableaux.", "english": "There are as many figures in both pictures." },
+                { "french": "C'est la salle la plus lumineuse du musée.", "english": "It's the brightest room in the museum." },
+                { "french": "Sa période tardive est meilleure que ses débuts, à mon avis.", "english": "His late period is better than his early work, in my opinion." },
+                { "french": "On voit mieux les détails de près.", "english": "You see the details better from close up." }
+              ],
+              "tip": "After a superlative, \"in\" is de, not dans: la plus belle salle du musée."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "b1_u15_l02_li01", "type": "listenChoose", "french": "Au premier plan, on voit une femme assise près d'une fenêtre.", "options": ["Au premier plan, on voit une femme assise près d'une fenêtre.", "À l'arrière-plan, on voit une femme debout devant une porte.", "Au centre, on distingue un homme assis près du feu.", "En bas, on devine une femme couchée sous un arbre."], "answer": "Au premier plan, on voit une femme assise près d'une fenêtre." },
+            { "id": "b1_u15_l02_li02", "type": "listenChoose", "french": "Le contraste entre l'ombre et la lumière est très fort.", "options": ["Le contraste entre l'ombre et la lumière est très fort.", "L'équilibre entre les formes et les couleurs est parfait.", "La lumière du fond éclaire seulement le visage.", "Les teintes froides dominent tout le tableau."], "answer": "Le contraste entre l'ombre et la lumière est très fort." },
+            { "id": "b1_u15_l02_li03", "type": "listenType", "french": "Les couleurs sont vives, presque agressives.", "answer": "Les couleurs sont vives, presque agressives.", "acceptedAnswers": ["Les couleurs sont vives presque agressives", "les couleurs sont vives, presque agressives"] },
+            { "id": "b1_u15_l02_li04", "type": "dictation", "french": "Cette toile me donne une impression de calme profond.", "answer": "Cette toile me donne une impression de calme profond.", "acceptedAnswers": ["Cette toile me donne une impression de calme profond", "cette toile me donne une impression de calme profond"] }
+          ]
+        }
+,
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "b1_u15_l02_sp01", "type": "speak", "french": "Au premier plan, une table ; à l'arrière-plan, un mur nu.", "english": "In the foreground, a table; in the background, a bare wall.", "prompt": "Describe the layout of a work.", "tip": "« plan » ends in a nasal vowel: let the air out through the nose and do not pronounce the n — PLAHN." },
+            { "id": "b1_u15_l02_sp02", "type": "speak", "french": "Les teintes sont froides, mais la lumière reste douce.", "english": "The shades are cold, but the light stays soft.", "prompt": "Comment on colour and light.", "tip": "« teintes » rhymes with « peintes »: TANT, one nasal syllable, silent -es." },
+            { "id": "b1_u15_l02_sp03", "type": "speak", "french": "Cette œuvre m'émeut sans que je sache vraiment pourquoi.", "english": "This work moves me without my really knowing why.", "prompt": "Express your personal response.", "tip": "« m'émeut » has two clear syllables: may-MUH, with rounded lips on the last one." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Devant « La fenêtre ouverte »",
+              "french": "Dans la dernière salle de l'exposition, une toile arrête presque tous les visiteurs.\nElle s'appelle « La fenêtre ouverte » et elle a été peinte, dit le cartel, par une artiste inconnue.\nAu premier plan, une table en bois avec un verre à moitié vide et un livre fermé.\nAu second plan, une chaise vide, tournée vers la fenêtre.\nÀ l'arrière-plan, un ciel de fin de journée, dans des nuances d'orange et de gris.\nLa lumière entre par la gauche et vient se poser sur le verre, qui brille.\nLe reste de la pièce reste dans l'ombre, ce qui crée un contraste très fort.\nLes couleurs chaudes du ciel s'opposent au bleu froid des murs.\nIl n'y a aucun personnage, et pourtant on a l'impression que quelqu'un vient de sortir.\nCertains visiteurs trouvent la scène apaisante ; d'autres la trouvent franchement troublante.\n« Ce qui me frappe, c'est le silence », dit une femme à son ami.\nLui préfère les détails : la poussière sur la table, la fissure dans le mur.\nLa toile ne raconte rien, mais chacun y projette sa propre histoire.",
+              "english": "In the last room of the exhibition, one canvas stops almost every visitor.\nIt is called \"The Open Window\" and it was painted, the label says, by an unknown artist.\nIn the foreground, a wooden table with a half-empty glass and a closed book.\nIn the middle ground, an empty chair, turned towards the window.\nIn the background, an early-evening sky, in shades of orange and grey.\nThe light comes in from the left and settles on the glass, which shines.\nThe rest of the room stays in shadow, which creates a very strong contrast.\nThe warm colours of the sky contrast with the cold blue of the walls.\nThere is no figure at all, and yet you have the feeling that someone has just left.\nSome visitors find the scene soothing; others find it frankly unsettling.\n\"What strikes me is the silence,\" a woman says to her friend.\nHe prefers the details: the dust on the table, the crack in the wall.\nThe canvas tells no story, but everyone projects their own onto it.",
+              "questions": [
+                { "id": "b1_u15_l02_rd01", "type": "multipleChoice", "prompt": "Qu'est-ce qu'on trouve au premier plan de la toile ?", "options": ["Une table avec un verre et un livre", "Une chaise vide tournée vers la fenêtre", "Un ciel orange et gris", "Une femme assise près du mur"], "answer": "Une table avec un verre et un livre" },
+                { "id": "b1_u15_l02_rd02", "type": "trueFalse", "prompt": "Tous les visiteurs ressentent la même chose devant cette toile.", "options": ["True", "False"], "answer": "False" },
+                { "id": "b1_u15_l02_rd03", "type": "multipleChoice", "prompt": "D'où vient la lumière dans le tableau ?", "options": ["De la gauche", "De la droite", "Du plafond", "De la porte du fond"], "answer": "De la gauche" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "b1_u15_l02_wr01", "type": "translate", "prompt": "Translate: In the background, the sky is pale and dull.", "english": "In the background, the sky is pale and dull.", "answer": "À l'arrière-plan, le ciel est pâle et terne.", "acceptedAnswers": ["A l'arriere-plan, le ciel est pale et terne.", "À l'arrière-plan le ciel est pâle et terne"] },
+            { "id": "b1_u15_l02_wr02", "type": "translate", "prompt": "Translate: This portrait is darker than the landscape.", "english": "This portrait is darker than the landscape.", "answer": "Ce portrait est plus sombre que le paysage.", "acceptedAnswers": ["Ce portrait est plus sombre que le paysage", "Ce portrait-là est plus sombre que le paysage."] },
+            { "id": "b1_u15_l02_wr03", "type": "arrangeWords", "words": ["une", "de", "cette", "impression", "donne", "calme", "toile", "me"], "answer": "cette toile me donne une impression de calme", "english": "This canvas gives me an impression of calm." }
+          ]
+        }
+,
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "b1_u15_l02_pr01", "type": "multipleChoice", "prompt": "Complétez : « des yeux ___ ».", "options": ["bleu clair", "bleus clairs", "bleues claires", "bleu clairs"], "answer": "bleu clair" },
+            { "id": "b1_u15_l02_pr02", "type": "fillBlank", "prompt": "Cette salle est la ___ lumineuse du musée.", "answer": "plus" },
+            { "id": "b1_u15_l02_pr03", "type": "match", "pairs": [{ "french": "l'arrière-plan", "english": "the background" }, { "french": "la teinte", "english": "the shade" }, { "french": "l'ombre", "english": "the shadow" }, { "french": "le trait", "english": "the line, the stroke" }] },
+            { "id": "b1_u15_l02_pr04", "type": "multipleChoice", "prompt": "Quel adjectif signifie « qui apaise, qui calme » ?", "options": ["apaisant", "troublant", "saisissant", "terne"], "answer": "apaisant" },
+            { "id": "b1_u15_l02_pr05", "type": "arrangeWords", "words": ["scène", "tableau", "de", "une", "ce", "représente", "marché"], "answer": "ce tableau représente une scène de marché", "english": "This picture depicts a market scene." },
+            { "id": "b1_u15_l02_pr06", "type": "fillBlank", "prompt": "Il y a ___ de personnages dans les deux toiles : cinq de chaque côté.", "answer": "autant" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "b1_u15_l02_qz01", "type": "multipleChoice", "prompt": "« Terne » veut dire :", "options": ["sans éclat, sans vivacité", "très lumineux", "de forme ronde", "peint récemment"], "answer": "sans éclat, sans vivacité" },
+            { "id": "b1_u15_l02_qz02", "type": "trueFalse", "prompt": "Dans « des murs vert foncé », l'adjectif « vert » prend un -s.", "options": ["True", "False"], "answer": "False" },
+            { "id": "b1_u15_l02_qz03", "type": "fillBlank", "prompt": "Ce paysage est ___ coloré que le portrait : il est presque gris.", "answer": "moins" },
+            { "id": "b1_u15_l02_qz04", "type": "multipleChoice", "prompt": "Quelle phrase exprime un ressenti personnel ?", "options": ["Cette œuvre me donne une impression de vertige.", "La toile mesure deux mètres sur trois.", "Elle a été peinte en 1912.", "Le cartel indique la technique employée."], "answer": "Cette œuvre me donne une impression de vertige." },
+            { "id": "b1_u15_l02_qz05", "type": "translate", "prompt": "Translate: The colours suggest the end of a summer's day.", "english": "The colours suggest the end of a summer's day.", "answer": "Les couleurs suggèrent la fin d'une journée d'été.", "acceptedAnswers": ["Les couleurs suggerent la fin d'une journee d'ete.", "Les couleurs suggèrent la fin d'une journée d'été"] }
+          ]
+        }
+      ]
+    }
+,
+    {
+      "id": "b1_u15_l03",
+      "level": "B1",
+      "unit": 15,
+      "title": "L'art dans la rue",
+      "description": "Talk about street art and public art, and take part in the debate about where it belongs.",
+      "estimatedMinutes": 17,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "The vocabulary of street art",
+              "body": "French distinguishes several things that English lumps together. Un tag is a quick signature; un graffiti is lettering, often coloured; une fresque murale is a large commissioned or tolerated wall painting; un pochoir is a stencil. The people who make them are des artistes urbains, and many of them work under un pseudonyme.",
+              "examples": [
+                { "french": "Ce n'est pas un tag, c'est une fresque murale de dix mètres.", "english": "It isn't a tag, it's a ten-metre wall painting." },
+                { "french": "Il travaille au pochoir, toujours en noir et blanc.", "english": "He works with stencils, always in black and white." },
+                { "french": "La bombe de peinture reste son outil principal.", "english": "The spray can is still his main tool." },
+                { "french": "L'artiste signe d'un pseudonyme et garde l'anonymat.", "english": "The artist signs with a pseudonym and stays anonymous." },
+                { "french": "Le quartier organise un festival de street art chaque printemps.", "english": "The district runs a street art festival every spring." },
+                { "french": "Ces œuvres sont éphémères : elles disparaissent en quelques mois.", "english": "These works are ephemeral: they disappear within a few months." }
+              ],
+              "tip": "« Le street art » is used as is in French, but « l'art urbain » is the term you will see in official texts and museum labels."
+            },
+            {
+              "heading": "The two sides of the debate",
+              "body": "The discussion usually turns on the same points. On one side: street art brings life to neglected walls, it is free and open to everyone, and it carries a social message. On the other: it is done without permission, it damages private property, and the city has to pay to clean it up. Good B1 speakers can present both sides before choosing.",
+              "examples": [
+                { "french": "D'un côté, ces fresques embellissent des façades grises.", "english": "On the one hand, these murals brighten up grey façades." },
+                { "french": "D'un autre côté, tout le monde n'a pas donné son autorisation.", "english": "On the other hand, not everyone has given their permission." },
+                { "french": "Certains riverains parlent carrément de vandalisme.", "english": "Some local residents talk quite frankly about vandalism." },
+                { "french": "La mairie préfère encadrer plutôt qu'interdire.", "english": "The town hall prefers to regulate rather than ban." },
+                { "french": "Effacer un graffiti coûte cher à la collectivité.", "english": "Removing a graffito is expensive for the community." },
+                { "french": "Aujourd'hui, certaines de ces œuvres font partie du patrimoine local.", "english": "Today some of these works are part of the local heritage." }
+              ],
+              "tip": "« D'un côté… d'un autre côté… » is the simplest way to sound balanced. Pair it with « personnellement, je pense que… » at the end."
+            },
+            {
+              "heading": "Giving a nuanced opinion",
+              "body": "At B1 you are expected to soften and qualify. Use ça dépend, dans une certaine mesure, à condition que, tant que. Concession connectors are essential: pourtant, cependant, en revanche, même si. They let you agree with part of an argument while disagreeing with the rest.",
+              "examples": [
+                { "french": "Je suis plutôt favorable, à condition que le propriétaire soit d'accord.", "english": "I'm fairly in favour, provided the owner agrees." },
+                { "french": "C'est illégal, certes, mais ce n'est pas forcément de la dégradation.", "english": "It's illegal, admittedly, but it isn't necessarily damage." },
+                { "french": "Même si j'aime ces fresques, je comprends les riverains.", "english": "Even if I like these murals, I understand the local residents." },
+                { "french": "En revanche, taguer un monument historique me choque.", "english": "On the other hand, tagging a historic monument shocks me." },
+                { "french": "Tant que personne ne se plaint, la mairie ferme les yeux.", "english": "As long as nobody complains, the town hall turns a blind eye." },
+                { "french": "Dans une certaine mesure, la rue est un musée gratuit.", "english": "To a certain extent, the street is a free museum." }
+              ],
+              "tip": "« Certes… mais… » (admittedly… but…) instantly makes an argument sound more mature than a flat « oui mais »."
+            }
+          ]
+        }
+,
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "le-street-art", "french": "le street art", "english": "street art", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh street ART", "example": "Le street art attire aujourd'hui les galeries et les collectionneurs.", "exampleEnglish": "Street art now attracts galleries and collectors.", "level": "B1", "category": "art" },
+            { "id": "le-graffiti", "french": "le graffiti", "english": "graffiti (piece)", "partOfSpeech": "noun", "gender": "m", "plural": "les graffitis", "pronunciation": "luh grah-fee-TEE", "example": "Un graffiti immense recouvre tout le pignon de l'immeuble.", "exampleEnglish": "A huge graffiti piece covers the whole gable of the building.", "level": "B1", "category": "art" },
+            { "id": "le-tag", "french": "le tag", "english": "tag (signature)", "partOfSpeech": "noun", "gender": "m", "plural": "les tags", "pronunciation": "luh TAG", "example": "Les tags sur les boîtes aux lettres agacent les habitants.", "exampleEnglish": "The tags on the letterboxes annoy the residents.", "level": "B1", "category": "art" },
+            { "id": "la-fresque-murale", "french": "la fresque murale", "english": "mural, wall painting", "partOfSpeech": "noun", "gender": "f", "plural": "les fresques murales", "pronunciation": "lah FRESK mu-RAHL", "example": "Une fresque murale colorée a remplacé le mur gris.", "exampleEnglish": "A colourful mural has replaced the grey wall.", "level": "B1", "category": "art" },
+            { "id": "le-pochoir", "french": "le pochoir", "english": "stencil", "partOfSpeech": "noun", "gender": "m", "plural": "les pochoirs", "pronunciation": "luh po-SHWAHR", "example": "Il découpe ses pochoirs dans du carton épais.", "exampleEnglish": "He cuts his stencils out of thick cardboard.", "level": "B1", "category": "art" },
+            { "id": "la-bombe-de-peinture", "french": "la bombe de peinture", "english": "spray can", "partOfSpeech": "noun", "gender": "f", "plural": "les bombes de peinture", "pronunciation": "lah BOHMB duh pahn-TUR", "example": "La vente de bombes de peinture aux mineurs est encadrée.", "exampleEnglish": "The sale of spray cans to minors is regulated.", "level": "B1", "category": "art" },
+            { "id": "le-mur", "french": "le mur", "english": "wall", "partOfSpeech": "noun", "gender": "m", "plural": "les murs", "pronunciation": "luh MUR", "example": "Ce mur est devenu une véritable galerie à ciel ouvert.", "exampleEnglish": "This wall has become a real open-air gallery.", "level": "B1", "category": "art" },
+            { "id": "la-facade", "french": "la façade", "english": "façade, front of a building", "partOfSpeech": "noun", "gender": "f", "plural": "les façades", "pronunciation": "lah fah-SAHD", "example": "La façade de l'école a été repeinte par des collégiens.", "exampleEnglish": "The front of the school was repainted by secondary-school pupils.", "level": "B1", "category": "art" },
+            { "id": "le-quartier", "french": "le quartier", "english": "neighbourhood, district", "partOfSpeech": "noun", "gender": "m", "plural": "les quartiers", "pronunciation": "luh kar-TYAY", "example": "Le quartier a beaucoup changé depuis le festival.", "exampleEnglish": "The neighbourhood has changed a lot since the festival.", "level": "B1", "category": "art" },
+            { "id": "rue", "french": "la rue", "english": "street", "partOfSpeech": "noun", "gender": "f", "plural": "les rues", "pronunciation": "lah RU", "example": "Dans cette rue, chaque porte de garage est peinte.", "exampleEnglish": "In this street, every garage door is painted.", "level": "B1", "category": "art" },
+            { "id": "le-passant", "french": "le passant", "english": "passer-by", "partOfSpeech": "noun", "gender": "m", "plural": "les passants", "pronunciation": "luh pah-SAHN", "example": "Les passants s'arrêtent pour photographier la fresque.", "exampleEnglish": "Passers-by stop to photograph the mural.", "level": "B1", "category": "art" },
+            { "id": "riverain", "french": "le riverain", "english": "local resident", "partOfSpeech": "noun", "gender": "m", "plural": "les riverains", "pronunciation": "luh reev-RAN", "example": "Les riverains ont été consultés avant le projet.", "exampleEnglish": "Local residents were consulted before the project.", "level": "B1", "category": "society" },
+            { "id": "mairie", "french": "la mairie", "english": "town hall", "partOfSpeech": "noun", "gender": "f", "plural": "les mairies", "pronunciation": "lah meh-REE", "example": "La mairie finance trois murs légaux par an.", "exampleEnglish": "The town hall funds three legal walls a year.", "level": "B1", "category": "society" },
+            { "id": "l-autorisation", "french": "l'autorisation", "english": "permission, authorisation", "partOfSpeech": "noun", "gender": "f", "plural": "les autorisations", "pronunciation": "loh-toh-ree-zah-SYOHN", "example": "Sans autorisation écrite, l'artiste risque une amende.", "exampleEnglish": "Without written permission, the artist risks a fine.", "level": "B1", "category": "society" },
+            { "id": "l-amende", "french": "l'amende", "english": "fine", "partOfSpeech": "noun", "gender": "f", "plural": "les amendes", "pronunciation": "lah-MAHND", "example": "Il a payé une amende de trois cents euros.", "exampleEnglish": "He paid a three-hundred-euro fine.", "level": "B1", "category": "society" },
+            { "id": "le-vandalisme", "french": "le vandalisme", "english": "vandalism", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh vahn-dah-LEESM", "example": "Pour certains, c'est de l'art ; pour d'autres, du vandalisme.", "exampleEnglish": "For some it's art; for others, vandalism.", "level": "B1", "category": "society" },
+            { "id": "degradation", "french": "la dégradation", "english": "damage, defacement", "partOfSpeech": "noun", "gender": "f", "plural": "les dégradations", "pronunciation": "lah day-grah-dah-SYOHN", "example": "La loi punit la dégradation des biens publics.", "exampleEnglish": "The law punishes the defacement of public property.", "level": "B1", "category": "society" },
+            { "id": "illegal", "french": "illégal", "english": "illegal", "partOfSpeech": "adjective", "pronunciation": "ee-lay-GAHL", "example": "Peindre sans autorisation reste illégal en France.", "exampleEnglish": "Painting without permission is still illegal in France.", "level": "B1", "category": "society" },
+            { "id": "ephemere", "french": "éphémère", "english": "short-lived, ephemeral", "partOfSpeech": "adjective", "pronunciation": "ay-fay-MEHR", "example": "Cet art est éphémère par nature.", "exampleEnglish": "This art is short-lived by its very nature.", "level": "B1", "category": "art" },
+            { "id": "patrimoine", "french": "le patrimoine", "english": "heritage", "partOfSpeech": "noun", "gender": "m", "plural": "les patrimoines", "pronunciation": "luh pah-tree-MWAHN", "example": "Certaines fresques sont désormais classées au patrimoine local.", "exampleEnglish": "Some murals are now listed as local heritage.", "level": "B1", "category": "society" },
+            { "id": "embellir", "french": "embellir", "english": "to brighten up, to beautify", "partOfSpeech": "verb", "pronunciation": "ahn-beh-LEER", "example": "Ces couleurs embellissent un quartier assez triste.", "exampleEnglish": "These colours brighten up a rather dreary neighbourhood.", "level": "B1", "category": "art" },
+            { "id": "degrader", "french": "dégrader", "english": "to damage, to deface", "partOfSpeech": "verb", "pronunciation": "day-grah-DAY", "example": "Personne n'a le droit de dégrader la propriété d'autrui.", "exampleEnglish": "Nobody has the right to damage someone else's property.", "level": "B1", "category": "society" },
+            { "id": "effacer", "french": "effacer", "english": "to erase, to remove", "partOfSpeech": "verb", "pronunciation": "eh-fah-SAY", "example": "Les services de la ville effacent les tags chaque semaine.", "exampleEnglish": "The city services remove the tags every week.", "level": "B1", "category": "society" },
+            { "id": "interdire", "french": "interdire", "english": "to ban, to forbid", "partOfSpeech": "verb", "pronunciation": "an-tehr-DEER", "example": "Interdire ne suffit pas : il faut proposer des murs libres.", "exampleEnglish": "Banning isn't enough: you have to offer free walls.", "level": "B1", "category": "society" },
+            { "id": "autoriser", "french": "autoriser", "english": "to allow, to authorise", "partOfSpeech": "verb", "pronunciation": "oh-toh-ree-ZAY", "example": "La ville autorise la peinture sur douze murs identifiés.", "exampleEnglish": "The city allows painting on twelve designated walls.", "level": "B1", "category": "society" },
+            { "id": "tolerer", "french": "tolérer", "english": "to tolerate, to put up with", "partOfSpeech": "verb", "pronunciation": "toh-lay-RAY", "example": "On tolère les fresques, mais pas les tags sur les vitrines.", "exampleEnglish": "Murals are tolerated, but not tags on shop windows.", "level": "B1", "category": "society" },
+            { "id": "revendiquer", "french": "revendiquer", "english": "to claim, to assert", "partOfSpeech": "verb", "pronunciation": "ruh-vahn-dee-KAY", "example": "L'artiste revendique le droit d'occuper l'espace public.", "exampleEnglish": "The artist claims the right to occupy public space.", "level": "B1", "category": "society" },
+            { "id": "denoncer", "french": "dénoncer", "english": "to denounce, to expose", "partOfSpeech": "verb", "pronunciation": "day-nohn-SAY", "example": "Cette fresque dénonce la pollution de la rivière.", "exampleEnglish": "This mural denounces the pollution of the river.", "level": "B1", "category": "society" },
+            { "id": "valoriser", "french": "valoriser", "english": "to enhance, to showcase", "partOfSpeech": "verb", "pronunciation": "vah-loh-ree-ZAY", "example": "Le parcours artistique valorise des rues oubliées.", "exampleEnglish": "The art trail showcases forgotten streets.", "level": "B1", "category": "society" },
+            { "id": "le-message", "french": "le message", "english": "message", "partOfSpeech": "noun", "gender": "m", "plural": "les messages", "pronunciation": "luh meh-SAHZH", "example": "Le message est clair, même sans un seul mot.", "exampleEnglish": "The message is clear, even without a single word.", "level": "B1", "category": "society" },
+            { "id": "engagement", "french": "l'engagement", "english": "commitment, activism", "partOfSpeech": "noun", "gender": "m", "plural": "les engagements", "pronunciation": "lahn-gahzh-MAHN", "example": "Son engagement politique se lit sur chaque mur.", "exampleEnglish": "Her political commitment can be read on every wall.", "level": "B1", "category": "society" },
+            { "id": "le-debat", "french": "le débat", "english": "debate", "partOfSpeech": "noun", "gender": "m", "plural": "les débats", "pronunciation": "luh day-BAH", "example": "Le débat revient chaque fois qu'un mur est repeint.", "exampleEnglish": "The debate comes back every time a wall is repainted.", "level": "B1", "category": "society" },
+            { "id": "la-polemique", "french": "la polémique", "english": "controversy, row", "partOfSpeech": "noun", "gender": "f", "plural": "les polémiques", "pronunciation": "lah po-lay-MEEK", "example": "La polémique a duré trois semaines dans la presse locale.", "exampleEnglish": "The controversy lasted three weeks in the local press.", "level": "B1", "category": "society" },
+            { "id": "le-point-de-vue", "french": "le point de vue", "english": "point of view", "partOfSpeech": "noun", "gender": "m", "plural": "les points de vue", "pronunciation": "luh pwan duh VU", "example": "Je comprends son point de vue, même si je ne le partage pas.", "exampleEnglish": "I understand his point of view, even if I don't share it.", "level": "B1", "category": "society" },
+            { "id": "l-anonymat", "french": "l'anonymat", "english": "anonymity", "partOfSpeech": "noun", "gender": "m", "pronunciation": "lah-no-nee-MAH", "example": "Il tient à son anonymat pour éviter les poursuites.", "exampleEnglish": "He insists on his anonymity to avoid prosecution.", "level": "B1", "category": "society" },
+            { "id": "la-reconnaissance", "french": "la reconnaissance", "english": "recognition", "partOfSpeech": "noun", "gender": "f", "plural": "les reconnaissances", "pronunciation": "lah ruh-ko-neh-SAHNS", "example": "La reconnaissance des musées est arrivée très tard.", "exampleEnglish": "Recognition from museums came very late.", "level": "B1", "category": "society" },
+            { "id": "la-commande-publique", "french": "la commande publique", "english": "public commission", "partOfSpeech": "noun", "gender": "f", "plural": "les commandes publiques", "pronunciation": "lah ko-MAHND pu-BLEEK", "example": "Cette sculpture est une commande publique de la région.", "exampleEnglish": "This sculpture is a public commission from the region.", "level": "B1", "category": "society" }
+          ]
+        }
+,
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "The subjunctive after opinion and emotion",
+              "body": "The present subjunctive is formed from the ils form of the present: ils finissent → que je finisse. Use it after expressions of will, emotion and necessity (il faut que, je veux que, je suis content que), and after verbs of opinion when they are negative or in a question: je ne pense pas que ce soit de l'art. In the affirmative, penser and croire keep the indicative.",
+              "examples": [
+                { "french": "Il faut que la mairie prenne position.", "english": "The town hall has to take a position.", "note": "prendre → prenne" },
+                { "french": "Je ne pense pas que ce soit du vandalisme.", "english": "I don't think it's vandalism.", "note": "negative opinion → subjunctive" },
+                { "french": "Je pense que c'est du vandalisme.", "english": "I think it's vandalism.", "note": "affirmative → indicative" },
+                { "french": "Je suis content que ce mur soit enfin légal.", "english": "I'm glad this wall is finally legal." },
+                { "french": "Bien qu'il travaille la nuit, tout le monde le connaît.", "english": "Although he works at night, everyone knows him.", "note": "bien que always takes the subjunctive" },
+                { "french": "À condition que le propriétaire accepte, c'est possible.", "english": "Provided the owner agrees, it's possible." }
+              ],
+              "tip": "The four you will meet most often are irregular: être → soit, avoir → ait, faire → fasse, pouvoir → puisse."
+            },
+            {
+              "heading": "Concession connectors",
+              "body": "To sound balanced in a debate you need words that introduce a contrast. Mais is neutral, pourtant and cependant mean \"yet / however\", en revanche means \"on the other hand\" and compares two situations, and malgré + noun means \"despite\". Note that bien que and quoique are followed by the subjunctive, while même si takes the indicative.",
+              "examples": [
+                { "french": "C'est illégal ; pourtant, la ville laisse faire.", "english": "It's illegal; and yet the city lets it happen." },
+                { "french": "Cependant, tous les riverains ne sont pas d'accord.", "english": "However, not all local residents agree." },
+                { "french": "Les fresques sont acceptées ; en revanche, les tags sont effacés.", "english": "Murals are accepted; tags, on the other hand, are removed." },
+                { "french": "Malgré les amendes, il continue de peindre.", "english": "Despite the fines, he goes on painting." },
+                { "french": "Même si c'est beau, ça reste le mur de quelqu'un.", "english": "Even if it's beautiful, it's still someone's wall.", "note": "même si + indicative" },
+                { "french": "Bien que ce soit toléré, ce n'est pas autorisé.", "english": "Although it's tolerated, it isn't authorised.", "note": "bien que + subjunctive" }
+              ],
+              "tip": "Careful with the false friend: « éventuellement » means \"possibly\", not \"eventually\"."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "b1_u15_l03_li01", "type": "listenChoose", "french": "Ces fresques embellissent des façades vraiment grises.", "options": ["Ces fresques embellissent des façades vraiment grises.", "Ces tags dégradent des façades vraiment anciennes.", "Ces pochoirs décorent des murs vraiment abîmés.", "Ces graffitis recouvrent des façades vraiment neuves."], "answer": "Ces fresques embellissent des façades vraiment grises." },
+            { "id": "b1_u15_l03_li02", "type": "listenChoose", "french": "Je ne pense pas que ce soit du vandalisme.", "options": ["Je ne pense pas que ce soit du vandalisme.", "Je pense que c'est du vandalisme.", "Je ne crois pas qu'il ait une autorisation.", "Je trouve que c'est une belle fresque."], "answer": "Je ne pense pas que ce soit du vandalisme." },
+            { "id": "b1_u15_l03_li03", "type": "listenType", "french": "La mairie préfère encadrer plutôt qu'interdire.", "answer": "La mairie préfère encadrer plutôt qu'interdire.", "acceptedAnswers": ["La mairie prefere encadrer plutot qu'interdire", "la mairie préfère encadrer plutôt qu'interdire"] },
+            { "id": "b1_u15_l03_li04", "type": "dictation", "french": "Bien que ce soit toléré, ce n'est pas vraiment autorisé.", "answer": "Bien que ce soit toléré, ce n'est pas vraiment autorisé.", "acceptedAnswers": ["Bien que ce soit tolere ce n'est pas vraiment autorise", "Bien que ce soit toléré ce n'est pas vraiment autorisé"] }
+          ]
+        }
+,
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "b1_u15_l03_sp01", "type": "speak", "french": "D'un côté, ça embellit le quartier ; d'un autre côté, c'est illégal.", "english": "On the one hand, it brightens up the neighbourhood; on the other, it's illegal.", "prompt": "Present both sides of the argument.", "tip": "Pause slightly after « d'un côté » — the small silence is what makes the two-part structure audible." },
+            { "id": "b1_u15_l03_sp02", "type": "speak", "french": "Je ne pense pas que ce soit du vandalisme, franchement.", "english": "I don't think it's vandalism, honestly.", "prompt": "Disagree politely with an accusation.", "tip": "« soit » is one syllable, SWAH — do not add a t sound at the end." },
+            { "id": "b1_u15_l03_sp03", "type": "speak", "french": "Bien que ce soit toléré, il vaudrait mieux demander l'autorisation.", "english": "Although it's tolerated, it would be better to ask for permission.", "prompt": "Give a nuanced recommendation.", "tip": "Link « bien que ce » smoothly: byan-kuh-suh, with no break between the words." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Le mur de la rue des Tilleuls",
+              "french": "Depuis mars, un immense oiseau bleu couvre le pignon d'un immeuble, rue des Tilleuls.\nL'œuvre fait douze mètres de haut et a été réalisée en quatre jours, à la bombe et au pochoir.\nL'artiste, qui signe d'un pseudonyme, a obtenu l'autorisation du propriétaire et de la mairie.\nLe quartier est partagé : une pétition circule pour la garder, une autre pour l'effacer.\n« C'est beaucoup plus gai qu'un mur gris », explique une commerçante du coin.\nUn riverain plus âgé n'est pas du tout du même avis.\n« Personne ne m'a demandé mon opinion, et je vois cet oiseau depuis ma cuisine. »\nLa mairie, elle, défend un programme d'art urbain lancé il y a trois ans.\nElle finance chaque année trois murs légaux, choisis avec les habitants.\nEn revanche, elle continue d'effacer les tags posés sans autorisation.\n« Nous préférons encadrer plutôt qu'interdire », résume l'adjointe à la culture.\nBien que le débat revienne à chaque fresque, le quartier attire désormais des visiteurs.\nCertains viennent de loin, appareil photo à la main, pour un musée qui ne ferme jamais.",
+              "english": "Since March, a huge blue bird has covered the gable of a building on rue des Tilleuls.\nThe work is twelve metres high and was made in four days, with spray cans and stencils.\nThe artist, who signs with a pseudonym, obtained permission from the owner and the town hall.\nThe neighbourhood is divided: one petition is going round to keep it, another to remove it.\n\"It's much more cheerful than a grey wall,\" explains a local shopkeeper.\nAn older resident is not at all of the same opinion.\n\"Nobody asked my opinion, and I can see that bird from my kitchen.\"\nThe town hall, for its part, defends an urban art programme launched three years ago.\nEvery year it funds three legal walls, chosen together with residents.\nOn the other hand, it goes on removing tags put up without permission.\n\"We prefer to regulate rather than ban,\" sums up the deputy mayor for culture.\nAlthough the debate comes back with every mural, the neighbourhood now attracts visitors.\nSome come from far away, camera in hand, for a museum that never closes.",
+              "questions": [
+                { "id": "b1_u15_l03_rd01", "type": "trueFalse", "prompt": "L'artiste a peint le mur sans aucune autorisation.", "options": ["True", "False"], "answer": "False" },
+                { "id": "b1_u15_l03_rd02", "type": "multipleChoice", "prompt": "Que fait la mairie chaque année ?", "options": ["Elle finance trois murs légaux choisis avec les habitants", "Elle organise une pétition contre les fresques", "Elle interdit toute peinture dans le quartier", "Elle repeint toutes les façades en gris"], "answer": "Elle finance trois murs légaux choisis avec les habitants" },
+                { "id": "b1_u15_l03_rd03", "type": "multipleChoice", "prompt": "Quelle est la position du riverain plus âgé ?", "options": ["Il regrette de ne pas avoir été consulté", "Il trouve l'oiseau très réussi", "Il veut peindre lui aussi un mur", "Il travaille pour la mairie"], "answer": "Il regrette de ne pas avoir été consulté" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "b1_u15_l03_wr01", "type": "translate", "prompt": "Translate: I don't think it's vandalism.", "english": "I don't think it's vandalism.", "answer": "Je ne pense pas que ce soit du vandalisme.", "acceptedAnswers": ["Je ne pense pas que ce soit du vandalisme", "Je ne crois pas que ce soit du vandalisme."] },
+            { "id": "b1_u15_l03_wr02", "type": "translate", "prompt": "Translate: Despite the fines, he goes on painting on walls.", "english": "Despite the fines, he goes on painting on walls.", "answer": "Malgré les amendes, il continue de peindre sur les murs.", "acceptedAnswers": ["Malgre les amendes, il continue de peindre sur les murs.", "Malgré les amendes il continue à peindre sur les murs"] },
+            { "id": "b1_u15_l03_wr03", "type": "arrangeWords", "words": ["fresques", "quartier", "ces", "le", "embellissent"], "answer": "ces fresques embellissent le quartier", "english": "These murals brighten up the neighbourhood." }
+          ]
+        }
+,
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "b1_u15_l03_pr01", "type": "fillBlank", "prompt": "Il faut que la mairie ___ position rapidement. (prendre)", "answer": "prenne" },
+            { "id": "b1_u15_l03_pr02", "type": "multipleChoice", "prompt": "Choisissez la phrase correcte.", "options": ["Bien que ce soit toléré, ce n'est pas autorisé.", "Bien que c'est toléré, ce n'est pas autorisé.", "Bien que ce sera toléré, ce n'est pas autorisé.", "Bien que ce serait toléré, ce n'est pas autorisé."], "answer": "Bien que ce soit toléré, ce n'est pas autorisé." },
+            { "id": "b1_u15_l03_pr03", "type": "match", "pairs": [{ "french": "le pochoir", "english": "the stencil" }, { "french": "la façade", "english": "the front of a building" }, { "french": "l'amende", "english": "the fine" }, { "french": "le riverain", "english": "the local resident" }] },
+            { "id": "b1_u15_l03_pr04", "type": "fillBlank", "prompt": "Les fresques sont acceptées ; ___ revanche, les tags sont effacés.", "answer": "en" },
+            { "id": "b1_u15_l03_pr05", "type": "arrangeWords", "words": ["autorisation", "peindre", "illégal", "sans", "est"], "answer": "peindre sans autorisation est illégal", "english": "Painting without permission is illegal." },
+            { "id": "b1_u15_l03_pr06", "type": "multipleChoice", "prompt": "Quel mot désigne une grande peinture murale, souvent autorisée ?", "options": ["une fresque murale", "un tag", "une amende", "un cartel"], "answer": "une fresque murale" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "b1_u15_l03_qz01", "type": "fillBlank", "prompt": "Je ne pense pas que ce ___ du vandalisme. (être)", "answer": "soit" },
+            { "id": "b1_u15_l03_qz02", "type": "multipleChoice", "prompt": "« Éphémère » signifie :", "options": ["qui dure peu de temps", "qui coûte très cher", "qui est fait au pochoir", "qui est interdit par la loi"], "answer": "qui dure peu de temps" },
+            { "id": "b1_u15_l03_qz03", "type": "trueFalse", "prompt": "« Même si » est suivi du subjonctif.", "options": ["True", "False"], "answer": "False" },
+            { "id": "b1_u15_l03_qz04", "type": "multipleChoice", "prompt": "Quelle phrase présente les deux côtés du débat ?", "options": ["D'un côté ça embellit la rue, d'un autre côté c'est illégal.", "C'est magnifique, point final.", "Tous les tags devraient être effacés.", "Je déteste l'art urbain."], "answer": "D'un côté ça embellit la rue, d'un autre côté c'est illégal." },
+            { "id": "b1_u15_l03_qz05", "type": "translate", "prompt": "Translate: The town hall prefers to regulate rather than ban.", "english": "The town hall prefers to regulate rather than ban.", "answer": "La mairie préfère encadrer plutôt qu'interdire.", "acceptedAnswers": ["La mairie prefere encadrer plutot qu'interdire.", "La mairie préfère encadrer plutôt que d'interdire."] }
+          ]
+        }
+      ]
+    }
+  ]
+}

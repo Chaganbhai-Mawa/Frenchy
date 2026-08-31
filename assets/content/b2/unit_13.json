@@ -1,0 +1,1036 @@
+{
+  "id": "b2_u13",
+  "level": "B2",
+  "unit": 13,
+  "title": "Science & Innovation",
+  "subtitle": "Talk about how research works, argue about AI, and explain hard ideas simply",
+  "icon": "🧪",
+  "lessons": [
+    {
+      "id": "b2_u13_l01",
+      "level": "B2",
+      "unit": 13,
+      "title": "La recherche française",
+      "description": "How French research is organised and paid for: laboratories, doctorates, permanent posts and project funding.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Who does research, and where",
+              "body": "French research happens in two overlapping worlds: universities and national research organisations such as the CNRS, l'INSERM or l'INRAE. Most laboratories are joint units, run together by an organisation and a university — that shared authority is called la tutelle. Knowing these words lets you follow a French news report or a colleague's description of their job.",
+              "examples": [
+                { "french": "Elle est chercheuse au CNRS, dans un laboratoire de biologie marine.", "english": "She is a researcher at the CNRS, in a marine biology laboratory." },
+                { "french": "Le laboratoire a deux tutelles : l'université et un organisme de recherche.", "english": "The laboratory has two supervising bodies: the university and a research organisation." },
+                { "french": "Il travaille en recherche fondamentale ; sa collègue fait de la recherche appliquée.", "english": "He works in basic research; his colleague does applied research." },
+                { "french": "L'unité compte une quarantaine de personnes, doctorants compris.", "english": "The unit has around forty people, doctoral students included." },
+                { "french": "Les crédits viennent en partie du ministère, en partie d'appels à projets.", "english": "The funding comes partly from the ministry, partly from calls for projects." }
+              ],
+              "tip": "In French you say « faire de la recherche », not « faire recherche ». And « un laboratoire » is normally shortened to « un labo » in speech."
+            },
+            {
+              "heading": "The doctoral path",
+              "body": "A doctorate (le doctorat) usually lasts three years and is funded by a bourse or a contrat doctoral. The student is un doctorant or une doctorante, supervised by un directeur or une directrice de thèse. At the end, you « soutiens ta thèse » — you defend it in front of a jury. Only after that do you become docteur.",
+              "examples": [
+                { "french": "Je suis en deuxième année de doctorat.", "english": "I am in the second year of my doctorate." },
+                { "french": "Il soutient sa thèse en décembre devant un jury de cinq personnes.", "english": "He is defending his thesis in December before a five-person panel." },
+                { "french": "Ma directrice de thèse relit tous mes chapitres.", "english": "My thesis supervisor rereads all my chapters." },
+                { "french": "Sans bourse, il aurait dû abandonner sa thèse.", "english": "Without a grant, he would have had to give up his thesis." },
+                { "french": "Elle a obtenu un contrat doctoral de trois ans.", "english": "She got a three-year doctoral contract." }
+              ],
+              "tip": "« Passer une thèse » is common in speech, but the exact verb is « soutenir » (to defend) — that is what appears on official documents."
+            },
+            {
+              "heading": "Money, posts and time",
+              "body": "Two things dominate conversations about French research: how projects are funded and how few permanent posts there are. Permanent researchers are titulaires and are recruited by concours, a competitive examination. Everyone else works on fixed-term contracts, which is why la précarité comes up so often. Funding by appel à projets is widely discussed; supporters point to competition and focus, while unions and some scientific societies argue it favours short-term work.",
+              "examples": [
+                { "french": "Elle a été recrutée sur concours ; elle est titulaire depuis 2021.", "english": "She was recruited through a competitive exam; she has held a permanent post since 2021." },
+                { "french": "Selon plusieurs syndicats, le financement par projets accentue la précarité.", "english": "According to several unions, project-based funding increases job insecurity." },
+                { "french": "Les défenseurs de ce système estiment qu'il récompense les meilleures équipes.", "english": "Defenders of this system consider that it rewards the best teams." },
+                { "french": "La recherche fondamentale ne devient rentable qu'à long terme, parfois après trente ans.", "english": "Basic research only becomes profitable in the long term, sometimes after thirty years." },
+                { "french": "Bien que le budget ait augmenté, les crédits par chercheur restent stables.", "english": "Although the budget has increased, the funding per researcher remains stable." }
+              ],
+              "tip": "Attribute contested claims: « selon les syndicats », « d'après ce rapport », « les partisans du système estiment que… ». It is a B2 skill and it keeps you accurate."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "la-recherche", "french": "la recherche", "english": "research", "partOfSpeech": "noun", "gender": "f", "plural": "les recherches", "pronunciation": "lah ruh-SHERSH", "example": "La recherche publique dépend largement des crédits de l'État.", "exampleEnglish": "Public research depends largely on State funding.", "level": "B2", "category": "science" },
+            { "id": "le-chercheur", "french": "le chercheur", "english": "the researcher (m)", "partOfSpeech": "noun", "gender": "m", "plural": "les chercheurs", "pronunciation": "luh sher-SHUR", "example": "Ce chercheur travaille sur les matériaux depuis vingt ans.", "exampleEnglish": "This researcher has been working on materials for twenty years.", "level": "B2", "category": "science" },
+            { "id": "la-chercheuse", "french": "la chercheuse", "english": "the researcher (f)", "partOfSpeech": "noun", "gender": "f", "plural": "les chercheuses", "pronunciation": "lah sher-SHUHZ", "example": "La chercheuse a présenté ses résultats au colloque de Lyon.", "exampleEnglish": "The researcher presented her results at the Lyon conference.", "level": "B2", "category": "science" },
+            { "id": "le-laboratoire", "french": "le laboratoire", "english": "the laboratory", "partOfSpeech": "noun", "gender": "m", "plural": "les laboratoires", "pronunciation": "luh lah-boh-rah-TWAR", "example": "Le laboratoire accueille des étudiants en stage chaque été.", "exampleEnglish": "The laboratory takes on intern students every summer.", "level": "B2", "category": "science" },
+            { "id": "l-organisme-de-recherche", "french": "l'organisme de recherche", "english": "the research organisation", "partOfSpeech": "noun", "gender": "m", "plural": "les organismes de recherche", "pronunciation": "lor-gah-NEEZM duh ruh-SHERSH", "example": "Le CNRS est le plus grand organisme de recherche du pays.", "exampleEnglish": "The CNRS is the country's largest research organisation.", "level": "B2", "category": "science" },
+            { "id": "la-tutelle", "french": "la tutelle", "english": "the supervising authority", "partOfSpeech": "noun", "gender": "f", "plural": "les tutelles", "pronunciation": "lah too-TELL", "example": "Ce laboratoire a deux tutelles, une université et un organisme.", "exampleEnglish": "This laboratory has two supervising authorities, a university and a research organisation.", "level": "B2", "category": "science" },
+            { "id": "l-universite", "french": "l'université", "english": "the university", "partOfSpeech": "noun", "gender": "f", "plural": "les universités", "pronunciation": "loo-nee-vair-see-TAY", "example": "L'université cofinance plusieurs projets du laboratoire.", "exampleEnglish": "The university co-funds several of the laboratory's projects.", "level": "B2", "category": "education" },
+            { "id": "ministere", "french": "le ministère", "english": "the ministry, the government department", "partOfSpeech": "noun", "gender": "m", "plural": "les ministères", "pronunciation": "luh mee-nees-TAIR", "example": "Le ministère verse une dotation annuelle à chaque unité.", "exampleEnglish": "The ministry pays an annual allocation to each unit.", "level": "B2", "category": "institutions" },
+            { "id": "le-doctorat", "french": "le doctorat", "english": "the doctorate, the PhD", "partOfSpeech": "noun", "gender": "m", "plural": "les doctorats", "pronunciation": "luh dok-toh-RAH", "example": "Elle prépare un doctorat en histoire des sciences.", "exampleEnglish": "She is doing a doctorate in the history of science.", "level": "B2", "category": "education" },
+            { "id": "doctorant", "french": "le doctorant", "english": "the doctoral student", "partOfSpeech": "noun", "gender": "m", "plural": "les doctorants", "pronunciation": "luh dok-toh-RAHN", "example": "Les doctorants encadrent aussi des travaux pratiques.", "exampleEnglish": "Doctoral students also run practical classes.", "level": "B2", "category": "education" },
+            { "id": "la-these", "french": "la thèse", "english": "the thesis (doctoral work)", "partOfSpeech": "noun", "gender": "f", "plural": "les thèses", "pronunciation": "lah TEZ", "example": "Sa thèse porte sur la mémoire des sols.", "exampleEnglish": "Her thesis is about the memory of soils.", "level": "B2", "category": "education" },
+            { "id": "soutenir-une-these", "french": "soutenir une thèse", "english": "to defend a thesis", "partOfSpeech": "expression", "pronunciation": "soo-tuh-NEER oon TEZ", "example": "Il soutient sa thèse le 12 mars à quatorze heures.", "exampleEnglish": "He is defending his thesis on 12 March at two o'clock.", "level": "B2", "category": "education" },
+            { "id": "directeur-de-these", "french": "le directeur de thèse", "english": "the thesis supervisor", "partOfSpeech": "noun", "gender": "m", "plural": "les directeurs de thèse", "pronunciation": "luh dee-rek-TUR duh TEZ", "example": "Mon directeur de thèse m'a conseillé de publier ce chapitre.", "exampleEnglish": "My thesis supervisor advised me to publish this chapter.", "level": "B2", "category": "education" },
+            { "id": "le-financement", "french": "le financement", "english": "the funding, the financing", "partOfSpeech": "noun", "gender": "m", "plural": "les financements", "pronunciation": "luh fee-nahns-MAHN", "example": "Le financement du projet court sur quatre ans.", "exampleEnglish": "The project's funding runs for four years.", "level": "B2", "category": "science" },
+            { "id": "financer", "french": "financer", "english": "to fund, to finance", "partOfSpeech": "verb", "pronunciation": "fee-nahn-SAY", "example": "L'Europe finance une partie de nos équipements.", "exampleEnglish": "Europe funds part of our equipment.", "level": "B2", "category": "science" },
+            { "id": "subvention", "french": "la subvention", "english": "the grant, the subsidy", "partOfSpeech": "noun", "gender": "f", "plural": "les subventions", "pronunciation": "lah soob-vahn-SYOHN", "example": "Nous avons obtenu une subvention pour acheter un microscope.", "exampleEnglish": "We got a grant to buy a microscope.", "level": "B2", "category": "science" },
+            { "id": "la-bourse", "french": "la bourse", "english": "the grant, the scholarship", "partOfSpeech": "noun", "gender": "f", "plural": "les bourses", "pronunciation": "lah BOORSS", "example": "Sa bourse couvre trois ans de recherche.", "exampleEnglish": "Her scholarship covers three years of research.", "level": "B2", "category": "education" },
+            { "id": "l-appel-a-projets", "french": "l'appel à projets", "english": "the call for projects", "partOfSpeech": "noun", "gender": "m", "plural": "les appels à projets", "pronunciation": "lah-PEL ah proh-JAY", "example": "L'appel à projets est ouvert jusqu'au 30 septembre.", "exampleEnglish": "The call for projects is open until 30 September.", "level": "B2", "category": "science" },
+            { "id": "le-concours", "french": "le concours", "english": "the competitive examination", "partOfSpeech": "noun", "gender": "m", "plural": "les concours", "pronunciation": "luh kohn-KOOR", "example": "Elle prépare le concours de chargé de recherche.", "exampleEnglish": "She is preparing for the research fellow examination.", "level": "B2", "category": "work" },
+            { "id": "le-poste", "french": "le poste", "english": "the position, the post", "partOfSpeech": "noun", "gender": "m", "plural": "les postes", "pronunciation": "luh POST", "example": "Trois postes seulement ont été ouverts dans la discipline.", "exampleEnglish": "Only three posts were opened in the field.", "level": "B2", "category": "work" },
+            { "id": "titulaire", "french": "titulaire", "english": "tenured, holding a permanent post", "partOfSpeech": "adjective", "pronunciation": "tee-too-LAIR", "example": "Il est titulaire depuis l'an dernier.", "exampleEnglish": "He has held a permanent post since last year.", "level": "B2", "category": "work" },
+            { "id": "precarite", "french": "la précarité", "english": "job insecurity, precariousness", "partOfSpeech": "noun", "gender": "f", "plural": "les précarités", "pronunciation": "lah pray-kah-ree-TAY", "example": "Plusieurs collectifs dénoncent la précarité des jeunes chercheurs.", "exampleEnglish": "Several groups denounce the job insecurity of young researchers.", "level": "B2", "category": "work" },
+            { "id": "la-recherche-fondamentale", "french": "la recherche fondamentale", "english": "basic research, fundamental research", "partOfSpeech": "noun", "gender": "f", "plural": "les recherches fondamentales", "pronunciation": "lah ruh-SHERSH fohn-dah-mahn-TAL", "example": "La recherche fondamentale ne vise pas une application immédiate.", "exampleEnglish": "Basic research does not aim at an immediate application.", "level": "B2", "category": "science" },
+            { "id": "la-recherche-appliquee", "french": "la recherche appliquée", "english": "applied research", "partOfSpeech": "noun", "gender": "f", "plural": "les recherches appliquées", "pronunciation": "lah ruh-SHERSH ah-plee-KAY", "example": "La recherche appliquée travaille souvent avec l'industrie.", "exampleEnglish": "Applied research often works with industry.", "level": "B2", "category": "science" },
+            { "id": "le-colloque", "french": "le colloque", "english": "the academic conference", "partOfSpeech": "noun", "gender": "m", "plural": "les colloques", "pronunciation": "luh koh-LOK", "example": "Le colloque réunit des équipes de douze pays.", "exampleEnglish": "The conference brings together teams from twelve countries.", "level": "B2", "category": "science" },
+            { "id": "publier", "french": "publier", "english": "to publish", "partOfSpeech": "verb", "pronunciation": "poo-blee-AY", "example": "Ils ont publié trois articles issus de la même expérimentation.", "exampleEnglish": "They published three papers from the same experiment.", "level": "B2", "category": "science" },
+            { "id": "revue-scientifique", "french": "la revue scientifique", "english": "the scientific journal", "partOfSpeech": "noun", "gender": "f", "plural": "les revues scientifiques", "pronunciation": "lah ruh-VOO syahn-tee-FEEK", "example": "L'article a été refusé par deux revues scientifiques.", "exampleEnglish": "The paper was rejected by two scientific journals.", "level": "B2", "category": "science" },
+            { "id": "pair", "french": "le pair", "english": "the peer (fellow specialist)", "partOfSpeech": "noun", "gender": "m", "plural": "les pairs", "pronunciation": "luh PAIR", "example": "Tout article est relu par des pairs avant publication.", "exampleEnglish": "Every paper is reviewed by peers before publication.", "level": "B2", "category": "science" },
+            { "id": "l-experimentation", "french": "l'expérimentation", "english": "the experiment, experimentation", "partOfSpeech": "noun", "gender": "f", "plural": "les expérimentations", "pronunciation": "lex-pay-ree-mahn-tah-SYOHN", "example": "L'expérimentation a duré six mois.", "exampleEnglish": "The experiment lasted six months.", "level": "B2", "category": "science" },
+            { "id": "le-protocole", "french": "le protocole", "english": "the protocol, the experimental procedure", "partOfSpeech": "noun", "gender": "m", "plural": "les protocoles", "pronunciation": "luh proh-toh-KOL", "example": "Le protocole doit être décrit assez précisément pour être repris.", "exampleEnglish": "The protocol must be described precisely enough to be reused.", "level": "B2", "category": "science" },
+            { "id": "le-resultat", "french": "le résultat", "english": "the result, the finding", "partOfSpeech": "noun", "gender": "m", "plural": "les résultats", "pronunciation": "luh ray-zool-TAH", "example": "Les résultats n'ont pas encore été confirmés.", "exampleEnglish": "The results have not been confirmed yet.", "level": "B2", "category": "science" },
+            { "id": "reproduire", "french": "reproduire", "english": "to reproduce, to replicate", "partOfSpeech": "verb", "pronunciation": "ruh-proh-DWEER", "example": "Une autre équipe n'a pas réussi à reproduire l'expérimentation.", "exampleEnglish": "Another team did not manage to replicate the experiment.", "level": "B2", "category": "science" },
+            { "id": "la-decouverte", "french": "la découverte", "english": "the discovery", "partOfSpeech": "noun", "gender": "f", "plural": "les découvertes", "pronunciation": "lah day-koo-VAIRT", "example": "Cette découverte a été faite presque par hasard.", "exampleEnglish": "This discovery was made almost by chance.", "level": "B2", "category": "science" },
+            { "id": "breveter", "french": "breveter", "english": "to patent", "partOfSpeech": "verb", "pronunciation": "bruh-vuh-TAY", "example": "L'université a fait breveter le procédé.", "exampleEnglish": "The university had the process patented.", "level": "B2", "category": "science" },
+            { "id": "le-savoir", "french": "le savoir", "english": "knowledge (body of learning)", "partOfSpeech": "noun", "gender": "m", "plural": "les savoirs", "pronunciation": "luh sah-VWAR", "example": "Le savoir produit par la recherche publique appartient à tous.", "exampleEnglish": "The knowledge produced by public research belongs to everyone.", "level": "B2", "category": "science" },
+            { "id": "l-echec", "french": "l'échec", "english": "the failure", "partOfSpeech": "noun", "gender": "m", "plural": "les échecs", "pronunciation": "lay-SHEK", "example": "En science, un échec bien documenté reste utile.", "exampleEnglish": "In science, a well-documented failure is still useful.", "level": "B2", "category": "science" },
+            { "id": "a-long-terme", "french": "à long terme", "english": "in the long term", "partOfSpeech": "expression", "pronunciation": "ah lohn TAIRM", "example": "Les retombées de ces travaux ne se verront qu'à long terme.", "exampleEnglish": "The benefits of this work will only be seen in the long term.", "level": "B2", "category": "connectors" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Attributing a claim: selon, d'après, pour",
+              "body": "When you report what someone else says, French marks the source with selon, d'après or pour + person. These take no preposition afterwards and no subjunctive. You can also use « X estime que + indicatif » or, to signal distance, the conditional: « le budget aurait été gelé » = the budget was reportedly frozen.",
+              "examples": [
+                { "french": "Selon le rapport, la moitié des doctorants quittent la recherche.", "english": "According to the report, half of doctoral students leave research.", "note": "selon + noun, no article change" },
+                { "french": "D'après cette étude, les crédits stagnent depuis dix ans.", "english": "According to this study, funding has been stagnant for ten years." },
+                { "french": "Pour ce syndicat, le problème vient du mode de recrutement.", "english": "For this union, the problem comes from the recruitment method." },
+                { "french": "Les auteurs estiment que le dispositif reste perfectible.", "english": "The authors consider that the scheme can still be improved." },
+                { "french": "Le laboratoire aurait perdu un tiers de son financement.", "english": "The laboratory has reportedly lost a third of its funding.", "note": "conditional = unverified information" }
+              ],
+              "tip": "Never say « selon moi que… ». It is simply « Selon moi, … » followed by a normal clause."
+            },
+            {
+              "heading": "Concession: bien que, quoique, même si",
+              "body": "Bien que and quoique take the subjunctive; même si takes the indicative. All three concede a point before you make yours, which is exactly what an argued B2 paragraph needs. Malgré and en dépit de work the same way but take a noun, not a clause.",
+              "examples": [
+                { "french": "Bien que le budget ait augmenté, les moyens par équipe diminuent.", "english": "Although the budget has increased, the resources per team are falling.", "note": "bien que + subjonctif" },
+                { "french": "Quoique le concours soit très sélectif, elle a été reçue première.", "english": "Although the exam is very selective, she came first." },
+                { "french": "Même si ce projet échoue, les données resteront utiles.", "english": "Even if this project fails, the data will remain useful.", "note": "même si + indicatif" },
+                { "french": "Malgré la qualité du dossier, la subvention a été refusée.", "english": "Despite the quality of the application, the grant was refused.", "note": "malgré + nom" },
+                { "french": "En dépit de ces critiques, le dispositif a été reconduit.", "english": "In spite of these criticisms, the scheme was renewed." }
+              ],
+              "tip": "A quick test: if what follows is a full clause with a verb, use bien que / quoique / même si; if it is a noun phrase, use malgré / en dépit de."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "b2_u13_l01_li01",
+              "type": "listenChoose",
+              "french": "Le laboratoire a deux tutelles : l'université et un organisme de recherche.",
+              "options": ["The laboratory has two supervising authorities: the university and a research organisation.", "The laboratory has two directors: a professor and an engineer.", "The laboratory has two buildings: one at the university, one in town.", "The laboratory has two budgets, one public and one private."],
+              "answer": "The laboratory has two supervising authorities: the university and a research organisation."
+            },
+            {
+              "id": "b2_u13_l01_li02",
+              "type": "listenChoose",
+              "french": "Selon ce rapport, la moitié des doctorants quittent la recherche après leur thèse.",
+              "options": ["According to this report, half of doctoral students leave research after their thesis.", "According to this report, half of doctoral students never finish their thesis.", "According to this report, half of researchers have a doctorate.", "According to this report, half of the theses are published."],
+              "answer": "According to this report, half of doctoral students leave research after their thesis."
+            },
+            {
+              "id": "b2_u13_l01_li03",
+              "type": "listenType",
+              "french": "Elle soutient sa thèse en décembre.",
+              "answer": "Elle soutient sa thèse en décembre.",
+              "acceptedAnswers": ["Elle soutient sa these en decembre", "elle soutient sa thèse en décembre", "Elle soutient sa thèse en décembre"]
+            },
+            {
+              "id": "b2_u13_l01_li04",
+              "type": "dictation",
+              "french": "Bien que le budget ait augmenté, les crédits par chercheur restent stables.",
+              "answer": "Bien que le budget ait augmenté, les crédits par chercheur restent stables.",
+              "acceptedAnswers": ["Bien que le budget ait augmente les credits par chercheur restent stables", "bien que le budget ait augmenté, les crédits par chercheur restent stables"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "b2_u13_l01_sp01",
+              "type": "speak",
+              "french": "Je prépare un doctorat en histoire des sciences, sous la direction de Madame Rey.",
+              "english": "I am doing a doctorate in the history of science, supervised by Madame Rey.",
+              "prompt": "Introduce yourself as a doctoral student at a conference.",
+              "tip": "« doctorat » ends in a silent t: dok-toh-RAH. Keep the r in « direction » light and at the back of the throat."
+            },
+            {
+              "id": "b2_u13_l01_sp02",
+              "type": "speak",
+              "french": "Selon plusieurs syndicats, le financement par appels à projets accentue la précarité.",
+              "english": "According to several unions, funding through calls for projects increases job insecurity.",
+              "prompt": "Report a contested claim without presenting it as your own view.",
+              "tip": "Link « appels à » smoothly: ah-PEL-zah. Stress falls at the end of each group, on -TAY in « précarité »."
+            },
+            {
+              "id": "b2_u13_l01_sp03",
+              "type": "speak",
+              "french": "Bien que la recherche fondamentale coûte cher, elle prépare les applications de demain.",
+              "english": "Although basic research is expensive, it prepares tomorrow's applications.",
+              "prompt": "Concede a point, then give your counter-argument.",
+              "tip": "« Bien que » is one breath group; pause slightly after « cher » to mark the two halves of the sentence."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Une journée au labo",
+              "french": "Karim est doctorant en troisième année dans une unité de recherche située près de Grenoble.\nLe laboratoire dépend de deux tutelles : une université et un grand organisme public.\nSa bourse, obtenue sur dossier, s'arrête dans huit mois, et il le sait très bien.\nLe matin, il relance une expérimentation qui a déjà échoué deux fois.\n« Un échec bien documenté reste un résultat », lui répète sa directrice de thèse.\nL'après-midi, l'équipe se réunit pour préparer une réponse à un appel à projets.\nIl faut décrire le protocole, justifier chaque dépense et annoncer des retombées.\nSelon plusieurs enquêtes syndicales, les chercheurs y consacrent une part croissante de leur temps.\nLes partisans de ce système estiment au contraire qu'il oblige les équipes à clarifier leurs objectifs.\nKarim, lui, ne tranche pas : il constate simplement que la journée passe vite.\nÀ dix-sept heures, il relit l'article que la revue lui a renvoyé après relecture par les pairs.\nDeux collègues étrangers n'ont pas réussi à reproduire ses mesures, et cela l'inquiète.\nBien que la fin de sa bourse approche, il hésite encore à passer le concours.\n« La recherche fondamentale ne paie qu'à long terme », dit-il en riant, « et moi aussi. »",
+              "english": "Karim is a third-year doctoral student in a research unit near Grenoble.\nThe laboratory answers to two supervising authorities: a university and a large public organisation.\nHis grant, awarded on the basis of an application, ends in eight months, and he is well aware of it.\nIn the morning, he restarts an experiment that has already failed twice.\n\"A well-documented failure is still a result,\" his thesis supervisor keeps telling him.\nIn the afternoon, the team meets to prepare an answer to a call for projects.\nThey have to describe the protocol, justify every expense and announce expected benefits.\nAccording to several union surveys, researchers spend a growing share of their time on this.\nSupporters of the system consider, on the contrary, that it forces teams to clarify their objectives.\nKarim himself does not take sides: he simply notes that the day goes by fast.\nAt five o'clock, he rereads the paper the journal sent back after peer review.\nTwo foreign colleagues did not manage to reproduce his measurements, and that worries him.\nAlthough the end of his grant is approaching, he is still hesitating about taking the competitive exam.\n\"Basic research only pays off in the long term,\" he says, laughing, \"and so do I.\"",
+              "questions": [
+                {
+                  "id": "b2_u13_l01_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Pourquoi l'équipe se réunit-elle l'après-midi ?",
+                  "options": ["Pour préparer une réponse à un appel à projets", "Pour organiser la soutenance de Karim", "Pour recruter un nouveau doctorant", "Pour visiter une autre université"],
+                  "answer": "Pour préparer une réponse à un appel à projets"
+                },
+                {
+                  "id": "b2_u13_l01_rd02",
+                  "type": "trueFalse",
+                  "prompt": "Le texte présente le financement par projets comme un système que tout le monde condamne.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                },
+                {
+                  "id": "b2_u13_l01_rd03",
+                  "type": "multipleChoice",
+                  "prompt": "Qu'est-ce qui inquiète Karim à propos de son article ?",
+                  "options": ["Deux collègues n'ont pas pu reproduire ses mesures", "La revue a refusé de le publier", "Sa directrice de thèse a retiré son nom", "Le protocole a été breveté par une entreprise"],
+                  "answer": "Deux collègues n'ont pas pu reproduire ses mesures"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "b2_u13_l01_wr01",
+              "type": "translate",
+              "prompt": "According to this study, funding has been stagnant for ten years.",
+              "english": "According to this study, funding has been stagnant for ten years.",
+              "answer": "D'après cette étude, les financements stagnent depuis dix ans.",
+              "acceptedAnswers": ["Selon cette étude, les financements stagnent depuis dix ans.", "D'après cette étude, le financement stagne depuis dix ans.", "Dapres cette etude les financements stagnent depuis dix ans"]
+            },
+            {
+              "id": "b2_u13_l01_wr02",
+              "type": "translate",
+              "prompt": "Although the exam is very selective, she wants to try.",
+              "english": "Although the exam is very selective, she wants to try.",
+              "answer": "Bien que le concours soit très sélectif, elle veut tenter sa chance.",
+              "acceptedAnswers": ["Quoique le concours soit très sélectif, elle veut tenter sa chance.", "Bien que le concours soit tres selectif elle veut tenter sa chance", "Bien que le concours soit très sélectif, elle veut essayer."]
+            },
+            {
+              "id": "b2_u13_l01_wr03",
+              "type": "arrangeWords",
+              "words": ["thèse", "en", "sa", "elle", "décembre", "soutient"],
+              "answer": "Elle soutient sa thèse en décembre",
+              "english": "She is defending her thesis in December."
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "b2_u13_l01_pr01",
+              "type": "fillBlank",
+              "prompt": "Bien que le budget ___ augmenté, les moyens par équipe diminuent.",
+              "answer": "ait"
+            },
+            {
+              "id": "b2_u13_l01_pr02",
+              "type": "multipleChoice",
+              "prompt": "Un chercheur recruté sur concours et employé de façon permanente est…",
+              "options": ["titulaire", "doctorant", "précaire", "vacataire"],
+              "answer": "titulaire"
+            },
+            {
+              "id": "b2_u13_l01_pr03",
+              "type": "match",
+              "pairs": [
+                { "french": "la tutelle", "english": "the supervising authority" },
+                { "french": "l'appel à projets", "english": "the call for projects" },
+                { "french": "le colloque", "english": "the academic conference" },
+                { "french": "la subvention", "english": "the grant, the subsidy" }
+              ]
+            },
+            {
+              "id": "b2_u13_l01_pr04",
+              "type": "fillBlank",
+              "prompt": "___ ce rapport, la moitié des doctorants quittent la recherche.",
+              "answer": "Selon"
+            },
+            {
+              "id": "b2_u13_l01_pr05",
+              "type": "arrangeWords",
+              "words": ["reproduire", "pas", "a", "n'", "réussi", "à", "l'expérimentation", "équipe", "une", "autre"],
+              "answer": "Une autre équipe n' a pas réussi à reproduire l'expérimentation",
+              "english": "Another team did not manage to replicate the experiment."
+            },
+            {
+              "id": "b2_u13_l01_pr06",
+              "type": "multipleChoice",
+              "prompt": "Quelle phrase attribue clairement une information contestée ?",
+              "options": ["D'après les auteurs de l'étude, le dispositif reste perfectible.", "Le dispositif est mauvais, c'est évident.", "Tout le monde sait que le dispositif ne marche pas.", "Le dispositif est parfait, sans aucun doute."],
+              "answer": "D'après les auteurs de l'étude, le dispositif reste perfectible."
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "b2_u13_l01_qz01",
+              "type": "multipleChoice",
+              "prompt": "« Soutenir sa thèse » veut dire…",
+              "options": ["la défendre devant un jury", "l'écrire pendant trois ans", "la faire financer", "la faire traduire"],
+              "answer": "la défendre devant un jury"
+            },
+            {
+              "id": "b2_u13_l01_qz02",
+              "type": "fillBlank",
+              "prompt": "Même si ce projet ___ , les données resteront utiles.",
+              "answer": "échoue"
+            },
+            {
+              "id": "b2_u13_l01_qz03",
+              "type": "multipleChoice",
+              "prompt": "Choisissez la phrase correcte.",
+              "options": ["Malgré la qualité du dossier, la subvention a été refusée.", "Malgré que le dossier soit bon, la subvention a été refusée.", "Bien que la qualité du dossier, la subvention a été refusée.", "En dépit que le dossier était bon, la subvention a été refusée."],
+              "answer": "Malgré la qualité du dossier, la subvention a été refusée."
+            },
+            {
+              "id": "b2_u13_l01_qz04",
+              "type": "trueFalse",
+              "prompt": "« La recherche appliquée » désigne une recherche sans objectif d'application immédiate.",
+              "options": ["True", "False"],
+              "answer": "False"
+            },
+            {
+              "id": "b2_u13_l01_qz05",
+              "type": "translate",
+              "prompt": "The laboratory has lost a third of its funding, reportedly.",
+              "english": "The laboratory has reportedly lost a third of its funding.",
+              "answer": "Le laboratoire aurait perdu un tiers de son financement.",
+              "acceptedAnswers": ["Le laboratoire aurait perdu un tiers de ses financements.", "Le laboratoire aurait perdu un tiers de son financement"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2_u13_l02",
+      "level": "B2",
+      "unit": 13,
+      "title": "L'intelligence artificielle",
+      "description": "Discuss the AI debate in French — work, creativity and regulation — while attributing every contested claim.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "The words of the debate",
+              "body": "French uses l'intelligence artificielle, usually abbreviated to l'IA (pronounced ee-AH). The underlying vocabulary is close to English but the collocations differ: you say « entraîner un modèle sur des données », « un modèle de langage », « un jeu de données ». Note that « les données » is always plural in this sense.",
+              "examples": [
+                { "french": "L'IA est déjà utilisée dans la traduction et le diagnostic médical.", "english": "AI is already used in translation and medical diagnosis." },
+                { "french": "Un modèle de langage est entraîné sur d'énormes quantités de textes.", "english": "A language model is trained on enormous quantities of text." },
+                { "french": "Ces données ont été collectées sur plusieurs années.", "english": "This data was collected over several years." },
+                { "french": "L'outil génère un premier brouillon, que l'humain corrige ensuite.", "english": "The tool generates a first draft, which the human then corrects." },
+                { "french": "Un algorithme n'est pas neutre : il reflète les données qui l'ont nourri.", "english": "An algorithm is not neutral: it reflects the data that fed it." }
+              ],
+              "tip": "« IA » is feminine: « l'IA générative », « une IA performante ». Avoid « l'AI » — that is the English order."
+            },
+            {
+              "heading": "Work: three positions, not one",
+              "body": "The debate about AI and employment has at least three recognisable positions, and a good B2 speaker can name all three. Some economists predict net job destruction; others expect a shift in tasks rather than the loss of whole jobs; a third group insists the honest answer is that nobody knows yet. Signal which one you are reporting.",
+              "examples": [
+                { "french": "Certains économistes anticipent la disparition de nombreuses tâches répétitives.", "english": "Some economists anticipate the disappearance of many repetitive tasks." },
+                { "french": "D'autres soutiennent que les métiers se transforment plutôt qu'ils ne disparaissent.", "english": "Others maintain that jobs are transformed rather than disappearing." },
+                { "french": "Plusieurs études rappellent qu'il est trop tôt pour mesurer l'effet réel.", "english": "Several studies point out that it is too early to measure the real effect." },
+                { "french": "L'automatisation touche surtout les tâches, pas forcément les emplois entiers.", "english": "Automation mostly affects tasks, not necessarily whole jobs." },
+                { "french": "Se reconvertir demande du temps et une formation accessible à tous.", "english": "Retraining takes time and training that is accessible to everyone." }
+              ],
+              "tip": "« Certains… d'autres… » is the cleanest way to lay out competing views before giving your own with « quant à moi » or « pour ma part »."
+            },
+            {
+              "heading": "Creativity and rules",
+              "body": "Two other arguments recur. On creativity, some artists and authors object that models are trained on protected works without permission, while others describe these tools as instruments they control. On regulation, the European Union adopted a law on artificial intelligence in 2024, which classifies uses by level of risk. Describe what a rule does; avoid naming individual firms as villains.",
+              "examples": [
+                { "french": "Des auteurs estiment que leurs œuvres ont servi à l'entraînement sans autorisation.", "english": "Some authors consider that their works were used for training without permission." },
+                { "french": "D'autres créateurs voient l'IA comme un outil de plus, qu'ils gardent sous contrôle.", "english": "Other creators see AI as one more tool, which they keep under control." },
+                { "french": "L'Union européenne a adopté en 2024 un règlement qui classe les usages par niveau de risque.", "english": "The European Union adopted in 2024 a regulation that classifies uses by level of risk." },
+                { "french": "La question du droit d'auteur n'est pas encore tranchée partout.", "english": "The copyright question has not been settled everywhere yet." },
+                { "french": "Réglementer trop tôt freinerait l'innovation, affirment ses opposants.", "english": "Regulating too early would slow innovation down, its opponents claim." }
+              ],
+              "tip": "« Trancher une question » = to settle a question. « La question n'est pas tranchée » is a very useful, neutral way to say a debate is still open."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "l-intelligence-artificielle", "french": "l'intelligence artificielle", "english": "artificial intelligence", "partOfSpeech": "noun", "gender": "f", "plural": "les intelligences artificielles", "pronunciation": "lan-tel-ee-JAHNSS ar-tee-fee-SYELL", "example": "L'intelligence artificielle occupe une place croissante dans le débat public.", "exampleEnglish": "Artificial intelligence takes up a growing place in public debate.", "level": "B2", "category": "technology" },
+            { "id": "l-algorithme", "french": "l'algorithme", "english": "the algorithm", "partOfSpeech": "noun", "gender": "m", "plural": "les algorithmes", "pronunciation": "lal-goh-REETM", "example": "Un algorithme reflète les choix de ceux qui l'ont conçu.", "exampleEnglish": "An algorithm reflects the choices of those who designed it.", "level": "B2", "category": "technology" },
+            { "id": "le-modele-de-langage", "french": "le modèle de langage", "english": "the language model", "partOfSpeech": "noun", "gender": "m", "plural": "les modèles de langage", "pronunciation": "luh moh-DELL duh lahn-GAJ", "example": "Ce modèle de langage produit des textes très fluides.", "exampleEnglish": "This language model produces very fluent texts.", "level": "B2", "category": "technology" },
+            { "id": "l-apprentissage-automatique", "french": "l'apprentissage automatique", "english": "machine learning", "partOfSpeech": "noun", "gender": "m", "plural": "les apprentissages automatiques", "pronunciation": "lah-prahn-tee-SAJ oh-toh-mah-TEEK", "example": "L'apprentissage automatique repère des régularités dans les données.", "exampleEnglish": "Machine learning spots regularities in data.", "level": "B2", "category": "technology" },
+            { "id": "l-entrainement", "french": "l'entraînement", "english": "the training", "partOfSpeech": "noun", "gender": "m", "plural": "les entraînements", "pronunciation": "lahn-tren-MAHN", "example": "L'entraînement d'un tel modèle consomme beaucoup d'électricité.", "exampleEnglish": "Training such a model consumes a lot of electricity.", "level": "B2", "category": "technology" },
+            { "id": "les-donnees", "french": "les données", "english": "the data", "partOfSpeech": "noun", "gender": "f", "plural": "les données", "pronunciation": "lay doh-NAY", "example": "Les données sont anonymisées avant toute analyse.", "exampleEnglish": "The data is anonymised before any analysis.", "level": "B2", "category": "technology" },
+            { "id": "le-jeu-de-donnees", "french": "le jeu de données", "english": "the dataset", "partOfSpeech": "noun", "gender": "m", "plural": "les jeux de données", "pronunciation": "luh JUH duh doh-NAY", "example": "Le jeu de données contient deux millions d'images.", "exampleEnglish": "The dataset contains two million images.", "level": "B2", "category": "technology" },
+            { "id": "le-biais", "french": "le biais", "english": "the bias", "partOfSpeech": "noun", "gender": "m", "plural": "les biais", "pronunciation": "luh BYAY", "example": "Un jeu de données déséquilibré introduit des biais.", "exampleEnglish": "An unbalanced dataset introduces biases.", "level": "B2", "category": "technology" },
+            { "id": "generer", "french": "générer", "english": "to generate", "partOfSpeech": "verb", "pronunciation": "jay-nay-RAY", "example": "L'outil génère un premier brouillon en quelques secondes.", "exampleEnglish": "The tool generates a first draft in a few seconds.", "level": "B2", "category": "technology" },
+            { "id": "le-contenu", "french": "le contenu", "english": "the content", "partOfSpeech": "noun", "gender": "m", "plural": "les contenus", "pronunciation": "luh kohn-tuh-NOO", "example": "Il faut signaler les contenus générés automatiquement.", "exampleEnglish": "Automatically generated content must be labelled.", "level": "B2", "category": "media" },
+            { "id": "l-outil", "french": "l'outil", "english": "the tool", "partOfSpeech": "noun", "gender": "m", "plural": "les outils", "pronunciation": "loo-TEE", "example": "Ce n'est qu'un outil : tout dépend de l'usage qu'on en fait.", "exampleEnglish": "It is only a tool: everything depends on how it is used.", "level": "B2", "category": "technology" },
+            { "id": "le-logiciel", "french": "le logiciel", "english": "the software, the program", "partOfSpeech": "noun", "gender": "m", "plural": "les logiciels", "pronunciation": "luh loh-jee-SYELL", "example": "Le logiciel propose une correction, l'humain décide.", "exampleEnglish": "The software suggests a correction, the human decides.", "level": "B2", "category": "technology" },
+            { "id": "numerique", "french": "numérique", "english": "digital", "partOfSpeech": "adjective", "pronunciation": "noo-may-REEK", "example": "La transition numérique concerne tous les secteurs.", "exampleEnglish": "The digital transition concerns every sector.", "level": "B2", "category": "technology" },
+            { "id": "automatiser", "french": "automatiser", "english": "to automate", "partOfSpeech": "verb", "pronunciation": "oh-toh-mah-tee-ZAY", "example": "On peut automatiser la saisie, pas la décision finale.", "exampleEnglish": "Data entry can be automated, the final decision cannot.", "level": "B2", "category": "technology" },
+            { "id": "l-automatisation", "french": "l'automatisation", "english": "automation", "partOfSpeech": "noun", "gender": "f", "plural": "les automatisations", "pronunciation": "loh-toh-mah-tee-zah-SYOHN", "example": "L'automatisation touche surtout les tâches répétitives.", "exampleEnglish": "Automation mostly affects repetitive tasks.", "level": "B2", "category": "work" },
+            { "id": "la-tache", "french": "la tâche", "english": "the task", "partOfSpeech": "noun", "gender": "f", "plural": "les tâches", "pronunciation": "lah TAHSH", "example": "Certaines tâches disparaissent, d'autres apparaissent.", "exampleEnglish": "Some tasks disappear, others appear.", "level": "B2", "category": "work" },
+            { "id": "repetitif", "french": "répétitif", "english": "repetitive", "partOfSpeech": "adjective", "pronunciation": "ray-pay-tee-TEEF", "example": "Il aimerait déléguer la partie la plus répétitive de son travail.", "exampleEnglish": "He would like to delegate the most repetitive part of his job.", "level": "B2", "category": "work" },
+            { "id": "la-productivite", "french": "la productivité", "english": "productivity", "partOfSpeech": "noun", "gender": "f", "plural": "les productivités", "pronunciation": "lah proh-dook-tee-vee-TAY", "example": "Les gains de productivité annoncés restent difficiles à vérifier.", "exampleEnglish": "The announced productivity gains remain hard to verify.", "level": "B2", "category": "work" },
+            { "id": "l-emploi", "french": "l'emploi", "english": "the job, employment", "partOfSpeech": "noun", "gender": "m", "plural": "les emplois", "pronunciation": "lahm-PLWAH", "example": "L'effet sur l'emploi fait l'objet d'estimations très différentes.", "exampleEnglish": "The effect on employment is the subject of very different estimates.", "level": "B2", "category": "work" },
+            { "id": "le-metier", "french": "le métier", "english": "the trade, the profession", "partOfSpeech": "noun", "gender": "m", "plural": "les métiers", "pronunciation": "luh may-TYAY", "example": "Beaucoup de métiers se transforment plutôt qu'ils ne disparaissent.", "exampleEnglish": "Many jobs are transformed rather than disappearing.", "level": "B2", "category": "work" },
+            { "id": "la-competence", "french": "la compétence", "english": "the skill, the competence", "partOfSpeech": "noun", "gender": "f", "plural": "les compétences", "pronunciation": "lah kohm-pay-TAHNSS", "example": "Les compétences demandées évoluent plus vite qu'avant.", "exampleEnglish": "The skills required are changing faster than before.", "level": "B2", "category": "work" },
+            { "id": "se-reconvertir", "french": "se reconvertir", "english": "to retrain, to change career", "partOfSpeech": "verb", "pronunciation": "suh ruh-kohn-vair-TEER", "example": "À quarante ans, elle a choisi de se reconvertir dans les données.", "exampleEnglish": "At forty, she chose to retrain in data.", "level": "B2", "category": "work" },
+            { "id": "la-creativite", "french": "la créativité", "english": "creativity", "partOfSpeech": "noun", "gender": "f", "plural": "les créativités", "pronunciation": "lah kray-ah-tee-vee-TAY", "example": "La créativité ne se réduit pas à la production rapide d'images.", "exampleEnglish": "Creativity is not reducible to producing images quickly.", "level": "B2", "category": "arts" },
+            { "id": "l-oeuvre", "french": "l'œuvre", "english": "the work (of art)", "partOfSpeech": "noun", "gender": "f", "plural": "les œuvres", "pronunciation": "LUH-vruh", "example": "Des auteurs demandent à savoir si leurs œuvres ont été utilisées.", "exampleEnglish": "Some authors are asking whether their works were used.", "level": "B2", "category": "arts" },
+            { "id": "le-droit-d-auteur", "french": "le droit d'auteur", "english": "copyright", "partOfSpeech": "noun", "gender": "m", "plural": "les droits d'auteur", "pronunciation": "luh DRWAH doh-TUR", "example": "La question du droit d'auteur reste ouverte devant les tribunaux.", "exampleEnglish": "The copyright question remains open before the courts.", "level": "B2", "category": "law" },
+            { "id": "la-reglementation", "french": "la réglementation", "english": "the regulation, the rules", "partOfSpeech": "noun", "gender": "f", "plural": "les réglementations", "pronunciation": "lah ray-gluh-mahn-tah-SYOHN", "example": "La réglementation européenne classe les usages par niveau de risque.", "exampleEnglish": "European regulation classifies uses by level of risk.", "level": "B2", "category": "law" },
+            { "id": "reglementer", "french": "réglementer", "english": "to regulate", "partOfSpeech": "verb", "pronunciation": "ray-gluh-mahn-TAY", "example": "Faut-il réglementer maintenant ou attendre ?", "exampleEnglish": "Should we regulate now or wait?", "level": "B2", "category": "law" },
+            { "id": "encadrer", "french": "encadrer", "english": "to regulate, to set a framework for", "partOfSpeech": "verb", "pronunciation": "ahn-kah-DRAY", "example": "Le texte encadre l'usage de ces outils dans le recrutement.", "exampleEnglish": "The text sets a framework for the use of these tools in recruitment.", "level": "B2", "category": "law" },
+            { "id": "loi", "french": "la loi", "english": "the law, the act", "partOfSpeech": "noun", "gender": "f", "plural": "les lois", "pronunciation": "lah LWAH", "example": "Une loi ne suffit pas si personne ne la contrôle.", "exampleEnglish": "A law is not enough if nobody enforces it.", "level": "B2", "category": "law" },
+            { "id": "l-ethique", "french": "l'éthique", "english": "ethics", "partOfSpeech": "noun", "gender": "f", "plural": "les éthiques", "pronunciation": "lay-TEEK", "example": "Un comité d'éthique examine chaque nouvel usage.", "exampleEnglish": "An ethics committee examines each new use.", "level": "B2", "category": "society" },
+            { "id": "la-vie-privee", "french": "la vie privée", "english": "privacy, private life", "partOfSpeech": "noun", "gender": "f", "plural": "les vies privées", "pronunciation": "lah vee pree-VAY", "example": "La protection de la vie privée revient dans chaque discussion.", "exampleEnglish": "The protection of privacy comes back in every discussion.", "level": "B2", "category": "society" },
+            { "id": "la-surveillance", "french": "la surveillance", "english": "surveillance, monitoring", "partOfSpeech": "noun", "gender": "f", "plural": "les surveillances", "pronunciation": "lah soor-vay-YAHNSS", "example": "Certains usages relèvent clairement de la surveillance.", "exampleEnglish": "Some uses clearly amount to surveillance.", "level": "B2", "category": "society" },
+            { "id": "fiable", "french": "fiable", "english": "reliable, trustworthy", "partOfSpeech": "adjective", "pronunciation": "FYAH-bluh", "example": "Une réponse fluide n'est pas forcément une réponse fiable.", "exampleEnglish": "A fluent answer is not necessarily a reliable answer.", "level": "B2", "category": "opinion" },
+            { "id": "l-enjeu", "french": "l'enjeu", "english": "the stake, what is at stake", "partOfSpeech": "noun", "gender": "m", "plural": "les enjeux", "pronunciation": "lahn-JUH", "example": "L'enjeu principal est la transparence des données d'entraînement.", "exampleEnglish": "The main issue at stake is the transparency of training data.", "level": "B2", "category": "opinion" },
+            { "id": "le-debat", "french": "le débat", "english": "the debate", "partOfSpeech": "noun", "gender": "m", "plural": "les débats", "pronunciation": "luh day-BAH", "example": "Le débat oppose des arguments économiques et éthiques.", "exampleEnglish": "The debate sets economic and ethical arguments against each other.", "level": "B2", "category": "opinion" },
+            { "id": "prometteur", "french": "prometteur", "english": "promising", "partOfSpeech": "adjective", "pronunciation": "proh-meh-TUR", "example": "Les résultats sont prometteurs, mais encore préliminaires.", "exampleEnglish": "The results are promising, but still preliminary.", "level": "B2", "category": "opinion" },
+            { "id": "la-crainte", "french": "la crainte", "english": "the fear, the concern", "partOfSpeech": "noun", "gender": "f", "plural": "les craintes", "pronunciation": "lah KRANT", "example": "Ces craintes méritent d'être entendues sans être exagérées.", "exampleEnglish": "These fears deserve to be heard without being exaggerated.", "level": "B2", "category": "opinion" },
+            { "id": "trancher", "french": "trancher", "english": "to settle (a question), to decide", "partOfSpeech": "verb", "pronunciation": "trahn-SHAY", "example": "La question n'est pas encore tranchée.", "exampleEnglish": "The question has not been settled yet.", "level": "B2", "category": "opinion" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Doubt and possibility: the subjunctive after impersonal phrases",
+              "body": "In a balanced debate you constantly signal how sure you are. Il est possible que, il se peut que, il est peu probable que, il semble que, je doute que all take the subjunctive. But il est probable que and il me semble que take the indicative, because they express relative certainty.",
+              "examples": [
+                { "french": "Il est possible que ces outils changent profondément certains métiers.", "english": "It is possible that these tools will deeply change some jobs.", "note": "il est possible que + subjonctif" },
+                { "french": "Il se peut que l'effet réel soit plus faible qu'annoncé.", "english": "The real effect may be smaller than announced." },
+                { "french": "Je doute que la question soit tranchée avant plusieurs années.", "english": "I doubt the question will be settled for several years." },
+                { "french": "Il est probable que la réglementation évoluera encore.", "english": "It is likely that the regulation will change again.", "note": "il est probable que + indicatif" },
+                { "french": "Il me semble que les deux camps exagèrent un peu.", "english": "It seems to me that both camps are exaggerating a little.", "note": "il me semble que + indicatif" }
+              ],
+              "tip": "Rule of thumb: the more certain the phrase, the more likely it takes the indicative. Doubt pulls the subjunctive."
+            },
+            {
+              "heading": "Structuring a balanced argument",
+              "body": "A B2 argued paragraph usually runs: present position A, present position B, then position yourself. Certains… d'autres… opens the two sides; en revanche and au contraire mark the contrast; quant à moi and pour ma part introduce your own view; il n'en reste pas moins que concedes the other side's strongest point without giving up your own.",
+              "examples": [
+                { "french": "Certains y voient une révolution ; d'autres, un simple outil de plus.", "english": "Some see a revolution in it; others, just one more tool." },
+                { "french": "En revanche, l'effet sur l'emploi reste très difficile à mesurer.", "english": "On the other hand, the effect on employment remains very hard to measure." },
+                { "french": "Pour ma part, je préfère attendre des données solides.", "english": "For my part, I would rather wait for solid data." },
+                { "french": "Il n'en reste pas moins que la transparence des données pose problème.", "english": "It remains the case, nonetheless, that data transparency is a problem." },
+                { "french": "Loin de trancher le débat, cette étude en montre la complexité.", "english": "Far from settling the debate, this study shows how complex it is." }
+              ],
+              "tip": "« Quant à moi » is more formal than « pour ma part ». Both are better than repeating « je pense que » in a written argument."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "b2_u13_l02_li01",
+              "type": "listenChoose",
+              "french": "Certains économistes anticipent la disparition de nombreuses tâches répétitives.",
+              "options": ["Some economists anticipate the disappearance of many repetitive tasks.", "All economists announce the disappearance of repetitive jobs.", "Some economists refuse to talk about repetitive tasks.", "Some economists have counted the repetitive tasks."],
+              "answer": "Some economists anticipate the disappearance of many repetitive tasks."
+            },
+            {
+              "id": "b2_u13_l02_li02",
+              "type": "listenChoose",
+              "french": "Une réponse fluide n'est pas forcément une réponse fiable.",
+              "options": ["A fluent answer is not necessarily a reliable answer.", "A fluent answer is always a reliable answer.", "A reliable answer is rarely fluent.", "A quick answer is never useful."],
+              "answer": "A fluent answer is not necessarily a reliable answer."
+            },
+            {
+              "id": "b2_u13_l02_li03",
+              "type": "listenType",
+              "french": "La question n'est pas encore tranchée.",
+              "answer": "La question n'est pas encore tranchée.",
+              "acceptedAnswers": ["La question n'est pas encore tranchee", "la question nest pas encore tranchée", "La question n'est pas encore tranchée"]
+            },
+            {
+              "id": "b2_u13_l02_li04",
+              "type": "dictation",
+              "french": "Il est possible que ces outils transforment certains métiers en profondeur.",
+              "answer": "Il est possible que ces outils transforment certains métiers en profondeur.",
+              "acceptedAnswers": ["Il est possible que ces outils transforment certains metiers en profondeur", "il est possible que ces outils transforment certains métiers en profondeur"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "b2_u13_l02_sp01",
+              "type": "speak",
+              "french": "Certains y voient une révolution ; d'autres, un simple outil de plus.",
+              "english": "Some see a revolution in it; others, just one more tool.",
+              "prompt": "Open a debate by presenting two positions before your own.",
+              "tip": "Mark the semicolon with a real pause. « d'autres » is DOH-truh — do not sound the final s."
+            },
+            {
+              "id": "b2_u13_l02_sp02",
+              "type": "speak",
+              "french": "Je doute que la question du droit d'auteur soit tranchée rapidement.",
+              "english": "I doubt the copyright question will be settled quickly.",
+              "prompt": "Express doubt about a prediction you have just heard.",
+              "tip": "« droit d'auteur » links as DRWAH-doh-TUR. Keep « soit » short and closed: SWAH."
+            },
+            {
+              "id": "b2_u13_l02_sp03",
+              "type": "speak",
+              "french": "Il n'en reste pas moins que la transparence des données pose problème.",
+              "english": "It remains the case, nonetheless, that data transparency is a problem.",
+              "prompt": "Concede a point, then hold your ground.",
+              "tip": "Say « il n'en reste pas moins » as one fast block: eel-nahn-rest-pah-MWAN, with stress only at the end."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Trois voix, un même débat",
+              "french": "Dans une salle de réunion de Nantes, trois personnes discutent de l'IA et personne ne convainc vraiment les autres.\nLéa, traductrice, explique qu'elle utilise ces outils depuis deux ans pour ses premiers brouillons.\n« Ils me font gagner du temps sur le répétitif, mais je relis tout : la fluidité n'est pas la fiabilité. »\nMarc, syndicaliste, rappelle que plusieurs études annoncent des effets très différents sur l'emploi.\nSelon certaines d'entre elles, des tâches disparaîtront sans que les métiers disparaissent.\nD'autres travaux, ajoute-t-il, sont nettement plus pessimistes, surtout pour les postes d'entrée.\n« Le problème n'est pas la machine, dit-il, c'est de savoir qui paie la reconversion. »\nSofia, juriste, insiste plutôt sur le cadre juridique adopté par l'Union européenne en 2024.\nCe règlement classe les usages selon leur niveau de risque et impose des obligations de transparence.\nElle reconnaît toutefois qu'il est encore trop tôt pour en mesurer les effets réels.\nLa question du droit d'auteur, elle, reste ouverte : des auteurs demandent à savoir si leurs œuvres ont servi à l'entraînement.\nLéa hésite : elle craint pour son métier, mais refuse de renoncer à un outil qu'elle maîtrise.\nÀ la fin, les trois tombent d'accord sur un seul point, et ils en rient.\nIl est peu probable que le débat soit tranché avant plusieurs années.",
+              "english": "In a meeting room in Nantes, three people are discussing AI and nobody really convinces the others.\nLéa, a translator, explains that she has been using these tools for two years for her first drafts.\n\"They save me time on the repetitive part, but I reread everything: fluency is not reliability.\"\nMarc, a union official, points out that several studies announce very different effects on employment.\nAccording to some of them, tasks will disappear without whole jobs disappearing.\nOther work, he adds, is clearly more pessimistic, especially for entry-level positions.\n\"The problem is not the machine,\" he says, \"it is knowing who pays for retraining.\"\nSofia, a lawyer, insists instead on the legal framework adopted by the European Union in 2024.\nThat regulation classifies uses according to their level of risk and imposes transparency obligations.\nShe acknowledges, however, that it is still too early to measure its real effects.\nThe copyright question remains open: some authors are asking whether their works were used for training.\nLéa hesitates: she fears for her profession, but refuses to give up a tool she has mastered.\nIn the end, the three agree on a single point, and they laugh about it.\nIt is unlikely that the debate will be settled for several years.",
+              "questions": [
+                {
+                  "id": "b2_u13_l02_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Quelle est la position de Léa sur ces outils ?",
+                  "options": ["Elle les utilise pour les brouillons mais relit tout elle-même", "Elle refuse totalement de les utiliser", "Elle pense qu'ils sont plus fiables qu'elle", "Elle veut les faire interdire"],
+                  "answer": "Elle les utilise pour les brouillons mais relit tout elle-même"
+                },
+                {
+                  "id": "b2_u13_l02_rd02",
+                  "type": "trueFalse",
+                  "prompt": "D'après le texte, toutes les études annoncent le même effet sur l'emploi.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                },
+                {
+                  "id": "b2_u13_l02_rd03",
+                  "type": "multipleChoice",
+                  "prompt": "Sur quoi les trois personnes finissent-elles par tomber d'accord ?",
+                  "options": ["Le débat ne sera pas tranché avant plusieurs années", "Il faut interdire ces outils dès maintenant", "Le règlement européen a déjà tout réglé", "L'emploi ne sera pas du tout touché"],
+                  "answer": "Le débat ne sera pas tranché avant plusieurs années"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "b2_u13_l02_wr01",
+              "type": "translate",
+              "prompt": "It is possible that these tools will change some jobs deeply.",
+              "english": "It is possible that these tools will change some jobs deeply.",
+              "answer": "Il est possible que ces outils transforment certains métiers en profondeur.",
+              "acceptedAnswers": ["Il se peut que ces outils transforment certains métiers en profondeur.", "Il est possible que ces outils changent certains métiers en profondeur.", "Il est possible que ces outils transforment certains metiers en profondeur"]
+            },
+            {
+              "id": "b2_u13_l02_wr02",
+              "type": "translate",
+              "prompt": "Some see a revolution in it; for my part, I would rather wait for solid data.",
+              "english": "Some see a revolution in it; for my part, I would rather wait for solid data.",
+              "answer": "Certains y voient une révolution ; pour ma part, je préfère attendre des données solides.",
+              "acceptedAnswers": ["Certains y voient une révolution ; quant à moi, je préfère attendre des données solides.", "Certains y voient une revolution ; pour ma part, je prefere attendre des donnees solides"]
+            },
+            {
+              "id": "b2_u13_l02_wr03",
+              "type": "arrangeWords",
+              "words": ["fiable", "fluide", "réponse", "forcément", "une", "n'", "pas", "est", "réponse", "une"],
+              "answer": "Une réponse fluide n' est pas forcément une réponse fiable",
+              "english": "A fluent answer is not necessarily a reliable answer."
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "b2_u13_l02_pr01",
+              "type": "fillBlank",
+              "prompt": "Je doute que la question ___ tranchée avant plusieurs années.",
+              "answer": "soit"
+            },
+            {
+              "id": "b2_u13_l02_pr02",
+              "type": "multipleChoice",
+              "prompt": "Quelle phrase reste neutre et attribue son information ?",
+              "options": ["Selon plusieurs études, l'effet sur l'emploi reste incertain.", "Ces outils vont évidemment détruire tous les emplois.", "Tout le monde sait que l'IA est inoffensive.", "Personne de sérieux ne s'inquiète de l'IA."],
+              "answer": "Selon plusieurs études, l'effet sur l'emploi reste incertain."
+            },
+            {
+              "id": "b2_u13_l02_pr03",
+              "type": "match",
+              "pairs": [
+                { "french": "le jeu de données", "english": "the dataset" },
+                { "french": "le droit d'auteur", "english": "copyright" },
+                { "french": "la réglementation", "english": "the regulation" },
+                { "french": "l'automatisation", "english": "automation" }
+              ]
+            },
+            {
+              "id": "b2_u13_l02_pr04",
+              "type": "fillBlank",
+              "prompt": "Il est probable que la réglementation ___ encore dans les prochaines années.",
+              "answer": "évoluera"
+            },
+            {
+              "id": "b2_u13_l02_pr05",
+              "type": "multipleChoice",
+              "prompt": "« Trancher une question » signifie…",
+              "options": ["la régler définitivement", "la poser à nouveau", "la couper en deux parties égales", "l'éviter poliment"],
+              "answer": "la régler définitivement"
+            },
+            {
+              "id": "b2_u13_l02_pr06",
+              "type": "arrangeWords",
+              "words": ["pose", "que", "moins", "la", "il", "des", "n'", "reste", "en", "pas", "transparence", "problème", "données"],
+              "answer": "Il n' en reste pas moins que la transparence des données pose problème",
+              "english": "It remains the case, nonetheless, that data transparency is a problem."
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "b2_u13_l02_qz01",
+              "type": "multipleChoice",
+              "prompt": "Quelle phrase est correcte ?",
+              "options": ["Il se peut que l'effet soit plus faible qu'annoncé.", "Il se peut que l'effet est plus faible qu'annoncé.", "Il est probable que l'effet soit plus faible, sans doute.", "Il se peut qu'il aura un effet plus faible."],
+              "answer": "Il se peut que l'effet soit plus faible qu'annoncé."
+            },
+            {
+              "id": "b2_u13_l02_qz02",
+              "type": "fillBlank",
+              "prompt": "Un ___ de données déséquilibré peut introduire des biais.",
+              "answer": "jeu"
+            },
+            {
+              "id": "b2_u13_l02_qz03",
+              "type": "trueFalse",
+              "prompt": "En français, on dit « l'IA » et le mot est féminin.",
+              "options": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "b2_u13_l02_qz04",
+              "type": "multipleChoice",
+              "prompt": "Quel connecteur introduit votre propre position après avoir exposé deux camps ?",
+              "options": ["Pour ma part", "En effet", "C'est-à-dire", "Par exemple"],
+              "answer": "Pour ma part"
+            },
+            {
+              "id": "b2_u13_l02_qz05",
+              "type": "translate",
+              "prompt": "Automation mostly affects repetitive tasks.",
+              "english": "Automation mostly affects repetitive tasks.",
+              "answer": "L'automatisation touche surtout les tâches répétitives.",
+              "acceptedAnswers": ["L'automatisation concerne surtout les tâches répétitives.", "L'automatisation touche surtout les taches repetitives"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2_u13_l03",
+      "level": "B2",
+      "unit": 13,
+      "title": "Vulgariser",
+      "description": "Explain complex ideas to a non-specialist audience in French without distorting them.",
+      "estimatedMinutes": 19,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "What vulgariser really means",
+              "body": "Vulgariser is a positive verb in French: it means making specialist knowledge available to le grand public. It is not « dumbing down ». The classic advice is to replace jargon, use concrete images, and give orders of magnitude instead of exact figures nobody can picture.",
+              "examples": [
+                { "french": "Vulgariser, ce n'est pas simplifier à l'excès : c'est rendre accessible.", "english": "Popularising is not oversimplifying: it is making something accessible." },
+                { "french": "Il faut traduire le jargon, pas le supprimer sans rien mettre à la place.", "english": "You have to translate the jargon, not just delete it and put nothing in its place." },
+                { "french": "Un ordre de grandeur parle plus qu'un chiffre à quatre décimales.", "english": "An order of magnitude speaks more than a figure with four decimal places." },
+                { "french": "Partez du concret, puis remontez vers l'abstrait.", "english": "Start from the concrete, then work up to the abstract." },
+                { "french": "Elle explique la notion en trois phrases, puis l'illustre par un exemple.", "english": "She explains the concept in three sentences, then illustrates it with an example." }
+              ],
+              "tip": "Do not confuse « vulgariser » (to popularise) with « vulgaire » (vulgar, coarse). They look related but the verb carries no negative sense at all."
+            },
+            {
+              "heading": "The tools: analogy, image, comparison",
+              "body": "Analogies do most of the work. French marks them with c'est un peu comme, on peut comparer X à Y, imaginez que, tout se passe comme si (+ imperfect). Every analogy has a limit, and naming that limit is what separates honest popularisation from a distortion.",
+              "examples": [
+                { "french": "C'est un peu comme une bibliothèque dont les livres seraient rangés par couleur.", "english": "It is a bit like a library whose books are arranged by colour." },
+                { "french": "On peut comparer ce processus au tri du courrier dans un bureau de poste.", "english": "This process can be compared to sorting mail in a post office." },
+                { "french": "Imaginez que chaque cellule soit une petite usine.", "english": "Imagine that each cell is a small factory.", "note": "imaginez que + subjonctif" },
+                { "french": "Tout se passe comme si la molécule cherchait la sortie la plus courte.", "english": "Everything happens as if the molecule were looking for the shortest exit.", "note": "comme si + imparfait" },
+                { "french": "L'analogie s'arrête là : une cellule ne décide rien.", "english": "The analogy stops there: a cell does not decide anything." }
+              ],
+              "tip": "« Comme si » is never followed by the conditional in French, unlike the English \"as if it would\". Use the imperfect: « comme si c'était… »."
+            },
+            {
+              "heading": "Simplifying without distorting",
+              "body": "The honest popularizer keeps three habits: qualify (nuancer), state the level of certainty, and cite the source. Watch out for the raccourci — the convenient shortcut that becomes false. And prefer « des travaux suggèrent que » to « la science a prouvé que », which is almost never accurate.",
+              "examples": [
+                { "french": "Ces travaux suggèrent un lien ; ils ne le démontrent pas encore.", "english": "This work suggests a link; it does not yet prove it." },
+                { "french": "Ce raccourci est commode, mais il déforme le résultat d'origine.", "english": "This shortcut is convenient, but it distorts the original finding." },
+                { "french": "Il faut nuancer : l'effet n'a été observé que sur un petit échantillon.", "english": "This needs qualifying: the effect was only observed on a small sample." },
+                { "french": "Je préfère dire « on ne sait pas encore » plutôt que d'inventer une certitude.", "english": "I would rather say \"we don't know yet\" than invent a certainty." },
+                { "french": "Précisez toujours la source : une étude, un rapport, une revue.", "english": "Always specify the source: a study, a report, a journal." }
+              ],
+              "tip": "« On ne sait pas encore » is a perfectly respectable answer in French science communication, and it is often the most credible one."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "vulgariser", "french": "vulgariser", "english": "to popularise (knowledge)", "partOfSpeech": "verb", "pronunciation": "vool-gah-ree-ZAY", "example": "Vulgariser demande autant de travail que publier.", "exampleEnglish": "Popularising takes as much work as publishing.", "level": "B2", "category": "communication" },
+            { "id": "la-vulgarisation", "french": "la vulgarisation", "english": "popularisation, science communication", "partOfSpeech": "noun", "gender": "f", "plural": "les vulgarisations", "pronunciation": "lah vool-gah-ree-zah-SYOHN", "example": "La vulgarisation scientifique a beaucoup progressé en ligne.", "exampleEnglish": "Science communication has come a long way online.", "level": "B2", "category": "communication" },
+            { "id": "le-grand-public", "french": "le grand public", "english": "the general public", "partOfSpeech": "noun", "gender": "m", "plural": "les grands publics", "pronunciation": "luh grahn poo-BLEEK", "example": "Cette conférence s'adresse au grand public, pas aux spécialistes.", "exampleEnglish": "This talk is aimed at the general public, not at specialists.", "level": "B2", "category": "communication" },
+            { "id": "le-jargon", "french": "le jargon", "english": "the jargon", "partOfSpeech": "noun", "gender": "m", "plural": "les jargons", "pronunciation": "luh jar-GOHN", "example": "Le jargon rassure celui qui parle et perd celui qui écoute.", "exampleEnglish": "Jargon reassures the speaker and loses the listener.", "level": "B2", "category": "communication" },
+            { "id": "le-terme-technique", "french": "le terme technique", "english": "the technical term", "partOfSpeech": "noun", "gender": "m", "plural": "les termes techniques", "pronunciation": "luh TAIRM tek-NEEK", "example": "Gardez deux ou trois termes techniques, mais expliquez-les.", "exampleEnglish": "Keep two or three technical terms, but explain them.", "level": "B2", "category": "communication" },
+            { "id": "la-notion", "french": "la notion", "english": "the concept, the notion", "partOfSpeech": "noun", "gender": "f", "plural": "les notions", "pronunciation": "lah noh-SYOHN", "example": "Cette notion paraît abstraite tant qu'on ne l'illustre pas.", "exampleEnglish": "This concept seems abstract as long as you do not illustrate it.", "level": "B2", "category": "communication" },
+            { "id": "le-concept", "french": "le concept", "english": "the concept", "partOfSpeech": "noun", "gender": "m", "plural": "les concepts", "pronunciation": "luh kohn-SEPT", "example": "Le concept tient en une phrase, mais la démonstration en dix pages.", "exampleEnglish": "The concept fits in one sentence, but the proof takes ten pages.", "level": "B2", "category": "communication" },
+            { "id": "l-analogie", "french": "l'analogie", "english": "the analogy", "partOfSpeech": "noun", "gender": "f", "plural": "les analogies", "pronunciation": "lah-nah-loh-JEE", "example": "Toute analogie a une limite ; il faut la dire.", "exampleEnglish": "Every analogy has a limit; you have to say so.", "level": "B2", "category": "communication" },
+            { "id": "la-metaphore", "french": "la métaphore", "english": "the metaphor", "partOfSpeech": "noun", "gender": "f", "plural": "les métaphores", "pronunciation": "lah may-tah-FOR", "example": "La métaphore de l'usine est efficace mais un peu usée.", "exampleEnglish": "The factory metaphor is effective but a little worn out.", "level": "B2", "category": "communication" },
+            { "id": "la-comparaison", "french": "la comparaison", "english": "the comparison, the simile", "partOfSpeech": "noun", "gender": "f", "plural": "les comparaisons", "pronunciation": "lah kohm-pah-ray-ZOHN", "example": "Une bonne comparaison vaut mieux qu'une définition exacte.", "exampleEnglish": "A good comparison is worth more than an exact definition.", "level": "B2", "category": "communication" },
+            { "id": "comparer", "french": "comparer", "english": "to compare", "partOfSpeech": "verb", "pronunciation": "kohm-pah-RAY", "example": "On peut comparer ce processus au tri du courrier.", "exampleEnglish": "This process can be compared to sorting mail.", "level": "B2", "category": "communication" },
+            { "id": "l-image", "french": "l'image", "english": "the image, the figurative expression", "partOfSpeech": "noun", "gender": "f", "plural": "les images", "pronunciation": "lee-MAJ", "example": "Cette image aide le public à se représenter la taille de l'objet.", "exampleEnglish": "This image helps the audience picture the size of the object.", "level": "B2", "category": "communication" },
+            { "id": "illustrer", "french": "illustrer", "english": "to illustrate", "partOfSpeech": "verb", "pronunciation": "ee-loos-TRAY", "example": "Illustrez chaque idée par un exemple concret.", "exampleEnglish": "Illustrate each idea with a concrete example.", "level": "B2", "category": "communication" },
+            { "id": "le-schema", "french": "le schéma", "english": "the diagram", "partOfSpeech": "noun", "gender": "m", "plural": "les schémas", "pronunciation": "luh shay-MAH", "example": "Un schéma remplace parfois deux paragraphes.", "exampleEnglish": "A diagram sometimes replaces two paragraphs.", "level": "B2", "category": "communication" },
+            { "id": "simplifier", "french": "simplifier", "english": "to simplify", "partOfSpeech": "verb", "pronunciation": "sam-plee-FYAY", "example": "On peut simplifier sans mentir, à condition de le signaler.", "exampleEnglish": "You can simplify without lying, provided you say so.", "level": "B2", "category": "communication" },
+            { "id": "la-simplification", "french": "la simplification", "english": "the simplification", "partOfSpeech": "noun", "gender": "f", "plural": "les simplifications", "pronunciation": "lah sam-plee-fee-kah-SYOHN", "example": "Cette simplification est acceptable pour une première approche.", "exampleEnglish": "This simplification is acceptable for a first approach.", "level": "B2", "category": "communication" },
+            { "id": "le-raccourci", "french": "le raccourci", "english": "the shortcut (in reasoning)", "partOfSpeech": "noun", "gender": "m", "plural": "les raccourcis", "pronunciation": "luh rah-koor-SEE", "example": "Ce raccourci est commode, mais franchement faux.", "exampleEnglish": "This shortcut is convenient, but frankly wrong.", "level": "B2", "category": "communication" },
+            { "id": "deformer", "french": "déformer", "english": "to distort", "partOfSpeech": "verb", "pronunciation": "day-for-MAY", "example": "En raccourcissant trop, on déforme le résultat d'origine.", "exampleEnglish": "By shortening too much, you distort the original finding.", "level": "B2", "category": "communication" },
+            { "id": "trahir", "french": "trahir", "english": "to betray, to misrepresent", "partOfSpeech": "verb", "pronunciation": "trah-EER", "example": "Une bonne image ne doit pas trahir l'idée qu'elle sert.", "exampleEnglish": "A good image must not misrepresent the idea it serves.", "level": "B2", "category": "communication" },
+            { "id": "caricaturer", "french": "caricaturer", "english": "to caricature", "partOfSpeech": "verb", "pronunciation": "kah-ree-kah-too-RAY", "example": "Résumer une théorie en un slogan, c'est la caricaturer.", "exampleEnglish": "Summing up a theory in a slogan is caricaturing it.", "level": "B2", "category": "communication" },
+            { "id": "nuancer", "french": "nuancer", "english": "to qualify, to add nuance to", "partOfSpeech": "verb", "pronunciation": "noo-ahn-SAY", "example": "Il faut nuancer : l'effet n'apparaît que dans certains cas.", "exampleEnglish": "This needs qualifying: the effect only appears in certain cases.", "level": "B2", "category": "communication" },
+            { "id": "la-nuance", "french": "la nuance", "english": "the nuance, the shade of meaning", "partOfSpeech": "noun", "gender": "f", "plural": "les nuances", "pronunciation": "lah noo-AHNSS", "example": "C'est la nuance qui disparaît en premier quand on résume.", "exampleEnglish": "Nuance is the first thing to disappear when you summarise.", "level": "B2", "category": "communication" },
+            { "id": "la-precision", "french": "la précision", "english": "the precision, the clarification", "partOfSpeech": "noun", "gender": "f", "plural": "les précisions", "pronunciation": "lah pray-see-ZYOHN", "example": "Une précision s'impose avant de continuer.", "exampleEnglish": "A clarification is needed before going on.", "level": "B2", "category": "communication" },
+            { "id": "accessible", "french": "accessible", "english": "accessible, understandable", "partOfSpeech": "adjective", "pronunciation": "ak-say-SEE-bluh", "example": "Le texte est rigoureux et pourtant accessible.", "exampleEnglish": "The text is rigorous and yet accessible.", "level": "B2", "category": "communication" },
+            { "id": "clarifier", "french": "clarifier", "english": "to clarify", "partOfSpeech": "verb", "pronunciation": "klah-ree-FYAY", "example": "Pouvez-vous clarifier ce point en une phrase ?", "exampleEnglish": "Could you clarify that point in one sentence?", "level": "B2", "category": "communication" },
+            { "id": "resumer", "french": "résumer", "english": "to sum up, to summarise", "partOfSpeech": "verb", "pronunciation": "ray-zoo-MAY", "example": "Résumez votre thèse en trente secondes.", "exampleEnglish": "Sum up your thesis in thirty seconds.", "level": "B2", "category": "communication" },
+            { "id": "le-resume", "french": "le résumé", "english": "the summary, the abstract", "partOfSpeech": "noun", "gender": "m", "plural": "les résumés", "pronunciation": "luh ray-zoo-MAY", "example": "Le résumé doit tenir en dix lignes.", "exampleEnglish": "The abstract must fit in ten lines.", "level": "B2", "category": "communication" },
+            { "id": "reformuler", "french": "reformuler", "english": "to rephrase, to reformulate", "partOfSpeech": "verb", "pronunciation": "ruh-for-moo-LAY", "example": "Si personne ne réagit, reformulez autrement.", "exampleEnglish": "If nobody reacts, rephrase it differently.", "level": "B2", "category": "communication" },
+            { "id": "l-ordre-de-grandeur", "french": "l'ordre de grandeur", "english": "the order of magnitude", "partOfSpeech": "noun", "gender": "m", "plural": "les ordres de grandeur", "pronunciation": "LOR-druh duh grahn-DUR", "example": "Donnez un ordre de grandeur : dix fois, cent fois, mille fois ?", "exampleEnglish": "Give an order of magnitude: ten times, a hundred, a thousand?", "level": "B2", "category": "science" },
+            { "id": "concret", "french": "concret", "english": "concrete, tangible", "partOfSpeech": "adjective", "pronunciation": "kohn-KRAY", "example": "Commencez par un exemple concret, pas par une définition.", "exampleEnglish": "Start with a concrete example, not with a definition.", "level": "B2", "category": "communication" },
+            { "id": "abstrait", "french": "abstrait", "english": "abstract", "partOfSpeech": "adjective", "pronunciation": "ab-STRAY", "example": "Un raisonnement abstrait passe mal à la radio.", "exampleEnglish": "Abstract reasoning works badly on the radio.", "level": "B2", "category": "communication" },
+            { "id": "approfondir", "french": "approfondir", "english": "to go deeper into, to develop further", "partOfSpeech": "verb", "pronunciation": "ah-proh-fohn-DEER", "example": "Nous approfondirons ce point après la pause.", "exampleEnglish": "We will go deeper into this point after the break.", "level": "B2", "category": "communication" },
+            { "id": "la-source", "french": "la source", "english": "the source", "partOfSpeech": "noun", "gender": "f", "plural": "les sources", "pronunciation": "lah SOORSS", "example": "Citez toujours votre source, même à l'oral.", "exampleEnglish": "Always cite your source, even when speaking.", "level": "B2", "category": "media" },
+            { "id": "verifier", "french": "vérifier", "english": "to check, to verify", "partOfSpeech": "verb", "pronunciation": "vay-ree-FYAY", "example": "Vérifiez le chiffre avant de le répéter.", "exampleEnglish": "Check the figure before repeating it.", "level": "B2", "category": "media" },
+            { "id": "l-incertitude", "french": "l'incertitude", "english": "the uncertainty", "partOfSpeech": "noun", "gender": "f", "plural": "les incertitudes", "pronunciation": "lan-sair-tee-TOOD", "example": "Dire l'incertitude ne fait pas perdre en crédibilité.", "exampleEnglish": "Stating the uncertainty does not cost you credibility.", "level": "B2", "category": "science" },
+            { "id": "la-portee", "french": "la portée", "english": "the scope, the significance", "partOfSpeech": "noun", "gender": "f", "plural": "les portées", "pronunciation": "lah por-TAY", "example": "N'exagérez pas la portée d'un seul résultat.", "exampleEnglish": "Do not overstate the significance of a single result.", "level": "B2", "category": "science" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Comme si + imparfait, and other analogy frames",
+              "body": "Comme si is followed by the imperfect for a present comparison, and by the plus-que-parfait for a past one — never by the conditional. Two other frames are worth memorising: « imaginez que » + subjunctive, and « tout se passe comme si » + imperfect, a favourite of French scientists because it flags that this is only a model.",
+              "examples": [
+                { "french": "Il explique cela comme si c'était évident pour tout le monde.", "english": "He explains it as if it were obvious to everyone.", "note": "comme si + imparfait" },
+                { "french": "Elle a répondu comme si elle avait déjà lu l'article.", "english": "She answered as if she had already read the paper.", "note": "comme si + plus-que-parfait" },
+                { "french": "Imaginez que chaque atome soit une bille minuscule.", "english": "Imagine that each atom is a tiny ball.", "note": "imaginez que + subjonctif" },
+                { "french": "Tout se passe comme si le système cherchait le chemin le plus court.", "english": "Everything happens as if the system were looking for the shortest path." },
+                { "french": "C'est un peu comme un embouteillage, mais à l'échelle moléculaire.", "english": "It is a bit like a traffic jam, but on a molecular scale." }
+              ],
+              "tip": "Never « comme si ce serait ». If you catch yourself using the conditional after comme si, switch to the imperfect."
+            },
+            {
+              "heading": "Hedging: how sure are you?",
+              "body": "Honest popularisation grades its certainty. From weakest to strongest: il se pourrait que (+ subj.) → des travaux suggèrent que → tout indique que → il est établi que. The conditional also serves as a hedge for reported figures: « le phénomène concernerait 5 % des cas » signals an unconfirmed number.",
+              "examples": [
+                { "french": "Il se pourrait que ce mécanisme joue un rôle secondaire.", "english": "This mechanism might play a secondary role.", "note": "il se pourrait que + subjonctif" },
+                { "french": "Des travaux récents suggèrent un lien, sans le démontrer.", "english": "Recent work suggests a link, without proving it." },
+                { "french": "Tout indique que l'effet est réel, mais faible.", "english": "Everything indicates that the effect is real, but small." },
+                { "french": "Le phénomène concernerait environ cinq pour cent des cas.", "english": "The phenomenon reportedly concerns around five per cent of cases.", "note": "conditional = unconfirmed figure" },
+                { "french": "Sur ce point précis, on ne sait pas encore.", "english": "On this precise point, we do not know yet." }
+              ],
+              "tip": "« La science a prouvé que » is a red flag in French as in English. Prefer « les données disponibles indiquent que »."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "b2_u13_l03_li01",
+              "type": "listenChoose",
+              "french": "Vulgariser, ce n'est pas simplifier à l'excès : c'est rendre accessible.",
+              "options": ["Popularising is not oversimplifying: it is making something accessible.", "Popularising means simplifying as much as possible.", "Popularising is only for specialists.", "Popularising means avoiding all examples."],
+              "answer": "Popularising is not oversimplifying: it is making something accessible."
+            },
+            {
+              "id": "b2_u13_l03_li02",
+              "type": "listenChoose",
+              "french": "Ces travaux suggèrent un lien ; ils ne le démontrent pas encore.",
+              "options": ["This work suggests a link; it does not yet prove it.", "This work has definitively proved the link.", "This work denies any link.", "This work has been withdrawn by its authors."],
+              "answer": "This work suggests a link; it does not yet prove it."
+            },
+            {
+              "id": "b2_u13_l03_li03",
+              "type": "listenType",
+              "french": "Toute analogie a une limite.",
+              "answer": "Toute analogie a une limite.",
+              "acceptedAnswers": ["Toute analogie a une limite", "toute analogie a une limite."]
+            },
+            {
+              "id": "b2_u13_l03_li04",
+              "type": "dictation",
+              "french": "Tout se passe comme si la molécule cherchait la sortie la plus courte.",
+              "answer": "Tout se passe comme si la molécule cherchait la sortie la plus courte.",
+              "acceptedAnswers": ["Tout se passe comme si la molecule cherchait la sortie la plus courte", "tout se passe comme si la molécule cherchait la sortie la plus courte"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "b2_u13_l03_sp01",
+              "type": "speak",
+              "french": "C'est un peu comme une bibliothèque dont les livres seraient rangés par couleur.",
+              "english": "It is a bit like a library whose books were arranged by colour.",
+              "prompt": "Introduce an analogy to open an explanation.",
+              "tip": "« bibliothèque » is bee-blee-oh-TEK — four syllables, no stress on the first. Keep « dont » nasal and short."
+            },
+            {
+              "id": "b2_u13_l03_sp02",
+              "type": "speak",
+              "french": "Il faut nuancer : l'effet n'a été observé que sur un petit échantillon.",
+              "english": "This needs qualifying: the effect was only observed on a small sample.",
+              "prompt": "Qualify a result you have just presented.",
+              "tip": "« n'a été observé que » is the ne… que restriction — do not pause inside it. « échantillon » ends nasal: ay-shahn-tee-YOHN."
+            },
+            {
+              "id": "b2_u13_l03_sp03",
+              "type": "speak",
+              "french": "Sur ce point précis, on ne sait pas encore, et c'est une réponse honnête.",
+              "english": "On this precise point, we do not know yet, and that is an honest answer.",
+              "prompt": "Admit uncertainty confidently in front of an audience.",
+              "tip": "Keep the tone calm and level; a falling intonation on « honnête » makes the admission sound assured rather than apologetic."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Le titre qui déforme tout",
+              "french": "Nadia prépare une intervention dans un lycée et relit son article de départ pour la troisième fois.\nL'étude porte sur trois cents personnes, pendant six mois, dans une seule région.\nElle observe une différence modeste, statistiquement significative, mais qui reste à confirmer.\nOr le titre repris par plusieurs sites annonce une « découverte majeure » qui « change tout ».\nLe raccourci est commode : il transforme une piste prudente en certitude spectaculaire.\nNadia hésite à le corriger devant des élèves, de peur de paraître ennuyeuse.\nPuis elle se dit qu'une explication honnête peut être aussi intéressante qu'un titre bruyant.\nElle décide donc de partir d'une image : trois cents personnes, c'est un lycée entier, pas un pays.\n« Tout se passe comme si on jugeait la France d'après une seule ville », dira-t-elle.\nElle ajoutera l'ordre de grandeur, puis la limite de l'analogie, parce qu'il en faut une.\nEnsuite elle expliquera pourquoi les chercheurs écrivent « suggère » et non « prouve ».\nSon objectif n'est pas de casser l'enthousiasme, mais de le rendre solide.\nÀ la fin, elle prévoit une question qu'elle sait risquée : « Et vous, vous en pensez quoi ? »\nElle répondra ce qu'elle pense vraiment, c'est-à-dire qu'on ne sait pas encore.",
+              "english": "Nadia is preparing a talk in a secondary school and is rereading her source article for the third time.\nThe study covers three hundred people, over six months, in a single region.\nIt observes a modest difference, statistically significant, but still to be confirmed.\nYet the headline picked up by several websites announces a \"major discovery\" that \"changes everything\".\nThe shortcut is convenient: it turns a cautious lead into a spectacular certainty.\nNadia hesitates to correct it in front of students, for fear of seeming boring.\nThen she tells herself that an honest explanation can be as interesting as a loud headline.\nSo she decides to start from an image: three hundred people is a whole school, not a country.\n\"Everything happens as if we judged France on the basis of a single town,\" she will say.\nShe will add the order of magnitude, then the limit of the analogy, because there has to be one.\nThen she will explain why researchers write \"suggests\" and not \"proves\".\nHer aim is not to kill enthusiasm, but to make it solid.\nAt the end, she is planning a question she knows is risky: \"And you, what do you think?\"\nShe will answer what she really thinks, namely that we do not know yet.",
+              "questions": [
+                {
+                  "id": "b2_u13_l03_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Quel est le problème du titre repris par les sites ?",
+                  "options": ["Il transforme un résultat prudent en certitude spectaculaire", "Il utilise trop de termes techniques", "Il ne cite pas le nom des chercheurs", "Il est plus long que l'article lui-même"],
+                  "answer": "Il transforme un résultat prudent en certitude spectaculaire"
+                },
+                {
+                  "id": "b2_u13_l03_rd02",
+                  "type": "trueFalse",
+                  "prompt": "Nadia décide de renoncer à toute image ou analogie pour rester rigoureuse.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                },
+                {
+                  "id": "b2_u13_l03_rd03",
+                  "type": "multipleChoice",
+                  "prompt": "Que compte-t-elle répondre à la question finale des élèves ?",
+                  "options": ["Qu'on ne sait pas encore", "Que la découverte est majeure", "Qu'il faut croire les sites d'information", "Qu'elle n'a pas le droit de répondre"],
+                  "answer": "Qu'on ne sait pas encore"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "b2_u13_l03_wr01",
+              "type": "translate",
+              "prompt": "This work suggests a link; it does not prove it.",
+              "english": "This work suggests a link; it does not prove it.",
+              "answer": "Ces travaux suggèrent un lien ; ils ne le démontrent pas.",
+              "acceptedAnswers": ["Ces travaux suggèrent un lien ; ils ne le prouvent pas.", "Ces travaux suggerent un lien ; ils ne le demontrent pas"]
+            },
+            {
+              "id": "b2_u13_l03_wr02",
+              "type": "translate",
+              "prompt": "He explains it as if it were obvious to everyone.",
+              "english": "He explains it as if it were obvious to everyone.",
+              "answer": "Il l'explique comme si c'était évident pour tout le monde.",
+              "acceptedAnswers": ["Il explique cela comme si c'était évident pour tout le monde.", "Il l'explique comme si c'etait evident pour tout le monde"]
+            },
+            {
+              "id": "b2_u13_l03_wr03",
+              "type": "arrangeWords",
+              "words": ["limite", "analogie", "une", "toute", "a"],
+              "answer": "Toute analogie a une limite",
+              "english": "Every analogy has a limit."
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "b2_u13_l03_pr01",
+              "type": "fillBlank",
+              "prompt": "Tout se passe comme si le système ___ le chemin le plus court.",
+              "answer": "cherchait"
+            },
+            {
+              "id": "b2_u13_l03_pr02",
+              "type": "multipleChoice",
+              "prompt": "Quelle formulation est la plus honnête pour un résultat préliminaire ?",
+              "options": ["Les données disponibles indiquent que…", "La science a prouvé que…", "Il est désormais certain que…", "Plus personne ne conteste que…"],
+              "answer": "Les données disponibles indiquent que…"
+            },
+            {
+              "id": "b2_u13_l03_pr03",
+              "type": "match",
+              "pairs": [
+                { "french": "le raccourci", "english": "the shortcut (in reasoning)" },
+                { "french": "l'ordre de grandeur", "english": "the order of magnitude" },
+                { "french": "le grand public", "english": "the general public" },
+                { "french": "la portée", "english": "the scope, the significance" }
+              ]
+            },
+            {
+              "id": "b2_u13_l03_pr04",
+              "type": "fillBlank",
+              "prompt": "Imaginez que chaque cellule ___ une petite usine.",
+              "answer": "soit"
+            },
+            {
+              "id": "b2_u13_l03_pr05",
+              "type": "multipleChoice",
+              "prompt": "« Vulgariser » signifie…",
+              "options": ["rendre un savoir accessible au grand public", "parler de façon grossière", "traduire dans une langue étrangère", "publier dans une revue spécialisée"],
+              "answer": "rendre un savoir accessible au grand public"
+            },
+            {
+              "id": "b2_u13_l03_pr06",
+              "type": "arrangeWords",
+              "words": ["exemple", "chaque", "idée", "un", "illustrez", "concret", "par"],
+              "answer": "Illustrez chaque idée par un exemple concret",
+              "english": "Illustrate each idea with a concrete example."
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "b2_u13_l03_qz01",
+              "type": "multipleChoice",
+              "prompt": "Quelle phrase est correcte après « comme si » ?",
+              "options": ["Il parle comme si c'était simple.", "Il parle comme si ce serait simple.", "Il parle comme si ce soit simple.", "Il parle comme si c'est simple."],
+              "answer": "Il parle comme si c'était simple."
+            },
+            {
+              "id": "b2_u13_l03_qz02",
+              "type": "fillBlank",
+              "prompt": "Il se pourrait que ce mécanisme ___ un rôle secondaire.",
+              "answer": "joue"
+            },
+            {
+              "id": "b2_u13_l03_qz03",
+              "type": "trueFalse",
+              "prompt": "En français, « vulgariser » a un sens négatif proche de « vulgaire ».",
+              "options": ["True", "False"],
+              "answer": "False"
+            },
+            {
+              "id": "b2_u13_l03_qz04",
+              "type": "multipleChoice",
+              "prompt": "Un « raccourci » dans une explication, c'est…",
+              "options": ["une simplification commode qui peut devenir fausse", "un résumé toujours fidèle", "un schéma très détaillé", "une citation exacte de l'auteur"],
+              "answer": "une simplification commode qui peut devenir fausse"
+            },
+            {
+              "id": "b2_u13_l03_qz05",
+              "type": "translate",
+              "prompt": "Do not overstate the significance of a single result.",
+              "english": "Do not overstate the significance of a single result.",
+              "answer": "N'exagérez pas la portée d'un seul résultat.",
+              "acceptedAnswers": ["N'exagérez pas la portée d'un seul résultat", "Nexagerez pas la portee d'un seul resultat", "N'exagérez pas la portée d'un unique résultat."]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

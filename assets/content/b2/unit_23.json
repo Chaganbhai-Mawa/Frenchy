@@ -1,0 +1,581 @@
+{
+  "id": "b2_u23",
+  "level": "B2",
+  "unit": 23,
+  "title": "Gender & Equality",
+  "subtitle": "Discuss workplace equality, inclusive language, and representation in French",
+  "icon": "⚧",
+  "lessons": [
+    {
+      "id": "b2_u23_l01",
+      "level": "B2",
+      "unit": 23,
+      "title": "L'égalité au travail",
+      "description": "Examine the pay gap, the glass ceiling, and parental leave in France through attributed statistics and workplace vocabulary.",
+      "estimatedMinutes": 19,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "L'écart salarial : ce que disent les chiffres",
+              "body": "In France, the gender pay gap ('l'écart salarial') is usually cited with a source and a percentage, not asserted as a bare fact. B2 French for this topic leans on attribution phrases — 'selon', 'd'après', 'une étude montre que' — followed by a precise, comparable figure. Notice how the examples below always name who measured what, over what population, before stating the number.",
+              "examples": [
+                { "french": "Selon l'INSEE, l'écart salarial moyen entre femmes et hommes avoisine quinze pour cent.", "english": "According to INSEE, the average pay gap between women and men is around fifteen percent." },
+                { "french": "D'après une étude de 2023, l'écart se réduit à un poste comparable.", "english": "According to a 2023 study, the gap narrows for a comparable position." },
+                { "french": "Ce chiffre inclut le temps partiel, plus fréquent chez les femmes.", "english": "This figure includes part-time work, which is more common among women." },
+                { "french": "Un rapport du ministère du Travail détaille l'écart secteur par secteur.", "english": "A report from the Ministry of Labour breaks the gap down sector by sector." },
+                { "french": "Les statistiques varient selon la méthode de calcul retenue.", "english": "The statistics vary depending on the calculation method used." }
+              ],
+              "tip": "'À poste comparable' (for a comparable position) is the phrase that separates a raw, unadjusted gap from an adjusted one — always check which figure a source is quoting."
+            },
+            {
+              "heading": "Le plafond de verre",
+              "body": "'Le plafond de verre' (the glass ceiling) describes the invisible barrier that slows women's access to senior positions, even when formal rules treat everyone equally. B2 French describes this with structures of contrast (alors que, tandis que) and impersonal formulations that describe a pattern without naming individual blame — useful for a topic where the causes are debated.",
+              "examples": [
+                { "french": "Les femmes représentent la moitié des cadres, mais peu accèdent à la direction.", "english": "Women make up half of managers, but few reach senior management." },
+                { "french": "Le plafond de verre reste visible dans les conseils d'administration.", "english": "The glass ceiling remains visible on boards of directors." },
+                { "french": "Alors que la mixité progresse à l'embauche, elle stagne aux postes à responsabilité.", "english": "While gender balance improves in hiring, it stagnates in positions of responsibility." },
+                { "french": "Certaines entreprises fixent des quotas pour accélérer le changement.", "english": "Some companies set quotas to speed up the change." },
+                { "french": "D'autres préfèrent miser sur la transparence des salaires.", "english": "Others prefer to rely on pay transparency." }
+              ],
+              "tip": "'Alors que' and 'tandis que' both mean 'while' in the sense of contrast — useful for holding two facts side by side without taking a position on why they differ."
+            },
+            {
+              "heading": "Le congé parental",
+              "body": "France distinguishes 'le congé maternité' (maternity leave), 'le congé paternité' (paternity leave), and 'le congé parental' (a longer, optional leave either parent can take). Descriptive B2 French here favours neutral verbs like 'permettre', 'prévoir', and 'durer' over opinionated ones — the goal is to report what the law provides, not to argue whether it is enough.",
+              "examples": [
+                { "french": "Le congé maternité dure seize semaines pour un premier enfant.", "english": "Maternity leave lasts sixteen weeks for a first child." },
+                { "french": "Depuis 2021, le congé paternité est passé à vingt-huit jours.", "english": "Since 2021, paternity leave has increased to twenty-eight days." },
+                { "french": "Le congé parental permet de suspendre ou de réduire son activité.", "english": "Parental leave allows a parent to suspend or reduce their working hours." },
+                { "french": "Peu de pères le prennent à temps plein, selon les syndicats.", "english": "Few fathers take it full-time, according to the unions." },
+                { "french": "La loi prévoit un retour au même poste ou à un poste équivalent.", "english": "The law provides for a return to the same job or an equivalent one." }
+              ],
+              "tip": "'Prévoir' (literally 'to foresee') is the verb French uses for what a law or a contract provides for — 'la loi prévoit que...' is more natural than 'la loi dit que...'."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "egalite", "french": "l'égalité", "english": "equality", "partOfSpeech": "noun", "gender": "f", "plural": "égalités", "pronunciation": "lay-gah-lee-TAY", "example": "L'égalité salariale progresse lentement.", "exampleEnglish": "Pay equality is progressing slowly.", "level": "B2", "category": "gender-equality" },
+            { "id": "inegalite", "french": "l'inégalité", "english": "inequality", "partOfSpeech": "noun", "gender": "f", "plural": "inégalités", "pronunciation": "ee-nay-gah-lee-TAY", "example": "L'étude mesure les inégalités entre secteurs.", "exampleEnglish": "The study measures inequalities between sectors.", "level": "B2", "category": "gender-equality" },
+            { "id": "la-parite", "french": "la parité", "english": "parity, equal representation", "partOfSpeech": "noun", "gender": "f", "plural": "parités", "pronunciation": "lah pah-ree-TAY", "example": "La parité n'est pas encore atteinte dans les conseils d'administration.", "exampleEnglish": "Parity has not yet been reached on boards of directors.", "level": "B2", "category": "gender-equality" },
+            { "id": "l-ecart-salarial", "french": "l'écart salarial", "english": "the pay gap", "partOfSpeech": "noun", "gender": "m", "plural": "écarts salariaux", "pronunciation": "lay-kahr sah-lah-RYAL", "example": "L'écart salarial se réduit d'année en année, selon l'INSEE.", "exampleEnglish": "The pay gap is shrinking year by year, according to INSEE.", "level": "B2", "category": "gender-equality" },
+            { "id": "le-salaire", "french": "le salaire", "english": "the salary, the wage", "partOfSpeech": "noun", "gender": "m", "plural": "salaires", "pronunciation": "luh sah-LAIR", "example": "Le salaire médian varie fortement selon le secteur.", "exampleEnglish": "The median salary varies a lot by sector.", "level": "B2", "category": "gender-equality" },
+            { "id": "b2u6-la-remuneration", "french": "la rémunération", "english": "the pay, the compensation", "partOfSpeech": "noun", "gender": "f", "plural": "rémunérations", "pronunciation": "ray-mu-nay-rah-SYOHN", "example": "La rémunération totale inclut les primes.", "exampleEnglish": "Total compensation includes bonuses.", "level": "B2", "category": "gender-equality" },
+            { "id": "le-plafond-de-verre", "french": "le plafond de verre", "english": "the glass ceiling", "partOfSpeech": "expression", "gender": "m", "pronunciation": "luh plah-FOHN duh VAIR", "example": "Le plafond de verre freine encore l'accès aux postes de direction.", "exampleEnglish": "The glass ceiling still slows access to senior positions.", "level": "B2", "category": "gender-equality" },
+            { "id": "discrimination", "french": "la discrimination", "english": "discrimination", "partOfSpeech": "noun", "gender": "f", "plural": "discriminations", "pronunciation": "dees-kree-mee-nah-SYOHN", "example": "La loi interdit la discrimination à l'embauche.", "exampleEnglish": "The law forbids discrimination in hiring.", "level": "B2", "category": "gender-equality" },
+            { "id": "b2u6-le-harcelement", "french": "le harcèlement", "english": "harassment", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh ahr-sel-MAHN", "example": "L'entreprise a mis en place une cellule contre le harcèlement.", "exampleEnglish": "The company has set up a unit against harassment.", "level": "B2", "category": "gender-equality" },
+            { "id": "le-sexisme", "french": "le sexisme", "english": "sexism", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh sek-SEEZM", "example": "Le rapport documente des cas de sexisme ordinaire au bureau.", "exampleEnglish": "The report documents cases of everyday sexism at the office.", "level": "B2", "category": "gender-equality" },
+            { "id": "le-conge-parental", "french": "le congé parental", "english": "parental leave", "partOfSpeech": "noun", "gender": "m", "plural": "congés parentaux", "pronunciation": "luh kohn-ZHAY pah-rahn-TAL", "example": "Le congé parental peut être partagé entre les deux parents.", "exampleEnglish": "Parental leave can be shared between both parents.", "level": "B2", "category": "gender-equality" },
+            { "id": "le-conge-maternite", "french": "le congé maternité", "english": "maternity leave", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh kohn-ZHAY mah-tair-nee-TAY", "example": "Elle reprendra le travail après son congé maternité.", "exampleEnglish": "She will go back to work after her maternity leave.", "level": "B2", "category": "gender-equality" },
+            { "id": "le-conge-paternite", "french": "le congé paternité", "english": "paternity leave", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh kohn-ZHAY pah-tair-nee-TAY", "example": "Le congé paternité est passé à vingt-huit jours en 2021.", "exampleEnglish": "Paternity leave increased to twenty-eight days in 2021.", "level": "B2", "category": "gender-equality" },
+            { "id": "carriere", "french": "la carrière", "english": "career", "partOfSpeech": "noun", "gender": "f", "plural": "carrières", "pronunciation": "kah-RYAIR", "example": "Une naissance ralentit encore souvent la carrière des femmes.", "exampleEnglish": "Having a child still often slows down women's careers.", "level": "B2", "category": "gender-equality" },
+            { "id": "le-poste", "french": "le poste", "english": "the position, the post", "partOfSpeech": "noun", "gender": "m", "plural": "postes", "pronunciation": "luh POST", "example": "Ce poste est ouvert à temps plein comme à temps partiel.", "exampleEnglish": "This position is open both full-time and part-time.", "level": "B2", "category": "gender-equality" },
+            { "id": "un-poste-a-responsabilite", "french": "un poste à responsabilité", "english": "a position of responsibility", "partOfSpeech": "expression", "gender": "m", "pronunciation": "uhn post ah reh-spon-sah-bee-lee-TAY", "example": "Peu de femmes accèdent encore à des postes à responsabilité.", "exampleEnglish": "Few women still reach positions of responsibility.", "level": "B2", "category": "gender-equality" },
+            { "id": "la-direction", "french": "la direction", "english": "management", "partOfSpeech": "noun", "gender": "f", "plural": "directions", "pronunciation": "dee-rek-SYOHN", "example": "La direction reste majoritairement masculine dans ce secteur.", "exampleEnglish": "Management remains mostly male in this sector.", "level": "B2", "category": "gender-equality" },
+            { "id": "le-conseil-d-administration", "french": "le conseil d'administration", "english": "the board of directors", "partOfSpeech": "noun", "gender": "m", "plural": "conseils d'administration", "pronunciation": "luh kohn-say dahd-mee-nee-strah-SYOHN", "example": "La loi impose un quota de femmes au conseil d'administration.", "exampleEnglish": "The law imposes a quota of women on the board of directors.", "level": "B2", "category": "gender-equality" },
+            { "id": "un-cadre", "french": "un cadre / une cadre", "english": "a manager, an executive", "partOfSpeech": "noun", "gender": "m", "plural": "cadres", "pronunciation": "uhn KAHDR", "example": "Elle est cadre dans une entreprise de logistique.", "exampleEnglish": "She is a manager at a logistics company.", "level": "B2", "category": "gender-equality" },
+            { "id": "la-mixite", "french": "la mixité", "english": "gender balance, mixed representation", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah meek-see-TAY", "example": "La mixité progresse dans les métiers techniques.", "exampleEnglish": "Gender balance is improving in technical trades.", "level": "B2", "category": "gender-equality" },
+            { "id": "le-marche-du-travail", "french": "le marché du travail", "english": "the job market", "partOfSpeech": "expression", "gender": "m", "pronunciation": "luh mahr-SHAY dew trah-VAI", "example": "Le marché du travail reste inégalitaire selon plusieurs études.", "exampleEnglish": "The job market remains unequal according to several studies.", "level": "B2", "category": "gender-equality" },
+            { "id": "le-taux", "french": "le taux", "english": "the rate", "partOfSpeech": "noun", "gender": "m", "plural": "taux", "pronunciation": "luh TOH", "example": "Le taux d'emploi des femmes a augmenté ces dix dernières années.", "exampleEnglish": "The employment rate for women has risen over the last ten years.", "level": "B2", "category": "gender-equality" },
+            { "id": "a-temps-partiel", "french": "à temps partiel", "english": "part-time", "partOfSpeech": "expression", "pronunciation": "ah tahn pahr-SYEL", "example": "Les femmes occupent la majorité des postes à temps partiel.", "exampleEnglish": "Women hold the majority of part-time positions.", "level": "B2", "category": "gender-equality" },
+            { "id": "a-temps-plein", "french": "à temps plein", "english": "full-time", "partOfSpeech": "expression", "pronunciation": "ah tahn PLAN", "example": "Il est rare que les deux parents travaillent à temps plein la première année.", "exampleEnglish": "It is rare for both parents to work full-time in the first year.", "level": "B2", "category": "gender-equality" },
+            { "id": "syndicat", "french": "le syndicat", "english": "the union", "partOfSpeech": "noun", "gender": "m", "plural": "syndicats", "pronunciation": "san-dee-KAH", "example": "Le syndicat publie chaque année un rapport sur l'égalité salariale.", "exampleEnglish": "The union publishes an annual report on pay equality.", "level": "B2", "category": "gender-equality" },
+            { "id": "loi", "french": "la loi", "english": "the law", "partOfSpeech": "noun", "gender": "f", "plural": "lois", "pronunciation": "lah LWAH", "example": "Une loi de 2019 impose l'index de l'égalité professionnelle.", "exampleEnglish": "A 2019 law requires the professional equality index.", "level": "B2", "category": "gender-equality" },
+            { "id": "la-reforme", "french": "la réforme", "english": "the reform", "partOfSpeech": "noun", "gender": "f", "plural": "réformes", "pronunciation": "lah ray-FORM", "example": "La réforme du congé paternité a été saluée par plusieurs associations.", "exampleEnglish": "The paternity leave reform was welcomed by several associations.", "level": "B2", "category": "gender-equality" },
+            { "id": "un-quota", "french": "un quota", "english": "a quota", "partOfSpeech": "noun", "gender": "m", "plural": "quotas", "pronunciation": "uhn kwoh-TAH", "example": "Certains pays imposent un quota de femmes dans les conseils d'administration.", "exampleEnglish": "Some countries impose a quota of women on boards of directors.", "level": "B2", "category": "gender-equality" },
+            { "id": "la-transparence", "french": "la transparence", "english": "transparency", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah trahns-pah-RAHNS", "example": "La transparence des salaires est débattue depuis plusieurs années.", "exampleEnglish": "Pay transparency has been debated for several years.", "level": "B2", "category": "gender-equality" },
+            { "id": "negocier", "french": "négocier", "english": "to negotiate", "partOfSpeech": "verb", "pronunciation": "nay-goh-SYAY", "example": "Elle a négocié une augmentation à poste équivalent.", "exampleEnglish": "She negotiated a raise for an equivalent position.", "level": "B2", "category": "gender-equality" },
+            { "id": "embaucher", "french": "embaucher", "english": "to hire", "partOfSpeech": "verb", "pronunciation": "ahm-boh-SHAY", "example": "L'entreprise s'engage à embaucher autant de femmes que d'hommes.", "exampleEnglish": "The company commits to hiring as many women as men.", "level": "B2", "category": "gender-equality" },
+            { "id": "licencier", "french": "licencier", "english": "to lay off, to dismiss", "partOfSpeech": "verb", "pronunciation": "lee-sahn-SYAY", "example": "Il est interdit de licencier une salariée pendant son congé maternité.", "exampleEnglish": "It is illegal to dismiss an employee during her maternity leave.", "level": "B2", "category": "gender-equality" },
+            { "id": "revendiquer", "french": "revendiquer", "english": "to demand, to claim (a right)", "partOfSpeech": "verb", "pronunciation": "ruh-vahn-dee-KAY", "example": "Le syndicat revendique une révision de la grille des salaires.", "exampleEnglish": "The union is demanding a revision of the pay scale.", "level": "B2", "category": "gender-equality" },
+            { "id": "denoncer", "french": "dénoncer", "english": "to denounce, to expose", "partOfSpeech": "verb", "pronunciation": "day-nohn-SAY", "example": "L'association dénonce des écarts persistants dans la fonction publique.", "exampleEnglish": "The association denounces persistent gaps in the public sector.", "level": "B2", "category": "gender-equality" },
+            { "id": "selon", "french": "selon", "english": "according to", "partOfSpeech": "preposition", "pronunciation": "suh-LOHN", "example": "Selon une enquête récente, l'écart varie fortement selon la région.", "exampleEnglish": "According to a recent survey, the gap varies a lot by region.", "level": "B2", "category": "gender-equality" },
+            { "id": "une-enquete", "french": "une enquête", "english": "a survey, an investigation", "partOfSpeech": "noun", "gender": "f", "plural": "enquêtes", "pronunciation": "ewn ahn-KEHT", "example": "L'enquête a interrogé cinq mille salariés.", "exampleEnglish": "The survey questioned five thousand employees.", "level": "B2", "category": "gender-equality" },
+            { "id": "l-etude", "french": "l'étude", "english": "the study", "partOfSpeech": "noun", "gender": "f", "plural": "études", "pronunciation": "lay-TUD", "example": "Cette étude compare les écarts salariaux dans dix pays européens.", "exampleEnglish": "This study compares pay gaps across ten European countries.", "level": "B2", "category": "gender-equality" },
+            { "id": "equitable", "french": "équitable", "english": "fair, equitable", "partOfSpeech": "adjective", "pronunciation": "ay-kee-TAH-bluh", "example": "Un partage équitable du congé parental reste rare.", "exampleEnglish": "An equitable split of parental leave remains rare.", "level": "B2", "category": "gender-equality" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Attribuer une source : selon, d'après, d'après une étude",
+              "body": "When reporting a contested statistic, B2 French marks the source explicitly rather than presenting the figure as an established fact. 'Selon' and 'd'après' both mean 'according to' and are interchangeable before a named source; 'd'après' can also introduce a looser impression ('d'après moi'). Keep the source close to the verb so the reader never has to guess who is claiming what.",
+              "examples": [
+                { "french": "Selon l'INSEE, l'écart de salaire atteint quinze pour cent en moyenne.", "english": "According to INSEE, the pay gap reaches fifteen percent on average." },
+                { "french": "D'après un rapport parlementaire, la loi est peu appliquée dans les PME.", "english": "According to a parliamentary report, the law is rarely enforced in small businesses." },
+                { "french": "Toujours selon cette étude, l'écart se réduit avec l'ancienneté.", "english": "Still according to this study, the gap narrows with seniority." },
+                { "french": "Les chiffres varient selon la source consultée.", "english": "The figures vary depending on the source consulted." }
+              ],
+              "tip": "Never drop the source silently between sentences — repeat 'selon cette étude' or use 'toujours selon' so the reader can track exactly which claim belongs to which source."
+            },
+            {
+              "heading": "La concession : bien que, quoique + subjonctif",
+              "body": "Workplace equality is a topic full of 'yes, but' facts — progress alongside persistent gaps. 'Bien que' and 'quoique' (although) both take the subjunctive and let you hold two true things together without implying one cancels the other. This is more precise than 'mais', which simply joins two clauses without marking the logical tension.",
+              "examples": [
+                { "french": "Bien que la loi existe depuis 2019, son application reste inégale.", "english": "Although the law has existed since 2019, its application remains uneven." },
+                { "french": "Quoique la mixité progresse, le plafond de verre persiste.", "english": "Although gender balance is improving, the glass ceiling persists." },
+                { "french": "Bien qu'elle soit cadre depuis dix ans, elle gagne moins que son collègue.", "english": "Although she has been a manager for ten years, she earns less than her colleague." },
+                { "french": "Quoique les chiffres s'améliorent, l'écart reste significatif.", "english": "Although the figures are improving, the gap remains significant." }
+              ],
+              "tip": "'Bien que' and 'quoique' are near-synonyms at this level; choose whichever sounds less repetitive in a paragraph that already uses 'mais' elsewhere."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "b2_u23_l01_li01", "type": "listenChoose", "french": "Selon l'INSEE, l'écart salarial moyen avoisine quinze pour cent.", "options": ["l'écart salarial", "le congé parental", "le conseil d'administration", "la publicité"], "answer": "l'écart salarial" },
+            { "id": "b2_u23_l01_li02", "type": "listenChoose", "french": "Le congé paternité est passé à vingt-huit jours en 2021.", "options": ["Le congé maternité", "Le congé paternité", "Le congé parental", "Le temps partiel"], "answer": "Le congé paternité" },
+            { "id": "b2_u23_l01_li03", "type": "listenType", "french": "Le plafond de verre freine l'accès aux postes de direction.", "answer": "Le plafond de verre freine l'accès aux postes de direction.", "acceptedAnswers": ["le plafond de verre freine l'acces aux postes de direction"] },
+            { "id": "b2_u23_l01_li04", "type": "dictation", "french": "Bien que la loi existe depuis 2019, son application reste inégale.", "answer": "Bien que la loi existe depuis 2019, son application reste inégale.", "acceptedAnswers": ["bien que la loi existe depuis 2019 son application reste inegale"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "b2_u23_l01_sp01", "type": "speak", "french": "Selon une étude récente, l'écart salarial se réduit lentement.", "english": "According to a recent study, the pay gap is narrowing slowly.", "prompt": "Say this sentence aloud, stressing the source before the claim.", "tip": "Pause slightly after 'étude récente' so the listener registers the source before the statistic." },
+            { "id": "b2_u23_l01_sp02", "type": "speak", "french": "Bien que la mixité progresse, le plafond de verre persiste dans ce secteur.", "english": "Although gender balance is improving, the glass ceiling persists in this sector.", "prompt": "Practise the concession structure with correct subjunctive.", "tip": "'Progresse' is subjunctive here but looks identical to the indicative — the giveaway is 'bien que' triggering it." },
+            { "id": "b2_u23_l01_sp03", "type": "speak", "french": "Le congé parental peut être partagé entre les deux parents.", "english": "Parental leave can be shared between both parents.", "prompt": "Describe how parental leave works in your own words.", "tip": "Keep your register neutral and descriptive, as if summarising a government leaflet." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Le rapport de l'Observatoire Vernier",
+              "french": "Chaque année, l'Observatoire Vernier publie un rapport sur l'égalité professionnelle en France.\nSelon son dernier chiffre, l'écart salarial moyen entre femmes et hommes atteint quatorze pour cent, tous postes confondus.\nÀ poste comparable, cet écart tombe à environ quatre pour cent, ce que l'institut attribue en partie au temps partiel, plus fréquent chez les femmes.\nCamille Duranteau, directrice des ressources humaines chez Lorenzi Industries, cite un autre chiffre : sur les cadres dirigeants de son groupe, seuls trente pour cent sont des femmes.\n« Le plafond de verre reste réel, même quand la mixité progresse à l'embauche », explique-t-elle.\nL'entreprise a donc négocié un accord avec les syndicats : un quota de quarante pour cent de femmes parmi les nouveaux postes à responsabilité d'ici 2028.\nD'autres sociétés préfèrent miser sur la transparence des salaires plutôt que sur des quotas.\nLe rapport aborde aussi le congé parental. Bien que la loi permette de le partager entre les deux parents, seuls douze pour cent des pères le prennent à temps plein.\nSelon l'Observatoire, cette proportion progresse néanmoins chaque année depuis la réforme du congé paternité de 2021.\nLe document conclut que les lois ont changé plus vite que certaines pratiques d'entreprise.\nLes syndicats saluent la réforme mais réclament un contrôle plus strict des entreprises qui ne publient pas leurs chiffres.\nLe patronat, de son côté, met en avant les progrès déjà réalisés depuis dix ans.\nIl recommande un suivi annuel, poste par poste, pour mesurer les progrès réels.",
+              "english": "Every year, the Vernier Observatory publishes a report on professional equality in France. According to its latest figure, the average pay gap between women and men reaches fourteen percent, across all positions. For a comparable position, this gap drops to about four percent, which the institute partly attributes to part-time work, more common among women. Camille Duranteau, HR director at Lorenzi Industries, cites another figure: among her group's senior executives, only thirty percent are women. \"The glass ceiling remains real, even as gender balance improves in hiring,\" she explains. The company has therefore negotiated an agreement with the unions: a quota of forty percent women among new positions of responsibility by 2028. Other companies prefer to rely on pay transparency rather than quotas. The report also covers parental leave. Although the law allows it to be shared between both parents, only twelve percent of fathers take it full-time. According to the Observatory, this proportion is nonetheless rising every year since the 2021 paternity leave reform. The document concludes that laws have changed faster than some company practices. The unions welcome the reform but are calling for stricter oversight of companies that do not publish their figures. Employers' representatives, for their part, highlight the progress already made over the past ten years. It recommends an annual review, position by position, to measure real progress.",
+              "questions": [
+                { "id": "b2_u23_l01_rd01", "type": "multipleChoice", "prompt": "À poste comparable, à combien l'écart salarial est-il estimé ?", "options": ["quatorze pour cent", "quatre pour cent", "trente pour cent", "quarante pour cent"], "answer": "quatre pour cent" },
+                { "id": "b2_u23_l01_rd02", "type": "trueFalse", "prompt": "Selon le texte, la majorité des pères prennent le congé parental à temps plein.", "options": ["True", "False"], "answer": "False" },
+                { "id": "b2_u23_l01_rd03", "type": "multipleChoice", "prompt": "Que met en place Lorenzi Industries pour accélérer le changement ?", "options": ["un quota de femmes aux postes à responsabilité", "la suppression du congé paternité", "une baisse générale des salaires", "la fin du temps partiel"], "answer": "un quota de femmes aux postes à responsabilité" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "b2_u23_l01_wr01", "type": "translate", "prompt": "According to a recent study, the pay gap is shrinking slowly.", "english": "According to a recent study, the pay gap is shrinking slowly.", "answer": "Selon une étude récente, l'écart salarial se réduit lentement.", "acceptedAnswers": ["selon une etude recente l'ecart salarial se reduit lentement"] },
+            { "id": "b2_u23_l01_wr02", "type": "translate", "prompt": "Although the law exists, its application remains uneven.", "english": "Although the law exists, its application remains uneven.", "answer": "Bien que la loi existe, son application reste inégale.", "acceptedAnswers": ["bien que la loi existe son application reste inegale"] },
+            { "id": "b2_u23_l01_wr03", "type": "arrangeWords", "words": ["postes", "à", "responsabilité", "de", "femmes", "aux", "accèdent", "Peu"], "answer": "Peu de femmes accèdent aux postes à responsabilité", "english": "Few women reach positions of responsibility." }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "b2_u23_l01_pr01", "type": "multipleChoice", "prompt": "Quelle expression désigne une barrière invisible qui freine la promotion des femmes ?", "options": ["le plafond de verre", "le congé parental", "le marché du travail", "la transparence"], "answer": "le plafond de verre" },
+            { "id": "b2_u23_l01_pr02", "type": "fillBlank", "prompt": "___ l'INSEE, l'écart salarial moyen atteint quatorze pour cent.", "answer": "Selon" },
+            { "id": "b2_u23_l01_pr03", "type": "trueFalse", "prompt": "Le congé paternité et le congé maternité désignent exactement la même chose.", "options": ["True", "False"], "answer": "False" },
+            { "id": "b2_u23_l01_pr04", "type": "match", "pairs": [ { "french": "négocier", "english": "to negotiate" }, { "french": "embaucher", "english": "to hire" }, { "french": "licencier", "english": "to lay off" }, { "french": "dénoncer", "english": "to denounce" } ] },
+            { "id": "b2_u23_l01_pr05", "type": "multipleChoice", "prompt": "Quel connecteur introduit une concession et exige le subjonctif ?", "options": ["bien que", "selon", "parce que", "donc"], "answer": "bien que" },
+            { "id": "b2_u23_l01_pr06", "type": "fillBlank", "prompt": "Certaines entreprises fixent un ___ pour accélérer la mixité aux postes à responsabilité.", "answer": "quota" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "b2_u23_l01_qz01", "type": "multipleChoice", "prompt": "Quel mot désigne l'écart de salaire entre femmes et hommes ?", "options": ["l'écart salarial", "le congé parental", "la parité", "la direction"], "answer": "l'écart salarial" },
+            { "id": "b2_u23_l01_qz02", "type": "translate", "prompt": "The report cites a study.", "english": "The report cites a study.", "answer": "Le rapport cite une étude.", "acceptedAnswers": ["le rapport cite une etude"] },
+            { "id": "b2_u23_l01_qz03", "type": "fillBlank", "prompt": "___ que la loi existe, son application reste inégale.", "answer": "Bien" },
+            { "id": "b2_u23_l01_qz04", "type": "trueFalse", "prompt": "Le plafond de verre désigne un obstacle légal écrit dans le Code du travail.", "options": ["True", "False"], "answer": "False" },
+            { "id": "b2_u23_l01_qz05", "type": "multipleChoice", "prompt": "Depuis 2021, combien de jours dure le congé paternité en France ?", "options": ["vingt-huit jours", "seize semaines", "trois mois", "dix jours"], "answer": "vingt-huit jours" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2_u23_l02",
+      "level": "B2",
+      "unit": 23,
+      "title": "Le langage inclusif",
+      "description": "Explore the different approaches to inclusive language in French — the point médian, gender-neutral wording, and feminised job titles — and the debate they generate, presented from multiple sides.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Trois approches du langage inclusif",
+              "body": "'Le langage inclusif' is an umbrella term covering several distinct techniques, and B2 French requires naming them precisely rather than lumping them together. 'La féminisation des noms de métiers' creates feminine job titles ('une autrice', 'une professeure'). 'L'écriture inclusive' more specifically refers to written conventions like the median dot ('le point médian': 'les étudiant·e·s'). A third approach uses epicene or neutral wording that avoids marking gender at all ('les personnes étudiantes'). Each targets a different part of the language, so a precise description distinguishes them.",
+              "examples": [
+                { "french": "La féminisation des noms de métiers touche le vocabulaire, pas l'orthographe.", "english": "The feminisation of job titles concerns vocabulary, not spelling." },
+                { "french": "Le point médian s'écrit dans les documents, mais ne se prononce pas à l'oral.", "english": "The median dot is written in documents but is not pronounced aloud." },
+                { "french": "Une formulation épicène évite de choisir entre le masculin et le féminin.", "english": "An epicene wording avoids choosing between masculine and feminine." },
+                { "french": "« Les étudiant·e·s » et « les étudiantes et étudiants » suivent deux logiques différentes.", "english": "\"Les étudiant·e·s\" and \"les étudiantes et étudiants\" follow two different logics." },
+                { "french": "Certains organismes combinent plusieurs de ces approches dans un même texte.", "english": "Some organisations combine several of these approaches in the same text." }
+              ],
+              "tip": "Do not treat 'écriture inclusive' as a synonym for 'langage inclusif' — the first is one written technique among several, not the whole topic."
+            },
+            {
+              "heading": "Le débat : arguments avancés de chaque côté",
+              "body": "The debate around the point médian is genuinely contested among French speakers, educators, and institutions — this lesson reports the arguments without adopting one. Supporters argue it makes the presence of women visible in a language whose grammatical rule ('le masculin l'emporte') defaults to the masculine plural. Critics argue it complicates reading, especially for people learning French or with certain reading difficulties, and that it changes a spoken language through a written convention few people say aloud. Both camps cite different studies and different priorities.",
+              "examples": [
+                { "french": "Les partisans du point médian estiment qu'il rend les femmes visibles dans le texte.", "english": "Supporters of the median dot believe it makes women visible in the text." },
+                { "french": "Les opposants jugent que cette écriture complique la lecture, notamment pour les enfants.", "english": "Opponents argue that this writing complicates reading, especially for children." },
+                { "french": "Certains linguistes soulignent que la règle du masculin générique n'a que quelques siècles.", "english": "Some linguists point out that the generic-masculine rule is only a few centuries old." },
+                { "french": "D'autres rappellent que le français a longtemps connu des règles d'accord différentes.", "english": "Others note that French long had different agreement rules." },
+                { "french": "Le débat oppose souvent des arguments de lisibilité à des arguments de représentation.", "english": "The debate often pits readability arguments against representation arguments." }
+              ],
+              "tip": "Use 'les partisans estiment que...' / 'les opposants jugent que...' to report a position without making it your own — a useful structure for any contested topic at B2."
+            },
+            {
+              "heading": "L'Académie française et les usages alternatifs",
+              "body": "L'Académie française, the institution responsible for the official dictionary, has publicly opposed the point médian, calling it a 'péril mortel' for the language in a 2017 statement, while gradually accepting many feminised job titles it once resisted. Meanwhile, Québec, Belgium, and Switzerland — French-speaking regions outside France — often moved faster on feminised titles and use their own style guides, showing that 'French usage' is not decided by a single authority.",
+              "examples": [
+                { "french": "L'Académie française s'oppose à l'usage du point médian dans les textes officiels.", "english": "The Académie française opposes the use of the median dot in official texts." },
+                { "french": "Elle a pourtant accepté, en 2019, la féminisation de nombreux titres de métiers.", "english": "It nonetheless accepted, in 2019, the feminisation of many job titles." },
+                { "french": "Au Québec, « une autrice » est utilisée depuis les années 1970.", "english": "In Québec, \"une autrice\" has been used since the 1970s." },
+                { "french": "La Suisse et la Belgique publient leurs propres recommandations linguistiques.", "english": "Switzerland and Belgium publish their own language recommendations." },
+                { "french": "Certains éditeurs suivent l'Académie ; d'autres suivent les usages québécois.", "english": "Some publishers follow the Académie; others follow Québec usage." }
+              ],
+              "tip": "'L'Académie française' issues recommendations, not laws — French speakers and institutions are free to follow them or not, which is exactly why the debate continues."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "le-langage", "french": "le langage", "english": "language (as a faculty or system)", "partOfSpeech": "noun", "gender": "m", "plural": "langages", "pronunciation": "luh lahn-GAHZH", "example": "Le langage inclusif regroupe plusieurs pratiques distinctes.", "exampleEnglish": "Inclusive language covers several distinct practices.", "level": "B2", "category": "inclusive-language" },
+            { "id": "l-ecriture-inclusive", "french": "l'écriture inclusive", "english": "inclusive writing", "partOfSpeech": "expression", "gender": "f", "pronunciation": "lay-kree-TÜR an-klü-ZEEV", "example": "L'écriture inclusive utilise notamment le point médian.", "exampleEnglish": "Inclusive writing notably uses the median dot.", "level": "B2", "category": "inclusive-language" },
+            { "id": "le-point-median", "french": "le point médian", "english": "the median dot (typographic mark)", "partOfSpeech": "noun", "gender": "m", "plural": "points médians", "pronunciation": "luh pwan may-DYAN", "example": "« Les salarié·e·s » s'écrit avec un point médian.", "exampleEnglish": "\"Les salarié·e·s\" is written with a median dot.", "level": "B2", "category": "inclusive-language" },
+            { "id": "la-feminisation", "french": "la féminisation", "english": "feminisation (of job titles)", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah fay-mee-nee-zah-SYOHN", "example": "La féminisation des noms de métiers avance différemment selon les pays.", "exampleEnglish": "The feminisation of job titles is progressing differently by country.", "level": "B2", "category": "inclusive-language" },
+            { "id": "un-nom-de-metier", "french": "un nom de métier", "english": "a job title", "partOfSpeech": "expression", "gender": "m", "pronunciation": "uhn nohn duh may-TYAY", "example": "Certains noms de métier n'avaient traditionnellement qu'une forme masculine.", "exampleEnglish": "Some job titles traditionally had only a masculine form.", "level": "B2", "category": "inclusive-language" },
+            { "id": "un-auteur", "french": "un auteur / une autrice", "english": "an author", "partOfSpeech": "noun", "gender": "m", "plural": "auteurs", "pronunciation": "uhn oh-TUHR", "example": "Cette autrice publie son premier roman cette année.", "exampleEnglish": "This author is publishing her first novel this year.", "level": "B2", "category": "inclusive-language" },
+            { "id": "un-ecrivain", "french": "un écrivain / une écrivaine", "english": "a writer", "partOfSpeech": "noun", "gender": "m", "plural": "écrivains", "pronunciation": "uhn nay-kree-VAN", "example": "Elle se présente comme écrivaine, pas comme écrivain.", "exampleEnglish": "She describes herself as a female writer, not as a writer in the masculine form.", "level": "B2", "category": "inclusive-language" },
+            { "id": "le-professeur", "french": "le professeur", "english": "the teacher, the professor (m)", "partOfSpeech": "noun", "gender": "m", "plural": "professeurs", "pronunciation": "luh proh-feh-SUHR", "example": "Le professeur a corrigé les copies ce week-end.", "exampleEnglish": "The teacher marked the papers this weekend.", "level": "B2", "category": "inclusive-language" },
+            { "id": "la-professeure", "french": "la professeure", "english": "the teacher, the professor (f)", "partOfSpeech": "noun", "gender": "f", "plural": "professeures", "pronunciation": "lah proh-feh-SUHR", "example": "La professeure de droit a publié un article sur ce débat.", "exampleEnglish": "The law professor published an article on this debate.", "level": "B2", "category": "inclusive-language" },
+            { "id": "la-grammaire", "french": "la grammaire", "english": "grammar", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah grah-MAIR", "example": "La grammaire française applique la règle du masculin générique.", "exampleEnglish": "French grammar applies the generic-masculine rule.", "level": "B2", "category": "inclusive-language" },
+            { "id": "la-regle", "french": "la règle", "english": "the rule", "partOfSpeech": "noun", "gender": "f", "plural": "règles", "pronunciation": "lah REH-gluh", "example": "Cette règle d'accord remonte au dix-septième siècle.", "exampleEnglish": "This agreement rule dates back to the seventeenth century.", "level": "B2", "category": "inclusive-language" },
+            { "id": "norme", "french": "la norme", "english": "the standard, the norm", "partOfSpeech": "noun", "gender": "f", "plural": "normes", "pronunciation": "lah NORM", "example": "La norme scolaire ne reflète pas tous les usages actuels.", "exampleEnglish": "The school standard does not reflect all current usage.", "level": "B2", "category": "inclusive-language" },
+            { "id": "l-usage", "french": "l'usage", "english": "usage (actual practice)", "partOfSpeech": "noun", "gender": "m", "plural": "usages", "pronunciation": "lu-ZAHZH", "example": "L'usage varie beaucoup d'un pays francophone à l'autre.", "exampleEnglish": "Usage varies a lot from one French-speaking country to another.", "level": "B2", "category": "inclusive-language" },
+            { "id": "l-orthographe", "french": "l'orthographe", "english": "spelling", "partOfSpeech": "noun", "gender": "f", "plural": "orthographes", "pronunciation": "lor-toh-GRAF", "example": "L'orthographe inclusive divise les enseignants.", "exampleEnglish": "Inclusive spelling divides teachers." , "level": "B2", "category": "inclusive-language" },
+            { "id": "la-prononciation", "french": "la prononciation", "english": "pronunciation", "partOfSpeech": "noun", "gender": "f", "plural": "prononciations", "pronunciation": "proh-nohn-syah-SYOHN", "example": "Le point médian ne change pas la prononciation à l'oral.", "exampleEnglish": "The median dot does not change pronunciation when spoken aloud.", "level": "B2", "category": "inclusive-language" },
+            { "id": "academie-francaise", "french": "l'Académie française", "english": "the Académie française", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah-kah-day-MEE frahn-SEZ", "example": "L'Académie française publie des recommandations, non des lois.", "exampleEnglish": "The Académie française issues recommendations, not laws.", "level": "B2", "category": "inclusive-language" },
+            { "id": "un-dictionnaire", "french": "un dictionnaire", "english": "a dictionary", "partOfSpeech": "noun", "gender": "m", "plural": "dictionnaires", "pronunciation": "uhn deek-syoh-NAIR", "example": "Le mot « iel » est entré dans un dictionnaire en 2021.", "exampleEnglish": "The word \"iel\" entered a dictionary in 2021.", "level": "B2", "category": "inclusive-language" },
+            { "id": "un-debat", "french": "un débat", "english": "a debate", "partOfSpeech": "noun", "gender": "m", "plural": "débats", "pronunciation": "uhn day-BAH", "example": "Ce débat traverse aussi bien les écoles que les médias.", "exampleEnglish": "This debate runs through schools as well as the media.", "level": "B2", "category": "inclusive-language" },
+            { "id": "une-controverse", "french": "une controverse", "english": "a controversy", "partOfSpeech": "noun", "gender": "f", "plural": "controverses", "pronunciation": "ewn kohn-troh-VAIRS", "example": "La controverse a relancé les prises de position politiques.", "exampleEnglish": "The controversy revived political positioning.", "level": "B2", "category": "inclusive-language" },
+            { "id": "puriste", "french": "le puriste / la puriste", "english": "purist, language stickler", "partOfSpeech": "noun", "gender": "m", "plural": "puristes", "pronunciation": "luh puu-REEST", "example": "Certains puristes refusent tout changement à la grammaire.", "exampleEnglish": "Some purists refuse any change to grammar.", "level": "B2", "category": "inclusive-language" },
+            { "id": "un-partisan", "french": "un partisan / une partisane", "english": "a supporter, an advocate", "partOfSpeech": "noun", "gender": "m", "plural": "partisans", "pronunciation": "uhn pahr-tee-ZAHN", "example": "Les partisans du point médian le défendent au nom de la visibilité.", "exampleEnglish": "Supporters of the median dot defend it in the name of visibility.", "level": "B2", "category": "inclusive-language" },
+            { "id": "un-opposant", "french": "un opposant / une opposante", "english": "an opponent", "partOfSpeech": "noun", "gender": "m", "plural": "opposants", "pronunciation": "uhn noh-poh-ZAHN", "example": "Les opposants dénoncent une écriture difficile à lire.", "exampleEnglish": "Opponents denounce writing that is difficult to read.", "level": "B2", "category": "inclusive-language" },
+            { "id": "s-opposer", "french": "s'opposer", "english": "to be opposed, to object", "partOfSpeech": "verb", "pronunciation": "so-poh-ZAY", "example": "L'Académie française s'oppose officiellement au point médian.", "exampleEnglish": "The Académie française officially opposes the median dot.", "level": "B2", "category": "inclusive-language" },
+            { "id": "defendre", "french": "défendre", "english": "to defend", "partOfSpeech": "verb", "pronunciation": "day-FAHN-druh", "example": "Elle défend l'écriture inclusive dans ses articles.", "exampleEnglish": "She defends inclusive writing in her articles.", "level": "B2", "category": "inclusive-language" },
+            { "id": "soutenir", "french": "soutenir", "english": "to support", "partOfSpeech": "verb", "pronunciation": "soot-NEER", "example": "Plusieurs associations soutiennent la féminisation des titres.", "exampleEnglish": "Several associations support the feminisation of titles.", "level": "B2", "category": "inclusive-language" },
+            { "id": "critiquer", "french": "critiquer", "english": "to criticise", "partOfSpeech": "verb", "pronunciation": "kree-tee-KAY", "example": "Des enseignants critiquent la complexité du point médian.", "exampleEnglish": "Some teachers criticise the complexity of the median dot.", "level": "B2", "category": "inclusive-language" },
+            { "id": "adopter", "french": "adopter", "english": "to adopt", "partOfSpeech": "verb", "pronunciation": "ah-dohp-TAY", "example": "Certaines administrations ont adopté des formulations épicènes.", "exampleEnglish": "Some administrations have adopted epicene wording.", "level": "B2", "category": "inclusive-language" },
+            { "id": "recommander", "french": "recommander", "english": "to recommend", "partOfSpeech": "verb", "pronunciation": "ruh-koh-mahn-DAY", "example": "Le guide recommande d'éviter le point médian dans les textes officiels.", "exampleEnglish": "The style guide recommends avoiding the median dot in official texts.", "level": "B2", "category": "inclusive-language" },
+            { "id": "interdire", "french": "interdire", "english": "to ban, to forbid", "partOfSpeech": "verb", "pronunciation": "an-tair-DEER", "example": "Certains établissements ont interdit l'écriture inclusive dans les copies.", "exampleEnglish": "Some schools have banned inclusive writing in exam papers.", "level": "B2", "category": "inclusive-language" },
+            { "id": "la-lisibilite", "french": "la lisibilité", "english": "readability", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah lee-zee-bee-lee-TAY", "example": "Les opposants mettent en avant un problème de lisibilité.", "exampleEnglish": "Opponents highlight a readability problem.", "level": "B2", "category": "inclusive-language" },
+            { "id": "epicene", "french": "épicène", "english": "epicene (same form for both genders)", "partOfSpeech": "adjective", "pronunciation": "ay-pee-SEN", "example": "« Les élèves » est un mot épicène.", "exampleEnglish": "\"Les élèves\" is an epicene word.", "level": "B2", "category": "inclusive-language" },
+            { "id": "neutre", "french": "neutre", "english": "neutral", "partOfSpeech": "adjective", "pronunciation": "NUH-truh", "example": "Certains préfèrent une formulation neutre à une double forme.", "exampleEnglish": "Some prefer a neutral wording to a double form.", "level": "B2", "category": "inclusive-language" },
+            { "id": "un-suffixe", "french": "un suffixe", "english": "a suffix", "partOfSpeech": "noun", "gender": "m", "plural": "suffixes", "pronunciation": "uhn suu-FEEKS", "example": "Le suffixe « -rice » apparaît dans « autrice » et « actrice ».", "exampleEnglish": "The suffix \"-rice\" appears in \"autrice\" and \"actrice\".", "level": "B2", "category": "inclusive-language" },
+            { "id": "une-terminaison", "french": "une terminaison", "english": "an ending (of a word)", "partOfSpeech": "noun", "gender": "f", "plural": "terminaisons", "pronunciation": "ewn tair-mee-nay-ZOHN", "example": "La terminaison féminine varie selon le métier.", "exampleEnglish": "The feminine ending varies depending on the profession.", "level": "B2", "category": "inclusive-language" },
+            { "id": "un-accord", "french": "un accord", "english": "an agreement (grammatical)", "partOfSpeech": "noun", "gender": "m", "plural": "accords", "pronunciation": "uhn nah-KOR", "example": "L'accord de proximité fait accorder l'adjectif avec le nom le plus proche.", "exampleEnglish": "Proximity agreement makes the adjective agree with the nearest noun.", "level": "B2", "category": "inclusive-language" },
+            { "id": "un-pronom", "french": "un pronom", "english": "a pronoun", "partOfSpeech": "noun", "gender": "m", "plural": "pronoms", "pronunciation": "uhn proh-NOHN", "example": "Certaines personnes utilisent un pronom neutre.", "exampleEnglish": "Some people use a neutral pronoun.", "level": "B2", "category": "inclusive-language" },
+            { "id": "iel", "french": "iel", "english": "a gender-neutral third-person pronoun", "partOfSpeech": "pronoun", "pronunciation": "yell", "example": "« Iel » est entré dans un dictionnaire français en ligne en 2021.", "exampleEnglish": "\"Iel\" entered an online French dictionary in 2021.", "level": "B2", "category": "inclusive-language" },
+            { "id": "la-reforme", "french": "la réforme", "english": "the reform", "partOfSpeech": "noun", "gender": "f", "plural": "réformes", "pronunciation": "lah ray-FORM", "example": "Aucune réforme officielle de l'orthographe n'a imposé le point médian.", "exampleEnglish": "No official spelling reform has imposed the median dot.", "level": "B2", "category": "inclusive-language" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Rapporter une position sans la prendre",
+              "body": "Describing a debate at B2 needs verbs that report a stance without adopting it: 'estimer que', 'juger que', 'considérer que', 'faire valoir que' (to argue that). Pair each with the group holding that view, and keep the reporting verb in the indicative even when the opinion itself is debatable — you are stating a fact about who believes what.",
+              "examples": [
+                { "french": "Les partisans du point médian estiment qu'il rend les femmes plus visibles.", "english": "Supporters of the median dot believe it makes women more visible." },
+                { "french": "Les opposants jugent que cette écriture nuit à la lisibilité.", "english": "Opponents believe this writing harms readability." },
+                { "french": "L'Académie française considère que l'écriture inclusive menace l'unité de la langue.", "english": "The Académie française considers that inclusive writing threatens the unity of the language." },
+                { "french": "Certains linguistes font valoir que la langue a toujours évolué.", "english": "Some linguists argue that language has always evolved." }
+              ],
+              "tip": "Avoid 'je pense que' or 'à mon avis' when summarising a debate for someone else — those phrases signal your own opinion, not a report of others'."
+            },
+            {
+              "heading": "L'opposition d'idées : alors que, tandis que, en revanche",
+              "body": "To hold two opposing positions in the same paragraph without favouring either, B2 French uses balanced contrast structures: 'alors que' / 'tandis que' (whereas) inside one sentence, or 'en revanche' (on the other hand) to open a new sentence that answers the previous one. These are more neutral than 'mais', which can read as correcting the first clause.",
+              "examples": [
+                { "french": "Alors que certains pays adoptent la féminisation, d'autres la limitent aux textes officiels.", "english": "Whereas some countries adopt feminisation, others limit it to official texts." },
+                { "french": "Le Québec utilise « autrice » depuis longtemps ; la France, en revanche, l'a adopté plus tard.", "english": "Québec has used \"autrice\" for a long time; France, on the other hand, adopted it later." },
+                { "french": "Certains enseignants encouragent le point médian, tandis que d'autres l'interdisent en classe.", "english": "Some teachers encourage the median dot, while others ban it in class." },
+                { "french": "L'usage évolue vite à l'oral ; à l'écrit, en revanche, les habitudes changent plus lentement.", "english": "Usage changes quickly in speech; in writing, on the other hand, habits change more slowly." }
+              ],
+              "tip": "'En revanche' needs its own clause boundary (comma or new sentence) — unlike 'mais', it cannot simply join two verbs in one clause."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "b2_u23_l02_li01", "type": "listenChoose", "french": "L'Académie française s'oppose officiellement au point médian.", "options": ["le point médian", "le congé parental", "la mixité", "le syndicat"], "answer": "le point médian" },
+            { "id": "b2_u23_l02_li02", "type": "listenChoose", "french": "Les partisans du point médian estiment qu'il rend les femmes visibles.", "options": ["Les opposants", "Les partisans", "Les puristes", "Les journalistes"], "answer": "Les partisans" },
+            { "id": "b2_u23_l02_li03", "type": "listenType", "french": "Le mot « iel » est entré dans un dictionnaire en 2021.", "answer": "Le mot « iel » est entré dans un dictionnaire en 2021.", "acceptedAnswers": ["le mot iel est entre dans un dictionnaire en 2021"] },
+            { "id": "b2_u23_l02_li04", "type": "dictation", "french": "Alors que certains pays adoptent la féminisation, d'autres la limitent aux textes officiels.", "answer": "Alors que certains pays adoptent la féminisation, d'autres la limitent aux textes officiels.", "acceptedAnswers": ["alors que certains pays adoptent la feminisation d'autres la limitent aux textes officiels"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "b2_u23_l02_sp01", "type": "speak", "french": "Les opposants jugent que cette écriture nuit à la lisibilité.", "english": "Opponents believe this writing harms readability.", "prompt": "Say this sentence, reporting the opponents' position neutrally.", "tip": "Keep 'jugent que' level in tone — this is a report, not your own verdict." },
+            { "id": "b2_u23_l02_sp02", "type": "speak", "french": "Le Québec utilise « autrice » depuis les années 1970.", "english": "Québec has used \"autrice\" since the 1970s.", "prompt": "Describe how usage differs between French-speaking regions.", "tip": "Pronounce 'autrice' as ohtr-EESS, stressing the final syllable." },
+            { "id": "b2_u23_l02_sp03", "type": "speak", "french": "L'Académie française publie des recommandations, non des lois.", "english": "The Académie française issues recommendations, not laws.", "prompt": "Explain the difference between a recommendation and a law in this context.", "tip": "Stress 'recommandations' and 'lois' evenly so the contrast is clear to the listener." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Un débat au collège Jean-Rostand",
+              "french": "Au collège Jean-Rostand, une réunion a rassemblé parents, enseignants et élèves autour d'une question simple : faut-il autoriser le point médian dans les copies ?\nLa professeure de français, Nadia Kowalski, a ouvert le débat en rappelant les trois approches existantes : la féminisation des noms de métiers, l'écriture inclusive au sens strict, et les formulations neutres.\nUn premier groupe de parents a défendu le point médian, estimant qu'il rend visibles les filles de la classe dans un texte autrement toujours masculin.\nUn second groupe s'y est opposé, jugeant la lecture plus difficile, en particulier pour les élèves qui apprennent encore à lire.\nUn élève a proposé un compromis : utiliser des formulations neutres, comme « le corps enseignant » plutôt que « les professeurs et professeures ».\nLa direction a rappelé la position de l'Académie française, qui recommande d'éviter le point médian dans les écrits officiels.\nElle a cependant précisé que cette recommandation n'a pas de valeur légale et que d'autres pays francophones suivent des règles différentes.\nAu Québec, par exemple, la féminisation des titres est courante depuis les années 1970, sans usage généralisé du point médian.\nUn enseignant a rappelé que la Suisse et la Belgique publient chacune leurs propres recommandations, différentes de celles de Paris.\nÀ la fin de la réunion, aucune décision définitive n'a été prise.\nLe collège a choisi de laisser chaque enseignant fixer sa propre règle pour l'année, en expliquant son choix aux élèves.\nNadia Kowalski a conclu que le débat resterait sans doute ouvert encore longtemps.", "english": "At Jean-Rostand secondary school, a meeting brought together parents, teachers, and students around a simple question: should the median dot be allowed in written assignments? The French teacher, Nadia Kowalski, opened the debate by recalling the three existing approaches: the feminisation of job titles, inclusive writing in the strict sense, and neutral wording. A first group of parents defended the median dot, arguing that it makes the girls in the class visible in a text that is otherwise always masculine. A second group opposed it, judging reading more difficult, particularly for students who are still learning to read. A student proposed a compromise: using neutral wording, such as \"le corps enseignant\" (the teaching staff) rather than \"les professeurs et professeures\". The school administration recalled the position of the Académie française, which recommends avoiding the median dot in official writing. It nonetheless specified that this recommendation has no legal force and that other French-speaking countries follow different rules. In Québec, for example, the feminisation of titles has been common since the 1970s, without widespread use of the median dot. A teacher pointed out that Switzerland and Belgium each publish their own recommendations, different from those of Paris. At the end of the meeting, no final decision was made. The school chose to let each teacher set their own rule for the year, explaining their choice to students. Nadia Kowalski concluded that the debate would likely remain open for a long time.",
+              "questions": [
+                { "id": "b2_u23_l02_rd01", "type": "multipleChoice", "prompt": "Quel compromis un élève propose-t-il pendant la réunion ?", "options": ["utiliser des formulations neutres", "interdire tout débat", "supprimer les noms de métiers", "changer de professeure"], "answer": "utiliser des formulations neutres" },
+                { "id": "b2_u23_l02_rd02", "type": "trueFalse", "prompt": "La recommandation de l'Académie française a une valeur légale obligatoire.", "options": ["True", "False"], "answer": "False" },
+                { "id": "b2_u23_l02_rd03", "type": "multipleChoice", "prompt": "Quelle décision le collège prend-il finalement ?", "options": ["chaque enseignant fixe sa propre règle", "le point médian est interdit partout", "le point médian est obligatoire", "aucun enseignant ne peut en parler"], "answer": "chaque enseignant fixe sa propre règle" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "b2_u23_l02_wr01", "type": "translate", "prompt": "Supporters of the median dot believe it makes women visible.", "english": "Supporters of the median dot believe it makes women visible.", "answer": "Les partisans du point médian estiment qu'il rend les femmes visibles.", "acceptedAnswers": ["les partisans du point median estiment qu'il rend les femmes visibles"] },
+            { "id": "b2_u23_l02_wr02", "type": "translate", "prompt": "The Académie française issues recommendations, not laws.", "english": "The Académie française issues recommendations, not laws.", "answer": "L'Académie française publie des recommandations, non des lois.", "acceptedAnswers": ["l'academie francaise publie des recommandations non des lois"] },
+            { "id": "b2_u23_l02_wr03", "type": "arrangeWords", "words": ["nuit", "cette", "écriture", "opposants", "lisibilité", "jugent", "Les", "à", "la", "que"], "answer": "Les opposants jugent que cette écriture nuit à la lisibilité", "english": "Opponents believe this writing harms readability." }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "b2_u23_l02_pr01", "type": "multipleChoice", "prompt": "Quelle institution s'oppose officiellement au point médian ?", "options": ["l'Académie française", "l'Observatoire Vernier", "le syndicat", "le collège Jean-Rostand"], "answer": "l'Académie française" },
+            { "id": "b2_u23_l02_pr02", "type": "fillBlank", "prompt": "« Les élèves » est un mot ___, car il ne change pas selon le genre.", "answer": "épicène" },
+            { "id": "b2_u23_l02_pr03", "type": "trueFalse", "prompt": "Le mot « autrice » est utilisé au Québec depuis les années 1970.", "options": ["True", "False"], "answer": "True" },
+            { "id": "b2_u23_l02_pr04", "type": "match", "pairs": [ { "french": "un partisan", "english": "a supporter" }, { "french": "un opposant", "english": "an opponent" }, { "french": "défendre", "english": "to defend" }, { "french": "critiquer", "english": "to criticise" } ] },
+            { "id": "b2_u23_l02_pr05", "type": "multipleChoice", "prompt": "Quelle expression rapporte une opinion sans la prendre pour soi ?", "options": ["les partisans estiment que", "je pense que", "à mon avis", "je trouve que"], "answer": "les partisans estiment que" },
+            { "id": "b2_u23_l02_pr06", "type": "fillBlank", "prompt": "Le point médian s'écrit, mais ne se ___ pas à l'oral.", "answer": "prononce" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "b2_u23_l02_qz01", "type": "multipleChoice", "prompt": "Quelle approche crée des formes comme « une autrice » ou « une professeure » ?", "options": ["la féminisation des noms de métiers", "le point médian", "l'accord de proximité", "la norme scolaire"], "answer": "la féminisation des noms de métiers" },
+            { "id": "b2_u23_l02_qz02", "type": "translate", "prompt": "This debate remains open.", "english": "This debate remains open.", "answer": "Ce débat reste ouvert.", "acceptedAnswers": ["ce debat reste ouvert"] },
+            { "id": "b2_u23_l02_qz03", "type": "fillBlank", "prompt": "Les ___ du point médian estiment qu'il rend les femmes visibles.", "answer": "partisans" },
+            { "id": "b2_u23_l02_qz04", "type": "trueFalse", "prompt": "L'Académie française a le pouvoir légal d'interdire le point médian dans tous les textes en France.", "options": ["True", "False"], "answer": "False" },
+            { "id": "b2_u23_l02_qz05", "type": "multipleChoice", "prompt": "Quel mot désigne un pronom neutre parfois utilisé en français ?", "options": ["iel", "elle", "cela", "on"], "answer": "iel" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2_u23_l03",
+      "level": "B2",
+      "unit": 23,
+      "title": "Modèles et représentations",
+      "description": "Look at how gender is represented in French media and culture — film, advertising, and children's stories — and how representation has changed over generations.",
+      "estimatedMinutes": 19,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Des modèles au cinéma et à la télévision",
+              "body": "'Un modèle' (a role model) and 'une représentation' (a representation) are the two nouns this lesson keeps returning to: who appears on screen, and what role they incarnate. B2 French describes this with verbs like 'incarner' (to embody a role) and 'véhiculer' (to convey, often used for an idea or image a film carries along, positively or not).",
+              "examples": [
+                { "french": "Ce film incarne un nouveau modèle de héroïne, plus indépendante.", "english": "This film embodies a new model of heroine, more independent." },
+                { "french": "La publicité véhicule souvent des rôles très classiques.", "english": "Advertising often conveys very traditional roles." },
+                { "french": "Les personnages principaux restent majoritairement masculins dans ce genre.", "english": "The main characters remain mostly male in this genre." },
+                { "french": "Une nouvelle génération de réalisatrices change peu à peu ces habitudes.", "english": "A new generation of female directors is gradually changing these habits." },
+                { "french": "La représentation à l'écran influence, selon plusieurs études, l'image que les enfants se font d'eux-mêmes.", "english": "Representation on screen influences, according to several studies, the image children form of themselves." }
+              ],
+              "tip": "'Incarner' literally means 'to give flesh to' — it is the natural verb for an actor bringing a role to life, distinct from 'jouer' (to play), which is more neutral."
+            },
+            {
+              "heading": "Stéréotypes et clichés : les repérer sans juger",
+              "body": "'Un stéréotype' is a simplified, widely shared image of a group; 'un cliché' is closer to an overused idea in storytelling. B2 French can describe both descriptively, noting that a character 'reprend un cliché' (echoes a cliché) or 'échappe au stéréotype' (escapes the stereotype) without necessarily condemning the work as a whole — description and judgement stay separate.",
+              "examples": [
+                { "french": "Le personnage de la mère reprend un cliché fréquent dans ce genre de film.", "english": "The mother character echoes a cliché common in this genre of film." },
+                { "french": "D'autres films cherchent au contraire à échapper au stéréotype.", "english": "Other films, by contrast, try to escape the stereotype." },
+                { "french": "Un jouet, une publicité, un dessin animé peuvent tous véhiculer des stéréotypes de genre.", "english": "A toy, an advert, a cartoon can all convey gender stereotypes." },
+                { "french": "La diversité des modèles proposés aux enfants s'est élargie depuis vingt ans.", "english": "The diversity of role models offered to children has broadened over the past twenty years." },
+                { "french": "Certains critiques distinguent le stéréotype du simple archétype narratif.", "english": "Some critics distinguish the stereotype from a simple narrative archetype." }
+              ],
+              "tip": "Describing a stereotype ('ce personnage reprend un stéréotype') is not the same as condemning the work — keep the two separate when summarising a critic's argument."
+            },
+            {
+              "heading": "L'évolution des représentations dans le temps",
+              "body": "Comparing generations needs time markers and the verb 'évoluer' (to evolve): 'depuis les années 2000', 'd'une génération à l'autre', 'par rapport à'. This lets you describe change as a documented trend rather than a personal complaint or endorsement — useful when a topic like representation invites strong opinions but the lesson stays descriptive.",
+              "examples": [
+                { "french": "Les représentations ont évolué depuis les années 2000.", "english": "Representations have evolved since the 2000s." },
+                { "french": "Par rapport à la génération précédente, les héroïnes occupent davantage le premier rôle.", "english": "Compared to the previous generation, heroines take the lead role more often." },
+                { "french": "D'une génération à l'autre, les jouets destinés aux enfants se sont partiellement mixés.", "english": "From one generation to the next, toys aimed at children have partly mixed." },
+                { "french": "Certains changements s'expliquent par l'influence du public, d'autres par celle des créateurs.", "english": "Some changes are explained by audience influence, others by that of creators." },
+                { "french": "L'industrie reste néanmoins loin d'une représentation totalement équilibrée.", "english": "The industry nonetheless remains far from a fully balanced representation." }
+              ],
+              "tip": "'Par rapport à' (compared to) is the workhorse phrase for any generational comparison — safer and more precise than a bare 'avant/maintenant' contrast."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "le-modele", "french": "le modèle", "english": "the model, the role model", "partOfSpeech": "noun", "gender": "m", "plural": "modèles", "pronunciation": "luh moh-DELL", "example": "Ce personnage propose un modèle plus nuancé.", "exampleEnglish": "This character offers a more nuanced role model.", "level": "B2", "category": "representation" },
+            { "id": "une-representation", "french": "une représentation", "english": "a representation", "partOfSpeech": "noun", "gender": "f", "plural": "représentations", "pronunciation": "ewn ruh-pray-zahn-tah-SYOHN", "example": "La représentation des femmes au cinéma a changé depuis vingt ans.", "exampleEnglish": "The representation of women in film has changed over the past twenty years.", "level": "B2", "category": "representation" },
+            { "id": "un-role", "french": "un rôle", "english": "a role", "partOfSpeech": "noun", "gender": "m", "plural": "rôles", "pronunciation": "uhn ROHL", "example": "Elle tient le premier rôle dans ce film.", "exampleEnglish": "She holds the lead role in this film.", "level": "B2", "category": "representation" },
+            { "id": "un-personnage", "french": "un personnage", "english": "a character (in a story)", "partOfSpeech": "noun", "gender": "m", "plural": "personnages", "pronunciation": "uhn pair-soh-NAHZH", "example": "Le personnage principal échappe au stéréotype habituel.", "exampleEnglish": "The main character escapes the usual stereotype.", "level": "B2", "category": "representation" },
+            { "id": "un-stereotype", "french": "un stéréotype", "english": "a stereotype", "partOfSpeech": "noun", "gender": "m", "plural": "stéréotypes", "pronunciation": "uhn stay-ray-oh-TEEP", "example": "La publicité repose parfois sur des stéréotypes de genre.", "exampleEnglish": "Advertising sometimes relies on gender stereotypes.", "level": "B2", "category": "representation" },
+            { "id": "un-cliche", "french": "un cliché", "english": "a cliché", "partOfSpeech": "noun", "gender": "m", "plural": "clichés", "pronunciation": "uhn klee-SHAY", "example": "Ce dialogue reprend un cliché du genre.", "exampleEnglish": "This dialogue echoes a cliché of the genre.", "level": "B2", "category": "representation" },
+            { "id": "la-diversite", "french": "la diversité", "english": "diversity", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah dee-vair-see-TAY", "example": "La diversité des modèles proposés s'est élargie.", "exampleEnglish": "The diversity of role models offered has broadened.", "level": "B2", "category": "representation" },
+            { "id": "b1u9-la-visibilite", "french": "la visibilité", "english": "visibility", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah vee-zee-bee-lee-TAY", "example": "La visibilité des réalisatrices reste plus faible que celle des réalisateurs.", "exampleEnglish": "The visibility of female directors remains lower than that of male directors.", "level": "B2", "category": "representation" },
+            { "id": "un-realisateur", "french": "un réalisateur / une réalisatrice", "english": "a film director", "partOfSpeech": "noun", "gender": "m", "plural": "réalisateurs", "pronunciation": "uhn ray-ah-lee-zah-TUHR", "example": "Cette réalisatrice tourne son quatrième long-métrage.", "exampleEnglish": "This director is shooting her fourth feature film.", "level": "B2", "category": "representation" },
+            { "id": "un-acteur", "french": "un acteur / une actrice", "english": "an actor / actress", "partOfSpeech": "noun", "gender": "m", "plural": "acteurs", "pronunciation": "uhn nak-TUHR", "example": "L'actrice incarne un rôle très différent de ses précédents.", "exampleEnglish": "The actress plays a role very different from her previous ones.", "level": "B2", "category": "representation" },
+            { "id": "un-scenario", "french": "un scénario", "english": "a screenplay, a script", "partOfSpeech": "noun", "gender": "m", "plural": "scénarios", "pronunciation": "uhn say-nay-RYOH", "example": "Le scénario évite volontairement les clichés habituels.", "exampleEnglish": "The screenplay deliberately avoids the usual clichés.", "level": "B2", "category": "representation" },
+            { "id": "un-scenariste", "french": "un scénariste / une scénariste", "english": "a screenwriter", "partOfSpeech": "noun", "gender": "m", "plural": "scénaristes", "pronunciation": "uhn say-nay-REEST", "example": "La scénariste a construit un personnage plus complexe que d'habitude.", "exampleEnglish": "The screenwriter built a more complex character than usual.", "level": "B2", "category": "representation" },
+            { "id": "le-cinema", "french": "le cinéma", "english": "cinema, film (the art form)", "partOfSpeech": "noun", "gender": "m", "plural": "cinémas", "pronunciation": "luh see-nay-MAH", "example": "Le cinéma reflète, avec retard parfois, les évolutions de la société.", "exampleEnglish": "Cinema reflects, sometimes with a delay, changes in society.", "level": "B2", "category": "representation" },
+            { "id": "television", "french": "la télévision", "english": "television", "partOfSpeech": "noun", "gender": "f", "pronunciation": "tay-lay-vee-ZYOHN", "example": "La télévision touche un public plus large et plus varié que le cinéma.", "exampleEnglish": "Television reaches a wider and more varied audience than cinema.", "level": "B2", "category": "representation" },
+            { "id": "la-publicite", "french": "la publicité", "english": "advertising, the advert", "partOfSpeech": "noun", "gender": "f", "plural": "publicités", "pronunciation": "lah pu-blee-see-TAY", "example": "Certaines publicités ont été retirées après des critiques sur leurs stéréotypes.", "exampleEnglish": "Some adverts were pulled after criticism of their stereotypes.", "level": "B2", "category": "representation" },
+            { "id": "une-affiche", "french": "une affiche", "english": "a poster", "partOfSpeech": "noun", "gender": "f", "plural": "affiches", "pronunciation": "ewn ah-FEESH", "example": "L'affiche du film met en avant les deux personnages principaux.", "exampleEnglish": "The film poster features both main characters.", "level": "B2", "category": "representation" },
+            { "id": "une-icone", "french": "une icône", "english": "an icon", "partOfSpeech": "noun", "gender": "f", "plural": "icônes", "pronunciation": "ewn ee-KOHN", "example": "Elle est devenue une icône pour toute une génération.", "exampleEnglish": "She became an icon for an entire generation.", "level": "B2", "category": "representation" },
+            { "id": "incarner", "french": "incarner", "english": "to embody, to play (a role)", "partOfSpeech": "verb", "pronunciation": "an-kar-NAY", "example": "Il incarne un père moderne, très différent des rôles traditionnels.", "exampleEnglish": "He plays a modern father, very different from traditional roles.", "level": "B2", "category": "representation" },
+            { "id": "refleter", "french": "refléter", "english": "to reflect", "partOfSpeech": "verb", "pronunciation": "ray-fleh-TAY", "example": "Ce film reflète les débats de son époque.", "exampleEnglish": "This film reflects the debates of its time.", "level": "B2", "category": "representation" },
+            { "id": "vehiculer", "french": "véhiculer", "english": "to convey, to carry (an idea, an image)", "partOfSpeech": "verb", "pronunciation": "vay-ee-koo-LAY", "example": "Cette série véhicule une image assez classique du couple.", "exampleEnglish": "This series conveys a fairly traditional image of couples.", "level": "B2", "category": "representation" },
+            { "id": "un-symbole", "french": "un symbole", "english": "a symbol", "partOfSpeech": "noun", "gender": "m", "plural": "symboles", "pronunciation": "uhn sam-BOHL", "example": "Ce personnage est devenu un symbole malgré lui.", "exampleEnglish": "This character became a symbol in spite of itself.", "level": "B2", "category": "representation" },
+            { "id": "l-image", "french": "l'image", "english": "the image, the figure", "partOfSpeech": "noun", "gender": "f", "plural": "images", "pronunciation": "lee-MAHZH", "example": "L'image de la femme au foyer a beaucoup évolué à l'écran.", "exampleEnglish": "The image of the housewife has changed a lot on screen.", "level": "B2", "category": "representation" },
+            { "id": "societe", "french": "la société", "english": "society", "partOfSpeech": "noun", "gender": "f", "plural": "sociétés", "pronunciation": "soh-syay-TAY", "example": "Le cinéma évolue en même temps que la société.", "exampleEnglish": "Cinema evolves at the same time as society.", "level": "B2", "category": "representation" },
+            { "id": "evoluer", "french": "évoluer", "english": "to evolve", "partOfSpeech": "verb", "pronunciation": "ay-voh-lu-AY", "example": "Les représentations à l'écran évoluent lentement mais sûrement.", "exampleEnglish": "Representations on screen are evolving slowly but surely.", "level": "B2", "category": "representation" },
+            { "id": "le-changement", "french": "le changement", "english": "the change", "partOfSpeech": "noun", "gender": "m", "plural": "changements", "pronunciation": "shahnzh-MAHN", "example": "Le changement reste inégal selon les genres cinématographiques.", "exampleEnglish": "The change remains uneven depending on the film genre.", "level": "B2", "category": "representation" },
+            { "id": "generation", "french": "la génération", "english": "generation", "partOfSpeech": "noun", "gender": "f", "plural": "générations", "pronunciation": "lah zhay-nay-rah-SYOHN", "example": "Chaque génération apporte de nouveaux modèles à l'écran.", "exampleEnglish": "Each generation brings new role models to the screen.", "level": "B2", "category": "representation" },
+            { "id": "la-jeunesse", "french": "la jeunesse", "english": "youth", "partOfSpeech": "noun", "gender": "f", "pronunciation": "zhuh-NESS", "example": "Les programmes destinés à la jeunesse font l'objet d'une attention particulière.", "exampleEnglish": "Programmes aimed at young people receive particular attention.", "level": "B2", "category": "representation" },
+            { "id": "un-heros", "french": "un héros", "english": "a hero", "partOfSpeech": "noun", "gender": "m", "plural": "héros", "pronunciation": "uhn ay-ROH", "example": "Le héros classique laisse peu à peu la place à des personnages plus variés.", "exampleEnglish": "The classic hero is gradually giving way to more varied characters.", "level": "B2", "category": "representation" },
+            { "id": "une-heroine", "french": "une héroïne", "english": "a heroine", "partOfSpeech": "noun", "gender": "f", "plural": "héroïnes", "pronunciation": "ewn ay-roh-EEN", "example": "L'héroïne du film prend toutes les décisions importantes.", "exampleEnglish": "The film's heroine makes all the important decisions.", "level": "B2", "category": "representation" },
+            { "id": "un-exemple", "french": "un exemple", "english": "an example", "partOfSpeech": "noun", "gender": "m", "plural": "exemples", "pronunciation": "uhn nek-ZAHN-pluh", "example": "Ce film est souvent cité comme exemple de représentation réussie.", "exampleEnglish": "This film is often cited as an example of successful representation.", "level": "B2", "category": "representation" },
+            { "id": "inspirer", "french": "inspirer", "english": "to inspire", "partOfSpeech": "verb", "pronunciation": "an-spee-RAY", "example": "Ce personnage a inspiré toute une génération de spectatrices.", "exampleEnglish": "This character inspired an entire generation of female viewers.", "level": "B2", "category": "representation" },
+            { "id": "une-influence", "french": "une influence", "english": "an influence", "partOfSpeech": "noun", "gender": "f", "plural": "influences", "pronunciation": "ewn an-flu-AHNSS", "example": "L'influence des modèles télévisés sur les enfants est étudiée depuis longtemps.", "exampleEnglish": "The influence of television role models on children has been studied for a long time.", "level": "B2", "category": "representation" },
+            { "id": "un-protagoniste", "french": "un protagoniste", "english": "a protagonist", "partOfSpeech": "noun", "gender": "m", "plural": "protagonistes", "pronunciation": "uhn proh-tah-goh-NEEST", "example": "Le protagoniste principal est une adolescente de quinze ans.", "exampleEnglish": "The main protagonist is a fifteen-year-old girl.", "level": "B2", "category": "representation" },
+            { "id": "une-poupee", "french": "une poupée", "english": "a doll", "partOfSpeech": "noun", "gender": "f", "plural": "poupées", "pronunciation": "ewn poo-PAY", "example": "La marque a lancé une poupée avec plusieurs métiers possibles.", "exampleEnglish": "The brand launched a doll with several possible careers.", "level": "B2", "category": "representation" },
+            { "id": "un-jouet", "french": "un jouet", "english": "a toy", "partOfSpeech": "noun", "gender": "m", "plural": "jouets", "pronunciation": "uhn zhoo-EH", "example": "Certains magasins ne classent plus leurs jouets par genre.", "exampleEnglish": "Some shops no longer sort their toys by gender.", "level": "B2", "category": "representation" },
+            { "id": "sous-represente", "french": "sous-représenté", "english": "under-represented", "partOfSpeech": "adjective", "pronunciation": "soo ruh-pray-zahn-TAY", "example": "Les réalisatrices restent sous-représentées dans les grands festivals.", "exampleEnglish": "Female directors remain under-represented at major festivals.", "level": "B2", "category": "representation" },
+            { "id": "minorite", "french": "la minorité", "english": "the minority", "partOfSpeech": "noun", "gender": "f", "plural": "minorités", "pronunciation": "mee-noh-ree-TAY", "example": "Seule une minorité de films confie le rôle principal à une femme de plus de cinquante ans.", "exampleEnglish": "Only a minority of films give the lead role to a woman over fifty.", "level": "B2", "category": "representation" },
+            { "id": "comparer", "french": "comparer", "english": "to compare", "partOfSpeech": "verb", "pronunciation": "kohn-pah-RAY", "example": "Il est utile de comparer les représentations d'une décennie à l'autre.", "exampleEnglish": "It is useful to compare representations from one decade to the next.", "level": "B2", "category": "representation" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Le passif pour décrire sans désigner d'auteur",
+              "body": "Describing how representation changes often needs a passive construction, especially when the agent doing the changing is collective or unclear: 'être perçu comme', 'être critiqué pour', 'être salué pour'. The passive lets you describe a reception without naming exactly who holds that view — useful when summarising a broad critical consensus.",
+              "examples": [
+                { "french": "Ce personnage a été salué pour sa complexité.", "english": "This character was praised for its complexity." },
+                { "french": "La publicité a été critiquée pour ses stéréotypes.", "english": "The advert was criticised for its stereotypes." },
+                { "french": "Le film est perçu comme un tournant dans la représentation à l'écran.", "english": "The film is perceived as a turning point in on-screen representation." },
+                { "french": "Ces choix ont été largement commentés dans la presse.", "english": "These choices were widely commented on in the press." }
+              ],
+              "tip": "'Être perçu comme' is softer than 'être' alone — it frames a judgement as perception rather than fact, which fits a topic where perceptions genuinely differ."
+            },
+            {
+              "heading": "Comparer dans le temps : de plus en plus, de moins en moins",
+              "body": "'De plus en plus' (more and more) and 'de moins en moins' (less and less) describe a gradual trend without a precise statistic — useful when a change is documented but not always measured. Combine them with 'depuis' + a date, or 'au fil des décennies' (over the decades), to anchor the comparison in time.",
+              "examples": [
+                { "french": "Les héroïnes occupent de plus en plus souvent le premier rôle.", "english": "Heroines increasingly take the lead role." },
+                { "french": "Les jouets sont de moins en moins présentés comme réservés à un seul genre.", "english": "Toys are less and less presented as reserved for a single gender." },
+                { "french": "Depuis les années 2000, la diversité des modèles s'est nettement élargie.", "english": "Since the 2000s, the diversity of role models has clearly broadened." },
+                { "french": "Au fil des décennies, certains stéréotypes ont peu à peu disparu.", "english": "Over the decades, certain stereotypes have gradually disappeared." }
+              ],
+              "tip": "'De plus en plus' and 'de moins en moins' both go directly before the adjective, adverb, or verb they modify — never split them with another word."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "b2_u23_l03_li01", "type": "listenChoose", "french": "Ce film incarne un nouveau modèle de héroïne, plus indépendante.", "options": ["un modèle", "un stéréotype", "un syndicat", "une norme"], "answer": "un modèle" },
+            { "id": "b2_u23_l03_li02", "type": "listenChoose", "french": "Les héroïnes occupent de plus en plus souvent le premier rôle.", "options": ["de plus en plus", "de moins en moins", "à peine", "jamais"], "answer": "de plus en plus" },
+            { "id": "b2_u23_l03_li03", "type": "listenType", "french": "La publicité a été critiquée pour ses stéréotypes.", "answer": "La publicité a été critiquée pour ses stéréotypes.", "acceptedAnswers": ["la publicite a ete critiquee pour ses stereotypes"] },
+            { "id": "b2_u23_l03_li04", "type": "dictation", "french": "Les réalisatrices restent sous-représentées dans les grands festivals.", "answer": "Les réalisatrices restent sous-représentées dans les grands festivals.", "acceptedAnswers": ["les realisatrices restent sous representees dans les grands festivals"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "b2_u23_l03_sp01", "type": "speak", "french": "Ce personnage échappe au stéréotype habituel.", "english": "This character escapes the usual stereotype.", "prompt": "Describe a character or role model who surprised you, in French.", "tip": "Stress 'échappe' clearly — it carries the whole meaning of the sentence." },
+            { "id": "b2_u23_l03_sp02", "type": "speak", "french": "La diversité des modèles proposés aux enfants s'est élargie depuis vingt ans.", "english": "The diversity of role models offered to children has broadened over the past twenty years.", "prompt": "Compare children's media today with what you remember from your own childhood.", "tip": "Slow down on 's'est élargie' — the reflexive past tense often gets rushed by learners." },
+            { "id": "b2_u23_l03_sp03", "type": "speak", "french": "Le cinéma reflète, avec retard parfois, les évolutions de la société.", "english": "Cinema reflects, sometimes with a delay, changes in society.", "prompt": "Give your own view on whether film leads or follows social change.", "tip": "The two commas around 'avec retard parfois' should each get a short pause." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Trente ans de dessins animés",
+              "french": "L'Institut Delacroix des médias a comparé cent dessins animés diffusés en France entre 1995 et 2025.\nSelon cette étude, les personnages principaux étaient masculins dans près de deux tiers des cas au milieu des années 1990.\nCette proportion a évolué depuis : elle atteint désormais un peu plus de la moitié.\nLes chercheurs notent aussi un changement dans les métiers attribués aux personnages féminins à l'écran.\nAutrefois souvent représentées comme mères ou assistantes, les héroïnes incarnent aujourd'hui des scientifiques, des pilotes ou des cheffes d'entreprise.\nLa réalisatrice Léa Vasseur, qui a travaillé sur plusieurs séries pour la jeunesse, relativise ce constat.\n« On voit plus de diversité dans les rôles, mais les personnages secondaires reprennent encore beaucoup de clichés », explique-t-elle.\nLes Studios Corbeau, un des principaux producteurs français, affirment avoir revu leurs scénarios pour éviter les stéréotypes les plus marqués.\nD'autres professionnels du secteur estiment que ces changements restent surtout visibles dans les productions récentes destinées à l'exportation.\nL'étude souligne enfin que les jouets liés à ces dessins animés suivent une évolution plus lente que les scénarios eux-mêmes.\nSelon l'Institut, la représentation à l'écran progresse, mais de façon inégale selon les formats et les publics visés.\nAucune conclusion définitive n'a été tirée sur la vitesse réelle de ce changement.", "english": "The Delacroix Media Institute compared one hundred cartoons broadcast in France between 1995 and 2025. According to this study, main characters were male in nearly two-thirds of cases in the mid-1990s. This proportion has since changed: it now reaches just over half. The researchers also note a change in the professions given to female characters on screen. Once often portrayed as mothers or assistants, heroines today play scientists, pilots, or company directors. Director Léa Vasseur, who has worked on several children's series, puts this finding into perspective. \"We see more diversity in the roles, but secondary characters still echo a lot of clichés,\" she explains. Studios Corbeau, one of the main French producers, say they have revised their scripts to avoid the most marked stereotypes. Other industry professionals believe these changes remain mostly visible in recent productions aimed at export. The study finally points out that toys linked to these cartoons follow a slower evolution than the scripts themselves. According to the Institute, on-screen representation is progressing, but unevenly depending on the format and target audience. No definitive conclusion was drawn about the real speed of this change.",
+              "questions": [
+                { "id": "b2_u23_l03_rd01", "type": "multipleChoice", "prompt": "Selon l'étude, quelle proportion des personnages principaux étaient masculins au milieu des années 1990 ?", "options": ["près de deux tiers", "un dixième", "la totalité", "un quart"], "answer": "près de deux tiers" },
+                { "id": "b2_u23_l03_rd02", "type": "trueFalse", "prompt": "Selon Léa Vasseur, les personnages secondaires ont totalement cessé de reprendre des clichés.", "options": ["True", "False"], "answer": "False" },
+                { "id": "b2_u23_l03_rd03", "type": "multipleChoice", "prompt": "Que remarque l'étude à propos des jouets liés aux dessins animés ?", "options": ["ils évoluent plus lentement que les scénarios", "ils ont disparu du marché", "ils évoluent plus vite que les scénarios", "ils n'existent que depuis 2020"], "answer": "ils évoluent plus lentement que les scénarios" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "b2_u23_l03_wr01", "type": "translate", "prompt": "This character escapes the usual stereotype.", "english": "This character escapes the usual stereotype.", "answer": "Ce personnage échappe au stéréotype habituel.", "acceptedAnswers": ["ce personnage echappe au stereotype habituel"] },
+            { "id": "b2_u23_l03_wr02", "type": "translate", "prompt": "Female directors remain under-represented at major festivals.", "english": "Female directors remain under-represented at major festivals.", "answer": "Les réalisatrices restent sous-représentées dans les grands festivals.", "acceptedAnswers": ["les realisatrices restent sous representees dans les grands festivals"] },
+            { "id": "b2_u23_l03_wr03", "type": "arrangeWords", "words": ["reflète", "société", "cinéma", "évolutions", "de", "la", "Le", "les"], "answer": "Le cinéma reflète les évolutions de la société", "english": "Cinema reflects the changes in society." }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "b2_u23_l03_pr01", "type": "multipleChoice", "prompt": "Quel verbe signifie « donner vie à un rôle » ?", "options": ["incarner", "refléter", "comparer", "interdire"], "answer": "incarner" },
+            { "id": "b2_u23_l03_pr02", "type": "fillBlank", "prompt": "Les héroïnes occupent ___ en plus souvent le premier rôle.", "answer": "de" },
+            { "id": "b2_u23_l03_pr03", "type": "trueFalse", "prompt": "Selon l'étude de l'Institut Delacroix, la représentation a évolué de la même façon dans tous les formats.", "options": ["True", "False"], "answer": "False" },
+            { "id": "b2_u23_l03_pr04", "type": "match", "pairs": [ { "french": "un stéréotype", "english": "a stereotype" }, { "french": "un modèle", "english": "a role model" }, { "french": "véhiculer", "english": "to convey" }, { "french": "refléter", "english": "to reflect" } ] },
+            { "id": "b2_u23_l03_pr05", "type": "multipleChoice", "prompt": "Quelle expression compare deux générations dans le temps ?", "options": ["par rapport à la génération précédente", "à mon avis", "selon moi", "en général"], "answer": "par rapport à la génération précédente" },
+            { "id": "b2_u23_l03_pr06", "type": "fillBlank", "prompt": "Ce film a été ___ pour sa complexité.", "answer": "salué" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "b2_u23_l03_qz01", "type": "multipleChoice", "prompt": "Quel mot désigne une image simplifiée et largement partagée d'un groupe ?", "options": ["un stéréotype", "un exemple", "une influence", "un protagoniste"], "answer": "un stéréotype" },
+            { "id": "b2_u23_l03_qz02", "type": "translate", "prompt": "Toys are less and less presented as reserved for a single gender.", "english": "Toys are less and less presented as reserved for a single gender.", "answer": "Les jouets sont de moins en moins présentés comme réservés à un seul genre.", "acceptedAnswers": ["les jouets sont de moins en moins presentes comme reserves a un seul genre"] },
+            { "id": "b2_u23_l03_qz03", "type": "fillBlank", "prompt": "Ce personnage a été ___ pour sa complexité.", "answer": "salué" },
+            { "id": "b2_u23_l03_qz04", "type": "trueFalse", "prompt": "Selon le texte, les jouets liés aux dessins animés évoluent plus vite que les scénarios.", "options": ["True", "False"], "answer": "False" },
+            { "id": "b2_u23_l03_qz05", "type": "multipleChoice", "prompt": "Quel verbe signifie « transmettre une idée ou une image » ?", "options": ["véhiculer", "interdire", "adopter", "comparer"], "answer": "véhiculer" }
+          ]
+        }
+      ]
+    }
+  ]
+}

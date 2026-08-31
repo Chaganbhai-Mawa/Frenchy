@@ -1,0 +1,1048 @@
+{
+  "id": "c1_u22",
+  "level": "C1",
+  "unit": 22,
+  "title": "Crisis Communication",
+  "subtitle": "Announce bad news, face the backlash, and rebuild what a crisis costs you",
+  "icon": "🚨",
+  "lessons": [
+    {
+      "id": "c1_u22_l01",
+      "level": "C1",
+      "unit": 22,
+      "title": "Annoncer une mauvaise nouvelle",
+      "description": "Deliver difficult news clearly, honestly, and with genuine empathy — before the story gets told without you.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Dire vite, dire vrai",
+              "body": "The first rule of crisis communication is timing: an organisation that announces bad news itself controls the narrative; one that waits for it to leak is instantly on the defensive. The second rule is honesty: a measured, uncomfortable truth costs far less, over time, than a comforting half-truth that later unravels in public.",
+              "examples": [
+                { "french": "Nous avons choisi de vous informer avant que la presse ne s'en charge.", "english": "We chose to inform you before the press took charge of it." },
+                { "french": "Mieux vaut une vérité inconfortable qu'un silence qui se retourne contre nous.", "english": "An uncomfortable truth is better than a silence that backfires on us." },
+                { "french": "La transparence désamorce davantage de critiques qu'une stratégie de communication habile.", "english": "Transparency defuses more criticism than a clever communication strategy." },
+                { "french": "Nous préférons annoncer nous-mêmes une mauvaise nouvelle plutôt que la voir fuiter.", "english": "We prefer to announce bad news ourselves rather than see it leak out." }
+              ],
+              "tip": "If a fact is likely to reach the press within 48 hours, announce it yourself within 24 — the gap between the two timelines is where reputations are lost."
+            },
+            {
+              "heading": "Nommer les faits sans les euphémiser",
+              "body": "Crisis French resists two temptations at once: sensationalism and euphemism. A serious problem should be named with plain, specific vocabulary — not dramatised, but not hidden behind vague corporate phrasing either. Saying \"un léger contretemps\" about a data breach affecting thousands of people is a credibility risk in itself.",
+              "examples": [
+                { "french": "Nous avons identifié une défaillance dans notre système de sécurité.", "english": "We have identified a failure in our security system." },
+                { "french": "Cet incident a affecté environ dix mille utilisateurs.", "english": "This incident affected approximately ten thousand users." },
+                { "french": "Nous reconnaissons la gravité de la situation.", "english": "We acknowledge the seriousness of the situation." },
+                { "french": "Il ne s'agit pas d'un simple contretemps, mais d'un dysfonctionnement sérieux.", "english": "This is not a minor hitch, but a serious malfunction." }
+              ],
+              "tip": "Watch for euphemism creep: \"contretemps\", \"anomalie\", \"souci technique\" are all words crisis communicators reach for to soften a serious fact — a careful listener learns to hear through them."
+            },
+            {
+              "heading": "S'excuser sincèrement, sans se dédouaner",
+              "body": "A real apology names what went wrong, takes ownership of it, and stops there — it does not immediately pivot to context, excuses, or blame. The word \"mais\" is the most dangerous word in an apology: everything after it tends to erase everything before it, in the listener's mind.",
+              "examples": [
+                { "french": "Nous vous présentons nos excuses les plus sincères.", "english": "We offer you our most sincere apologies." },
+                { "french": "Nous assumons pleinement la responsabilité de cette erreur.", "english": "We fully take responsibility for this mistake." },
+                { "french": "Ce n'est pas un incident isolé imputable à un seul employé, c'est une défaillance collective.", "english": "This is not an isolated incident attributable to one employee, it is a collective failure." },
+                { "french": "Nos excuses ne suffisent pas ; nous devons aussi agir.", "english": "Our apologies are not enough; we must also act." }
+              ],
+              "tip": "Test your own apology: if you can insert \"mais\" after it without changing the meaning, it probably was not a full apology in the first place."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "la-crise", "french": "la crise", "english": "the crisis", "partOfSpeech": "noun", "gender": "f", "plural": "les crises", "pronunciation": "lah KREEZ", "example": "La crise a éclaté un vendredi soir, au pire moment possible.", "exampleEnglish": "The crisis broke on a Friday evening, at the worst possible moment.", "level": "C1", "category": "crisis-comms" },
+            { "id": "la-gestion-de-crise", "french": "la gestion de crise", "english": "crisis management", "partOfSpeech": "expression", "pronunciation": "lah zhess-tyon duh KREEZ", "example": "La gestion de crise s'apprend surtout par l'expérience.", "exampleEnglish": "Crisis management is learned mostly through experience.", "level": "C1", "category": "crisis-comms" },
+            { "id": "une-cellule-de-crise", "french": "une cellule de crise", "english": "a crisis unit, a crisis task force", "partOfSpeech": "noun", "gender": "f", "plural": "des cellules de crise", "pronunciation": "ewn seh-LUL duh KREEZ", "example": "Une cellule de crise a été réunie dans l'heure qui a suivi l'annonce.", "exampleEnglish": "A crisis unit was convened within the hour following the announcement.", "level": "C1", "category": "crisis-comms" },
+            { "id": "annoncer", "french": "annoncer", "english": "to announce", "partOfSpeech": "verb", "pronunciation": "ah-non-SAY", "example": "Nous devons annoncer la nouvelle avant qu'elle ne circule sans nous.", "exampleEnglish": "We must announce the news before it circulates without us.", "level": "C1", "category": "crisis-comms" },
+            { "id": "une-mauvaise-nouvelle", "french": "une mauvaise nouvelle", "english": "a piece of bad news", "partOfSpeech": "expression", "pronunciation": "ewn moh-VEZ noo-VEL", "example": "Il vaut mieux annoncer soi-même une mauvaise nouvelle.", "exampleEnglish": "It is better to announce bad news yourself.", "level": "C1", "category": "crisis-comms" },
+            { "id": "un-dysfonctionnement", "french": "un dysfonctionnement", "english": "a malfunction, a breakdown (technical or organisational)", "partOfSpeech": "noun", "gender": "m", "plural": "des dysfonctionnements", "pronunciation": "uhn dees-fonk-syon-MAHN", "example": "Il ne s'agit pas d'un simple contretemps, mais d'un dysfonctionnement sérieux.", "exampleEnglish": "This is not a minor hitch, but a serious malfunction.", "level": "C1", "category": "crisis-comms" },
+            { "id": "une-defaillance", "french": "une défaillance", "english": "a failure, a breakdown (of a system)", "partOfSpeech": "noun", "gender": "f", "plural": "des défaillances", "pronunciation": "ewn day-fah-YAHNS", "example": "Nous avons identifié une défaillance dans notre système de sécurité.", "exampleEnglish": "We have identified a failure in our security system.", "level": "C1", "category": "crisis-comms" },
+            { "id": "un-incident", "french": "un incident", "english": "an incident", "partOfSpeech": "noun", "gender": "m", "plural": "des incidents", "pronunciation": "uhn an-see-DAHN", "example": "Cet incident a affecté environ dix mille utilisateurs.", "exampleEnglish": "This incident affected approximately ten thousand users.", "level": "C1", "category": "crisis-comms" },
+            { "id": "affecter", "french": "affecter", "english": "to affect", "partOfSpeech": "verb", "pronunciation": "ah-fek-TAY", "example": "La panne a affecté plusieurs services en même temps.", "exampleEnglish": "The outage affected several services at once.", "level": "C1", "category": "crisis-comms" },
+            { "id": "la-gravite", "french": "la gravité", "english": "the seriousness, the gravity", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah grah-vee-TAY", "example": "Nous reconnaissons la gravité de la situation.", "exampleEnglish": "We acknowledge the seriousness of the situation.", "level": "C1", "category": "crisis-comms" },
+            { "id": "grave", "french": "grave", "english": "serious", "partOfSpeech": "adjective", "pronunciation": "grahv", "example": "L'erreur est grave, et nous ne cherchons pas à le nier.", "exampleEnglish": "The mistake is serious, and we are not trying to deny it.", "level": "C1", "category": "crisis-comms" },
+            { "id": "reconnaitre", "french": "reconnaître", "english": "to acknowledge, to recognise", "partOfSpeech": "verb", "pronunciation": "ruh-koh-NEH-truh", "example": "Nous reconnaissons les faits sans détour.", "exampleEnglish": "We acknowledge the facts without evasion.", "level": "C1", "category": "crisis-comms" },
+            { "id": "assumer", "french": "assumer", "english": "to own, to take responsibility for", "partOfSpeech": "verb", "pronunciation": "ah-su-MAY", "example": "Nous assumons pleinement la responsabilité de cette erreur.", "exampleEnglish": "We fully take responsibility for this mistake.", "level": "C1", "category": "crisis-comms" },
+            { "id": "la-responsabilite", "french": "la responsabilité", "english": "the responsibility", "partOfSpeech": "noun", "gender": "f", "plural": "les responsabilités", "pronunciation": "lah res-pon-sah-bee-lee-TAY", "example": "Assumer la responsabilité, c'est renoncer à chercher un coupable ailleurs.", "exampleEnglish": "Taking responsibility means giving up the search for someone else to blame.", "level": "C1", "category": "crisis-comms" },
+            { "id": "se-dedouaner", "french": "se dédouaner", "english": "to shift the blame, to absolve oneself", "partOfSpeech": "verb", "pronunciation": "suh day-dwah-NAY", "example": "Un bon communiqué n'essaie jamais de se dédouaner sur le dos d'un tiers.", "exampleEnglish": "A good statement never tries to shift the blame onto a third party.", "level": "C1", "category": "crisis-comms" },
+            { "id": "presenter-ses-excuses", "french": "présenter ses excuses", "english": "to offer one's apologies", "partOfSpeech": "expression", "pronunciation": "pray-zahn-TAY say zek-SKUZ", "example": "Nous vous présentons nos excuses les plus sincères.", "exampleEnglish": "We offer you our most sincere apologies.", "level": "C1", "category": "crisis-comms" },
+            { "id": "une-excuse", "french": "une excuse", "english": "an apology", "partOfSpeech": "noun", "gender": "f", "plural": "des excuses", "pronunciation": "ewn ek-SKUZ", "example": "Nos excuses ne suffisent pas ; nous devons aussi agir.", "exampleEnglish": "Our apologies are not enough; we must also act.", "level": "C1", "category": "crisis-comms" },
+            { "id": "sincere", "french": "sincère", "english": "sincere, genuine", "partOfSpeech": "adjective", "pronunciation": "san-SEHR", "example": "Ses excuses avaient l'air sincères, et elles l'étaient.", "exampleEnglish": "His apology seemed sincere, and it was.", "level": "C1", "category": "crisis-comms" },
+            { "id": "solidarite", "french": "la solidarité", "english": "solidarity", "partOfSpeech": "noun", "gender": "f", "plural": "les solidarités", "pronunciation": "so-lee-da-ree-TAY", "example": "La direction a tenu à exprimer sa solidarité envers les personnes concernées.", "exampleEnglish": "Management was keen to express its solidarity with those affected.", "level": "C1", "category": "crisis-comms" },
+            { "id": "porte-parole", "french": "le porte-parole", "english": "spokesperson", "partOfSpeech": "noun", "gender": "m", "plural": "porte-parole", "pronunciation": "port-pah-ROL", "example": "Le porte-parole a lu la déclaration devant les caméras.", "exampleEnglish": "The spokesperson read the statement in front of the cameras.", "level": "C1", "category": "crisis-comms" },
+            { "id": "prendre-la-parole", "french": "prendre la parole", "english": "to speak publicly, to take the floor", "partOfSpeech": "expression", "pronunciation": "prahndr lah pah-ROL", "example": "Le directeur a préféré prendre la parole lui-même plutôt que de déléguer.", "exampleEnglish": "The director chose to speak publicly himself rather than delegate.", "level": "C1", "category": "crisis-comms" },
+            { "id": "le-communique", "french": "le communiqué", "english": "the press release", "partOfSpeech": "noun", "gender": "m", "plural": "les communiqués", "pronunciation": "luh koh-mu-nee-KAY", "example": "Le communiqué a été diffusé moins de deux heures après la découverte de l'incident.", "exampleEnglish": "The statement was released less than two hours after the incident was discovered.", "level": "C1", "category": "crisis-comms" },
+            { "id": "diffuser", "french": "diffuser", "english": "to release, to broadcast (a statement)", "partOfSpeech": "verb", "pronunciation": "dee-fu-ZAY", "example": "Nous avons diffusé un communiqué avant même la fin de l'enquête interne.", "exampleEnglish": "We released a statement even before the internal inquiry was finished.", "level": "C1", "category": "crisis-comms" },
+            { "id": "publier", "french": "publier", "english": "to publish", "partOfSpeech": "verb", "pronunciation": "pu-blee-YAY", "example": "Nous publierons un bilan complet dès que les faits seront établis.", "exampleEnglish": "We will publish a full account as soon as the facts are established.", "level": "C1", "category": "crisis-comms" },
+            { "id": "informer", "french": "informer", "english": "to inform", "partOfSpeech": "verb", "pronunciation": "an-for-MAY", "example": "Nous avons choisi d'informer les utilisateurs concernés en priorité.", "exampleEnglish": "We chose to inform the affected users first.", "level": "C1", "category": "crisis-comms" },
+            { "id": "une-conference-de-presse", "french": "une conférence de presse", "english": "a press conference", "partOfSpeech": "noun", "gender": "f", "plural": "des conférences de presse", "pronunciation": "ewn kon-fay-RAHNS duh PRESS", "example": "Une conférence de presse a été organisée dès le lendemain matin.", "exampleEnglish": "A press conference was organised the very next morning.", "level": "C1", "category": "crisis-comms" },
+            { "id": "un-rappel-de-produit", "french": "un rappel de produit", "english": "a product recall", "partOfSpeech": "expression", "pronunciation": "uhn rah-PEL duh pro-DWEE", "example": "Le rappel de produit a été annoncé avant que les premiers cas ne soient rendus publics.", "exampleEnglish": "The product recall was announced before the first cases became public.", "level": "C1", "category": "crisis-comms" },
+            { "id": "alerter", "french": "alerter", "english": "to alert", "partOfSpeech": "verb", "pronunciation": "ah-lehr-TAY", "example": "Nos équipes ont alerté la direction dès la détection de l'anomalie.", "exampleEnglish": "Our teams alerted management as soon as the anomaly was detected.", "level": "C1", "category": "crisis-comms" },
+            { "id": "sans-delai", "french": "sans délai", "english": "without delay", "partOfSpeech": "expression", "pronunciation": "sahn day-LAY", "example": "Les personnes concernées ont été informées sans délai.", "exampleEnglish": "The people affected were informed without delay.", "level": "C1", "category": "crisis-comms" },
+            { "id": "un-plan-de-communication", "french": "un plan de communication", "english": "a communication plan", "partOfSpeech": "expression", "pronunciation": "uhn plahn duh koh-mu-nee-kah-SYON", "example": "Un plan de communication a été validé avant toute prise de parole publique.", "exampleEnglish": "A communication plan was approved before any public statement.", "level": "C1", "category": "crisis-comms" },
+            { "id": "la-transparence", "french": "la transparence", "english": "transparency", "partOfSpeech": "noun", "gender": "f", "plural": "les transparences", "pronunciation": "lah trahns-pah-RAHNSS", "example": "La transparence, même inconfortable, reste notre seule ligne de conduite.", "exampleEnglish": "Transparency, even when uncomfortable, remains our only guiding rule.", "level": "C1", "category": "crisis-comms" },
+            { "id": "transparent", "french": "transparent", "english": "transparent", "partOfSpeech": "adjective", "pronunciation": "trahns-pah-RAHN", "example": "Un discours transparent inspire davantage confiance qu'un discours lisse.", "exampleEnglish": "A transparent message inspires more trust than a polished one.", "level": "C1", "category": "crisis-comms" },
+            { "id": "la-fuite", "french": "la fuite", "english": "the leak (of information)", "partOfSpeech": "noun", "gender": "f", "plural": "les fuites", "pronunciation": "lah FWEET", "example": "Nous préférons annoncer nous-mêmes une mauvaise nouvelle plutôt que la voir fuiter.", "exampleEnglish": "We prefer to announce bad news ourselves rather than see it leak out.", "level": "C1", "category": "crisis-comms" },
+            { "id": "un-impact", "french": "un impact", "english": "an impact", "partOfSpeech": "noun", "gender": "m", "plural": "des impacts", "pronunciation": "uhn an-PAKT", "example": "L'impact réel dépasse largement ce que nous avions d'abord estimé.", "exampleEnglish": "The real impact far exceeds what we first estimated.", "level": "C1", "category": "crisis-comms" },
+            { "id": "compassion", "french": "la compassion", "english": "compassion", "partOfSpeech": "noun", "gender": "f", "pronunciation": "kohn-pah-SYOHN", "example": "Le ton du communiqué mêlait rigueur et compassion.", "exampleEnglish": "The statement's tone combined rigour and compassion.", "level": "C1", "category": "crisis-comms" },
+            { "id": "empathique", "french": "empathique", "english": "empathetic", "partOfSpeech": "adjective", "pronunciation": "ahn-pah-TEEK", "example": "Un message empathique n'exclut pas la précision des faits.", "exampleEnglish": "An empathetic message does not rule out precision about the facts.", "level": "C1", "category": "crisis-comms" },
+            { "id": "la-victime", "french": "la victime", "english": "the victim", "partOfSpeech": "noun", "gender": "f", "plural": "les victimes", "pronunciation": "lah veek-TEEM", "example": "Nous pensons d'abord aux victimes de cette défaillance.", "exampleEnglish": "We are thinking first of the victims of this failure.", "level": "C1", "category": "crisis-comms" },
+            { "id": "immediat", "french": "immédiat", "english": "immediate", "partOfSpeech": "adjective", "pronunciation": "ee-may-DYAH", "example": "Une réponse immédiate ne signifie pas une réponse précipitée.", "exampleEnglish": "An immediate response does not mean a rushed one.", "level": "C1", "category": "crisis-comms" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Le passif pour nommer un fait sans désigner un coupable",
+              "body": "The passive voice lets a spokesperson state what happened without either hiding it or turning it into a public trial of one employee. \"Une erreur a été commise\" names the fact; it does not yet assign blame, which is often appropriate in the first hours of a crisis, before an investigation is complete. Used honestly — followed later by real accountability — this is not evasion; used forever, it becomes exactly that.",
+              "examples": [
+                { "french": "Une erreur a été commise dans le traitement de ces données.", "english": "A mistake was made in the handling of this data." },
+                { "french": "Des mesures ont été prises dès la découverte de l'incident.", "english": "Measures were taken as soon as the incident was discovered." },
+                { "french": "Les personnes concernées ont été informées sans délai.", "english": "The people affected were informed without delay." },
+                { "french": "Une enquête interne a été ouverte pour établir les responsabilités exactes.", "english": "An internal inquiry has been opened to establish exactly where responsibility lies." }
+              ],
+              "tip": "The passive buys you time to investigate before naming names — but a crisis statement that stays passive forever, even after the facts are known, starts to sound like an admission that no one wants to be found."
+            },
+            {
+              "heading": "Le conditionnel journalistique et le futur de l'engagement",
+              "body": "When a figure is not yet confirmed, careful French uses the conditional to report it responsibly: \"le nombre de personnes touchées serait d'environ dix mille\" signals a working estimate, not a verified fact. Once a commitment is firm, the simple future replaces it: \"nous publierons\", \"nous mettrons en place\" — no hedge, no conditional, because a promise about the future should not sound tentative.",
+              "examples": [
+                { "french": "Le nombre de personnes touchées serait d'environ dix mille, selon les premières estimations.", "english": "The number of people affected is thought to be around ten thousand, according to initial estimates." },
+                { "french": "L'origine de la défaillance ne serait pas encore totalement établie.", "english": "The cause of the failure is not thought to be fully established yet." },
+                { "french": "Nous mettrons en place un dispositif de suivi dès demain.", "english": "We will set up a follow-up system starting tomorrow." },
+                { "french": "Un rapport complet sera publié d'ici la fin du mois.", "english": "A full report will be published by the end of the month." }
+              ],
+              "tip": "Never use the conditional for your own commitments — \"nous ferions le nécessaire\" sounds like a promise you might break; \"nous ferons le nécessaire\" sounds like one you intend to keep."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "c1_u22_l01_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What is this sentence doing?",
+              "french": "Nous avons choisi de vous informer avant que la presse ne s'en charge.",
+              "options": ["Announcing bad news proactively, before it leaks", "Refusing to comment on the situation", "Blaming the press for a leak", "Denying that anything happened"],
+              "answer": "Announcing bad news proactively, before it leaks"
+            },
+            {
+              "id": "c1_u22_l01_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. What grammatical choice is used here, and why?",
+              "french": "Une erreur a été commise dans le traitement de ces données.",
+              "options": ["The passive voice, to state the fact before assigning blame", "The imperative, to give an order", "The conditional, to express doubt", "The subjunctive, to express a wish"],
+              "answer": "The passive voice, to state the fact before assigning blame"
+            },
+            {
+              "id": "c1_u22_l01_li03",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Nous assumons pleinement la responsabilité de cette erreur.",
+              "answer": "Nous assumons pleinement la responsabilité de cette erreur.",
+              "acceptedAnswers": ["nous assumons pleinement la responsabilite de cette erreur"]
+            },
+            {
+              "id": "c1_u22_l01_li04",
+              "type": "dictation",
+              "prompt": "Dictation: write exactly what you hear.",
+              "french": "Nous reconnaissons la gravité de la situation.",
+              "answer": "Nous reconnaissons la gravité de la situation.",
+              "acceptedAnswers": ["nous reconnaissons la gravite de la situation"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "c1_u22_l01_sp01",
+              "type": "speak",
+              "prompt": "Announce that you are informing people yourself before the story leaks.",
+              "french": "Nous avons choisi de vous informer avant que la presse ne s'en charge.",
+              "english": "We chose to inform you before the press took charge of it.",
+              "tip": "Keep the tone level and factual on 'la presse ne s'en charge' — this should sound like foresight, not panic."
+            },
+            {
+              "id": "c1_u22_l01_sp02",
+              "type": "speak",
+              "prompt": "Name the seriousness of a failure without hiding behind vague language.",
+              "french": "Il ne s'agit pas d'un simple contretemps, mais d'un dysfonctionnement sérieux.",
+              "english": "This is not a minor hitch, but a serious malfunction.",
+              "tip": "Stress 'sérieux' at the end — the whole sentence exists to correct a softer word the audience may have already heard elsewhere."
+            },
+            {
+              "id": "c1_u22_l01_sp03",
+              "type": "speak",
+              "prompt": "Offer a full apology that takes ownership without deflecting.",
+              "french": "Nous assumons pleinement la responsabilité de cette erreur.",
+              "english": "We fully take responsibility for this mistake.",
+              "tip": "Do not let your voice rise at the end as if asking permission — 'assumons' should land as a flat, complete statement."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "L'annonce chez NordTech",
+              "french": "Un vendredi soir, Solenne Vasseur, directrice de la communication de NordTech, reçut un appel qu'elle redoutait depuis des mois : une défaillance dans le système de sécurité avait exposé les données de milliers d'utilisateurs.\nElle convoqua aussitôt une cellule de crise et rejoignit Marc Delannoy, le PDG, dans son bureau.\n« Le nombre de personnes touchées serait d'environ dix mille, selon les premières estimations, expliqua-t-elle. L'origine de la défaillance ne serait pas encore totalement établie. »\n« Attendons d'en savoir plus avant de communiquer », proposa Marc, visiblement tenté par le silence.\n« C'est précisément ce qu'il ne faut pas faire, répondit Solenne sans détour. Nous préférons annoncer nous-mêmes une mauvaise nouvelle plutôt que la voir fuiter. »\nElle rédigea un communiqué en une heure, le relut deux fois, puis le tendit à Marc.\n« Une erreur a été commise dans le traitement de ces données, lut-il à voix haute. Nous en assumons pleinement la responsabilité. »\n« Il ne s'agit pas d'un simple contretemps, ajouta Solenne, mais d'un dysfonctionnement sérieux. Le dire autrement serait mentir. »\nMarc hésita sur la dernière phrase. « Et les excuses ? »\n« Sincères, et sans \"mais\", précisa-t-elle. Sinon, personne n'y croira. »\nLe communiqué fut diffusé avant minuit, accompagné d'une conférence de presse fixée au lendemain matin.\nÀ vingt-trois heures cinquante-cinq, Solenne relut une dernière fois la phrase finale : « Nous mettrons en place un dispositif de suivi dès demain. » Pas de conditionnel. Un engagement.",
+              "english": "One Friday evening, Solenne Vasseur, head of communications at NordTech, received a call she had dreaded for months: a failure in the security system had exposed the data of thousands of users.\nShe immediately convened a crisis unit and joined Marc Delannoy, the CEO, in his office.\n\"The number of people affected is thought to be around ten thousand, according to initial estimates,\" she explained. \"The cause of the failure is not thought to be fully established yet.\"\n\"Let's wait to know more before communicating,\" suggested Marc, visibly tempted by silence.\n\"That is precisely what we must not do,\" Solenne replied without hesitation. \"We prefer to announce bad news ourselves rather than see it leak out.\"\nShe drafted a statement within the hour, reread it twice, then handed it to Marc.\n\"A mistake was made in the handling of this data,\" he read aloud. \"We fully take responsibility for it.\"\n\"This is not a minor hitch,\" Solenne added, \"but a serious malfunction. Saying otherwise would be lying.\"\nMarc hesitated over the last line. \"And the apology?\"\n\"Sincere, and without a 'but',\" she specified. \"Otherwise, no one will believe it.\"\nThe statement was released before midnight, along with a press conference set for the next morning.\nAt eleven fifty-five, Solenne reread the final line one last time: \"We will set up a follow-up system starting tomorrow.\" No conditional. A commitment.",
+              "questions": [
+                {
+                  "id": "c1_u22_l01_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Why does Solenne reject Marc's suggestion to wait before communicating?",
+                  "options": ["Because announcing bad news themselves is safer than letting it leak", "Because the law requires an immediate statement", "Because Marc has already spoken to journalists", "Because waiting would cost the company money"],
+                  "answer": "Because announcing bad news themselves is safer than letting it leak"
+                },
+                {
+                  "id": "c1_u22_l01_rd02",
+                  "type": "multipleChoice",
+                  "prompt": "Why does Solenne insist the apology should have no \"mais\"?",
+                  "options": ["Because \"but\" would undercut the sincerity of the apology", "Because \"mais\" is grammatically incorrect there", "Because Marc dislikes the word", "Because it would make the statement too short"],
+                  "answer": "Because \"but\" would undercut the sincerity of the apology"
+                },
+                {
+                  "id": "c1_u22_l01_rd03",
+                  "type": "trueFalse",
+                  "prompt": "True or false: the final sentence of the statement uses the conditional tense.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "c1_u22_l01_wr01",
+              "type": "translate",
+              "prompt": "Translate: \"We fully take responsibility for this mistake.\"",
+              "english": "We fully take responsibility for this mistake.",
+              "answer": "Nous assumons pleinement la responsabilité de cette erreur.",
+              "acceptedAnswers": ["nous assumons pleinement la responsabilite de cette erreur"]
+            },
+            {
+              "id": "c1_u22_l01_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "We prefer to announce bad news ourselves rather than see it leak out.",
+              "words": ["Nous", "préférons", "annoncer", "nous-mêmes", "une", "mauvaise", "nouvelle"],
+              "answer": "Nous préférons annoncer nous-mêmes une mauvaise nouvelle"
+            },
+            {
+              "id": "c1_u22_l01_wr03",
+              "type": "fillBlank",
+              "prompt": "Complete with the passive: \"Une erreur ___ commise dans le traitement de ces données.\"",
+              "answer": "a été",
+              "hint": "Passé composé of 'être', to form the passive voice."
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "c1_u22_l01_pr01",
+              "type": "multipleChoice",
+              "prompt": "Which sentence uses the passive voice to state a fact without yet naming a culprit?",
+              "options": ["Des mesures ont été prises dès la découverte de l'incident.", "Le stagiaire a fait une erreur impardonnable.", "Personne n'est responsable de rien.", "C'est entièrement la faute de nos fournisseurs."],
+              "answer": "Des mesures ont été prises dès la découverte de l'incident."
+            },
+            {
+              "id": "c1_u22_l01_pr02",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Le nombre de personnes touchées ___ d'environ dix mille, selon les premières estimations.\" (conditional of être — unconfirmed figure)",
+              "answer": "serait",
+              "hint": "Conditional of 'être', third person singular."
+            },
+            {
+              "id": "c1_u22_l01_pr03",
+              "type": "match",
+              "prompt": "Match each phrase with what it does in a crisis statement.",
+              "pairs": [
+                { "french": "Une erreur a été commise.", "english": "States the fact without yet naming a culprit." },
+                { "french": "Nous assumons pleinement la responsabilité.", "english": "Takes full ownership of the mistake." },
+                { "french": "Nous mettrons en place un dispositif de suivi.", "english": "Makes a firm commitment, no hedging." },
+                { "french": "Le nombre de personnes touchées serait d'environ dix mille.", "english": "Reports an unconfirmed, working estimate." }
+              ]
+            },
+            {
+              "id": "c1_u22_l01_pr04",
+              "type": "multipleChoice",
+              "prompt": "Why is \"mais\" considered a risky word right after an apology?",
+              "options": ["It tends to erase the apology that came before it", "It is grammatically incorrect in that position", "It is too informal for a press release", "It changes the verb to the subjunctive"],
+              "answer": "It tends to erase the apology that came before it"
+            },
+            {
+              "id": "c1_u22_l01_pr05",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "We acknowledge the seriousness of the situation.",
+              "words": ["Nous", "reconnaissons", "la", "gravité", "de", "la", "situation"],
+              "answer": "Nous reconnaissons la gravité de la situation"
+            },
+            {
+              "id": "c1_u22_l01_pr06",
+              "type": "translate",
+              "prompt": "Translate: \"We chose to inform you before the press took charge of it.\"",
+              "english": "We chose to inform you before the press took charge of it.",
+              "answer": "Nous avons choisi de vous informer avant que la presse ne s'en charge.",
+              "acceptedAnswers": ["nous avons choisi de vous informer avant que la presse ne s'en charge", "nous avons choisi de vous informer avant que la presse ne s en charge"]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "c1_u22_l01_qz01",
+              "type": "multipleChoice",
+              "prompt": "What is the first rule of crisis communication described in this lesson?",
+              "options": ["Announce bad news yourself before it leaks", "Never comment publicly on anything", "Always wait for the full investigation to finish", "Let the press write the first version of events"],
+              "answer": "Announce bad news yourself before it leaks"
+            },
+            {
+              "id": "c1_u22_l01_qz02",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Nous ___ pleinement la responsabilité de cette erreur.\" (take on, own)",
+              "answer": "assumons"
+            },
+            {
+              "id": "c1_u22_l01_qz03",
+              "type": "multipleChoice",
+              "prompt": "What does \"se dédouaner\" mean in a crisis context?",
+              "options": ["To shift the blame onto someone else", "To pay a customs fee", "To apologise sincerely", "To announce good news"],
+              "answer": "To shift the blame onto someone else"
+            },
+            {
+              "id": "c1_u22_l01_qz04",
+              "type": "trueFalse",
+              "prompt": "True or false: a firm future commitment (\"nous publierons\") should be phrased in the conditional to sound polite.",
+              "options": ["True", "False"],
+              "answer": "False"
+            },
+            {
+              "id": "c1_u22_l01_qz05",
+              "type": "multipleChoice",
+              "prompt": "Why does the lesson warn against euphemisms like \"un léger contretemps\" for a serious problem?",
+              "options": ["They damage credibility once the real scale becomes known", "They are grammatically incorrect", "They are only used in spoken French", "They always trigger legal consequences"],
+              "answer": "They damage credibility once the real scale becomes known"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1_u22_l02",
+      "level": "C1",
+      "unit": 22,
+      "title": "Répondre à une polémique",
+      "description": "Face public criticism without losing composure, correct the record, and know when silence would cost more than a response.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Distinguer le fait de l'interprétation",
+              "body": "When a controversy erupts, the fastest way to lose control of it is to respond to every interpretation as if it were a fact. A disciplined spokesperson separates the two explicitly: confirm or correct the facts first, and only then, if at all, address the interpretation built on top of them. Conflating the two invites an argument that can never be settled with evidence.",
+              "examples": [
+                { "french": "Nous contestons l'interprétation, pas les faits eux-mêmes.", "english": "We are disputing the interpretation, not the facts themselves." },
+                { "french": "Il convient de distinguer ce qui relève du fait de ce qui relève de l'opinion.", "english": "It is worth distinguishing what belongs to fact from what belongs to opinion." },
+                { "french": "Cette polémique repose sur une confusion entre une hypothèse et une certitude.", "english": "This controversy rests on a confusion between a hypothesis and a certainty." },
+                { "french": "Rectifions d'abord les faits ; nous reviendrons ensuite sur le fond.", "english": "Let's correct the facts first; we will come back to the substance afterward." }
+              ],
+              "tip": "\"Le fait que\" introduces something the speaker treats as an established truth; watch which mode follows it — it often reveals whether the speaker actually believes the fact or is merely conceding it for argument's sake."
+            },
+            {
+              "heading": "Répondre sans attiser",
+              "body": "Not every accusation deserves a reply, and not every reply should match the temperature of the attack that provoked it. A measured response, even to a loud controversy, tends to shorten it; an emotional counter-attack almost always extends it. Knowing when silence is a strategy — not a failure to respond — is itself a C1-level judgment call.",
+              "examples": [
+                { "french": "Nous ne répondrons pas à chaque accusation, mais nous répondrons sur le fond.", "english": "We will not respond to every accusation, but we will respond on the substance." },
+                { "french": "Le silence, ici, aurait été interprété comme un aveu.", "english": "Silence, here, would have been read as an admission." },
+                { "french": "Riposter à chaud aggrave presque toujours la polémique.", "english": "Striking back in the heat of the moment almost always makes the controversy worse." },
+                { "french": "Mieux vaut une réponse posée qu'une réplique impulsive.", "english": "A composed response is better than an impulsive retort." }
+              ],
+              "tip": "Before answering an angry message publicly, ask whether silence would read as guilt or simply as restraint — the two require completely different responses."
+            },
+            {
+              "heading": "Corriger sans humilier — la mise au point",
+              "body": "A \"mise au point\" corrects the record without turning the correction into a personal attack on whoever spread the error. It states what is inaccurate, cites what is actually true, and stops — it does not need to mock the source of the mistake to be effective, and mockery usually reopens the controversy rather than closing it.",
+              "examples": [
+                { "french": "Nous tenons à apporter une mise au point sur plusieurs points inexacts.", "english": "We would like to set the record straight on several inaccurate points." },
+                { "french": "Cette rumeur, largement relayée, ne repose sur aucune source vérifiée.", "english": "This rumour, widely shared, is not based on any verified source." },
+                { "french": "Nous démentons formellement toute implication de notre part.", "english": "We formally deny any involvement on our part." },
+                { "french": "Corriger une erreur n'est pas humilier celui qui l'a commise.", "english": "Correcting a mistake is not humiliating the person who made it." }
+              ],
+              "tip": "A \"mise au point\" that names and shames the original source usually gets shared more than the correction itself — keep the focus on the facts, not on who got them wrong."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "la-polemique", "french": "la polémique", "english": "the row, the public controversy", "partOfSpeech": "noun", "gender": "f", "plural": "les polémiques", "pronunciation": "lah po-lay-MEEK", "example": "La polémique a enflé toute la semaine sur les réseaux sociaux.", "exampleEnglish": "The controversy grew all week on social media.", "level": "C1", "category": "controversy" },
+            { "id": "un-tolle", "french": "un tollé", "english": "a public outcry", "partOfSpeech": "noun", "gender": "m", "plural": "des tollés", "pronunciation": "uhn toh-LAY", "example": "L'annonce a provoqué un tollé immédiat en ligne.", "exampleEnglish": "The announcement provoked an immediate outcry online.", "level": "C1", "category": "controversy" },
+            { "id": "une-controverse", "french": "une controverse", "english": "a controversy", "partOfSpeech": "noun", "gender": "f", "plural": "des controverses", "pronunciation": "ewn kon-troh-VEHRS", "example": "La controverse portait moins sur les faits que sur leur interprétation.", "exampleEnglish": "The controversy was less about the facts than about their interpretation.", "level": "C1", "category": "controversy" },
+            { "id": "susciter", "french": "susciter", "english": "to spark, to provoke (a reaction)", "partOfSpeech": "verb", "pronunciation": "su-see-TAY", "example": "La publicité a suscité une vague de commentaires indignés.", "exampleEnglish": "The advert sparked a wave of outraged comments.", "level": "C1", "category": "controversy" },
+            { "id": "les-reseaux-sociaux", "french": "les réseaux sociaux", "english": "social media", "partOfSpeech": "expression", "pronunciation": "lay ray-ZOH so-SYOH", "example": "L'affaire s'est propagée sur les réseaux sociaux en quelques heures.", "exampleEnglish": "The story spread on social media within hours.", "level": "C1", "category": "controversy" },
+            { "id": "viral", "french": "viral", "english": "viral", "partOfSpeech": "adjective", "pronunciation": "vee-RAHL", "example": "La vidéo est devenue virale avant même notre premier communiqué.", "exampleEnglish": "The video went viral before we had even issued our first statement.", "level": "C1", "category": "controversy" },
+            { "id": "reagir", "french": "réagir", "english": "to react", "partOfSpeech": "verb", "pronunciation": "ray-ah-ZHEER", "example": "Il fallait réagir vite, sans pour autant réagir à chaud.", "exampleEnglish": "We had to react quickly, without reacting in the heat of the moment.", "level": "C1", "category": "controversy" },
+            { "id": "une-reaction", "french": "une réaction", "english": "a reaction", "partOfSpeech": "noun", "gender": "f", "plural": "des réactions", "pronunciation": "ewn ray-ak-SYON", "example": "Notre première réaction a été trop lente d'une bonne journée.", "exampleEnglish": "Our first reaction came a full day too late.", "level": "C1", "category": "controversy" },
+            { "id": "riposter", "french": "riposter", "english": "to strike back, to respond forcefully", "partOfSpeech": "verb", "pronunciation": "ree-poss-TAY", "example": "Riposter à chaud aggrave presque toujours la polémique.", "exampleEnglish": "Striking back in the heat of the moment almost always makes the controversy worse.", "level": "C1", "category": "controversy" },
+            { "id": "se-defendre", "french": "se défendre", "english": "to defend oneself", "partOfSpeech": "verb", "pronunciation": "suh day-FAHNDR", "example": "Elle a préféré expliquer plutôt que se défendre.", "exampleEnglish": "She chose to explain rather than defend herself.", "level": "C1", "category": "controversy" },
+            { "id": "une-attaque", "french": "une attaque", "english": "an attack", "partOfSpeech": "noun", "gender": "f", "plural": "des attaques", "pronunciation": "ewn ah-TAK", "example": "L'attaque visait la personne, pas la décision elle-même.", "exampleEnglish": "The attack targeted the person, not the decision itself.", "level": "C1", "category": "controversy" },
+            { "id": "accuser", "french": "accuser", "english": "to accuse", "partOfSpeech": "verb", "pronunciation": "ah-ku-ZAY", "example": "On nous accuse d'avoir dissimulé l'information.", "exampleEnglish": "We are accused of having concealed the information.", "level": "C1", "category": "controversy" },
+            { "id": "une-accusation", "french": "une accusation", "english": "an accusation", "partOfSpeech": "noun", "gender": "f", "plural": "des accusations", "pronunciation": "ewn ah-ku-zah-SYON", "example": "Nous ne répondrons pas à chaque accusation, mais nous répondrons sur le fond.", "exampleEnglish": "We will not respond to every accusation, but we will respond on the substance.", "level": "C1", "category": "controversy" },
+            { "id": "nier", "french": "nier", "english": "to deny", "partOfSpeech": "verb", "pronunciation": "nee-AY", "example": "Nous ne nions pas l'erreur ; nous en contestons l'ampleur.", "exampleEnglish": "We are not denying the mistake; we dispute its scale.", "level": "C1", "category": "controversy" },
+            { "id": "dementir", "french": "démentir", "english": "to deny, to refute (a claim)", "partOfSpeech": "verb", "pronunciation": "day-mahn-TEER", "example": "Nous démentons formellement toute implication de notre part.", "exampleEnglish": "We formally deny any involvement on our part.", "level": "C1", "category": "controversy" },
+            { "id": "un-dementi", "french": "un démenti", "english": "an official denial", "partOfSpeech": "noun", "gender": "m", "plural": "des démentis", "pronunciation": "uhn day-mahn-TEE", "example": "Le démenti est arrivé trop tard pour freiner la rumeur.", "exampleEnglish": "The denial came too late to stop the rumour.", "level": "C1", "category": "controversy" },
+            { "id": "refuter", "french": "réfuter", "english": "to refute", "partOfSpeech": "verb", "pronunciation": "ray-fu-TAY", "example": "Il est plus efficace de réfuter un chiffre que d'ignorer la polémique.", "exampleEnglish": "It is more effective to refute a figure than to ignore the controversy.", "level": "C1", "category": "controversy" },
+            { "id": "contester", "french": "contester", "english": "to dispute, to challenge (a claim)", "partOfSpeech": "verb", "pronunciation": "kohn-tess-TAY", "example": "Nous contestons l'interprétation, pas les faits eux-mêmes.", "exampleEnglish": "We are disputing the interpretation, not the facts themselves.", "level": "C1", "category": "controversy" },
+            { "id": "rectifier", "french": "rectifier", "english": "to correct, to rectify", "partOfSpeech": "verb", "pronunciation": "rek-tee-FYAY", "example": "Rectifions d'abord les faits ; nous reviendrons ensuite sur le fond.", "exampleEnglish": "Let's correct the facts first; we will come back to the substance afterward.", "level": "C1", "category": "controversy" },
+            { "id": "une-mise-au-point", "french": "une mise au point", "english": "a clarification, a correction of the record", "partOfSpeech": "expression", "pronunciation": "ewn meez oh PWAN", "example": "Nous tenons à apporter une mise au point sur plusieurs points inexacts.", "exampleEnglish": "We would like to set the record straight on several inaccurate points.", "level": "C1", "category": "controversy" },
+            { "id": "recadrer", "french": "recadrer", "english": "to reframe, to set the record straight", "partOfSpeech": "verb", "pronunciation": "ruh-kah-DRAY", "example": "Il a fallu recadrer le débat avant qu'il ne parte dans tous les sens.", "exampleEnglish": "The debate had to be reframed before it spun off in every direction.", "level": "C1", "category": "controversy" },
+            { "id": "la-rumeur", "french": "la rumeur", "english": "the rumour", "partOfSpeech": "noun", "gender": "f", "plural": "les rumeurs", "pronunciation": "lah ru-MUR", "example": "Cette rumeur, largement relayée, ne repose sur aucune source vérifiée.", "exampleEnglish": "This rumour, widely shared, is not based on any verified source.", "level": "C1", "category": "controversy" },
+            { "id": "infonde", "french": "infondé", "english": "unfounded, baseless", "partOfSpeech": "adjective", "pronunciation": "an-fon-DAY", "example": "L'accusation s'est révélée totalement infondée.", "exampleEnglish": "The accusation turned out to be entirely unfounded.", "level": "C1", "category": "controversy" },
+            { "id": "calomnieux", "french": "calomnieux", "english": "slanderous", "partOfSpeech": "adjective", "pronunciation": "kah-lom-NYUH", "example": "Certains propos calomnieux ont dépassé la simple critique.", "exampleEnglish": "Some slanderous remarks went well beyond simple criticism.", "level": "C1", "category": "controversy" },
+            { "id": "la-diffamation", "french": "la diffamation", "english": "defamation", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah dee-fah-mah-SYON", "example": "L'entreprise a évoqué la diffamation, sans pour autant porter plainte.", "exampleEnglish": "The company mentioned defamation, without going as far as filing a complaint.", "level": "C1", "category": "controversy" },
+            { "id": "porter-plainte", "french": "porter plainte", "english": "to file a complaint, to press charges", "partOfSpeech": "expression", "pronunciation": "por-TAY PLANT", "example": "Ils ont menacé de porter plainte, puis y ont renoncé.", "exampleEnglish": "They threatened to press charges, then gave up on the idea.", "level": "C1", "category": "controversy" },
+            { "id": "un-bouc-emissaire", "french": "un bouc émissaire", "english": "a scapegoat", "partOfSpeech": "expression", "pronunciation": "uhn book ay-mee-SEHR", "example": "La direction a refusé de désigner un bouc émissaire.", "exampleEnglish": "Management refused to designate a scapegoat.", "level": "C1", "category": "controversy" },
+            { "id": "desamorcer", "french": "désamorcer", "english": "to defuse (a conflict, a controversy)", "partOfSpeech": "verb", "pronunciation": "day-zah-mor-SAY", "example": "Une mise au point rapide a désamorcé une bonne partie de la polémique.", "exampleEnglish": "A quick clarification defused a good part of the controversy.", "level": "C1", "category": "controversy" },
+            { "id": "contextualiser", "french": "contextualiser", "english": "to put into context", "partOfSpeech": "verb", "pronunciation": "kon-teks-tu-ah-lee-ZAY", "example": "Il fallait contextualiser la citation, qui avait été tronquée.", "exampleEnglish": "The quote, which had been truncated, needed to be put into context.", "level": "C1", "category": "controversy" },
+            { "id": "cibler", "french": "cibler", "english": "to target", "partOfSpeech": "verb", "pronunciation": "see-BLAY", "example": "La critique ciblait une seule décision, pas l'ensemble de la stratégie.", "exampleEnglish": "The criticism targeted one decision, not the whole strategy.", "level": "C1", "category": "controversy" },
+            { "id": "la-pression-mediatique", "french": "la pression médiatique", "english": "media pressure", "partOfSpeech": "expression", "pronunciation": "lah press-SYON may-dyah-TEEK", "example": "La pression médiatique s'est relâchée après la mise au point.", "exampleEnglish": "Media pressure eased after the clarification.", "level": "C1", "category": "controversy" },
+            { "id": "le-journaliste", "french": "le journaliste", "english": "the journalist", "partOfSpeech": "noun", "gender": "m", "plural": "les journalistes", "pronunciation": "luh zhoor-nah-LEEST", "example": "Le journaliste a posé la même question sous trois formes différentes.", "exampleEnglish": "The journalist asked the same question three different ways.", "level": "C1", "category": "controversy" },
+            { "id": "couvrir", "french": "couvrir", "english": "to cover (a story)", "partOfSpeech": "verb", "pronunciation": "koo-VREER", "example": "Trois chaînes ont couvert la conférence de presse en direct.", "exampleEnglish": "Three channels covered the press conference live.", "level": "C1", "category": "controversy" },
+            { "id": "la-couverture-mediatique", "french": "la couverture médiatique", "english": "media coverage", "partOfSpeech": "expression", "pronunciation": "lah koo-vehr-tur may-dyah-TEEK", "example": "La couverture médiatique a été plus large que prévu.", "exampleEnglish": "Media coverage was broader than expected.", "level": "C1", "category": "controversy" },
+            { "id": "esquiver", "french": "esquiver", "english": "to dodge, to sidestep", "partOfSpeech": "verb", "pronunciation": "ess-kee-VAY", "example": "Elle n'a esquivé aucune question, même la plus gênante.", "exampleEnglish": "She dodged no question, not even the most awkward one.", "level": "C1", "category": "controversy" },
+            { "id": "une-question-piege", "french": "une question piège", "english": "a trick question, a loaded question", "partOfSpeech": "expression", "pronunciation": "ewn kess-TYON PYEZH", "example": "Le journaliste a posé une question piège sur le calendrier.", "exampleEnglish": "The journalist asked a loaded question about the timeline.", "level": "C1", "category": "controversy" },
+            { "id": "garder-son-sang-froid", "french": "garder son sang-froid", "english": "to keep one's cool", "partOfSpeech": "expression", "pronunciation": "gar-DAY sohn sahn-FRWAH", "example": "Elle a gardé son sang-froid malgré une question particulièrement agressive.", "exampleEnglish": "She kept her cool despite a particularly aggressive question.", "level": "C1", "category": "controversy" },
+            { "id": "deraper", "french": "déraper", "english": "to slip up, to go off the rails (verbally)", "partOfSpeech": "verb", "pronunciation": "day-rah-PAY", "example": "Un seul mot maladroit a suffi à faire déraper l'interview.", "exampleEnglish": "One clumsy word was enough to make the interview go off the rails.", "level": "C1", "category": "controversy" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Le fait que + indicatif ou subjonctif — cadrer un fait contesté",
+              "body": "\"Le fait que\" can take either mode, and the choice is meaningful: the indicative treats what follows as an established truth, while the subjunctive frames it as something merely alleged, circulating, or not yet proven. In a controversy, switching from indicative to subjunctive mid-statement is a precise way of downgrading a claim without ever calling the other side a liar outright.",
+              "examples": [
+                { "french": "Le fait que cette rumeur circule ne signifie pas qu'elle soit fondée.", "english": "The fact that this rumour is circulating does not mean it is well-founded." },
+                { "french": "Le fait que nous ayons réagi vite montre notre sérieux.", "english": "The fact that we reacted quickly shows our seriousness." },
+                { "french": "Le fait qu'un chiffre soit repris partout ne le rend pas exact pour autant.", "english": "The fact that a figure is repeated everywhere does not make it accurate." },
+                { "french": "Le fait que la source reste anonyme invite à la prudence.", "english": "The fact that the source remains anonymous calls for caution." }
+              ],
+              "tip": "Indicative after \"le fait que\" quietly concedes the point as true; subjunctive keeps it at arm's length — choose deliberately, since your audience will register the difference even if they cannot name it."
+            },
+            {
+              "heading": "Ce n'est pas X, c'est Y — la restriction pour recadrer un débat",
+              "body": "The cleft construction \"ce n'est pas X, c'est Y\" is the C1 speaker's sharpest tool for correcting a controversy's framing in one breath: it names the wrong emphasis and replaces it with the right one, in a single balanced sentence. Paired with the restrictive \"ne... que\", it also lets a spokesperson narrow exactly what is, and is not, being disputed.",
+              "examples": [
+                { "french": "Ce n'est pas une erreur, c'est une décision assumée.", "english": "It is not a mistake, it is a decision we stand by." },
+                { "french": "Ce n'est pas le montant qui pose problème, c'est la manière dont il a été annoncé.", "english": "It is not the amount that is the problem, it is the way it was announced." },
+                { "french": "Nous ne contestons que l'interprétation, pas les chiffres eux-mêmes.", "english": "We are disputing only the interpretation, not the figures themselves." },
+                { "french": "Ce n'est pas nous qui avons lancé cette rumeur, c'est un compte anonyme.", "english": "We are not the ones who started this rumour, it was an anonymous account." }
+              ],
+              "tip": "\"Ce n'est pas X, c'est Y\" works best when X is what the public already believes and Y is the correction — leading with the misconception, briefly, makes the correction land harder."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "c1_u22_l02_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What is this sentence doing?",
+              "french": "Nous contestons l'interprétation, pas les faits eux-mêmes.",
+              "options": ["Separating a disputed interpretation from undisputed facts", "Denying that any facts exist", "Agreeing with the interpretation entirely", "Refusing to comment further"],
+              "answer": "Separating a disputed interpretation from undisputed facts"
+            },
+            {
+              "id": "c1_u22_l02_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. What does the subjunctive signal here?",
+              "french": "Le fait que cette rumeur circule ne signifie pas qu'elle soit fondée.",
+              "options": ["That the claim is being treated as unproven, not conceded as true", "That the speaker fully believes the rumour", "That the sentence is a direct order", "That the rumour has been officially confirmed"],
+              "answer": "That the claim is being treated as unproven, not conceded as true"
+            },
+            {
+              "id": "c1_u22_l02_li03",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Nous démentons formellement toute implication de notre part.",
+              "answer": "Nous démentons formellement toute implication de notre part.",
+              "acceptedAnswers": ["nous dementons formellement toute implication de notre part"]
+            },
+            {
+              "id": "c1_u22_l02_li04",
+              "type": "dictation",
+              "prompt": "Dictation: write exactly what you hear.",
+              "french": "Riposter à chaud aggrave presque toujours la polémique.",
+              "answer": "Riposter à chaud aggrave presque toujours la polémique.",
+              "acceptedAnswers": ["riposter a chaud aggrave presque toujours la polemique"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "c1_u22_l02_sp01",
+              "type": "speak",
+              "prompt": "Explain that only the interpretation is disputed, not the underlying facts.",
+              "french": "Nous contestons l'interprétation, pas les faits eux-mêmes.",
+              "english": "We are disputing the interpretation, not the facts themselves.",
+              "tip": "Give 'contestons' and 'pas' equal emphasis — the sentence's precision depends on that contrast being audible."
+            },
+            {
+              "id": "c1_u22_l02_sp02",
+              "type": "speak",
+              "prompt": "Reframe an accusation using the cleft construction.",
+              "french": "Ce n'est pas une erreur, c'est une décision assumée.",
+              "english": "It is not a mistake, it is a decision we stand by.",
+              "tip": "Pause briefly after 'erreur' before 'c'est' — the silence is what makes the correction land."
+            },
+            {
+              "id": "c1_u22_l02_sp03",
+              "type": "speak",
+              "prompt": "Issue a formal denial without sounding defensive.",
+              "french": "Nous démentons formellement toute implication de notre part.",
+              "english": "We formally deny any involvement on our part.",
+              "tip": "Keep 'formellement' crisp and unhurried — rushing this word makes the denial sound nervous rather than confident."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "La polémique enfle",
+              "french": "Dix jours après l'annonce, une capture d'écran tronquée du communiqué de NordTech devint virale, laissant croire que l'entreprise avait attendu une semaine avant d'agir.\nSolenne fut contactée par Inès Kader, journaliste spécialisée dans le numérique, pour une interview en direct.\n« On vous accuse d'avoir dissimulé l'incident pendant plusieurs jours, attaqua Inès d'entrée. Que répondez-vous ? »\n« Nous contestons l'interprétation, pas les faits eux-mêmes, répondit Solenne sans se démonter. Le communiqué original porte une date et une heure, vérifiables par n'importe qui. »\n« Cette rumeur circule pourtant largement, insista la journaliste. — Le fait qu'elle circule ne signifie pas qu'elle soit fondée, précisa Solenne. Nous démentons formellement tout délai de plusieurs jours. »\nInès tenta une question piège : « N'auriez-vous pas simplement cherché un bouc émissaire en interne ? »\n« Ce n'est pas une erreur individuelle que nous avons cherché à punir, répliqua Solenne, gardant son sang-froid, c'est une défaillance collective que nous avons choisi d'assumer, publiquement, dès le premier soir. »\nElle ne haussa pas la voix, ne coupa pas la parole, et ne laissa passer aucune inexactitude sans la rectifier.\nÀ la fin de l'entretien, NordTech publia une mise au point détaillée, accompagnée de l'horodatage complet du communiqué original.\nLa pression médiatique retomba en deux jours. La polémique, elle, ne s'éteignit pas immédiatement — mais elle cessa, au moins, de porter sur des faits inexacts.",
+              "english": "Ten days after the announcement, a truncated screenshot of NordTech's statement went viral, suggesting the company had waited a week before acting.\nSolenne was contacted by Inès Kader, a journalist specialising in digital affairs, for a live interview.\n\"You are accused of having concealed the incident for several days,\" Inès opened aggressively. \"What is your response?\"\n\"We are disputing the interpretation, not the facts themselves,\" Solenne replied, unshaken. \"The original statement carries a date and a time, verifiable by anyone.\"\n\"This rumour is nonetheless circulating widely,\" the journalist insisted. \"The fact that it is circulating does not mean it is well-founded,\" Solenne specified. \"We formally deny any delay of several days.\"\nInès tried a loaded question: \"Didn't you simply look for a scapegoat internally?\"\n\"It is not an individual mistake that we sought to punish,\" Solenne replied, keeping her cool, \"it is a collective failure that we chose to own, publicly, on the very first evening.\"\nShe did not raise her voice, did not interrupt, and let no inaccuracy pass without correcting it.\nAt the end of the interview, NordTech published a detailed clarification, together with the full timestamp of the original statement.\nMedia pressure eased within two days. The controversy itself did not die out immediately — but it stopped, at least, being about inaccurate facts.",
+              "questions": [
+                {
+                  "id": "c1_u22_l02_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "What does Solenne dispute in the interview?",
+                  "options": ["The interpretation that they waited days, not the underlying facts", "The existence of the security incident itself", "The journalist's right to ask questions", "The need to apologise at all"],
+                  "answer": "The interpretation that they waited days, not the underlying facts"
+                },
+                {
+                  "id": "c1_u22_l02_rd02",
+                  "type": "multipleChoice",
+                  "prompt": "How does Solenne respond to the \"bouc émissaire\" question?",
+                  "options": ["She reframes it: they owned a collective failure, not an individual mistake", "She refuses to answer and ends the interview", "She agrees that someone was blamed internally", "She accuses the journalist of lying"],
+                  "answer": "She reframes it: they owned a collective failure, not an individual mistake"
+                },
+                {
+                  "id": "c1_u22_l02_rd03",
+                  "type": "trueFalse",
+                  "prompt": "True or false: by the end of the passage, the controversy has completely disappeared.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "c1_u22_l02_wr01",
+              "type": "translate",
+              "prompt": "Translate: \"It is not a mistake, it is a decision we stand by.\"",
+              "english": "It is not a mistake, it is a decision we stand by.",
+              "answer": "Ce n'est pas une erreur, c'est une décision assumée.",
+              "acceptedAnswers": ["ce n'est pas une erreur, c'est une decision assumee", "ce n est pas une erreur c est une decision assumee"]
+            },
+            {
+              "id": "c1_u22_l02_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "We are disputing the interpretation, not the facts themselves.",
+              "words": ["Nous", "contestons", "l'interprétation", "pas", "les", "faits", "eux-mêmes"],
+              "answer": "Nous contestons l'interprétation pas les faits eux-mêmes"
+            },
+            {
+              "id": "c1_u22_l02_wr03",
+              "type": "fillBlank",
+              "prompt": "Complete with the subjunctive: \"Le fait que cette rumeur circule ne signifie pas qu'elle ___ fondée.\"",
+              "answer": "soit",
+              "hint": "Subjunctive of 'être', third person singular."
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "c1_u22_l02_pr01",
+              "type": "multipleChoice",
+              "prompt": "Which response correctly separates fact from interpretation?",
+              "options": ["Nous contestons l'interprétation, pas les faits eux-mêmes.", "Vous n'y comprenez rien du tout.", "Nous refusons de commenter cette affaire.", "C'est entièrement faux, sans exception."],
+              "answer": "Nous contestons l'interprétation, pas les faits eux-mêmes."
+            },
+            {
+              "id": "c1_u22_l02_pr02",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Nous ___ formellement toute implication de notre part.\" (deny, refute)",
+              "answer": "démentons",
+              "hint": "Present tense of 'démentir', first person plural."
+            },
+            {
+              "id": "c1_u22_l02_pr03",
+              "type": "match",
+              "prompt": "Match each word with its meaning.",
+              "pairs": [
+                { "french": "un tollé", "english": "a public outcry" },
+                { "french": "une mise au point", "english": "a clarification, a correction" },
+                { "french": "un bouc émissaire", "english": "a scapegoat" },
+                { "french": "infondé", "english": "unfounded, baseless" }
+              ]
+            },
+            {
+              "id": "c1_u22_l02_pr04",
+              "type": "multipleChoice",
+              "prompt": "Why might a spokesperson deliberately choose not to respond to a specific accusation?",
+              "options": ["Because responding to every accusation can fan the controversy further", "Because it is illegal to respond to accusations", "Because journalists never ask difficult questions", "Because silence always signals agreement"],
+              "answer": "Because responding to every accusation can fan the controversy further"
+            },
+            {
+              "id": "c1_u22_l02_pr05",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "A composed response is better than an impulsive retort.",
+              "words": ["Mieux", "vaut", "une", "réponse", "posée", "qu'une", "réplique", "impulsive"],
+              "answer": "Mieux vaut une réponse posée qu'une réplique impulsive"
+            },
+            {
+              "id": "c1_u22_l02_pr06",
+              "type": "translate",
+              "prompt": "Translate: \"This rumour, widely shared, is not based on any verified source.\"",
+              "english": "This rumour, widely shared, is not based on any verified source.",
+              "answer": "Cette rumeur, largement relayée, ne repose sur aucune source vérifiée.",
+              "acceptedAnswers": ["cette rumeur, largement relayee, ne repose sur aucune source verifiee", "cette rumeur largement relayee ne repose sur aucune source verifiee"]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "c1_u22_l02_qz01",
+              "type": "multipleChoice",
+              "prompt": "What does a \"mise au point\" do?",
+              "options": ["Corrects the record without personally attacking the source of the error", "Publicly humiliates whoever spread the rumour", "Ignores the controversy entirely", "Threatens legal action immediately"],
+              "answer": "Corrects the record without personally attacking the source of the error"
+            },
+            {
+              "id": "c1_u22_l02_qz02",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Ce n'est pas une erreur, ___ une décision assumée.\" (it is)",
+              "answer": "c'est"
+            },
+            {
+              "id": "c1_u22_l02_qz03",
+              "type": "multipleChoice",
+              "prompt": "What does the mode after \"le fait que\" signal?",
+              "options": ["Whether the speaker treats the fact as established or merely alleged", "Nothing; the mode never changes", "Only the formality of the register", "The tense of the following clause"],
+              "answer": "Whether the speaker treats the fact as established or merely alleged"
+            },
+            {
+              "id": "c1_u22_l02_qz04",
+              "type": "trueFalse",
+              "prompt": "True or false: striking back angrily (\"riposter à chaud\") usually shortens a controversy.",
+              "options": ["True", "False"],
+              "answer": "False"
+            },
+            {
+              "id": "c1_u22_l02_qz05",
+              "type": "multipleChoice",
+              "prompt": "What is a \"bouc émissaire\" in a crisis response?",
+              "options": ["A scapegoat blamed to deflect from collective responsibility", "An official spokesperson", "A journalist covering the story", "A formal press release"],
+              "answer": "A scapegoat blamed to deflect from collective responsibility"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1_u22_l03",
+      "level": "C1",
+      "unit": 22,
+      "title": "Reconstruire la confiance",
+      "description": "Turn an apology into action: concrete measures, real follow-through, and the patience trust repair actually requires.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Des actes, pas seulement des mots",
+              "body": "An apology opens the door to trust repair; it does not walk through it. What actually rebuilds confidence is a series of concrete, verifiable actions that match the scale of the harm — a corrective measure with a date attached is worth far more, in this register, than a heartfelt but vague promise to \"do better\".",
+              "examples": [
+                { "french": "Des excuses ne suffisent pas ; il faut des actes qui les prouvent.", "english": "Apologies are not enough; they need actions to prove them." },
+                { "french": "Nous avons mis en place des mesures correctives concrètes, avec un calendrier précis.", "english": "We have put in place concrete corrective measures, with a precise timeline." },
+                { "french": "La confiance ne se restaure pas par une phrase, mais par une série de preuves.", "english": "Trust is not restored by a single sentence, but by a series of proofs." },
+                { "french": "Chaque engagement pris doit être suivi d'un compte rendu public.", "english": "Every commitment made must be followed by a public account of progress." }
+              ],
+              "tip": "If a corrective measure cannot be given a date, it is still an intention, not yet a commitment — say so plainly rather than dressing it up as more than it is."
+            },
+            {
+              "heading": "La reddition de comptes — rendre compte dans la durée",
+              "body": "Accountability, in this register, is not a single confession but a habit: regular, dated updates that let outsiders check progress against what was promised. An independent audit carries more weight than an internal reassurance, precisely because it removes the organisation's own interest from the judgment.",
+              "examples": [
+                { "french": "Nous nous engageons à publier un rapport de suivi tous les trimestres.", "english": "We commit to publishing a follow-up report every quarter." },
+                { "french": "Un audit indépendant a été commandé pour garantir l'objectivité du diagnostic.", "english": "An independent audit was commissioned to guarantee the objectivity of the diagnosis." },
+                { "french": "Rendre compte régulièrement vaut mieux qu'une promesse unique, vite oubliée.", "english": "Reporting back regularly is worth more than a single promise, soon forgotten." },
+                { "french": "La reddition de comptes n'est pas un aveu de faiblesse, c'est un gage de sérieux.", "english": "Accountability is not an admission of weakness, it is a sign of seriousness." }
+              ],
+              "tip": "\"Rendre compte\" (to report back, to be accountable) is not the same construction as \"se rendre compte\" (to realise) — the reflexive pronoun changes the meaning entirely."
+            },
+            {
+              "heading": "Le temps long — la patience et la constance",
+              "body": "Trust rebuilds on a different clock than a crisis breaks it: slowly, and only through consistency sustained well past the point where the story has left the headlines. Declaring victory too early is one of the most common and most damaging errors in this final phase — it invites exactly the scrutiny that a still-fragile reputation cannot yet survive.",
+              "examples": [
+                { "french": "La confiance se regagne lentement, geste après geste.", "english": "Trust is won back slowly, one gesture at a time." },
+                { "french": "Rien ne serait pire que de crier victoire trop tôt.", "english": "Nothing would be worse than declaring victory too soon." },
+                { "french": "Notre crédibilité se reconstruira sur la durée, pas sur un seul communiqué.", "english": "Our credibility will rebuild over time, not through a single statement." },
+                { "french": "La constance, plus que l'éclat, restaure une réputation.", "english": "Consistency, more than any grand gesture, restores a reputation." }
+              ],
+              "tip": "The moment a team feels ready to stop talking about a crisis is often the exact moment it should keep one more update on the calendar — relief is not the same as proof."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "reconstruire", "french": "reconstruire", "english": "to rebuild", "partOfSpeech": "verb", "pronunciation": "ruh-kon-STRWEER", "example": "Il faudra des mois pour reconstruire ce qui a été perdu en une soirée.", "exampleEnglish": "It will take months to rebuild what was lost in one evening.", "level": "C1", "category": "trust-repair" },
+            { "id": "la-confiance", "french": "la confiance", "english": "trust", "partOfSpeech": "noun", "gender": "f", "plural": "les confiances", "pronunciation": "lah kon-FYAHNSS", "example": "La confiance se regagne lentement, geste après geste.", "exampleEnglish": "Trust is won back slowly, one gesture at a time.", "level": "C1", "category": "trust-repair" },
+            { "id": "regagner", "french": "regagner", "english": "to win back", "partOfSpeech": "verb", "pronunciation": "ruh-gah-NYAY", "example": "Regagner la confiance des utilisateurs a pris presque un an.", "exampleEnglish": "Winning back users' trust took nearly a year.", "level": "C1", "category": "trust-repair" },
+            { "id": "retablir", "french": "rétablir", "english": "to restore, to re-establish", "partOfSpeech": "verb", "pronunciation": "ray-tah-BLEER", "example": "Rétablir le dialogue a demandé plus de temps que prévu.", "exampleEnglish": "Restoring dialogue took longer than expected.", "level": "C1", "category": "trust-repair" },
+            { "id": "la-reputation", "french": "la réputation", "english": "reputation", "partOfSpeech": "noun", "gender": "f", "plural": "les réputations", "pronunciation": "lah ray-pu-tah-SYON", "example": "Notre réputation s'est reconstruite sur la durée, pas sur un seul communiqué.", "exampleEnglish": "Our reputation rebuilt over time, not through a single statement.", "level": "C1", "category": "trust-repair" },
+            { "id": "entacher", "french": "entacher", "english": "to tarnish, to stain (a reputation)", "partOfSpeech": "verb", "pronunciation": "ahn-tah-SHAY", "example": "Cet épisode a entaché durablement l'image de l'entreprise.", "exampleEnglish": "This episode lastingly tarnished the company's image.", "level": "C1", "category": "trust-repair" },
+            { "id": "ternir", "french": "ternir", "english": "to tarnish, to dull", "partOfSpeech": "verb", "pronunciation": "tehr-NEER", "example": "La crise a terni une réputation bâtie en vingt ans.", "exampleEnglish": "The crisis tarnished a reputation built over twenty years.", "level": "C1", "category": "trust-repair" },
+            { "id": "redorer", "french": "redorer", "english": "to burnish, to polish (an image)", "partOfSpeech": "verb", "pronunciation": "ruh-doh-RAY", "example": "Ce n'est pas un seul geste qui redorera notre image, mais une constance.", "exampleEnglish": "It is not one single gesture that will polish our image, but consistency.", "level": "C1", "category": "trust-repair" },
+            { "id": "credibilite", "french": "la crédibilité", "english": "credibility", "partOfSpeech": "noun", "gender": "f", "plural": "les crédibilités", "pronunciation": "lah kray-dee-bee-lee-TAY", "example": "Notre crédibilité se reconstruira sur la durée, pas sur un seul communiqué.", "exampleEnglish": "Our credibility will rebuild over time, not through a single statement.", "level": "C1", "category": "trust-repair" },
+            { "id": "credible", "french": "crédible", "english": "credible", "partOfSpeech": "adjective", "pronunciation": "kray-DEE-bluh", "example": "Un engagement daté est plus crédible qu'une promesse vague.", "exampleEnglish": "A dated commitment is more credible than a vague promise.", "level": "C1", "category": "trust-repair" },
+            { "id": "une-mesure-corrective", "french": "une mesure corrective", "english": "a corrective measure", "partOfSpeech": "expression", "pronunciation": "ewn muh-ZUR ko-rek-TEEV", "example": "Nous avons mis en place des mesures correctives concrètes, avec un calendrier précis.", "exampleEnglish": "We have put in place concrete corrective measures, with a precise timeline.", "level": "C1", "category": "trust-repair" },
+            { "id": "corriger", "french": "corriger", "english": "to correct, to fix", "partOfSpeech": "verb", "pronunciation": "ko-ree-ZHAY", "example": "Nous avons corrigé la faille dans les quarante-huit heures.", "exampleEnglish": "We fixed the flaw within forty-eight hours.", "level": "C1", "category": "trust-repair" },
+            { "id": "s-engager", "french": "s'engager", "english": "to commit oneself", "partOfSpeech": "verb", "pronunciation": "sahn-gah-ZHAY", "example": "Nous nous engageons à publier un rapport de suivi tous les trimestres.", "exampleEnglish": "We commit to publishing a follow-up report every quarter.", "level": "C1", "category": "trust-repair" },
+            { "id": "l-engagement", "french": "l'engagement", "english": "commitment", "partOfSpeech": "noun", "gender": "m", "plural": "les engagements", "pronunciation": "lahn-gazh-MAHN", "example": "Chaque engagement pris doit être suivi d'un compte rendu public.", "exampleEnglish": "Every commitment made must be followed by a public account of progress.", "level": "C1", "category": "trust-repair" },
+            { "id": "tenir-parole", "french": "tenir parole", "english": "to keep one's word", "partOfSpeech": "expression", "pronunciation": "tuh-NEER pah-ROL", "example": "Tenir parole, ici, comptera plus que n'importe quel discours.", "exampleEnglish": "Keeping our word, here, will matter more than any speech.", "level": "C1", "category": "trust-repair" },
+            { "id": "promesse", "french": "la promesse", "english": "the promise", "partOfSpeech": "noun", "gender": "f", "plural": "promesses", "pronunciation": "lah proh-MESS", "example": "Rendre compte régulièrement vaut mieux qu'une promesse unique, vite oubliée.", "exampleEnglish": "Reporting back regularly is worth more than a single promise, soon forgotten.", "level": "C1", "category": "trust-repair" },
+            { "id": "un-suivi", "french": "un suivi", "english": "a follow-up", "partOfSpeech": "noun", "gender": "m", "plural": "des suivis", "pronunciation": "uhn swee-VEE", "example": "Un suivi trimestriel a été mis en place dès le premier mois.", "exampleEnglish": "A quarterly follow-up was put in place from the first month.", "level": "C1", "category": "trust-repair" },
+            { "id": "assurer-un-suivi", "french": "assurer un suivi", "english": "to ensure follow-through", "partOfSpeech": "expression", "pronunciation": "ah-su-RAY uhn swee-VEE", "example": "Assurer un suivi sérieux demande plus de discipline qu'un communiqué ponctuel.", "exampleEnglish": "Ensuring serious follow-through takes more discipline than a one-off statement.", "level": "C1", "category": "trust-repair" },
+            { "id": "la-transparence", "french": "la transparence", "english": "transparency", "partOfSpeech": "noun", "gender": "f", "plural": "les transparences", "pronunciation": "lah trahns-pah-RAHNSS", "example": "La transparence continue d'être notre seule ligne de conduite, un an après.", "exampleEnglish": "Transparency continues to be our only guiding rule, a year on.", "level": "C1", "category": "trust-repair" },
+            { "id": "rendre-compte", "french": "rendre compte", "english": "to report back, to be accountable", "partOfSpeech": "expression", "pronunciation": "RAHNDR kont", "example": "Rendre compte régulièrement vaut mieux qu'une promesse unique.", "exampleEnglish": "Reporting back regularly is worth more than a single promise.", "level": "C1", "category": "trust-repair" },
+            { "id": "la-reddition-de-comptes", "french": "la reddition de comptes", "english": "accountability, the rendering of accounts", "partOfSpeech": "expression", "pronunciation": "lah ray-dee-syon duh KONT", "example": "La reddition de comptes n'est pas un aveu de faiblesse, c'est un gage de sérieux.", "exampleEnglish": "Accountability is not an admission of weakness, it is a sign of seriousness.", "level": "C1", "category": "trust-repair" },
+            { "id": "un-audit", "french": "un audit", "english": "an audit", "partOfSpeech": "noun", "gender": "m", "plural": "des audits", "pronunciation": "uhn oh-DEET", "example": "Un audit indépendant a été commandé pour garantir l'objectivité du diagnostic.", "exampleEnglish": "An independent audit was commissioned to guarantee the objectivity of the diagnosis.", "level": "C1", "category": "trust-repair" },
+            { "id": "independant", "french": "indépendant", "english": "independent", "partOfSpeech": "adjective", "pronunciation": "an-day-pahn-DAHN", "example": "Un cabinet indépendant a validé chacune de nos mesures correctives.", "exampleEnglish": "An independent firm validated each of our corrective measures.", "level": "C1", "category": "trust-repair" },
+            { "id": "une-enquete-interne", "french": "une enquête interne", "english": "an internal investigation", "partOfSpeech": "expression", "pronunciation": "ewn ahn-KEHT an-TEHRN", "example": "Une enquête interne a permis d'établir les responsabilités exactes.", "exampleEnglish": "An internal investigation established exactly where responsibility lay.", "level": "C1", "category": "trust-repair" },
+            { "id": "tirer-les-lecons", "french": "tirer les leçons de", "english": "to learn the lessons from", "partOfSpeech": "expression", "pronunciation": "tee-RAY lay leh-SON duh", "example": "Nous avons tiré les leçons de cette crise, sans les enjoliver.", "exampleEnglish": "We learned the lessons of this crisis, without dressing them up.", "level": "C1", "category": "trust-repair" },
+            { "id": "une-lecon", "french": "une leçon", "english": "a lesson", "partOfSpeech": "noun", "gender": "f", "plural": "des leçons", "pronunciation": "ewn leh-SON", "example": "Chaque leçon tirée a donné lieu à une mesure concrète.", "exampleEnglish": "Every lesson learned led to a concrete measure.", "level": "C1", "category": "trust-repair" },
+            { "id": "progresser", "french": "progresser", "english": "to make progress", "partOfSpeech": "verb", "pronunciation": "proh-gray-SAY", "example": "Nous progressons, mais nous ne prétendons pas avoir tout résolu.", "exampleEnglish": "We are making progress, but we do not claim to have solved everything.", "level": "C1", "category": "trust-repair" },
+            { "id": "ameliorer", "french": "améliorer", "english": "to improve", "partOfSpeech": "verb", "pronunciation": "ah-may-lyo-RAY", "example": "Nous avons amélioré nos protocoles de sécurité en profondeur.", "exampleEnglish": "We thoroughly improved our security protocols.", "level": "C1", "category": "trust-repair" },
+            { "id": "une-amelioration", "french": "une amélioration", "english": "an improvement", "partOfSpeech": "noun", "gender": "f", "plural": "des améliorations", "pronunciation": "ewn ah-may-lyo-rah-SYON", "example": "Chaque amélioration a été détaillée dans notre rapport trimestriel.", "exampleEnglish": "Every improvement was detailed in our quarterly report.", "level": "C1", "category": "trust-repair" },
+            { "id": "a-long-terme", "french": "à long terme", "english": "in the long run, long-term", "partOfSpeech": "expression", "pronunciation": "ah lon TEHRM", "example": "À long terme, seule la constance restaure une réputation.", "exampleEnglish": "In the long run, only consistency restores a reputation.", "level": "C1", "category": "trust-repair" },
+            { "id": "consolider", "french": "consolider", "english": "to consolidate, to strengthen", "partOfSpeech": "verb", "pronunciation": "kon-so-lee-DAY", "example": "Chaque rapport publié consolide un peu plus la confiance retrouvée.", "exampleEnglish": "Every published report strengthens the trust regained a little more.", "level": "C1", "category": "trust-repair" },
+            { "id": "durable", "french": "durable", "english": "lasting, sustainable", "partOfSpeech": "adjective", "pronunciation": "dew-RAH-bluh", "example": "Une confiance durable se construit geste après geste, pas d'un seul coup.", "exampleEnglish": "Lasting trust is built one gesture at a time, not all at once.", "level": "C1", "category": "trust-repair" },
+            { "id": "patient", "french": "patient", "english": "patient", "partOfSpeech": "adjective", "pronunciation": "pah-SYAHN", "example": "Il faut rester patient : la confiance ne revient jamais du jour au lendemain.", "exampleEnglish": "You must stay patient: trust never returns overnight.", "level": "C1", "category": "trust-repair" },
+            { "id": "la-patience", "french": "la patience", "english": "patience", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah pah-SYAHNS", "example": "La patience compte autant que la méthode dans cette phase.", "exampleEnglish": "Patience matters as much as method in this phase.", "level": "C1", "category": "trust-repair" },
+            { "id": "la-constance", "french": "la constance", "english": "consistency, steadfastness", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah kon-STAHNSS", "example": "La constance, plus que l'éclat, restaure une réputation.", "exampleEnglish": "Consistency, more than any grand gesture, restores a reputation.", "level": "C1", "category": "trust-repair" },
+            { "id": "constant", "french": "constant", "english": "consistent, steady", "partOfSpeech": "adjective", "pronunciation": "kon-STAHN", "example": "Un effort constant vaut mieux qu'un sursaut spectaculaire.", "exampleEnglish": "A steady effort is worth more than a spectacular burst of activity.", "level": "C1", "category": "trust-repair" },
+            { "id": "crier-victoire", "french": "crier victoire", "english": "to declare victory", "partOfSpeech": "expression", "pronunciation": "kree-AY veek-TWAHR", "example": "Rien ne serait pire que de crier victoire trop tôt.", "exampleEnglish": "Nothing would be worse than declaring victory too soon.", "level": "C1", "category": "trust-repair" },
+            { "id": "la-bonne-foi", "french": "la bonne foi", "english": "good faith", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lah bun FWAH", "example": "Publier chaque rapport, même décevant, est un gage de bonne foi.", "exampleEnglish": "Publishing every report, even a disappointing one, is a sign of good faith.", "level": "C1", "category": "trust-repair" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Le futur antérieur — projeter la confiance retrouvée",
+              "body": "The futur antérieur describes an action that will be complete before another future point — exactly the shape of a trust-repair timeline, where each milestone only matters once it is finished. \"Quand l'audit aura été rendu public\" places the audience in a future where judgment is finally possible, because the evidence, by then, already exists.",
+              "examples": [
+                { "french": "Nous aurons publié trois rapports de suivi avant la fin de l'année.", "english": "We will have published three follow-up reports before the end of the year." },
+                { "french": "Quand l'audit aura été rendu public, chacun pourra juger sur pièces.", "english": "Once the audit has been made public, everyone will be able to judge for themselves." },
+                { "french": "La confiance ne sera restaurée que lorsque les faits auront été vérifiés.", "english": "Trust will only be restored once the facts have been verified." },
+                { "french": "Une fois les mesures correctives mises en œuvre, nous referons un point complet.", "english": "Once the corrective measures have been implemented, we will do a full review." }
+              ],
+              "tip": "The futur antérieur lets you promise a future without pretending it has already arrived — it names the finish line precisely, instead of vaguely gesturing toward \"soon\"."
+            },
+            {
+              "heading": "Plus... plus... et à condition que — la confiance est proportionnelle à l'effort",
+              "body": "The correlative structure \"plus... plus...\" (the more... the more...) lets a C1 speaker state, almost mathematically, that trust scales with visible effort — it is a way of setting expectations honestly rather than promising an instant fix. \"À condition que\" (+ subjunctive) makes that same proportionality explicit as a condition, not a hope.",
+              "examples": [
+                { "french": "Plus les preuves seront nombreuses, plus la confiance reviendra vite.", "english": "The more evidence there is, the faster trust will return." },
+                { "french": "La réputation ne se redressera qu'à condition que les engagements soient tenus.", "english": "The reputation will only recover provided the commitments are kept." },
+                { "french": "Moins nous communiquerons sur ce sujet, plus les doutes persisteront.", "english": "The less we communicate on this subject, the longer doubts will persist." },
+                { "french": "À condition de rester constants, nous regagnerons ce que nous avons perdu.", "english": "Provided we remain consistent, we will win back what we lost." }
+              ],
+              "tip": "\"À condition que\" takes the subjunctive; its cousin \"à condition de\" takes the infinitive when the subject of both clauses is the same — do not mix the two constructions."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "c1_u22_l03_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What point is this sentence making?",
+              "french": "La confiance ne se restaure pas par une phrase, mais par une série de preuves.",
+              "options": ["Trust is rebuilt through repeated proof, not a single statement", "One good sentence is enough to rebuild trust", "Trust cannot be rebuilt once lost", "Proof matters less than a sincere tone"],
+              "answer": "Trust is rebuilt through repeated proof, not a single statement"
+            },
+            {
+              "id": "c1_u22_l03_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. What tense is used, and why?",
+              "french": "Quand l'audit aura été rendu public, chacun pourra juger sur pièces.",
+              "options": ["The futur antérieur, to mark an action completed before a future point", "The imperative, to give an order", "The passé simple, for a literary narration", "The present tense, for a general truth"],
+              "answer": "The futur antérieur, to mark an action completed before a future point"
+            },
+            {
+              "id": "c1_u22_l03_li03",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "La confiance se regagne lentement, geste après geste.",
+              "answer": "La confiance se regagne lentement, geste après geste.",
+              "acceptedAnswers": ["la confiance se regagne lentement, geste apres geste", "la confiance se regagne lentement geste apres geste"]
+            },
+            {
+              "id": "c1_u22_l03_li04",
+              "type": "dictation",
+              "prompt": "Dictation: write exactly what you hear.",
+              "french": "Rien ne serait pire que de crier victoire trop tôt.",
+              "answer": "Rien ne serait pire que de crier victoire trop tôt.",
+              "acceptedAnswers": ["rien ne serait pire que de crier victoire trop tot"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "c1_u22_l03_sp01",
+              "type": "speak",
+              "prompt": "Explain that apologies alone are not enough to rebuild trust.",
+              "french": "Des excuses ne suffisent pas ; il faut des actes qui les prouvent.",
+              "english": "Apologies are not enough; they need actions to prove them.",
+              "tip": "Slow down slightly on 'des actes qui les prouvent' — the sentence's whole weight rests on that final phrase."
+            },
+            {
+              "id": "c1_u22_l03_sp02",
+              "type": "speak",
+              "prompt": "State a firm, dated commitment about future reporting.",
+              "french": "Nous nous engageons à publier un rapport de suivi tous les trimestres.",
+              "english": "We commit to publishing a follow-up report every quarter.",
+              "tip": "Say 'tous les trimestres' plainly and without hesitation — specificity, not enthusiasm, is what makes this line credible."
+            },
+            {
+              "id": "c1_u22_l03_sp03",
+              "type": "speak",
+              "prompt": "Warn against declaring victory too soon in a recovery process.",
+              "french": "Rien ne serait pire que de crier victoire trop tôt.",
+              "english": "Nothing would be worse than declaring victory too soon.",
+              "tip": "Let 'trop tôt' land with a touch of caution in your voice — the sentence is a warning to your own team as much as to the public."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Un an après",
+              "french": "Un an, presque jour pour jour, après la défaillance qui avait exposé les données de milliers d'utilisateurs, Solenne présenta le quatrième rapport de suivi de NordTech devant un parterre de journalistes, dont Inès Kader, redevenue simple observatrice.\n« Nous aurons publié quatre rapports de suivi d'ici la fin de la semaine, commença Solenne. Chacun a été relu par un cabinet indépendant avant diffusion. »\nElle présenta les mesures correctives une à une : un nouveau protocole de sécurité, une cellule de veille permanente, une procédure d'alerte réduite à moins d'une heure.\n« L'audit indépendant a validé chacune de ces mesures, précisa-t-elle. Ce n'est pas nous qui l'affirmons ; ce sont les données qui le montrent. »\nUn journaliste l'interrompit : « Considérez-vous la crise comme terminée ? »\n« Rien ne serait pire que de crier victoire trop tôt, répondit Solenne sans hésiter. Notre crédibilité se reconstruira sur la durée, pas sur un seul rapport, aussi complet soit-il. »\nInès, silencieuse depuis le début, leva enfin la main. « Qu'avez-vous appris de cette année ? »\n« Que la patience compte autant que la méthode, répondit Solenne après un instant. Et que la constance, plus que l'éclat, restaure une réputation. »\nÀ la sortie, un utilisateur interrogé par une chaîne locale résuma, sans le savoir, l'essentiel : « Je ne leur fais pas encore entièrement confiance. Mais je reconnais qu'ils ont tenu parole, mois après mois. »\nCe n'était pas encore une victoire. C'était, exactement, ce que Solenne avait visé depuis le premier soir.",
+              "english": "One year, almost to the day, after the failure that had exposed the data of thousands of users, Solenne presented NordTech's fourth follow-up report before a room full of journalists, including Inès Kader, now merely an observer.\n\"We will have published four follow-up reports by the end of the week,\" Solenne began. \"Each one was reviewed by an independent firm before release.\"\nShe presented the corrective measures one by one: a new security protocol, a permanent monitoring unit, an alert procedure reduced to under an hour.\n\"The independent audit validated each of these measures,\" she specified. \"It is not us saying so; it is the data that shows it.\"\nA journalist interrupted her. \"Do you consider the crisis over?\"\n\"Nothing would be worse than declaring victory too soon,\" Solenne replied without hesitation. \"Our credibility will rebuild over time, not through a single report, however thorough it may be.\"\nInès, silent until then, finally raised her hand. \"What have you learned from this year?\"\n\"That patience matters as much as method,\" Solenne answered after a moment. \"And that consistency, more than any grand gesture, restores a reputation.\"\nOn the way out, a user interviewed by a local channel unknowingly summed up the essential point: \"I don't fully trust them yet. But I recognise they have kept their word, month after month.\"\nIt was not yet a victory. It was, exactly, what Solenne had aimed for since the very first evening.",
+              "questions": [
+                {
+                  "id": "c1_u22_l03_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Why does Solenne refuse to say the crisis is over?",
+                  "options": ["Because declaring victory too soon would undermine the still-fragile trust", "Because the audit found new problems", "Because she personally dislikes journalists", "Because the corrective measures failed"],
+                  "answer": "Because declaring victory too soon would undermine the still-fragile trust"
+                },
+                {
+                  "id": "c1_u22_l03_rd02",
+                  "type": "multipleChoice",
+                  "prompt": "What does the interviewed user's comment illustrate?",
+                  "options": ["Trust is returning gradually, through consistent follow-through, not fully yet", "The user has completely regained trust in NordTech", "The user still believes the original rumour", "The user works for NordTech"],
+                  "answer": "Trust is returning gradually, through consistent follow-through, not fully yet"
+                },
+                {
+                  "id": "c1_u22_l03_rd03",
+                  "type": "trueFalse",
+                  "prompt": "True or false: the corrective measures were validated only by NordTech itself, with no outside review.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "c1_u22_l03_wr01",
+              "type": "translate",
+              "prompt": "Translate: \"Trust is won back slowly, one gesture at a time.\"",
+              "english": "Trust is won back slowly, one gesture at a time.",
+              "answer": "La confiance se regagne lentement, geste après geste.",
+              "acceptedAnswers": ["la confiance se regagne lentement, geste apres geste", "la confiance se regagne lentement geste apres geste"]
+            },
+            {
+              "id": "c1_u22_l03_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "Nothing would be worse than declaring victory too soon.",
+              "words": ["Rien", "ne", "serait", "pire", "que", "de", "crier", "victoire", "trop", "tôt"],
+              "answer": "Rien ne serait pire que de crier victoire trop tôt"
+            },
+            {
+              "id": "c1_u22_l03_wr03",
+              "type": "fillBlank",
+              "prompt": "Complete with the futur antérieur: \"Nous ___ trois rapports de suivi avant la fin de l'année.\" (will have published)",
+              "answer": "aurons publié",
+              "hint": "Futur simple of 'avoir' + past participle."
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "c1_u22_l03_pr01",
+              "type": "multipleChoice",
+              "prompt": "Which sentence best expresses that trust repair takes concrete action, not just words?",
+              "options": ["Des excuses ne suffisent pas ; il faut des actes qui les prouvent.", "Une seule excuse suffit largement.", "Il n'est jamais nécessaire de s'expliquer davantage.", "Le silence règle toujours les crises."],
+              "answer": "Des excuses ne suffisent pas ; il faut des actes qui les prouvent."
+            },
+            {
+              "id": "c1_u22_l03_pr02",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Un audit ___ a été commandé pour garantir l'objectivité du diagnostic.\" (independent)",
+              "answer": "indépendant",
+              "hint": "Adjective meaning 'independent', agreeing with 'audit' (masculine)."
+            },
+            {
+              "id": "c1_u22_l03_pr03",
+              "type": "match",
+              "prompt": "Match each word with its meaning.",
+              "pairs": [
+                { "french": "la reddition de comptes", "english": "accountability" },
+                { "french": "une mesure corrective", "english": "a corrective measure" },
+                { "french": "la constance", "english": "consistency, steadfastness" },
+                { "french": "crier victoire", "english": "to declare victory" }
+              ]
+            },
+            {
+              "id": "c1_u22_l03_pr04",
+              "type": "multipleChoice",
+              "prompt": "Why does the lesson warn against declaring victory too early?",
+              "options": ["Because it invites scrutiny a still-fragile reputation cannot yet survive", "Because it is grammatically incorrect to do so", "Because journalists always ignore it", "Because it costs too much money"],
+              "answer": "Because it invites scrutiny a still-fragile reputation cannot yet survive"
+            },
+            {
+              "id": "c1_u22_l03_pr05",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "Consistency, more than any grand gesture, restores a reputation.",
+              "words": ["La", "constance", "plus", "que", "l'éclat", "restaure", "une", "réputation"],
+              "answer": "La constance plus que l'éclat restaure une réputation"
+            },
+            {
+              "id": "c1_u22_l03_pr06",
+              "type": "translate",
+              "prompt": "Translate: \"Every commitment made must be followed by a public account of progress.\"",
+              "english": "Every commitment made must be followed by a public account of progress.",
+              "answer": "Chaque engagement pris doit être suivi d'un compte rendu public.",
+              "acceptedAnswers": ["chaque engagement pris doit etre suivi d'un compte rendu public", "chaque engagement pris doit etre suivi d un compte rendu public"]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "c1_u22_l03_qz01",
+              "type": "multipleChoice",
+              "prompt": "According to the lesson, what actually rebuilds trust after a crisis?",
+              "options": ["A series of concrete, verifiable actions over time", "A single well-worded apology", "Waiting for the story to be forgotten", "Changing the company's name"],
+              "answer": "A series of concrete, verifiable actions over time"
+            },
+            {
+              "id": "c1_u22_l03_qz02",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Nous nous ___ à publier un rapport de suivi tous les trimestres.\" (commit)",
+              "answer": "engageons"
+            },
+            {
+              "id": "c1_u22_l03_qz03",
+              "type": "multipleChoice",
+              "prompt": "What does \"rendre compte\" mean here?",
+              "options": ["To report back, to be accountable", "To realise something", "To give change (money)", "To refuse a request"],
+              "answer": "To report back, to be accountable"
+            },
+            {
+              "id": "c1_u22_l03_qz04",
+              "type": "trueFalse",
+              "prompt": "True or false: the futur antérieur describes an action that will be completed before a future reference point.",
+              "options": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "c1_u22_l03_qz05",
+              "type": "multipleChoice",
+              "prompt": "Why is an independent audit more persuasive than an internal reassurance?",
+              "options": ["It removes the organisation's own interest from the judgment", "It is always faster to complete", "It costs less than an internal review", "It requires no evidence"],
+              "answer": "It removes the organisation's own interest from the judgment"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

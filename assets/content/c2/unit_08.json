@@ -1,0 +1,2504 @@
+{
+  "id": "c2_u08",
+  "level": "C2",
+  "unit": 8,
+  "title": "Academic Publishing",
+  "subtitle": "Write, review and defend research in French",
+  "icon": "📄",
+  "lessons": [
+    {
+      "id": "c2_u08_l01",
+      "level": "C2",
+      "unit": 8,
+      "title": "L'article de recherche",
+      "description": "The anatomy of a French research article: the sections editors expect, the impersonal voice, and the critical apparatus that carries your credibility.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "L'architecture attendue",
+              "body": "A French research article follows a recognisable skeleton, but the labels differ from English ones. What Anglophones call the abstract is le résumé, followed by les mots-clés. The literature review is rarely a standalone section: it is folded into an introduction that must end on a clearly stated problématique — the research question, formulated as a tension, not as a topic. French reviewers read that one sentence first.",
+              "examples": [
+                { "french": "Cet article se propose d'examiner la circulation des manuels scolaires entre 1880 et 1914.", "english": "This article sets out to examine the circulation of school textbooks between 1880 and 1914.", "note": "Standard opening formula: se proposer de + infinitive." },
+                { "french": "La problématique retenue peut se formuler ainsi : comment concilier accessibilité et rigueur ?", "english": "The research question adopted may be formulated as follows: how can accessibility and rigour be reconciled?" },
+                { "french": "L'état de l'art révèle une lacune que le présent travail entend combler.", "english": "The state of the art reveals a gap that the present work intends to fill.", "note": "le présent travail = this study; formal self-reference." },
+                { "french": "La deuxième partie expose le protocole retenu et la constitution du corpus.", "english": "The second part sets out the protocol adopted and the assembly of the corpus." },
+                { "french": "Les résultats sont discutés à l'aune des hypothèses initiales.", "english": "The results are discussed in the light of the initial hypotheses.", "note": "à l'aune de = by the yardstick of; very common in academic prose." }
+              ],
+              "tip": "French articles often announce their own plan at the end of the introduction. Skipping that paragraph reads as amateurish to a French reviewer."
+            },
+            {
+              "heading": "Qui parle dans un article ?",
+              "body": "The first person singular is not forbidden in French research writing, but it is marked. In the humanities je is acceptable and even expected when you take a position; in the hard sciences nous (a modest plural, even for a single author) or fully impersonal constructions dominate. On is common in French where English would use the passive. Choose one voice and hold it for the whole article.",
+              "examples": [
+                { "french": "Nous montrerons que cette hypothèse ne résiste pas à l'examen des sources.", "english": "We shall show that this hypothesis does not survive an examination of the sources.", "note": "nous de modestie — used even by a single author." },
+                { "french": "On observe une corrélation nette entre les deux variables.", "english": "A clear correlation is observed between the two variables." },
+                { "french": "Il ressort de ces données que le phénomène est saisonnier.", "english": "It emerges from these data that the phenomenon is seasonal." },
+                { "french": "Je fais ici le choix délibéré de traiter le pamphlet comme un genre à part entière.", "english": "I make here the deliberate choice of treating the pamphlet as a genre in its own right.", "note": "je is acceptable in the humanities when a methodological choice is claimed." },
+                { "french": "Il convient de préciser que l'échantillon n'a rien de représentatif.", "english": "It should be made clear that the sample is in no way representative." }
+              ],
+              "tip": "Mixing je and nous inside one article is the single most frequent style complaint from French reviewers."
+            },
+            {
+              "heading": "L'appareil critique",
+              "body": "L'appareil critique is the whole scaffolding of notes, references and bibliography — and French journals are famously exacting about it. Notes go de bas de page (at the foot of the page) far more often than in English journals, and they carry real argument, not just sources. A renvoi points the reader elsewhere in your own text; a citation must be exact, in quotation marks or set off as a bloc if longer than three lines.",
+              "examples": [
+                { "french": "Voir la note de bas de page 12 pour la discussion de ce point.", "english": "See footnote 12 for the discussion of this point." },
+                { "french": "Nous renvoyons le lecteur à l'annexe II, où figure le tableau complet.", "english": "We refer the reader to Appendix II, where the full table appears." },
+                { "french": "La citation est donnée dans sa graphie d'origine, sans modernisation.", "english": "The quotation is given in its original spelling, without modernisation." },
+                { "french": "Toute référence incomplète sera retournée à l'auteur avant mise en page.", "english": "Any incomplete reference will be sent back to the author before typesetting." },
+                { "french": "La bibliographie ne recense que les ouvrages effectivement cités.", "english": "The bibliography lists only works actually cited.", "note": "recenser = to list, to survey exhaustively." }
+              ],
+              "tip": "In French usage, ibid. and op. cit. are still alive and well; check the journal's feuille de style before you invent your own system."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            {
+              "id": "article-de-recherche",
+              "french": "l'article de recherche",
+              "english": "the research article, the research paper",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les articles de recherche",
+              "pronunciation": "lar-TEEKL duh ruh-SHERSH",
+              "example": "Un article de recherche se juge autant sur sa problématique que sur ses résultats.",
+              "exampleEnglish": "A research article is judged as much on its research question as on its results.",
+              "level": "C2",
+              "category": "publishing"
+            },
+            {
+              "id": "revue-scientifique",
+              "french": "la revue scientifique",
+              "english": "the scholarly journal",
+              "partOfSpeech": "noun",
+              "gender": "f",
+              "plural": "les revues scientifiques",
+              "pronunciation": "lah ruh-VEW syahn-tee-FEEK",
+              "example": "Cette revue scientifique publie quatre numéros par an, dont un thématique.",
+              "exampleEnglish": "This scholarly journal publishes four issues a year, one of them thematic.",
+              "level": "C2",
+              "category": "publishing"
+            },
+            {
+              "id": "periodique",
+              "french": "le périodique",
+              "english": "the periodical",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les périodiques",
+              "pronunciation": "luh pay-ryo-DEEK",
+              "example": "La bibliothèque conserve ce périodique depuis sa fondation en 1947.",
+              "exampleEnglish": "The library has kept this periodical since its founding in 1947.",
+              "level": "C2",
+              "category": "publishing"
+            },
+            {
+              "id": "le-resume",
+              "french": "le résumé",
+              "english": "the abstract, the summary",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les résumés",
+              "pronunciation": "luh ray-zew-MAY",
+              "example": "Le résumé ne doit pas excéder mille cinq cents signes, espaces comprises.",
+              "exampleEnglish": "The abstract must not exceed one thousand five hundred characters, spaces included.",
+              "level": "C2",
+              "category": "publishing"
+            },
+            {
+              "id": "mots-cles",
+              "french": "les mots-clés",
+              "english": "the keywords",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les mots-clés",
+              "pronunciation": "lay mo-KLAY",
+              "example": "Choisissez des mots-clés qui figurent réellement dans le texte.",
+              "exampleEnglish": "Choose keywords that actually appear in the text.",
+              "level": "C2",
+              "category": "publishing"
+            },
+            {
+              "id": "la-problematique",
+              "french": "la problématique",
+              "english": "the research question, the central problem",
+              "partOfSpeech": "noun",
+              "gender": "f",
+              "plural": "les problématiques",
+              "pronunciation": "lah pro-blay-mah-TEEK",
+              "example": "Une problématique bien posée tient en une seule phrase interrogative.",
+              "exampleEnglish": "A well-framed research question fits into a single interrogative sentence.",
+              "level": "C2",
+              "category": "publishing"
+            },
+            {
+              "id": "etat-de-l-art",
+              "french": "l'état de l'art",
+              "english": "the state of the art, the literature review",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les états de l'art",
+              "pronunciation": "lay-TAH duh LAR",
+              "example": "L'état de l'art occupe ici trois pages, ce qui est déjà beaucoup.",
+              "exampleEnglish": "The literature review takes up three pages here, which is already a lot.",
+              "level": "C2",
+              "category": "publishing"
+            },
+            {
+              "id": "l-hypothese",
+              "french": "l'hypothèse",
+              "english": "the hypothesis",
+              "partOfSpeech": "noun",
+              "gender": "f",
+              "plural": "les hypothèses",
+              "pronunciation": "lee-po-TEZ",
+              "example": "L'hypothèse de départ s'est révélée intenable dès la deuxième série de mesures.",
+              "exampleEnglish": "The initial hypothesis proved untenable from the second round of measurements onward.",
+              "level": "C2",
+              "category": "publishing"
+            },
+            {
+              "id": "le-corpus",
+              "french": "le corpus",
+              "english": "the corpus, the body of material studied",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les corpus",
+              "pronunciation": "luh kor-PEWSS",
+              "example": "Le corpus réunit quatre-vingts lettres inédites conservées aux archives départementales.",
+              "exampleEnglish": "The corpus brings together eighty unpublished letters held in the departmental archives.",
+              "level": "C2",
+              "category": "publishing"
+            },
+            {
+              "id": "methodologie",
+              "french": "la méthodologie",
+              "english": "the methodology",
+              "partOfSpeech": "noun",
+              "gender": "f",
+              "plural": "les méthodologies",
+              "pronunciation": "lah may-to-do-lo-ZHEE",
+              "example": "La méthodologie est décrite avec assez de détail pour être reproduite.",
+              "exampleEnglish": "The methodology is described in enough detail to be reproduced.",
+              "level": "C2",
+              "category": "publishing"
+            },
+            {
+              "id": "le-protocole",
+              "french": "le protocole",
+              "english": "the protocol, the experimental procedure",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les protocoles",
+              "pronunciation": "luh pro-to-KOL",
+              "example": "Le protocole a été légèrement modifié après la campagne pilote.",
+              "exampleEnglish": "The protocol was slightly modified after the pilot round.",
+              "level": "C2",
+              "category": "publishing"
+            },
+            {
+              "id": "echantillon",
+              "french": "l'échantillon",
+              "english": "the sample",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les échantillons",
+              "pronunciation": "lay-shahn-tee-YOHN",
+              "example": "L'échantillon compte deux cent quarante répondants, tous volontaires.",
+              "exampleEnglish": "The sample comprises two hundred and forty respondents, all volunteers.",
+              "level": "C2",
+              "category": "publishing"
+            },
+            {
+              "id": "le-resultat",
+              "french": "le résultat",
+              "english": "the result, the finding",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les résultats",
+              "pronunciation": "luh ray-zewl-TAH",
+              "example": "Aucun résultat ne parle de lui-même : il faut l'interpréter.",
+              "exampleEnglish": "No result speaks for itself: it has to be interpreted.",
+              "level": "C2",
+              "category": "publishing"
+            },
+            {
+              "id": "la-discussion",
+              "french": "la discussion",
+              "english": "the discussion (section)",
+              "partOfSpeech": "noun",
+              "gender": "f",
+              "plural": "les discussions",
+              "pronunciation": "lah dee-skew-SYOHN",
+              "example": "C'est dans la discussion que l'auteur reconnaît enfin les limites de son enquête.",
+              "exampleEnglish": "It is in the discussion that the author finally acknowledges the limits of his survey.",
+              "level": "C2",
+              "category": "publishing"
+            },
+            {
+              "id": "la-conclusion",
+              "french": "la conclusion",
+              "english": "the conclusion",
+              "partOfSpeech": "noun",
+              "gender": "f",
+              "plural": "les conclusions",
+              "pronunciation": "lah kohn-klew-ZYOHN",
+              "example": "La conclusion ouvre sur une piste de recherche encore inexplorée.",
+              "exampleEnglish": "The conclusion opens onto a line of research still unexplored.",
+              "level": "C2",
+              "category": "publishing"
+            },
+            {
+              "id": "bibliographie",
+              "french": "la bibliographie",
+              "english": "the bibliography",
+              "partOfSpeech": "noun",
+              "gender": "f",
+              "plural": "les bibliographies",
+              "pronunciation": "lah bee-blee-o-grah-FEE",
+              "example": "Sa bibliographie ignore superbement tout ce qui a été publié après 2015.",
+              "exampleEnglish": "His bibliography splendidly ignores everything published after 2015.",
+              "level": "C2",
+              "category": "publishing"
+            },
+            {
+              "id": "la-reference",
+              "french": "la référence",
+              "english": "the reference",
+              "partOfSpeech": "noun",
+              "gender": "f",
+              "plural": "les références",
+              "pronunciation": "lah ray-fay-RAHNSS",
+              "example": "Deux références manquent de pagination et seront réclamées à l'auteur.",
+              "exampleEnglish": "Two references lack page numbers and will be requested from the author.",
+              "level": "C2",
+              "category": "publishing"
+            },
+            {
+              "id": "la-citation",
+              "french": "la citation",
+              "english": "the quotation",
+              "partOfSpeech": "noun",
+              "gender": "f",
+              "plural": "les citations",
+              "pronunciation": "lah see-tah-SYOHN",
+              "example": "Une citation de plus de trois lignes se compose en retrait, sans guillemets.",
+              "exampleEnglish": "A quotation of more than three lines is set as an indented block, without quotation marks.",
+              "level": "C2",
+              "category": "publishing"
+            },
+            {
+              "id": "note-de-bas-de-page",
+              "french": "la note de bas de page",
+              "english": "the footnote",
+              "partOfSpeech": "noun",
+              "gender": "f",
+              "plural": "les notes de bas de page",
+              "pronunciation": "lah NOT duh bah duh PAHZH",
+              "example": "Sa note de bas de page contient un argument que le corps du texte n'ose pas assumer.",
+              "exampleEnglish": "His footnote contains an argument that the body of the text does not dare to own.",
+              "level": "C2",
+              "category": "publishing"
+            },
+            {
+              "id": "appareil-critique",
+              "french": "l'appareil critique",
+              "english": "the critical apparatus (notes, sources, variants)",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les appareils critiques",
+              "pronunciation": "lah-pah-REY kree-TEEK",
+              "example": "L'appareil critique de cette édition pèse plus lourd que le texte lui-même.",
+              "exampleEnglish": "The critical apparatus of this edition weighs more than the text itself.",
+              "level": "C2",
+              "category": "publishing"
+            },
+            {
+              "id": "renvoi",
+              "french": "le renvoi",
+              "english": "the cross-reference",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les renvois",
+              "pronunciation": "luh rahn-VWAH",
+              "example": "Un renvoi à la section précédente éviterait cette répétition.",
+              "exampleEnglish": "A cross-reference to the previous section would avoid this repetition.",
+              "level": "C2",
+              "category": "publishing"
+            },
+            {
+              "id": "annexe",
+              "french": "l'annexe",
+              "english": "the appendix",
+              "partOfSpeech": "noun",
+              "gender": "f",
+              "plural": "les annexes",
+              "pronunciation": "lah-NEKS",
+              "example": "Les questionnaires bruts sont reportés en annexe pour ne pas alourdir le texte.",
+              "exampleEnglish": "The raw questionnaires are placed in an appendix so as not to weigh down the text.",
+              "level": "C2",
+              "category": "publishing"
+            },
+            {
+              "id": "la-legende",
+              "french": "la légende",
+              "english": "the caption (of a figure or table)",
+              "partOfSpeech": "noun",
+              "gender": "f",
+              "plural": "les légendes",
+              "pronunciation": "lah lay-ZHAHND",
+              "example": "Chaque figure doit porter une légende autonome, compréhensible sans le texte.",
+              "exampleEnglish": "Each figure must carry a self-contained caption, understandable without the text.",
+              "level": "C2",
+              "category": "publishing"
+            },
+            {
+              "id": "intertitre",
+              "french": "l'intertitre",
+              "english": "the subheading",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les intertitres",
+              "pronunciation": "lahn-ter-TEETR",
+              "example": "Vos intertitres sont des étiquettes ; faites-en de vraies annonces d'argument.",
+              "exampleEnglish": "Your subheadings are labels; turn them into genuine announcements of argument.",
+              "level": "C2",
+              "category": "publishing"
+            },
+            {
+              "id": "alinea",
+              "french": "l'alinéa",
+              "english": "the paragraph (as a typographic unit)",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les alinéas",
+              "pronunciation": "lah-lee-nay-AH",
+              "example": "Le troisième alinéa de la page 4 contredit le premier.",
+              "exampleEnglish": "The third paragraph on page 4 contradicts the first.",
+              "level": "C2",
+              "category": "publishing"
+            },
+            {
+              "id": "comite-de-lecture",
+              "french": "le comité de lecture",
+              "english": "the editorial reading committee",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les comités de lecture",
+              "pronunciation": "luh ko-mee-TAY duh lek-TEWR",
+              "example": "Seules les revues à comité de lecture comptent pour l'évaluation.",
+              "exampleEnglish": "Only peer-reviewed journals count for the assessment.",
+              "level": "C2",
+              "category": "publishing"
+            },
+            {
+              "id": "l-editeur",
+              "french": "l'éditeur",
+              "english": "the editor, the publisher",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les éditeurs",
+              "pronunciation": "lay-dee-TEUR",
+              "example": "L'éditeur scientifique tranche quand les deux rapports se contredisent.",
+              "exampleEnglish": "The academic editor decides when the two reports contradict each other.",
+              "level": "C2",
+              "category": "publishing"
+            },
+            {
+              "id": "le-manuscrit",
+              "french": "le manuscrit",
+              "english": "the manuscript (submitted text)",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les manuscrits",
+              "pronunciation": "luh mah-new-SKREE",
+              "example": "Le manuscrit a été anonymisé avant d'être transmis aux relecteurs.",
+              "exampleEnglish": "The manuscript was anonymised before being sent to the reviewers.",
+              "level": "C2",
+              "category": "publishing"
+            },
+            {
+              "id": "tapuscrit",
+              "french": "le tapuscrit",
+              "english": "the typescript",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les tapuscrits",
+              "pronunciation": "luh tah-pew-SKREE",
+              "example": "On dit encore tapuscrit pour un texte dactylographié, jamais imprimé.",
+              "exampleEnglish": "One still says typescript for a typed text that has never been printed.",
+              "level": "C2",
+              "category": "publishing"
+            },
+            {
+              "id": "soumettre",
+              "french": "soumettre",
+              "english": "to submit (a paper)",
+              "partOfSpeech": "verb",
+              "pronunciation": "soo-METR",
+              "example": "Il a soumis le même texte à trois revues, ce qui est proscrit.",
+              "exampleEnglish": "He submitted the same text to three journals, which is prohibited.",
+              "level": "C2",
+              "category": "publishing"
+            },
+            {
+              "id": "soumission",
+              "french": "la soumission",
+              "english": "the submission",
+              "partOfSpeech": "noun",
+              "gender": "f",
+              "plural": "les soumissions",
+              "pronunciation": "lah soo-mee-SYOHN",
+              "example": "La soumission se fait par la plateforme, jamais par courriel direct.",
+              "exampleEnglish": "Submission is made through the platform, never by direct email.",
+              "level": "C2",
+              "category": "publishing"
+            },
+            {
+              "id": "publier",
+              "french": "publier",
+              "english": "to publish",
+              "partOfSpeech": "verb",
+              "pronunciation": "pew-blee-AY",
+              "example": "Publier vite et mal reste plus dommageable que ne rien publier du tout.",
+              "exampleEnglish": "Publishing fast and badly remains more damaging than publishing nothing at all.",
+              "level": "C2",
+              "category": "publishing"
+            },
+            {
+              "id": "parution",
+              "french": "la parution",
+              "english": "the publication, the appearance in print",
+              "partOfSpeech": "noun",
+              "gender": "f",
+              "plural": "les parutions",
+              "pronunciation": "lah pah-rew-SYOHN",
+              "example": "La parution est prévue pour le numéro d'automne, sauf retard d'impression.",
+              "exampleEnglish": "Publication is scheduled for the autumn issue, barring a printing delay.",
+              "level": "C2",
+              "category": "publishing"
+            },
+            {
+              "id": "inedit",
+              "french": "inédit",
+              "english": "unpublished, previously unseen",
+              "partOfSpeech": "adjective",
+              "pronunciation": "ee-nay-DEE",
+              "example": "Ces carnets inédits changent la datation de l'ensemble du dossier.",
+              "exampleEnglish": "These unpublished notebooks change the dating of the whole file.",
+              "level": "C2",
+              "category": "publishing"
+            },
+            {
+              "id": "contribution",
+              "french": "la contribution",
+              "english": "the contribution (to knowledge)",
+              "partOfSpeech": "noun",
+              "gender": "f",
+              "plural": "les contributions",
+              "pronunciation": "lah kohn-tree-bew-SYOHN",
+              "example": "Quelle est, au juste, la contribution originale de ce travail ?",
+              "exampleEnglish": "What exactly is the original contribution of this work?",
+              "level": "C2",
+              "category": "publishing"
+            },
+            {
+              "id": "la-portee",
+              "french": "la portée",
+              "english": "the scope, the significance",
+              "partOfSpeech": "noun",
+              "gender": "f",
+              "plural": "les portées",
+              "pronunciation": "lah por-TAY",
+              "example": "L'auteur surestime la portée de conclusions tirées d'un seul terrain.",
+              "exampleEnglish": "The author overestimates the significance of conclusions drawn from a single field site.",
+              "level": "C2",
+              "category": "publishing"
+            },
+            {
+              "id": "la-demarche",
+              "french": "la démarche",
+              "english": "the approach, the line of enquiry",
+              "partOfSpeech": "noun",
+              "gender": "f",
+              "plural": "les démarches",
+              "pronunciation": "lah day-MARSH",
+              "example": "La démarche est comparatiste, mais l'article ne compare jamais rien.",
+              "exampleEnglish": "The approach is comparative, but the article never actually compares anything.",
+              "level": "C2",
+              "category": "publishing"
+            }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Les tournures impersonnelles de l'écrit savant",
+              "body": "Academic French leans on a small family of impersonal openers that let you assert without exposing an author. Il ressort de / il découle de introduce a consequence; il convient de and il importe de introduce an obligation politely; il n'en demeure pas moins que concedes then pushes back. All of them take the indicative except when they express necessity, doubt or judgement, which triggers the subjunctive.",
+              "examples": [
+                { "french": "Il ressort de cette enquête que la pratique est bien plus ancienne.", "english": "It emerges from this survey that the practice is far older.", "note": "Indicative: a fact is being reported." },
+                { "french": "Il convient de distinguer nettement les deux notions.", "english": "The two notions should be clearly distinguished." },
+                { "french": "Il importe que ces données soient rendues publiques.", "english": "It is important that these data be made public.", "note": "Subjunctive after il importe que." },
+                { "french": "Il n'en demeure pas moins que l'échantillon reste modeste.", "english": "The fact remains, nonetheless, that the sample is modest.", "note": "Formal concession; the indicative follows." },
+                { "french": "Il n'est pas certain que cette corrélation soit causale.", "english": "It is not certain that this correlation is causal.", "note": "Negated certainty → subjunctive." },
+                { "french": "Force est de constater que la démonstration s'arrête en chemin.", "english": "One is bound to observe that the demonstration stops halfway.", "note": "Force est de + infinitive: very high register." }
+              ],
+              "tip": "Two impersonal openers in a row read as pompous. Alternate them with a plain subject-verb sentence."
+            },
+            {
+              "heading": "Le futur métatextuel et le présent de l'article",
+              "body": "French articles talk about themselves in two tenses. The futur simple announces what the text will do (nous montrerons, nous reviendrons sur), while the présent describes what the text is doing right now (cet article examine, la présente étude propose). Anglophone writers often use the present throughout; in French that flattens the roadmap the reader is looking for. Reserve the futur for announcements made before the fact.",
+              "examples": [
+                { "french": "Nous reviendrons sur ce point dans la troisième partie.", "english": "We shall return to this point in the third part." },
+                { "french": "La présente étude propose une relecture de ce dossier.", "english": "The present study offers a rereading of this file." },
+                { "french": "On verra que cette opposition est plus commode que fondée.", "english": "It will be seen that this opposition is more convenient than well-founded." },
+                { "french": "Le présent article se limite volontairement au cas français.", "english": "This article deliberately confines itself to the French case." },
+                { "french": "Nous aurons montré, au terme de ce parcours, que l'usage précède la norme.", "english": "We shall have shown, at the end of this journey, that usage precedes the norm.", "note": "Futur antérieur for a promised outcome — elegant, and rare." }
+              ],
+              "tip": "Avoid ce papier for an article: it is a calque of English paper and grates on French ears. Say cet article or ce travail."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "c2_u08_l01_li01",
+              "type": "listenChoose",
+              "french": "L'état de l'art révèle une lacune que le présent travail entend combler.",
+              "options": [
+                "The literature review reveals a gap that the present work intends to fill.",
+                "The state of the art shows a delay that this work will have to accept.",
+                "The bibliography reveals a lack of sources that the author regrets.",
+                "The introduction announces a debate that the article will avoid."
+              ],
+              "answer": "The literature review reveals a gap that the present work intends to fill."
+            },
+            {
+              "id": "c2_u08_l01_li02",
+              "type": "listenChoose",
+              "french": "Le résumé ne doit pas excéder mille cinq cents signes, espaces comprises.",
+              "options": [
+                "The abstract must not exceed 1,500 characters, spaces included.",
+                "The summary must contain at least 1,500 words, notes included.",
+                "The abstract may reach 1,500 lines if the corpus is large.",
+                "The summary must be signed within fifteen hundred days."
+              ],
+              "answer": "The abstract must not exceed 1,500 characters, spaces included."
+            },
+            {
+              "id": "c2_u08_l01_li03",
+              "type": "listenType",
+              "french": "Il convient de distinguer nettement les deux notions.",
+              "answer": "Il convient de distinguer nettement les deux notions.",
+              "acceptedAnswers": [
+                "Il convient de distinguer nettement les deux notions",
+                "il convient de distinguer nettement les deux notions"
+              ]
+            },
+            {
+              "id": "c2_u08_l01_li04",
+              "type": "dictation",
+              "french": "Nous renvoyons le lecteur à l'annexe II, où figure le tableau complet.",
+              "answer": "Nous renvoyons le lecteur à l'annexe II, où figure le tableau complet.",
+              "acceptedAnswers": [
+                "Nous renvoyons le lecteur a l'annexe II, ou figure le tableau complet",
+                "Nous renvoyons le lecteur à l'annexe II où figure le tableau complet",
+                "nous renvoyons le lecteur a l annexe II ou figure le tableau complet"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "c2_u08_l01_sp01",
+              "type": "speak",
+              "french": "Cet article se propose d'examiner la circulation des manuels scolaires entre 1880 et 1914.",
+              "english": "This article sets out to examine the circulation of school textbooks between 1880 and 1914.",
+              "prompt": "Open a paper the way a French journal expects: announce the object, then the period.",
+              "tip": "Keep se propose de flat and unstressed; the emphasis belongs on examiner and on the dates."
+            },
+            {
+              "id": "c2_u08_l01_sp02",
+              "type": "speak",
+              "french": "La problématique retenue peut se formuler ainsi : comment concilier accessibilité et rigueur ?",
+              "english": "The research question adopted may be formulated as follows: how can accessibility and rigour be reconciled?",
+              "prompt": "State your research question aloud, pausing before the colon.",
+              "tip": "French leaves a space before the colon and before the question mark; let that space be a real half-beat of silence."
+            },
+            {
+              "id": "c2_u08_l01_sp03",
+              "type": "speak",
+              "french": "Force est de constater que la démonstration s'arrête en chemin.",
+              "english": "One is bound to observe that the demonstration stops halfway.",
+              "prompt": "Deliver a polite but firm judgement on a paper's argument.",
+              "tip": "Force est de is said in one breath, almost as a single word: FORSS-eh-duh."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Notes à l'usage des contributeurs",
+              "french": "La revue accueille des articles inédits de vingt-cinq mille à quarante mille signes, notes et espaces comprises.\nToute soumission comporte un résumé en français et en anglais, cinq mots-clés, et une notice biographique de trois lignes.\nLe manuscrit est anonymisé par nos soins : l'auteur veillera néanmoins à supprimer les renvois à ses propres travaux qui le désigneraient.\nNous rappelons qu'un article n'est pas la juxtaposition d'un état de l'art et d'un corpus.\nLa problématique doit apparaître avant la fin de l'introduction, sous une forme interrogative ou nettement tendue.\nLes contributions dont le plan n'est pas annoncé sont régulièrement retournées avant même expertise.\nLa méthodologie sera exposée avec assez de précision pour qu'un tiers puisse refaire le chemin.\nOn évitera de confondre la description du protocole et la justification de son choix : la seconde intéresse davantage le comité de lecture.\nLes tableaux et figures portent une légende autonome et sont appelés dans le corps du texte.\nL'appareil critique suit la feuille de style disponible sur notre site ; aucune tolérance n'est accordée sur ce point.\nLes notes de bas de page servent à discuter, non à ranger ce que l'on n'a pas su intégrer.\nLa bibliographie ne recense que les ouvrages effectivement cités, sans gonflement de complaisance.\nLes délais moyens sont de onze semaines pour le premier avis et de sept mois jusqu'à la parution.\nLa direction se réserve le droit d'écarter, sans expertise, un texte manifestement hors champ.\nElle s'engage en revanche à motiver tout refus prononcé après lecture.\nNous n'acceptons ni les soumissions multiples ni les articles déjà déposés en préprint sans mention explicite.",
+              "english": "The journal welcomes previously unpublished articles of twenty-five thousand to forty thousand characters, notes and spaces included.\nEvery submission includes an abstract in French and English, five keywords, and a three-line biographical note.\nThe manuscript is anonymised by us: the author will nevertheless take care to remove references to his or her own work that would identify them.\nWe remind you that an article is not the juxtaposition of a literature review and a corpus.\nThe research question must appear before the end of the introduction, in an interrogative or clearly tensed form.\nContributions whose plan is not announced are regularly returned even before review.\nThe methodology is to be set out with enough precision for a third party to retrace the path.\nOne should avoid confusing the description of the protocol with the justification of its choice: the latter is of greater interest to the reading committee.\nTables and figures carry a self-contained caption and are called out in the body of the text.\nThe critical apparatus follows the style sheet available on our site; no tolerance is granted on this point.\nFootnotes serve to discuss, not to store what one has not managed to integrate.\nThe bibliography lists only works actually cited, without padding out of self-indulgence.\nAverage delays are eleven weeks for the first opinion and seven months until publication.\nThe editorial board reserves the right to set aside, without review, a text that is manifestly out of scope.\nIt undertakes, on the other hand, to give reasons for any refusal pronounced after reading.\nWe accept neither multiple submissions nor articles already deposited as preprints without explicit mention.",
+              "questions": [
+                {
+                  "id": "c2_u08_l01_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "D'après ces consignes, qu'est-ce qui peut faire écarter un texte avant même l'expertise ?",
+                  "options": [
+                    "L'absence de plan annoncé ou un sujet manifestement hors champ",
+                    "Une bibliographie trop courte",
+                    "L'usage du pronom nous plutôt que je",
+                    "Un résumé rédigé uniquement en français"
+                  ],
+                  "answer": "L'absence de plan annoncé ou un sujet manifestement hors champ"
+                },
+                {
+                  "id": "c2_u08_l01_rd02",
+                  "type": "multipleChoice",
+                  "prompt": "Quelle fonction la revue assigne-t-elle aux notes de bas de page ?",
+                  "options": [
+                    "Discuter, et non entreposer ce que l'on n'a pas su intégrer",
+                    "Remplacer la bibliographie finale",
+                    "Signaler les emprunts faits à d'autres langues",
+                    "Alléger le résumé en y déplaçant les chiffres"
+                  ],
+                  "answer": "Discuter, et non entreposer ce que l'on n'a pas su intégrer"
+                },
+                {
+                  "id": "c2_u08_l01_rd03",
+                  "type": "trueFalse",
+                  "prompt": "La revue s'engage à justifier tout refus, y compris ceux prononcés sans lecture.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "c2_u08_l01_wr01",
+              "type": "translate",
+              "prompt": "Traduisez en français académique.",
+              "english": "This article sets out to examine an unpublished corpus of eighty letters.",
+              "answer": "Cet article se propose d'examiner un corpus inédit de quatre-vingts lettres.",
+              "acceptedAnswers": [
+                "Cet article se propose d'examiner un corpus inedit de quatre-vingts lettres",
+                "Cet article se propose d'étudier un corpus inédit de quatre-vingts lettres",
+                "Le présent article se propose d'examiner un corpus inédit de quatre-vingts lettres"
+              ]
+            },
+            {
+              "id": "c2_u08_l01_wr02",
+              "type": "translate",
+              "prompt": "Rédigez cette phrase de méthode.",
+              "english": "The methodology will be set out with enough precision for the protocol to be reproduced.",
+              "answer": "La méthodologie sera exposée avec assez de précision pour que le protocole soit reproduit.",
+              "acceptedAnswers": [
+                "La methodologie sera exposee avec assez de precision pour que le protocole soit reproduit",
+                "La méthodologie sera présentée avec assez de précision pour que le protocole soit reproduit",
+                "La méthodologie sera exposée avec suffisamment de précision pour que le protocole soit reproduit"
+              ]
+            },
+            {
+              "id": "c2_u08_l01_wr03",
+              "type": "translate",
+              "prompt": "Concédez, puis nuancez, comme le ferait un article.",
+              "english": "The fact remains, nonetheless, that the sample is modest and the scope of the findings limited.",
+              "answer": "Il n'en demeure pas moins que l'échantillon est modeste et la portée des résultats limitée.",
+              "acceptedAnswers": [
+                "Il n'en demeure pas moins que l'echantillon est modeste et la portee des resultats limitee",
+                "Il n'en reste pas moins que l'échantillon est modeste et la portée des résultats limitée"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "c2_u08_l01_pr01",
+              "type": "fillBlank",
+              "prompt": "Il ___ de ces données que le phénomène est saisonnier.",
+              "answer": "ressort"
+            },
+            {
+              "id": "c2_u08_l01_pr02",
+              "type": "fillBlank",
+              "prompt": "Chaque figure doit porter une ___ autonome, compréhensible sans le texte.",
+              "answer": "légende"
+            },
+            {
+              "id": "c2_u08_l01_pr03",
+              "type": "arrangeWords",
+              "words": ["dans", "sur", "point", "reviendrons", "ce", "la", "partie", "Nous", "troisième"],
+              "answer": "Nous reviendrons sur ce point dans la troisième partie",
+              "english": "We shall return to this point in the third part."
+            },
+            {
+              "id": "c2_u08_l01_pr04",
+              "type": "match",
+              "pairs": [
+                { "french": "le résumé", "english": "the abstract" },
+                { "french": "les mots-clés", "english": "the keywords" },
+                { "french": "l'annexe", "english": "the appendix" },
+                { "french": "le renvoi", "english": "the cross-reference" }
+              ]
+            },
+            {
+              "id": "c2_u08_l01_pr05",
+              "type": "multipleChoice",
+              "prompt": "Quelle formule un relecteur français jugera-t-il fautive dans un article ?",
+              "options": [
+                "Ce papier montre que…",
+                "Cet article se propose de…",
+                "Le présent travail entend…",
+                "La présente étude examine…"
+              ],
+              "answer": "Ce papier montre que…"
+            },
+            {
+              "id": "c2_u08_l01_pr06",
+              "type": "trueFalse",
+              "prompt": "Dans un article français, le nous de modestie peut être employé par un auteur unique.",
+              "options": ["True", "False"],
+              "answer": "True"
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "c2_u08_l01_qz01",
+              "type": "multipleChoice",
+              "prompt": "Où la problématique doit-elle apparaître dans un article français ?",
+              "options": [
+                "Avant la fin de l'introduction",
+                "Dans le résumé uniquement",
+                "En tête de la conclusion",
+                "En note de bas de page"
+              ],
+              "answer": "Avant la fin de l'introduction"
+            },
+            {
+              "id": "c2_u08_l01_qz02",
+              "type": "fillBlank",
+              "prompt": "Il ___ que ces données soient rendues publiques.",
+              "answer": "importe"
+            },
+            {
+              "id": "c2_u08_l01_qz03",
+              "type": "multipleChoice",
+              "prompt": "Que désigne l'appareil critique ?",
+              "options": [
+                "L'ensemble des notes, références et variantes qui étayent le texte",
+                "Le jury chargé d'évaluer un manuscrit",
+                "Le logiciel de mise en page de la revue",
+                "La partie polémique de l'introduction"
+              ],
+              "answer": "L'ensemble des notes, références et variantes qui étayent le texte"
+            },
+            {
+              "id": "c2_u08_l01_qz04",
+              "type": "translate",
+              "prompt": "Traduisez.",
+              "english": "The bibliography lists only works actually cited.",
+              "answer": "La bibliographie ne recense que les ouvrages effectivement cités.",
+              "acceptedAnswers": [
+                "La bibliographie ne recense que les ouvrages effectivement cites",
+                "La bibliographie ne mentionne que les ouvrages effectivement cités"
+              ]
+            },
+            {
+              "id": "c2_u08_l01_qz05",
+              "type": "trueFalse",
+              "prompt": "Un tapuscrit est un texte dactylographié qui n'a jamais été imprimé.",
+              "options": ["True", "False"],
+              "answer": "True"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c2_u08_l02",
+      "level": "C2",
+      "unit": 8,
+      "title": "La revue par les pairs",
+      "description": "Writing a reviewer's report in French, and answering one: the coded politeness of academic criticism and how to push back without losing the editor.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Le rapport d'évaluation : une politesse codée",
+              "body": "A French reviewer's report is almost never brutal on the surface. Severity is carried by hedges that an outsider can misread as mildness. On regrettera que means this is a real fault. L'auteur gagnerait à means do this or the paper is rejected. Learn to hear the conditional as an order, and the litotes as a verdict.",
+              "examples": [
+                { "french": "On regrettera que l'auteur n'ait pas consulté les archives municipales.", "english": "It is regrettable that the author did not consult the municipal archives.", "note": "Subjunctive after on regrettera que; this is a serious reproach." },
+                { "french": "L'auteur gagnerait à resserrer son introduction.", "english": "The author would do well to tighten the introduction.", "note": "Conditional = polite imperative." },
+                { "french": "La démonstration n'emporte pas entièrement l'adhésion.", "english": "The demonstration is not entirely convincing.", "note": "Litotes: in practice, it convinced nobody." },
+                { "french": "Ce point mériterait d'être étayé par des données chiffrées.", "english": "This point would deserve to be supported by figures.", "note": "mériterait de = must be, in reviewer's code." },
+                { "french": "Sous réserve des corrections indiquées, l'article me paraît publiable.", "english": "Subject to the corrections indicated, the article seems to me publishable.", "note": "The standard formula for a positive report with revisions." }
+              ],
+              "tip": "The first paragraph of a French report almost always says something genuinely appreciative. Skipping it marks you as either foreign or hostile."
+            },
+            {
+              "heading": "Les quatre verdicts",
+              "body": "Journals converge on four decisions: acceptation en l'état (rare to the point of legend), acceptation sous réserve de modifications mineures, révision majeure avec nouvelle expertise, and refus. The reviewer recommends; l'éditeur or the comité de rédaction decides. A rejection is called un refus or, more gently, un avis défavorable — never une rejection.",
+              "examples": [
+                { "french": "Je recommande une acceptation sous réserve de modifications mineures.", "english": "I recommend acceptance subject to minor revisions." },
+                { "french": "L'article appelle une révision majeure et une seconde expertise.", "english": "The article calls for major revision and a second review." },
+                { "french": "J'émets un avis défavorable, sans mettre en cause la qualité de l'enquête.", "english": "I give a negative opinion, without calling into question the quality of the survey." },
+                { "french": "Le comité de rédaction a suivi l'avis du second rapporteur.", "english": "The editorial board followed the second reviewer's opinion." },
+                { "french": "Un texte accepté en l'état, je n'en ai vu que deux en vingt ans.", "english": "A text accepted as it stands — I have seen only two in twenty years." }
+              ],
+              "tip": "Under double aveugle (double-blind), never write anything that reveals who you are: no as I showed in 2019."
+            },
+            {
+              "heading": "Répondre à une critique",
+              "body": "The reply is a letter, not a defence speech. French practice is a lettre de réponse that answers point par point, quoting each remark, then stating what was changed and where. Concede what can be conceded; where you disagree, say so once, calmly, with an argument — never twice, and never with irony. Editors read tone as evidence of how you will behave in future.",
+              "examples": [
+                { "french": "Nous remercions les deux relecteurs pour la précision de leurs remarques.", "english": "We thank the two reviewers for the precision of their remarks.", "note": "Obligatory opening, however unfair the report felt." },
+                { "french": "Nous souscrivons pleinement à cette observation et avons remanié la section 3.", "english": "We fully endorse this observation and have reworked section 3." },
+                { "french": "Sur ce point précis, nous nous permettons de maintenir notre lecture, pour la raison suivante.", "english": "On this precise point, we take the liberty of maintaining our reading, for the following reason.", "note": "nous nous permettons de = the polite formula for disagreement." },
+                { "french": "La coquille signalée p. 7 a été corrigée, ainsi que deux autres.", "english": "The typo noted on p. 7 has been corrected, along with two others." },
+                { "french": "Nous avons ajouté une note pour dissiper le malentendu que signale le rapporteur.", "english": "We have added a note to dispel the misunderstanding the reviewer points out.", "note": "Blaming your own clarity, not the reviewer's reading, is the diplomatic move." }
+              ],
+              "tip": "Never write vous avez mal lu. Write nous n'avons sans doute pas été assez clairs — same content, opposite consequences."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            {
+              "id": "revue-par-les-pairs",
+              "french": "la revue par les pairs",
+              "english": "peer review",
+              "partOfSpeech": "noun",
+              "gender": "f",
+              "plural": "les revues par les pairs",
+              "pronunciation": "lah ruh-VEW par lay PER",
+              "example": "La revue par les pairs est lente, faillible, et pourtant irremplaçable.",
+              "exampleEnglish": "Peer review is slow, fallible, and yet irreplaceable.",
+              "level": "C2",
+              "category": "peer-review"
+            },
+            {
+              "id": "pair",
+              "french": "le pair",
+              "english": "the peer (fellow specialist)",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les pairs",
+              "pronunciation": "luh PER",
+              "example": "Être jugé par ses pairs suppose que ces pairs existent vraiment.",
+              "exampleEnglish": "Being judged by one's peers presupposes that those peers really exist.",
+              "level": "C2",
+              "category": "peer-review"
+            },
+            {
+              "id": "relecteur",
+              "french": "le relecteur",
+              "english": "the reviewer, the reader (of a submission)",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les relecteurs",
+              "pronunciation": "luh ruh-lek-TEUR",
+              "example": "Le second relecteur a rendu un rapport de six pages, ligne à ligne.",
+              "exampleEnglish": "The second reviewer produced a six-page report, line by line.",
+              "level": "C2",
+              "category": "peer-review"
+            },
+            {
+              "id": "rapporteur",
+              "french": "le rapporteur",
+              "english": "the reporting reviewer, the rapporteur",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les rapporteurs",
+              "pronunciation": "luh rah-por-TEUR",
+              "example": "Le rapporteur signale une confusion entre corrélation et causalité.",
+              "exampleEnglish": "The reviewer points out a confusion between correlation and causation.",
+              "level": "C2",
+              "category": "peer-review"
+            },
+            {
+              "id": "rapport-d-evaluation",
+              "french": "le rapport d'évaluation",
+              "english": "the reviewer's report",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les rapports d'évaluation",
+              "pronunciation": "luh rah-POR day-vah-lwah-SYOHN",
+              "example": "Un bon rapport d'évaluation reste utile même quand il conclut au refus.",
+              "exampleEnglish": "A good reviewer's report remains useful even when it concludes with a rejection.",
+              "level": "C2",
+              "category": "peer-review"
+            },
+            {
+              "id": "expertise-scientifique",
+              "french": "l'expertise",
+              "english": "the expert assessment, the review process",
+              "partOfSpeech": "noun",
+              "gender": "f",
+              "plural": "les expertises",
+              "pronunciation": "lek-sper-TEEZ",
+              "example": "L'expertise a pris quatre mois, ce qui reste dans la moyenne.",
+              "exampleEnglish": "The review took four months, which is still about average.",
+              "level": "C2",
+              "category": "peer-review"
+            },
+            {
+              "id": "l-avis",
+              "french": "l'avis",
+              "english": "the opinion, the recommendation",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les avis",
+              "pronunciation": "lah-VEE",
+              "example": "Les deux avis sont diamétralement opposés ; l'éditeur tranchera.",
+              "exampleEnglish": "The two opinions are diametrically opposed; the editor will decide.",
+              "level": "C2",
+              "category": "peer-review"
+            },
+            {
+              "id": "avis-defavorable",
+              "french": "l'avis défavorable",
+              "english": "the negative recommendation",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les avis défavorables",
+              "pronunciation": "lah-VEE day-fah-vo-RAHBL",
+              "example": "J'émets un avis défavorable, mais j'encourage l'auteur à soumettre ailleurs.",
+              "exampleEnglish": "I give a negative recommendation, but I encourage the author to submit elsewhere.",
+              "level": "C2",
+              "category": "peer-review"
+            },
+            {
+              "id": "recommandation",
+              "french": "la recommandation",
+              "english": "the recommendation",
+              "partOfSpeech": "noun",
+              "gender": "f",
+              "plural": "les recommandations",
+              "pronunciation": "lah ruh-ko-mahn-dah-SYOHN",
+              "example": "Ma recommandation est claire : révision majeure, puis nouvelle expertise.",
+              "exampleEnglish": "My recommendation is clear: major revision, then a second review.",
+              "level": "C2",
+              "category": "peer-review"
+            },
+            {
+              "id": "la-revision",
+              "french": "la révision",
+              "english": "the revision",
+              "partOfSpeech": "noun",
+              "gender": "f",
+              "plural": "les révisions",
+              "pronunciation": "lah ray-vee-ZYOHN",
+              "example": "Une révision mineure ne devrait pas vous demander plus d'une semaine.",
+              "exampleEnglish": "A minor revision should not take you more than a week.",
+              "level": "C2",
+              "category": "peer-review"
+            },
+            {
+              "id": "rejet",
+              "french": "le rejet",
+              "english": "the rejection",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les rejets",
+              "pronunciation": "luh ruh-ZHEH",
+              "example": "Le rejet n'est pas un jugement sur la personne, si difficile soit-il à recevoir.",
+              "exampleEnglish": "Rejection is not a judgement on the person, however hard it is to take.",
+              "level": "C2",
+              "category": "peer-review"
+            },
+            {
+              "id": "remanier",
+              "french": "remanier",
+              "english": "to rework, to overhaul",
+              "partOfSpeech": "verb",
+              "pronunciation": "ruh-mah-NYAY",
+              "example": "Nous avons remanié la section 3 dans le sens indiqué par le relecteur.",
+              "exampleEnglish": "We have reworked section 3 along the lines indicated by the reviewer.",
+              "level": "C2",
+              "category": "peer-review"
+            },
+            {
+              "id": "remaniement",
+              "french": "le remaniement",
+              "english": "the reworking, the overhaul",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les remaniements",
+              "pronunciation": "luh ruh-mah-nee-MAHN",
+              "example": "Le remaniement demandé touche le plan, non le style.",
+              "exampleEnglish": "The reworking requested concerns the structure, not the style.",
+              "level": "C2",
+              "category": "peer-review"
+            },
+            {
+              "id": "lacune",
+              "french": "la lacune",
+              "english": "the gap, the omission",
+              "partOfSpeech": "noun",
+              "gender": "f",
+              "plural": "les lacunes",
+              "pronunciation": "lah lah-KEWN",
+              "example": "Le rapport pointe une lacune bibliographique difficile à excuser.",
+              "exampleEnglish": "The report identifies a bibliographical gap that is hard to excuse.",
+              "level": "C2",
+              "category": "peer-review"
+            },
+            {
+              "id": "faiblesse",
+              "french": "la faiblesse",
+              "english": "the weakness",
+              "partOfSpeech": "noun",
+              "gender": "f",
+              "plural": "les faiblesses",
+              "pronunciation": "lah feh-BLESS",
+              "example": "La principale faiblesse tient à l'absence de groupe témoin.",
+              "exampleEnglish": "The main weakness lies in the absence of a control group.",
+              "level": "C2",
+              "category": "peer-review"
+            },
+            {
+              "id": "la-coquille",
+              "french": "la coquille",
+              "english": "the typo, the misprint",
+              "partOfSpeech": "noun",
+              "gender": "f",
+              "plural": "les coquilles",
+              "pronunciation": "lah ko-KEEY",
+              "example": "Trois coquilles subsistent dans les notes ; elles ont été corrigées.",
+              "exampleEnglish": "Three typos remain in the notes; they have been corrected.",
+              "level": "C2",
+              "category": "peer-review"
+            },
+            {
+              "id": "la-relecture",
+              "french": "la relecture",
+              "english": "the rereading, the proofreading",
+              "partOfSpeech": "noun",
+              "gender": "f",
+              "plural": "les relectures",
+              "pronunciation": "lah ruh-lek-TEWR",
+              "example": "Une relecture attentive aurait épargné au relecteur ces vingt remarques.",
+              "exampleEnglish": "A careful rereading would have spared the reviewer these twenty remarks.",
+              "level": "C2",
+              "category": "peer-review"
+            },
+            {
+              "id": "la-critique",
+              "french": "la critique",
+              "english": "the criticism, the critique",
+              "partOfSpeech": "noun",
+              "gender": "f",
+              "plural": "les critiques",
+              "pronunciation": "lah kree-TEEK",
+              "example": "Cette critique est fondée, et nous en avons tiré les conséquences.",
+              "exampleEnglish": "This criticism is well-founded, and we have drawn the consequences from it.",
+              "level": "C2",
+              "category": "peer-review"
+            },
+            {
+              "id": "le-reproche",
+              "french": "le reproche",
+              "english": "the reproach",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les reproches",
+              "pronunciation": "luh ruh-PROSH",
+              "example": "Le reproche est enveloppé de formules, mais il est net.",
+              "exampleEnglish": "The reproach is wrapped in polite formulas, but it is unambiguous.",
+              "level": "C2",
+              "category": "peer-review"
+            },
+            {
+              "id": "reserve",
+              "french": "la réserve",
+              "english": "the reservation, the qualification",
+              "partOfSpeech": "noun",
+              "gender": "f",
+              "plural": "les réserves",
+              "pronunciation": "lah ray-ZERV",
+              "example": "J'émets une réserve sur le traitement statistique, non sur l'ensemble.",
+              "exampleEnglish": "I have a reservation about the statistical treatment, not about the whole.",
+              "level": "C2",
+              "category": "peer-review"
+            },
+            {
+              "id": "l-objection",
+              "french": "l'objection",
+              "english": "the objection",
+              "partOfSpeech": "noun",
+              "gender": "f",
+              "plural": "les objections",
+              "pronunciation": "lob-zhek-SYOHN",
+              "example": "Cette objection méritait une réponse, et non une note évasive.",
+              "exampleEnglish": "This objection deserved an answer, not an evasive footnote.",
+              "level": "C2",
+              "category": "peer-review"
+            },
+            {
+              "id": "refuter",
+              "french": "réfuter",
+              "english": "to refute",
+              "partOfSpeech": "verb",
+              "pronunciation": "ray-few-TAY",
+              "example": "L'auteur croit réfuter l'objection alors qu'il la reformule.",
+              "exampleEnglish": "The author thinks he is refuting the objection when he is restating it.",
+              "level": "C2",
+              "category": "peer-review"
+            },
+            {
+              "id": "etayer",
+              "french": "étayer",
+              "english": "to support, to shore up (an argument)",
+              "partOfSpeech": "verb",
+              "pronunciation": "ay-teh-YAY",
+              "example": "Ce point mériterait d'être étayé par des données chiffrées.",
+              "exampleEnglish": "This point would deserve to be supported by figures.",
+              "level": "C2",
+              "category": "peer-review"
+            },
+            {
+              "id": "corroborer",
+              "french": "corroborer",
+              "english": "to corroborate",
+              "partOfSpeech": "verb",
+              "pronunciation": "ko-ro-bo-RAY",
+              "example": "Deux sources indépendantes corroborent désormais cette datation.",
+              "exampleEnglish": "Two independent sources now corroborate this dating.",
+              "level": "C2",
+              "category": "peer-review"
+            },
+            {
+              "id": "nuancer",
+              "french": "nuancer",
+              "english": "to qualify, to add nuance to",
+              "partOfSpeech": "verb",
+              "pronunciation": "new-ahn-SAY",
+              "example": "Nous avons nuancé la formulation trop catégorique de la page 12.",
+              "exampleEnglish": "We have qualified the over-categorical wording on page 12.",
+              "level": "C2",
+              "category": "peer-review"
+            },
+            {
+              "id": "conceder",
+              "french": "concéder",
+              "english": "to concede",
+              "partOfSpeech": "verb",
+              "pronunciation": "kohn-say-DAY",
+              "example": "Concéder un point solide n'affaiblit jamais une réponse aux relecteurs.",
+              "exampleEnglish": "Conceding a solid point never weakens a reply to reviewers.",
+              "level": "C2",
+              "category": "peer-review"
+            },
+            {
+              "id": "le-contre-argument",
+              "french": "le contre-argument",
+              "english": "the counter-argument",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les contre-arguments",
+              "pronunciation": "luh kohntr-ar-gew-MAHN",
+              "example": "Un seul contre-argument bien construit vaut mieux que trois protestations.",
+              "exampleEnglish": "A single well-built counter-argument is worth more than three protests.",
+              "level": "C2",
+              "category": "peer-review"
+            },
+            {
+              "id": "point-par-point",
+              "french": "point par point",
+              "english": "point by point",
+              "partOfSpeech": "expression",
+              "pronunciation": "pwahn par PWAHN",
+              "example": "La lettre reprend point par point les vingt-deux remarques du rapport.",
+              "exampleEnglish": "The letter takes up the report's twenty-two remarks point by point.",
+              "level": "C2",
+              "category": "peer-review"
+            },
+            {
+              "id": "lettre-de-reponse",
+              "french": "la lettre de réponse",
+              "english": "the response letter (to reviewers)",
+              "partOfSpeech": "noun",
+              "gender": "f",
+              "plural": "les lettres de réponse",
+              "pronunciation": "lah LETR duh ray-PONSS",
+              "example": "Sa lettre de réponse est plus longue que l'article lui-même.",
+              "exampleEnglish": "Her response letter is longer than the article itself.",
+              "level": "C2",
+              "category": "peer-review"
+            },
+            {
+              "id": "l-anonymat",
+              "french": "l'anonymat",
+              "english": "anonymity",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les anonymats",
+              "pronunciation": "lah-no-nee-MAH",
+              "example": "L'anonymat protège moins l'auteur que le relecteur qui ose dire non.",
+              "exampleEnglish": "Anonymity protects the author less than the reviewer who dares to say no.",
+              "level": "C2",
+              "category": "peer-review"
+            },
+            {
+              "id": "double-aveugle",
+              "french": "le double aveugle",
+              "english": "double-blind (review)",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les doubles aveugles",
+              "pronunciation": "luh DOOBL ah-VEUGL",
+              "example": "En double aveugle, une seule autocitation peut trahir l'auteur.",
+              "exampleEnglish": "Under double-blind review, a single self-citation can give the author away.",
+              "level": "C2",
+              "category": "peer-review"
+            },
+            {
+              "id": "conflit-d-interets",
+              "french": "le conflit d'intérêts",
+              "english": "the conflict of interest",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les conflits d'intérêts",
+              "pronunciation": "luh kohn-FLEE dahn-tay-REH",
+              "example": "J'ai décliné l'expertise pour conflit d'intérêts : j'encadre l'auteur.",
+              "exampleEnglish": "I declined the review for conflict of interest: I supervise the author.",
+              "level": "C2",
+              "category": "peer-review"
+            },
+            {
+              "id": "courtoisie",
+              "french": "la courtoisie",
+              "english": "courtesy",
+              "partOfSpeech": "noun",
+              "gender": "f",
+              "plural": "les courtoisies",
+              "pronunciation": "lah koor-twah-ZEE",
+              "example": "La courtoisie d'un rapport n'en atténue pas la sévérité.",
+              "exampleEnglish": "The courtesy of a report does not soften its severity.",
+              "level": "C2",
+              "category": "peer-review"
+            },
+            {
+              "id": "condescendance",
+              "french": "la condescendance",
+              "english": "condescension",
+              "partOfSpeech": "noun",
+              "gender": "f",
+              "plural": "les condescendances",
+              "pronunciation": "lah kohn-deh-sahn-DAHNSS",
+              "example": "Rien ne discrédite un relecteur comme la condescendance envers un doctorant.",
+              "exampleEnglish": "Nothing discredits a reviewer like condescension towards a doctoral student.",
+              "level": "C2",
+              "category": "peer-review"
+            },
+            {
+              "id": "tatillon",
+              "french": "tatillon",
+              "english": "nitpicking, fussy",
+              "partOfSpeech": "adjective",
+              "pronunciation": "tah-tee-YOHN",
+              "example": "Un relecteur tatillon sur la ponctuation et muet sur la méthode.",
+              "exampleEnglish": "A reviewer who nitpicks the punctuation and says nothing about the method.",
+              "level": "C2",
+              "category": "peer-review"
+            },
+            {
+              "id": "le-delai",
+              "french": "le délai",
+              "english": "the deadline, the turnaround time",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les délais",
+              "pronunciation": "luh day-LEH",
+              "example": "Le délai de révision court à compter de la réception des rapports.",
+              "exampleEnglish": "The revision deadline runs from receipt of the reports.",
+              "level": "C2",
+              "category": "peer-review"
+            },
+            {
+              "id": "s-incliner",
+              "french": "s'incliner",
+              "english": "to bow to, to yield (to an argument)",
+              "partOfSpeech": "verb",
+              "pronunciation": "sahn-klee-NAY",
+              "example": "Devant une démonstration aussi nette, nous nous inclinons.",
+              "exampleEnglish": "Faced with so clear a demonstration, we yield.",
+              "level": "C2",
+              "category": "peer-review"
+            }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Le conditionnel d'atténuation",
+              "body": "The conditional is the working tense of peer review. It turns an order into a suggestion (l'auteur gagnerait à), a claim into a hedge (on pourrait soutenir que), and a demand into a courtesy (il serait souhaitable que + subjunctive). The conditionnel passé adds regret about what was not done: on aurait aimé voir. Nobody is fooled — that is precisely the point: the softness is a shared code, not a real weakening.",
+              "examples": [
+                { "french": "L'auteur gagnerait à supprimer les trois premières pages.", "english": "The author would do well to cut the first three pages." },
+                { "french": "Il serait souhaitable que les données brutes soient déposées en ligne.", "english": "It would be desirable for the raw data to be deposited online.", "note": "Subjunctive after il serait souhaitable que." },
+                { "french": "On aurait aimé voir discutée l'hypothèse concurrente.", "english": "One would have liked to see the competing hypothesis discussed.", "note": "Conditionnel passé = a reproach about an omission." },
+                { "french": "Ce développement pourrait sans dommage être renvoyé en annexe.", "english": "This passage could be moved to an appendix without loss." },
+                { "french": "Une reformulation de la conclusion me semblerait préférable.", "english": "A rewording of the conclusion would seem preferable to me." },
+                { "french": "Peut-être l'auteur voudra-t-il préciser ce qu'il entend par norme.", "english": "Perhaps the author will wish to clarify what he means by norm.", "note": "Inversion after peut-être in initial position — high written register." }
+              ],
+              "tip": "In a reply, mirror the reviewer's conditional back: nous aurions dû préciser… disarms far better than a flat nous avons précisé."
+            },
+            {
+              "heading": "Concession et opposition dans la réponse",
+              "body": "A response letter lives on concessive connectors. Certes … mais concedes then turns; si … c'est que explains rather than defends; quand bien même takes the conditional and grants a hypothesis you reject; force est de reconnaître que admits a fact under pressure. The order matters: concede first, push back second — French readers weight the final clause.",
+              "examples": [
+                { "french": "Certes, l'échantillon est modeste ; mais il est le seul disponible pour cette période.", "english": "Admittedly the sample is modest; but it is the only one available for this period." },
+                { "french": "Si nous avons écarté ce dossier, c'est qu'il relève d'une autre chronologie.", "english": "If we set this file aside, it is because it belongs to a different chronology." },
+                { "french": "Quand bien même la corrélation serait avérée, elle ne dirait rien du sens du lien.", "english": "Even if the correlation were established, it would say nothing about the direction of the link.", "note": "quand bien même + conditional, always." },
+                { "french": "Force est de reconnaître que la formulation initiale prêtait à confusion.", "english": "It must be acknowledged that the initial wording invited confusion." },
+                { "french": "Nous souscrivons à la remarque sans pour autant en tirer la même conclusion.", "english": "We endorse the remark without, however, drawing the same conclusion from it.", "note": "sans pour autant = without thereby; indispensable in replies." }
+              ],
+              "tip": "Avoid au contraire to open a rebuttal to a reviewer: it sounds like a slap. En revanche or pour notre part does the same work politely."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "c2_u08_l02_li01",
+              "type": "listenChoose",
+              "french": "On regrettera que l'auteur n'ait pas consulté les archives municipales.",
+              "options": [
+                "This is a serious reproach: the author failed to use an obvious source.",
+                "The author is thanked for having consulted the municipal archives.",
+                "The reviewer regrets that the archives were closed to the public.",
+                "The author is asked to remove the archive references."
+              ],
+              "answer": "This is a serious reproach: the author failed to use an obvious source."
+            },
+            {
+              "id": "c2_u08_l02_li02",
+              "type": "listenChoose",
+              "french": "Sous réserve des corrections indiquées, l'article me paraît publiable.",
+              "options": [
+                "Accept with revisions.",
+                "Reject outright.",
+                "Major revision with a second review.",
+                "Accept as it stands, with no changes."
+              ],
+              "answer": "Accept with revisions."
+            },
+            {
+              "id": "c2_u08_l02_li03",
+              "type": "listenType",
+              "french": "Nous remercions les deux relecteurs pour la précision de leurs remarques.",
+              "answer": "Nous remercions les deux relecteurs pour la précision de leurs remarques.",
+              "acceptedAnswers": [
+                "Nous remercions les deux relecteurs pour la precision de leurs remarques",
+                "nous remercions les deux relecteurs pour la précision de leurs remarques"
+              ]
+            },
+            {
+              "id": "c2_u08_l02_li04",
+              "type": "dictation",
+              "french": "Sur ce point précis, nous nous permettons de maintenir notre lecture.",
+              "answer": "Sur ce point précis, nous nous permettons de maintenir notre lecture.",
+              "acceptedAnswers": [
+                "Sur ce point precis, nous nous permettons de maintenir notre lecture",
+                "Sur ce point précis nous nous permettons de maintenir notre lecture",
+                "sur ce point precis nous nous permettons de maintenir notre lecture"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "c2_u08_l02_sp01",
+              "type": "speak",
+              "french": "L'auteur gagnerait à resserrer son introduction et à énoncer sa problématique plus tôt.",
+              "english": "The author would do well to tighten the introduction and to state the research question earlier.",
+              "prompt": "Give a firm instruction in the reviewer's polite conditional.",
+              "tip": "Gagnerait carries a light stress; do not let the sentence sag on à resserrer — keep it moving."
+            },
+            {
+              "id": "c2_u08_l02_sp02",
+              "type": "speak",
+              "french": "Certes, l'échantillon est modeste ; mais il est le seul disponible pour cette période.",
+              "english": "Admittedly the sample is modest; but it is the only one available for this period.",
+              "prompt": "Concede a point, then turn it around in one breath.",
+              "tip": "Drop your voice on certes, then lift it on mais — the pitch contour is what signals the reversal."
+            },
+            {
+              "id": "c2_u08_l02_sp03",
+              "type": "speak",
+              "french": "Nous n'avons sans doute pas été assez clairs sur ce point ; une note a été ajoutée.",
+              "english": "We were doubtless not clear enough on this point; a note has been added.",
+              "prompt": "Take the blame for a misunderstanding instead of correcting the reviewer.",
+              "tip": "Sans doute here means probably, not without doubt — say it lightly, almost swallowed."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Rapport d'évaluation, manuscrit n° 214",
+              "french": "L'article aborde une question réelle, sur un corpus que l'auteur est manifestement seul à connaître aussi bien.\nLa lecture en est agréable, ce qui n'est pas si fréquent, et l'appareil critique est tenu avec soin.\nCela dit, la démonstration n'emporte pas entièrement l'adhésion, pour trois raisons que je détaille ci-dessous.\nPremièrement, la problématique annoncée p. 2 n'est pas celle que traite la deuxième partie.\nOn passe insensiblement d'une question sur les usages à une question sur les normes, sans que ce glissement soit assumé.\nDeuxièmement, l'échantillon compte quarante-deux cas, dont trente proviennent du même fonds d'archives.\nL'auteur en tire des conclusions générales que ce déséquilibre ne me paraît pas autoriser.\nUne simple mention de cette limite, dans la discussion, désamorcerait l'objection.\nTroisièmement, deux travaux récents, publiés en 2023 et en 2024, ne sont pas mentionnés.\nJe ne les cite pas pour le plaisir de la lacune : ils proposent une périodisation concurrente que l'auteur devrait discuter.\nJ'ajoute une remarque de forme, sans y attacher d'importance excessive : les intertitres sont des étiquettes plutôt que des annonces d'argument.\nQuelques coquilles subsistent, notamment p. 7 et p. 19.\nRien de tout cela n'est rédhibitoire, et je tiens à le dire nettement.\nJe recommande une révision majeure, suivie d'une nouvelle expertise, sans exiger qu'elle me revienne.\nSi l'auteur juge mes objections mal fondées, qu'il le dise et l'argumente : je m'inclinerai volontiers devant une réponse convaincante.",
+              "english": "The article tackles a genuine question, on a corpus that the author is plainly alone in knowing so well.\nIt is pleasant to read, which is not so common, and the critical apparatus is handled with care.\nThat said, the demonstration is not entirely convincing, for three reasons that I set out below.\nFirst, the research question announced on p. 2 is not the one the second part addresses.\nOne slides imperceptibly from a question about practices to a question about norms, without that shift being owned.\nSecond, the sample comprises forty-two cases, thirty of which come from the same archival collection.\nThe author draws general conclusions from it that this imbalance does not, to my mind, license.\nA simple mention of this limitation, in the discussion, would defuse the objection.\nThird, two recent works, published in 2023 and 2024, are not mentioned.\nI do not cite them for the pleasure of pointing out a gap: they propose a competing periodisation that the author ought to discuss.\nI add a remark on form, without attaching excessive importance to it: the subheadings are labels rather than announcements of argument.\nA few typos remain, notably on p. 7 and p. 19.\nNone of this is disqualifying, and I want to say so clearly.\nI recommend a major revision, followed by a further review, without requiring that it come back to me.\nIf the author judges my objections ill-founded, let him say so and argue it: I shall gladly yield to a convincing reply.",
+              "questions": [
+                {
+                  "id": "c2_u08_l02_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Quel est le premier reproche de fond formulé par le rapporteur ?",
+                  "options": [
+                    "La problématique annoncée n'est pas celle que traite la deuxième partie",
+                    "L'appareil critique est négligé",
+                    "Le style est trop technique pour la revue",
+                    "L'auteur ne connaît pas son corpus"
+                  ],
+                  "answer": "La problématique annoncée n'est pas celle que traite la deuxième partie"
+                },
+                {
+                  "id": "c2_u08_l02_rd02",
+                  "type": "multipleChoice",
+                  "prompt": "Que suffirait-il de faire, selon le rapporteur, pour désamorcer l'objection sur l'échantillon ?",
+                  "options": [
+                    "Mentionner cette limite dans la discussion",
+                    "Doubler le nombre de cas étudiés",
+                    "Supprimer toute conclusion générale",
+                    "Changer de fonds d'archives"
+                  ],
+                  "answer": "Mentionner cette limite dans la discussion"
+                },
+                {
+                  "id": "c2_u08_l02_rd03",
+                  "type": "trueFalse",
+                  "prompt": "Le rapporteur exige que le manuscrit révisé lui soit personnellement renvoyé.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "c2_u08_l02_wr01",
+              "type": "translate",
+              "prompt": "Ouvrez une lettre de réponse aux relecteurs.",
+              "english": "We thank the two reviewers for the precision of their remarks and answer them point by point.",
+              "answer": "Nous remercions les deux relecteurs pour la précision de leurs remarques et y répondons point par point.",
+              "acceptedAnswers": [
+                "Nous remercions les deux relecteurs pour la precision de leurs remarques et y repondons point par point",
+                "Nous remercions les deux rapporteurs pour la précision de leurs remarques et y répondons point par point"
+              ]
+            },
+            {
+              "id": "c2_u08_l02_wr02",
+              "type": "translate",
+              "prompt": "Formulez un reproche de relecteur, avec le conditionnel d'atténuation.",
+              "english": "This point would deserve to be supported by figures.",
+              "answer": "Ce point mériterait d'être étayé par des données chiffrées.",
+              "acceptedAnswers": [
+                "Ce point meriterait d'etre etaye par des donnees chiffrees",
+                "Ce point gagnerait à être étayé par des données chiffrées"
+              ]
+            },
+            {
+              "id": "c2_u08_l02_wr03",
+              "type": "translate",
+              "prompt": "Maintenez votre position sans agressivité.",
+              "english": "On this precise point, we take the liberty of maintaining our reading, without thereby dismissing the objection.",
+              "answer": "Sur ce point précis, nous nous permettons de maintenir notre lecture, sans pour autant écarter l'objection.",
+              "acceptedAnswers": [
+                "Sur ce point precis, nous nous permettons de maintenir notre lecture, sans pour autant ecarter l'objection",
+                "Sur ce point précis nous nous permettons de maintenir notre lecture sans pour autant écarter l'objection"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "c2_u08_l02_pr01",
+              "type": "fillBlank",
+              "prompt": "Quand bien même la corrélation ___ avérée, elle ne dirait rien du sens du lien.",
+              "answer": "serait"
+            },
+            {
+              "id": "c2_u08_l02_pr02",
+              "type": "fillBlank",
+              "prompt": "Il serait souhaitable que les données brutes ___ déposées en ligne.",
+              "answer": "soient"
+            },
+            {
+              "id": "c2_u08_l02_pr03",
+              "type": "arrangeWords",
+              "words": ["à", "gagnerait", "son", "L'auteur", "resserrer", "introduction"],
+              "answer": "L'auteur gagnerait à resserrer son introduction",
+              "english": "The author would do well to tighten the introduction."
+            },
+            {
+              "id": "c2_u08_l02_pr04",
+              "type": "match",
+              "pairs": [
+                { "french": "le rapporteur", "english": "the reviewer" },
+                { "french": "la lacune", "english": "the gap" },
+                { "french": "la coquille", "english": "the typo" },
+                { "french": "le rejet", "english": "the rejection" }
+              ]
+            },
+            {
+              "id": "c2_u08_l02_pr05",
+              "type": "multipleChoice",
+              "prompt": "Que signifie réellement « la démonstration n'emporte pas entièrement l'adhésion » ?",
+              "options": [
+                "Le raisonnement ne convainc pas ; c'est une critique sévère",
+                "Le lecteur adhère pleinement à la thèse",
+                "Le style manque d'enthousiasme",
+                "L'auteur devrait ajouter des remerciements"
+              ],
+              "answer": "Le raisonnement ne convainc pas ; c'est une critique sévère"
+            },
+            {
+              "id": "c2_u08_l02_pr06",
+              "type": "trueFalse",
+              "prompt": "Écrire « vous avez mal lu » à un relecteur est une stratégie de réponse recommandée.",
+              "options": ["True", "False"],
+              "answer": "False"
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "c2_u08_l02_qz01",
+              "type": "multipleChoice",
+              "prompt": "Qui prend la décision finale sur un manuscrit ?",
+              "options": [
+                "L'éditeur ou le comité de rédaction, sur avis des rapporteurs",
+                "Le premier rapporteur seul",
+                "L'auteur, après lecture des rapports",
+                "Le comité de lecture d'une autre revue"
+              ],
+              "answer": "L'éditeur ou le comité de rédaction, sur avis des rapporteurs"
+            },
+            {
+              "id": "c2_u08_l02_qz02",
+              "type": "fillBlank",
+              "prompt": "Nous souscrivons à la remarque sans pour ___ en tirer la même conclusion.",
+              "answer": "autant"
+            },
+            {
+              "id": "c2_u08_l02_qz03",
+              "type": "multipleChoice",
+              "prompt": "Quelle formule ouvre poliment un désaccord dans une lettre de réponse ?",
+              "options": [
+                "Nous nous permettons de maintenir notre lecture",
+                "Au contraire, vous vous trompez",
+                "Cette objection est absurde",
+                "Nous refusons de répondre à ce point"
+              ],
+              "answer": "Nous nous permettons de maintenir notre lecture"
+            },
+            {
+              "id": "c2_u08_l02_qz04",
+              "type": "translate",
+              "prompt": "Traduisez.",
+              "english": "I declined the review for conflict of interest.",
+              "answer": "J'ai décliné l'expertise pour conflit d'intérêts.",
+              "acceptedAnswers": [
+                "J'ai decline l'expertise pour conflit d'interets",
+                "J'ai refusé l'expertise pour conflit d'intérêts"
+              ]
+            },
+            {
+              "id": "c2_u08_l02_qz05",
+              "type": "trueFalse",
+              "prompt": "En double aveugle, une autocitation trop explicite peut trahir l'identité de l'auteur.",
+              "options": ["True", "False"],
+              "answer": "True"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c2_u08_l03",
+      "level": "C2",
+      "unit": 8,
+      "title": "La soutenance",
+      "description": "The French thesis defence: the liturgy of the jury, the twenty-minute exposé, and how to hold your ground under questioning without either collapsing or bristling.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Le rituel et ses rôles",
+              "body": "A French soutenance is a small piece of theatre with fixed parts. The président du jury opens and keeps time; the rapporteurs have already written pre-defence reports; the examinateurs question freely; the directeur or directrice de thèse speaks last and briefly. Everyone is addressed as Monsieur le Professeur, Madame la Présidente, and everyone says vous, including your own supervisor, whom you may have called by first name for six years.",
+              "examples": [
+                { "french": "Madame la Présidente, Mesdames et Messieurs les membres du jury, je vous remercie de votre présence.", "english": "Madam Chair, ladies and gentlemen of the jury, thank you for being here.", "note": "The obligatory opening address, in that order." },
+                { "french": "Le jury se retire pour délibérer ; la séance reprendra dans vingt minutes.", "english": "The jury withdraws to deliberate; the session will resume in twenty minutes." },
+                { "french": "Je donne la parole au premier rapporteur.", "english": "I give the floor to the first reviewer.", "note": "Said by the président du jury." },
+                { "french": "La délibération a lieu à huis clos, en l'absence du candidat.", "english": "Deliberation takes place behind closed doors, in the candidate's absence." },
+                { "french": "Le jury vous décerne le titre de docteur, avec les félicitations.", "english": "The jury awards you the title of doctor, with the jury's commendation." }
+              ],
+              "tip": "Even after six years of tutoiement, revert to vous with your supervisor for the length of the defence. Everyone will notice if you don't."
+            },
+            {
+              "heading": "L'exposé liminaire",
+              "body": "You get twenty to forty minutes to present a work the jury has already read. So do not summarise: retrace the itinerary. French juries want to hear the genesis of the problématique, the choices you made and rejected, and your own view of what the thesis fails to do. Announcing your limits before the jury does is the single most effective defensive move available.",
+              "examples": [
+                { "french": "Je ne reviendrai pas sur le détail des chapitres, que vous avez lus.", "english": "I shall not go back over the detail of the chapters, which you have read." },
+                { "french": "Je voudrais plutôt retracer le cheminement qui m'a conduit à déplacer la question.", "english": "I should like instead to retrace the path that led me to shift the question." },
+                { "french": "J'assume pleinement ce choix de corpus, dont je connais les limites.", "english": "I fully own this choice of corpus, whose limits I am aware of." },
+                { "french": "Ce que cette thèse ne fait pas, et que je regrette, c'est comparer avec le cas italien.", "english": "What this thesis does not do, and I regret it, is compare with the Italian case.", "note": "Pre-empting an obvious criticism." },
+                { "french": "Permettez-moi de conclure sur les prolongements que j'envisage.", "english": "Allow me to conclude on the extensions I envisage." }
+              ],
+              "tip": "Respect your time to the minute. Being cut off by the président is the worst opening a defence can have."
+            },
+            {
+              "heading": "Encaisser une question hostile",
+              "body": "Some questions are genuine; some are performances for the other jury members; a few are traps. The register never changes: you stay courteous, you never say vous n'avez pas compris, and you never fill silence with panic. Acknowledge, then answer, then stop. If you don't know, say so — a jury forgives ignorance far more readily than bluffing, which they detect instantly.",
+              "examples": [
+                { "french": "Votre question touche un point que j'ai longtemps laissé de côté, et je vous en remercie.", "english": "Your question touches on a point I long left aside, and I thank you for it.", "note": "Buys three seconds and sounds gracious." },
+                { "french": "Je ne suis pas certain de bien saisir la portée de votre objection : parlez-vous des sources ou du modèle ?", "english": "I am not sure I fully grasp the scope of your objection: are you speaking of the sources or of the model?", "note": "Legitimate clarification — not evasion." },
+                { "french": "Sur ce point, je dois avouer mon ignorance ; c'est un chantier que j'ouvrirai.", "english": "On this point I must admit my ignorance; it is a project I shall take up.", "note": "Honesty is a recognised defensive strategy." },
+                { "french": "Je maintiens cette lecture, et je vais dire pourquoi.", "english": "I stand by this reading, and I shall say why.", "note": "Firm without aggression. Then actually give the reason." },
+                { "french": "Vous avez raison, et cette faiblesse m'a longtemps préoccupé.", "english": "You are right, and this weakness worried me for a long time.", "note": "Conceding fully, once, is disarming." }
+              ],
+              "tip": "Botter en touche — kicking the ball into touch — is visible from the back of the room. Juries let it pass once, never twice."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            {
+              "id": "soutenance",
+              "french": "la soutenance",
+              "english": "the thesis defence, the viva",
+              "partOfSpeech": "noun",
+              "gender": "f",
+              "plural": "les soutenances",
+              "pronunciation": "lah soot-NAHNSS",
+              "example": "Sa soutenance a duré quatre heures, questions comprises.",
+              "exampleEnglish": "Her defence lasted four hours, questions included.",
+              "level": "C2",
+              "category": "defence"
+            },
+            {
+              "id": "le-jury",
+              "french": "le jury",
+              "english": "the examining board, the jury",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les jurys",
+              "pronunciation": "luh zhew-REE",
+              "example": "Le jury compte six membres, dont deux extérieurs à l'établissement.",
+              "exampleEnglish": "The board has six members, two of them from outside the institution.",
+              "level": "C2",
+              "category": "defence"
+            },
+            {
+              "id": "president-du-jury",
+              "french": "le président du jury",
+              "english": "the chair of the examining board",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les présidents du jury",
+              "pronunciation": "luh pray-zee-DAHN dew zhew-REE",
+              "example": "Le président du jury veille au temps et distribue la parole.",
+              "exampleEnglish": "The chair keeps time and allocates speaking turns.",
+              "level": "C2",
+              "category": "defence"
+            },
+            {
+              "id": "examinateur",
+              "french": "l'examinateur",
+              "english": "the examiner",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les examinateurs",
+              "pronunciation": "leg-zah-mee-nah-TEUR",
+              "example": "Le troisième examinateur n'a posé qu'une question, redoutable.",
+              "exampleEnglish": "The third examiner asked only one question, a formidable one.",
+              "level": "C2",
+              "category": "defence"
+            },
+            {
+              "id": "directeur-de-these",
+              "french": "le directeur de thèse",
+              "english": "the doctoral supervisor",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les directeurs de thèse",
+              "pronunciation": "luh dee-rek-TEUR duh TEZ",
+              "example": "Le directeur de thèse parle en dernier, et brièvement.",
+              "exampleEnglish": "The supervisor speaks last, and briefly.",
+              "level": "C2",
+              "category": "defence"
+            },
+            {
+              "id": "doctorant",
+              "french": "le doctorant",
+              "english": "the doctoral student",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les doctorants",
+              "pronunciation": "luh dok-to-RAHN",
+              "example": "Un doctorant en fin de parcours connaît sa thèse mieux que quiconque.",
+              "exampleEnglish": "A doctoral student at the end of the road knows the thesis better than anyone.",
+              "level": "C2",
+              "category": "defence"
+            },
+            {
+              "id": "la-these",
+              "french": "la thèse",
+              "english": "the thesis (doctoral work)",
+              "partOfSpeech": "noun",
+              "gender": "f",
+              "plural": "les thèses",
+              "pronunciation": "lah TEZ",
+              "example": "Sa thèse fait six cents pages, annexes non comprises.",
+              "exampleEnglish": "His thesis runs to six hundred pages, appendices excluded.",
+              "level": "C2",
+              "category": "defence"
+            },
+            {
+              "id": "le-memoire",
+              "french": "le mémoire",
+              "english": "the dissertation (master's level)",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les mémoires",
+              "pronunciation": "luh may-MWAR",
+              "example": "Le mémoire de master se soutient devant deux enseignants seulement.",
+              "exampleEnglish": "The master's dissertation is defended before only two teachers.",
+              "level": "C2",
+              "category": "defence"
+            },
+            {
+              "id": "l-expose",
+              "french": "l'exposé",
+              "english": "the presentation, the oral account",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les exposés",
+              "pronunciation": "lex-po-ZAY",
+              "example": "L'exposé liminaire ne doit pas résumer : il doit retracer.",
+              "exampleEnglish": "The opening presentation should not summarise: it should retrace.",
+              "level": "C2",
+              "category": "defence"
+            },
+            {
+              "id": "diaporama",
+              "french": "le diaporama",
+              "english": "the slideshow",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les diaporamas",
+              "pronunciation": "luh dee-ah-po-rah-MAH",
+              "example": "Un diaporama de quarante diapositives pour vingt minutes : c'est trop.",
+              "exampleEnglish": "A forty-slide deck for twenty minutes: that is too much.",
+              "level": "C2",
+              "category": "defence"
+            },
+            {
+              "id": "temps-de-parole",
+              "french": "le temps de parole",
+              "english": "the speaking time allotted",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les temps de parole",
+              "pronunciation": "luh TAHN duh pah-ROL",
+              "example": "Dépasser son temps de parole indispose le jury avant même les questions.",
+              "exampleEnglish": "Overrunning your speaking time annoys the board before the questions have even begun.",
+              "level": "C2",
+              "category": "defence"
+            },
+            {
+              "id": "le-huis-clos",
+              "french": "le huis clos",
+              "english": "the closed session",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les huis clos",
+              "pronunciation": "luh wee KLO",
+              "example": "La décision se prend à huis clos, hors de la présence du candidat.",
+              "exampleEnglish": "The decision is taken behind closed doors, out of the candidate's presence.",
+              "level": "C2",
+              "category": "defence"
+            },
+            {
+              "id": "la-deliberation",
+              "french": "la délibération",
+              "english": "the deliberation",
+              "partOfSpeech": "noun",
+              "gender": "f",
+              "plural": "les délibérations",
+              "pronunciation": "lah day-lee-bay-rah-SYOHN",
+              "example": "La délibération a été longue, ce qui n'annonce rien de bon.",
+              "exampleEnglish": "The deliberation was long, which bodes ill.",
+              "level": "C2",
+              "category": "defence"
+            },
+            {
+              "id": "les-felicitations",
+              "french": "les félicitations",
+              "english": "the commendation, congratulations",
+              "partOfSpeech": "noun",
+              "gender": "f",
+              "plural": "les félicitations",
+              "pronunciation": "lay fay-lee-see-tah-SYOHN",
+              "example": "Les félicitations du jury ne sont plus décernées dans toutes les disciplines.",
+              "exampleEnglish": "The jury's commendation is no longer awarded in every discipline.",
+              "level": "C2",
+              "category": "defence"
+            },
+            {
+              "id": "la-mention",
+              "french": "la mention",
+              "english": "the distinction, the grade awarded",
+              "partOfSpeech": "noun",
+              "gender": "f",
+              "plural": "les mentions",
+              "pronunciation": "lah mahn-SYOHN",
+              "example": "La mention figure sur le procès-verbal, non sur le diplôme.",
+              "exampleEnglish": "The distinction appears on the record of proceedings, not on the diploma.",
+              "level": "C2",
+              "category": "defence"
+            },
+            {
+              "id": "titre-de-docteur",
+              "french": "le titre de docteur",
+              "english": "the doctoral title",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les titres de docteur",
+              "pronunciation": "luh TEETR duh dok-TEUR",
+              "example": "Le jury lui a décerné le titre de docteur à l'unanimité.",
+              "exampleEnglish": "The board awarded her the doctoral title unanimously.",
+              "level": "C2",
+              "category": "defence"
+            },
+            {
+              "id": "le-trac",
+              "french": "le trac",
+              "english": "stage fright, nerves",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les tracs",
+              "pronunciation": "luh TRAK",
+              "example": "Le trac tombe généralement à la première question sérieuse.",
+              "exampleEnglish": "Nerves generally drop away at the first serious question.",
+              "level": "C2",
+              "category": "defence"
+            },
+            {
+              "id": "l-aplomb",
+              "french": "l'aplomb",
+              "english": "poise, self-assurance",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les aplombs",
+              "pronunciation": "lah-PLOHN",
+              "example": "Elle a répondu avec un aplomb qui a manifestement plu au jury.",
+              "exampleEnglish": "She answered with a poise that clearly pleased the board.",
+              "level": "C2",
+              "category": "defence"
+            },
+            {
+              "id": "question-piege",
+              "french": "la question piège",
+              "english": "the trick question, the loaded question",
+              "partOfSpeech": "noun",
+              "gender": "f",
+              "plural": "les questions pièges",
+              "pronunciation": "lah kess-TYOHN PYEZH",
+              "example": "Toute question piège commence par un compliment.",
+              "exampleEnglish": "Every loaded question begins with a compliment.",
+              "level": "C2",
+              "category": "defence"
+            },
+            {
+              "id": "botter-en-touche",
+              "french": "botter en touche",
+              "english": "to dodge the question, to kick it into touch",
+              "partOfSpeech": "expression",
+              "pronunciation": "bo-TAY ahn TOOSH",
+              "example": "Il a botté en touche deux fois de suite ; le jury l'a noté.",
+              "exampleEnglish": "He dodged the question twice in a row; the board noticed.",
+              "level": "C2",
+              "category": "defence"
+            },
+            {
+              "id": "esquiver",
+              "french": "esquiver",
+              "english": "to sidestep, to evade",
+              "partOfSpeech": "verb",
+              "pronunciation": "es-kee-VAY",
+              "example": "Mieux vaut avouer son ignorance qu'esquiver une question précise.",
+              "exampleEnglish": "It is better to admit ignorance than to evade a precise question.",
+              "level": "C2",
+              "category": "defence"
+            },
+            {
+              "id": "recadrer",
+              "french": "recadrer",
+              "english": "to reframe, to put back in context",
+              "partOfSpeech": "verb",
+              "pronunciation": "ruh-kah-DRAY",
+              "example": "Elle a recadré la question sans donner l'impression de la fuir.",
+              "exampleEnglish": "She reframed the question without seeming to run from it.",
+              "level": "C2",
+              "category": "defence"
+            },
+            {
+              "id": "la-contradiction",
+              "french": "la contradiction",
+              "english": "the contradiction, the challenge",
+              "partOfSpeech": "noun",
+              "gender": "f",
+              "plural": "les contradictions",
+              "pronunciation": "lah kohn-trah-deek-SYOHN",
+              "example": "Le principe du contradictoire veut que le candidat puisse répondre à toute contradiction.",
+              "exampleEnglish": "The adversarial principle requires that the candidate be able to answer every challenge.",
+              "level": "C2",
+              "category": "defence"
+            },
+            {
+              "id": "contradicteur",
+              "french": "le contradicteur",
+              "english": "the challenger, the opponent in debate",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les contradicteurs",
+              "pronunciation": "luh kohn-trah-deek-TEUR",
+              "example": "Son contradicteur le plus rude s'est révélé le plus bienveillant.",
+              "exampleEnglish": "His harshest challenger turned out to be the most benevolent.",
+              "level": "C2",
+              "category": "defence"
+            },
+            {
+              "id": "tenir-tete",
+              "french": "tenir tête",
+              "english": "to stand up to, to hold one's ground",
+              "partOfSpeech": "expression",
+              "pronunciation": "tuh-NEER TET",
+              "example": "Tenir tête à un examinateur ne signifie pas hausser le ton.",
+              "exampleEnglish": "Standing up to an examiner does not mean raising your voice.",
+              "level": "C2",
+              "category": "defence"
+            },
+            {
+              "id": "desarconner",
+              "french": "désarçonner",
+              "english": "to throw off balance, to disconcert",
+              "partOfSpeech": "verb",
+              "pronunciation": "day-zar-so-NAY",
+              "example": "La question l'a désarçonné pendant quelques secondes, pas davantage.",
+              "exampleEnglish": "The question threw him off balance for a few seconds, no more.",
+              "level": "C2",
+              "category": "defence"
+            },
+            {
+              "id": "humilite",
+              "french": "l'humilité",
+              "english": "humility",
+              "partOfSpeech": "noun",
+              "gender": "f",
+              "plural": "les humilités",
+              "pronunciation": "lew-mee-lee-TAY",
+              "example": "L'humilité n'est pas la timidité : elle se prouve par la précision.",
+              "exampleEnglish": "Humility is not shyness: it is proved by precision.",
+              "level": "C2",
+              "category": "defence"
+            },
+            {
+              "id": "la-morgue",
+              "french": "la morgue",
+              "english": "haughtiness, disdainful arrogance",
+              "partOfSpeech": "noun",
+              "gender": "f",
+              "plural": "les morgues",
+              "pronunciation": "lah MORG",
+              "example": "Un soupçon de morgue chez le candidat peut coûter les félicitations.",
+              "exampleEnglish": "A hint of haughtiness in the candidate can cost the commendation.",
+              "level": "C2",
+              "category": "defence"
+            },
+            {
+              "id": "solennite",
+              "french": "la solennité",
+              "english": "solemnity",
+              "partOfSpeech": "noun",
+              "gender": "f",
+              "plural": "les solennités",
+              "pronunciation": "lah so-lah-nee-TAY",
+              "example": "La solennité de la salle intimide plus que le jury lui-même.",
+              "exampleEnglish": "The solemnity of the room is more intimidating than the board itself.",
+              "level": "C2",
+              "category": "defence"
+            },
+            {
+              "id": "les-remerciements",
+              "french": "les remerciements",
+              "english": "the acknowledgements, the thanks",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les remerciements",
+              "pronunciation": "lay ruh-mer-see-MAHN",
+              "example": "Ses remerciements ont fait rire la salle, ce qui est permis.",
+              "exampleEnglish": "His acknowledgements made the room laugh, which is allowed.",
+              "level": "C2",
+              "category": "defence"
+            },
+            {
+              "id": "prise-de-parole",
+              "french": "la prise de parole",
+              "english": "the act of speaking up, the turn to speak",
+              "partOfSpeech": "noun",
+              "gender": "f",
+              "plural": "les prises de parole",
+              "pronunciation": "lah PREEZ duh pah-ROL",
+              "example": "Chaque prise de parole du jury dure une quinzaine de minutes.",
+              "exampleEnglish": "Each of the board's turns to speak lasts about fifteen minutes.",
+              "level": "C2",
+              "category": "defence"
+            },
+            {
+              "id": "prestation",
+              "french": "la prestation",
+              "english": "the performance (on the day)",
+              "partOfSpeech": "noun",
+              "gender": "f",
+              "plural": "les prestations",
+              "pronunciation": "lah pres-tah-SYOHN",
+              "example": "Le jury évalue la thèse, mais retient aussi la prestation orale.",
+              "exampleEnglish": "The board assesses the thesis, but also takes in the oral performance.",
+              "level": "C2",
+              "category": "defence"
+            },
+            {
+              "id": "le-questionnement",
+              "french": "le questionnement",
+              "english": "the line of questioning",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les questionnements",
+              "pronunciation": "luh kess-tyon-MAHN",
+              "example": "Son questionnement portait moins sur les résultats que sur la méthode.",
+              "exampleEnglish": "His line of questioning bore less on the results than on the method.",
+              "level": "C2",
+              "category": "defence"
+            },
+            {
+              "id": "riposte",
+              "french": "la riposte",
+              "english": "the retort, the comeback",
+              "partOfSpeech": "noun",
+              "gender": "f",
+              "plural": "les ripostes",
+              "pronunciation": "lah ree-POST",
+              "example": "Sa riposte était trop vive : le jury a échangé un regard.",
+              "exampleEnglish": "Her retort was too sharp: the board exchanged a glance.",
+              "level": "C2",
+              "category": "defence"
+            },
+            {
+              "id": "le-ton",
+              "french": "le ton",
+              "english": "the tone",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les tons",
+              "pronunciation": "luh TOHN",
+              "example": "Le ton compte autant que le contenu pendant une soutenance.",
+              "exampleEnglish": "Tone counts as much as content during a defence.",
+              "level": "C2",
+              "category": "defence"
+            },
+            {
+              "id": "ceremonial",
+              "french": "le cérémonial",
+              "english": "the ceremonial, the protocol",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les cérémonials",
+              "pronunciation": "luh say-ray-mo-NYAL",
+              "example": "Ce cérémonial paraît suranné, mais il protège le candidat autant que le jury.",
+              "exampleEnglish": "This ceremonial seems outdated, but it protects the candidate as much as the board.",
+              "level": "C2",
+              "category": "defence"
+            },
+            {
+              "id": "pot-de-these",
+              "french": "le pot de thèse",
+              "english": "the post-defence drinks reception",
+              "partOfSpeech": "noun",
+              "gender": "m",
+              "plural": "les pots de thèse",
+              "pronunciation": "luh PO duh TEZ",
+              "example": "Le pot de thèse est presque aussi obligatoire que la soutenance elle-même.",
+              "exampleEnglish": "The post-defence reception is almost as obligatory as the defence itself.",
+              "level": "C2",
+              "category": "defence"
+            }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Le registre soutenu à l'oral",
+              "body": "A defence is spoken language held to written standards. Three habits mark the register: you keep the ne of negation (je ne crois pas, never j'crois pas), you use inversion in questions to the jury (puis-je revenir sur ce point ?), and you avoid on where nous is expected. Permettez-moi de and je me permets de are the standard ways of asking permission to do anything at all.",
+              "examples": [
+                { "french": "Je ne crois pas que cette lecture soit tenable.", "english": "I do not believe that this reading is tenable.", "note": "ne kept; subjunctive after je ne crois pas que." },
+                { "french": "Puis-je revenir un instant sur votre deuxième remarque ?", "english": "May I come back for a moment to your second remark?", "note": "Puis-je, not peux-je, which does not exist." },
+                { "french": "Permettez-moi de préciser ce que j'entends par ce terme.", "english": "Allow me to clarify what I mean by this term." },
+                { "french": "Nous avons, avec mon directeur, longuement hésité sur ce découpage.", "english": "My supervisor and I hesitated at length over this division.", "note": "avec mon directeur inserted between subject and verb: elegant and very oral-formal." },
+                { "french": "Sans doute aurais-je dû l'expliciter davantage.", "english": "I should doubtless have made it more explicit.", "note": "Inversion after sans doute in initial position." }
+              ],
+              "tip": "Dropping the ne once is invisible; dropping it consistently for forty minutes tells the jury you have not shifted register."
+            },
+            {
+              "heading": "Répondre : concession, réserve, refus",
+              "body": "Three gradations answer a hostile question. Full concession: vous avez raison, and then say what you would now do. Partial concession with a reservation: je vous suis sur X, avec cette réserve que… Firm refusal: je maintiens, and immediately the reason. French juries hear the structure as much as the content — an answer that never concedes anything reads as brittle, one that concedes everything reads as ungrounded.",
+              "examples": [
+                { "french": "Vous avez raison, et je reprendrais aujourd'hui ce chapitre autrement.", "english": "You are right, and I would take up that chapter differently today.", "note": "Conditional signals hindsight, not weakness." },
+                { "french": "Je vous suis volontiers sur le principe, avec cette réserve que les sources manquent.", "english": "I willingly follow you on the principle, with the reservation that the sources are lacking." },
+                { "french": "Je maintiens cette datation, et voici sur quoi je m'appuie.", "english": "I stand by this dating, and here is what I base myself on." },
+                { "french": "Il me semble, si vous me permettez, que l'objection vise un autre corpus que le mien.", "english": "It seems to me, if you will allow me, that the objection targets a corpus other than mine.", "note": "The softest available way to say you have misread me." },
+                { "french": "Je n'ai pas de réponse à vous donner aujourd'hui, et je préfère le dire.", "english": "I have no answer to give you today, and I prefer to say so." }
+              ],
+              "tip": "Never answer a question with a question unless you are genuinely asking for clarification. Rhetorical returns of serve are read as insolence."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "c2_u08_l03_li01",
+              "type": "listenChoose",
+              "french": "Le jury se retire pour délibérer ; la séance reprendra dans vingt minutes.",
+              "options": [
+                "The board withdraws to deliberate; the session resumes in twenty minutes.",
+                "The board refuses to deliberate before twenty minutes have passed.",
+                "The candidate withdraws for twenty minutes to prepare an answer.",
+                "The session is suspended for twenty days before the verdict."
+              ],
+              "answer": "The board withdraws to deliberate; the session resumes in twenty minutes."
+            },
+            {
+              "id": "c2_u08_l03_li02",
+              "type": "listenChoose",
+              "french": "Sur ce point, je dois avouer mon ignorance ; c'est un chantier que j'ouvrirai.",
+              "options": [
+                "The candidate admits not knowing and frames it as future work.",
+                "The candidate accuses the examiner of ignorance.",
+                "The candidate refuses to answer the question.",
+                "The candidate says the point is already dealt with in chapter one."
+              ],
+              "answer": "The candidate admits not knowing and frames it as future work."
+            },
+            {
+              "id": "c2_u08_l03_li03",
+              "type": "listenType",
+              "french": "Puis-je revenir un instant sur votre deuxième remarque ?",
+              "answer": "Puis-je revenir un instant sur votre deuxième remarque ?",
+              "acceptedAnswers": [
+                "Puis-je revenir un instant sur votre deuxieme remarque",
+                "Puis-je revenir un instant sur votre deuxième remarque",
+                "puis-je revenir un instant sur votre deuxieme remarque ?"
+              ]
+            },
+            {
+              "id": "c2_u08_l03_li04",
+              "type": "dictation",
+              "french": "Je ne reviendrai pas sur le détail des chapitres, que vous avez lus.",
+              "answer": "Je ne reviendrai pas sur le détail des chapitres, que vous avez lus.",
+              "acceptedAnswers": [
+                "Je ne reviendrai pas sur le detail des chapitres, que vous avez lus",
+                "Je ne reviendrai pas sur le détail des chapitres que vous avez lus",
+                "je ne reviendrai pas sur le detail des chapitres que vous avez lus"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "c2_u08_l03_sp01",
+              "type": "speak",
+              "french": "Madame la Présidente, Mesdames et Messieurs les membres du jury, je vous remercie de votre présence.",
+              "english": "Madam Chair, ladies and gentlemen of the board, thank you for your presence.",
+              "prompt": "Open your defence with the ritual address.",
+              "tip": "Pause after each vocative group. Rushing this sentence is the classic sign of nerves."
+            },
+            {
+              "id": "c2_u08_l03_sp02",
+              "type": "speak",
+              "french": "Ce que cette thèse ne fait pas, et je le regrette, c'est la comparaison avec le cas italien.",
+              "english": "What this thesis does not do, and I regret it, is the comparison with the Italian case.",
+              "prompt": "Name your own limitation before the board does.",
+              "tip": "The cleft ce que… c'est needs a real pause before c'est; that pause is what gives the admission weight."
+            },
+            {
+              "id": "c2_u08_l03_sp03",
+              "type": "speak",
+              "french": "Je maintiens cette datation, et voici sur quoi je m'appuie.",
+              "english": "I stand by this dating, and here is what I base myself on.",
+              "prompt": "Hold your ground firmly but courteously, then hand over the evidence.",
+              "tip": "Say je maintiens flatly, without heat. Any rise in volume turns firmness into defensiveness."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Quatorze heures dix",
+              "french": "La salle sentait la craie et le radiateur, et personne n'avait songé à ouvrir une fenêtre.\nLe président du jury a rappelé la règle : vingt minutes d'exposé, puis une prise de parole de quinze minutes par membre.\nElle a parlé dix-neuf minutes, sans lire ses notes, et s'est arrêtée sur ce que sa thèse ne faisait pas.\nLe premier rapporteur a commencé par un compliment si long qu'on a compris qu'il préparait autre chose.\nSa question, quand elle est venue, portait sur un chapitre entier qu'il jugeait décoratif.\nElle a concédé la moitié du reproche, ce qui l'a manifestement désarçonné.\nLe deuxième examinateur, lui, ne s'intéressait qu'à la méthode, et il y est revenu quatre fois.\nÀ la troisième, elle a dit qu'elle n'avait pas de réponse ce jour-là et qu'elle préférait le dire.\nUn membre du jury a hoché la tête ; un autre a noté quelque chose.\nLa question piège est arrivée à seize heures moins le quart, enveloppée dans une anecdote.\nElle a demandé une précision plutôt que de répondre au hasard, et l'on a vu que la question, désarmée, ne pesait plus grand-chose.\nSon directeur de thèse a parlé en dernier, cinq minutes, sur un ton qui n'était plus celui d'un directeur.\nLe jury s'est retiré à huis clos ; le couloir s'est rempli de conversations trop fortes.\nLa délibération a duré vingt-cinq minutes, ce qui, dans ce couloir, s'est lu comme une éternité.\nQuand ils sont revenus, le président a lu la formule d'usage, et le titre de docteur lui a été décerné.\nElle n'a pleuré qu'au pot, une heure plus tard, en cherchant ses mots pour remercier ses parents.",
+              "english": "The room smelled of chalk and radiator, and nobody had thought to open a window.\nThe chair reminded everyone of the rule: twenty minutes of presentation, then fifteen minutes of questioning per member.\nShe spoke for nineteen minutes, without reading her notes, and ended on what her thesis did not do.\nThe first reviewer began with a compliment so long that one understood he was preparing something else.\nHis question, when it came, bore on an entire chapter that he judged decorative.\nShe conceded half of the reproach, which visibly threw him off balance.\nThe second examiner, for his part, was interested only in the method, and came back to it four times.\nOn the third, she said she had no answer that day and that she preferred to say so.\nOne board member nodded; another wrote something down.\nThe loaded question arrived at a quarter to four, wrapped in an anecdote.\nShe asked for a clarification rather than answering at random, and one saw that the question, disarmed, no longer weighed very much.\nHer supervisor spoke last, for five minutes, in a tone that was no longer a supervisor's.\nThe board withdrew behind closed doors; the corridor filled with conversations pitched too loud.\nThe deliberation lasted twenty-five minutes, which, in that corridor, read as an eternity.\nWhen they came back, the chair read the customary formula, and the doctoral title was awarded to her.\nShe cried only at the reception, an hour later, searching for words to thank her parents.",
+              "questions": [
+                {
+                  "id": "c2_u08_l03_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Comment la candidate a-t-elle traité la question piège ?",
+                  "options": [
+                    "Elle a demandé une précision au lieu de répondre au hasard",
+                    "Elle a refusé de répondre et a changé de sujet",
+                    "Elle a répondu par une autre question ironique",
+                    "Elle a laissé son directeur de thèse répondre à sa place"
+                  ],
+                  "answer": "Elle a demandé une précision au lieu de répondre au hasard"
+                },
+                {
+                  "id": "c2_u08_l03_rd02",
+                  "type": "multipleChoice",
+                  "prompt": "Qu'a fait la candidate face au reproche du premier rapporteur ?",
+                  "options": [
+                    "Elle en a concédé la moitié, ce qui a désarçonné le rapporteur",
+                    "Elle a nié le reproche en bloc",
+                    "Elle a promis de supprimer le chapitre entier",
+                    "Elle a demandé une suspension de séance"
+                  ],
+                  "answer": "Elle en a concédé la moitié, ce qui a désarçonné le rapporteur"
+                },
+                {
+                  "id": "c2_u08_l03_rd03",
+                  "type": "trueFalse",
+                  "prompt": "La candidate a admis, devant le jury, n'avoir aucune réponse à donner ce jour-là sur un point de méthode.",
+                  "options": ["True", "False"],
+                  "answer": "True"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "c2_u08_l03_wr01",
+              "type": "translate",
+              "prompt": "Ouvrez votre soutenance selon le protocole.",
+              "english": "Madam Chair, ladies and gentlemen of the board, allow me to thank you for your presence.",
+              "answer": "Madame la Présidente, Mesdames et Messieurs les membres du jury, permettez-moi de vous remercier de votre présence.",
+              "acceptedAnswers": [
+                "Madame la Presidente, Mesdames et Messieurs les membres du jury, permettez-moi de vous remercier de votre presence",
+                "Madame la Présidente, Mesdames et Messieurs les membres du jury, permettez-moi de vous remercier de votre présence"
+              ]
+            },
+            {
+              "id": "c2_u08_l03_wr02",
+              "type": "translate",
+              "prompt": "Concédez à moitié, en gardant une réserve.",
+              "english": "I willingly follow you on the principle, with the reservation that the sources are lacking for this period.",
+              "answer": "Je vous suis volontiers sur le principe, avec cette réserve que les sources manquent pour cette période.",
+              "acceptedAnswers": [
+                "Je vous suis volontiers sur le principe, avec cette reserve que les sources manquent pour cette periode",
+                "Je vous suis volontiers sur le principe avec cette réserve que les sources manquent pour cette période"
+              ]
+            },
+            {
+              "id": "c2_u08_l03_wr03",
+              "type": "translate",
+              "prompt": "Avouez une limite sans vous excuser.",
+              "english": "I have no answer to give you today, and I prefer to say so.",
+              "answer": "Je n'ai pas de réponse à vous donner aujourd'hui, et je préfère le dire.",
+              "acceptedAnswers": [
+                "Je n'ai pas de reponse a vous donner aujourd'hui, et je prefere le dire",
+                "Je n'ai pas de réponse à vous donner aujourd'hui et je préfère le dire"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "c2_u08_l03_pr01",
+              "type": "fillBlank",
+              "prompt": "___-je revenir un instant sur votre deuxième remarque ?",
+              "answer": "Puis"
+            },
+            {
+              "id": "c2_u08_l03_pr02",
+              "type": "fillBlank",
+              "prompt": "Je ne crois pas que cette lecture ___ tenable.",
+              "answer": "soit"
+            },
+            {
+              "id": "c2_u08_l03_pr03",
+              "type": "arrangeWords",
+              "words": ["à", "délibérer", "jury", "retire", "se", "pour", "Le"],
+              "answer": "Le jury se retire pour délibérer",
+              "english": "The board withdraws to deliberate."
+            },
+            {
+              "id": "c2_u08_l03_pr04",
+              "type": "match",
+              "pairs": [
+                { "french": "le huis clos", "english": "the closed session" },
+                { "french": "la question piège", "english": "the loaded question" },
+                { "french": "l'aplomb", "english": "poise" },
+                { "french": "botter en touche", "english": "to dodge the question" }
+              ]
+            },
+            {
+              "id": "c2_u08_l03_pr05",
+              "type": "multipleChoice",
+              "prompt": "Que doit contenir, avant tout, l'exposé liminaire d'une soutenance ?",
+              "options": [
+                "Le cheminement de la recherche et ses choix assumés",
+                "Un résumé fidèle de chaque chapitre",
+                "La liste complète des sources consultées",
+                "Les remerciements adressés au jury"
+              ],
+              "answer": "Le cheminement de la recherche et ses choix assumés"
+            },
+            {
+              "id": "c2_u08_l03_pr06",
+              "type": "trueFalse",
+              "prompt": "Pendant une soutenance, le candidat continue de tutoyer son directeur de thèse.",
+              "options": ["True", "False"],
+              "answer": "False"
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "c2_u08_l03_qz01",
+              "type": "multipleChoice",
+              "prompt": "Quel membre du jury ouvre la séance et distribue la parole ?",
+              "options": [
+                "Le président du jury",
+                "Le directeur de thèse",
+                "Le premier rapporteur",
+                "Le doctorant lui-même"
+              ],
+              "answer": "Le président du jury"
+            },
+            {
+              "id": "c2_u08_l03_qz02",
+              "type": "fillBlank",
+              "prompt": "La délibération se tient à ___ clos, en l'absence du candidat.",
+              "answer": "huis"
+            },
+            {
+              "id": "c2_u08_l03_qz03",
+              "type": "multipleChoice",
+              "prompt": "Face à une question à laquelle il ne sait pas répondre, que doit faire le candidat ?",
+              "options": [
+                "Avouer son ignorance et en faire un chantier à venir",
+                "Botter en touche avec une anecdote",
+                "Renvoyer la question à un membre du jury",
+                "Répondre au hasard pour ne pas laisser de silence"
+              ],
+              "answer": "Avouer son ignorance et en faire un chantier à venir"
+            },
+            {
+              "id": "c2_u08_l03_qz04",
+              "type": "translate",
+              "prompt": "Traduisez.",
+              "english": "I stand by this dating, and here is what I base myself on.",
+              "answer": "Je maintiens cette datation, et voici sur quoi je m'appuie.",
+              "acceptedAnswers": [
+                "Je maintiens cette datation, et voici sur quoi je m'appuie",
+                "Je maintiens cette datation et voici sur quoi je m'appuie"
+              ]
+            },
+            {
+              "id": "c2_u08_l03_qz05",
+              "type": "trueFalse",
+              "prompt": "Un soupçon de morgue chez le candidat peut lui coûter les félicitations du jury.",
+              "options": ["True", "False"],
+              "answer": "True"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1036 @@
+{
+  "id": "a2_u18",
+  "level": "A2",
+  "unit": 18,
+  "title": "Music & Entertainment",
+  "subtitle": "Talk about music, films and going out with friends",
+  "icon": "🎵",
+  "lessons": [
+    {
+      "id": "a2_u18_l01",
+      "level": "A2",
+      "unit": 18,
+      "title": "La musique",
+      "description": "Name musical genres and instruments, and say what you love or can't stand listening to.",
+      "estimatedMinutes": 16,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Talking about musical genres",
+              "body": "In French, a style of music takes the definite article: le rock, le jazz, la pop. When you say what you like, keep that article — French never drops it the way English does. The question everyone asks is Tu écoutes quoi comme musique ? (What kind of music do you listen to?).",
+              "examples": [
+                { "french": "Tu écoutes quoi comme musique ?", "english": "What kind of music do you listen to?", "note": "very common spoken word order" },
+                { "french": "J'écoute surtout du rock et de la pop.", "english": "I mostly listen to rock and pop.", "note": "du / de la = some, an unspecified amount" },
+                { "french": "J'aime le jazz, mais je déteste le rap.", "english": "I like jazz, but I hate rap." },
+                { "french": "La musique classique me détend beaucoup.", "english": "Classical music relaxes me a lot." },
+                { "french": "Mon groupe préféré passe à la radio.", "english": "My favourite band is on the radio." }
+              ],
+              "tip": "Quoi comme musique ? sounds natural and friendly. Quel genre de musique ? is the slightly more formal version."
+            },
+            {
+              "heading": "Instruments and the people who play them",
+              "body": "Instruments are nouns with a gender: la guitare, le piano, le violon, la batterie. The person is often built from the instrument: guitare → guitariste, piano → pianiste, violon → violoniste. These -iste words never change for gender, only the article does: un pianiste, une pianiste.",
+              "examples": [
+                { "french": "Je joue de la guitare depuis cinq ans.", "english": "I have been playing the guitar for five years." },
+                { "french": "Ma sœur est violoniste dans un orchestre.", "english": "My sister is a violinist in an orchestra." },
+                { "french": "Il y a un piano dans la salle de répétition.", "english": "There is a piano in the rehearsal room." },
+                { "french": "La batterie est l'instrument le plus bruyant.", "english": "The drums are the noisiest instrument." },
+                { "french": "Nous répétons tous les mardis soir.", "english": "We rehearse every Tuesday evening." }
+              ],
+              "tip": "After être with a job or role, French drops the article: Elle est chanteuse, not Elle est une chanteuse."
+            },
+            {
+              "heading": "Saying how much you like it",
+              "body": "French has a clear ladder of taste verbs: adorer (love), aimer bien (quite like), aimer (like), ne pas aimer (not like), détester (hate). You can add a reason with parce que. To react to a song someone plays you, use short expressions like C'est génial ! or Ce n'est pas mon style.",
+              "examples": [
+                { "french": "J'adore cette chanson, le refrain est magnifique.", "english": "I love this song, the chorus is beautiful." },
+                { "french": "J'aime bien ce groupe, mais je préfère l'album précédent.", "english": "I quite like this band, but I prefer the previous album." },
+                { "french": "Je n'aime pas trop les paroles.", "english": "I don't really like the lyrics.", "note": "pas trop softens a negative opinion" },
+                { "french": "Ce n'est pas mon style de musique.", "english": "It's not my style of music." },
+                { "french": "Elle a une voix incroyable !", "english": "She has an incredible voice!" }
+              ],
+              "tip": "Aimer bien is weaker than aimer. Je t'aime bien means \"I like you\" — quite different from Je t'aime."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "musique", "french": "la musique", "english": "music", "partOfSpeech": "noun", "gender": "f", "plural": "musiques", "pronunciation": "mew-ZEEK", "example": "La musique adoucit les mœurs.", "exampleEnglish": "Music soothes the soul.", "level": "A2", "category": "music" },
+            { "id": "la-chanson", "french": "la chanson", "english": "song", "partOfSpeech": "noun", "gender": "f", "plural": "chansons", "pronunciation": "shahn-SON", "example": "Cette chanson passe partout en ce moment.", "exampleEnglish": "This song is playing everywhere right now.", "level": "A2", "category": "music" },
+            { "id": "le-chanteur", "french": "le chanteur", "english": "singer (male)", "partOfSpeech": "noun", "gender": "m", "plural": "chanteurs", "pronunciation": "shahn-TUHR", "example": "Le chanteur arrive sur scène à vingt heures.", "exampleEnglish": "The singer comes on stage at eight p.m.", "level": "A2", "category": "music" },
+            { "id": "la-chanteuse", "french": "la chanteuse", "english": "singer (female)", "partOfSpeech": "noun", "gender": "f", "plural": "chanteuses", "pronunciation": "shahn-TUHZ", "example": "Ma chanteuse préférée est française.", "exampleEnglish": "My favourite singer is French.", "level": "A2", "category": "music" },
+            { "id": "le-groupe", "french": "le groupe", "english": "band, group", "partOfSpeech": "noun", "gender": "m", "plural": "groupes", "pronunciation": "groop", "example": "Leur groupe joue dans un petit bar.", "exampleEnglish": "Their band plays in a small bar.", "level": "A2", "category": "music" },
+            { "id": "le-concert", "french": "le concert", "english": "concert", "partOfSpeech": "noun", "gender": "m", "plural": "concerts", "pronunciation": "kon-SAIR", "example": "Le concert commence à vingt et une heures.", "exampleEnglish": "The concert starts at nine p.m.", "level": "A2", "category": "music" },
+            { "id": "le-musicien", "french": "le musicien", "english": "musician", "partOfSpeech": "noun", "gender": "m", "plural": "musiciens", "pronunciation": "mew-zee-SYAN", "example": "Les musiciens accordent leurs instruments.", "exampleEnglish": "The musicians are tuning their instruments.", "level": "A2", "category": "music" },
+            { "id": "l-instrument", "french": "l'instrument", "english": "instrument", "partOfSpeech": "noun", "gender": "m", "plural": "instruments", "pronunciation": "lan-strew-MAHN", "example": "Quel instrument est-ce que tu joues ?", "exampleEnglish": "Which instrument do you play?", "level": "A2", "category": "music" },
+            { "id": "la-guitare", "french": "la guitare", "english": "guitar", "partOfSpeech": "noun", "gender": "f", "plural": "guitares", "pronunciation": "gee-TAR", "example": "Il a acheté une guitare d'occasion.", "exampleEnglish": "He bought a second-hand guitar.", "level": "A2", "category": "music" },
+            { "id": "le-piano", "french": "le piano", "english": "piano", "partOfSpeech": "noun", "gender": "m", "plural": "pianos", "pronunciation": "pyah-NOH", "example": "Elle joue du piano depuis l'enfance.", "exampleEnglish": "She has played the piano since childhood.", "level": "A2", "category": "music" },
+            { "id": "le-violon", "french": "le violon", "english": "violin", "partOfSpeech": "noun", "gender": "m", "plural": "violons", "pronunciation": "vyoh-LON", "example": "Le violon est difficile au début.", "exampleEnglish": "The violin is difficult at the beginning.", "level": "A2", "category": "music" },
+            { "id": "la-batterie-instrument", "french": "la batterie", "english": "drums, drum kit", "partOfSpeech": "noun", "gender": "f", "plural": "batteries", "pronunciation": "bah-tuh-REE", "example": "Mon voisin joue de la batterie le samedi.", "exampleEnglish": "My neighbour plays the drums on Saturdays.", "level": "A2", "category": "music" },
+            { "id": "la-flute", "french": "la flûte", "english": "flute", "partOfSpeech": "noun", "gender": "f", "plural": "flûtes", "pronunciation": "flewt", "example": "À l'école, j'ai appris la flûte.", "exampleEnglish": "At school, I learned the flute.", "level": "A2", "category": "music" },
+            { "id": "jouer", "french": "jouer", "english": "to play", "partOfSpeech": "verb", "pronunciation": "zhoo-AY", "example": "Nous jouons ensemble tous les week-ends.", "exampleEnglish": "We play together every weekend.", "level": "A2", "category": "music" },
+            { "id": "chanter", "french": "chanter", "english": "to sing", "partOfSpeech": "verb", "pronunciation": "shahn-TAY", "example": "Elle chante toujours sous la douche.", "exampleEnglish": "She always sings in the shower.", "level": "A2", "category": "music" },
+            { "id": "ecouter", "french": "écouter", "english": "to listen to", "partOfSpeech": "verb", "pronunciation": "ay-koo-TAY", "example": "J'écoute de la musique dans le train.", "exampleEnglish": "I listen to music on the train.", "level": "A2", "category": "music" },
+            { "id": "la-voix", "french": "la voix", "english": "voice", "partOfSpeech": "noun", "gender": "f", "plural": "voix", "pronunciation": "vwah", "example": "Sa voix est grave et douce.", "exampleEnglish": "His voice is deep and soft.", "level": "A2", "category": "music" },
+            { "id": "l-album", "french": "l'album", "english": "album", "partOfSpeech": "noun", "gender": "m", "plural": "albums", "pronunciation": "lal-BOM", "example": "Leur nouvel album sort en mars.", "exampleEnglish": "Their new album comes out in March.", "level": "A2", "category": "music" },
+            { "id": "les-paroles", "french": "les paroles", "english": "lyrics", "partOfSpeech": "noun", "gender": "f", "plural": "paroles", "pronunciation": "pah-ROL", "example": "Je ne comprends pas toutes les paroles.", "exampleEnglish": "I don't understand all the lyrics.", "level": "A2", "category": "music" },
+            { "id": "le-rythme", "french": "le rythme", "english": "rhythm, beat", "partOfSpeech": "noun", "gender": "m", "plural": "rythmes", "pronunciation": "REETM", "example": "Ce morceau a un rythme très rapide.", "exampleEnglish": "This track has a very fast rhythm.", "level": "A2", "category": "music" },
+            { "id": "la-melodie", "french": "la mélodie", "english": "melody, tune", "partOfSpeech": "noun", "gender": "f", "plural": "mélodies", "pronunciation": "may-loh-DEE", "example": "La mélodie reste dans la tête.", "exampleEnglish": "The tune stays in your head.", "level": "A2", "category": "music" },
+            { "id": "le-refrain", "french": "le refrain", "english": "chorus (of a song)", "partOfSpeech": "noun", "gender": "m", "plural": "refrains", "pronunciation": "ruh-FRAN", "example": "Tout le monde chante le refrain.", "exampleEnglish": "Everybody sings the chorus.", "level": "A2", "category": "music" },
+            { "id": "festival", "french": "le festival", "english": "festival", "partOfSpeech": "noun", "gender": "m", "plural": "festivals", "pronunciation": "fes-tee-VAHL", "example": "Le festival a lieu chaque été.", "exampleEnglish": "The festival takes place every summer.", "level": "A2", "category": "music" },
+            { "id": "la-scene", "french": "la scène", "english": "stage", "partOfSpeech": "noun", "gender": "f", "plural": "scènes", "pronunciation": "sen", "example": "Les musiciens montent sur scène.", "exampleEnglish": "The musicians are going on stage.", "level": "A2", "category": "music" },
+            { "id": "le-public", "french": "le public", "english": "audience, crowd", "partOfSpeech": "noun", "gender": "m", "plural": "publics", "pronunciation": "pew-BLEEK", "example": "Le public applaudit très fort.", "exampleEnglish": "The audience is clapping very loudly.", "level": "A2", "category": "music" },
+            { "id": "le-rock", "french": "le rock", "english": "rock music", "partOfSpeech": "noun", "gender": "m", "pronunciation": "rok", "example": "Mon père écoute du rock des années 80.", "exampleEnglish": "My father listens to 80s rock.", "level": "A2", "category": "music" },
+            { "id": "le-jazz", "french": "le jazz", "english": "jazz", "partOfSpeech": "noun", "gender": "m", "pronunciation": "jahz", "example": "Il y a un club de jazz près d'ici.", "exampleEnglish": "There is a jazz club near here.", "level": "A2", "category": "music" },
+            { "id": "la-musique-classique", "french": "la musique classique", "english": "classical music", "partOfSpeech": "noun", "gender": "f", "pronunciation": "mew-ZEEK klah-SEEK", "example": "Je travaille mieux avec de la musique classique.", "exampleEnglish": "I work better with classical music.", "level": "A2", "category": "music" },
+            { "id": "le-rap", "french": "le rap", "english": "rap", "partOfSpeech": "noun", "gender": "m", "pronunciation": "rap", "example": "Le rap français est très populaire.", "exampleEnglish": "French rap is very popular.", "level": "A2", "category": "music" },
+            { "id": "la-chorale", "french": "la chorale", "english": "choir", "partOfSpeech": "noun", "gender": "f", "plural": "chorales", "pronunciation": "koh-RAHL", "example": "Ma mère chante dans une chorale.", "exampleEnglish": "My mother sings in a choir.", "level": "A2", "category": "music" },
+            { "id": "le-casque", "french": "le casque", "english": "headphones", "partOfSpeech": "noun", "gender": "m", "plural": "casques", "pronunciation": "kask", "example": "Mets ton casque, le bébé dort.", "exampleEnglish": "Put your headphones on, the baby is sleeping.", "level": "A2", "category": "music" },
+            { "id": "la-playlist", "french": "la playlist", "english": "playlist", "partOfSpeech": "noun", "gender": "f", "plural": "playlists", "pronunciation": "play-LEEST", "example": "J'ai fait une playlist pour la fête.", "exampleEnglish": "I made a playlist for the party.", "level": "A2", "category": "music" },
+            { "id": "doue", "french": "doué", "english": "gifted, talented", "partOfSpeech": "adjective", "pronunciation": "doo-AY", "example": "Elle est très douée pour la guitare.", "exampleEnglish": "She is very gifted at the guitar.", "level": "A2", "category": "description" },
+            { "id": "repeter", "french": "répéter", "english": "to rehearse, to repeat", "partOfSpeech": "verb", "pronunciation": "ray-pay-TAY", "example": "Le groupe répète avant le concert.", "exampleEnglish": "The band rehearses before the concert.", "level": "A2", "category": "music" },
+            { "id": "une-repetition", "french": "une répétition", "english": "rehearsal", "partOfSpeech": "noun", "gender": "f", "plural": "répétitions", "pronunciation": "ray-pay-tee-SYON", "example": "La répétition dure deux heures.", "exampleEnglish": "The rehearsal lasts two hours.", "level": "A2", "category": "music" },
+            { "id": "bruyant", "french": "bruyant", "english": "noisy, loud", "partOfSpeech": "adjective", "pronunciation": "brwee-YAHN", "example": "La salle de concert était très bruyante.", "exampleEnglish": "The concert hall was very noisy.", "level": "A2", "category": "description" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "jouer de (instruments) vs jouer à (games)",
+              "body": "The verb jouer changes meaning with its preposition. Use jouer de + instrument, and jouer à + sport or game. Remember the contractions: de + le = du, de + les = des; à + le = au, à + les = aux.",
+              "examples": [
+                { "french": "Je joue du piano et de la guitare.", "english": "I play the piano and the guitar.", "note": "de + le = du" },
+                { "french": "Il joue de la batterie dans un groupe.", "english": "He plays the drums in a band." },
+                { "french": "Elle joue des castagnettes.", "english": "She plays the castanets.", "note": "de + les = des" },
+                { "french": "Nous jouons au football le dimanche.", "english": "We play football on Sundays.", "note": "à for sports and games" },
+                { "french": "Tu joues aux cartes avec eux ?", "english": "Do you play cards with them?" }
+              ],
+              "tip": "Faire de works too for hobbies: Je fais de la guitare. It suggests taking lessons or practising, more than performing."
+            },
+            {
+              "heading": "Talking about tastes: le / la / les after taste verbs",
+              "body": "After aimer, adorer, préférer and détester, French uses the definite article (le, la, l', les) because you are talking about the thing in general. But after écouter you often need the partitive (du, de la, des) because you listen to some music, not all music in the world.",
+              "examples": [
+                { "french": "J'adore la musique classique.", "english": "I love classical music.", "note": "in general → la" },
+                { "french": "J'écoute de la musique classique le soir.", "english": "I listen to (some) classical music in the evening.", "note": "an amount → de la" },
+                { "french": "Il déteste le rap, mais il aime le rock.", "english": "He hates rap, but he likes rock." },
+                { "french": "Nous préférons les concerts en plein air.", "english": "We prefer open-air concerts." },
+                { "french": "Elle n'aime pas les longs solos de guitare.", "english": "She doesn't like long guitar solos.", "note": "les stays les after a negative taste verb" }
+              ],
+              "tip": "After a negative, du / de la / des become de: Je n'écoute pas de jazz. But le / la / les never change: Je n'aime pas le jazz."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a2_u18_l01_li01",
+              "type": "listenChoose",
+              "french": "Je joue de la guitare depuis cinq ans.",
+              "options": ["I have been playing the guitar for five years.", "I bought a guitar five years ago.", "I want to learn the guitar in five years.", "I played the guitar for five hours."],
+              "answer": "I have been playing the guitar for five years."
+            },
+            {
+              "id": "a2_u18_l01_li02",
+              "type": "listenChoose",
+              "french": "Mon frère chante dans une chorale le mercredi.",
+              "options": ["My brother sings in a choir on Wednesdays.", "My brother listens to a choir on Wednesdays.", "My brother plays the drums on Wednesdays.", "My brother sings at home on Wednesdays."],
+              "answer": "My brother sings in a choir on Wednesdays."
+            },
+            {
+              "id": "a2_u18_l01_li03",
+              "type": "listenType",
+              "french": "J'adore cette chanson.",
+              "answer": "J'adore cette chanson.",
+              "acceptedAnswers": ["J'adore cette chanson", "Jadore cette chanson", "j'adore cette chanson"]
+            },
+            {
+              "id": "a2_u18_l01_li04",
+              "type": "dictation",
+              "french": "Le concert commence à vingt et une heures.",
+              "answer": "Le concert commence à vingt et une heures.",
+              "acceptedAnswers": ["Le concert commence a vingt et une heures", "Le concert commence à vingt et une heures", "le concert commence a vingt et une heures"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a2_u18_l01_sp01",
+              "type": "speak",
+              "french": "Tu écoutes quoi comme musique ?",
+              "english": "What kind of music do you listen to?",
+              "prompt": "Ask a new friend about their musical taste.",
+              "tip": "Let your voice rise on the last syllable of musique — that rise is what turns the sentence into a question."
+            },
+            {
+              "id": "a2_u18_l01_sp02",
+              "type": "speak",
+              "french": "Je joue du piano, mais je suis un peu timide sur scène.",
+              "english": "I play the piano, but I'm a bit shy on stage.",
+              "prompt": "Say what you play and add an honest detail.",
+              "tip": "Du sounds like \"dew\": round your lips as for \"oo\", then say \"ee\". Do not say \"doo\"."
+            },
+            {
+              "id": "a2_u18_l01_sp03",
+              "type": "speak",
+              "french": "J'adore le rock, mais je n'aime pas trop le rap.",
+              "english": "I love rock, but I don't really like rap.",
+              "prompt": "Give one taste you love and one you dislike.",
+              "tip": "In je n'aime pas, let n'aime run together as one smooth \"nem\" — never pause between the words."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Le groupe de Karim",
+              "french": "Karim a vingt-deux ans et il joue de la guitare depuis l'âge de douze ans.\nIl a formé un groupe avec trois amis de la fac : Léa au piano, Marc à la batterie et Sofia au chant.\nIls répètent tous les jeudis soir dans le garage des parents de Marc.\nLes voisins trouvent la batterie un peu bruyante, mais ils ne se plaignent jamais.\nLe groupe écrit ses propres chansons ; Sofia s'occupe des paroles et Karim compose la mélodie.\nL'été dernier, ils ont joué dans un petit festival près de Lyon.\nIl y avait environ deux cents personnes et le public a chanté le refrain avec eux.\nKarim dit que c'était le plus beau moment de sa vie.\nCette année, ils veulent enregistrer un premier album.\nIls cherchent encore un nom : « Les Jeudis Soir » leur plaît bien.",
+              "english": "Karim is twenty-two and he has played the guitar since the age of twelve.\nHe formed a band with three friends from university: Léa on piano, Marc on drums and Sofia on vocals.\nThey rehearse every Thursday evening in Marc's parents' garage.\nThe neighbours find the drums a little noisy, but they never complain.\nThe band writes its own songs; Sofia takes care of the lyrics and Karim composes the melody.\nLast summer, they played at a small festival near Lyon.\nThere were about two hundred people and the audience sang the chorus with them.\nKarim says it was the best moment of his life.\nThis year, they want to record a first album.\nThey are still looking for a name: \"Les Jeudis Soir\" appeals to them.",
+              "questions": [
+                {
+                  "id": "a2_u18_l01_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Quel instrument Karim joue-t-il ?",
+                  "options": ["La guitare", "Le piano", "La batterie", "Le violon"],
+                  "answer": "La guitare"
+                },
+                {
+                  "id": "a2_u18_l01_rd02",
+                  "type": "trueFalse",
+                  "prompt": "Les voisins se plaignent souvent du bruit.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                },
+                {
+                  "id": "a2_u18_l01_rd03",
+                  "type": "multipleChoice",
+                  "prompt": "Qui écrit les paroles des chansons ?",
+                  "options": ["Sofia", "Karim", "Marc", "Léa"],
+                  "answer": "Sofia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a2_u18_l01_wr01",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "I love classical music.",
+              "answer": "J'adore la musique classique.",
+              "acceptedAnswers": ["J'adore la musique classique", "Jadore la musique classique", "j'adore la musique classique"]
+            },
+            {
+              "id": "a2_u18_l01_wr02",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "My sister plays the violin.",
+              "answer": "Ma sœur joue du violon.",
+              "acceptedAnswers": ["Ma soeur joue du violon", "Ma sœur joue du violon", "ma soeur joue du violon"]
+            },
+            {
+              "id": "a2_u18_l01_wr03",
+              "type": "arrangeWords",
+              "words": ["chansons", "j'écoute", "des", "soir", "le"],
+              "answer": "le soir j'écoute des chansons",
+              "english": "In the evening I listen to songs."
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a2_u18_l01_pr01",
+              "type": "fillBlank",
+              "prompt": "Elle joue ___ piano tous les matins.",
+              "answer": "du"
+            },
+            {
+              "id": "a2_u18_l01_pr02",
+              "type": "fillBlank",
+              "prompt": "Nous jouons ___ football le dimanche.",
+              "answer": "au"
+            },
+            {
+              "id": "a2_u18_l01_pr03",
+              "type": "multipleChoice",
+              "prompt": "Which sentence is correct?",
+              "options": ["Il joue de la batterie.", "Il joue à la batterie.", "Il joue la batterie.", "Il joue du batterie."],
+              "answer": "Il joue de la batterie."
+            },
+            {
+              "id": "a2_u18_l01_pr04",
+              "type": "match",
+              "pairs": [
+                { "french": "le refrain", "english": "the chorus" },
+                { "french": "les paroles", "english": "the lyrics" },
+                { "french": "la scène", "english": "the stage" },
+                { "french": "le public", "english": "the audience" }
+              ]
+            },
+            {
+              "id": "a2_u18_l01_pr05",
+              "type": "arrangeWords",
+              "words": ["répète", "groupe", "jeudi", "le", "chaque"],
+              "answer": "le groupe répète chaque jeudi",
+              "english": "The band rehearses every Thursday."
+            },
+            {
+              "id": "a2_u18_l01_pr06",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "She has an incredible voice.",
+              "answer": "Elle a une voix incroyable.",
+              "acceptedAnswers": ["Elle a une voix incroyable", "elle a une voix incroyable"]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a2_u18_l01_qz01",
+              "type": "multipleChoice",
+              "prompt": "How do you say \"the drums\" in French?",
+              "options": ["la batterie", "le tambour", "la flûte", "le casque"],
+              "answer": "la batterie"
+            },
+            {
+              "id": "a2_u18_l01_qz02",
+              "type": "fillBlank",
+              "prompt": "J'adore ___ jazz.",
+              "answer": "le"
+            },
+            {
+              "id": "a2_u18_l01_qz03",
+              "type": "multipleChoice",
+              "prompt": "Le public applaudit. What is le public?",
+              "options": ["the audience", "the publisher", "the poster", "the stage"],
+              "answer": "the audience"
+            },
+            {
+              "id": "a2_u18_l01_qz04",
+              "type": "trueFalse",
+              "prompt": "\"J'aime bien ce groupe\" is stronger than \"J'adore ce groupe\".",
+              "options": ["True", "False"],
+              "answer": "False"
+            },
+            {
+              "id": "a2_u18_l01_qz05",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "What kind of music do you listen to?",
+              "answer": "Tu écoutes quoi comme musique ?",
+              "acceptedAnswers": ["Tu écoutes quoi comme musique", "Tu ecoutes quoi comme musique", "tu écoutes quoi comme musique ?"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2_u18_l02",
+      "level": "A2",
+      "unit": 18,
+      "title": "Au cinéma",
+      "description": "Buy cinema tickets, talk about film genres and give your opinion after the screening.",
+      "estimatedMinutes": 16,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Film genres",
+              "body": "Ask Tu as vu quel film ? or C'est quel genre de film ? to find out what someone watched. Genres are nouns: une comédie, un drame, un film d'horreur, un dessin animé, un documentaire. Note the pattern un film de/d' + noun for many of them.",
+              "examples": [
+                { "french": "C'est quel genre de film ?", "english": "What kind of film is it?" },
+                { "french": "C'est une comédie romantique très drôle.", "english": "It's a very funny romantic comedy." },
+                { "french": "Je n'aime pas les films d'horreur.", "english": "I don't like horror films." },
+                { "french": "On a regardé un dessin animé avec les enfants.", "english": "We watched a cartoon with the children." },
+                { "french": "C'est un film de science-fiction de deux heures.", "english": "It's a two-hour science-fiction film." }
+              ],
+              "tip": "In France, foreign films are shown in VO (version originale, with subtitles) or VF (version française, dubbed). Cinema listings always say which."
+            },
+            {
+              "heading": "Buying a ticket",
+              "body": "At the guichet or the caisse you ask for places (seats) for a séance (screening). The useful sentence is Deux places pour la séance de vingt heures, s'il vous plaît. Staff may ask Vous avez une réduction ? — student or under-26 rates are common.",
+              "examples": [
+                { "french": "Deux places pour la séance de vingt heures, s'il vous plaît.", "english": "Two tickets for the eight p.m. screening, please." },
+                { "french": "Il reste des places pour ce soir ?", "english": "Are there still seats left for tonight?" },
+                { "french": "C'est en version originale ou en version française ?", "english": "Is it in the original version or dubbed in French?" },
+                { "french": "Le tarif étudiant est à sept euros cinquante.", "english": "The student rate is seven euros fifty." },
+                { "french": "J'ai réservé les billets sur Internet.", "english": "I booked the tickets online." }
+              ],
+              "tip": "Une place is the seat you pay for; un billet is the physical ticket. At the counter, French people usually say places."
+            },
+            {
+              "heading": "Giving your opinion on a film",
+              "body": "After the film, use the passé composé to say what you thought: J'ai adoré, J'ai bien aimé, Je me suis ennuyé. Then add a reason with parce que and a judgement adjective. Remember that adjectives agree: un film émouvant, une histoire émouvante.",
+              "examples": [
+                { "french": "J'ai adoré ! L'histoire est vraiment émouvante.", "english": "I loved it! The story is really moving." },
+                { "french": "J'ai trouvé la fin un peu décevante.", "english": "I found the ending a bit disappointing." },
+                { "french": "Je me suis ennuyé pendant la première heure.", "english": "I was bored during the first hour." },
+                { "french": "Les acteurs jouent très bien.", "english": "The actors act very well." },
+                { "french": "Je te le conseille, franchement.", "english": "I recommend it to you, honestly." }
+              ],
+              "tip": "Ça vaut le coup ! (It's worth it!) is the everyday way to recommend a film to a friend."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "le-cinema", "french": "le cinéma", "english": "cinema, movie theater", "partOfSpeech": "noun", "gender": "m", "plural": "cinémas", "pronunciation": "see-nay-MAH", "example": "Le cinéma est à côté de la gare.", "exampleEnglish": "The cinema is next to the station.", "level": "A2", "category": "cinema" },
+            { "id": "film", "french": "un film", "english": "a film, a movie", "partOfSpeech": "noun", "gender": "m", "plural": "films", "pronunciation": "feelm", "example": "Ce film dure presque trois heures.", "exampleEnglish": "This film lasts almost three hours.", "level": "A2", "category": "cinema" },
+            { "id": "la-seance", "french": "la séance", "english": "screening, showing", "partOfSpeech": "noun", "gender": "f", "plural": "séances", "pronunciation": "say-AHNS", "example": "La séance de vingt heures est complète.", "exampleEnglish": "The eight p.m. screening is sold out.", "level": "A2", "category": "cinema" },
+            { "id": "le-billet", "french": "le billet", "english": "ticket", "partOfSpeech": "noun", "gender": "m", "plural": "billets", "pronunciation": "bee-YAY", "example": "Garde ton billet jusqu'à la fin.", "exampleEnglish": "Keep your ticket until the end.", "level": "A2", "category": "cinema" },
+            { "id": "la-place", "french": "la place", "english": "seat", "partOfSpeech": "noun", "gender": "f", "plural": "places", "pronunciation": "plahs", "example": "Je voudrais deux places, s'il vous plaît.", "exampleEnglish": "I would like two seats, please.", "level": "A2", "category": "cinema" },
+            { "id": "la-caisse", "french": "la caisse", "english": "till, ticket desk", "partOfSpeech": "noun", "gender": "f", "plural": "caisses", "pronunciation": "kess", "example": "On paie à la caisse à droite.", "exampleEnglish": "You pay at the till on the right.", "level": "A2", "category": "cinema" },
+            { "id": "le-guichet", "french": "le guichet", "english": "counter, ticket window", "partOfSpeech": "noun", "gender": "m", "plural": "guichets", "pronunciation": "gee-SHAY", "example": "Il y a la queue au guichet.", "exampleEnglish": "There is a queue at the ticket window.", "level": "A2", "category": "cinema" },
+            { "id": "la-salle", "french": "la salle", "english": "room, screen (auditorium)", "partOfSpeech": "noun", "gender": "f", "plural": "salles", "pronunciation": "sahl", "example": "Le film passe dans la salle 3.", "exampleEnglish": "The film is showing in screen 3.", "level": "A2", "category": "cinema" },
+            { "id": "l-ecran", "french": "l'écran", "english": "screen", "partOfSpeech": "noun", "gender": "m", "plural": "écrans", "pronunciation": "lay-KRAHN", "example": "L'écran est immense dans cette salle.", "exampleEnglish": "The screen is huge in this auditorium.", "level": "A2", "category": "cinema" },
+            { "id": "les-sous-titres", "french": "les sous-titres", "english": "subtitles", "partOfSpeech": "noun", "gender": "m", "plural": "sous-titres", "pronunciation": "soo-TEETR", "example": "Je lis les sous-titres en français.", "exampleEnglish": "I read the subtitles in French.", "level": "A2", "category": "cinema" },
+            { "id": "la-version-originale", "french": "la version originale", "english": "the original version (subtitled)", "partOfSpeech": "noun", "gender": "f", "pronunciation": "vair-SYON oh-ree-zhee-NAHL", "example": "Je préfère la version originale.", "exampleEnglish": "I prefer the original version.", "level": "A2", "category": "cinema" },
+            { "id": "l-acteur", "french": "l'acteur", "english": "actor", "partOfSpeech": "noun", "gender": "m", "plural": "acteurs", "pronunciation": "lak-TUHR", "example": "Cet acteur joue toujours des rôles drôles.", "exampleEnglish": "This actor always plays funny roles.", "level": "A2", "category": "cinema" },
+            { "id": "l-actrice", "french": "l'actrice", "english": "actress", "partOfSpeech": "noun", "gender": "f", "plural": "actrices", "pronunciation": "lak-TREES", "example": "L'actrice principale est excellente.", "exampleEnglish": "The lead actress is excellent.", "level": "A2", "category": "cinema" },
+            { "id": "le-realisateur", "french": "le réalisateur", "english": "director", "partOfSpeech": "noun", "gender": "m", "plural": "réalisateurs", "pronunciation": "ray-ah-lee-zah-TUHR", "example": "Le réalisateur était présent à la séance.", "exampleEnglish": "The director was present at the screening.", "level": "A2", "category": "cinema" },
+            { "id": "le-scenario", "french": "le scénario", "english": "script, screenplay", "partOfSpeech": "noun", "gender": "m", "plural": "scénarios", "pronunciation": "say-nah-RYOH", "example": "Le scénario est trop compliqué.", "exampleEnglish": "The script is too complicated.", "level": "A2", "category": "cinema" },
+            { "id": "la-comedie", "french": "la comédie", "english": "comedy", "partOfSpeech": "noun", "gender": "f", "plural": "comédies", "pronunciation": "koh-may-DEE", "example": "On a envie de voir une comédie ce soir.", "exampleEnglish": "We feel like seeing a comedy tonight.", "level": "A2", "category": "cinema" },
+            { "id": "le-drame", "french": "le drame", "english": "drama", "partOfSpeech": "noun", "gender": "m", "plural": "drames", "pronunciation": "drahm", "example": "C'est un drame basé sur une histoire vraie.", "exampleEnglish": "It's a drama based on a true story.", "level": "A2", "category": "cinema" },
+            { "id": "le-film-d-horreur", "french": "le film d'horreur", "english": "horror film", "partOfSpeech": "noun", "gender": "m", "plural": "films d'horreur", "pronunciation": "feelm doh-RUHR", "example": "Je ne dors plus après un film d'horreur.", "exampleEnglish": "I can't sleep after a horror film.", "level": "A2", "category": "cinema" },
+            { "id": "le-dessin-anime", "french": "le dessin animé", "english": "cartoon, animated film", "partOfSpeech": "noun", "gender": "m", "plural": "dessins animés", "pronunciation": "deh-SAN ah-nee-MAY", "example": "Les enfants adorent ce dessin animé.", "exampleEnglish": "The children love this cartoon.", "level": "A2", "category": "cinema" },
+            { "id": "le-documentaire", "french": "le documentaire", "english": "documentary", "partOfSpeech": "noun", "gender": "m", "plural": "documentaires", "pronunciation": "doh-kew-mahn-TAIR", "example": "Ce documentaire parle des océans.", "exampleEnglish": "This documentary is about the oceans.", "level": "A2", "category": "cinema" },
+            { "id": "la-bande-annonce", "french": "la bande-annonce", "english": "trailer", "partOfSpeech": "noun", "gender": "f", "plural": "bandes-annonces", "pronunciation": "bahnd ah-NONS", "example": "La bande-annonce m'a donné envie de le voir.", "exampleEnglish": "The trailer made me want to see it.", "level": "A2", "category": "cinema" },
+            { "id": "le-generique", "french": "le générique", "english": "credits", "partOfSpeech": "noun", "gender": "m", "plural": "génériques", "pronunciation": "zhay-nay-REEK", "example": "Reste jusqu'à la fin du générique !", "exampleEnglish": "Stay until the end of the credits!", "level": "A2", "category": "cinema" },
+            { "id": "le-tarif", "french": "le tarif", "english": "rate, price", "partOfSpeech": "noun", "gender": "m", "plural": "tarifs", "pronunciation": "tah-REEF", "example": "Le tarif étudiant est moins cher.", "exampleEnglish": "The student rate is cheaper.", "level": "A2", "category": "cinema" },
+            { "id": "reserver", "french": "réserver", "english": "to book, to reserve", "partOfSpeech": "verb", "pronunciation": "ray-zair-VAY", "example": "J'ai réservé deux places en ligne.", "exampleEnglish": "I booked two seats online.", "level": "A2", "category": "cinema" },
+            { "id": "la-fin", "french": "la fin", "english": "the end", "partOfSpeech": "noun", "gender": "f", "plural": "fins", "pronunciation": "fan", "example": "La fin est vraiment surprenante.", "exampleEnglish": "The ending is really surprising.", "level": "A2", "category": "cinema" },
+            { "id": "l-histoire", "french": "l'histoire", "english": "story", "partOfSpeech": "noun", "gender": "f", "plural": "histoires", "pronunciation": "lees-TWAR", "example": "L'histoire se passe à Marseille.", "exampleEnglish": "The story takes place in Marseille.", "level": "A2", "category": "cinema" },
+            { "id": "un-personnage", "french": "un personnage", "english": "a character", "partOfSpeech": "noun", "gender": "m", "plural": "personnages", "pronunciation": "pair-so-NAHZH", "example": "Mon personnage préféré est le petit frère.", "exampleEnglish": "My favourite character is the little brother.", "level": "A2", "category": "cinema" },
+            { "id": "emouvant", "french": "émouvant", "english": "moving, touching", "partOfSpeech": "adjective", "pronunciation": "ay-moo-VAHN", "example": "C'est une scène très émouvante.", "exampleEnglish": "It's a very moving scene.", "level": "A2", "category": "opinion" },
+            { "id": "ennuyeux", "french": "ennuyeux", "english": "boring", "partOfSpeech": "adjective", "pronunciation": "ahn-nwee-YUH", "example": "Je l'ai trouvé long et ennuyeux.", "exampleEnglish": "I found it long and boring.", "level": "A2", "category": "opinion" },
+            { "id": "drole", "french": "drôle", "english": "funny", "partOfSpeech": "adjective", "pronunciation": "drohl", "example": "Les dialogues sont vraiment drôles.", "exampleEnglish": "The dialogues are really funny.", "level": "A2", "category": "opinion" },
+            { "id": "genial", "french": "génial", "english": "great, brilliant", "partOfSpeech": "adjective", "pronunciation": "zhay-NYAL", "example": "Ce film est génial, va le voir !", "exampleEnglish": "This film is great, go and see it!", "level": "A2", "category": "opinion" },
+            { "id": "decevant", "french": "décevant", "english": "disappointing", "partOfSpeech": "adjective", "pronunciation": "day-suh-VAHN", "example": "La deuxième partie est décevante.", "exampleEnglish": "The second half is disappointing.", "level": "A2", "category": "opinion" },
+            { "id": "le-pop-corn", "french": "le pop-corn", "english": "popcorn", "partOfSpeech": "noun", "gender": "m", "pronunciation": "pop-KORN", "example": "On achète du pop-corn avant d'entrer.", "exampleEnglish": "We buy popcorn before going in.", "level": "A2", "category": "cinema" },
+            { "id": "la-critique", "french": "la critique", "english": "review, criticism", "partOfSpeech": "noun", "gender": "f", "plural": "critiques", "pronunciation": "kree-TEEK", "example": "La critique du journal est très bonne.", "exampleEnglish": "The newspaper review is very good.", "level": "A2", "category": "cinema" },
+            { "id": "durer", "french": "durer", "english": "to last", "partOfSpeech": "verb", "pronunciation": "dew-RAY", "example": "Le film dure une heure quarante.", "exampleEnglish": "The film lasts one hour forty.", "level": "A2", "category": "cinema" },
+            { "id": "conseiller", "french": "conseiller", "english": "to recommend, to advise", "partOfSpeech": "verb", "pronunciation": "kon-say-YAY", "example": "Je te conseille ce documentaire.", "exampleEnglish": "I recommend this documentary to you.", "level": "A2", "category": "opinion" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Giving opinions in the passé composé",
+              "body": "To react to a film you have seen, use the passé composé with avoir: j'ai aimé, j'ai adoré, j'ai détesté, j'ai trouvé. The very useful pattern is J'ai trouvé + noun + adjective — and the adjective agrees with the noun, not with you.",
+              "examples": [
+                { "french": "J'ai adoré ce film.", "english": "I loved this film." },
+                { "french": "J'ai trouvé l'histoire émouvante.", "english": "I found the story moving.", "note": "histoire is feminine → émouvante" },
+                { "french": "Nous avons trouvé le début un peu lent.", "english": "We found the beginning a bit slow." },
+                { "french": "Ils n'ont pas aimé la fin.", "english": "They didn't like the ending.", "note": "ne … pas wraps around the avoir form" },
+                { "french": "Tu as vu la bande-annonce ?", "english": "Have you seen the trailer?" }
+              ],
+              "tip": "S'ennuyer takes être: Je me suis ennuyé (m.) / Je me suis ennuyée (f.). The past participle agrees with the subject here."
+            },
+            {
+              "heading": "Direct object pronouns: le, la, l', les",
+              "body": "Once everyone knows which film you mean, replace it with a pronoun so you don't repeat the noun. Le replaces a masculine noun, la a feminine one, les a plural, and both become l' before a vowel. The pronoun goes BEFORE the verb, unlike English.",
+              "examples": [
+                { "french": "Ce film ? Je le trouve génial.", "english": "This film? I think it's great.", "note": "le = ce film" },
+                { "french": "La bande-annonce ? Je l'ai vue hier.", "english": "The trailer? I saw it yesterday." },
+                { "french": "Les acteurs ? Je les connais bien.", "english": "The actors? I know them well." },
+                { "french": "Je te le conseille vraiment.", "english": "I really recommend it to you.", "note": "te comes before le" },
+                { "french": "On ne l'a pas aimé du tout.", "english": "We didn't like it at all." }
+              ],
+              "tip": "In the passé composé the pronoun sits before avoir: Je l'ai vu. And the participle agrees with a direct object placed before it: Je l'ai vue (la bande-annonce)."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a2_u18_l02_li01",
+              "type": "listenChoose",
+              "french": "Deux places pour la séance de vingt heures, s'il vous plaît.",
+              "options": ["Two tickets for the eight p.m. screening, please.", "Two tickets for the ten p.m. screening, please.", "Two seats at the front, please.", "Two tickets for tomorrow evening, please."],
+              "answer": "Two tickets for the eight p.m. screening, please."
+            },
+            {
+              "id": "a2_u18_l02_li02",
+              "type": "listenChoose",
+              "french": "Le film est en version originale, avec des sous-titres français.",
+              "options": ["The film is in the original version, with French subtitles.", "The film is dubbed into French.", "The film has no subtitles.", "The film is in French with English subtitles."],
+              "answer": "The film is in the original version, with French subtitles."
+            },
+            {
+              "id": "a2_u18_l02_li03",
+              "type": "listenType",
+              "french": "Le film dure deux heures.",
+              "answer": "Le film dure deux heures.",
+              "acceptedAnswers": ["Le film dure deux heures", "le film dure deux heures"]
+            },
+            {
+              "id": "a2_u18_l02_li04",
+              "type": "dictation",
+              "french": "J'ai trouvé la fin un peu décevante.",
+              "answer": "J'ai trouvé la fin un peu décevante.",
+              "acceptedAnswers": ["J'ai trouve la fin un peu decevante", "Jai trouvé la fin un peu décevante", "j'ai trouvé la fin un peu décevante"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a2_u18_l02_sp01",
+              "type": "speak",
+              "french": "Bonjour, il reste des places pour la séance de dix-huit heures ?",
+              "english": "Hello, are there still seats for the six p.m. screening?",
+              "prompt": "Ask at the ticket desk whether seats are left.",
+              "tip": "Say places as \"plahs\" with a soft final s sound; don't add an English \"-iz\" plural ending."
+            },
+            {
+              "id": "a2_u18_l02_sp02",
+              "type": "speak",
+              "french": "C'est quel genre de film ?",
+              "english": "What kind of film is it?",
+              "prompt": "Ask a friend what type of film they suggest.",
+              "tip": "Genre starts with the soft \"zh\" sound of \"measure\", never the English hard j."
+            },
+            {
+              "id": "a2_u18_l02_sp03",
+              "type": "speak",
+              "french": "J'ai adoré ce film, je te le conseille !",
+              "english": "I loved this film, I recommend it to you!",
+              "prompt": "Recommend a film enthusiastically.",
+              "tip": "Run je te le together quickly — French speakers say it almost as \"j'te l'\"."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Une soirée au cinéma",
+              "french": "Samedi dernier, Claire et Antoine sont allés au cinéma du centre-ville.\nIls voulaient voir une comédie, mais toutes les places étaient déjà réservées.\nAu guichet, l'employé leur a proposé un drame italien en version originale.\nClaire a hésité, parce qu'elle n'aime pas beaucoup lire les sous-titres.\nFinalement, ils ont pris deux places au tarif étudiant : quinze euros pour deux.\nLe film durait deux heures dix et l'histoire se passait dans un petit village de Sicile.\nAntoine a trouvé le début un peu lent, mais la fin était vraiment émouvante.\nÀ la sortie, Claire a dit que l'actrice principale méritait un prix.\nIls ont mangé une pizza en discutant du scénario jusqu'à minuit.\nDimanche, Antoine a écrit une critique très positive sur Internet.",
+              "english": "Last Saturday, Claire and Antoine went to the cinema in the city centre.\nThey wanted to see a comedy, but all the seats were already booked.\nAt the counter, the employee suggested an Italian drama in the original version.\nClaire hesitated, because she doesn't much like reading subtitles.\nIn the end, they took two seats at the student rate: fifteen euros for two.\nThe film lasted two hours ten and the story took place in a small Sicilian village.\nAntoine found the beginning a bit slow, but the ending was really moving.\nOn the way out, Claire said the lead actress deserved an award.\nThey ate a pizza while discussing the script until midnight.\nOn Sunday, Antoine wrote a very positive review online.",
+              "questions": [
+                {
+                  "id": "a2_u18_l02_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Pourquoi n'ont-ils pas vu la comédie ?",
+                  "options": ["Toutes les places étaient réservées.", "La séance était annulée.", "Le tarif était trop cher.", "Claire n'aime pas les comédies."],
+                  "answer": "Toutes les places étaient réservées."
+                },
+                {
+                  "id": "a2_u18_l02_rd02",
+                  "type": "trueFalse",
+                  "prompt": "Claire adore lire les sous-titres.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                },
+                {
+                  "id": "a2_u18_l02_rd03",
+                  "type": "multipleChoice",
+                  "prompt": "Qu'est-ce qu'Antoine a pensé du début du film ?",
+                  "options": ["Il l'a trouvé un peu lent.", "Il l'a trouvé très drôle.", "Il l'a trouvé effrayant.", "Il ne l'a pas vu."],
+                  "answer": "Il l'a trouvé un peu lent."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a2_u18_l02_wr01",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "Two tickets for the eight p.m. screening, please.",
+              "answer": "Deux places pour la séance de vingt heures, s'il vous plaît.",
+              "acceptedAnswers": ["Deux places pour la seance de vingt heures, s'il vous plait", "Deux places pour la séance de vingt heures s'il vous plaît", "deux places pour la séance de vingt heures, s'il vous plaît"]
+            },
+            {
+              "id": "a2_u18_l02_wr02",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "I found the ending disappointing.",
+              "answer": "J'ai trouvé la fin décevante.",
+              "acceptedAnswers": ["J'ai trouve la fin decevante", "Jai trouvé la fin décevante", "j'ai trouvé la fin décevante"]
+            },
+            {
+              "id": "a2_u18_l02_wr03",
+              "type": "arrangeWords",
+              "words": ["conseille", "le", "je", "te"],
+              "answer": "je te le conseille",
+              "english": "I recommend it to you."
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a2_u18_l02_pr01",
+              "type": "fillBlank",
+              "prompt": "Ce film ? Je ___ trouve génial.",
+              "answer": "le"
+            },
+            {
+              "id": "a2_u18_l02_pr02",
+              "type": "multipleChoice",
+              "prompt": "Which sentence is correct?",
+              "options": ["Je les ai vus hier.", "J'ai les vus hier.", "Je ai les vus hier.", "Je ai vu les hier."],
+              "answer": "Je les ai vus hier."
+            },
+            {
+              "id": "a2_u18_l02_pr03",
+              "type": "match",
+              "pairs": [
+                { "french": "la bande-annonce", "english": "the trailer" },
+                { "french": "le générique", "english": "the credits" },
+                { "french": "le réalisateur", "english": "the director" },
+                { "french": "la séance", "english": "the screening" }
+              ]
+            },
+            {
+              "id": "a2_u18_l02_pr04",
+              "type": "fillBlank",
+              "prompt": "Le film ___ deux heures et demie.",
+              "answer": "dure"
+            },
+            {
+              "id": "a2_u18_l02_pr05",
+              "type": "arrangeWords",
+              "words": ["places", "réservé", "j'ai", "deux"],
+              "answer": "j'ai réservé deux places",
+              "english": "I booked two seats."
+            },
+            {
+              "id": "a2_u18_l02_pr06",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "I don't like horror films.",
+              "answer": "Je n'aime pas les films d'horreur.",
+              "acceptedAnswers": ["Je n'aime pas les films d'horreur", "Je naime pas les films dhorreur", "je n'aime pas les films d'horreur"]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a2_u18_l02_qz01",
+              "type": "multipleChoice",
+              "prompt": "What does \"une séance\" mean at the cinema?",
+              "options": ["a screening", "a seat", "a ticket", "a review"],
+              "answer": "a screening"
+            },
+            {
+              "id": "a2_u18_l02_qz02",
+              "type": "fillBlank",
+              "prompt": "La bande-annonce ? Je ___ ai vue hier.",
+              "answer": "l'"
+            },
+            {
+              "id": "a2_u18_l02_qz03",
+              "type": "multipleChoice",
+              "prompt": "Choose the correct agreement: J'ai trouvé l'histoire ___ .",
+              "options": ["émouvante", "émouvant", "émouvants", "émouvante s"],
+              "answer": "émouvante"
+            },
+            {
+              "id": "a2_u18_l02_qz04",
+              "type": "trueFalse",
+              "prompt": "\"VO\" means the film is dubbed into French.",
+              "options": ["True", "False"],
+              "answer": "False"
+            },
+            {
+              "id": "a2_u18_l02_qz05",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "The film lasts one hour forty.",
+              "answer": "Le film dure une heure quarante.",
+              "acceptedAnswers": ["Le film dure une heure quarante", "le film dure une heure quarante"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2_u18_l03",
+      "level": "A2",
+      "unit": 18,
+      "title": "Sortir ce soir",
+      "description": "Invite friends out, accept or turn down an invitation, and use \"on\" the way French speakers really do.",
+      "estimatedMinutes": 15,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Making an invitation",
+              "body": "The friendliest way to invite someone is a simple question with on : On va au cinéma ce soir ? You can also use Ça te dit de + infinitive (Do you fancy…?) or Tu es libre + time. All three sound natural between friends.",
+              "examples": [
+                { "french": "On va au cinéma ce soir ?", "english": "Shall we go to the cinema tonight?" },
+                { "french": "Ça te dit d'aller boire un verre ?", "english": "Do you fancy going for a drink?" },
+                { "french": "Tu es libre samedi soir ?", "english": "Are you free on Saturday evening?" },
+                { "french": "Je t'invite à mon anniversaire.", "english": "I'm inviting you to my birthday party." },
+                { "french": "On se retrouve devant le bar à vingt heures ?", "english": "Shall we meet in front of the bar at eight?" }
+              ],
+              "tip": "Je t'invite also means \"my treat\" — the person who says it usually pays."
+            },
+            {
+              "heading": "Accepting and refusing politely",
+              "body": "To accept, French speakers say Volontiers !, Avec plaisir ! or the very common Bonne idée ! To refuse, always soften with an apology and a reason: Désolé, je ne peux pas, je suis occupé. Ending with Une autre fois ? keeps the door open.",
+              "examples": [
+                { "french": "Volontiers, c'est une bonne idée !", "english": "Gladly, that's a good idea!" },
+                { "french": "Avec plaisir, à quelle heure ?", "english": "With pleasure, at what time?" },
+                { "french": "Désolée, je ne peux pas, je suis occupée ce soir.", "english": "Sorry, I can't, I'm busy tonight." },
+                { "french": "C'est dommage, j'ai déjà quelque chose.", "english": "That's a shame, I already have something on." },
+                { "french": "Une autre fois, peut-être ?", "english": "Another time, maybe?" }
+              ],
+              "tip": "A flat Non is considered rude. French politeness expects a reason, even a vague one: j'ai un truc de prévu."
+            },
+            {
+              "heading": "Where people go out",
+              "body": "Common evening plans: aller au restaurant, prendre un verre dans un bar, voir un spectacle or une pièce de théâtre, faire un bowling, aller en boîte (to go clubbing). Note the fixed expressions: en boîte has no article, and faire un bowling means to go bowling.",
+              "examples": [
+                { "french": "On prend un verre avant le film ?", "english": "Shall we have a drink before the film?" },
+                { "french": "Ils sont allés en boîte jusqu'à trois heures du matin.", "english": "They went clubbing until three in the morning." },
+                { "french": "On a vu une pièce de théâtre très drôle.", "english": "We saw a very funny play." },
+                { "french": "L'entrée est gratuite avant vingt-deux heures.", "english": "Entry is free before ten p.m." },
+                { "french": "L'ambiance était géniale hier soir.", "english": "The atmosphere was great last night." }
+              ],
+              "tip": "Sortir means both \"to go out (of a place)\" and \"to go out socially\". On sort ce soir ? = Are we going out tonight?"
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "sortir", "french": "sortir", "english": "to go out", "partOfSpeech": "verb", "pronunciation": "sor-TEER", "example": "On sort ce soir avec des amis.", "exampleEnglish": "We're going out tonight with friends.", "level": "A2", "category": "going-out" },
+            { "id": "la-soiree", "french": "la soirée", "english": "evening, party", "partOfSpeech": "noun", "gender": "f", "plural": "soirées", "pronunciation": "swah-RAY", "example": "La soirée commence vers vingt heures.", "exampleEnglish": "The party starts around eight p.m.", "level": "A2", "category": "going-out" },
+            { "id": "l-invitation", "french": "l'invitation", "english": "invitation", "partOfSpeech": "noun", "gender": "f", "plural": "invitations", "pronunciation": "lan-vee-tah-SYON", "example": "Merci pour ton invitation !", "exampleEnglish": "Thanks for your invitation!", "level": "A2", "category": "going-out" },
+            { "id": "inviter", "french": "inviter", "english": "to invite", "partOfSpeech": "verb", "pronunciation": "an-vee-TAY", "example": "Je t'invite à dîner samedi.", "exampleEnglish": "I'm inviting you to dinner on Saturday.", "level": "A2", "category": "going-out" },
+            { "id": "accepter", "french": "accepter", "english": "to accept", "partOfSpeech": "verb", "pronunciation": "ak-sep-TAY", "example": "J'accepte avec plaisir.", "exampleEnglish": "I accept with pleasure.", "level": "A2", "category": "going-out" },
+            { "id": "refuser", "french": "refuser", "english": "to refuse, to turn down", "partOfSpeech": "verb", "pronunciation": "ruh-few-ZAY", "example": "Je n'ose pas refuser son invitation.", "exampleEnglish": "I don't dare turn down his invitation.", "level": "A2", "category": "going-out" },
+            { "id": "proposer", "french": "proposer", "english": "to suggest, to offer", "partOfSpeech": "verb", "pronunciation": "proh-poh-ZAY", "example": "Elle propose un restaurant italien.", "exampleEnglish": "She suggests an Italian restaurant.", "level": "A2", "category": "going-out" },
+            { "id": "se-retrouver", "french": "se retrouver", "english": "to meet up", "partOfSpeech": "verb", "pronunciation": "suh ruh-troo-VAY", "example": "On se retrouve devant le cinéma.", "exampleEnglish": "We're meeting up in front of the cinema.", "level": "A2", "category": "going-out" },
+            { "id": "le-rendez-vous", "french": "le rendez-vous", "english": "meeting, date", "partOfSpeech": "noun", "gender": "m", "plural": "rendez-vous", "pronunciation": "rahn-day-VOO", "example": "Le rendez-vous est à dix-neuf heures.", "exampleEnglish": "The meeting point is at seven p.m.", "level": "A2", "category": "going-out" },
+            { "id": "la-boite-de-nuit", "french": "la boîte de nuit", "english": "nightclub", "partOfSpeech": "noun", "gender": "f", "plural": "boîtes de nuit", "pronunciation": "bwaht duh NWEE", "example": "Cette boîte de nuit ferme à cinq heures.", "exampleEnglish": "This nightclub closes at five.", "level": "A2", "category": "going-out" },
+            { "id": "le-bar", "french": "le bar", "english": "bar", "partOfSpeech": "noun", "gender": "m", "plural": "bars", "pronunciation": "bar", "example": "Il y a un bar sympa au coin de la rue.", "exampleEnglish": "There is a nice bar on the corner.", "level": "A2", "category": "going-out" },
+            { "id": "la-fete", "french": "la fête", "english": "party, celebration", "partOfSpeech": "noun", "gender": "f", "plural": "fêtes", "pronunciation": "fet", "example": "La fête a duré toute la nuit.", "exampleEnglish": "The party lasted all night.", "level": "A2", "category": "going-out" },
+            { "id": "danser", "french": "danser", "english": "to dance", "partOfSpeech": "verb", "pronunciation": "dahn-SAY", "example": "On a dansé jusqu'à minuit.", "exampleEnglish": "We danced until midnight.", "level": "A2", "category": "going-out" },
+            { "id": "s-amuser", "french": "s'amuser", "english": "to have fun", "partOfSpeech": "verb", "pronunciation": "sah-mew-ZAY", "example": "On s'est bien amusés hier soir.", "exampleEnglish": "We had a great time last night.", "level": "A2", "category": "going-out" },
+            { "id": "rentrer", "french": "rentrer", "english": "to go home, to get back", "partOfSpeech": "verb", "pronunciation": "rahn-TRAY", "example": "Je suis rentrée très tard.", "exampleEnglish": "I got home very late.", "level": "A2", "category": "going-out" },
+            { "id": "tard", "french": "tard", "english": "late", "partOfSpeech": "adverb", "pronunciation": "tar", "example": "Ne rentre pas trop tard !", "exampleEnglish": "Don't come home too late!", "level": "A2", "category": "time" },
+            { "id": "libre", "french": "libre", "english": "free (available)", "partOfSpeech": "adjective", "pronunciation": "LEEBR", "example": "Tu es libre vendredi soir ?", "exampleEnglish": "Are you free on Friday evening?", "level": "A2", "category": "going-out" },
+            { "id": "occupe", "french": "occupé", "english": "busy", "partOfSpeech": "adjective", "pronunciation": "oh-kew-PAY", "example": "Je suis occupé jusqu'à jeudi.", "exampleEnglish": "I'm busy until Thursday.", "level": "A2", "category": "going-out" },
+            { "id": "disponible", "french": "disponible", "english": "available", "partOfSpeech": "adjective", "pronunciation": "dees-poh-NEEBL", "example": "Je suis disponible après dix-huit heures.", "exampleEnglish": "I'm available after six p.m.", "level": "A2", "category": "going-out" },
+            { "id": "volontiers", "french": "volontiers", "english": "gladly, I'd love to", "partOfSpeech": "adverb", "pronunciation": "voh-lon-TYAY", "example": "Volontiers, à quelle heure ?", "exampleEnglish": "Gladly, at what time?", "level": "A2", "category": "going-out" },
+            { "id": "dommage", "french": "dommage", "english": "a shame, too bad", "partOfSpeech": "expression", "pronunciation": "doh-MAHZH", "example": "C'est dommage, tu vas nous manquer.", "exampleEnglish": "That's a shame, we'll miss you.", "level": "A2", "category": "going-out" },
+            { "id": "peut-etre", "french": "peut-être", "english": "maybe, perhaps", "partOfSpeech": "adverb", "pronunciation": "puh-TETR", "example": "On sortira peut-être dimanche.", "exampleEnglish": "We'll maybe go out on Sunday.", "level": "A2", "category": "going-out" },
+            { "id": "bien-sur", "french": "bien sûr", "english": "of course", "partOfSpeech": "expression", "pronunciation": "byan SEWR", "example": "Bien sûr, je viens avec vous !", "exampleEnglish": "Of course, I'm coming with you!", "level": "A2", "category": "going-out" },
+            { "id": "ca-te-dit", "french": "ça te dit ?", "english": "do you fancy it?", "partOfSpeech": "expression", "pronunciation": "sah tuh DEE", "example": "Un concert samedi, ça te dit ?", "exampleEnglish": "A concert on Saturday, do you fancy it?", "level": "A2", "category": "going-out" },
+            { "id": "verre", "french": "un verre", "english": "a glass, a drink", "partOfSpeech": "noun", "gender": "m", "plural": "verres", "pronunciation": "vair", "example": "On boit un verre après le travail ?", "exampleEnglish": "Shall we have a drink after work?", "level": "A2", "category": "going-out" },
+            { "id": "prendre-un-verre", "french": "prendre un verre", "english": "to have a drink", "partOfSpeech": "expression", "pronunciation": "PRAHNDR uhn VAIR", "example": "On va prendre un verre en terrasse.", "exampleEnglish": "We're going to have a drink on the terrace.", "level": "A2", "category": "going-out" },
+            { "id": "la-piece-de-theatre", "french": "la pièce de théâtre", "english": "play (theatre)", "partOfSpeech": "noun", "gender": "f", "plural": "pièces de théâtre", "pronunciation": "pyes duh tay-AHTR", "example": "La pièce de théâtre commence à vingt heures trente.", "exampleEnglish": "The play starts at eight thirty.", "level": "A2", "category": "going-out" },
+            { "id": "le-spectacle", "french": "le spectacle", "english": "show, performance", "partOfSpeech": "noun", "gender": "m", "plural": "spectacles", "pronunciation": "spek-TAHKL", "example": "Le spectacle a beaucoup plu aux enfants.", "exampleEnglish": "The children really liked the show.", "level": "A2", "category": "going-out" },
+            { "id": "le-bowling", "french": "le bowling", "english": "bowling, bowling alley", "partOfSpeech": "noun", "gender": "m", "plural": "bowlings", "pronunciation": "boo-LEENG", "example": "On fait un bowling avec les collègues.", "exampleEnglish": "We're going bowling with our colleagues.", "level": "A2", "category": "going-out" },
+            { "id": "ensemble", "french": "ensemble", "english": "together", "partOfSpeech": "adverb", "pronunciation": "ahn-SAHMBL", "example": "On y va ensemble en métro.", "exampleEnglish": "We're going there together by metro.", "level": "A2", "category": "going-out" },
+            { "id": "rejoindre", "french": "rejoindre", "english": "to join, to meet up with", "partOfSpeech": "verb", "pronunciation": "ruh-ZHWANDR", "example": "Je vous rejoins vers vingt-deux heures.", "exampleEnglish": "I'll join you around ten p.m.", "level": "A2", "category": "going-out" },
+            { "id": "emmener", "french": "emmener", "english": "to take (someone) along", "partOfSpeech": "verb", "pronunciation": "ahm-nay", "example": "Tu peux emmener ta sœur si tu veux.", "exampleEnglish": "You can bring your sister along if you want.", "level": "A2", "category": "going-out" },
+            { "id": "l-ambiance", "french": "l'ambiance", "english": "atmosphere, vibe", "partOfSpeech": "noun", "gender": "f", "plural": "ambiances", "pronunciation": "lahm-BYAHNS", "example": "L'ambiance était super hier soir.", "exampleEnglish": "The atmosphere was great last night.", "level": "A2", "category": "going-out" },
+            { "id": "gratuit", "french": "gratuit", "english": "free (no charge)", "partOfSpeech": "adjective", "pronunciation": "grah-TWEE", "example": "L'entrée est gratuite pour les étudiants.", "exampleEnglish": "Entry is free for students.", "level": "A2", "category": "going-out" },
+            { "id": "la-reservation", "french": "la réservation", "english": "booking, reservation", "partOfSpeech": "noun", "gender": "f", "plural": "réservations", "pronunciation": "ray-zair-vah-SYON", "example": "J'ai une réservation au nom de Bernard.", "exampleEnglish": "I have a booking under the name Bernard.", "level": "A2", "category": "going-out" },
+            { "id": "minuit", "french": "minuit", "english": "midnight", "partOfSpeech": "noun", "gender": "m", "pronunciation": "mee-NWEE", "example": "Le dernier métro part après minuit.", "exampleEnglish": "The last metro leaves after midnight.", "level": "A2", "category": "time" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "\"On\" = we, in real spoken French",
+              "body": "In conversation, French speakers almost always say on instead of nous. The key point: on takes the same verb form as il / elle — third person singular — even though it means \"we\". So it is on va, never on allons.",
+              "examples": [
+                { "french": "On va au restaurant ce soir.", "english": "We're going to the restaurant tonight.", "note": "on va, like il va" },
+                { "french": "On prend le métro ou on marche ?", "english": "Shall we take the metro or shall we walk?" },
+                { "french": "On sort souvent le vendredi.", "english": "We often go out on Fridays." },
+                { "french": "Qu'est-ce qu'on fait demain ?", "english": "What are we doing tomorrow?" },
+                { "french": "On peut se retrouver devant le bar.", "english": "We can meet in front of the bar." }
+              ],
+              "tip": "On also means \"people in general\": En France, on dîne vers vingt heures. Context tells you which meaning is intended."
+            },
+            {
+              "heading": "\"On\" in the past, and agreement",
+              "body": "In the passé composé, on behaves like a singular subject for the auxiliary, but the past participle usually agrees with the real people it refers to when the verb takes être. So you write On est allés (we, several people, went) and On s'est bien amusés.",
+              "examples": [
+                { "french": "On est allés en boîte samedi.", "english": "We went clubbing on Saturday.", "note": "est (singular) + allés (plural agreement)" },
+                { "french": "On s'est retrouvés à vingt heures.", "english": "We met up at eight." },
+                { "french": "On a dansé toute la nuit.", "english": "We danced all night.", "note": "with avoir, no agreement" },
+                { "french": "On est rentrées après minuit.", "english": "We (women) got home after midnight." },
+                { "french": "On n'a pas vu le temps passer.", "english": "We didn't notice the time go by." }
+              ],
+              "tip": "With avoir there is no agreement after on: On a mangé, On a bu. Agreement only shows up with être verbs and reflexives."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a2_u18_l03_li01",
+              "type": "listenChoose",
+              "french": "Ça te dit d'aller prendre un verre ce soir ?",
+              "options": ["Do you fancy going for a drink tonight?", "Did you have a drink last night?", "Do you want to cook tonight?", "Shall we go to the cinema tomorrow?"],
+              "answer": "Do you fancy going for a drink tonight?"
+            },
+            {
+              "id": "a2_u18_l03_li02",
+              "type": "listenChoose",
+              "french": "Désolée, je ne peux pas, je suis occupée ce soir.",
+              "options": ["Sorry, I can't, I'm busy tonight.", "Sorry, I'm late, I'm coming now.", "Sorry, I don't like going out.", "Sorry, I'm free tonight."],
+              "answer": "Sorry, I can't, I'm busy tonight."
+            },
+            {
+              "id": "a2_u18_l03_li03",
+              "type": "listenType",
+              "french": "On se retrouve à vingt heures.",
+              "answer": "On se retrouve à vingt heures.",
+              "acceptedAnswers": ["On se retrouve a vingt heures", "On se retrouve à vingt heures", "on se retrouve a vingt heures"]
+            },
+            {
+              "id": "a2_u18_l03_li04",
+              "type": "dictation",
+              "french": "On est rentrés après minuit.",
+              "answer": "On est rentrés après minuit.",
+              "acceptedAnswers": ["On est rentres apres minuit", "On est rentrés apres minuit", "on est rentrés après minuit"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a2_u18_l03_sp01",
+              "type": "speak",
+              "french": "On va au théâtre samedi soir, ça te dit ?",
+              "english": "We're going to the theatre on Saturday evening, do you fancy it?",
+              "prompt": "Invite a friend to the theatre.",
+              "tip": "Ça te dit runs together as three quick beats — never stress te; it almost disappears."
+            },
+            {
+              "id": "a2_u18_l03_sp02",
+              "type": "speak",
+              "french": "Volontiers ! À quelle heure on se retrouve ?",
+              "english": "I'd love to! What time shall we meet?",
+              "prompt": "Accept an invitation and ask about the time.",
+              "tip": "In volontiers the final -ers is silent: say \"voh-lon-TYAY\", never \"tee-airs\"."
+            },
+            {
+              "id": "a2_u18_l03_sp03",
+              "type": "speak",
+              "french": "C'est dommage, je suis occupé. Une autre fois, peut-être ?",
+              "english": "That's a shame, I'm busy. Another time, maybe?",
+              "prompt": "Turn down an invitation politely.",
+              "tip": "Let your voice fall on dommage to sound genuinely sorry, then rise on peut-être to sound hopeful."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Des messages pour samedi",
+              "french": "Nadia : Salut ! On sort samedi soir ? Il y a un concert gratuit au parc.\nJulien : Bonne idée ! Ça commence à quelle heure ?\nNadia : À vingt et une heures, mais on peut se retrouver avant pour prendre un verre.\nJulien : Volontiers. On se retrouve au bar de la place à dix-neuf heures trente ?\nNadia : Parfait. J'emmène ma cousine, elle vient d'arriver à Toulouse.\nJulien : Aucun problème, elle est la bienvenue. Léa vient aussi, je crois.\nNadia : Super, l'ambiance va être géniale ! On rentre comment après ?\nJulien : Le dernier métro part à minuit et demi, sinon on partage un taxi.\nNadia : D'accord. Je réserve une table au bar, c'est souvent complet le samedi.\nJulien : Merci, à samedi !",
+              "english": "Nadia: Hi! Shall we go out on Saturday evening? There's a free concert in the park.\nJulien: Good idea! What time does it start?\nNadia: At nine p.m., but we can meet up before for a drink.\nJulien: Gladly. Shall we meet at the bar on the square at seven thirty?\nNadia: Perfect. I'm bringing my cousin along, she has just arrived in Toulouse.\nJulien: No problem, she's welcome. Léa is coming too, I think.\nNadia: Great, the atmosphere is going to be brilliant! How are we getting home afterwards?\nJulien: The last metro leaves at half past midnight, otherwise we'll share a taxi.\nNadia: All right. I'll book a table at the bar, it's often full on Saturdays.\nJulien: Thanks, see you Saturday!",
+              "questions": [
+                {
+                  "id": "a2_u18_l03_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "À quelle heure est-ce qu'ils se retrouvent au bar ?",
+                  "options": ["À dix-neuf heures trente", "À vingt et une heures", "À minuit et demi", "À dix-huit heures"],
+                  "answer": "À dix-neuf heures trente"
+                },
+                {
+                  "id": "a2_u18_l03_rd02",
+                  "type": "trueFalse",
+                  "prompt": "Le concert est payant.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                },
+                {
+                  "id": "a2_u18_l03_rd03",
+                  "type": "multipleChoice",
+                  "prompt": "Qui est-ce que Nadia emmène ?",
+                  "options": ["Sa cousine", "Sa sœur", "Léa", "Son voisin"],
+                  "answer": "Sa cousine"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a2_u18_l03_wr01",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "Are you free on Saturday evening?",
+              "answer": "Tu es libre samedi soir ?",
+              "acceptedAnswers": ["Tu es libre samedi soir", "tu es libre samedi soir ?", "Es-tu libre samedi soir ?"]
+            },
+            {
+              "id": "a2_u18_l03_wr02",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "We danced until midnight.",
+              "answer": "On a dansé jusqu'à minuit.",
+              "acceptedAnswers": ["On a danse jusqu'a minuit", "On a dansé jusqu'à minuit", "Nous avons dansé jusqu'à minuit"]
+            },
+            {
+              "id": "a2_u18_l03_wr03",
+              "type": "arrangeWords",
+              "words": ["retrouve", "bar", "se", "on", "au"],
+              "answer": "on se retrouve au bar",
+              "english": "We're meeting up at the bar."
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a2_u18_l03_pr01",
+              "type": "fillBlank",
+              "prompt": "On ___ au cinéma ce soir. (aller)",
+              "answer": "va"
+            },
+            {
+              "id": "a2_u18_l03_pr02",
+              "type": "multipleChoice",
+              "prompt": "Which sentence is correct?",
+              "options": ["On prend un verre après ?", "On prenons un verre après ?", "On prends un verre après ?", "On prendre un verre après ?"],
+              "answer": "On prend un verre après ?"
+            },
+            {
+              "id": "a2_u18_l03_pr03",
+              "type": "match",
+              "pairs": [
+                { "french": "volontiers", "english": "gladly" },
+                { "french": "c'est dommage", "english": "that's a shame" },
+                { "french": "ça te dit ?", "english": "do you fancy it?" },
+                { "french": "je suis occupé", "english": "I'm busy" }
+              ]
+            },
+            {
+              "id": "a2_u18_l03_pr04",
+              "type": "fillBlank",
+              "prompt": "On ___ allés en boîte samedi soir. (être)",
+              "answer": "est"
+            },
+            {
+              "id": "a2_u18_l03_pr05",
+              "type": "arrangeWords",
+              "words": ["amusés", "s'est", "bien", "on"],
+              "answer": "on s'est bien amusés",
+              "english": "We had a great time."
+            },
+            {
+              "id": "a2_u18_l03_pr06",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "Entry is free before ten p.m.",
+              "answer": "L'entrée est gratuite avant vingt-deux heures.",
+              "acceptedAnswers": ["L'entree est gratuite avant vingt-deux heures", "Lentrée est gratuite avant vingt-deux heures", "l'entrée est gratuite avant vingt-deux heures"]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a2_u18_l03_qz01",
+              "type": "multipleChoice",
+              "prompt": "Which verb form goes with \"on\"?",
+              "options": ["the il / elle form", "the nous form", "the vous form", "the ils form"],
+              "answer": "the il / elle form"
+            },
+            {
+              "id": "a2_u18_l03_qz02",
+              "type": "fillBlank",
+              "prompt": "Qu'est-ce qu'___ fait ce soir ?",
+              "answer": "on"
+            },
+            {
+              "id": "a2_u18_l03_qz03",
+              "type": "multipleChoice",
+              "prompt": "How do you accept an invitation warmly?",
+              "options": ["Volontiers !", "Dommage !", "Je suis occupé.", "Une autre fois."],
+              "answer": "Volontiers !"
+            },
+            {
+              "id": "a2_u18_l03_qz04",
+              "type": "trueFalse",
+              "prompt": "In French, refusing an invitation with just \"Non\" is considered polite.",
+              "options": ["True", "False"],
+              "answer": "False"
+            },
+            {
+              "id": "a2_u18_l03_qz05",
+              "type": "translate",
+              "prompt": "Translate into French",
+              "english": "Shall we go to the cinema tonight?",
+              "answer": "On va au cinéma ce soir ?",
+              "acceptedAnswers": ["On va au cinema ce soir", "On va au cinéma ce soir ?", "on va au cinéma ce soir ?"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1218 @@
+{
+  "id": "b2_u07",
+  "level": "B2",
+  "unit": 7,
+  "title": "Economy & Finance",
+  "subtitle": "Read the business pages, talk markets and argue about a crisis in confident French",
+  "icon": "💹",
+  "lessons": [
+    {
+      "id": "b2_u07_l01",
+      "level": "B2",
+      "unit": 7,
+      "title": "Comprendre l'économie",
+      "description": "The core indicators — growth, inflation, unemployment, purchasing power — and how the French press talks about them.",
+      "estimatedMinutes": 19,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "The four indicators everyone quotes",
+              "body": "French economic debate revolves around four figures: \"la croissance\" (growth of the PIB, the GDP), \"l'inflation\" (the rise in prices), \"le chômage\" (unemployment) and \"le pouvoir d'achat\" (what a salary actually buys). The first three are measured, the fourth is felt — which is why politicians talk about it constantly. Note that French says \"la croissance\" on its own where English often needs \"economic growth\".",
+              "examples": [
+                { "french": "La croissance devrait atteindre 1,2 % cette année.", "english": "Growth should reach 1.2% this year.", "note": "French writes decimals with a comma: 1,2 %" },
+                { "french": "L'inflation ronge le pouvoir d'achat des ménages.", "english": "Inflation is eating away at households' purchasing power." },
+                { "french": "Le chômage recule pour le troisième trimestre consécutif.", "english": "Unemployment is falling for the third quarter in a row.", "note": "\"reculer\" = to fall back, the standard verb for a declining indicator" },
+                { "french": "Le PIB français a stagné au deuxième trimestre.", "english": "French GDP stagnated in the second quarter." },
+                { "french": "Les salaires ne suivent pas la hausse des prix.", "english": "Wages are not keeping up with the rise in prices." },
+                { "french": "On parle de récession après deux trimestres de recul.", "english": "We speak of a recession after two quarters of decline." }
+              ],
+              "tip": "\"Le pouvoir d'achat\" is untranslatable politically: it is the single most cited notion in French elections, far more than GDP."
+            },
+            {
+              "heading": "Supply, demand and prices",
+              "body": "The mechanism is described with a small, fixed set of collocations: \"l'offre\" and \"la demande\" meet on \"le marché\"; when \"la demande\" exceeds \"l'offre\", \"les prix flambent\". Verbs are almost always used with \"de\" for the amount of change: \"augmenter de 3 %\" means to go up BY 3%, never TO 3%. To say \"to\", use \"passer à\" or \"atteindre\".",
+              "examples": [
+                { "french": "L'offre ne suffit plus à couvrir la demande.", "english": "Supply is no longer enough to cover demand." },
+                { "french": "Les prix de l'énergie ont flambé l'hiver dernier.", "english": "Energy prices soared last winter.", "note": "\"flamber\" = to shoot up, very frequent in the press" },
+                { "french": "Le prix du billet a augmenté de douze euros.", "english": "The ticket price went up by twelve euros." },
+                { "french": "Le litre est passé à deux euros.", "english": "The litre went up to two euros." },
+                { "french": "La consommation des ménages repart doucement.", "english": "Household consumption is slowly picking up again." },
+                { "french": "Quand la demande faiblit, la production ralentit.", "english": "When demand weakens, production slows down." }
+              ],
+              "tip": "\"Le marché\" without a determiner complement means the market in the abstract; \"le marché du travail\" is the job market, \"le marché de l'immobilier\" the property market."
+            },
+            {
+              "heading": "The vocabulary of policy",
+              "body": "When the economy stalls, the state has two classic options and French names them clearly: \"la relance\" (spending to restart activity) and \"l'austérité\" (cutting to reduce \"le déficit\" and \"la dette publique\"). \"La Banque centrale\" acts on \"les taux d'intérêt\". These words carry political charge: \"austérité\" is almost always used critically, while supporters prefer \"la rigueur budgétaire\".",
+              "examples": [
+                { "french": "Le gouvernement a lancé un plan de relance de dix milliards.", "english": "The government launched a ten-billion stimulus plan." },
+                { "french": "La Banque centrale a relevé ses taux d'intérêt.", "english": "The central bank raised its interest rates.", "note": "\"relever\" for rates, not \"augmenter\"" },
+                { "french": "L'austérité a pesé sur les services publics.", "english": "Austerity weighed on public services." },
+                { "french": "Le déficit s'est creusé de deux points.", "english": "The deficit widened by two points.", "note": "\"se creuser\" = to widen, literally to hollow out" },
+                { "french": "La dette publique dépasse les cent pour cent du PIB.", "english": "Public debt exceeds one hundred percent of GDP." },
+                { "french": "La conjoncture reste incertaine pour les mois à venir.", "english": "The economic climate remains uncertain for the coming months." }
+              ],
+              "tip": "\"Un milliard\" is a billion (10⁹) and \"un billion\" in French is a trillion — a classic false friend in financial reporting."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "l-economie", "french": "l'économie", "english": "the economy", "partOfSpeech": "noun", "gender": "f", "plural": "économies", "pronunciation": "lay-koh-noh-MEE", "example": "L'économie française repose largement sur les services.", "exampleEnglish": "The French economy rests largely on services.", "level": "B2", "category": "economy" },
+            { "id": "economique", "french": "économique", "english": "economic", "partOfSpeech": "adjective", "pronunciation": "ay-koh-noh-MEEK", "example": "La situation économique s'est dégradée en un trimestre.", "exampleEnglish": "The economic situation deteriorated in one quarter.", "level": "B2", "category": "economy" },
+            { "id": "la-croissance", "french": "la croissance", "english": "growth", "partOfSpeech": "noun", "gender": "f", "plural": "croissances", "pronunciation": "lah krwah-SAHNSS", "example": "La croissance a été révisée à la baisse.", "exampleEnglish": "Growth has been revised downwards.", "level": "B2", "category": "economy" },
+            { "id": "la-decroissance", "french": "la décroissance", "english": "degrowth", "partOfSpeech": "noun", "gender": "f", "plural": "décroissances", "pronunciation": "lah day-krwah-SAHNSS", "example": "Certains économistes défendent la décroissance pour sauver le climat.", "exampleEnglish": "Some economists defend degrowth in order to save the climate.", "level": "B2", "category": "economy" },
+            { "id": "linflation", "french": "l'inflation", "english": "inflation", "partOfSpeech": "noun", "gender": "f", "plural": "inflations", "pronunciation": "lan-flah-SYOHN", "example": "L'inflation est retombée sous les trois pour cent.", "exampleEnglish": "Inflation has fallen back below three percent.", "level": "B2", "category": "economy" },
+            { "id": "la-deflation", "french": "la déflation", "english": "deflation", "partOfSpeech": "noun", "gender": "f", "plural": "déflations", "pronunciation": "lah day-flah-SYOHN", "example": "La déflation inquiète autant que l'inflation.", "exampleEnglish": "Deflation is as worrying as inflation.", "level": "B2", "category": "economy" },
+            { "id": "chomage", "french": "le chômage", "english": "unemployment", "partOfSpeech": "noun", "gender": "m", "plural": "chômages", "pronunciation": "luh shoh-MAHZH", "example": "Mon oncle est au chômage depuis huit mois.", "exampleEnglish": "My uncle has been unemployed for eight months.", "level": "B2", "category": "economy" },
+            { "id": "le-taux-de-chomage", "french": "le taux de chômage", "english": "the unemployment rate", "partOfSpeech": "noun", "gender": "m", "plural": "taux de chômage", "pronunciation": "luh toh duh shoh-MAHZH", "example": "Le taux de chômage est tombé à sept pour cent.", "exampleEnglish": "The unemployment rate has fallen to seven percent.", "level": "B2", "category": "economy" },
+            { "id": "le-pouvoir-dachat", "french": "le pouvoir d'achat", "english": "purchasing power", "partOfSpeech": "noun", "gender": "m", "plural": "pouvoirs d'achat", "pronunciation": "luh poo-VWAHR dah-SHAH", "example": "Les Français ont le sentiment de perdre du pouvoir d'achat.", "exampleEnglish": "French people feel they are losing purchasing power.", "level": "B2", "category": "economy" },
+            { "id": "le-niveau-de-vie", "french": "le niveau de vie", "english": "the standard of living", "partOfSpeech": "noun", "gender": "m", "plural": "niveaux de vie", "pronunciation": "luh nee-VOH duh VEE", "example": "Le niveau de vie stagne depuis une décennie.", "exampleEnglish": "The standard of living has been flat for a decade.", "level": "B2", "category": "economy" },
+            { "id": "le-cout-de-la-vie", "french": "le coût de la vie", "english": "the cost of living", "partOfSpeech": "noun", "gender": "m", "plural": "coûts de la vie", "pronunciation": "luh KOO duh lah VEE", "example": "Le coût de la vie a explosé dans les grandes villes.", "exampleEnglish": "The cost of living has exploded in big cities.", "level": "B2", "category": "economy" },
+            { "id": "le-pib", "french": "le PIB", "english": "GDP (gross domestic product)", "partOfSpeech": "noun", "gender": "m", "plural": "PIB", "pronunciation": "luh pay-ee-BAY", "example": "La dette représente cent dix pour cent du PIB.", "exampleEnglish": "The debt represents one hundred and ten percent of GDP.", "level": "B2", "category": "economy" },
+            { "id": "le-menage", "french": "le ménage", "english": "the household", "partOfSpeech": "noun", "gender": "m", "plural": "ménages", "pronunciation": "luh may-NAHZH", "example": "Les ménages modestes sont les plus touchés.", "exampleEnglish": "Low-income households are the hardest hit.", "level": "B2", "category": "economy" },
+            { "id": "consommation", "french": "la consommation", "english": "consumption, spending", "partOfSpeech": "noun", "gender": "f", "plural": "consommations", "pronunciation": "lah koh-soh-mah-SYOHN", "example": "La consommation reste le moteur de la croissance.", "exampleEnglish": "Consumption remains the engine of growth.", "level": "B2", "category": "economy" },
+            { "id": "consommer", "french": "consommer", "english": "to consume, to spend", "partOfSpeech": "verb", "pronunciation": "koh-soh-MAY", "example": "Les Français consomment moins et épargnent davantage.", "exampleEnglish": "French people are spending less and saving more.", "level": "B2", "category": "economy" },
+            { "id": "la-production", "french": "la production", "english": "output, production", "partOfSpeech": "noun", "gender": "f", "plural": "productions", "pronunciation": "lah proh-dük-SYOHN", "example": "La production industrielle a ralenti en juillet.", "exampleEnglish": "Industrial output slowed in July.", "level": "B2", "category": "economy" },
+            { "id": "produire", "french": "produire", "english": "to produce", "partOfSpeech": "verb", "pronunciation": "proh-DWEER", "example": "L'usine produit deux mille pièces par jour.", "exampleEnglish": "The factory produces two thousand parts a day.", "level": "B2", "category": "economy" },
+            { "id": "l-offre", "french": "l'offre", "english": "supply", "partOfSpeech": "noun", "gender": "f", "plural": "offres", "pronunciation": "LOFF-ruh", "example": "L'offre de logements ne suit pas la demande.", "exampleEnglish": "The supply of housing is not keeping up with demand.", "level": "B2", "category": "economy" },
+            { "id": "la-demande", "french": "la demande", "english": "demand", "partOfSpeech": "noun", "gender": "f", "plural": "demandes", "pronunciation": "lah duh-MAHND", "example": "La demande intérieure s'essouffle.", "exampleEnglish": "Domestic demand is running out of steam.", "level": "B2", "category": "economy" },
+            { "id": "le-prix", "french": "le prix", "english": "the price", "partOfSpeech": "noun", "gender": "m", "plural": "prix", "pronunciation": "luh PREE", "example": "Les prix à la pompe ont encore grimpé.", "exampleEnglish": "Prices at the pump have gone up again.", "level": "B2", "category": "economy" },
+            { "id": "la-hausse", "french": "la hausse", "english": "the rise, the increase", "partOfSpeech": "noun", "gender": "f", "plural": "hausses", "pronunciation": "lah OHSS", "example": "Une hausse de deux points est attendue.", "exampleEnglish": "A two-point rise is expected.", "level": "B2", "category": "economy" },
+            { "id": "la-baisse", "french": "la baisse", "english": "the fall, the drop", "partOfSpeech": "noun", "gender": "f", "plural": "baisses", "pronunciation": "lah BESS", "example": "Les prévisions ont été revues à la baisse.", "exampleEnglish": "The forecasts have been revised downwards.", "level": "B2", "category": "economy" },
+            { "id": "augmenter", "french": "augmenter", "english": "to increase, to go up", "partOfSpeech": "verb", "pronunciation": "ohg-mahn-TAY", "example": "Le loyer a augmenté de cinquante euros.", "exampleEnglish": "The rent went up by fifty euros.", "level": "B2", "category": "economy" },
+            { "id": "le-salaire", "french": "le salaire", "english": "the salary, the wage", "partOfSpeech": "noun", "gender": "m", "plural": "salaires", "pronunciation": "luh sah-LEHR", "example": "Les salaires n'ont pas suivi l'inflation.", "exampleEnglish": "Wages have not kept up with inflation.", "level": "B2", "category": "economy" },
+            { "id": "le-revenu", "french": "le revenu", "english": "the income", "partOfSpeech": "noun", "gender": "m", "plural": "revenus", "pronunciation": "luh ruh-vuh-NÜ", "example": "Son revenu mensuel dépasse à peine le SMIC.", "exampleEnglish": "His monthly income barely exceeds the minimum wage.", "level": "B2", "category": "economy" },
+            { "id": "l-impot", "french": "l'impôt", "english": "the tax", "partOfSpeech": "noun", "gender": "m", "plural": "impôts", "pronunciation": "lam-POH", "example": "Le gouvernement promet de baisser les impôts.", "exampleEnglish": "The government promises to cut taxes.", "level": "B2", "category": "economy" },
+            { "id": "la-monnaie", "french": "la monnaie", "english": "the currency", "partOfSpeech": "noun", "gender": "f", "plural": "monnaies", "pronunciation": "lah moh-NEH", "example": "Une monnaie faible favorise les exportations.", "exampleEnglish": "A weak currency favours exports.", "level": "B2", "category": "economy" },
+            { "id": "la-banque-centrale", "french": "la banque centrale", "english": "the central bank", "partOfSpeech": "noun", "gender": "f", "plural": "banques centrales", "pronunciation": "lah bahnk sahn-TRAHL", "example": "La banque centrale surveille l'inflation de près.", "exampleEnglish": "The central bank monitors inflation closely.", "level": "B2", "category": "finance" },
+            { "id": "le-taux-dinteret", "french": "le taux d'intérêt", "english": "the interest rate", "partOfSpeech": "noun", "gender": "m", "plural": "taux d'intérêt", "pronunciation": "luh toh dan-tay-REH", "example": "Les taux d'intérêt rendent les crédits plus chers.", "exampleEnglish": "Interest rates are making loans more expensive.", "level": "B2", "category": "finance" },
+            { "id": "la-dette-publique", "french": "la dette publique", "english": "public debt", "partOfSpeech": "noun", "gender": "f", "plural": "dettes publiques", "pronunciation": "lah det pü-BLEEK", "example": "La dette publique se creuse d'année en année.", "exampleEnglish": "Public debt is widening year after year.", "level": "B2", "category": "economy" },
+            { "id": "le-deficit", "french": "le déficit", "english": "the deficit", "partOfSpeech": "noun", "gender": "m", "plural": "déficits", "pronunciation": "luh day-fee-SEET", "example": "Réduire le déficit suppose des choix douloureux.", "exampleEnglish": "Reducing the deficit implies painful choices.", "level": "B2", "category": "economy" },
+            { "id": "l-excedent", "french": "l'excédent", "english": "the surplus", "partOfSpeech": "noun", "gender": "m", "plural": "excédents", "pronunciation": "lek-say-DAHN", "example": "L'Allemagne affiche un excédent commercial.", "exampleEnglish": "Germany posts a trade surplus.", "level": "B2", "category": "economy" },
+            { "id": "la-recession", "french": "la récession", "english": "the recession", "partOfSpeech": "noun", "gender": "f", "plural": "récessions", "pronunciation": "lah ray-seh-SYOHN", "example": "Le pays est officiellement entré en récession.", "exampleEnglish": "The country has officially entered a recession.", "level": "B2", "category": "economy" },
+            { "id": "la-reprise", "french": "la reprise", "english": "the recovery, the upturn", "partOfSpeech": "noun", "gender": "f", "plural": "reprises", "pronunciation": "lah ruh-PREEZ", "example": "La reprise se fait attendre dans l'industrie.", "exampleEnglish": "The recovery is slow to come in industry.", "level": "B2", "category": "economy" },
+            { "id": "la-conjoncture", "french": "la conjoncture", "english": "the economic climate", "partOfSpeech": "noun", "gender": "f", "plural": "conjonctures", "pronunciation": "lah kohn-zhonk-TÜR", "example": "Dans cette conjoncture, personne n'embauche.", "exampleEnglish": "In this economic climate, nobody is hiring.", "level": "B2", "category": "economy" },
+            { "id": "l-austerite", "french": "l'austérité", "english": "austerity", "partOfSpeech": "noun", "gender": "f", "plural": "austérités", "pronunciation": "loh-stay-ree-TAY", "example": "Dix ans d'austérité ont usé les services publics.", "exampleEnglish": "Ten years of austerity have worn down public services.", "level": "B2", "category": "economy" },
+            { "id": "la-relance", "french": "la relance", "english": "the stimulus, the boost", "partOfSpeech": "noun", "gender": "f", "plural": "relances", "pronunciation": "lah ruh-LAHNSS", "example": "La relance passe par l'investissement public.", "exampleEnglish": "The stimulus comes through public investment.", "level": "B2", "category": "economy" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Describing variation: de, à, entre",
+              "body": "Three prepositions do almost all the work with figures. \"De\" gives the SIZE of the change (augmenter de 3 %). \"À\" gives the POINT reached (passer à 2 euros, tomber à 5 %). \"Entre… et…\" gives a range. Two verbs are worth memorising as a pair: \"s'élever à\" (to amount to) for totals, and \"atteindre\" (to reach) for peaks. Never say \"augmenter à 3 %\" for an increase of 3% — that is the classic English speaker's mistake.",
+              "examples": [
+                { "french": "Les loyers ont augmenté de 4 % en un an.", "english": "Rents went up by 4% in a year." },
+                { "french": "Le chômage est tombé à 6,8 %.", "english": "Unemployment fell to 6.8%." },
+                { "french": "La facture s'élève à trois mille euros.", "english": "The bill amounts to three thousand euros." },
+                { "french": "L'inflation devrait atteindre son pic en janvier.", "english": "Inflation should reach its peak in January." },
+                { "french": "La croissance se situe entre 0,5 et 1 %.", "english": "Growth stands between 0.5 and 1%." },
+                { "french": "Le déficit s'est réduit de moitié.", "english": "The deficit has halved.", "note": "\"de moitié\", \"du double\", \"d'un tiers\" all take \"de\"" }
+              ],
+              "tip": "In French, the % sign takes a space before it: \"3 %\", and decimals use a comma: \"1,5 %\"."
+            },
+            {
+              "heading": "The journalistic conditional",
+              "body": "When French media report a figure they cannot yet confirm, they put the verb in the conditional. \"L'inflation atteindrait 4 %\" does not mean \"would reach\" — it means \"reportedly reaches / is said to reach\". This \"conditionnel journalistique\" is everywhere in economic reporting, and recognising it is the difference between reading a fact and reading a rumour. In the past, use the conditionnel passé: \"aurait perdu\".",
+              "examples": [
+                { "french": "Le groupe supprimerait deux cents postes.", "english": "The group is reportedly cutting two hundred jobs." },
+                { "french": "La croissance serait plus faible que prévu.", "english": "Growth is said to be weaker than expected." },
+                { "french": "La banque aurait perdu un milliard en trois jours.", "english": "The bank reportedly lost a billion in three days." },
+                { "french": "Selon Bercy, le déficit se creuserait encore.", "english": "According to the Finance Ministry, the deficit would widen further.", "note": "Bercy = the French finance ministry, by metonymy" },
+                { "french": "Les négociations auraient échoué hier soir.", "english": "The negotiations reportedly failed last night." },
+                { "french": "Il y aurait un accord d'ici la fin du mois.", "english": "There is said to be a deal coming by the end of the month." }
+              ],
+              "tip": "If a headline uses the conditional, the paper is protecting itself: nothing is confirmed. A confirmed fact goes in the indicative."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "b2_u07_l01_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What exactly happened to prices?",
+              "french": "Les prix de l'énergie ont augmenté de douze pour cent en un an.",
+              "options": [
+                "They rose by 12%",
+                "They rose to 12 euros",
+                "They fell by 12%",
+                "They stayed at 12%"
+              ],
+              "answer": "They rose by 12%"
+            },
+            {
+              "id": "b2_u07_l01_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. How certain is this information?",
+              "french": "Selon nos informations, le groupe supprimerait deux cents postes.",
+              "options": [
+                "Unconfirmed — reported, not established",
+                "Confirmed by the company",
+                "A hypothesis about the future",
+                "A polite request"
+              ],
+              "answer": "Unconfirmed — reported, not established"
+            },
+            {
+              "id": "b2_u07_l01_li03",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "L'inflation ronge le pouvoir d'achat des ménages.",
+              "answer": "L'inflation ronge le pouvoir d'achat des ménages.",
+              "acceptedAnswers": [
+                "l'inflation ronge le pouvoir d'achat des menages",
+                "linflation ronge le pouvoir dachat des menages",
+                "L'inflation ronge le pouvoir d'achat des ménages"
+              ]
+            },
+            {
+              "id": "b2_u07_l01_li04",
+              "type": "dictation",
+              "prompt": "Listen carefully and write the full sentence.",
+              "french": "La croissance devrait atteindre un virgule deux pour cent cette année.",
+              "answer": "La croissance devrait atteindre un virgule deux pour cent cette année.",
+              "acceptedAnswers": [
+                "la croissance devrait atteindre un virgule deux pour cent cette annee",
+                "La croissance devrait atteindre 1,2 % cette année"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "b2_u07_l01_sp01",
+              "type": "speak",
+              "prompt": "Comment on an indicator, out loud.",
+              "french": "Le chômage recule pour le troisième trimestre consécutif.",
+              "english": "Unemployment is falling for the third quarter in a row.",
+              "tip": "\"Trimestre\" is three clean syllables: tree-MESS-truh, with a barely voiced final -re. Don't stress \"con-sé-cu-TIF\" until the last syllable."
+            },
+            {
+              "id": "b2_u07_l01_sp02",
+              "type": "speak",
+              "prompt": "Say a percentage the French way.",
+              "french": "Les prix ont augmenté de trois virgule cinq pour cent.",
+              "english": "Prices went up by three point five percent.",
+              "tip": "Say \"virgule\" (veer-GÜL) where English says \"point\". Round your lips tightly for the ü, as in \"tu\"."
+            },
+            {
+              "id": "b2_u07_l01_sp03",
+              "type": "speak",
+              "prompt": "Report an unconfirmed figure using the conditional.",
+              "french": "Selon Bercy, le déficit se creuserait encore l'an prochain.",
+              "english": "According to the Finance Ministry, the deficit would widen further next year.",
+              "tip": "\"Creuserait\" ends in an open -eh, not -ay: kruh-zuh-REH. That vowel is the whole signal that this is unconfirmed."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Les chiffres et le ressenti",
+              "french": "Chaque mois, l'INSEE publie ses chiffres, et chaque mois le même malentendu recommence.\nL'institut annonce que l'inflation est retombée à deux pour cent ; les ménages, eux, jurent que tout continue d'augmenter.\nLes deux ont raison, et c'est précisément ce qui rend le débat si vif.\nUn ralentissement de l'inflation ne signifie pas que les prix baissent : il signifie qu'ils montent moins vite qu'avant.\nLe paquet de pâtes qui a pris quarante centimes l'an dernier ne les rendra pas cette année.\nÀ cela s'ajoute un décalage bien connu des économistes : nous mémorisons le prix des produits que nous achetons chaque semaine, pas celui des ordinateurs ou des billets d'avion.\nOr ce sont justement ces derniers qui tirent l'indice vers le bas.\n« Les gens ne se trompent pas, ils mesurent autre chose », résume une chercheuse du CREDOC.\nCe qu'ils mesurent, c'est le pouvoir d'achat : le rapport entre ce qu'ils gagnent et ce que la vie coûte.\nOr les salaires, eux, n'ont pas suivi la hausse des prix depuis trois ans.\nLe niveau de vie moyen a donc stagné pendant que la croissance, sur le papier, restait positive.\nD'où ce sentiment étrange d'une économie qui va bien et d'un porte-monnaie qui va mal.\nLe gouvernement promet un plan de relance ; l'opposition réclame une hausse générale des salaires.\nEntre les deux, l'économiste hausse les épaules : « Tant que la productivité stagnera, on se disputera le même gâteau. »",
+              "english": "Every month, INSEE publishes its figures, and every month the same misunderstanding starts again.\nThe institute announces that inflation has fallen back to two percent; households, for their part, swear that everything is still going up.\nBoth are right, and that is precisely what makes the debate so heated.\nA slowdown in inflation does not mean that prices are falling: it means they are rising more slowly than before.\nThe packet of pasta that went up by forty cents last year will not give them back this year.\nOn top of that comes a lag well known to economists: we memorise the price of the products we buy every week, not that of computers or plane tickets.\nYet it is precisely the latter that pull the index down.\n\"People are not wrong, they are measuring something else,\" sums up a researcher at CREDOC.\nWhat they are measuring is purchasing power: the ratio between what they earn and what life costs.\nAnd wages, for their part, have not kept up with the rise in prices for three years.\nThe average standard of living has therefore stagnated while growth, on paper, remained positive.\nHence that strange feeling of an economy doing well and a wallet doing badly.\nThe government promises a stimulus plan; the opposition demands a general wage increase.\nBetween the two, the economist shrugs: \"As long as productivity stagnates, we will be fighting over the same cake.\"",
+              "questions": [
+                {
+                  "id": "b2_u07_l01_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Selon le texte, une inflation qui ralentit signifie que…",
+                  "options": [
+                    "les prix montent moins vite qu'avant",
+                    "les prix reviennent à leur niveau d'avant",
+                    "les prix baissent enfin",
+                    "les salaires augmentent automatiquement"
+                  ],
+                  "answer": "les prix montent moins vite qu'avant"
+                },
+                {
+                  "id": "b2_u07_l01_rd02",
+                  "type": "trueFalse",
+                  "prompt": "D'après le texte, les ménages retiennent surtout le prix des produits achetés chaque semaine.",
+                  "options": ["True", "False"],
+                  "answer": "True"
+                },
+                {
+                  "id": "b2_u07_l01_rd03",
+                  "type": "multipleChoice",
+                  "prompt": "Pourquoi le niveau de vie moyen a-t-il stagné malgré une croissance positive ?",
+                  "options": [
+                    "parce que les salaires n'ont pas suivi la hausse des prix",
+                    "parce que le chômage a explosé",
+                    "parce que l'INSEE a changé sa méthode de calcul",
+                    "parce que les ménages ont cessé de consommer"
+                  ],
+                  "answer": "parce que les salaires n'ont pas suivi la hausse des prix"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "b2_u07_l01_wr01",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "Prices went up by four percent in one year.",
+              "answer": "Les prix ont augmenté de quatre pour cent en un an.",
+              "acceptedAnswers": [
+                "les prix ont augmente de quatre pour cent en un an",
+                "les prix ont augmenté de 4 % en un an"
+              ]
+            },
+            {
+              "id": "b2_u07_l01_wr02",
+              "type": "fillBlank",
+              "prompt": "Le taux de chômage est tombé ___ six pour cent.",
+              "answer": "à"
+            },
+            {
+              "id": "b2_u07_l01_wr03",
+              "type": "translate",
+              "prompt": "Translate into French, using the journalistic conditional.",
+              "english": "According to our information, the group is reportedly cutting two hundred jobs.",
+              "answer": "Selon nos informations, le groupe supprimerait deux cents postes.",
+              "acceptedAnswers": [
+                "selon nos informations le groupe supprimerait deux cents postes",
+                "d'après nos informations, le groupe supprimerait deux cents postes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "b2_u07_l01_pr01",
+              "type": "multipleChoice",
+              "prompt": "Complétez : « Le litre d'essence est passé ___ deux euros. »",
+              "options": ["à", "de", "en", "par"],
+              "answer": "à"
+            },
+            {
+              "id": "b2_u07_l01_pr02",
+              "type": "fillBlank",
+              "prompt": "La facture s'___ à trois mille euros. (s'élever)",
+              "answer": "élève"
+            },
+            {
+              "id": "b2_u07_l01_pr03",
+              "type": "arrangeWords",
+              "words": ["pouvoir", "le", "ronge", "L'inflation", "des ménages", "d'achat"],
+              "answer": "L'inflation ronge le pouvoir d'achat des ménages",
+              "english": "Inflation is eating away at households' purchasing power."
+            },
+            {
+              "id": "b2_u07_l01_pr04",
+              "type": "match",
+              "prompt": "Associez chaque terme à sa traduction.",
+              "pairs": [
+                { "french": "la conjoncture", "english": "the economic climate" },
+                { "french": "l'excédent", "english": "the surplus" },
+                { "french": "la reprise", "english": "the recovery" },
+                { "french": "le ménage", "english": "the household" }
+              ]
+            },
+            {
+              "id": "b2_u07_l01_pr05",
+              "type": "multipleChoice",
+              "prompt": "Quelle phrase signifie qu'une information n'est pas confirmée ?",
+              "options": [
+                "La banque aurait perdu un milliard.",
+                "La banque a perdu un milliard.",
+                "La banque perdra un milliard.",
+                "La banque perdait un milliard."
+              ],
+              "answer": "La banque aurait perdu un milliard."
+            },
+            {
+              "id": "b2_u07_l01_pr06",
+              "type": "trueFalse",
+              "prompt": "En français, « un milliard » correspond à l'anglais « a billion ».",
+              "options": ["True", "False"],
+              "answer": "True"
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "b2_u07_l01_qz01",
+              "type": "multipleChoice",
+              "prompt": "« Le chômage recule » signifie…",
+              "options": [
+                "le chômage diminue",
+                "le chômage augmente",
+                "le chômage reste stable",
+                "le chômage est mal mesuré"
+              ],
+              "answer": "le chômage diminue"
+            },
+            {
+              "id": "b2_u07_l01_qz02",
+              "type": "fillBlank",
+              "prompt": "Les loyers ont augmenté ___ quatre pour cent.",
+              "answer": "de"
+            },
+            {
+              "id": "b2_u07_l01_qz03",
+              "type": "multipleChoice",
+              "prompt": "Le PIB, c'est…",
+              "options": [
+                "la richesse produite par un pays",
+                "le montant des impôts collectés",
+                "le nombre de chômeurs",
+                "le prix moyen d'un panier de courses"
+              ],
+              "answer": "la richesse produite par un pays"
+            },
+            {
+              "id": "b2_u07_l01_qz04",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "The central bank raised its interest rates.",
+              "answer": "La banque centrale a relevé ses taux d'intérêt.",
+              "acceptedAnswers": [
+                "la banque centrale a releve ses taux d'interet",
+                "la banque centrale a augmenté ses taux d'intérêt"
+              ]
+            },
+            {
+              "id": "b2_u07_l01_qz05",
+              "type": "multipleChoice",
+              "prompt": "Quel mot désigne une politique de réduction des dépenses publiques ?",
+              "options": ["l'austérité", "la relance", "l'excédent", "la conjoncture"],
+              "answer": "l'austérité"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2_u07_l02",
+      "level": "B2",
+      "unit": 7,
+      "title": "Les marchés",
+      "description": "Shares, bonds, returns and risk — the language of the stock market and of talking about your own money.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "La Bourse: the basic pieces",
+              "body": "\"La Bourse\" (capital B for the institution) is where \"les actions\" (shares) and \"les obligations\" (bonds) are traded. Beware two false friends: \"une action\" here is a share, not an action, and \"une obligation\" is a bond, not a duty. A company listed on the market is \"cotée en Bourse\", and its share price is \"le cours\", which \"monte\", \"baisse\" or \"dévisse\".",
+              "examples": [
+                { "french": "L'entreprise est cotée en Bourse depuis 2019.", "english": "The company has been listed on the stock exchange since 2019." },
+                { "french": "J'ai acheté vingt actions de ce groupe.", "english": "I bought twenty shares in that group." },
+                { "french": "Le cours a dévissé de huit pour cent en une séance.", "english": "The share price plunged by eight percent in a single session.", "note": "\"dévisser\" = to plunge; strong, very market-specific" },
+                { "french": "Les obligations d'État rapportent peu mais rassurent.", "english": "Government bonds pay little but they reassure." },
+                { "french": "Le CAC 40 a clôturé en hausse.", "english": "The CAC 40 closed up.", "note": "\"clôturer en hausse / en baisse\" is the fixed phrase" },
+                { "french": "Les actionnaires ont voté contre la fusion.", "english": "The shareholders voted against the merger." }
+              ],
+              "tip": "\"Jouer en Bourse\" (to play the market) carries a whiff of gambling; a serious investor says \"investir en Bourse\" or \"placer son argent\"."
+            },
+            {
+              "heading": "Investing, returns and losses",
+              "body": "\"Placer\" and \"investir\" are near-synonyms, but \"un placement\" suggests parking money safely while \"un investissement\" suggests building something. What the money earns is \"le rendement\" (yield) or, once you sell, \"une plus-value\" (capital gain) — the opposite being \"une moins-value\". \"Rentable\" describes anything that pays off, from a share to a bakery.",
+              "examples": [
+                { "french": "J'ai placé mes économies sur un livret.", "english": "I put my savings into a savings account." },
+                { "french": "Ce placement offre un rendement de trois pour cent.", "english": "This investment offers a three percent yield." },
+                { "french": "Il a réalisé une belle plus-value à la revente.", "english": "He made a nice capital gain when he resold." },
+                { "french": "L'opération s'est soldée par une moins-value.", "english": "The operation ended in a capital loss.", "note": "\"se solder par\" = to end in, standard financial phrasing" },
+                { "french": "Ce n'est rentable qu'à long terme.", "english": "It's only profitable in the long term." },
+                { "french": "Il faut diversifier son portefeuille d'actions.", "english": "You have to diversify your share portfolio." }
+              ],
+              "tip": "The French are famously prudent savers: \"le Livret A\", a state-guaranteed savings account, holds more money than the whole Paris stock market does from small investors."
+            },
+            {
+              "heading": "Talking about risk",
+              "body": "Risk vocabulary is where finance meets everyday French. \"Prendre un risque\" is neutral, \"prendre des risques inconsidérés\" is reckless, and \"miser sur\" (to bet on) works for shares and for people alike. When markets get nervous, money flows towards \"les valeurs refuges\" — gold, the Swiss franc — and away from \"les valeurs spéculatives\".",
+              "examples": [
+                { "french": "Je préfère un placement sûr à un pari risqué.", "english": "I prefer a safe investment to a risky bet." },
+                { "french": "Il a tout misé sur les valeurs technologiques.", "english": "He bet everything on tech stocks." },
+                { "french": "L'or reste la valeur refuge par excellence.", "english": "Gold remains the ultimate safe haven." },
+                { "french": "La volatilité rend les marchés imprévisibles.", "english": "Volatility makes markets unpredictable." },
+                { "french": "Les investisseurs prennent leurs bénéfices.", "english": "Investors are taking their profits.", "note": "\"prendre ses bénéfices\" = to cash in, sell at a gain" },
+                { "french": "Personne n'a vu venir l'éclatement de la bulle.", "english": "Nobody saw the bubble bursting coming." }
+              ],
+              "tip": "\"Qui ne risque rien n'a rien\" — nothing ventured, nothing gained — is the proverb a French broker will quote at you, usually just before you lose money."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "la-bourse-marche", "french": "la Bourse", "english": "the stock exchange", "partOfSpeech": "noun", "gender": "f", "plural": "Bourses", "pronunciation": "lah BOORSS", "example": "La Bourse de Paris a ouvert en baisse.", "exampleEnglish": "The Paris stock exchange opened down.", "level": "B2", "category": "finance" },
+            { "id": "l-action", "french": "l'action", "english": "the share, the stock", "partOfSpeech": "noun", "gender": "f", "plural": "actions", "pronunciation": "lahk-SYOHN", "example": "L'action a perdu douze pour cent depuis janvier.", "exampleEnglish": "The share has lost twelve percent since January.", "level": "B2", "category": "finance" },
+            { "id": "l-actionnaire", "french": "l'actionnaire", "english": "the shareholder", "partOfSpeech": "noun", "gender": "m", "plural": "actionnaires", "pronunciation": "lahk-syoh-NEHR", "example": "Les actionnaires réclament un dividende plus élevé.", "exampleEnglish": "The shareholders are demanding a higher dividend.", "level": "B2", "category": "finance" },
+            { "id": "l-obligation-financiere", "french": "l'obligation", "english": "the bond", "partOfSpeech": "noun", "gender": "f", "plural": "obligations", "pronunciation": "loh-blee-gah-SYOHN", "example": "Les obligations d'État rapportent peu mais rassurent.", "exampleEnglish": "Government bonds pay little but they reassure.", "level": "B2", "category": "finance" },
+            { "id": "le-titre", "french": "le titre", "english": "the security (share or bond)", "partOfSpeech": "noun", "gender": "m", "plural": "titres", "pronunciation": "luh TEE-truh", "example": "Il détient des titres dans trois sociétés.", "exampleEnglish": "He holds securities in three companies.", "level": "B2", "category": "finance" },
+            { "id": "le-cours-de-bourse", "french": "le cours de Bourse", "english": "the share price", "partOfSpeech": "noun", "gender": "m", "plural": "cours de Bourse", "pronunciation": "luh koor duh BOORSS", "example": "Le cours de Bourse a dévissé après l'annonce.", "exampleEnglish": "The share price plunged after the announcement.", "level": "B2", "category": "finance" },
+            { "id": "cote-en-bourse", "french": "coté en Bourse", "english": "listed on the stock exchange", "partOfSpeech": "adjective", "pronunciation": "koh-TAY ahn BOORSS", "example": "Le groupe est coté en Bourse depuis 2019.", "exampleEnglish": "The group has been listed on the stock exchange since 2019.", "level": "B2", "category": "finance" },
+            { "id": "l-indice", "french": "l'indice", "english": "the index", "partOfSpeech": "noun", "gender": "m", "plural": "indices", "pronunciation": "lan-DEESS", "example": "L'indice parisien a clôturé en hausse.", "exampleEnglish": "The Paris index closed up.", "level": "B2", "category": "finance" },
+            { "id": "investir", "french": "investir", "english": "to invest", "partOfSpeech": "verb", "pronunciation": "an-vess-TEER", "example": "Elle investit chaque mois une petite somme.", "exampleEnglish": "She invests a small sum every month.", "level": "B2", "category": "finance" },
+            { "id": "l-investissement", "french": "l'investissement", "english": "the investment", "partOfSpeech": "noun", "gender": "m", "plural": "investissements", "pronunciation": "lan-vess-teess-MAHN", "example": "L'investissement des entreprises redémarre.", "exampleEnglish": "Corporate investment is picking up again.", "level": "B2", "category": "finance" },
+            { "id": "l-investisseur", "french": "l'investisseur", "english": "the investor", "partOfSpeech": "noun", "gender": "m", "plural": "investisseurs", "pronunciation": "lan-vess-tee-SUHR", "example": "Les investisseurs étrangers se retirent du marché.", "exampleEnglish": "Foreign investors are pulling out of the market.", "level": "B2", "category": "finance" },
+            { "id": "le-placement", "french": "le placement", "english": "the investment (of savings)", "partOfSpeech": "noun", "gender": "m", "plural": "placements", "pronunciation": "luh plahss-MAHN", "example": "C'est un placement sûr mais peu rémunérateur.", "exampleEnglish": "It's a safe but poorly paying investment.", "level": "B2", "category": "finance" },
+            { "id": "le-rendement", "french": "le rendement", "english": "the yield, the return", "partOfSpeech": "noun", "gender": "m", "plural": "rendements", "pronunciation": "luh rahnd-MAHN", "example": "Le rendement de ce livret est de trois pour cent.", "exampleEnglish": "The yield on this savings account is three percent.", "level": "B2", "category": "finance" },
+            { "id": "le-dividende", "french": "le dividende", "english": "the dividend", "partOfSpeech": "noun", "gender": "m", "plural": "dividendes", "pronunciation": "luh dee-vee-DAHND", "example": "Le groupe versera un dividende exceptionnel.", "exampleEnglish": "The group will pay an exceptional dividend.", "level": "B2", "category": "finance" },
+            { "id": "le-portefeuille-dactions", "french": "le portefeuille d'actions", "english": "the share portfolio", "partOfSpeech": "noun", "gender": "m", "plural": "portefeuilles d'actions", "pronunciation": "luh port-uh-FUH-yuh dahk-SYOHN", "example": "Il faut diversifier son portefeuille d'actions.", "exampleEnglish": "You have to diversify your share portfolio.", "level": "B2", "category": "finance" },
+            { "id": "diversifier", "french": "diversifier", "english": "to diversify", "partOfSpeech": "verb", "pronunciation": "dee-vehr-see-FYAY", "example": "Diversifier reste la meilleure protection.", "exampleEnglish": "Diversifying remains the best protection.", "level": "B2", "category": "finance" },
+            { "id": "le-courtier", "french": "le courtier", "english": "the broker", "partOfSpeech": "noun", "gender": "m", "plural": "courtiers", "pronunciation": "luh koor-TYAY", "example": "Mon courtier m'a déconseillé cette opération.", "exampleEnglish": "My broker advised me against that deal.", "level": "B2", "category": "finance" },
+            { "id": "le-fonds-dinvestissement", "french": "le fonds d'investissement", "english": "the investment fund", "partOfSpeech": "noun", "gender": "m", "plural": "fonds d'investissement", "pronunciation": "luh fohn dan-vess-teess-MAHN", "example": "Un fonds d'investissement a racheté la société.", "exampleEnglish": "An investment fund bought out the company.", "level": "B2", "category": "finance" },
+            { "id": "le-capital", "french": "le capital", "english": "the capital", "partOfSpeech": "noun", "gender": "m", "plural": "capitaux", "pronunciation": "luh kah-pee-TAHL", "example": "Ils ont levé un capital de dix millions.", "exampleEnglish": "They raised ten million in capital.", "level": "B2", "category": "finance" },
+            { "id": "la-liquidite", "french": "la liquidité", "english": "liquidity, available cash", "partOfSpeech": "noun", "gender": "f", "plural": "liquidités", "pronunciation": "lah lee-kee-dee-TAY", "example": "L'entreprise manque de liquidités pour payer ses fournisseurs.", "exampleEnglish": "The company lacks the cash to pay its suppliers.", "level": "B2", "category": "finance" },
+            { "id": "le-benefice", "french": "le bénéfice", "english": "the profit", "partOfSpeech": "noun", "gender": "m", "plural": "bénéfices", "pronunciation": "luh bay-nay-FEESS", "example": "Les investisseurs prennent leurs bénéfices.", "exampleEnglish": "Investors are cashing in their profits.", "level": "B2", "category": "finance" },
+            { "id": "la-perte", "french": "la perte", "english": "the loss", "partOfSpeech": "noun", "gender": "f", "plural": "pertes", "pronunciation": "lah PEHRT", "example": "Le fonds a essuyé une perte de deux millions.", "exampleEnglish": "The fund suffered a two-million loss.", "level": "B2", "category": "finance" },
+            { "id": "la-plus-value", "french": "la plus-value", "english": "the capital gain", "partOfSpeech": "noun", "gender": "f", "plural": "plus-values", "pronunciation": "lah plü-vah-LÜ", "example": "Il a réalisé une belle plus-value à la revente.", "exampleEnglish": "He made a nice capital gain when he resold.", "level": "B2", "category": "finance" },
+            { "id": "la-moins-value", "french": "la moins-value", "english": "the capital loss", "partOfSpeech": "noun", "gender": "f", "plural": "moins-values", "pronunciation": "lah mwan-vah-LÜ", "example": "L'opération s'est soldée par une moins-value.", "exampleEnglish": "The operation ended in a capital loss.", "level": "B2", "category": "finance" },
+            { "id": "rentable", "french": "rentable", "english": "profitable", "partOfSpeech": "adjective", "pronunciation": "rahn-TAH-bluh", "example": "Ce n'est rentable qu'à long terme.", "exampleEnglish": "It's only profitable in the long term.", "level": "B2", "category": "finance" },
+            { "id": "la-rentabilite", "french": "la rentabilité", "english": "profitability", "partOfSpeech": "noun", "gender": "f", "plural": "rentabilités", "pronunciation": "lah rahn-tah-bee-lee-TAY", "example": "La rentabilité du site reste faible.", "exampleEnglish": "The site's profitability remains low.", "level": "B2", "category": "finance" },
+            { "id": "le-risque", "french": "le risque", "english": "the risk", "partOfSpeech": "noun", "gender": "m", "plural": "risques", "pronunciation": "luh REESK", "example": "Tout placement comporte un risque.", "exampleEnglish": "Every investment carries a risk.", "level": "B2", "category": "finance" },
+            { "id": "risque-adjectif", "french": "risqué", "english": "risky", "partOfSpeech": "adjective", "pronunciation": "reess-KAY", "example": "C'est un pari trop risqué pour mon épargne.", "exampleEnglish": "It's too risky a bet for my savings.", "level": "B2", "category": "finance" },
+            { "id": "la-prise-de-risque", "french": "la prise de risque", "english": "risk-taking", "partOfSpeech": "noun", "gender": "f", "plural": "prises de risque", "pronunciation": "lah preez duh REESK", "example": "La prise de risque est mal vue des épargnants français.", "exampleEnglish": "Risk-taking is frowned upon by French savers.", "level": "B2", "category": "finance" },
+            { "id": "la-volatilite", "french": "la volatilité", "english": "volatility", "partOfSpeech": "noun", "gender": "f", "plural": "volatilités", "pronunciation": "lah voh-lah-tee-lee-TAY", "example": "La volatilité rend les marchés imprévisibles.", "exampleEnglish": "Volatility makes markets unpredictable.", "level": "B2", "category": "finance" },
+            { "id": "speculer", "french": "spéculer", "english": "to speculate", "partOfSpeech": "verb", "pronunciation": "spay-kü-LAY", "example": "Il spécule sur la baisse du pétrole.", "exampleEnglish": "He is speculating on a fall in oil prices.", "level": "B2", "category": "finance" },
+            { "id": "la-speculation", "french": "la spéculation", "english": "speculation", "partOfSpeech": "noun", "gender": "f", "plural": "spéculations", "pronunciation": "lah spay-kü-lah-SYOHN", "example": "La spéculation immobilière fait grimper les loyers.", "exampleEnglish": "Property speculation is driving rents up.", "level": "B2", "category": "finance" },
+            { "id": "la-bulle-speculative", "french": "la bulle spéculative", "english": "the speculative bubble", "partOfSpeech": "noun", "gender": "f", "plural": "bulles spéculatives", "pronunciation": "lah bül spay-kü-lah-TEEV", "example": "Personne n'a vu venir l'éclatement de la bulle spéculative.", "exampleEnglish": "Nobody saw the speculative bubble bursting coming.", "level": "B2", "category": "finance" },
+            { "id": "le-krach-boursier", "french": "le krach boursier", "english": "the stock market crash", "partOfSpeech": "noun", "gender": "m", "plural": "krachs boursiers", "pronunciation": "luh krahk boor-SYAY", "example": "Le krach boursier de 1929 hante encore les esprits.", "exampleEnglish": "The 1929 crash still haunts people's minds.", "level": "B2", "category": "finance" },
+            { "id": "miser-sur", "french": "miser sur", "english": "to bet on, to back", "partOfSpeech": "verb", "pronunciation": "mee-ZAY sür", "example": "Il a tout misé sur les valeurs technologiques.", "exampleEnglish": "He bet everything on tech stocks.", "level": "B2", "category": "finance" },
+            { "id": "la-valeur-refuge", "french": "la valeur refuge", "english": "the safe haven asset", "partOfSpeech": "noun", "gender": "f", "plural": "valeurs refuges", "pronunciation": "lah vah-LUHR ruh-FÜZH", "example": "L'or reste la valeur refuge par excellence.", "exampleEnglish": "Gold remains the ultimate safe haven.", "level": "B2", "category": "finance" },
+            { "id": "l-echeance", "french": "l'échéance", "english": "the deadline, the maturity date", "partOfSpeech": "noun", "gender": "f", "plural": "échéances", "pronunciation": "lay-shay-AHNSS", "example": "L'obligation arrive à échéance en décembre.", "exampleEnglish": "The bond matures in December.", "level": "B2", "category": "finance" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Hypothesis and precaution: si, au cas où, à moins que",
+              "body": "Finance talk is full of conditions. \"Si\" + imparfait announces an unreal or unlikely hypothesis and pairs with the conditionnel: \"Si les taux baissaient, j'emprunterais.\" Two other structures matter at B2: \"au cas où\" is always followed by the CONDITIONAL (never the subjunctive), and \"à moins que\" takes the SUBJUNCTIVE, often with the optional \"ne explétif\". Never write \"si j'aurais\" — after \"si\", the conditional is impossible.",
+              "examples": [
+                { "french": "Si les taux baissaient, j'emprunterais tout de suite.", "english": "If rates went down, I'd borrow straight away." },
+                { "french": "Au cas où le marché s'effondrerait, gardez des liquidités.", "english": "In case the market collapses, keep some cash.", "note": "au cas où + conditionnel, always" },
+                { "french": "À moins que la banque ne révise ses taux, je renonce.", "english": "Unless the bank revises its rates, I'll give up.", "note": "\"ne\" here is stylistic, not a negation" },
+                { "french": "Si j'avais vendu en mars, j'aurais évité la chute.", "english": "If I had sold in March, I would have avoided the fall." },
+                { "french": "Je n'investirai pas, à moins d'avoir des garanties.", "english": "I won't invest, unless I have guarantees.", "note": "same subject → à moins de + infinitif" },
+                { "french": "Au cas où vous auriez un doute, appelez votre courtier.", "english": "Should you have any doubt, call your broker." }
+              ],
+              "tip": "\"Au cas où\" can end a sentence on its own, exactly like English \"just in case\": « Prends ton parapluie, au cas où. »"
+            },
+            {
+              "heading": "Compound relative pronouns: auquel, duquel, dont",
+              "body": "Defining financial terms means chaining clauses, and that requires the right relative pronoun. Use \"dont\" when the verb takes \"de\" (parler DE quelque chose → le placement dont je parle). Use \"auquel / à laquelle / auxquels\" when the verb takes \"à\" (renoncer À → le projet auquel j'ai renoncé). After a preposition other than \"de\", use \"lequel\" and its forms. \"Duquel\" is reserved for complex prepositions like \"près de\", \"à côté de\", \"au terme de\".",
+              "examples": [
+                { "french": "C'est le placement dont je vous ai parlé.", "english": "That's the investment I told you about." },
+                { "french": "Le fonds auquel il a confié ses économies a fait faillite.", "english": "The fund he entrusted his savings to went bankrupt." },
+                { "french": "La société pour laquelle je travaille est cotée en Bourse.", "english": "The company I work for is listed on the stock exchange." },
+                { "french": "Voici les risques auxquels vous vous exposez.", "english": "These are the risks you are exposing yourself to." },
+                { "french": "L'échéance au terme de laquelle il faut vendre est en juin.", "english": "The deadline at the end of which you have to sell is in June." },
+                { "french": "Un rendement dont on ne peut pas se plaindre.", "english": "A return you can't complain about." }
+              ],
+              "tip": "Quick test: put the verb in a sentence with the noun. If \"de\" appears, use \"dont\"; if \"à\" appears, use \"auquel\"."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "b2_u07_l02_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What is the speaker describing?",
+              "french": "Le cours a dévissé de huit pour cent en une seule séance.",
+              "options": [
+                "A sharp fall in the share price",
+                "A steady rise in the share price",
+                "A dividend payment",
+                "A company being listed"
+              ],
+              "answer": "A sharp fall in the share price"
+            },
+            {
+              "id": "b2_u07_l02_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. What advice is being given?",
+              "french": "Au cas où le marché s'effondrerait, gardez des liquidités.",
+              "options": [
+                "Keep cash available as a precaution",
+                "Sell everything immediately",
+                "Borrow more money now",
+                "Buy shares on credit"
+              ],
+              "answer": "Keep cash available as a precaution"
+            },
+            {
+              "id": "b2_u07_l02_li03",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Il faut diversifier son portefeuille d'actions.",
+              "answer": "Il faut diversifier son portefeuille d'actions.",
+              "acceptedAnswers": [
+                "il faut diversifier son portefeuille d'actions",
+                "il faut diversifier son portefeuille dactions"
+              ]
+            },
+            {
+              "id": "b2_u07_l02_li04",
+              "type": "dictation",
+              "prompt": "Listen carefully and write the full sentence.",
+              "french": "C'est le placement dont je vous ai parlé la semaine dernière.",
+              "answer": "C'est le placement dont je vous ai parlé la semaine dernière.",
+              "acceptedAnswers": [
+                "c'est le placement dont je vous ai parle la semaine derniere",
+                "cest le placement dont je vous ai parle la semaine derniere"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "b2_u07_l02_sp01",
+              "type": "speak",
+              "prompt": "Describe a company's market status, out loud.",
+              "french": "Le groupe est coté en Bourse depuis deux mille dix-neuf.",
+              "english": "The group has been listed on the stock exchange since two thousand nineteen.",
+              "tip": "\"Bourse\" has a rounded oo as in \"boot\", cut short: BOORSS. Let the final -se stay voiceless."
+            },
+            {
+              "id": "b2_u07_l02_sp02",
+              "type": "speak",
+              "prompt": "Turn down a risky proposal.",
+              "french": "Je préfère un placement sûr à un pari trop risqué.",
+              "english": "I prefer a safe investment to a bet that is too risky.",
+              "tip": "\"Sûr\" is a tight ü with pursed lips — say \"see\" then round your lips without moving your tongue."
+            },
+            {
+              "id": "b2_u07_l02_sp03",
+              "type": "speak",
+              "prompt": "Use a compound relative pronoun naturally.",
+              "french": "Voici les risques auxquels vous vous exposez.",
+              "english": "These are the risks you are exposing yourself to.",
+              "tip": "\"Auxquels\" is two syllables, oh-KEL, with a liaison from \"aux\" — never pronounce the x separately."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Rendez-vous chez le conseiller",
+              "french": "— Vous avez trente-cinq mille euros qui dorment sur un livret, madame Fournier. C'est prudent, mais l'inflation les grignote.\n— Je sais. Seulement, la Bourse, ça me fait peur. Mon père y a laissé des plumes en 2008.\n— C'est un souvenir que partagent beaucoup de Français. Mais votre père avait-il diversifié son portefeuille ?\n— Franchement, non. Il avait tout misé sur deux valeurs bancaires.\n— Voilà exactement le risque dont je voudrais vous protéger. Concentrer, c'est parier ; répartir, c'est investir.\n— Et si les marchés dévissent l'an prochain ?\n— Alors vous ne vendez pas. Une moins-value n'existe vraiment que le jour où l'on vend.\n— Vous me proposez quoi, concrètement ?\n— Un fonds diversifié, avec un horizon de huit ans, et un rendement moyen espéré autour de cinq pour cent. Rien n'est garanti, je vous le dis franchement.\n— Au moins, vous ne me promettez pas la lune.\n— Ce serait malhonnête. En revanche, je vous garantis que laisser dormir votre épargne vous fait perdre du pouvoir d'achat chaque année.\n— Autrement dit, ne rien faire est aussi une décision.\n— C'est même la plus coûteuse des décisions, à moins que vous n'ayez besoin de cet argent dans deux ans.\n— Non. C'est pour la retraite.\n— Alors laissez-en dormir dix mille sur le livret, au cas où, et faites travailler le reste.",
+              "english": "\"You have thirty-five thousand euros sitting idle in a savings account, Mrs Fournier. That's prudent, but inflation is nibbling away at it.\"\n\"I know. It's just that the stock market scares me. My father lost a lot there in 2008.\"\n\"That's a memory a lot of French people share. But had your father diversified his portfolio?\"\n\"Honestly, no. He'd bet everything on two banking stocks.\"\n\"That's exactly the risk I'd like to protect you from. Concentrating is betting; spreading is investing.\"\n\"And if the markets plunge next year?\"\n\"Then you don't sell. A capital loss only really exists on the day you sell.\"\n\"What are you actually suggesting?\"\n\"A diversified fund, with an eight-year horizon, and an expected average return of around five percent. Nothing is guaranteed, I'll tell you frankly.\"\n\"At least you're not promising me the moon.\"\n\"That would be dishonest. What I do guarantee, on the other hand, is that letting your savings sleep makes you lose purchasing power every year.\"\n\"In other words, doing nothing is also a decision.\"\n\"It's even the most expensive of decisions — unless you need this money within two years.\"\n\"No. It's for retirement.\"\n\"Then leave ten thousand asleep in the savings account, just in case, and put the rest to work.\"",
+              "questions": [
+                {
+                  "id": "b2_u07_l02_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Quelle erreur le père de Mme Fournier avait-il commise ?",
+                  "options": [
+                    "il n'avait pas diversifié son portefeuille",
+                    "il avait vendu trop tard",
+                    "il avait emprunté pour investir",
+                    "il avait fait confiance à un courtier malhonnête"
+                  ],
+                  "answer": "il n'avait pas diversifié son portefeuille"
+                },
+                {
+                  "id": "b2_u07_l02_rd02",
+                  "type": "trueFalse",
+                  "prompt": "Le conseiller garantit à sa cliente un rendement de cinq pour cent.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                },
+                {
+                  "id": "b2_u07_l02_rd03",
+                  "type": "multipleChoice",
+                  "prompt": "Selon le conseiller, une moins-value devient réelle…",
+                  "options": [
+                    "le jour où l'on vend",
+                    "dès que le cours baisse",
+                    "au bout de huit ans",
+                    "quand l'inflation dépasse le rendement"
+                  ],
+                  "answer": "le jour où l'on vend"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "b2_u07_l02_wr01",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "This investment offers a three percent yield.",
+              "answer": "Ce placement offre un rendement de trois pour cent.",
+              "acceptedAnswers": [
+                "ce placement offre un rendement de trois pour cent",
+                "ce placement offre un rendement de 3 %"
+              ]
+            },
+            {
+              "id": "b2_u07_l02_wr02",
+              "type": "fillBlank",
+              "prompt": "Le fonds ___ il a confié ses économies a fait faillite. (à + lequel)",
+              "answer": "auquel"
+            },
+            {
+              "id": "b2_u07_l02_wr03",
+              "type": "translate",
+              "prompt": "Translate into French, keeping the hypothesis.",
+              "english": "If rates went down, I would borrow straight away.",
+              "answer": "Si les taux baissaient, j'emprunterais tout de suite.",
+              "acceptedAnswers": [
+                "si les taux baissaient j'emprunterais tout de suite",
+                "si les taux baissaient, j'emprunterais immédiatement"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "b2_u07_l02_pr01",
+              "type": "multipleChoice",
+              "prompt": "Complétez : « Au cas où le marché ___, gardez des liquidités. »",
+              "options": ["s'effondrerait", "s'effondre", "s'effondrera", "se soit effondré"],
+              "answer": "s'effondrerait"
+            },
+            {
+              "id": "b2_u07_l02_pr02",
+              "type": "fillBlank",
+              "prompt": "C'est le placement ___ je vous ai parlé.",
+              "answer": "dont"
+            },
+            {
+              "id": "b2_u07_l02_pr03",
+              "type": "arrangeWords",
+              "words": ["misé", "les", "sur", "a", "Il", "tout", "valeurs technologiques"],
+              "answer": "Il a tout misé sur les valeurs technologiques",
+              "english": "He bet everything on tech stocks."
+            },
+            {
+              "id": "b2_u07_l02_pr04",
+              "type": "match",
+              "prompt": "Associez chaque terme à sa traduction.",
+              "pairs": [
+                { "french": "une action", "english": "a share" },
+                { "french": "une obligation", "english": "a bond" },
+                { "french": "le rendement", "english": "the yield" },
+                { "french": "la valeur refuge", "english": "the safe haven asset" }
+              ]
+            },
+            {
+              "id": "b2_u07_l02_pr05",
+              "type": "multipleChoice",
+              "prompt": "Quelle phrase est correcte ?",
+              "options": [
+                "À moins que la banque ne révise ses taux, je renonce.",
+                "À moins que la banque révisera ses taux, je renonce.",
+                "À moins que la banque révisait ses taux, je renonce.",
+                "À moins que la banque reviserait ses taux, je renonce."
+              ],
+              "answer": "À moins que la banque ne révise ses taux, je renonce."
+            },
+            {
+              "id": "b2_u07_l02_pr06",
+              "type": "trueFalse",
+              "prompt": "En français financier, « une obligation » désigne un titre de dette.",
+              "options": ["True", "False"],
+              "answer": "True"
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "b2_u07_l02_qz01",
+              "type": "multipleChoice",
+              "prompt": "« Être coté en Bourse » signifie…",
+              "options": [
+                "que les actions de l'entreprise s'échangent sur le marché",
+                "que l'entreprise est en faillite",
+                "que l'entreprise verse un dividende",
+                "que l'entreprise emprunte à sa banque"
+              ],
+              "answer": "que les actions de l'entreprise s'échangent sur le marché"
+            },
+            {
+              "id": "b2_u07_l02_qz02",
+              "type": "fillBlank",
+              "prompt": "Voici les risques ___ vous vous exposez. (à + lesquels)",
+              "answer": "auxquels"
+            },
+            {
+              "id": "b2_u07_l02_qz03",
+              "type": "multipleChoice",
+              "prompt": "Une « plus-value », c'est…",
+              "options": [
+                "le gain réalisé à la revente",
+                "le montant investi au départ",
+                "la perte subie sur un titre",
+                "l'impôt payé sur les dividendes"
+              ],
+              "answer": "le gain réalisé à la revente"
+            },
+            {
+              "id": "b2_u07_l02_qz04",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "Gold remains the ultimate safe haven.",
+              "answer": "L'or reste la valeur refuge par excellence.",
+              "acceptedAnswers": [
+                "l'or reste la valeur refuge par excellence",
+                "lor reste la valeur refuge par excellence"
+              ]
+            },
+            {
+              "id": "b2_u07_l02_qz05",
+              "type": "multipleChoice",
+              "prompt": "Quel verbe décrit une chute brutale du cours d'une action ?",
+              "options": ["dévisser", "clôturer", "verser", "coter"],
+              "answer": "dévisser"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2_u07_l03",
+      "level": "B2",
+      "unit": 7,
+      "title": "La crise",
+      "description": "Analyse what caused a crisis and what it caused in turn, using the full range of French cause and consequence connectors.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "How a crisis is described",
+              "body": "A French account of a crisis follows a predictable arc: something \"déclenche\" it, it \"s'aggrave\", the economy \"s'effondre\", companies \"font faillite\", and finally there is \"une reprise\". Two adjectives are essential for the analysis: \"conjoncturel\" (temporary, tied to the current cycle) versus \"structurel\" (deep-rooted). Calling a problem \"structurel\" in French is a serious claim — it means no stimulus plan will fix it.",
+              "examples": [
+                { "french": "La faillite d'une banque a déclenché la panique.", "english": "The collapse of one bank triggered the panic." },
+                { "french": "La crise s'est aggravée en quelques semaines.", "english": "The crisis worsened within a few weeks." },
+                { "french": "Des milliers d'entreprises ont mis la clé sous la porte.", "english": "Thousands of companies went under.", "note": "\"mettre la clé sous la porte\" = to shut up shop" },
+                { "french": "Le chômage a explosé chez les jeunes.", "english": "Unemployment exploded among young people." },
+                { "french": "Ce n'est pas conjoncturel, c'est structurel.", "english": "This isn't cyclical, it's structural." },
+                { "french": "La reprise s'est amorcée deux ans plus tard.", "english": "The recovery began two years later." }
+              ],
+              "tip": "\"La crise\" used alone, with no complement, refers in French conversation to whichever downturn people are living through — 2008, the pandemic, energy prices."
+            },
+            {
+              "heading": "Naming causes",
+              "body": "French has a rich toolbox for cause, and the choice signals your stance. \"Parce que\" answers a question neutrally. \"Car\" justifies what you just said and belongs to writing. \"Puisque\" and \"étant donné que\" present the cause as already known and accepted by everyone. \"À cause de\" is negative, \"grâce à\" positive, \"en raison de\" strictly neutral and formal, and \"faute de\" means the cause is an absence.",
+              "examples": [
+                { "french": "Les prix ont grimpé en raison de la pénurie d'énergie.", "english": "Prices climbed owing to the energy shortage.", "note": "neutral, formal register" },
+                { "french": "L'usine a fermé à cause d'une gestion désastreuse.", "english": "The factory closed because of disastrous management." },
+                { "french": "Grâce au plan de relance, l'emploi est reparti.", "english": "Thanks to the stimulus plan, employment picked up again." },
+                { "french": "Faute de liquidités, la société n'a pas pu payer ses salariés.", "english": "For lack of cash, the company couldn't pay its employees." },
+                { "french": "Puisque tout le monde le sait, autant le dire.", "english": "Since everyone knows it, we may as well say it." },
+                { "french": "La banque a chuté, car ses actifs ne valaient plus rien.", "english": "The bank collapsed, for its assets were worth nothing any more." }
+              ],
+              "tip": "\"Car\" never starts a sentence in careful French; \"parce que\" can, but only when it answers a \"pourquoi\" question."
+            },
+            {
+              "heading": "Naming consequences",
+              "body": "The mirror set is just as precise. \"Donc\" and \"par conséquent\" state a logical result, the second being much more formal. \"Si bien que\" and \"de sorte que\" describe a result that flowed naturally. \"Au point que\" adds intensity — so much so that. \"D'où\" + noun is a compact, very idiomatic way of concluding, and \"c'est pourquoi\" opens the concluding sentence of an argument.",
+              "examples": [
+                { "french": "Les taux ont grimpé, si bien que les ménages ont cessé d'emprunter.", "english": "Rates climbed, so that households stopped borrowing." },
+                { "french": "Par conséquent, la consommation s'est effondrée.", "english": "Consequently, consumption collapsed." },
+                { "french": "La panique a gagné les marchés, au point que la Bourse a suspendu les échanges.", "english": "Panic spread to the markets, to the point that the exchange suspended trading." },
+                { "french": "Aucune visibilité, d'où la prudence des investisseurs.", "english": "No visibility, hence investors' caution.", "note": "d'où + noun, never + verb" },
+                { "french": "C'est pourquoi il faut agir maintenant.", "english": "That is why we must act now." },
+                { "french": "La crise a entraîné une vague de licenciements.", "english": "The crisis brought about a wave of redundancies." }
+              ],
+              "tip": "\"Du coup\" means the same as \"donc\" but is strictly spoken French — never write it in a report or an exam essay."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "la-crise", "french": "la crise", "english": "the crisis", "partOfSpeech": "noun", "gender": "f", "plural": "crises", "pronunciation": "lah KREEZ", "example": "La crise a duré presque quatre ans.", "exampleEnglish": "The crisis lasted almost four years.", "level": "B2", "category": "economy" },
+            { "id": "l-effondrement", "french": "l'effondrement", "english": "the collapse", "partOfSpeech": "noun", "gender": "m", "plural": "effondrements", "pronunciation": "lay-fohn-druh-MAHN", "example": "L'effondrement du marché immobilier a tout emporté.", "exampleEnglish": "The collapse of the property market swept everything away.", "level": "B2", "category": "economy" },
+            { "id": "s-effondrer", "french": "s'effondrer", "english": "to collapse", "partOfSpeech": "verb", "pronunciation": "say-fohn-DRAY", "example": "Les marchés se sont effondrés en trois séances.", "exampleEnglish": "The markets collapsed in three trading sessions.", "level": "B2", "category": "economy" },
+            { "id": "la-faillite", "french": "la faillite", "english": "the bankruptcy", "partOfSpeech": "noun", "gender": "f", "plural": "faillites", "pronunciation": "lah fah-YEET", "example": "La faillite d'une banque a déclenché la panique.", "exampleEnglish": "The bankruptcy of one bank triggered the panic.", "level": "B2", "category": "economy" },
+            { "id": "faire-faillite", "french": "faire faillite", "english": "to go bankrupt", "partOfSpeech": "expression", "pronunciation": "fehr fah-YEET", "example": "Des milliers de petites entreprises ont fait faillite.", "exampleEnglish": "Thousands of small businesses went bankrupt.", "level": "B2", "category": "economy" },
+            { "id": "l-endettement", "french": "l'endettement", "english": "indebtedness, debt burden", "partOfSpeech": "noun", "gender": "m", "plural": "endettements", "pronunciation": "lahn-det-MAHN", "example": "L'endettement des ménages atteint un niveau record.", "exampleEnglish": "Household debt is reaching a record level.", "level": "B2", "category": "economy" },
+            { "id": "le-licenciement", "french": "le licenciement", "english": "the redundancy, the layoff", "partOfSpeech": "noun", "gender": "m", "plural": "licenciements", "pronunciation": "luh lee-sahn-see-MAHN", "example": "Le plan prévoit trois cents licenciements.", "exampleEnglish": "The plan provides for three hundred redundancies.", "level": "B2", "category": "economy" },
+            { "id": "licencier", "french": "licencier", "english": "to lay off, to make redundant", "partOfSpeech": "verb", "pronunciation": "lee-sahn-SYAY", "example": "L'usine a licencié la moitié de ses salariés.", "exampleEnglish": "The factory laid off half its employees.", "level": "B2", "category": "economy" },
+            { "id": "la-penurie", "french": "la pénurie", "english": "the shortage", "partOfSpeech": "noun", "gender": "f", "plural": "pénuries", "pronunciation": "lah pay-nü-REE", "example": "Une pénurie de composants a paralysé l'industrie.", "exampleEnglish": "A shortage of components paralysed the industry.", "level": "B2", "category": "economy" },
+            { "id": "precarite", "french": "la précarité", "english": "insecurity, precariousness", "partOfSpeech": "noun", "gender": "f", "plural": "précarités", "pronunciation": "lah pray-kah-ree-TAY", "example": "La précarité touche surtout les jeunes actifs.", "exampleEnglish": "Job insecurity mainly affects young workers.", "level": "B2", "category": "society" },
+            { "id": "inegalite", "french": "l'inégalité", "english": "inequality", "partOfSpeech": "noun", "gender": "f", "plural": "inégalités", "pronunciation": "lee-nay-gah-lee-TAY", "example": "La crise a creusé les inégalités.", "exampleEnglish": "The crisis widened inequalities.", "level": "B2", "category": "society" },
+            { "id": "declencher", "french": "déclencher", "english": "to trigger, to set off", "partOfSpeech": "verb", "pronunciation": "day-klahn-SHAY", "example": "Une rumeur a suffi à déclencher la panique.", "exampleEnglish": "A rumour was enough to trigger the panic.", "level": "B2", "category": "cause" },
+            { "id": "provoquer", "french": "provoquer", "english": "to cause, to bring about", "partOfSpeech": "verb", "pronunciation": "proh-voh-KAY", "example": "La hausse des taux a provoqué un ralentissement.", "exampleEnglish": "The rate rise caused a slowdown.", "level": "B2", "category": "cause" },
+            { "id": "entrainer-consequence", "french": "entraîner", "english": "to lead to, to bring about", "partOfSpeech": "verb", "pronunciation": "ahn-treh-NAY", "example": "La crise a entraîné une vague de licenciements.", "exampleEnglish": "The crisis brought about a wave of redundancies.", "level": "B2", "category": "cause" },
+            { "id": "engendrer", "french": "engendrer", "english": "to generate, to breed", "partOfSpeech": "verb", "pronunciation": "ahn-zhahn-DRAY", "example": "La précarité engendre la méfiance envers les institutions.", "exampleEnglish": "Insecurity breeds distrust of institutions.", "level": "B2", "category": "cause" },
+            { "id": "aggraver", "french": "aggraver", "english": "to worsen, to aggravate", "partOfSpeech": "verb", "pronunciation": "ah-grah-VAY", "example": "L'austérité a aggravé la récession.", "exampleEnglish": "Austerity worsened the recession.", "level": "B2", "category": "cause" },
+            { "id": "freiner", "french": "freiner", "english": "to slow down, to curb", "partOfSpeech": "verb", "pronunciation": "freh-NAY", "example": "Ces mesures freinent la consommation.", "exampleEnglish": "These measures curb consumption.", "level": "B2", "category": "cause" },
+            { "id": "stimuler", "french": "stimuler", "english": "to stimulate, to boost", "partOfSpeech": "verb", "pronunciation": "stee-mü-LAY", "example": "Baisser les taux stimule l'investissement.", "exampleEnglish": "Cutting rates stimulates investment.", "level": "B2", "category": "cause" },
+            { "id": "decouler-de", "french": "découler de", "english": "to stem from, to follow from", "partOfSpeech": "verb", "pronunciation": "day-koo-LAY duh", "example": "Tout découle d'une seule décision politique.", "exampleEnglish": "Everything stems from a single political decision.", "level": "B2", "category": "cause" },
+            { "id": "resulter-de", "french": "résulter de", "english": "to result from", "partOfSpeech": "verb", "pronunciation": "ray-zül-TAY duh", "example": "Cette crise résulte d'un excès d'endettement.", "exampleEnglish": "This crisis results from excessive debt.", "level": "B2", "category": "cause" },
+            { "id": "la-cause", "french": "la cause", "english": "the cause", "partOfSpeech": "noun", "gender": "f", "plural": "causes", "pronunciation": "lah KOHZ", "example": "Les causes de la crise sont multiples.", "exampleEnglish": "The causes of the crisis are numerous.", "level": "B2", "category": "cause" },
+            { "id": "la-consequence", "french": "la conséquence", "english": "the consequence", "partOfSpeech": "noun", "gender": "f", "plural": "conséquences", "pronunciation": "lah kohn-say-KAHNSS", "example": "Les conséquences sociales ont été sous-estimées.", "exampleEnglish": "The social consequences were underestimated.", "level": "B2", "category": "cause" },
+            { "id": "l-origine", "french": "l'origine", "english": "the origin", "partOfSpeech": "noun", "gender": "f", "plural": "origines", "pronunciation": "loh-ree-ZHEEN", "example": "À l'origine de tout, une bulle immobilière.", "exampleEnglish": "At the origin of it all, a property bubble.", "level": "B2", "category": "cause" },
+            { "id": "en-raison-de", "french": "en raison de", "english": "owing to, because of", "partOfSpeech": "expression", "pronunciation": "ahn reh-ZOHN duh", "example": "Les prix ont grimpé en raison de la pénurie.", "exampleEnglish": "Prices climbed owing to the shortage.", "level": "B2", "category": "connector" },
+            { "id": "faute-de", "french": "faute de", "english": "for lack of", "partOfSpeech": "expression", "pronunciation": "FOHT duh", "example": "Faute de liquidités, la société a fermé.", "exampleEnglish": "For lack of cash, the company closed.", "level": "B2", "category": "connector" },
+            { "id": "etant-donne-que", "french": "étant donné que", "english": "given that", "partOfSpeech": "conjunction", "pronunciation": "ay-tahn doh-NAY kuh", "example": "Étant donné que la demande chute, on réduit la production.", "exampleEnglish": "Given that demand is falling, we are cutting output.", "level": "B2", "category": "connector" },
+            { "id": "si-bien-que", "french": "si bien que", "english": "so that, with the result that", "partOfSpeech": "conjunction", "pronunciation": "see byan kuh", "example": "Les taux ont grimpé, si bien que les ménages ont cessé d'emprunter.", "exampleEnglish": "Rates climbed, so that households stopped borrowing.", "level": "B2", "category": "connector" },
+            { "id": "au-point-que", "french": "au point que", "english": "to the point that", "partOfSpeech": "conjunction", "pronunciation": "oh pwan kuh", "example": "La panique a grandi, au point que la Bourse a fermé.", "exampleEnglish": "Panic grew to the point that the exchange closed.", "level": "B2", "category": "connector" },
+            { "id": "par-consequent", "french": "par conséquent", "english": "consequently", "partOfSpeech": "adverb", "pronunciation": "pahr kohn-say-KAHN", "example": "Par conséquent, la consommation s'est effondrée.", "exampleEnglish": "Consequently, consumption collapsed.", "level": "B2", "category": "connector" },
+            { "id": "d-ou", "french": "d'où", "english": "hence, whence", "partOfSpeech": "adverb", "pronunciation": "DOO", "example": "Aucune visibilité, d'où la prudence des investisseurs.", "exampleEnglish": "No visibility, hence investors' caution.", "level": "B2", "category": "connector" },
+            { "id": "c-est-pourquoi", "french": "c'est pourquoi", "english": "that is why", "partOfSpeech": "expression", "pronunciation": "seh poor-KWAH", "example": "C'est pourquoi il faut agir maintenant.", "exampleEnglish": "That is why we must act now.", "level": "B2", "category": "connector" },
+            { "id": "le-cercle-vicieux", "french": "le cercle vicieux", "english": "the vicious circle", "partOfSpeech": "noun", "gender": "m", "plural": "cercles vicieux", "pronunciation": "luh SEHR-kluh vee-SYUH", "example": "Moins de revenus, moins de dépenses : le cercle vicieux est enclenché.", "exampleEnglish": "Less income, less spending: the vicious circle is under way.", "level": "B2", "category": "economy" },
+            { "id": "se-repercuter", "french": "se répercuter", "english": "to have knock-on effects", "partOfSpeech": "verb", "pronunciation": "suh ray-pehr-kü-TAY", "example": "La hausse du pétrole se répercute sur tous les prix.", "exampleEnglish": "The rise in oil prices has knock-on effects on all prices.", "level": "B2", "category": "cause" },
+            { "id": "le-plan-de-relance", "french": "le plan de relance", "english": "the stimulus plan", "partOfSpeech": "noun", "gender": "m", "plural": "plans de relance", "pronunciation": "luh plahn duh ruh-LAHNSS", "example": "Grâce au plan de relance, l'emploi est reparti.", "exampleEnglish": "Thanks to the stimulus plan, employment picked up again.", "level": "B2", "category": "economy" },
+            { "id": "structurel", "french": "structurel", "english": "structural, deep-rooted", "partOfSpeech": "adjective", "pronunciation": "strük-tü-REL", "example": "Ce n'est pas conjoncturel, c'est structurel.", "exampleEnglish": "This isn't cyclical, it's structural.", "level": "B2", "category": "economy" },
+            { "id": "se-serrer-la-ceinture", "french": "se serrer la ceinture", "english": "to tighten one's belt", "partOfSpeech": "expression", "pronunciation": "suh seh-RAY lah san-TÜR", "example": "Depuis deux ans, tout le monde se serre la ceinture.", "exampleEnglish": "For two years, everyone has been tightening their belt.", "level": "B2", "category": "idiom" },
+            { "id": "joindre-les-deux-bouts", "french": "joindre les deux bouts", "english": "to make ends meet", "partOfSpeech": "expression", "pronunciation": "ZHWAN-druh lay duh BOO", "example": "Avec ce salaire, elle a du mal à joindre les deux bouts.", "exampleEnglish": "On that salary, she struggles to make ends meet.", "level": "B2", "category": "idiom" },
+            { "id": "tirer-la-sonnette-dalarme", "french": "tirer la sonnette d'alarme", "english": "to sound the alarm", "partOfSpeech": "expression", "pronunciation": "tee-RAY lah soh-NET dah-LAHRM", "example": "Les économistes tirent la sonnette d'alarme depuis un an.", "exampleEnglish": "Economists have been sounding the alarm for a year.", "level": "B2", "category": "idiom" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Cause: conjunction or preposition?",
+              "body": "The single most common B2 mistake is mixing the two families. Conjunctions (parce que, puisque, étant donné que, car, comme) are followed by a CLAUSE with a conjugated verb. Prepositions (à cause de, grâce à, en raison de, faute de, du fait de) are followed by a NOUN or an infinitive. So: \"en raison de la pénurie\" but \"parce qu'il y a une pénurie\". \"Comme\" expressing cause must open the sentence.",
+              "examples": [
+                { "french": "Comme la demande s'effondrait, l'usine a fermé.", "english": "As demand was collapsing, the factory closed.", "note": "\"comme\" always first in the sentence" },
+                { "french": "L'usine a fermé en raison de l'effondrement de la demande.", "english": "The factory closed owing to the collapse in demand." },
+                { "french": "Puisque vous connaissez le dossier, je serai bref.", "english": "Since you know the file, I'll be brief." },
+                { "french": "Faute d'avoir anticipé, ils ont tout perdu.", "english": "For failing to anticipate, they lost everything.", "note": "faute de + infinitif is possible" },
+                { "french": "Grâce à une trésorerie solide, elle a tenu.", "english": "Thanks to solid cash reserves, she held on." },
+                { "french": "Étant donné que les taux montent, on reporte l'achat.", "english": "Given that rates are rising, we're postponing the purchase." }
+              ],
+              "tip": "\"À cause de\" always blames; using it for something positive (\"à cause de son talent\") sounds odd — use \"grâce à\"."
+            },
+            {
+              "heading": "Consequence: indicative or subjunctive?",
+              "body": "Consequence conjunctions normally take the INDICATIVE, because a result is a fact: \"si bien que\", \"de sorte que\" (result), \"au point que\", \"tellement… que\". The one trap is \"de sorte que\": with the SUBJUNCTIVE it stops meaning \"so that\" as a result and means \"so that\" as a PURPOSE. Compare: \"Il a parlé lentement, de sorte que tout le monde a compris\" (result, fact) and \"Parlez lentement, de sorte que tout le monde comprenne\" (aim).",
+              "examples": [
+                { "french": "Les prix ont tellement grimpé que les gens ont arrêté d'acheter.", "english": "Prices rose so much that people stopped buying." },
+                { "french": "Il a agi vite, de sorte que la faillite a été évitée.", "english": "He acted fast, so that bankruptcy was avoided.", "note": "indicatif: a result that happened" },
+                { "french": "Simplifions le rapport, de sorte que chacun le comprenne.", "english": "Let's simplify the report so that everyone understands it.", "note": "subjonctif: an aim" },
+                { "french": "La dette a augmenté au point qu'elle dépasse le PIB.", "english": "The debt rose to the point that it exceeds GDP." },
+                { "french": "Il n'y a aucune visibilité, d'où le gel des embauches.", "english": "There is no visibility, hence the hiring freeze." },
+                { "french": "La confiance s'est effritée ; par conséquent, personne n'investit.", "english": "Confidence crumbled; consequently, nobody is investing." }
+              ],
+              "tip": "In an exam essay, alternate: \"par conséquent\" and \"c'est pourquoi\" for formal writing, \"si bien que\" inside a sentence, and keep \"du coup\" for the café."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "b2_u07_l03_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What relation is expressed?",
+              "french": "Les taux ont grimpé, si bien que les ménages ont cessé d'emprunter.",
+              "options": [
+                "A consequence",
+                "A cause",
+                "A concession",
+                "A condition"
+              ],
+              "answer": "A consequence"
+            },
+            {
+              "id": "b2_u07_l03_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. How does the speaker frame the problem?",
+              "french": "Ce n'est pas conjoncturel, c'est structurel.",
+              "options": [
+                "As a deep problem no stimulus will fix",
+                "As a temporary dip in the cycle",
+                "As a purely political invention",
+                "As an accounting error"
+              ],
+              "answer": "As a deep problem no stimulus will fix"
+            },
+            {
+              "id": "b2_u07_l03_li03",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "La crise a entraîné une vague de licenciements.",
+              "answer": "La crise a entraîné une vague de licenciements.",
+              "acceptedAnswers": [
+                "la crise a entraine une vague de licenciements",
+                "La crise a entraîné une vague de licenciements"
+              ]
+            },
+            {
+              "id": "b2_u07_l03_li04",
+              "type": "dictation",
+              "prompt": "Listen carefully and write the full sentence.",
+              "french": "Faute de liquidités, la société n'a pas pu payer ses salariés.",
+              "answer": "Faute de liquidités, la société n'a pas pu payer ses salariés.",
+              "acceptedAnswers": [
+                "faute de liquidites la societe n'a pas pu payer ses salaries",
+                "faute de liquidites, la societe na pas pu payer ses salaries"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "b2_u07_l03_sp01",
+              "type": "speak",
+              "prompt": "State a cause in formal register, out loud.",
+              "french": "Les prix ont grimpé en raison de la pénurie d'énergie.",
+              "english": "Prices climbed owing to the energy shortage.",
+              "tip": "Link \"en raison\" smoothly: ahn-reh-ZOHN, with no break. The nasal \"en\" should not sound like \"an\" in English \"and\"."
+            },
+            {
+              "id": "b2_u07_l03_sp02",
+              "type": "speak",
+              "prompt": "Chain a consequence to a cause.",
+              "french": "La panique a gagné les marchés, au point que la Bourse a suspendu les échanges.",
+              "english": "Panic spread to the markets, to the point that the exchange suspended trading.",
+              "tip": "Pause on the comma, then attack \"au point que\" firmly — the connector carries the drama of the sentence."
+            },
+            {
+              "id": "b2_u07_l03_sp03",
+              "type": "speak",
+              "prompt": "Use an idiom about hard times.",
+              "french": "Avec ce salaire, elle a du mal à joindre les deux bouts.",
+              "english": "On that salary, she struggles to make ends meet.",
+              "tip": "\"Bouts\" rhymes with \"boo\" — the final -ts is silent. Keep \"les deux bouts\" as one breath group."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Anatomie d'une crise",
+              "french": "Toute crise commence par une histoire que tout le monde croit.\nEn 2006, cette histoire disait que le prix de l'immobilier américain ne pouvait pas baisser.\nÉtant donné que le bien prenait de la valeur chaque année, prêter à un ménage insolvable ne paraissait pas absurde : en cas de défaut, on revendait la maison plus cher.\nLes banques ont donc prêté massivement, puis revendu ces créances à d'autres banques, si bien que plus personne ne savait qui portait le risque.\nQuand les prix ont fini par reculer, le mécanisme s'est inversé au point que des établissements entiers se sont retrouvés insolvables en quelques jours.\nLa faillite de Lehman Brothers, en septembre 2008, a déclenché la panique.\nEn raison de la méfiance générale, les banques ont cessé de se prêter entre elles ; faute de crédit, les entreprises ont gelé leurs investissements ; par conséquent, les licenciements ont commencé.\nMoins d'emplois, donc moins de revenus ; moins de revenus, donc moins de consommation : le cercle vicieux était enclenché.\nL'État a fini par intervenir, non par générosité, mais parce que laisser tomber le système bancaire aurait coûté bien plus cher.\nDix ans plus tard, les économistes se disputent encore sur les causes.\nPour les uns, il s'agissait d'un accident conjoncturel, aggravé par la panique.\nPour les autres, le problème était structurel : une finance devenue trop grosse pour l'économie qu'elle était censée servir.\nCe qui est certain, c'est que la facture a été payée deux fois — d'abord par les contribuables, ensuite par les salariés soumis à dix ans d'austérité.\nD'où la question qui revient à chaque nouvelle secousse : a-t-on vraiment retenu la leçon ?",
+              "english": "Every crisis begins with a story that everyone believes.\nIn 2006, that story said that the price of American property could not fall.\nGiven that the asset gained value every year, lending to an insolvent household did not seem absurd: in case of default, you resold the house for more.\nBanks therefore lent massively, then resold those debts to other banks, so that nobody knew any more who was carrying the risk.\nWhen prices finally fell back, the mechanism went into reverse, to the point that entire institutions found themselves insolvent within days.\nThe bankruptcy of Lehman Brothers, in September 2008, triggered the panic.\nOwing to the general distrust, banks stopped lending to each other; for lack of credit, companies froze their investments; consequently, the layoffs began.\nFewer jobs, therefore less income; less income, therefore less spending: the vicious circle was under way.\nThe state eventually stepped in, not out of generosity, but because letting the banking system fall would have cost far more.\nTen years later, economists are still arguing about the causes.\nFor some, it was a cyclical accident, made worse by panic.\nFor others, the problem was structural: a financial sector grown too big for the economy it was supposed to serve.\nWhat is certain is that the bill was paid twice — first by taxpayers, then by employees subjected to ten years of austerity.\nHence the question that comes back with every new tremor: have we really learned the lesson?",
+              "questions": [
+                {
+                  "id": "b2_u07_l03_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "Pourquoi prêter à un ménage insolvable semblait-il raisonnable en 2006 ?",
+                  "options": [
+                    "parce que le bien immobilier prenait de la valeur chaque année",
+                    "parce que l'État garantissait tous les prêts",
+                    "parce que les taux d'intérêt étaient très élevés",
+                    "parce que les salaires augmentaient rapidement"
+                  ],
+                  "answer": "parce que le bien immobilier prenait de la valeur chaque année"
+                },
+                {
+                  "id": "b2_u07_l03_rd02",
+                  "type": "trueFalse",
+                  "prompt": "D'après le texte, l'État est intervenu par générosité envers les banques.",
+                  "options": ["True", "False"],
+                  "answer": "False"
+                },
+                {
+                  "id": "b2_u07_l03_rd03",
+                  "type": "multipleChoice",
+                  "prompt": "Selon le texte, qui a payé la facture de la crise ?",
+                  "options": [
+                    "les contribuables, puis les salariés",
+                    "uniquement les actionnaires des banques",
+                    "les investisseurs étrangers",
+                    "les banques centrales seules"
+                  ],
+                  "answer": "les contribuables, puis les salariés"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "b2_u07_l03_wr01",
+              "type": "translate",
+              "prompt": "Translate into French, using a formal cause connector.",
+              "english": "Prices climbed owing to the energy shortage.",
+              "answer": "Les prix ont grimpé en raison de la pénurie d'énergie.",
+              "acceptedAnswers": [
+                "les prix ont grimpe en raison de la penurie d'energie",
+                "les prix ont augmenté en raison de la pénurie d'énergie"
+              ]
+            },
+            {
+              "id": "b2_u07_l03_wr02",
+              "type": "fillBlank",
+              "prompt": "Simplifions le rapport, de sorte que chacun le ___. (comprendre, subjonctif)",
+              "answer": "comprenne"
+            },
+            {
+              "id": "b2_u07_l03_wr03",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "The crisis brought about a wave of redundancies.",
+              "answer": "La crise a entraîné une vague de licenciements.",
+              "acceptedAnswers": [
+                "la crise a entraine une vague de licenciements",
+                "la crise a provoqué une vague de licenciements"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "b2_u07_l03_pr01",
+              "type": "multipleChoice",
+              "prompt": "Complétez : « L'usine a fermé ___ une gestion désastreuse. »",
+              "options": ["à cause d'", "parce qu'", "puisqu'", "car"],
+              "answer": "à cause d'"
+            },
+            {
+              "id": "b2_u07_l03_pr02",
+              "type": "fillBlank",
+              "prompt": "___ de liquidités, la société n'a pas pu payer ses salariés.",
+              "answer": "Faute"
+            },
+            {
+              "id": "b2_u07_l03_pr03",
+              "type": "arrangeWords",
+              "words": ["déclenché", "faillite", "la panique", "La", "d'une banque", "a"],
+              "answer": "La faillite d'une banque a déclenché la panique",
+              "english": "The collapse of one bank triggered the panic."
+            },
+            {
+              "id": "b2_u07_l03_pr04",
+              "type": "match",
+              "prompt": "Associez chaque connecteur à sa valeur.",
+              "pairs": [
+                { "french": "grâce à", "english": "positive cause" },
+                { "french": "faute de", "english": "cause = a lack" },
+                { "french": "si bien que", "english": "consequence" },
+                { "french": "au point que", "english": "intense consequence" }
+              ]
+            },
+            {
+              "id": "b2_u07_l03_pr05",
+              "type": "multipleChoice",
+              "prompt": "Quelle phrase est correcte ?",
+              "options": [
+                "Comme la demande s'effondrait, l'usine a fermé.",
+                "L'usine a fermé comme la demande s'effondrait.",
+                "Comme de la demande, l'usine a fermé.",
+                "L'usine a fermé car de la demande."
+              ],
+              "answer": "Comme la demande s'effondrait, l'usine a fermé."
+            },
+            {
+              "id": "b2_u07_l03_pr06",
+              "type": "trueFalse",
+              "prompt": "« Du coup » appartient au français écrit formel.",
+              "options": ["True", "False"],
+              "answer": "False"
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "b2_u07_l03_qz01",
+              "type": "multipleChoice",
+              "prompt": "Quel connecteur est suivi d'un nom, et non d'une proposition ?",
+              "options": ["en raison de", "parce que", "puisque", "étant donné que"],
+              "answer": "en raison de"
+            },
+            {
+              "id": "b2_u07_l03_qz02",
+              "type": "fillBlank",
+              "prompt": "La dette a augmenté au point ___ elle dépasse le PIB.",
+              "answer": "qu'"
+            },
+            {
+              "id": "b2_u07_l03_qz03",
+              "type": "multipleChoice",
+              "prompt": "Un problème « structurel » est un problème…",
+              "options": [
+                "profond, que la relance ne réglera pas",
+                "passager, lié au cycle",
+                "purement comptable",
+                "limité à une seule entreprise"
+              ],
+              "answer": "profond, que la relance ne réglera pas"
+            },
+            {
+              "id": "b2_u07_l03_qz04",
+              "type": "translate",
+              "prompt": "Translate into French.",
+              "english": "There is no visibility, hence investors' caution.",
+              "answer": "Aucune visibilité, d'où la prudence des investisseurs.",
+              "acceptedAnswers": [
+                "aucune visibilite, d'ou la prudence des investisseurs",
+                "il n'y a aucune visibilité, d'où la prudence des investisseurs"
+              ]
+            },
+            {
+              "id": "b2_u07_l03_qz05",
+              "type": "multipleChoice",
+              "prompt": "« Joindre les deux bouts » signifie…",
+              "options": [
+                "réussir à boucler son budget",
+                "réconcilier deux personnes",
+                "terminer un projet à temps",
+                "rembourser un emprunt par anticipation"
+              ],
+              "answer": "réussir à boucler son budget"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

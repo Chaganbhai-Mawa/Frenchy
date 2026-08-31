@@ -1,0 +1,920 @@
+{
+  "id": "a1_u08",
+  "level": "A1",
+  "unit": 8,
+  "title": "Time & Dates",
+  "subtitle": "Tell the time and talk about days, months and dates",
+  "icon": "📅",
+  "lessons": [
+    {
+      "id": "a1_u08_l01",
+      "level": "A1",
+      "unit": 8,
+      "title": "Quelle heure est-il ?",
+      "description": "Ask for and tell the time, from full hours to quarter to.",
+      "estimatedMinutes": 12,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Asking and telling the time",
+              "body": "To ask the time, say \"Quelle heure est-il ?\" (What time is it?). The answer always starts with \"il est\", even though there is no \"he\" involved — it is just how French tells the time.",
+              "examples": [
+                { "french": "Quelle heure est-il ?", "english": "What time is it?" },
+                { "french": "Il est trois heures.", "english": "It is three o'clock." },
+                { "french": "Il est une heure.", "english": "It is one o'clock." },
+                { "french": "Il est midi.", "english": "It is noon." },
+                { "french": "Il est dix heures.", "english": "It is ten o'clock." },
+                { "french": "Il est minuit, bonne nuit !", "english": "It is midnight, good night!" }
+              ],
+              "tip": "For 12 o'clock, French has two special words: \"midi\" (noon) and \"minuit\" (midnight) — no \"heures\" needed."
+            },
+            {
+              "heading": "Half past and quarters",
+              "body": "Add \"et quart\" for quarter past, \"et demie\" for half past, and \"moins le quart\" for quarter to the next hour. So 2:45 is \"trois heures moins le quart\" — quarter to three.",
+              "examples": [
+                { "french": "Il est quatre heures et quart.", "english": "It is quarter past four." },
+                { "french": "Il est quatre heures et demie.", "english": "It is half past four." },
+                { "french": "Il est cinq heures moins le quart.", "english": "It is quarter to five." },
+                { "french": "Il est une heure et demie.", "english": "It is half past one." },
+                { "french": "Il est neuf heures et quart.", "english": "It is quarter past nine." }
+              ],
+              "tip": "After \"midi\" and \"minuit\", write \"et demi\" without the final e: \"midi et demi\"."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "heure", "french": "l'heure", "english": "hour / time", "partOfSpeech": "noun", "gender": "f", "pronunciation": "uhr", "example": "Quelle heure est-il ?", "exampleEnglish": "What time is it?", "level": "A1", "category": "time" },
+            { "id": "midi", "french": "midi", "english": "noon", "partOfSpeech": "noun", "gender": "m", "pronunciation": "mee-DEE", "example": "Il est midi.", "exampleEnglish": "It is noon.", "level": "A1", "category": "time" },
+            { "id": "minuit", "french": "minuit", "english": "midnight", "partOfSpeech": "noun", "gender": "m", "pronunciation": "mee-NWEE", "example": "Il est minuit.", "exampleEnglish": "It is midnight.", "level": "A1", "category": "time" },
+            { "id": "et-quart", "french": "et quart", "english": "quarter past", "partOfSpeech": "expression", "pronunciation": "ay KAHR", "example": "Il est six heures et quart.", "exampleEnglish": "It is quarter past six.", "level": "A1", "category": "time" },
+            { "id": "et-demie", "french": "et demie", "english": "half past", "partOfSpeech": "expression", "pronunciation": "ay duh-MEE", "example": "Il est deux heures et demie.", "exampleEnglish": "It is half past two.", "level": "A1", "category": "time" },
+            { "id": "moins-le-quart", "french": "moins le quart", "english": "quarter to", "partOfSpeech": "expression", "pronunciation": "mwan luh KAHR", "example": "Il est huit heures moins le quart.", "exampleEnglish": "It is quarter to eight.", "level": "A1", "category": "time" },
+            { "id": "maintenant", "french": "maintenant", "english": "now", "partOfSpeech": "adverb", "pronunciation": "mant-NAHN", "example": "Quelle heure est-il maintenant ?", "exampleEnglish": "What time is it now?", "level": "A1", "category": "time" },
+            { "id": "montre", "french": "la montre", "english": "watch", "partOfSpeech": "noun", "gender": "f", "pronunciation": "MOHN-truh", "example": "Regarde ta montre !", "exampleEnglish": "Look at your watch!", "level": "A1", "category": "time" },
+            { "id": "horloge", "french": "l'horloge", "english": "clock", "partOfSpeech": "noun", "gender": "f", "pronunciation": "or-LOZH", "example": "L'horloge de la gare est grande.", "exampleEnglish": "The station clock is big.", "level": "A1", "category": "time" },
+            { "id": "reveil", "french": "le réveil", "english": "alarm clock", "partOfSpeech": "noun", "gender": "m", "pronunciation": "ray-VAY", "example": "Mon réveil sonne à sept heures.", "exampleEnglish": "My alarm clock rings at seven o'clock.", "level": "A1", "category": "time" },
+            { "id": "minute", "french": "la minute", "english": "minute", "partOfSpeech": "noun", "gender": "f", "pronunciation": "mee-NUHT", "example": "Attends une minute !", "exampleEnglish": "Wait a minute!", "level": "A1", "category": "time" },
+            { "id": "seconde", "french": "la seconde", "english": "second", "partOfSpeech": "noun", "gender": "f", "pronunciation": "suh-GOHND", "example": "Une minute a soixante secondes.", "exampleEnglish": "A minute has sixty seconds.", "level": "A1", "category": "time" },
+            { "id": "en-retard", "french": "en retard", "english": "late", "partOfSpeech": "expression", "pronunciation": "ahn ruh-TAR", "example": "Vite, je suis en retard !", "exampleEnglish": "Quick, I am late!", "level": "A1", "category": "time" },
+            { "id": "en-avance", "french": "en avance", "english": "early", "partOfSpeech": "expression", "pronunciation": "ahn ah-VAHNS", "example": "Tu es en avance, il est huit heures moins dix.", "exampleEnglish": "You are early, it is ten to eight.", "level": "A1", "category": "time" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Il est + time",
+              "body": "Time always uses \"il est\" — never \"c'est\" or \"nous sommes\". \"Heure\" takes an s from two o'clock on (\"deux heures\"), but stays singular for \"une heure\". Note that one o'clock uses \"une\" (feminine), because \"heure\" is a feminine noun.",
+              "examples": [
+                { "french": "Il est une heure.", "english": "It is one o'clock.", "note": "une, not un" },
+                { "french": "Il est sept heures.", "english": "It is seven o'clock." },
+                { "french": "Il est midi et demi.", "english": "It is half past twelve." },
+                { "french": "Il est six heures dix.", "english": "It is 6:10.", "note": "minutes simply follow the hour" },
+                { "french": "Il est deux heures vingt.", "english": "It is 2:20." }
+              ],
+              "tip": "In everyday speech, minutes simply follow the hour: \"Il est six heures dix\" — it is 6:10."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a1_u08_l01_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What time is it?",
+              "french": "Il est trois heures.",
+              "options": ["Three o'clock", "Two o'clock", "Half past three", "Noon"],
+              "answer": "Three o'clock"
+            },
+            {
+              "id": "a1_u08_l01_li02",
+              "type": "listenChoose",
+              "prompt": "Listen. What time is it?",
+              "french": "Il est quatre heures et demie.",
+              "options": ["Half past four", "Quarter past four", "Quarter to four", "Four o'clock"],
+              "answer": "Half past four"
+            },
+            {
+              "id": "a1_u08_l01_li03",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Il est midi.",
+              "answer": "Il est midi.",
+              "acceptedAnswers": ["il est midi"]
+            },
+            {
+              "id": "a1_u08_l01_li04",
+              "type": "dictation",
+              "prompt": "Dictation: write the sentence you hear.",
+              "french": "Il est huit heures et quart.",
+              "answer": "Il est huit heures et quart.",
+              "acceptedAnswers": ["il est huit heures et quart"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a1_u08_l01_sp01",
+              "type": "speak",
+              "prompt": "Ask what time it is.",
+              "french": "Quelle heure est-il ?",
+              "english": "What time is it?",
+              "tip": "Link the words smoothly: kel UHR eh-TEEL — the t of \"est\" carries into \"il\"."
+            },
+            {
+              "id": "a1_u08_l01_sp02",
+              "type": "speak",
+              "prompt": "Say that it is half past two.",
+              "french": "Il est deux heures et demie",
+              "english": "It is half past two",
+              "tip": "Link \"deux\" and \"heures\": duh-ZUHR. The x becomes a z sound."
+            },
+            {
+              "id": "a1_u08_l01_sp03",
+              "type": "speak",
+              "prompt": "Say that it is midnight.",
+              "french": "Il est minuit",
+              "english": "It is midnight",
+              "tip": "\"Minuit\" is mee-NWEE — the \"ui\" glides like \"wee\"."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Le matin de Léa",
+              "french": "Il est sept heures. Léa se lève.\n— Quelle heure est-il, maman ?\n— Il est sept heures et quart. Vite ! L'école commence à huit heures.\nÀ midi, Léa mange à la cantine avec ses amis.",
+              "english": "It is seven o'clock. Léa gets up.\n— What time is it, Mum?\n— It is quarter past seven. Hurry! School starts at eight o'clock.\nAt noon, Léa eats at the canteen with her friends.",
+              "questions": [
+                {
+                  "id": "a1_u08_l01_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "At what time does school start?",
+                  "options": ["At eight o'clock", "At seven o'clock", "At quarter past seven", "At noon"],
+                  "answer": "At eight o'clock"
+                },
+                {
+                  "id": "a1_u08_l01_rd02",
+                  "type": "trueFalse",
+                  "prompt": "Léa eats at the canteen at noon.",
+                  "options": ["True", "False"],
+                  "answer": "True"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a1_u08_l01_wr01",
+              "type": "translate",
+              "prompt": "Translate into French: \"It is five o'clock.\"",
+              "english": "It is five o'clock.",
+              "answer": "Il est cinq heures.",
+              "acceptedAnswers": ["il est cinq heures"]
+            },
+            {
+              "id": "a1_u08_l01_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "It is quarter past ten.",
+              "words": ["et", "heures", "Il", "quart", "dix", "est"],
+              "answer": "Il est dix heures et quart"
+            },
+            {
+              "id": "a1_u08_l01_wr03",
+              "type": "fillBlank",
+              "prompt": "It is 2:45. Complete: \"Il est trois heures ___ le quart.\"",
+              "answer": "moins",
+              "hint": "Quarter TO three — you take the quarter away."
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a1_u08_l01_pr01",
+              "type": "multipleChoice",
+              "prompt": "\"Il est sept heures moins le quart\" — what time is it?",
+              "options": ["6:45", "7:15", "7:45", "6:15"],
+              "answer": "6:45"
+            },
+            {
+              "id": "a1_u08_l01_pr02",
+              "type": "fillBlank",
+              "prompt": "It is 1:00. Complete: \"Il est ___ heure.\"",
+              "answer": "une",
+              "hint": "\"Heure\" is feminine, so the number agrees."
+            },
+            {
+              "id": "a1_u08_l01_pr03",
+              "type": "translate",
+              "prompt": "Translate into French: \"It is half past nine.\"",
+              "english": "It is half past nine.",
+              "answer": "Il est neuf heures et demie.",
+              "acceptedAnswers": ["il est neuf heures et demie"]
+            },
+            {
+              "id": "a1_u08_l01_pr04",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "My alarm clock rings at seven o'clock.",
+              "words": ["sonne", "réveil", "Mon", "heures", "à", "sept"],
+              "answer": "Mon réveil sonne à sept heures"
+            },
+            {
+              "id": "a1_u08_l01_pr05",
+              "type": "listenChoose",
+              "prompt": "Listen. What does it mean?",
+              "french": "Vite, je suis en retard !",
+              "options": ["Quick, I am late!", "Great, I am early!", "Wait a minute!", "It is midnight!"],
+              "answer": "Quick, I am late!"
+            },
+            {
+              "id": "a1_u08_l01_pr06",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "l'horloge", "english": "clock" },
+                { "french": "le réveil", "english": "alarm clock" },
+                { "french": "la minute", "english": "minute" },
+                { "french": "en retard", "english": "late" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a1_u08_l01_qz01",
+              "type": "multipleChoice",
+              "prompt": "How do you ask what time it is?",
+              "options": ["Quelle heure est-il ?", "Quel âge as-tu ?", "Comment allez-vous ?", "Où est la gare ?"],
+              "answer": "Quelle heure est-il ?"
+            },
+            {
+              "id": "a1_u08_l01_qz02",
+              "type": "multipleChoice",
+              "prompt": "\"Il est six heures et demie\" — what time is it?",
+              "options": ["6:30", "6:15", "5:45", "6:00"],
+              "answer": "6:30"
+            },
+            {
+              "id": "a1_u08_l01_qz03",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "et quart", "english": "quarter past" },
+                { "french": "et demie", "english": "half past" },
+                { "french": "moins le quart", "english": "quarter to" },
+                { "french": "midi", "english": "noon" }
+              ]
+            },
+            {
+              "id": "a1_u08_l01_qz04",
+              "type": "trueFalse",
+              "prompt": "To say it is 12 o'clock at night, French speakers say \"il est minuit\".",
+              "options": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "a1_u08_l01_qz05",
+              "type": "fillBlank",
+              "prompt": "Complete: \"___ est neuf heures.\" (It is nine o'clock.)",
+              "answer": "Il"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1_u08_l02",
+      "level": "A1",
+      "unit": 8,
+      "title": "Les jours et les mois",
+      "description": "Learn the days of the week, the months, and yesterday, today and tomorrow.",
+      "estimatedMinutes": 12,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "The days of the week",
+              "body": "The French week starts on Monday: lundi, mardi, mercredi, jeudi, vendredi, samedi, dimanche. Days are written with a small letter, never a capital.",
+              "examples": [
+                { "french": "Aujourd'hui, c'est lundi.", "english": "Today is Monday." },
+                { "french": "Nous sommes jeudi.", "english": "It is Thursday.", "note": "literally: we are Thursday" },
+                { "french": "Samedi et dimanche, c'est le week-end !", "english": "Saturday and Sunday — it's the weekend!" },
+                { "french": "Vendredi soir, je vais au cinéma.", "english": "On Friday evening, I go to the cinema." },
+                { "french": "On est mercredi aujourd'hui.", "english": "It's Wednesday today.", "note": "informal" }
+              ],
+              "tip": "\"On est mardi\" is a very common, informal way to say \"it's Tuesday\"."
+            },
+            {
+              "heading": "The months",
+              "body": "The twelve months are: janvier, février, mars, avril, mai, juin, juillet, août, septembre, octobre, novembre, décembre. Use \"en\" to say in which month something happens.",
+              "examples": [
+                { "french": "Mon anniversaire est en juin.", "english": "My birthday is in June." },
+                { "french": "En août, je suis en vacances.", "english": "In August, I am on holiday." },
+                { "french": "En décembre, c'est Noël.", "english": "In December, it's Christmas." },
+                { "french": "Le mois de mai est très joli.", "english": "The month of May is very pretty." }
+              ],
+              "tip": "Like the days, months never take a capital letter in French."
+            },
+            {
+              "heading": "Yesterday, today, tomorrow",
+              "body": "Three little words you will use every day: \"hier\" (yesterday), \"aujourd'hui\" (today) and \"demain\" (tomorrow).",
+              "examples": [
+                { "french": "Hier, c'était dimanche.", "english": "Yesterday was Sunday." },
+                { "french": "Aujourd'hui, c'est lundi.", "english": "Today is Monday." },
+                { "french": "Demain, c'est mardi.", "english": "Tomorrow is Tuesday." },
+                { "french": "Demain, je ne travaille pas.", "english": "Tomorrow, I am not working." }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "lundi", "french": "lundi", "english": "Monday", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luhn-DEE", "example": "Lundi, je travaille.", "exampleEnglish": "On Monday, I work.", "level": "A1", "category": "time" },
+            { "id": "samedi", "french": "samedi", "english": "Saturday", "partOfSpeech": "noun", "gender": "m", "pronunciation": "sahm-DEE", "example": "Samedi, je ne travaille pas.", "exampleEnglish": "On Saturday, I don't work.", "level": "A1", "category": "time" },
+            { "id": "dimanche", "french": "dimanche", "english": "Sunday", "partOfSpeech": "noun", "gender": "m", "pronunciation": "dee-MAHNSH", "example": "Dimanche, je reste à la maison.", "exampleEnglish": "On Sunday, I stay at home.", "level": "A1", "category": "time" },
+            { "id": "semaine", "french": "la semaine", "english": "week", "partOfSpeech": "noun", "gender": "f", "pronunciation": "suh-MEN", "example": "La semaine commence lundi.", "exampleEnglish": "The week starts on Monday.", "level": "A1", "category": "time" },
+            { "id": "mois", "french": "le mois", "english": "month", "partOfSpeech": "noun", "gender": "m", "pronunciation": "mwah", "example": "Janvier est le premier mois.", "exampleEnglish": "January is the first month.", "level": "A1", "category": "time" },
+            { "id": "aujourd-hui", "french": "aujourd'hui", "english": "today", "partOfSpeech": "adverb", "pronunciation": "oh-zhoor-DWEE", "example": "Aujourd'hui, c'est mercredi.", "exampleEnglish": "Today is Wednesday.", "level": "A1", "category": "time" },
+            { "id": "demain", "french": "demain", "english": "tomorrow", "partOfSpeech": "adverb", "pronunciation": "duh-MAHN", "example": "Demain, c'est samedi.", "exampleEnglish": "Tomorrow is Saturday.", "level": "A1", "category": "time" },
+            { "id": "hier", "french": "hier", "english": "yesterday", "partOfSpeech": "adverb", "pronunciation": "yehr", "example": "Hier, c'était lundi.", "exampleEnglish": "Yesterday was Monday.", "level": "A1", "category": "time" },
+            { "id": "janvier", "french": "janvier", "english": "January", "partOfSpeech": "noun", "gender": "m", "pronunciation": "zhahn-VYAY", "example": "En janvier, il fait froid.", "exampleEnglish": "In January, it is cold.", "level": "A1", "category": "time" },
+            { "id": "mardi", "french": "mardi", "english": "Tuesday", "partOfSpeech": "noun", "gender": "m", "pronunciation": "mar-DEE", "example": "Mardi, j'ai un cours de français.", "exampleEnglish": "On Tuesday, I have a French class.", "level": "A1", "category": "time" },
+            { "id": "mercredi", "french": "mercredi", "english": "Wednesday", "partOfSpeech": "noun", "gender": "m", "pronunciation": "mehr-kruh-DEE", "example": "Mercredi, je joue au football.", "exampleEnglish": "On Wednesday, I play football.", "level": "A1", "category": "time" },
+            { "id": "jeudi", "french": "jeudi", "english": "Thursday", "partOfSpeech": "noun", "gender": "m", "pronunciation": "zhuh-DEE", "example": "Jeudi, nous mangeons au restaurant.", "exampleEnglish": "On Thursday, we eat at the restaurant.", "level": "A1", "category": "time" },
+            { "id": "vendredi", "french": "vendredi", "english": "Friday", "partOfSpeech": "noun", "gender": "m", "pronunciation": "vahn-druh-DEE", "example": "Vendredi soir, je vais au cinéma.", "exampleEnglish": "On Friday evening, I go to the cinema.", "level": "A1", "category": "time" },
+            { "id": "week-end", "french": "le week-end", "english": "weekend", "partOfSpeech": "noun", "gender": "m", "pronunciation": "week-END", "example": "Le week-end, je reste à la maison.", "exampleEnglish": "On the weekend, I stay at home.", "level": "A1", "category": "time" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Quel or quelle?",
+              "body": "\"Quel\" means \"which\" or \"what\". It agrees with the noun: \"quel\" before a masculine noun, \"quelle\" before a feminine noun. Good news — both sound exactly the same!",
+              "examples": [
+                { "french": "Quel jour sommes-nous ?", "english": "What day is it?", "note": "jour is masculine" },
+                { "french": "Quelle heure est-il ?", "english": "What time is it?", "note": "heure is feminine" },
+                { "french": "Quel est ton mois préféré ?", "english": "What is your favourite month?" },
+                { "french": "Quelle est la date aujourd'hui ?", "english": "What is the date today?", "note": "date is feminine" },
+                { "french": "Quel est ton jour préféré ?", "english": "What is your favourite day?" }
+              ],
+              "tip": "You only hear the difference in writing. When speaking, just say \"kel\" and smile."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a1_u08_l02_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What does it mean?",
+              "french": "Aujourd'hui, c'est samedi.",
+              "options": ["Today is Saturday.", "Today is Sunday.", "Tomorrow is Saturday.", "Yesterday was Saturday."],
+              "answer": "Today is Saturday."
+            },
+            {
+              "id": "a1_u08_l02_li02",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Nous sommes lundi.",
+              "answer": "Nous sommes lundi.",
+              "acceptedAnswers": ["nous sommes lundi"]
+            },
+            {
+              "id": "a1_u08_l02_li03",
+              "type": "listenChoose",
+              "prompt": "Listen. What does it mean?",
+              "french": "Mon anniversaire est en avril.",
+              "options": ["My birthday is in April.", "My birthday is in August.", "My birthday is on Monday.", "My birthday is in winter."],
+              "answer": "My birthday is in April."
+            },
+            {
+              "id": "a1_u08_l02_li04",
+              "type": "dictation",
+              "prompt": "Dictation: write the sentence you hear.",
+              "french": "La semaine commence lundi.",
+              "answer": "La semaine commence lundi.",
+              "acceptedAnswers": ["la semaine commence lundi"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a1_u08_l02_sp01",
+              "type": "speak",
+              "prompt": "Say that today is Monday.",
+              "french": "Aujourd'hui, c'est lundi",
+              "english": "Today is Monday",
+              "tip": "\"Aujourd'hui\" is oh-zhoor-DWEE — four smooth syllables, no pause at the apostrophe."
+            },
+            {
+              "id": "a1_u08_l02_sp02",
+              "type": "speak",
+              "prompt": "Ask what day it is.",
+              "french": "Quel jour sommes-nous ?",
+              "english": "What day is it?",
+              "tip": "\"Jour\" is zhoor — the French j is soft, like the s in \"measure\"."
+            },
+            {
+              "id": "a1_u08_l02_sp03",
+              "type": "speak",
+              "prompt": "Say that your birthday is in June.",
+              "french": "Mon anniversaire est en juin",
+              "english": "My birthday is in June",
+              "tip": "Link \"est\" and \"en\": eh-TAHN. \"Juin\" is one nasal syllable: zhwan."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "La semaine de Thomas",
+              "french": "Lundi, Thomas travaille au bureau.\nMercredi, il joue au football avec ses amis.\nSamedi et dimanche, il ne travaille pas.\nAujourd'hui, c'est vendredi. Demain, c'est samedi. Thomas est très content !",
+              "english": "On Monday, Thomas works at the office.\nOn Wednesday, he plays football with his friends.\nOn Saturday and Sunday, he doesn't work.\nToday is Friday. Tomorrow is Saturday. Thomas is very happy!",
+              "questions": [
+                {
+                  "id": "a1_u08_l02_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "On which day does Thomas play football?",
+                  "options": ["Wednesday", "Monday", "Friday", "Saturday"],
+                  "answer": "Wednesday"
+                },
+                {
+                  "id": "a1_u08_l02_rd02",
+                  "type": "trueFalse",
+                  "prompt": "In the story, tomorrow is Saturday.",
+                  "options": ["True", "False"],
+                  "answer": "True"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a1_u08_l02_wr01",
+              "type": "translate",
+              "prompt": "Translate into French: \"Today is Thursday.\"",
+              "english": "Today is Thursday.",
+              "answer": "Aujourd'hui, c'est jeudi.",
+              "acceptedAnswers": ["aujourdhui cest jeudi", "aujourd hui c est jeudi", "aujourd'hui c'est jeudi"]
+            },
+            {
+              "id": "a1_u08_l02_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "My birthday is in October.",
+              "words": ["est", "anniversaire", "octobre", "Mon", "en"],
+              "answer": "Mon anniversaire est en octobre"
+            },
+            {
+              "id": "a1_u08_l02_wr03",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Aujourd'hui, c'est lundi. ___, c'est mardi.\" (Tomorrow)",
+              "answer": "Demain"
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a1_u08_l02_pr01",
+              "type": "multipleChoice",
+              "prompt": "Which day comes just after jeudi?",
+              "options": ["vendredi", "mercredi", "samedi", "mardi"],
+              "answer": "vendredi"
+            },
+            {
+              "id": "a1_u08_l02_pr02",
+              "type": "fillBlank",
+              "prompt": "Complete: \"Samedi et dimanche, c'est le ___.\"",
+              "answer": "week-end",
+              "acceptedAnswers": ["week end", "weekend"]
+            },
+            {
+              "id": "a1_u08_l02_pr03",
+              "type": "translate",
+              "prompt": "Translate into French: \"Tomorrow is Friday.\"",
+              "english": "Tomorrow is Friday.",
+              "answer": "Demain, c'est vendredi.",
+              "acceptedAnswers": ["demain cest vendredi", "demain c est vendredi", "demain c'est vendredi"]
+            },
+            {
+              "id": "a1_u08_l02_pr04",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "On Wednesday, I play football.",
+              "words": ["joue", "football", "Mercredi,", "au", "je"],
+              "answer": "Mercredi, je joue au football"
+            },
+            {
+              "id": "a1_u08_l02_pr05",
+              "type": "listenChoose",
+              "prompt": "Listen. What does it mean?",
+              "french": "Mardi, j'ai un cours de français.",
+              "options": ["On Tuesday, I have a French class.", "On Thursday, I have a French class.", "On Tuesday, I go to the cinema.", "On Monday, I work."],
+              "answer": "On Tuesday, I have a French class."
+            },
+            {
+              "id": "a1_u08_l02_pr06",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "mardi", "english": "Tuesday" },
+                { "french": "mercredi", "english": "Wednesday" },
+                { "french": "jeudi", "english": "Thursday" },
+                { "french": "vendredi", "english": "Friday" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a1_u08_l02_qz01",
+              "type": "multipleChoice",
+              "prompt": "Which day comes just after mardi?",
+              "options": ["mercredi", "lundi", "jeudi", "samedi"],
+              "answer": "mercredi"
+            },
+            {
+              "id": "a1_u08_l02_qz02",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "lundi", "english": "Monday" },
+                { "french": "dimanche", "english": "Sunday" },
+                { "french": "hier", "english": "yesterday" },
+                { "french": "demain", "english": "tomorrow" }
+              ]
+            },
+            {
+              "id": "a1_u08_l02_qz03",
+              "type": "trueFalse",
+              "prompt": "In French, days and months are written with a capital letter.",
+              "options": ["True", "False"],
+              "answer": "False",
+              "tip": "French writes \"lundi\" and \"janvier\" with small letters."
+            },
+            {
+              "id": "a1_u08_l02_qz04",
+              "type": "multipleChoice",
+              "prompt": "Which month is \"August\" in French?",
+              "options": ["août", "avril", "mars", "octobre"],
+              "answer": "août"
+            },
+            {
+              "id": "a1_u08_l02_qz05",
+              "type": "fillBlank",
+              "prompt": "Complete: \"___ jour sommes-nous ?\" (What day is it?)",
+              "answer": "Quel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1_u08_l03",
+      "level": "A1",
+      "unit": 8,
+      "title": "Quand ?",
+      "description": "Give dates, name the seasons, and ask questions with \"quand\".",
+      "estimatedMinutes": 13,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Saying the date",
+              "body": "For dates, French uses \"le\" + number + month: \"le trois mai\" (May 3rd). There is one exception: the first day of the month is \"le premier\" — \"le premier mai\" (May 1st).",
+              "examples": [
+                { "french": "Nous sommes le dix juin.", "english": "It is June 10th." },
+                { "french": "Mon anniversaire est le premier mai.", "english": "My birthday is on May 1st." },
+                { "french": "Le quatorze juillet, c'est la fête nationale.", "english": "July 14th is the national holiday." },
+                { "french": "Noël, c'est le vingt-cinq décembre.", "english": "Christmas is on December 25th." },
+                { "french": "Aujourd'hui, nous sommes le cinq octobre.", "english": "Today is October 5th." }
+              ],
+              "tip": "Never say \"le un mai\" — the first of the month is always \"le premier\"."
+            },
+            {
+              "heading": "The four seasons",
+              "body": "The seasons are: le printemps (spring), l'été (summer), l'automne (autumn) and l'hiver (winter). Say \"au printemps\", but \"en été\", \"en automne\" and \"en hiver\".",
+              "examples": [
+                { "french": "Au printemps, il y a des fleurs.", "english": "In spring, there are flowers." },
+                { "french": "En été, je vais à la plage.", "english": "In summer, I go to the beach." },
+                { "french": "En hiver, il fait froid.", "english": "In winter, it is cold." },
+                { "french": "En automne, les vacances sont finies.", "english": "In autumn, the holidays are over." },
+                { "french": "Ma saison préférée est l'été.", "english": "My favourite season is summer." }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "quand", "french": "quand", "english": "when", "partOfSpeech": "adverb", "pronunciation": "kahn", "example": "Quand est ton anniversaire ?", "exampleEnglish": "When is your birthday?", "level": "A1", "category": "time" },
+            { "id": "date", "french": "la date", "english": "date", "partOfSpeech": "noun", "gender": "f", "pronunciation": "daht", "example": "Quelle est la date aujourd'hui ?", "exampleEnglish": "What is the date today?", "level": "A1", "category": "time" },
+            { "id": "premier", "french": "le premier", "english": "the first", "partOfSpeech": "number", "pronunciation": "pruh-MYAY", "example": "Nous sommes le premier avril.", "exampleEnglish": "It is April 1st.", "level": "A1", "category": "time" },
+            { "id": "printemps", "french": "le printemps", "english": "spring", "partOfSpeech": "noun", "gender": "m", "pronunciation": "pran-TAHN", "example": "J'aime le printemps.", "exampleEnglish": "I like spring.", "level": "A1", "category": "time" },
+            { "id": "ete", "french": "l'été", "english": "summer", "partOfSpeech": "noun", "gender": "m", "pronunciation": "ay-TAY", "example": "En été, il fait chaud.", "exampleEnglish": "In summer, it is hot.", "level": "A1", "category": "time" },
+            { "id": "automne", "french": "l'automne", "english": "autumn", "partOfSpeech": "noun", "gender": "m", "pronunciation": "oh-TON", "example": "En automne, il pleut.", "exampleEnglish": "In autumn, it rains.", "level": "A1", "category": "time" },
+            { "id": "hiver", "french": "l'hiver", "english": "winter", "partOfSpeech": "noun", "gender": "m", "pronunciation": "ee-VEHR", "example": "En hiver, il fait froid.", "exampleEnglish": "In winter, it is cold.", "level": "A1", "category": "time" },
+            { "id": "anniversaire", "french": "l'anniversaire", "english": "birthday", "partOfSpeech": "noun", "gender": "m", "pronunciation": "ah-nee-vehr-SEHR", "example": "Bon anniversaire !", "exampleEnglish": "Happy birthday!", "level": "A1", "category": "time" },
+            { "id": "saison", "french": "la saison", "english": "season", "partOfSpeech": "noun", "gender": "f", "pronunciation": "seh-ZOHN", "example": "Il y a quatre saisons.", "exampleEnglish": "There are four seasons.", "level": "A1", "category": "time" },
+            { "id": "fete", "french": "la fête", "english": "party / celebration", "partOfSpeech": "noun", "gender": "f", "pronunciation": "fet", "example": "La fête est samedi soir.", "exampleEnglish": "The party is on Saturday evening.", "level": "A1", "category": "time" },
+            { "id": "vacances", "french": "les vacances", "english": "holidays / vacation", "partOfSpeech": "noun", "gender": "f", "pronunciation": "vah-KAHNS", "example": "Les vacances commencent en juillet.", "exampleEnglish": "The holidays start in July.", "level": "A1", "category": "time" },
+            { "id": "noel", "french": "Noël", "english": "Christmas", "partOfSpeech": "noun", "gender": "m", "pronunciation": "noh-EL", "example": "Joyeux Noël !", "exampleEnglish": "Merry Christmas!", "level": "A1", "category": "time" },
+            { "id": "fleur", "french": "la fleur", "english": "flower", "partOfSpeech": "noun", "gender": "f", "pronunciation": "fluhr", "example": "Au printemps, il y a des fleurs.", "exampleEnglish": "In spring, there are flowers.", "level": "A1", "category": "nature" },
+            { "id": "plage", "french": "la plage", "english": "beach", "partOfSpeech": "noun", "gender": "f", "pronunciation": "plahzh", "example": "En été, je vais à la plage.", "exampleEnglish": "In summer, I go to the beach.", "level": "A1", "category": "nature" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Three ways to ask a question",
+              "body": "French has three ways to ask the same question. Easiest: keep the sentence order and add the question word at the end (\"Tu arrives quand ?\"). Neutral: use \"est-ce que\" (\"Quand est-ce que tu arrives ?\"). Formal: invert the verb and pronoun (\"Quand arrives-tu ?\").",
+              "examples": [
+                { "french": "Tu arrives quand ?", "english": "When do you arrive?", "note": "spoken, informal" },
+                { "french": "Quand est-ce que tu arrives ?", "english": "When do you arrive?", "note": "neutral" },
+                { "french": "Quand arrives-tu ?", "english": "When do you arrive?", "note": "formal" },
+                { "french": "Tu pars quand en vacances ?", "english": "When are you going on holiday?", "note": "spoken, informal" },
+                { "french": "Quand est-ce que la fête commence ?", "english": "When does the party start?", "note": "neutral" }
+              ],
+              "tip": "In everyday conversation, French speakers mostly use the first two. Inversion sounds a little formal."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            {
+              "id": "a1_u08_l03_li01",
+              "type": "listenChoose",
+              "prompt": "Listen. What does it mean?",
+              "french": "Mon anniversaire est le premier mai.",
+              "options": ["My birthday is on May 1st.", "My birthday is on May 3rd.", "My birthday is in June.", "My birthday is in winter."],
+              "answer": "My birthday is on May 1st."
+            },
+            {
+              "id": "a1_u08_l03_li02",
+              "type": "listenType",
+              "prompt": "Listen and type what you hear.",
+              "french": "Quand arrives-tu ?",
+              "answer": "Quand arrives-tu ?",
+              "acceptedAnswers": ["quand arrives tu"]
+            },
+            {
+              "id": "a1_u08_l03_li03",
+              "type": "listenChoose",
+              "prompt": "Listen. Which season is it about?",
+              "french": "En hiver, il fait froid.",
+              "options": ["Winter", "Summer", "Spring", "Autumn"],
+              "answer": "Winter"
+            },
+            {
+              "id": "a1_u08_l03_li04",
+              "type": "dictation",
+              "prompt": "Dictation: write the sentence you hear.",
+              "french": "Nous sommes le dix mars.",
+              "answer": "Nous sommes le dix mars.",
+              "acceptedAnswers": ["nous sommes le dix mars"]
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            {
+              "id": "a1_u08_l03_sp01",
+              "type": "speak",
+              "prompt": "Ask a friend when they arrive.",
+              "french": "Quand est-ce que tu arrives ?",
+              "english": "When do you arrive?",
+              "tip": "\"Quand\" is a nasal kahn — don't pronounce the d. \"Est-ce que\" sounds like ess-kuh."
+            },
+            {
+              "id": "a1_u08_l03_sp02",
+              "type": "speak",
+              "prompt": "Say your birthday is on June 1st.",
+              "french": "Mon anniversaire est le premier juin",
+              "english": "My birthday is on June 1st",
+              "tip": "Link \"mon\" and \"anniversaire\": mo-nah-nee-vehr-SEHR."
+            },
+            {
+              "id": "a1_u08_l03_sp03",
+              "type": "speak",
+              "prompt": "Say that you like spring.",
+              "french": "J'aime le printemps",
+              "english": "I like spring",
+              "tip": "\"Printemps\" ends with a silent ps: pran-TAHN."
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "L'anniversaire de Marie",
+              "french": "— Quand est ton anniversaire, Marie ?\n— C'est le premier juillet, en été !\n— Super ! Et l'anniversaire de Paul, c'est quand ?\n— C'est le douze janvier, en hiver.\n— Moi, je préfère l'été. J'adore la plage !",
+              "english": "— When is your birthday, Marie?\n— It's July 1st, in the summer!\n— Great! And Paul's birthday, when is it?\n— It's January 12th, in the winter.\n— Me, I prefer summer. I love the beach!",
+              "questions": [
+                {
+                  "id": "a1_u08_l03_rd01",
+                  "type": "multipleChoice",
+                  "prompt": "When is Marie's birthday?",
+                  "options": ["July 1st", "January 12th", "July 12th", "June 1st"],
+                  "answer": "July 1st"
+                },
+                {
+                  "id": "a1_u08_l03_rd02",
+                  "type": "trueFalse",
+                  "prompt": "Paul's birthday is in winter.",
+                  "options": ["True", "False"],
+                  "answer": "True"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            {
+              "id": "a1_u08_l03_wr01",
+              "type": "translate",
+              "prompt": "Translate into French: \"My birthday is on March 1st.\"",
+              "english": "My birthday is on March 1st.",
+              "answer": "Mon anniversaire est le premier mars.",
+              "acceptedAnswers": ["mon anniversaire est le premier mars"]
+            },
+            {
+              "id": "a1_u08_l03_wr02",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "When do you arrive?",
+              "words": ["tu", "Quand", "arrives", "que", "est-ce"],
+              "answer": "Quand est-ce que tu arrives"
+            },
+            {
+              "id": "a1_u08_l03_wr03",
+              "type": "fillBlank",
+              "prompt": "It is May 1st. Complete: \"Mon anniversaire est le ___ mai.\"",
+              "answer": "premier"
+            }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            {
+              "id": "a1_u08_l03_pr01",
+              "type": "multipleChoice",
+              "prompt": "How do you say \"December 25th\" in French?",
+              "options": ["le vingt-cinq décembre", "le vingt-cinq de décembre", "décembre vingt-cinq", "le premier décembre"],
+              "answer": "le vingt-cinq décembre"
+            },
+            {
+              "id": "a1_u08_l03_pr02",
+              "type": "fillBlank",
+              "prompt": "Complete: \"___ été, je vais à la plage.\" (In summer)",
+              "answer": "En"
+            },
+            {
+              "id": "a1_u08_l03_pr03",
+              "type": "translate",
+              "prompt": "Translate into French: \"When is your birthday?\"",
+              "english": "When is your birthday?",
+              "answer": "Quand est ton anniversaire ?",
+              "acceptedAnswers": ["quand est ton anniversaire"]
+            },
+            {
+              "id": "a1_u08_l03_pr04",
+              "type": "arrangeWords",
+              "prompt": "Put the words in order.",
+              "english": "It is June 10th.",
+              "words": ["le", "sommes", "juin", "Nous", "dix"],
+              "answer": "Nous sommes le dix juin"
+            },
+            {
+              "id": "a1_u08_l03_pr05",
+              "type": "listenChoose",
+              "prompt": "Listen. What does it mean?",
+              "french": "Les vacances commencent en juillet.",
+              "options": ["The holidays start in July.", "The holidays start in June.", "The party is in July.", "Christmas is in December."],
+              "answer": "The holidays start in July."
+            },
+            {
+              "id": "a1_u08_l03_pr06",
+              "type": "match",
+              "prompt": "Match the French to the English.",
+              "pairs": [
+                { "french": "la saison", "english": "season" },
+                { "french": "les vacances", "english": "holidays" },
+                { "french": "la fête", "english": "party" },
+                { "french": "la fleur", "english": "flower" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            {
+              "id": "a1_u08_l03_qz01",
+              "type": "multipleChoice",
+              "prompt": "How do you say \"on May 1st\" in French?",
+              "options": ["le premier mai", "le un mai", "premier de mai", "le mai premier"],
+              "answer": "le premier mai"
+            },
+            {
+              "id": "a1_u08_l03_qz02",
+              "type": "match",
+              "prompt": "Match the seasons.",
+              "pairs": [
+                { "french": "le printemps", "english": "spring" },
+                { "french": "l'été", "english": "summer" },
+                { "french": "l'automne", "english": "autumn" },
+                { "french": "l'hiver", "english": "winter" }
+              ]
+            },
+            {
+              "id": "a1_u08_l03_qz03",
+              "type": "trueFalse",
+              "prompt": "Only the first day of the month uses \"le premier\"; other days use normal numbers, like \"le deux mai\".",
+              "options": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "a1_u08_l03_qz04",
+              "type": "multipleChoice",
+              "prompt": "Which question means \"When do you arrive?\"",
+              "options": ["Quand arrives-tu ?", "Où arrives-tu ?", "Comment arrives-tu ?", "Pourquoi arrives-tu ?"],
+              "answer": "Quand arrives-tu ?"
+            },
+            {
+              "id": "a1_u08_l03_qz05",
+              "type": "fillBlank",
+              "prompt": "Complete: \"___ est-ce que tu pars ?\" (When are you leaving?)",
+              "answer": "Quand"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

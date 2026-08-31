@@ -1,0 +1,591 @@
+{
+  "id": "b1_u16",
+  "level": "B1",
+  "unit": 16,
+  "title": "Cinema & Literature",
+  "subtitle": "Talk about films and books, and compare a novel with its adaptation",
+  "icon": "🎬",
+  "lessons": [
+    {
+      "id": "b1_u16_l01",
+      "level": "B1",
+      "unit": 16,
+      "title": "Parler d'un film",
+      "description": "Summarise a plot in the past tenses and give a reasoned opinion about a film.",
+      "estimatedMinutes": 18,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Setting up the summary",
+              "body": "A French film summary usually opens by naming the genre and the director, then says where and when the story takes place. Use « il s'agit de » (it is about) or « ça parle de » (it's about) — the first is neutral, the second is conversational. Then place the story with « se dérouler » or « se passer ».",
+              "examples": [
+                { "french": "C'est un thriller de la réalisatrice Salomé Bréart.", "english": "It's a thriller by the director Salomé Bréart." },
+                { "french": "Il s'agit d'une famille qui cache un secret depuis vingt ans.", "english": "It's about a family that has been hiding a secret for twenty years." },
+                { "french": "L'histoire se déroule dans un village de pêcheurs en 1962.", "english": "The story takes place in a fishing village in 1962." },
+                { "french": "Ça parle d'un professeur qui perd la mémoire.", "english": "It's about a teacher who loses his memory.", "note": "Informal — fine with friends, avoid in an essay." },
+                { "french": "Le film dure deux heures et il y a des sous-titres.", "english": "The film lasts two hours and there are subtitles." }
+              ],
+              "tip": "« Il s'agit de » has no personal subject: never say « le film s'agit de »."
+            },
+            {
+              "heading": "Telling the plot",
+              "body": "To narrate the events themselves, French speakers switch between two past tenses. The passé composé carries the actions that push the story forward; the imparfait paints the background — the setting, the mood, and what people were like. Mixing them well is what makes a summary sound natural rather than like a list.",
+              "examples": [
+                { "french": "Le héros vivait seul quand une inconnue a frappé à sa porte.", "english": "The hero was living alone when a stranger knocked on his door." },
+                { "french": "Il pleuvait, la rue était vide, et soudain tout a basculé.", "english": "It was raining, the street was empty, and suddenly everything changed." },
+                { "french": "Elle a découvert une lettre que son père avait cachée.", "english": "She discovered a letter that her father had hidden." },
+                { "french": "Au début, les deux personnages se détestaient.", "english": "At the beginning, the two characters hated each other." },
+                { "french": "À la fin, il a compris qu'il s'était trompé.", "english": "In the end, he understood that he had been wrong." }
+              ],
+              "tip": "Never reveal the ending without warning: « Attention, je vais spoiler ! » is what young French speakers actually say."
+            },
+            {
+              "heading": "A reasoned opinion",
+              "body": "At B1 an opinion is expected to come with a reason. Give the judgement first, then justify it with « parce que », « car » or « ce qui m'a plu, c'est… ». Adjectives like émouvant, captivant, prévisible and décevant do a lot of work here, and « un chef-d'œuvre » / « un navet » are the two extremes.",
+              "examples": [
+                { "french": "J'ai trouvé la fin bouleversante, car rien ne l'annonçait.", "english": "I found the ending devastating, because nothing announced it." },
+                { "french": "Ce qui m'a plu, c'est le jeu des acteurs.", "english": "What I liked is the acting." },
+                { "french": "Le scénario était prévisible, mais la bande originale sauve le film.", "english": "The script was predictable, but the soundtrack saves the film." },
+                { "french": "Franchement, c'est un navet : j'ai regardé ma montre trois fois.", "english": "Honestly, it's a turkey: I looked at my watch three times." },
+                { "french": "Je te le recommande si tu aimes les histoires lentes.", "english": "I recommend it to you if you like slow stories." }
+              ],
+              "tip": "« Ça vaut le coup » (it's worth it) is the everyday way to end a recommendation."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "le-film", "french": "le film", "english": "the film, the movie", "partOfSpeech": "noun", "gender": "m", "plural": "les films", "pronunciation": "luh feelm", "example": "Le film sort en salle vendredi.", "exampleEnglish": "The film comes out in cinemas on Friday.", "level": "B1", "category": "cinema" },
+            { "id": "le-realisateur", "french": "le réalisateur", "english": "the director (film)", "partOfSpeech": "noun", "gender": "m", "plural": "les réalisateurs", "pronunciation": "luh ray-ah-lee-zah-TUR", "example": "Le réalisateur a mis six ans à écrire ce scénario.", "exampleEnglish": "The director took six years to write this script.", "level": "B1", "category": "cinema" },
+            { "id": "la-realisatrice", "french": "la réalisatrice", "english": "the director (woman)", "partOfSpeech": "noun", "gender": "f", "plural": "les réalisatrices", "pronunciation": "lah ray-ah-lee-zah-TREESS", "example": "La réalisatrice était présente à la séance de mardi.", "exampleEnglish": "The director was present at Tuesday's screening.", "level": "B1", "category": "cinema" },
+            { "id": "l-acteur", "french": "l'acteur", "english": "the actor", "partOfSpeech": "noun", "gender": "m", "plural": "les acteurs", "pronunciation": "lak-TUR", "example": "L'acteur principal parle très peu dans le film.", "exampleEnglish": "The lead actor speaks very little in the film.", "level": "B1", "category": "cinema" },
+            { "id": "l-actrice", "french": "l'actrice", "english": "the actress", "partOfSpeech": "noun", "gender": "f", "plural": "les actrices", "pronunciation": "lak-TREESS", "example": "L'actrice a appris le breton pour ce rôle.", "exampleEnglish": "The actress learned Breton for this role.", "level": "B1", "category": "cinema" },
+            { "id": "le-scenario", "french": "le scénario", "english": "the script, the screenplay", "partOfSpeech": "noun", "gender": "m", "plural": "les scénarios", "pronunciation": "luh say-nah-RYOH", "example": "Le scénario tient sur trente pages.", "exampleEnglish": "The script fits on thirty pages.", "level": "B1", "category": "cinema" },
+            { "id": "l-intrigue", "french": "l'intrigue", "english": "the plot", "partOfSpeech": "noun", "gender": "f", "plural": "les intrigues", "pronunciation": "lan-TREEG", "example": "L'intrigue devient claire seulement après une heure.", "exampleEnglish": "The plot only becomes clear after an hour.", "level": "B1", "category": "cinema" },
+            { "id": "un-personnage", "french": "un personnage", "english": "a character (in a story)", "partOfSpeech": "noun", "gender": "m", "plural": "des personnages", "pronunciation": "uhn pehr-so-NAHZH", "example": "Chaque personnage cache quelque chose.", "exampleEnglish": "Every character is hiding something.", "level": "B1", "category": "cinema" },
+            { "id": "le-heros", "french": "le héros", "english": "the hero", "partOfSpeech": "noun", "gender": "m", "plural": "les héros", "pronunciation": "luh ay-ROH", "example": "Le héros n'est pas très sympathique au départ.", "exampleEnglish": "The hero isn't very likeable at the start.", "level": "B1", "category": "cinema" },
+            { "id": "l-heroine", "french": "l'héroïne", "english": "the heroine", "partOfSpeech": "noun", "gender": "f", "plural": "les héroïnes", "pronunciation": "lay-ro-EEN", "example": "L'héroïne quitte la ville dès la première scène.", "exampleEnglish": "The heroine leaves the city from the very first scene.", "level": "B1", "category": "cinema" },
+            { "id": "le-role-principal", "french": "le rôle principal", "english": "the leading role", "partOfSpeech": "noun", "gender": "m", "plural": "les rôles principaux", "pronunciation": "luh rohl pran-see-PAL", "example": "Elle a obtenu le rôle principal à vingt-deux ans.", "exampleEnglish": "She got the leading role at twenty-two.", "level": "B1", "category": "cinema" },
+            { "id": "la-sequence", "french": "la séquence", "english": "the sequence (of a film)", "partOfSpeech": "noun", "gender": "f", "plural": "les séquences", "pronunciation": "lah say-KAHNSS", "example": "La séquence du train dure huit minutes sans coupure.", "exampleEnglish": "The train sequence lasts eight minutes without a cut.", "level": "B1", "category": "cinema" },
+            { "id": "la-bande-annonce", "french": "la bande-annonce", "english": "the trailer", "partOfSpeech": "noun", "gender": "f", "plural": "les bandes-annonces", "pronunciation": "lah bahnd-ah-NONSS", "example": "La bande-annonce montre déjà trop de choses.", "exampleEnglish": "The trailer already shows too much.", "level": "B1", "category": "cinema" },
+            { "id": "la-bande-originale", "french": "la bande originale", "english": "the soundtrack", "partOfSpeech": "noun", "gender": "f", "plural": "les bandes originales", "pronunciation": "lah bahnd o-ree-zhee-NAL", "example": "J'écoute la bande originale en travaillant.", "exampleEnglish": "I listen to the soundtrack while working.", "level": "B1", "category": "cinema" },
+            { "id": "le-generique", "french": "le générique", "english": "the credits", "partOfSpeech": "noun", "gender": "m", "plural": "les génériques", "pronunciation": "luh zhay-nay-REEK", "example": "Reste jusqu'à la fin du générique, il y a une scène cachée.", "exampleEnglish": "Stay until the end of the credits, there's a hidden scene.", "level": "B1", "category": "cinema" },
+            { "id": "le-tournage", "french": "le tournage", "english": "the shooting, the filming", "partOfSpeech": "noun", "gender": "m", "plural": "les tournages", "pronunciation": "luh toor-NAHZH", "example": "Le tournage a eu lieu en Bretagne pendant l'hiver.", "exampleEnglish": "The shooting took place in Brittany during the winter.", "level": "B1", "category": "cinema" },
+            { "id": "incarner", "french": "incarner", "english": "to play, to embody (a role)", "partOfSpeech": "verb", "pronunciation": "an-kar-NAY", "example": "Il incarne un juge fatigué et alcoolique.", "exampleEnglish": "He plays a tired, alcoholic judge.", "level": "B1", "category": "cinema" },
+            { "id": "se-derouler", "french": "se dérouler", "english": "to take place, to unfold", "partOfSpeech": "verb", "pronunciation": "suh day-roo-LAY", "example": "L'action se déroule sur une seule nuit.", "exampleEnglish": "The action unfolds over a single night.", "level": "B1", "category": "cinema" },
+            { "id": "l-histoire", "french": "l'histoire", "english": "the story", "partOfSpeech": "noun", "gender": "f", "plural": "les histoires", "pronunciation": "lees-TWAR", "example": "L'histoire est simple mais elle est bien racontée.", "exampleEnglish": "The story is simple but it's well told.", "level": "B1", "category": "cinema" },
+            { "id": "le-denouement", "french": "le dénouement", "english": "the ending, the resolution", "partOfSpeech": "noun", "gender": "m", "plural": "les dénouements", "pronunciation": "luh day-noo-MAHN", "example": "Le dénouement m'a surpris et je n'ai rien dit à personne.", "exampleEnglish": "The resolution surprised me and I didn't tell anyone.", "level": "B1", "category": "cinema" },
+            { "id": "le-rebondissement", "french": "le rebondissement", "english": "the twist", "partOfSpeech": "noun", "gender": "m", "plural": "les rebondissements", "pronunciation": "luh ruh-bon-deess-MAHN", "example": "Il y a un rebondissement toutes les dix minutes.", "exampleEnglish": "There's a twist every ten minutes.", "level": "B1", "category": "cinema" },
+            { "id": "le-suspense", "french": "le suspense", "english": "the suspense", "partOfSpeech": "noun", "gender": "m", "plural": "les suspenses", "pronunciation": "luh soos-PAHNSS", "example": "Le suspense monte jusqu'à la dernière séquence.", "exampleEnglish": "The suspense builds until the last sequence.", "level": "B1", "category": "cinema" },
+            { "id": "emouvant", "french": "émouvant", "english": "moving, touching", "partOfSpeech": "adjective", "pronunciation": "ay-moo-VAHN", "example": "C'est un film émouvant sans être sentimental.", "exampleEnglish": "It's a moving film without being sentimental.", "level": "B1", "category": "opinion" },
+            { "id": "bouleversant", "french": "bouleversant", "english": "deeply moving, devastating", "partOfSpeech": "adjective", "pronunciation": "bool-vehr-SAHN", "example": "La dernière demi-heure est vraiment bouleversante.", "exampleEnglish": "The last half hour is truly devastating.", "level": "B1", "category": "opinion" },
+            { "id": "captivant", "french": "captivant", "english": "gripping, captivating", "partOfSpeech": "adjective", "pronunciation": "kap-tee-VAHN", "example": "Le début est lent, puis ça devient captivant.", "exampleEnglish": "The beginning is slow, then it becomes gripping.", "level": "B1", "category": "opinion" },
+            { "id": "decevant", "french": "décevant", "english": "disappointing", "partOfSpeech": "adjective", "pronunciation": "day-suh-VAHN", "example": "Après un tel début, la fin est décevante.", "exampleEnglish": "After such a beginning, the ending is disappointing.", "level": "B1", "category": "opinion" },
+            { "id": "previsible", "french": "prévisible", "english": "predictable", "partOfSpeech": "adjective", "pronunciation": "pray-vee-ZEE-bluh", "example": "On devine tout : c'est trop prévisible.", "exampleEnglish": "You guess everything: it's too predictable.", "level": "B1", "category": "opinion" },
+            { "id": "le-chef-d-oeuvre", "french": "le chef-d'œuvre", "english": "the masterpiece", "partOfSpeech": "noun", "gender": "m", "plural": "les chefs-d'œuvre", "pronunciation": "luh sheh-DUH-vruh", "example": "Ce n'est pas un chef-d'œuvre, mais c'est honnête.", "exampleEnglish": "It's not a masterpiece, but it's decent.", "level": "B1", "category": "opinion" },
+            { "id": "un-navet", "french": "un navet", "english": "a turkey, a terrible film", "partOfSpeech": "noun", "gender": "m", "plural": "des navets", "pronunciation": "uhn nah-VEH", "example": "Tout le monde le dit : c'est un navet.", "exampleEnglish": "Everyone says it: it's a turkey.", "level": "B1", "category": "opinion" },
+            { "id": "la-critique", "french": "la critique", "english": "the review, the criticism", "partOfSpeech": "noun", "gender": "f", "plural": "les critiques", "pronunciation": "lah kree-TEEK", "example": "La critique du journal était très sévère.", "exampleEnglish": "The newspaper review was very harsh.", "level": "B1", "category": "cinema" },
+            { "id": "les-sous-titres", "french": "les sous-titres", "english": "the subtitles", "partOfSpeech": "noun", "gender": "m", "plural": "les sous-titres", "pronunciation": "lay soo-TEE-truh", "example": "Je regarde toujours avec les sous-titres français.", "exampleEnglish": "I always watch with French subtitles.", "level": "B1", "category": "cinema" },
+            { "id": "la-version-originale", "french": "la version originale", "english": "the original version (undubbed)", "partOfSpeech": "noun", "gender": "f", "plural": "les versions originales", "pronunciation": "lah vehr-syon o-ree-zhee-NAL", "example": "En version originale, les dialogues sonnent mieux.", "exampleEnglish": "In the original version, the dialogue sounds better.", "level": "B1", "category": "cinema" },
+            { "id": "resumer", "french": "résumer", "english": "to summarise", "partOfSpeech": "verb", "pronunciation": "ray-zew-MAY", "example": "Résume-moi l'intrigue en trois phrases.", "exampleEnglish": "Summarise the plot for me in three sentences.", "level": "B1", "category": "cinema" },
+            { "id": "recommander", "french": "recommander", "english": "to recommend", "partOfSpeech": "verb", "pronunciation": "ruh-ko-mahn-DAY", "example": "Je te recommande la séance de 20 h.", "exampleEnglish": "I recommend the 8 p.m. screening to you.", "level": "B1", "category": "opinion" },
+            { "id": "le-spectateur", "french": "le spectateur", "english": "the viewer, the audience member", "partOfSpeech": "noun", "gender": "m", "plural": "les spectateurs", "pronunciation": "luh spek-tah-TUR", "example": "Le spectateur comprend avant les personnages.", "exampleEnglish": "The viewer understands before the characters do.", "level": "B1", "category": "cinema" },
+            { "id": "la-seance", "french": "la séance", "english": "the screening, the showing", "partOfSpeech": "noun", "gender": "f", "plural": "les séances", "pronunciation": "lah say-AHNSS", "example": "La séance de 14 h est moins chère.", "exampleEnglish": "The 2 p.m. screening is cheaper.", "level": "B1", "category": "cinema" },
+            { "id": "le-long-metrage", "french": "le long métrage", "english": "the feature film", "partOfSpeech": "noun", "gender": "m", "plural": "les longs métrages", "pronunciation": "luh lon may-TRAHZH", "example": "C'est son premier long métrage.", "exampleEnglish": "It's her first feature film.", "level": "B1", "category": "cinema" },
+            { "id": "l-ecran", "french": "l'écran", "english": "the screen", "partOfSpeech": "noun", "gender": "m", "plural": "les écrans", "pronunciation": "lay-KRAHN", "example": "Sur grand écran, les paysages sont magnifiques.", "exampleEnglish": "On the big screen, the landscapes are magnificent.", "level": "B1", "category": "cinema" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Passé composé vs imparfait in a plot summary",
+              "body": "Think of the passé composé as the camera moving and the imparfait as the camera holding still. Completed events that advance the story go in the passé composé; descriptions, ongoing situations, repeated habits and states of mind go in the imparfait. A well-told summary alternates the two, often joined by « quand » or « soudain ».",
+              "examples": [
+                { "french": "Elle travaillait dans une librairie quand elle a reçu la lettre.", "english": "She was working in a bookshop when she received the letter.", "note": "imparfait = background, passé composé = event" },
+                { "french": "Le village était calme ; puis les gendarmes sont arrivés.", "english": "The village was quiet; then the police arrived." },
+                { "french": "Tous les soirs, il regardait la mer et il attendait.", "english": "Every evening, he would look at the sea and wait.", "note": "repeated habit → imparfait" },
+                { "french": "Soudain, la porte s'est ouverte et personne n'a bougé.", "english": "Suddenly, the door opened and nobody moved." },
+                { "french": "Il avait peur, mais il a quand même accepté.", "english": "He was afraid, but he accepted anyway.", "note": "state → imparfait; decision → passé composé" }
+              ],
+              "tip": "If you can add « et puis » before the verb, it is almost certainly a passé composé."
+            },
+            {
+              "heading": "Going further back: the plus-que-parfait",
+              "body": "When your summary needs a fact from before the story's own past — a secret, a crime, a childhood — use the plus-que-parfait: avoir or être in the imparfait plus the past participle. It is the tense of backstory, and it is very common after « que » and after « parce que ».",
+              "examples": [
+                { "french": "Elle a compris que son frère lui avait menti.", "english": "She understood that her brother had lied to her." },
+                { "french": "Le village s'était vidé bien avant leur retour.", "english": "The village had emptied long before their return." },
+                { "french": "Il pleurait parce qu'il avait perdu la seule photo de sa mère.", "english": "He was crying because he had lost the only photo of his mother." },
+                { "french": "Ils étaient partis sans laisser d'adresse.", "english": "They had left without leaving an address.", "note": "être verbs agree: partis" },
+                { "french": "On découvre à la fin qu'elle avait tout organisé.", "english": "We discover at the end that she had organised everything." }
+              ],
+              "tip": "The order of the sentence does not matter — the plus-que-parfait always marks the earlier event."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "b1_u16_l01_li01", "type": "listenChoose", "french": "L'histoire se déroule dans un village de pêcheurs.", "options": ["The story takes place in a fishing village.", "The story ends in a fishing boat.", "The fisherman tells a village story.", "The village story is over."], "answer": "The story takes place in a fishing village." },
+            { "id": "b1_u16_l01_li02", "type": "listenChoose", "french": "Le scénario est prévisible, mais les acteurs sont excellents.", "options": ["The script is predictable, but the actors are excellent.", "The script is excellent, but the actors are predictable.", "The script and the actors are disappointing.", "The actors wrote an excellent script."], "answer": "The script is predictable, but the actors are excellent." },
+            { "id": "b1_u16_l01_li03", "type": "listenType", "french": "Le dénouement m'a bouleversé.", "answer": "Le dénouement m'a bouleversé.", "acceptedAnswers": ["Le denouement m'a bouleverse", "le dénouement m'a bouleversé", "Le dénouement m'a bouleversé"] },
+            { "id": "b1_u16_l01_li04", "type": "dictation", "french": "Il pleuvait quand elle a quitté la ville.", "answer": "Il pleuvait quand elle a quitté la ville.", "acceptedAnswers": ["Il pleuvait quand elle a quitte la ville", "il pleuvait quand elle a quitté la ville", "Il pleuvait quand elle a quitté la ville"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "b1_u16_l01_sp01", "type": "speak", "french": "Il s'agit d'une famille qui cache un secret depuis vingt ans.", "english": "It's about a family that has been hiding a secret for twenty years.", "prompt": "Open your summary by saying what the film is about.", "tip": "« Il s'agit » is said ee-SAH-zhee — the l of « il » links straight into the s." },
+            { "id": "b1_u16_l01_sp02", "type": "speak", "french": "Le héros vivait seul quand une inconnue a frappé à sa porte.", "english": "The hero was living alone when a stranger knocked on his door.", "prompt": "Tell the turning point, mixing imparfait and passé composé.", "tip": "« héros » keeps an aspirated h: say lay-ay-ROH with no liaison after « les »." },
+            { "id": "b1_u16_l01_sp03", "type": "speak", "french": "Je l'ai trouvé captivant, car chaque rebondissement est justifié.", "english": "I found it gripping, because every twist is justified.", "prompt": "Give an opinion and immediately justify it.", "tip": "Nasal -ant in « captivant » stays in the nose: kap-tee-VAHN, no final t." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Une soirée au cinéma",
+              "french": "Samedi soir, Inès et Karim sont allés voir « Les Ombres de Marseille », le nouveau long métrage de la réalisatrice Salomé Bréart.\nLa séance de 21 h était presque complète ; ils ont trouvé deux places au troisième rang.\nL'histoire se déroule dans le vieux port, pendant un été de canicule.\nUn jeune serveur, Rémi, travaillait dans le restaurant de son oncle quand un client a oublié un sac plein de billets.\nAu lieu de le rendre, Rémi l'a caché sous son lit et n'a rien dit à personne.\nPendant une heure, le suspense monte : on comprend peu à peu que l'oncle avait déjà connu cet homme.\nInès a trouvé le premier rebondissement excellent, mais le deuxième trop prévisible.\n« Franchement, dès que la sœur apparaît, on devine tout », a-t-elle dit à la sortie.\nKarim, lui, a défendu le film : selon lui, la bande originale et le jeu des acteurs suffisent largement.\n« Ce n'est pas un chef-d'œuvre, d'accord, mais ce n'est certainement pas un navet. »\nIls se sont mis d'accord sur une chose : la dernière séquence, filmée sans musique, est vraiment bouleversante.\nEn rentrant, Inès a écrit une petite critique sur son blog et lui a mis trois étoiles sur cinq.",
+              "english": "On Saturday evening, Inès and Karim went to see \"The Shadows of Marseille\", the new feature film by the director Salomé Bréart.\nThe 9 p.m. screening was almost full; they found two seats in the third row.\nThe story takes place in the old port, during a heatwave summer.\nA young waiter, Rémi, was working in his uncle's restaurant when a customer forgot a bag full of banknotes.\nInstead of giving it back, Rémi hid it under his bed and said nothing to anyone.\nFor an hour, the suspense builds: little by little we understand that the uncle had already known that man.\nInès found the first twist excellent, but the second one too predictable.\n\"Honestly, as soon as the sister appears, you guess everything,\" she said on the way out.\nKarim, for his part, defended the film: in his view, the soundtrack and the acting are more than enough.\n\"It's not a masterpiece, fine, but it's certainly not a turkey.\"\nThey agreed on one thing: the last sequence, filmed without music, is truly devastating.\nOn the way home, Inès wrote a short review on her blog and gave it three stars out of five.",
+              "questions": [
+                { "id": "b1_u16_l01_rd01", "type": "multipleChoice", "prompt": "Que fait Rémi du sac oublié ?", "options": ["Il le cache sous son lit.", "Il le rend au client.", "Il le donne à son oncle.", "Il le jette dans le port."], "answer": "Il le cache sous son lit." },
+                { "id": "b1_u16_l01_rd02", "type": "trueFalse", "prompt": "Inès et Karim ont exactement le même avis sur le film.", "options": ["True", "False"], "answer": "False" },
+                { "id": "b1_u16_l01_rd03", "type": "multipleChoice", "prompt": "Sur quoi les deux amis sont-ils d'accord ?", "options": ["La dernière séquence est bouleversante.", "La bande originale est ratée.", "Le film dure trop longtemps.", "La séance était trop chère."], "answer": "La dernière séquence est bouleversante." }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "b1_u16_l01_wr01", "type": "translate", "prompt": "It's about a young waiter who finds a bag of money.", "english": "It's about a young waiter who finds a bag of money.", "answer": "Il s'agit d'un jeune serveur qui trouve un sac d'argent.", "acceptedAnswers": ["Il s'agit d'un jeune serveur qui trouve un sac d'argent", "Ça parle d'un jeune serveur qui trouve un sac d'argent", "Il s'agit d'un jeune serveur qui trouve un sac plein d'argent"] },
+            { "id": "b1_u16_l01_wr02", "type": "translate", "prompt": "The story takes place in Marseille during a heatwave summer.", "english": "The story takes place in Marseille during a heatwave summer.", "answer": "L'histoire se déroule à Marseille pendant un été de canicule.", "acceptedAnswers": ["L'histoire se déroule à Marseille pendant un été de canicule", "L'histoire se passe à Marseille pendant un été de canicule", "L histoire se deroule a Marseille pendant un ete de canicule"] },
+            { "id": "b1_u16_l01_wr03", "type": "translate", "prompt": "I found the ending disappointing, because everything was predictable.", "english": "I found the ending disappointing, because everything was predictable.", "answer": "J'ai trouvé la fin décevante, parce que tout était prévisible.", "acceptedAnswers": ["J'ai trouvé la fin décevante, parce que tout était prévisible", "J'ai trouvé la fin décevante car tout était prévisible", "J ai trouve la fin decevante parce que tout etait previsible"] }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "b1_u16_l01_pr01", "type": "fillBlank", "prompt": "Il ___ (travailler) au restaurant quand le client est entré.", "answer": "travaillait" },
+            { "id": "b1_u16_l01_pr02", "type": "fillBlank", "prompt": "Elle a compris que son frère lui ___ menti.", "answer": "avait" },
+            { "id": "b1_u16_l01_pr03", "type": "arrangeWords", "words": ["se", "port", "vieux", "L'histoire", "déroule", "le", "dans"], "answer": "L'histoire se déroule dans le vieux port", "english": "The story takes place in the old port" },
+            { "id": "b1_u16_l01_pr04", "type": "match", "pairs": [{ "french": "la bande-annonce", "english": "the trailer" }, { "french": "le générique", "english": "the credits" }, { "french": "un navet", "english": "a terrible film" }, { "french": "le rebondissement", "english": "the twist" }] },
+            { "id": "b1_u16_l01_pr05", "type": "multipleChoice", "prompt": "Quelle phrase donne une opinion justifiée ?", "options": ["C'était captivant, car le suspense ne retombe jamais.", "C'était bien.", "J'ai vu un film hier soir.", "La séance était à 21 h."], "answer": "C'était captivant, car le suspense ne retombe jamais." },
+            { "id": "b1_u16_l01_pr06", "type": "translate", "prompt": "The director shot her first feature film in Brittany.", "english": "The director shot her first feature film in Brittany.", "answer": "La réalisatrice a tourné son premier long métrage en Bretagne.", "acceptedAnswers": ["La réalisatrice a tourné son premier long métrage en Bretagne", "La realisatrice a tourne son premier long metrage en Bretagne"] }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "b1_u16_l01_qz01", "type": "multipleChoice", "prompt": "Comment dit-on « It's about a family » ?", "options": ["Il s'agit d'une famille", "Le film s'agit d'une famille", "Il est agi d'une famille", "Ça s'agit une famille"], "answer": "Il s'agit d'une famille" },
+            { "id": "b1_u16_l01_qz02", "type": "fillBlank", "prompt": "Le village ___ calme quand les gendarmes sont arrivés.", "answer": "était" },
+            { "id": "b1_u16_l01_qz03", "type": "multipleChoice", "prompt": "« Un navet », c'est…", "options": ["un très mauvais film", "un chef-d'œuvre", "une bande originale", "un acteur célèbre"], "answer": "un très mauvais film" },
+            { "id": "b1_u16_l01_qz04", "type": "trueFalse", "prompt": "Le plus-que-parfait sert à raconter un fait antérieur au récit.", "options": ["True", "False"], "answer": "True" },
+            { "id": "b1_u16_l01_qz05", "type": "translate", "prompt": "I recommend it to you if you like slow stories.", "english": "I recommend it to you if you like slow stories.", "answer": "Je te le recommande si tu aimes les histoires lentes.", "acceptedAnswers": ["Je te le recommande si tu aimes les histoires lentes", "Je vous le recommande si vous aimez les histoires lentes"] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1_u16_l02",
+      "level": "B1",
+      "unit": 16,
+      "title": "Le roman",
+      "description": "Talk about literary genres and characters, and recommend a book convincingly.",
+      "estimatedMinutes": 18,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Naming the genre",
+              "body": "French readers classify books first by genre. The pattern is « un roman + de/d' + genre » or « un roman + adjective »: un roman policier, un roman d'amour, un roman historique. Note that « un policier » on its own can mean the book or a police officer, so keep « roman » when the context is not obvious.",
+              "examples": [
+                { "french": "C'est un roman policier qui se passe à Lille.", "english": "It's a crime novel set in Lille." },
+                { "french": "Je lis surtout de la science-fiction et du fantastique.", "english": "I mostly read science fiction and fantasy." },
+                { "french": "Elle vient de publier un recueil de nouvelles.", "english": "She has just published a collection of short stories." },
+                { "french": "Ce n'est pas une biographie, c'est un récit personnel.", "english": "It isn't a biography, it's a personal account." },
+                { "french": "Le premier tome fait six cents pages.", "english": "The first volume is six hundred pages long." }
+              ],
+              "tip": "« Une nouvelle » is a short story; « les nouvelles » (plural) is the news. Context decides."
+            },
+            {
+              "heading": "Describing characters and writing",
+              "body": "To talk about a book, you need words for the people in it and for how it is written. Le narrateur tells the story; le protagoniste is the main character. For the writing itself, use « le style », « l'écriture » and adjectives such as attachant, envoûtant and haletant. French speakers happily say « une écriture simple » where English would say plain prose.",
+              "examples": [
+                { "french": "Le narrateur est un enfant de dix ans, ce qui change tout.", "english": "The narrator is a ten-year-old child, which changes everything." },
+                { "french": "La protagoniste est attachante malgré ses défauts.", "english": "The main character is endearing despite her flaws." },
+                { "french": "L'écriture est simple, presque sèche, et c'est sa force.", "english": "The writing is simple, almost dry, and that is its strength." },
+                { "french": "Le style est envoûtant : on entend la mer à chaque page.", "english": "The style is spellbinding: you can hear the sea on every page." },
+                { "french": "Les cent dernières pages sont haletantes.", "english": "The last hundred pages are breathless." }
+              ],
+              "tip": "« Dévorer un livre » (to devour a book) is the standard compliment for a page-turner."
+            },
+            {
+              "heading": "Recommending a book",
+              "body": "A recommendation in French normally names the reader it suits, not just the book. Use « je te conseille de + infinitif », « si tu aimes…, tu vas adorer » or « c'est fait pour toi ». Add a light warning if needed — French readers appreciate honesty about slow beginnings.",
+              "examples": [
+                { "french": "Je te conseille de commencer par le deuxième tome.", "english": "I advise you to start with the second volume." },
+                { "french": "Si tu aimes les intrigues lentes, tu vas adorer.", "english": "If you like slow plots, you're going to love it." },
+                { "french": "Accroche-toi : les cinquante premières pages sont difficiles.", "english": "Hang in there: the first fifty pages are hard." },
+                { "french": "Je l'ai emprunté à la bibliothèque et je l'ai dévoré.", "english": "I borrowed it from the library and devoured it." },
+                { "french": "Lis la quatrième de couverture, tu verras si ça te tente.", "english": "Read the blurb, you'll see if it appeals to you." }
+              ],
+              "tip": "« Ça te tente ? » (does that appeal to you?) is the friendliest way to close a recommendation."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "le-roman", "french": "le roman", "english": "the novel", "partOfSpeech": "noun", "gender": "m", "plural": "les romans", "pronunciation": "luh ro-MAHN", "example": "Ce roman m'a tenu éveillé jusqu'à deux heures du matin.", "exampleEnglish": "This novel kept me awake until two in the morning.", "level": "B1", "category": "literature" },
+            { "id": "le-romancier", "french": "le romancier", "english": "the novelist", "partOfSpeech": "noun", "gender": "m", "plural": "les romanciers", "pronunciation": "luh ro-mahn-SYAY", "example": "Le romancier n'accorde presque jamais d'interviews.", "exampleEnglish": "The novelist almost never gives interviews.", "level": "B1", "category": "literature" },
+            { "id": "la-romanciere", "french": "la romancière", "english": "the novelist (woman)", "partOfSpeech": "noun", "gender": "f", "plural": "les romancières", "pronunciation": "lah ro-mahn-SYEHR", "example": "La romancière écrit toujours à la main.", "exampleEnglish": "The novelist always writes by hand.", "level": "B1", "category": "literature" },
+            { "id": "l-ecrivain", "french": "l'écrivain", "english": "the writer", "partOfSpeech": "noun", "gender": "m", "plural": "les écrivains", "pronunciation": "lay-kree-VAN", "example": "C'est l'écrivain préféré de ma mère.", "exampleEnglish": "He's my mother's favourite writer.", "level": "B1", "category": "literature" },
+            { "id": "l-auteur", "french": "l'auteur", "english": "the author", "partOfSpeech": "noun", "gender": "m", "plural": "les auteurs", "pronunciation": "loh-TUR", "example": "L'auteur signera ses livres samedi à la librairie.", "exampleEnglish": "The author will sign his books on Saturday at the bookshop.", "level": "B1", "category": "literature" },
+            { "id": "le-chapitre", "french": "le chapitre", "english": "the chapter", "partOfSpeech": "noun", "gender": "m", "plural": "les chapitres", "pronunciation": "luh shah-PEE-truh", "example": "Chaque chapitre change de narrateur.", "exampleEnglish": "Each chapter changes narrator.", "level": "B1", "category": "literature" },
+            { "id": "le-recit", "french": "le récit", "english": "the narrative, the account", "partOfSpeech": "noun", "gender": "m", "plural": "les récits", "pronunciation": "luh ray-SEE", "example": "C'est le récit d'un voyage raté en Islande.", "exampleEnglish": "It's the account of a failed trip to Iceland.", "level": "B1", "category": "literature" },
+            { "id": "la-narration", "french": "la narration", "english": "the narration", "partOfSpeech": "noun", "gender": "f", "plural": "les narrations", "pronunciation": "lah nah-rah-SYON", "example": "La narration alterne entre 1940 et aujourd'hui.", "exampleEnglish": "The narration alternates between 1940 and today.", "level": "B1", "category": "literature" },
+            { "id": "le-narrateur", "french": "le narrateur", "english": "the narrator", "partOfSpeech": "noun", "gender": "m", "plural": "les narrateurs", "pronunciation": "luh nah-rah-TUR", "example": "On ne peut pas faire confiance au narrateur.", "exampleEnglish": "You can't trust the narrator.", "level": "B1", "category": "literature" },
+            { "id": "le-genre-litteraire", "french": "le genre littéraire", "english": "the literary genre", "partOfSpeech": "noun", "gender": "m", "plural": "les genres littéraires", "pronunciation": "luh zhahn-ruh lee-tay-REHR", "example": "Ce livre mélange deux genres littéraires.", "exampleEnglish": "This book mixes two literary genres.", "level": "B1", "category": "literature" },
+            { "id": "le-roman-policier", "french": "le roman policier", "english": "the crime novel", "partOfSpeech": "noun", "gender": "m", "plural": "les romans policiers", "pronunciation": "luh ro-mahn po-lee-SYAY", "example": "Je ne lis que des romans policiers en vacances.", "exampleEnglish": "I only read crime novels on holiday.", "level": "B1", "category": "literature" },
+            { "id": "la-science-fiction", "french": "la science-fiction", "english": "science fiction", "partOfSpeech": "noun", "gender": "f", "plural": "les science-fictions", "pronunciation": "lah syahnss-feek-SYON", "example": "La science-fiction pose souvent des questions politiques.", "exampleEnglish": "Science fiction often raises political questions.", "level": "B1", "category": "literature" },
+            { "id": "le-fantastique", "french": "le fantastique", "english": "the fantasy/uncanny genre", "partOfSpeech": "noun", "gender": "m", "plural": "les fantastiques", "pronunciation": "luh fahn-tass-TEEK", "example": "Dans le fantastique, l'étrange entre dans la vie ordinaire.", "exampleEnglish": "In the fantastic genre, the strange enters ordinary life.", "level": "B1", "category": "literature" },
+            { "id": "le-thriller", "french": "le thriller", "english": "the thriller", "partOfSpeech": "noun", "gender": "m", "plural": "les thrillers", "pronunciation": "luh sree-LEUR", "example": "C'est un thriller psychologique sans une goutte de sang.", "exampleEnglish": "It's a psychological thriller without a drop of blood.", "level": "B1", "category": "literature" },
+            { "id": "la-biographie", "french": "la biographie", "english": "the biography", "partOfSpeech": "noun", "gender": "f", "plural": "les biographies", "pronunciation": "lah bee-o-grah-FEE", "example": "Sa biographie explique enfin ce silence de dix ans.", "exampleEnglish": "His biography finally explains that ten-year silence.", "level": "B1", "category": "literature" },
+            { "id": "le-recueil", "french": "le recueil", "english": "the collection (of poems, stories)", "partOfSpeech": "noun", "gender": "m", "plural": "les recueils", "pronunciation": "luh ruh-KUH-yuh", "example": "J'ai offert un recueil de poèmes à mon frère.", "exampleEnglish": "I gave my brother a collection of poems.", "level": "B1", "category": "literature" },
+            { "id": "la-nouvelle", "french": "la nouvelle", "english": "the short story", "partOfSpeech": "noun", "gender": "f", "plural": "les nouvelles", "pronunciation": "lah noo-VELL", "example": "La dernière nouvelle du recueil fait quatre pages.", "exampleEnglish": "The last short story in the collection is four pages long.", "level": "B1", "category": "literature" },
+            { "id": "la-poesie", "french": "la poésie", "english": "poetry", "partOfSpeech": "noun", "gender": "f", "plural": "les poésies", "pronunciation": "lah po-ay-ZEE", "example": "Je lis de la poésie le soir, à voix haute.", "exampleEnglish": "I read poetry in the evening, out loud.", "level": "B1", "category": "literature" },
+            { "id": "le-poeme", "french": "le poème", "english": "the poem", "partOfSpeech": "noun", "gender": "m", "plural": "les poèmes", "pronunciation": "luh po-EM", "example": "Ce poème tient en quatre vers.", "exampleEnglish": "This poem fits into four lines.", "level": "B1", "category": "literature" },
+            { "id": "la-maison-d-edition", "french": "la maison d'édition", "english": "the publishing house", "partOfSpeech": "noun", "gender": "f", "plural": "les maisons d'édition", "pronunciation": "lah may-zon day-dee-SYON", "example": "Une petite maison d'édition l'a publié la première.", "exampleEnglish": "A small publishing house published him first.", "level": "B1", "category": "literature" },
+            { "id": "publier", "french": "publier", "english": "to publish", "partOfSpeech": "verb", "pronunciation": "pew-blee-AY", "example": "Elle a publié son premier roman à quarante ans.", "exampleEnglish": "She published her first novel at forty.", "level": "B1", "category": "literature" },
+            { "id": "l-editeur", "french": "l'éditeur", "english": "the publisher, the editor", "partOfSpeech": "noun", "gender": "m", "plural": "les éditeurs", "pronunciation": "lay-dee-TUR", "example": "Son éditeur lui a demandé de couper cent pages.", "exampleEnglish": "Her publisher asked her to cut a hundred pages.", "level": "B1", "category": "literature" },
+            { "id": "la-quatrieme-de-couverture", "french": "la quatrième de couverture", "english": "the back-cover blurb", "partOfSpeech": "noun", "gender": "f", "plural": "les quatrièmes de couverture", "pronunciation": "lah kah-tree-EM duh koo-vehr-TEWR", "example": "La quatrième de couverture ne dit presque rien de l'intrigue.", "exampleEnglish": "The back-cover blurb says almost nothing about the plot.", "level": "B1", "category": "literature" },
+            { "id": "l-extrait", "french": "l'extrait", "english": "the extract, the excerpt", "partOfSpeech": "noun", "gender": "m", "plural": "les extraits", "pronunciation": "lex-TREH", "example": "Le libraire a lu un extrait à voix haute.", "exampleEnglish": "The bookseller read an extract out loud.", "level": "B1", "category": "literature" },
+            { "id": "feuilleter", "french": "feuilleter", "english": "to leaf through, to flick through", "partOfSpeech": "verb", "pronunciation": "fuh-yuh-TAY", "example": "J'ai feuilleté le livre avant de l'acheter.", "exampleEnglish": "I flicked through the book before buying it.", "level": "B1", "category": "literature" },
+            { "id": "devorer", "french": "dévorer", "english": "to devour (a book)", "partOfSpeech": "verb", "pronunciation": "day-vo-RAY", "example": "J'ai dévoré les trois tomes en une semaine.", "exampleEnglish": "I devoured the three volumes in one week.", "level": "B1", "category": "literature" },
+            { "id": "le-lecteur", "french": "le lecteur", "english": "the reader", "partOfSpeech": "noun", "gender": "m", "plural": "les lecteurs", "pronunciation": "luh lek-TUR", "example": "Le lecteur en sait plus que les personnages.", "exampleEnglish": "The reader knows more than the characters.", "level": "B1", "category": "literature" },
+            { "id": "la-lecture", "french": "la lecture", "english": "reading", "partOfSpeech": "noun", "gender": "f", "plural": "les lectures", "pronunciation": "lah lek-TEWR", "example": "C'est une lecture parfaite pour un long trajet.", "exampleEnglish": "It's a perfect read for a long journey.", "level": "B1", "category": "literature" },
+            { "id": "le-style", "french": "le style", "english": "the style", "partOfSpeech": "noun", "gender": "m", "plural": "les styles", "pronunciation": "luh STEEL", "example": "Son style est reconnaissable dès la première ligne.", "exampleEnglish": "Her style is recognisable from the first line.", "level": "B1", "category": "literature" },
+            { "id": "l-ecriture", "french": "l'écriture", "english": "the writing (prose)", "partOfSpeech": "noun", "gender": "f", "plural": "les écritures", "pronunciation": "lay-kree-TEWR", "example": "L'écriture est sobre et pleine d'humour.", "exampleEnglish": "The writing is understated and full of humour.", "level": "B1", "category": "literature" },
+            { "id": "attachant", "french": "attachant", "english": "endearing, likeable", "partOfSpeech": "adjective", "pronunciation": "ah-tah-SHAHN", "example": "Ses personnages sont maladroits et très attachants.", "exampleEnglish": "Her characters are clumsy and very endearing.", "level": "B1", "category": "opinion" },
+            { "id": "envoutant", "french": "envoûtant", "english": "spellbinding, bewitching", "partOfSpeech": "adjective", "pronunciation": "ahn-voo-TAHN", "example": "L'atmosphère du roman est envoûtante.", "exampleEnglish": "The novel's atmosphere is spellbinding.", "level": "B1", "category": "opinion" },
+            { "id": "haletant", "french": "haletant", "english": "breathless, gripping", "partOfSpeech": "adjective", "pronunciation": "ah-luh-TAHN", "example": "Le dernier chapitre est haletant.", "exampleEnglish": "The last chapter is breathless.", "level": "B1", "category": "opinion" },
+            { "id": "conseiller", "french": "conseiller", "english": "to recommend, to advise", "partOfSpeech": "verb", "pronunciation": "kon-say-YAY", "example": "Je te conseille de le lire avant l'été.", "exampleEnglish": "I advise you to read it before the summer.", "level": "B1", "category": "opinion" },
+            { "id": "le-protagoniste", "french": "le protagoniste", "english": "the main character", "partOfSpeech": "noun", "gender": "m", "plural": "les protagonistes", "pronunciation": "luh pro-tah-go-NEEST", "example": "Le protagoniste ne dit son nom qu'à la fin.", "exampleEnglish": "The main character only says his name at the end.", "level": "B1", "category": "literature" },
+            { "id": "le-tome", "french": "le tome", "english": "the volume (of a series)", "partOfSpeech": "noun", "gender": "m", "plural": "les tomes", "pronunciation": "luh TOHM", "example": "Le troisième tome sort en septembre.", "exampleEnglish": "The third volume comes out in September.", "level": "B1", "category": "literature" },
+            { "id": "la-trame", "french": "la trame", "english": "the storyline, the framework", "partOfSpeech": "noun", "gender": "f", "plural": "les trames", "pronunciation": "lah TRAHM", "example": "La trame est solide mais les dialogues sont faibles.", "exampleEnglish": "The storyline is solid but the dialogue is weak.", "level": "B1", "category": "literature" },
+            { "id": "emprunter", "french": "emprunter", "english": "to borrow", "partOfSpeech": "verb", "pronunciation": "ahn-pruhn-TAY", "example": "J'emprunte trois livres par mois à la bibliothèque.", "exampleEnglish": "I borrow three books a month from the library.", "level": "B1", "category": "literature" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Relative pronouns: qui, que, dont, où",
+              "body": "Book talk lives on relative pronouns — they let you pack a description into one sentence. Use « qui » when the missing word is the subject, « que » when it is the direct object, « dont » when the verb or noun needs « de », and « où » for place or time. Only « que » elides to « qu' ».",
+              "examples": [
+                { "french": "C'est un roman qui se passe pendant la guerre.", "english": "It's a novel that takes place during the war.", "note": "qui = subject of se passe" },
+                { "french": "Le livre que je t'ai prêté est déjà en poche.", "english": "The book I lent you is already out in paperback.", "note": "que = direct object" },
+                { "french": "C'est l'auteur dont je t'ai parlé hier.", "english": "That's the author I told you about yesterday.", "note": "parler de → dont" },
+                { "french": "Un récit dont la fin reste ouverte.", "english": "A narrative whose ending stays open.", "note": "dont also translates whose" },
+                { "french": "La librairie où j'achète mes romans ferme à 20 h.", "english": "The bookshop where I buy my novels closes at 8 p.m." },
+                { "french": "Le jour où j'ai découvert ce recueil, tout a changé.", "english": "The day I discovered this collection, everything changed.", "note": "où for time, not quand" }
+              ],
+              "tip": "Test for « dont »: put the verb in a simple sentence. « Je parle DE ce livre » → « le livre DONT je parle »."
+            },
+            {
+              "heading": "Advising: conseiller and the subjunctive",
+              "body": "Recommendations use two structures. With « conseiller », the person advised is an indirect object and the action is an infinitive: « je te conseille de lire ». But when you look for a book with certain qualities, or deny that one is good, French switches to the subjunctive after « je cherche un roman qui… » and « je ne crois pas que… ».",
+              "examples": [
+                { "french": "Je te conseille de lire le deuxième tome d'abord.", "english": "I advise you to read the second volume first.", "note": "conseiller à quelqu'un de + infinitif" },
+                { "french": "Il faut que tu ailles jusqu'au chapitre dix.", "english": "You have to get as far as chapter ten.", "note": "il faut que + subjonctif" },
+                { "french": "Je cherche un roman qui soit court et drôle.", "english": "I'm looking for a novel that is short and funny.", "note": "unknown book → subjonctif" },
+                { "french": "Je ne crois pas que ce soit son meilleur livre.", "english": "I don't think it's his best book." },
+                { "french": "Je doute qu'elle finisse la série cette année.", "english": "I doubt she'll finish the series this year." }
+              ],
+              "tip": "Positive « je crois que » keeps the indicative: « je crois que c'est excellent »."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "b1_u16_l02_li01", "type": "listenChoose", "french": "C'est l'auteur dont je t'ai parlé la semaine dernière.", "options": ["That's the author I told you about last week.", "That's the author who spoke to me last week.", "That's the book I read last week.", "I spoke to the author last week."], "answer": "That's the author I told you about last week." },
+            { "id": "b1_u16_l02_li02", "type": "listenChoose", "french": "Je cherche un roman qui soit court et vraiment drôle.", "options": ["I'm looking for a novel that is short and really funny.", "I found a short and funny novel.", "I'm looking for a short film that is funny.", "This novel is short but not funny."], "answer": "I'm looking for a novel that is short and really funny." },
+            { "id": "b1_u16_l02_li03", "type": "listenType", "french": "J'ai dévoré les trois tomes.", "answer": "J'ai dévoré les trois tomes.", "acceptedAnswers": ["J'ai devore les trois tomes", "j'ai dévoré les trois tomes", "J ai devore les trois tomes"] },
+            { "id": "b1_u16_l02_li04", "type": "dictation", "french": "La narration alterne entre deux époques.", "answer": "La narration alterne entre deux époques.", "acceptedAnswers": ["La narration alterne entre deux epoques", "la narration alterne entre deux époques", "La narration alterne entre deux époques"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "b1_u16_l02_sp01", "type": "speak", "french": "C'est un roman policier qui se passe dans une petite ville du Nord.", "english": "It's a crime novel set in a small town in the North.", "prompt": "Introduce a book by genre and setting.", "tip": "Link « roman policier » smoothly: ro-mahn-po-lee-SYAY, one flowing group." },
+            { "id": "b1_u16_l02_sp02", "type": "speak", "french": "La protagoniste est attachante, même quand elle ment.", "english": "The main character is endearing, even when she lies.", "prompt": "Describe the main character in one sentence.", "tip": "« attachante » ends in a clear -ahnt; the feminine e makes the t sound." },
+            { "id": "b1_u16_l02_sp03", "type": "speak", "french": "Je te conseille de le lire lentement, l'écriture mérite qu'on s'arrête.", "english": "I advise you to read it slowly, the writing deserves that you pause.", "prompt": "Recommend the book and say how to read it.", "tip": "In « qu'on s'arrête », keep the liaison light: kon sah-RET." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Un conseil de lecture",
+              "french": "Chère Léa,\nTu m'as demandé un roman pour tes vacances : j'ai trouvé exactement ce qu'il te faut.\nIl s'appelle « L'Enfant des dunes », et c'est le premier livre de la romancière Camille Verhoeven.\nC'est un récit d'à peine deux cent quarante pages, publié par une toute petite maison d'édition de Nantes.\nL'histoire est celle de Sœlig, une adolescente qui vit dans un village de la côte que la mer avale peu à peu.\nLa narration alterne entre son journal et la voix de sa grand-mère, dont on comprend le secret seulement au chapitre neuf.\nCe qui m'a frappée, c'est l'écriture : simple, presque sèche, mais capable de rendre le bruit du vent.\nLes cinquante premières pages sont lentes, je te préviens, alors accroche-toi.\nÀ partir du moment où Sœlig part chercher son père, le récit devient haletant et je l'ai dévoré en deux nuits.\nJe ne crois pas que ce soit un chef-d'œuvre, mais c'est le genre de livre qu'on garde.\nJe l'ai emprunté à la bibliothèque, puis je l'ai acheté le lendemain pour l'annoter.\nSi tu aimes les histoires de famille et les paysages, ça te tente sûrement.\nBonnes vacances, et raconte-moi ce que tu en as pensé !\nMalik",
+              "english": "Dear Léa,\nYou asked me for a novel for your holidays: I've found exactly what you need.\nIt's called \"The Child of the Dunes\", and it's the first book by the novelist Camille Verhoeven.\nIt's a narrative of barely two hundred and forty pages, published by a tiny publishing house in Nantes.\nThe story is that of Sœlig, a teenager who lives in a coastal village that the sea is swallowing little by little.\nThe narration alternates between her diary and her grandmother's voice, whose secret we only understand in chapter nine.\nWhat struck me is the writing: simple, almost dry, but able to convey the sound of the wind.\nThe first fifty pages are slow, I warn you, so hang in there.\nFrom the moment Sœlig leaves to look for her father, the narrative becomes breathless and I devoured it in two nights.\nI don't think it's a masterpiece, but it's the kind of book you keep.\nI borrowed it from the library, then bought it the next day so I could annotate it.\nIf you like family stories and landscapes, it will surely appeal to you.\nHave a good holiday, and tell me what you thought of it!\nMalik",
+              "questions": [
+                { "id": "b1_u16_l02_rd01", "type": "multipleChoice", "prompt": "Qui raconte l'histoire dans le roman ?", "options": ["Sœlig et sa grand-mère", "Sœlig et son père", "La romancière elle-même", "Malik et Léa"], "answer": "Sœlig et sa grand-mère" },
+                { "id": "b1_u16_l02_rd02", "type": "trueFalse", "prompt": "Malik trouve que le début du livre est lent.", "options": ["True", "False"], "answer": "True" },
+                { "id": "b1_u16_l02_rd03", "type": "multipleChoice", "prompt": "Pourquoi Malik a-t-il acheté le livre après l'avoir emprunté ?", "options": ["Pour pouvoir l'annoter", "Pour l'offrir à Léa", "Parce que la bibliothèque était fermée", "Parce qu'il avait perdu l'exemplaire"], "answer": "Pour pouvoir l'annoter" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "b1_u16_l02_wr01", "type": "translate", "prompt": "It's a crime novel that takes place in a coastal village.", "english": "It's a crime novel that takes place in a coastal village.", "answer": "C'est un roman policier qui se passe dans un village de la côte.", "acceptedAnswers": ["C'est un roman policier qui se passe dans un village de la côte", "C'est un roman policier qui se déroule dans un village de la côte", "C est un roman policier qui se passe dans un village de la cote"] },
+            { "id": "b1_u16_l02_wr02", "type": "translate", "prompt": "That's the author I told you about last week.", "english": "That's the author I told you about last week.", "answer": "C'est l'auteur dont je t'ai parlé la semaine dernière.", "acceptedAnswers": ["C'est l'auteur dont je t'ai parlé la semaine dernière", "C est l auteur dont je t ai parle la semaine derniere", "C'est l'écrivain dont je t'ai parlé la semaine dernière"] },
+            { "id": "b1_u16_l02_wr03", "type": "translate", "prompt": "I advise you to read it slowly; the writing is spellbinding.", "english": "I advise you to read it slowly; the writing is spellbinding.", "answer": "Je te conseille de le lire lentement ; l'écriture est envoûtante.", "acceptedAnswers": ["Je te conseille de le lire lentement ; l'écriture est envoûtante", "Je te conseille de le lire lentement, l'écriture est envoûtante", "Je vous conseille de le lire lentement ; l'écriture est envoûtante"] }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "b1_u16_l02_pr01", "type": "fillBlank", "prompt": "C'est le roman ___ je t'ai parlé hier soir.", "answer": "dont" },
+            { "id": "b1_u16_l02_pr02", "type": "fillBlank", "prompt": "La librairie ___ j'achète mes livres ferme le lundi.", "answer": "où" },
+            { "id": "b1_u16_l02_pr03", "type": "arrangeWords", "words": ["qui", "un", "court", "Je", "roman", "soit", "cherche"], "answer": "Je cherche un roman qui soit court", "english": "I'm looking for a novel that is short" },
+            { "id": "b1_u16_l02_pr04", "type": "match", "pairs": [{ "french": "la nouvelle", "english": "the short story" }, { "french": "le recueil", "english": "the collection" }, { "french": "la quatrième de couverture", "english": "the back-cover blurb" }, { "french": "le tome", "english": "the volume" }] },
+            { "id": "b1_u16_l02_pr05", "type": "multipleChoice", "prompt": "Complétez : « Je ne crois pas que ce ___ son meilleur livre. »", "options": ["soit", "est", "sera", "était"], "answer": "soit" },
+            { "id": "b1_u16_l02_pr06", "type": "translate", "prompt": "I borrowed it from the library and devoured it in two nights.", "english": "I borrowed it from the library and devoured it in two nights.", "answer": "Je l'ai emprunté à la bibliothèque et je l'ai dévoré en deux nuits.", "acceptedAnswers": ["Je l'ai emprunté à la bibliothèque et je l'ai dévoré en deux nuits", "Je l ai emprunte a la bibliotheque et je l ai devore en deux nuits"] }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "b1_u16_l02_qz01", "type": "multipleChoice", "prompt": "Quel pronom relatif après « le livre ___ j'ai lu hier » ?", "options": ["que", "qui", "dont", "où"], "answer": "que" },
+            { "id": "b1_u16_l02_qz02", "type": "fillBlank", "prompt": "Un récit ___ la fin reste ouverte.", "answer": "dont" },
+            { "id": "b1_u16_l02_qz03", "type": "multipleChoice", "prompt": "« Une nouvelle » en littérature, c'est…", "options": ["une histoire courte", "un journal", "un poème", "un long roman"], "answer": "une histoire courte" },
+            { "id": "b1_u16_l02_qz04", "type": "trueFalse", "prompt": "On dit « je te conseille de lire ce livre », pas « je te conseille lire ce livre ».", "options": ["True", "False"], "answer": "True" },
+            { "id": "b1_u16_l02_qz05", "type": "translate", "prompt": "The writing is simple, and the characters are endearing.", "english": "The writing is simple, and the characters are endearing.", "answer": "L'écriture est simple, et les personnages sont attachants.", "acceptedAnswers": ["L'écriture est simple, et les personnages sont attachants", "L ecriture est simple et les personnages sont attachants"] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1_u16_l03",
+      "level": "B1",
+      "unit": 16,
+      "title": "Adapter une œuvre",
+      "description": "Compare a book with its film adaptation: fidelity, choices, what is lost and what is gained.",
+      "estimatedMinutes": 17,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Talking about an adaptation",
+              "body": "The verb is « adapter », and the thing adapted is « une œuvre ». French uses « d'après » (based on) the way English uses \"from\": « un film d'après le roman de… ». To say how close the film stays to the book, the key words are fidèle, la fidélité, and their opposite, « s'éloigner de ».",
+              "examples": [
+                { "french": "C'est un film d'après le roman de Camille Verhoeven.", "english": "It's a film based on Camille Verhoeven's novel." },
+                { "french": "L'adaptation est très fidèle au livre.", "english": "The adaptation is very faithful to the book.", "note": "fidèle À, never fidèle de" },
+                { "french": "Le réalisateur s'éloigne beaucoup du texte original.", "english": "The director moves a long way away from the original text." },
+                { "french": "Certains lecteurs ont trouvé qu'il trahissait l'œuvre.", "english": "Some readers felt he was betraying the work." },
+                { "french": "On peut adapter un roman sans le copier.", "english": "You can adapt a novel without copying it." }
+              ],
+              "tip": "« Une adaptation libre » is the polite label for a film that changes almost everything."
+            },
+            {
+              "heading": "The choices a film makes",
+              "body": "An adaptation always cuts, adds and reshapes. Say what was done with supprimer, ajouter, modifier, condenser and simplifier, and then judge whether the choice works: « un choix réussi » or « un choix raté ». The passive with « être + participe » is very common here.",
+              "examples": [
+                { "french": "Deux personnages secondaires ont été supprimés.", "english": "Two secondary characters were cut." },
+                { "french": "Le réalisateur a ajouté une scène qui n'existe pas dans le livre.", "english": "The director added a scene that doesn't exist in the book." },
+                { "french": "Trois cents pages sont condensées en quarante minutes.", "english": "Three hundred pages are condensed into forty minutes." },
+                { "french": "La fin a été modifiée, et c'est un choix réussi.", "english": "The ending was changed, and it's a successful choice." },
+                { "french": "Comment justifier une simplification pareille ?", "english": "How can you justify such a simplification?" }
+              ],
+              "tip": "« Raté » is blunt: it means botched. Softer options are « discutable » or « moins convaincant »."
+            },
+            {
+              "heading": "What is lost, what is gained",
+              "body": "The heart of the comparison is a balance. French naturally sets the two media side by side with « par rapport à », « contrairement à », « alors que » and « tandis que ». What a book has is « l'imagination du lecteur »; what a film brings is le décor, les costumes, les effets spéciaux, la voix off and a soundtrack.",
+              "examples": [
+                { "french": "Par rapport au roman, le film perd la voix intérieure du narrateur.", "english": "Compared with the novel, the film loses the narrator's inner voice." },
+                { "french": "Contrairement au livre, le film montre tout de suite le coupable.", "english": "Unlike the book, the film shows the culprit straight away." },
+                { "french": "Le roman laisse imaginer le décor, alors que le film l'impose.", "english": "The novel lets you imagine the setting, whereas the film imposes it." },
+                { "french": "Le film gagne en émotion ce qu'il perd en détail.", "english": "The film gains in emotion what it loses in detail." },
+                { "french": "La voix off restitue une partie du texte, mais pas tout.", "english": "The voice-over conveys part of the text, but not all of it." }
+              ],
+              "tip": "« Gagner en » + noun (gagner en clarté, en rythme) is a very useful comparison formula."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "adaptation", "french": "l'adaptation", "english": "the adaptation", "partOfSpeech": "noun", "gender": "f", "plural": "les adaptations", "pronunciation": "lah-dap-tah-SYON", "example": "L'adaptation sort trois ans après le roman.", "exampleEnglish": "The adaptation comes out three years after the novel.", "level": "B1", "category": "cinema" },
+            { "id": "adapter", "french": "adapter", "english": "to adapt", "partOfSpeech": "verb", "pronunciation": "ah-dap-TAY", "example": "On ne peut pas tout adapter à l'écran.", "exampleEnglish": "You can't adapt everything for the screen.", "level": "B1", "category": "cinema" },
+            { "id": "l-oeuvre", "french": "l'œuvre", "english": "the work (of art)", "partOfSpeech": "noun", "gender": "f", "plural": "les œuvres", "pronunciation": "LUH-vruh", "example": "Le film respecte l'esprit de l'œuvre.", "exampleEnglish": "The film respects the spirit of the work.", "level": "B1", "category": "literature" },
+            { "id": "fidele", "french": "fidèle", "english": "faithful", "partOfSpeech": "adjective", "pronunciation": "fee-DEL", "example": "Cette version est fidèle au texte original.", "exampleEnglish": "This version is faithful to the original text.", "level": "B1", "category": "comparison" },
+            { "id": "la-fidelite", "french": "la fidélité", "english": "the faithfulness, the fidelity", "partOfSpeech": "noun", "gender": "f", "plural": "les fidélités", "pronunciation": "lah fee-day-lee-TAY", "example": "La fidélité au livre n'est pas toujours une qualité.", "exampleEnglish": "Faithfulness to the book isn't always a quality.", "level": "B1", "category": "comparison" },
+            { "id": "s-eloigner", "french": "s'éloigner", "english": "to move away, to depart from", "partOfSpeech": "verb", "pronunciation": "say-lwah-NYAY", "example": "Le scénario s'éloigne du roman dès la deuxième partie.", "exampleEnglish": "The script departs from the novel from the second part onwards.", "level": "B1", "category": "comparison" },
+            { "id": "trahir", "french": "trahir", "english": "to betray", "partOfSpeech": "verb", "pronunciation": "trah-EER", "example": "Certains lecteurs pensent que le film trahit le livre.", "exampleEnglish": "Some readers think the film betrays the book.", "level": "B1", "category": "comparison" },
+            { "id": "respecter", "french": "respecter", "english": "to respect, to keep to", "partOfSpeech": "verb", "pronunciation": "res-pek-TAY", "example": "Le réalisateur respecte l'ordre des chapitres.", "exampleEnglish": "The director keeps to the order of the chapters.", "level": "B1", "category": "comparison" },
+            { "id": "supprimer", "french": "supprimer", "english": "to cut out, to remove", "partOfSpeech": "verb", "pronunciation": "sew-pree-MAY", "example": "Ils ont supprimé tout un chapitre.", "exampleEnglish": "They cut out a whole chapter.", "level": "B1", "category": "comparison" },
+            { "id": "ajouter", "french": "ajouter", "english": "to add", "partOfSpeech": "verb", "pronunciation": "ah-zhoo-TAY", "example": "Le film ajoute une histoire d'amour inventée.", "exampleEnglish": "The film adds an invented love story.", "level": "B1", "category": "comparison" },
+            { "id": "modifier", "french": "modifier", "english": "to change, to modify", "partOfSpeech": "verb", "pronunciation": "mo-dee-fee-AY", "example": "Ils ont modifié la fin sans prévenir personne.", "exampleEnglish": "They changed the ending without warning anyone.", "level": "B1", "category": "comparison" },
+            { "id": "le-choix", "french": "le choix", "english": "the choice", "partOfSpeech": "noun", "gender": "m", "plural": "les choix", "pronunciation": "luh SHWAH", "example": "C'est un choix étonnant mais je le comprends.", "exampleEnglish": "It's a surprising choice but I understand it.", "level": "B1", "category": "comparison" },
+            { "id": "justifier", "french": "justifier", "english": "to justify", "partOfSpeech": "verb", "pronunciation": "zhews-tee-fee-AY", "example": "Rien ne justifie de couper ce personnage.", "exampleEnglish": "Nothing justifies cutting that character.", "level": "B1", "category": "comparison" },
+            { "id": "la-mise-en-scene", "french": "la mise en scène", "english": "the staging, the direction", "partOfSpeech": "noun", "gender": "f", "plural": "les mises en scène", "pronunciation": "lah meez ahn SEN", "example": "La mise en scène est sobre et très efficace.", "exampleEnglish": "The direction is understated and very effective.", "level": "B1", "category": "cinema" },
+            { "id": "le-montage", "french": "le montage", "english": "the editing", "partOfSpeech": "noun", "gender": "m", "plural": "les montages", "pronunciation": "luh mon-TAHZH", "example": "Le montage est trop rapide pour une histoire pareille.", "exampleEnglish": "The editing is too fast for a story like this.", "level": "B1", "category": "cinema" },
+            { "id": "le-decor", "french": "le décor", "english": "the set, the setting", "partOfSpeech": "noun", "gender": "m", "plural": "les décors", "pronunciation": "luh day-KOR", "example": "Les décors ont été construits sur la plage.", "exampleEnglish": "The sets were built on the beach.", "level": "B1", "category": "cinema" },
+            { "id": "les-costumes", "french": "les costumes", "english": "the costumes", "partOfSpeech": "noun", "gender": "m", "plural": "les costumes", "pronunciation": "lay koss-TEWM", "example": "Les costumes situent tout de suite l'époque.", "exampleEnglish": "The costumes place the period immediately.", "level": "B1", "category": "cinema" },
+            { "id": "les-effets-speciaux", "french": "les effets spéciaux", "english": "the special effects", "partOfSpeech": "noun", "gender": "m", "plural": "les effets spéciaux", "pronunciation": "lay-zay-feh spay-SYOH", "example": "Les effets spéciaux sont discrets, heureusement.", "exampleEnglish": "The special effects are discreet, thankfully.", "level": "B1", "category": "cinema" },
+            { "id": "la-voix-off", "french": "la voix off", "english": "the voice-over", "partOfSpeech": "noun", "gender": "f", "plural": "les voix off", "pronunciation": "lah vwah OFF", "example": "La voix off reprend des phrases entières du roman.", "exampleEnglish": "The voice-over takes whole sentences from the novel.", "level": "B1", "category": "cinema" },
+            { "id": "le-dialogue", "french": "le dialogue", "english": "the dialogue", "partOfSpeech": "noun", "gender": "m", "plural": "les dialogues", "pronunciation": "luh dee-ah-LOG", "example": "Les dialogues sonnent moins bien que dans le livre.", "exampleEnglish": "The dialogue sounds less good than in the book.", "level": "B1", "category": "cinema" },
+            { "id": "condenser", "french": "condenser", "english": "to condense", "partOfSpeech": "verb", "pronunciation": "kon-dahn-SAY", "example": "Il a fallu condenser deux tomes en un film.", "exampleEnglish": "Two volumes had to be condensed into one film.", "level": "B1", "category": "comparison" },
+            { "id": "simplifier", "french": "simplifier", "english": "to simplify", "partOfSpeech": "verb", "pronunciation": "san-plee-fee-AY", "example": "Le film simplifie beaucoup la relation entre les sœurs.", "exampleEnglish": "The film greatly simplifies the relationship between the sisters.", "level": "B1", "category": "comparison" },
+            { "id": "approfondir", "french": "approfondir", "english": "to develop further, to go deeper into", "partOfSpeech": "verb", "pronunciation": "ah-pro-fon-DEER", "example": "Le film approfondit le personnage de la grand-mère.", "exampleEnglish": "The film develops the grandmother's character further.", "level": "B1", "category": "comparison" },
+            { "id": "perdre", "french": "perdre", "english": "to lose", "partOfSpeech": "verb", "pronunciation": "PEHR-druh", "example": "En passant à l'écran, l'histoire perd son ironie.", "exampleEnglish": "In moving to the screen, the story loses its irony.", "level": "B1", "category": "comparison" },
+            { "id": "gagner", "french": "gagner", "english": "to gain, to win", "partOfSpeech": "verb", "pronunciation": "gah-NYAY", "example": "Le récit gagne en clarté mais perd en mystère.", "exampleEnglish": "The narrative gains in clarity but loses in mystery.", "level": "B1", "category": "comparison" },
+            { "id": "la-difference", "french": "la différence", "english": "the difference", "partOfSpeech": "noun", "gender": "f", "plural": "les différences", "pronunciation": "lah dee-fay-RAHNSS", "example": "La principale différence, c'est l'âge de l'héroïne.", "exampleEnglish": "The main difference is the heroine's age.", "level": "B1", "category": "comparison" },
+            { "id": "la-ressemblance", "french": "la ressemblance", "english": "the similarity, the resemblance", "partOfSpeech": "noun", "gender": "f", "plural": "les ressemblances", "pronunciation": "lah ruh-sahn-BLAHNSS", "example": "Les ressemblances s'arrêtent au premier tiers.", "exampleEnglish": "The similarities stop at the first third.", "level": "B1", "category": "comparison" },
+            { "id": "par-rapport-a", "french": "par rapport à", "english": "compared with, in relation to", "partOfSpeech": "expression", "pronunciation": "par rah-POR ah", "example": "Par rapport au livre, le film est beaucoup plus sombre.", "exampleEnglish": "Compared with the book, the film is much darker.", "level": "B1", "category": "comparison" },
+            { "id": "contrairement-a", "french": "contrairement à", "english": "unlike, contrary to", "partOfSpeech": "expression", "pronunciation": "kon-trehr-MAHN ah", "example": "Contrairement au roman, le film commence par la fin.", "exampleEnglish": "Unlike the novel, the film begins with the ending.", "level": "B1", "category": "comparison" },
+            { "id": "tandis-que", "french": "tandis que", "english": "whereas, while", "partOfSpeech": "conjunction", "pronunciation": "tahn-dee kuh", "example": "Le livre dure des années, tandis que le film tient en un été.", "exampleEnglish": "The book spans years, whereas the film fits into one summer.", "level": "B1", "category": "comparison" },
+            { "id": "alors-que", "french": "alors que", "english": "whereas, while", "partOfSpeech": "conjunction", "pronunciation": "ah-lor kuh", "example": "Le roman explique tout, alors que le film laisse un doute.", "exampleEnglish": "The novel explains everything, whereas the film leaves a doubt.", "level": "B1", "category": "comparison" },
+            { "id": "reussi", "french": "réussi", "english": "successful, well done", "partOfSpeech": "adjective", "pronunciation": "ray-ew-SEE", "example": "Le changement de fin est parfaitement réussi.", "exampleEnglish": "The change of ending is perfectly successful.", "level": "B1", "category": "opinion" },
+            { "id": "rate", "french": "raté", "english": "botched, failed", "partOfSpeech": "adjective", "pronunciation": "rah-TAY", "example": "La scène du procès est complètement ratée.", "exampleEnglish": "The trial scene is completely botched.", "level": "B1", "category": "opinion" },
+            { "id": "transposer", "french": "transposer", "english": "to transpose, to move (to another setting)", "partOfSpeech": "verb", "pronunciation": "trahnss-po-ZAY", "example": "Ils ont transposé l'action de 1900 à aujourd'hui.", "exampleEnglish": "They moved the action from 1900 to the present day.", "level": "B1", "category": "comparison" },
+            { "id": "l-imagination", "french": "l'imagination", "english": "the imagination", "partOfSpeech": "noun", "gender": "f", "plural": "les imaginations", "pronunciation": "lee-mah-zhee-nah-SYON", "example": "Le livre laisse plus de place à l'imagination.", "exampleEnglish": "The book leaves more room for the imagination.", "level": "B1", "category": "comparison" },
+            { "id": "la-version", "french": "la version", "english": "the version", "partOfSpeech": "noun", "gender": "f", "plural": "les versions", "pronunciation": "lah vehr-SYON", "example": "Je préfère la version du livre, sans hésiter.", "exampleEnglish": "I prefer the book's version, without hesitating.", "level": "B1", "category": "comparison" },
+            { "id": "l-atmosphere", "french": "l'atmosphère", "english": "the atmosphere", "partOfSpeech": "noun", "gender": "f", "plural": "les atmosphères", "pronunciation": "lat-moss-FEHR", "example": "L'atmosphère du roman est parfaitement rendue.", "exampleEnglish": "The novel's atmosphere is perfectly conveyed.", "level": "B1", "category": "comparison" },
+            { "id": "comparer", "french": "comparer", "english": "to compare", "partOfSpeech": "verb", "pronunciation": "kon-pah-RAY", "example": "On ne devrait peut-être pas comparer les deux.", "exampleEnglish": "Perhaps we shouldn't compare the two.", "level": "B1", "category": "comparison" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Comparing: plus / moins / aussi, meilleur and mieux",
+              "body": "To compare two works, use plus… que, moins… que and aussi… que with adjectives and adverbs, and plus de / moins de / autant de with nouns. Two forms are irregular: « bon » becomes « meilleur » (adjective) and « bien » becomes « mieux » (adverb). Never say « plus bon ».",
+              "examples": [
+                { "french": "Le film est plus sombre que le roman.", "english": "The film is darker than the novel." },
+                { "french": "Cette adaptation est moins fidèle que la précédente.", "english": "This adaptation is less faithful than the previous one." },
+                { "french": "Le livre est aussi drôle que triste.", "english": "The book is as funny as it is sad." },
+                { "french": "Le roman donne beaucoup plus de détails.", "english": "The novel gives many more details.", "note": "plus DE + noun" },
+                { "french": "La deuxième version est meilleure que la première.", "english": "The second version is better than the first.", "note": "adjective: meilleur(e)" },
+                { "french": "Le film rend mieux l'atmosphère que je ne pensais.", "english": "The film conveys the atmosphere better than I thought.", "note": "adverb: mieux" }
+              ],
+              "tip": "For superlatives, add the article: « la meilleure adaptation de l'année », « le moins réussi des trois films »."
+            },
+            {
+              "heading": "Contrast and concession",
+              "body": "Comparing a book and a film needs contrast connectors. « Alors que » and « tandis que » take the indicative and simply oppose two facts. « Bien que » and « quoique » express concession and require the subjunctive. « En revanche » and « par contre » start a new sentence, the first being more formal.",
+              "examples": [
+                { "french": "Le roman prend son temps, alors que le film va vite.", "english": "The novel takes its time, whereas the film moves fast." },
+                { "french": "Bien que le film soit court, il dit l'essentiel.", "english": "Although the film is short, it says what matters.", "note": "bien que + subjonctif" },
+                { "french": "Quoiqu'elle ait coupé la moitié du texte, la réalisatrice reste fidèle à l'esprit.", "english": "Although she cut half the text, the director stays faithful to the spirit." },
+                { "french": "Le décor est superbe ; en revanche, le montage est raté.", "english": "The set is superb; on the other hand, the editing is botched." },
+                { "french": "Par contre, la voix off m'a un peu gêné.", "english": "On the other hand, the voice-over bothered me a little.", "note": "conversational register" }
+              ],
+              "tip": "Remember: « bien que » = subjunctive, « alors que » = indicative. Mixing them up is the classic B1 slip."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "b1_u16_l03_li01", "type": "listenChoose", "french": "Par rapport au livre, le film est beaucoup plus sombre.", "options": ["Compared with the book, the film is much darker.", "Compared with the film, the book is much darker.", "The film and the book are equally dark.", "The book is longer than the film."], "answer": "Compared with the book, the film is much darker." },
+            { "id": "b1_u16_l03_li02", "type": "listenChoose", "french": "Bien que le film soit court, il dit l'essentiel.", "options": ["Although the film is short, it says what matters.", "Because the film is short, it says nothing.", "The film is short and says too much.", "If the film were short, it would say more."], "answer": "Although the film is short, it says what matters." },
+            { "id": "b1_u16_l03_li03", "type": "listenType", "french": "Deux personnages ont été supprimés.", "answer": "Deux personnages ont été supprimés.", "acceptedAnswers": ["Deux personnages ont ete supprimes", "deux personnages ont été supprimés", "Deux personnages ont été supprimés"] },
+            { "id": "b1_u16_l03_li04", "type": "dictation", "french": "Le film gagne en émotion ce qu'il perd en détail.", "answer": "Le film gagne en émotion ce qu'il perd en détail.", "acceptedAnswers": ["Le film gagne en emotion ce qu'il perd en detail", "le film gagne en émotion ce qu'il perd en détail", "Le film gagne en émotion ce qu il perd en détail"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "b1_u16_l03_sp01", "type": "speak", "french": "C'est un film d'après le roman de Camille Verhoeven.", "english": "It's a film based on Camille Verhoeven's novel.", "prompt": "Introduce the adaptation and name its source.", "tip": "« d'après » is one breath: dah-PREH, with a clear open è." },
+            { "id": "b1_u16_l03_sp02", "type": "speak", "french": "Le roman laisse imaginer le décor, alors que le film l'impose.", "english": "The novel lets you imagine the setting, whereas the film imposes it.", "prompt": "Contrast the two media in one sentence.", "tip": "Pause slightly before « alors que » — it marks the pivot of the sentence." },
+            { "id": "b1_u16_l03_sp03", "type": "speak", "french": "Bien que la fin soit différente, je trouve ce choix réussi.", "english": "Although the ending is different, I find this choice successful.", "prompt": "Concede a difference, then defend the choice.", "tip": "« soit » rhymes with « moi »: swah, short and closed." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Le livre ou le film ?",
+              "french": "Au club de lecture de Tours, la séance de jeudi portait sur « L'Enfant des dunes » et sur son adaptation par Théo Mercier.\nHuit personnes avaient lu le roman ; six seulement avaient vu le film.\n« Franchement, l'adaptation est bien plus fidèle que je ne le craignais », a commencé Nadia.\nElle a rappelé que le réalisateur avait gardé la structure en deux voix, ce qui n'était pas évident au cinéma.\nPour rendre le journal de Sœlig, il a choisi une voix off discrète, présente peut-être dix minutes en tout.\nHugo, lui, n'était pas d'accord : selon lui, le film supprime toute l'ironie du texte.\n« Deux personnages secondaires ont disparu, et la grand-mère devient beaucoup trop gentille », a-t-il protesté.\nNadia a reconnu que la fin avait été modifiée, mais elle a défendu ce choix.\nDans le roman, on ne sait pas si le père est vivant ; à l'écran, on le voit marcher sur la plage.\n« Le livre laisse imaginer, tandis que le film décide à notre place », a résumé Hugo.\nTout le monde s'est pourtant accordé sur un point : les décors et la lumière restituent parfaitement l'atmosphère des dunes.\nBien que le film perde en détail, il gagne en émotion, surtout dans la dernière demi-heure.\nÀ la fin de la séance, le groupe a voté : cinq voix pour le roman, trois pour le film.\nProchaine séance en octobre, et cette fois personne n'aura le droit de venir sans avoir lu le livre.",
+              "english": "At the Tours book club, Thursday's session was about \"The Child of the Dunes\" and its adaptation by Théo Mercier.\nEight people had read the novel; only six had seen the film.\n\"Honestly, the adaptation is far more faithful than I feared,\" Nadia began.\nShe pointed out that the director had kept the two-voice structure, which was not obvious to do on screen.\nTo convey Sœlig's diary, he chose a discreet voice-over, present perhaps ten minutes in total.\nHugo, for his part, disagreed: in his view the film cuts out all the irony of the text.\n\"Two secondary characters have disappeared, and the grandmother becomes far too kind,\" he protested.\nNadia acknowledged that the ending had been changed, but she defended that choice.\nIn the novel, you don't know whether the father is alive; on screen, you see him walking on the beach.\n\"The book lets you imagine, whereas the film decides for us,\" Hugo summed up.\nEveryone nevertheless agreed on one point: the sets and the light convey the atmosphere of the dunes perfectly.\nAlthough the film loses in detail, it gains in emotion, especially in the last half hour.\nAt the end of the session, the group voted: five votes for the novel, three for the film.\nNext session in October, and this time nobody will be allowed to come without having read the book.",
+              "questions": [
+                { "id": "b1_u16_l03_rd01", "type": "multipleChoice", "prompt": "Comment le réalisateur rend-il le journal de Sœlig ?", "options": ["Par une voix off discrète", "Par des sous-titres", "Par des lettres à l'écran", "Par un second narrateur adulte"], "answer": "Par une voix off discrète" },
+                { "id": "b1_u16_l03_rd02", "type": "trueFalse", "prompt": "Dans le film, on apprend que le père est vivant.", "options": ["True", "False"], "answer": "True" },
+                { "id": "b1_u16_l03_rd03", "type": "multipleChoice", "prompt": "Sur quoi tout le groupe est-il d'accord ?", "options": ["Les décors rendent bien l'atmosphère des dunes.", "La grand-mère est mieux traitée au cinéma.", "Le film est meilleur que le roman.", "L'ironie du texte est intacte."], "answer": "Les décors rendent bien l'atmosphère des dunes." }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "b1_u16_l03_wr01", "type": "translate", "prompt": "Compared with the novel, the film is much darker.", "english": "Compared with the novel, the film is much darker.", "answer": "Par rapport au roman, le film est beaucoup plus sombre.", "acceptedAnswers": ["Par rapport au roman, le film est beaucoup plus sombre", "Par rapport au roman le film est beaucoup plus sombre"] },
+            { "id": "b1_u16_l03_wr02", "type": "translate", "prompt": "Although the ending was changed, I find this choice successful.", "english": "Although the ending was changed, I find this choice successful.", "answer": "Bien que la fin ait été modifiée, je trouve ce choix réussi.", "acceptedAnswers": ["Bien que la fin ait été modifiée, je trouve ce choix réussi", "Bien que la fin ait ete modifiee je trouve ce choix reussi", "Bien que la fin soit modifiée, je trouve ce choix réussi"] },
+            { "id": "b1_u16_l03_wr03", "type": "translate", "prompt": "The book lets you imagine, whereas the film decides for us.", "english": "The book lets you imagine, whereas the film decides for us.", "answer": "Le livre laisse imaginer, tandis que le film décide à notre place.", "acceptedAnswers": ["Le livre laisse imaginer, tandis que le film décide à notre place", "Le livre laisse imaginer, alors que le film décide à notre place", "Le livre laisse imaginer tandis que le film decide a notre place"] }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "b1_u16_l03_pr01", "type": "fillBlank", "prompt": "Bien que le film ___ court, il dit l'essentiel.", "answer": "soit" },
+            { "id": "b1_u16_l03_pr02", "type": "fillBlank", "prompt": "Cette adaptation est ___ que la précédente : elle est vraiment excellente.", "answer": "meilleure" },
+            { "id": "b1_u16_l03_pr03", "type": "arrangeWords", "words": ["est", "au", "L'adaptation", "fidèle", "livre", "très"], "answer": "L'adaptation est très fidèle au livre", "english": "The adaptation is very faithful to the book" },
+            { "id": "b1_u16_l03_pr04", "type": "match", "pairs": [{ "french": "la voix off", "english": "the voice-over" }, { "french": "le montage", "english": "the editing" }, { "french": "le décor", "english": "the set" }, { "french": "la mise en scène", "english": "the direction" }] },
+            { "id": "b1_u16_l03_pr05", "type": "multipleChoice", "prompt": "Quelle phrase exprime une concession correcte ?", "options": ["Bien qu'il ait coupé la fin, le film reste fidèle.", "Bien qu'il a coupé la fin, le film reste fidèle.", "Bien que couper la fin, le film reste fidèle.", "Bien qu'il coupait la fin, le film reste fidèle."], "answer": "Bien qu'il ait coupé la fin, le film reste fidèle." },
+            { "id": "b1_u16_l03_pr06", "type": "translate", "prompt": "Two secondary characters were cut from the film.", "english": "Two secondary characters were cut from the film.", "answer": "Deux personnages secondaires ont été supprimés du film.", "acceptedAnswers": ["Deux personnages secondaires ont été supprimés du film", "Deux personnages secondaires ont ete supprimes du film"] }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "b1_u16_l03_qz01", "type": "multipleChoice", "prompt": "Comment dit-on « a film based on the novel » ?", "options": ["un film d'après le roman", "un film sur le roman", "un film de le roman", "un film pour le roman"], "answer": "un film d'après le roman" },
+            { "id": "b1_u16_l03_qz02", "type": "fillBlank", "prompt": "Le roman explique tout, ___ que le film laisse un doute.", "answer": "alors" },
+            { "id": "b1_u16_l03_qz03", "type": "multipleChoice", "prompt": "Quel adjectif s'accorde après « bon » au comparatif ?", "options": ["meilleur", "plus bon", "mieux", "bien"], "answer": "meilleur" },
+            { "id": "b1_u16_l03_qz04", "type": "trueFalse", "prompt": "« Fidèle » se construit avec « à » : fidèle au livre.", "options": ["True", "False"], "answer": "True" },
+            { "id": "b1_u16_l03_qz05", "type": "translate", "prompt": "The film gains in emotion what it loses in detail.", "english": "The film gains in emotion what it loses in detail.", "answer": "Le film gagne en émotion ce qu'il perd en détail.", "acceptedAnswers": ["Le film gagne en émotion ce qu'il perd en détail", "Le film gagne en emotion ce qu il perd en detail"] }
+          ]
+        }
+      ]
+    }
+  ]
+}

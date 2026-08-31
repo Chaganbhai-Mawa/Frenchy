@@ -1,0 +1,546 @@
+{
+  "id": "b2_u27",
+  "level": "B2",
+  "unit": 27,
+  "title": "Formal Writing",
+  "subtitle": "Master letters, meeting reports, and synthesis notes",
+  "icon": "✍️",
+  "lessons": [
+    {
+      "id": "b2_u27_l01",
+      "level": "B2",
+      "unit": 27,
+      "title": "La lettre formelle",
+      "description": "Learn the conventions, structure, and set formulas of formal French letters.",
+      "estimatedMinutes": 19,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "The anatomy of a formal letter",
+              "body": "A French formal letter follows a fixed layout: sender's address top left, recipient's address top right, place and date, a reference line (objet), the salutation, the body in clearly separated paragraphs, and a closing formula before the signature. Skipping any of these pieces reads as careless, even if the French inside is perfect.",
+              "examples": [
+                { "french": "Objet : Demande de renseignements", "english": "Subject: Request for information", "note": "objet states the letter's purpose in a few words" },
+                { "french": "Paris, le 12 mars 2026", "english": "Paris, 12 March 2026", "note": "place then date, always this order" },
+                { "french": "Madame, Monsieur,", "english": "Dear Sir or Madam,", "note": "used when you don't know the recipient's name" }
+              ],
+              "tip": "Never start a formal letter with 'Bonjour' — it is too casual for administrative or professional correspondence."
+            },
+            {
+              "heading": "Opening formulas",
+              "body": "The salutation must match what you know about the recipient. Use the title alone (Madame, Monsieur) with no name if you are writing to an institution, and add the surname only if you know it and it is a modest hierarchy. Never use 'Cher/Chère' unless you already have a personal relationship with the recipient.",
+              "examples": [
+                { "french": "Madame, Monsieur,", "english": "Dear Sir or Madam,", "note": "unknown recipient" },
+                { "french": "Madame la Directrice,", "english": "Dear Director,", "note": "known function, no surname needed" },
+                { "french": "Monsieur Lefèvre,", "english": "Dear Mr Lefèvre,", "note": "known surname, still formal" }
+              ]
+            },
+            {
+              "heading": "Closing formulas",
+              "body": "French closing formulas are longer and more ceremonial than English ones. The classic pattern repeats the opening address inside the closing sentence. Shorter formulas like 'Cordialement' or 'Bien à vous' suit emails and less formal professional exchanges, not official administrative letters.",
+              "examples": [
+                { "french": "Veuillez agréer, Madame, Monsieur, l'expression de mes salutations distinguées.", "english": "Yours faithfully.", "note": "the most formal closing, for administration" },
+                { "french": "Je vous prie d'agréer, Madame, l'expression de mes sentiments respectueux.", "english": "Yours sincerely.", "note": "very formal, slightly warmer" },
+                { "french": "Cordialement,", "english": "Best regards,", "note": "professional email register" }
+              ],
+              "tip": "The closing formula must repeat the exact title used in the salutation — 'Madame' opens, 'Madame' closes."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "lettre", "french": "la lettre", "english": "the letter", "partOfSpeech": "noun", "gender": "f", "plural": "les lettres", "pronunciation": "LET-truh", "example": "Elle a rédigé une lettre très soignée.", "exampleEnglish": "She wrote a very carefully crafted letter.", "level": "B2", "category": "correspondence" },
+            { "id": "courrier", "french": "le courrier", "english": "the mail, the correspondence", "partOfSpeech": "noun", "gender": "m", "plural": "les courriers", "pronunciation": "koo-RYAY", "example": "Le courrier administratif s'accumule sur son bureau.", "exampleEnglish": "The administrative mail is piling up on his desk.", "level": "B2", "category": "correspondence" },
+            { "id": "expediteur", "french": "l'expéditeur", "english": "the sender", "partOfSpeech": "noun", "gender": "m", "plural": "les expéditeurs", "pronunciation": "eks-pay-dee-TUR", "example": "L'adresse de l'expéditeur figure en haut à gauche.", "exampleEnglish": "The sender's address appears at the top left.", "level": "B2", "category": "correspondence" },
+            { "id": "destinataire", "french": "le destinataire", "english": "the recipient", "partOfSpeech": "noun", "gender": "m", "plural": "les destinataires", "pronunciation": "des-tee-nah-TAIR", "example": "Vérifiez le nom du destinataire avant d'envoyer.", "exampleEnglish": "Check the recipient's name before sending.", "level": "B2", "category": "correspondence" },
+            { "id": "objet", "french": "l'objet", "english": "the subject line", "partOfSpeech": "noun", "gender": "m", "plural": "les objets", "pronunciation": "lob-ZHEH", "example": "Précisez l'objet de votre courrier dès la première ligne.", "exampleEnglish": "State the subject of your letter from the first line.", "level": "B2", "category": "correspondence" },
+            { "id": "piece-jointe", "french": "la pièce jointe", "english": "the attachment, the enclosure", "partOfSpeech": "noun", "gender": "f", "plural": "les pièces jointes", "pronunciation": "pyess ZHWANT", "example": "Vous trouverez le formulaire en pièce jointe.", "exampleEnglish": "You will find the form as an attachment.", "level": "B2", "category": "correspondence" },
+            { "id": "ci-joint", "french": "ci-joint", "english": "attached, enclosed", "partOfSpeech": "adjective", "pronunciation": "see-ZHWAN", "example": "Veuillez trouver ci-joint mon relevé de compte.", "exampleEnglish": "Please find my bank statement attached.", "level": "B2", "category": "correspondence" },
+            { "id": "veuillez", "french": "veuillez", "english": "please, kindly (formal imperative)", "partOfSpeech": "verb", "pronunciation": "vuh-YAY", "example": "Veuillez patienter quelques instants.", "exampleEnglish": "Please wait a few moments.", "level": "B2", "category": "correspondence" },
+            { "id": "je-vous-prie-de", "french": "je vous prie de", "english": "I kindly ask you to (formal)", "partOfSpeech": "expression", "pronunciation": "zhuh voo pree duh", "example": "Je vous prie de bien vouloir m'excuser pour ce contretemps.", "exampleEnglish": "I kindly ask you to excuse me for this setback.", "level": "B2", "category": "correspondence" },
+            { "id": "obligeance", "french": "l'obligeance", "english": "kindness, obligingness (formal)", "partOfSpeech": "noun", "gender": "f", "pronunciation": "oh-blee-ZHAHNS", "example": "Auriez-vous l'obligeance de me confirmer la date ?", "exampleEnglish": "Would you be so kind as to confirm the date for me?", "level": "B2", "category": "correspondence" },
+            { "id": "formule-de-politesse", "french": "la formule de politesse", "english": "the polite closing formula", "partOfSpeech": "noun", "gender": "f", "plural": "les formules de politesse", "pronunciation": "for-MOOL duh po-lee-TESS", "example": "Choisissez une formule de politesse adaptée au destinataire.", "exampleEnglish": "Choose a closing formula suited to the recipient.", "level": "B2", "category": "correspondence" },
+            { "id": "salutations-distinguees", "french": "les salutations distinguées", "english": "distinguished greetings (letter closing)", "partOfSpeech": "expression", "pronunciation": "sah-lu-tah-syon dees-tan-GAY", "example": "L'expression de mes salutations distinguées.", "exampleEnglish": "The expression of my distinguished greetings.", "level": "B2", "category": "correspondence" },
+            { "id": "cordialement", "french": "cordialement", "english": "kind regards, best regards", "partOfSpeech": "adverb", "pronunciation": "kor-dyal-MAHN", "example": "Cordialement, Sophie Renard.", "exampleEnglish": "Kind regards, Sophie Renard.", "level": "B2", "category": "correspondence" },
+            { "id": "bien-a-vous", "french": "bien à vous", "english": "yours (warm but professional)", "partOfSpeech": "expression", "pronunciation": "byan ah VOO", "example": "Bien à vous, dans l'attente de votre retour.", "exampleEnglish": "Yours, looking forward to your reply.", "level": "B2", "category": "correspondence" },
+            { "id": "en-reponse-a", "french": "en réponse à", "english": "in response to", "partOfSpeech": "expression", "pronunciation": "ahn ray-pons ah", "example": "En réponse à votre courrier du 3 mars, je vous confirme mon accord.", "exampleEnglish": "In response to your letter of 3 March, I confirm my agreement.", "level": "B2", "category": "correspondence" },
+            { "id": "suite-a", "french": "suite à", "english": "further to, following", "partOfSpeech": "expression", "pronunciation": "sweet ah", "example": "Suite à notre entretien téléphonique, voici les documents demandés.", "exampleEnglish": "Further to our phone conversation, here are the requested documents.", "level": "B2", "category": "correspondence" },
+            { "id": "en-tete", "french": "l'en-tête", "english": "the letterhead, the header", "partOfSpeech": "noun", "gender": "m", "plural": "les en-têtes", "pronunciation": "on-TET", "example": "L'en-tête indique le service concerné.", "exampleEnglish": "The header indicates the relevant department.", "level": "B2", "category": "correspondence" },
+            { "id": "corps-de-la-lettre", "french": "le corps de la lettre", "english": "the body of the letter", "partOfSpeech": "noun", "gender": "m", "pronunciation": "kor duh lah LET-truh", "example": "Le corps de la lettre se divise en trois paragraphes.", "exampleEnglish": "The body of the letter is divided into three paragraphs.", "level": "B2", "category": "correspondence" },
+            { "id": "signature", "french": "la signature", "english": "the signature", "partOfSpeech": "noun", "gender": "f", "plural": "les signatures", "pronunciation": "see-nyah-TOOR", "example": "N'oubliez pas votre signature en bas de la page.", "exampleEnglish": "Don't forget your signature at the bottom of the page.", "level": "B2", "category": "correspondence" },
+            { "id": "reference", "french": "la référence", "english": "the reference (number)", "partOfSpeech": "noun", "gender": "f", "plural": "les références", "pronunciation": "ray-fay-RAHNS", "example": "Merci de rappeler la référence de votre dossier.", "exampleEnglish": "Please quote your file reference number.", "level": "B2", "category": "correspondence" },
+            { "id": "accuse-de-reception", "french": "l'accusé de réception", "english": "the acknowledgement of receipt", "partOfSpeech": "noun", "gender": "m", "plural": "les accusés de réception", "pronunciation": "ah-koo-ZAY duh ray-sep-SYON", "example": "Vous recevrez un accusé de réception sous 48 heures.", "exampleEnglish": "You will receive an acknowledgement of receipt within 48 hours.", "level": "B2", "category": "correspondence" },
+            { "id": "demande", "french": "la demande", "english": "the request", "partOfSpeech": "noun", "gender": "f", "plural": "les demandes", "pronunciation": "duh-MAHND", "example": "Votre demande a bien été enregistrée.", "exampleEnglish": "Your request has been duly registered.", "level": "B2", "category": "correspondence" },
+            { "id": "reclamation", "french": "la réclamation", "english": "the complaint (formal)", "partOfSpeech": "noun", "gender": "f", "plural": "les réclamations", "pronunciation": "ray-klah-mah-SYON", "example": "Il a envoyé une réclamation au service client.", "exampleEnglish": "He sent a complaint to customer service.", "level": "B2", "category": "correspondence" },
+            { "id": "candidature", "french": "la candidature", "english": "the application", "partOfSpeech": "noun", "gender": "f", "plural": "les candidatures", "pronunciation": "kan-dee-dah-TOOR", "example": "Elle a envoyé sa candidature la semaine dernière.", "exampleEnglish": "She sent her application last week.", "level": "B2", "category": "correspondence" },
+            { "id": "lettre-de-motivation", "french": "la lettre de motivation", "english": "the cover letter", "partOfSpeech": "noun", "gender": "f", "plural": "les lettres de motivation", "pronunciation": "LET-truh duh mo-tee-vah-syon", "example": "Adaptez votre lettre de motivation à chaque poste.", "exampleEnglish": "Tailor your cover letter to each position.", "level": "B2", "category": "correspondence" },
+            { "id": "resilier", "french": "résilier", "english": "to terminate (a contract)", "partOfSpeech": "verb", "pronunciation": "ray-zee-LYAY", "example": "Je souhaite résilier mon abonnement à compter du 1er avril.", "exampleEnglish": "I wish to terminate my subscription starting 1 April.", "level": "B2", "category": "correspondence" },
+            { "id": "contrat", "french": "le contrat", "english": "the contract", "partOfSpeech": "noun", "gender": "m", "plural": "les contrats", "pronunciation": "kon-TRAH", "example": "Merci de me faire parvenir une copie du contrat.", "exampleEnglish": "Please send me a copy of the contract.", "level": "B2", "category": "correspondence" },
+            { "id": "facture", "french": "la facture", "english": "the invoice", "partOfSpeech": "noun", "gender": "f", "plural": "les factures", "pronunciation": "fak-TOOR", "example": "Je conteste le montant indiqué sur cette facture.", "exampleEnglish": "I am disputing the amount shown on this invoice.", "level": "B2", "category": "correspondence" },
+            { "id": "devis", "french": "le devis", "english": "the quote, the estimate", "partOfSpeech": "noun", "gender": "m", "plural": "les devis", "pronunciation": "duh-VEE", "example": "Pourriez-vous m'envoyer un devis détaillé ?", "exampleEnglish": "Could you send me a detailed quote?", "level": "B2", "category": "correspondence" },
+            { "id": "administration", "french": "l'administration", "english": "the administration, the bureaucracy", "partOfSpeech": "noun", "gender": "f", "plural": "les administrations", "pronunciation": "ad-mee-nee-strah-SYON", "example": "L'administration exige un formulaire pour chaque démarche.", "exampleEnglish": "The administration requires a form for every procedure.", "level": "B2", "category": "correspondence" },
+            { "id": "formel", "french": "formel", "english": "formal", "partOfSpeech": "adjective", "pronunciation": "for-MEL", "example": "Restez formel du début à la fin de la lettre.", "exampleEnglish": "Stay formal from the start to the end of the letter.", "level": "B2", "category": "correspondence" },
+            { "id": "informel", "french": "informel", "english": "informal", "partOfSpeech": "adjective", "pronunciation": "an-for-MEL", "example": "Un e-mail entre collègues peut rester informel.", "exampleEnglish": "An email between colleagues can stay informal.", "level": "B2", "category": "correspondence" },
+            { "id": "joindre", "french": "joindre", "english": "to attach, to enclose", "partOfSpeech": "verb", "pronunciation": "ZHWANDR", "example": "N'oubliez pas de joindre vos justificatifs.", "exampleEnglish": "Don't forget to attach your supporting documents.", "level": "B2", "category": "correspondence" },
+            { "id": "transmettre", "french": "transmettre", "english": "to forward, to pass on", "partOfSpeech": "verb", "pronunciation": "trahns-MET-truh", "example": "Je transmets votre demande au service concerné.", "exampleEnglish": "I am forwarding your request to the relevant department.", "level": "B2", "category": "correspondence" },
+            { "id": "rediger", "french": "rédiger", "english": "to draft, to write up", "partOfSpeech": "verb", "pronunciation": "ray-dee-ZHAY", "example": "Il a fallu deux heures pour rédiger cette lettre.", "exampleEnglish": "It took two hours to draft this letter.", "level": "B2", "category": "correspondence" },
+            { "id": "solliciter", "french": "solliciter", "english": "to request, to solicit (formal)", "partOfSpeech": "verb", "pronunciation": "so-lee-see-TAY", "example": "Je sollicite un rendez-vous dans les meilleurs délais.", "exampleEnglish": "I am requesting an appointment as soon as possible.", "level": "B2", "category": "correspondence" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "The polite conditional for requests",
+              "body": "Formal letters almost never use the imperative or a blunt 'je veux'. Instead, the conditional softens requests into polite suggestions: 'je voudrais', 'je souhaiterais', 'pourriez-vous', 'il conviendrait de'. This distance between the verb form and the direct demand is exactly what marks a text as formal in French.",
+              "examples": [
+                { "french": "Je souhaiterais obtenir des informations complémentaires.", "english": "I would like to obtain further information.", "note": "softer than 'je veux'" },
+                { "french": "Pourriez-vous me confirmer la réception de ce courrier ?", "english": "Could you confirm receipt of this letter?", "note": "conditional for a polite question" },
+                { "french": "Il conviendrait de revoir les termes du contrat.", "english": "It would be appropriate to review the terms of the contract.", "note": "impersonal conditional, very formal" }
+              ],
+              "tip": "Stacking 'je vous serais reconnaissant(e) de bien vouloir + infinitive' is the most formal request pattern of all."
+            },
+            {
+              "heading": "Nominalization: turning verbs into nouns",
+              "body": "Administrative and formal French favours nouns over verbs where everyday French would use a verb. 'Nous avons reçu votre demande' can become 'Accusé de réception de votre demande' as a heading. Learning to nominalize — verb to noun — is what makes a letter sound official rather than conversational.",
+              "examples": [
+                { "french": "la modification du contrat", "english": "the modification of the contract", "note": "instead of 'nous modifions le contrat'" },
+                { "french": "la confirmation de votre rendez-vous", "english": "the confirmation of your appointment", "note": "instead of 'nous confirmons votre rendez-vous'" },
+                { "french": "dans l'attente de votre réponse", "english": "awaiting your reply", "note": "fixed nominal phrase closing many letters" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "b2_u27_l01_li01", "type": "listenChoose", "french": "Veuillez agréer, Madame, l'expression de mes salutations distinguées.", "options": ["Yours faithfully.", "See you soon.", "Thanks a lot.", "I disagree completely."], "answer": "Yours faithfully." },
+            { "id": "b2_u27_l01_li02", "type": "listenChoose", "french": "Je vous prie de bien vouloir m'excuser pour ce retard.", "options": ["I kindly ask you to excuse me for this delay.", "I refuse to apologise.", "I am often late.", "Please arrive on time."], "answer": "I kindly ask you to excuse me for this delay." },
+            { "id": "b2_u27_l01_li03", "type": "listenType", "french": "Vous trouverez ci-joint mon curriculum vitae.", "answer": "Vous trouverez ci-joint mon curriculum vitae.", "acceptedAnswers": ["vous trouverez ci-joint mon curriculum vitae", "vous trouverez ci joint mon curriculum vitae"] },
+            { "id": "b2_u27_l01_li04", "type": "dictation", "french": "Suite à notre entretien téléphonique, je vous confirme mon accord.", "answer": "Suite à notre entretien téléphonique, je vous confirme mon accord.", "acceptedAnswers": ["suite a notre entretien telephonique je vous confirme mon accord"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "b2_u27_l01_sp01", "type": "speak", "french": "Je vous serais reconnaissant de bien vouloir m'envoyer un devis détaillé.", "english": "I would be grateful if you could send me a detailed quote.", "prompt": "Practise the formal conditional request pattern.", "tip": "Stress 'reconnaissant' evenly and keep the rhythm slow and measured, as in official speech." },
+            { "id": "b2_u27_l01_sp02", "type": "speak", "french": "Madame la Directrice, je me permets de vous solliciter au sujet de ma candidature.", "english": "Dear Director, I am taking the liberty of contacting you regarding my application.", "prompt": "Practise addressing someone by their formal function.", "tip": "Pronounce 'me permets' smoothly — it softens the request without hesitation." },
+            { "id": "b2_u27_l01_sp03", "type": "speak", "french": "Dans l'attente de votre réponse, je vous prie d'agréer mes salutations distinguées.", "english": "Awaiting your reply, please accept my distinguished greetings.", "prompt": "Practise a full closing sentence at natural speed.", "tip": "Link 'attente de votre réponse' without pausing — it functions as one block." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Une lettre de réclamation",
+              "french": "Claire Dubreuil\n14 rue des Lilas, 75011 Paris\nService Clientèle - Énergie Plus\n8 avenue de la République, 69003 Lyon\nParis, le 5 février 2026\nObjet : Réclamation concernant la facture n° 4521\nMadame, Monsieur,\nJe me permets de vous contacter au sujet de la facture n° 4521, reçue le 20 janvier dernier, dont le montant me semble erroné.\nEn effet, le tarif appliqué ne correspond pas à celui indiqué sur le devis que vous m'aviez transmis le mois précédent.\nJ'ai contacté votre service client à deux reprises, par téléphone puis par courriel, sans obtenir de réponse satisfaisante.\nJe vous serais donc reconnaissant de bien vouloir vérifier ce dossier et de me communiquer une facture rectifiée dans les meilleurs délais.\nVous trouverez ci-joint une copie du devis ainsi que celle de la facture contestée.\nDans l'attente de votre réponse, je reste à votre disposition pour tout complément d'information.\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\nClaire Dubreuil",
+              "english": "Claire Dubreuil\n14 Rue des Lilas, 75011 Paris\nCustomer Service - Énergie Plus\n8 Avenue de la République, 69003 Lyon\nParis, 5 February 2026\nSubject: Complaint regarding invoice no. 4521\nDear Sir or Madam,\nI am writing to you regarding invoice no. 4521, received on 20 January, whose amount seems incorrect to me.\nIndeed, the rate applied does not match the one shown on the quote you sent me the previous month.\nI have contacted your customer service twice, by phone and then by email, without receiving a satisfactory response.\nI would therefore be grateful if you could check this file and send me a corrected invoice as soon as possible.\nYou will find enclosed a copy of the quote as well as the disputed invoice.\nAwaiting your reply, I remain available for any further information.\nPlease accept, Sir or Madam, the expression of my distinguished greetings.\nClaire Dubreuil",
+              "questions": [
+                { "id": "b2_u27_l01_rd01", "type": "multipleChoice", "prompt": "Why is Claire writing this letter?", "options": ["To cancel her contract", "To dispute the amount on an invoice", "To apply for a job", "To request a refund for a delivery"], "answer": "To dispute the amount on an invoice" },
+                { "id": "b2_u27_l01_rd02", "type": "trueFalse", "prompt": "Claire had already contacted customer service before writing this letter.", "options": ["True", "False"], "answer": "True" },
+                { "id": "b2_u27_l01_rd03", "type": "multipleChoice", "prompt": "What does Claire attach to her letter?", "options": ["A bank statement and a receipt", "A copy of the quote and the disputed invoice", "A signed contract", "A photo of the product"], "answer": "A copy of the quote and the disputed invoice" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "b2_u27_l01_wr01", "type": "translate", "prompt": "Please find attached a copy of my application.", "english": "Please find attached a copy of my application.", "answer": "Veuillez trouver ci-joint une copie de ma candidature.", "acceptedAnswers": ["veuillez trouver ci-joint une copie de ma candidature", "vous trouverez ci-joint une copie de ma candidature"] },
+            { "id": "b2_u27_l01_wr02", "type": "translate", "prompt": "I would be grateful if you could confirm my appointment.", "english": "I would be grateful if you could confirm my appointment.", "answer": "Je vous serais reconnaissant de bien vouloir confirmer mon rendez-vous.", "acceptedAnswers": ["je vous serais reconnaissant de bien vouloir confirmer mon rendez-vous", "je vous serais reconnaissante de bien vouloir confirmer mon rendez-vous"] },
+            { "id": "b2_u27_l01_wr03", "type": "arrangeWords", "words": ["Veuillez", "agréer,", "Madame,", "l'expression", "de", "mes", "salutations", "distinguées."], "answer": "Veuillez agréer, Madame, l'expression de mes salutations distinguées.", "english": "Yours faithfully." }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "b2_u27_l01_pr01", "type": "multipleChoice", "prompt": "Which salutation is correct when you don't know the recipient's name?", "options": ["Madame, Monsieur,", "Salut,", "Coucou,", "Bonjour à tous,"], "answer": "Madame, Monsieur," },
+            { "id": "b2_u27_l01_pr02", "type": "fillBlank", "prompt": "Je vous ___ de bien vouloir m'excuser pour ce contretemps.", "answer": "prie" },
+            { "id": "b2_u27_l01_pr03", "type": "trueFalse", "prompt": "'Cordialement' is the most formal possible letter closing.", "options": ["True", "False"], "answer": "False" },
+            { "id": "b2_u27_l01_pr04", "type": "match", "pairs": [ { "french": "ci-joint", "english": "attached, enclosed" }, { "french": "l'expéditeur", "english": "the sender" }, { "french": "le destinataire", "english": "the recipient" }, { "french": "résilier", "english": "to terminate (a contract)" } ] },
+            { "id": "b2_u27_l01_pr05", "type": "translate", "prompt": "I wish to terminate my contract.", "english": "I wish to terminate my contract.", "answer": "Je souhaite résilier mon contrat.", "acceptedAnswers": ["je souhaite resilier mon contrat"] },
+            { "id": "b2_u27_l01_pr06", "type": "multipleChoice", "prompt": "What does 'joindre un document' mean?", "options": ["To attach a document", "To sign a document", "To lose a document", "To copy a document"], "answer": "To attach a document" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "b2_u27_l01_qz01", "type": "multipleChoice", "prompt": "Which closing formula suits an official administrative letter best?", "options": ["Veuillez agréer, Madame, l'expression de mes salutations distinguées.", "À plus !", "Gros bisous,", "Salut, à bientôt !"], "answer": "Veuillez agréer, Madame, l'expression de mes salutations distinguées." },
+            { "id": "b2_u27_l01_qz02", "type": "fillBlank", "prompt": "Vous trouverez ___-joint mon curriculum vitae.", "answer": "ci" },
+            { "id": "b2_u27_l01_qz03", "type": "trueFalse", "prompt": "The closing formula should repeat the title used in the opening salutation.", "options": ["True", "False"], "answer": "True" },
+            { "id": "b2_u27_l01_qz04", "type": "translate", "prompt": "Please find attached a copy of the contract.", "english": "Please find attached a copy of the contract.", "answer": "Veuillez trouver ci-joint une copie du contrat.", "acceptedAnswers": ["veuillez trouver ci-joint une copie du contrat"] },
+            { "id": "b2_u27_l01_qz05", "type": "multipleChoice", "prompt": "What is 'l'objet' at the top of a formal letter?", "options": ["The subject line stating the purpose", "The sender's signature", "The recipient's job title", "The date of the reply"], "answer": "The subject line stating the purpose" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2_u27_l02",
+      "level": "B2",
+      "unit": 27,
+      "title": "Le compte rendu",
+      "description": "Write a clear, organised report of a meeting or event.",
+      "estimatedMinutes": 19,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "What a compte rendu is for",
+              "body": "A compte rendu is a faithful, organised account of what was said and decided at a meeting or event — not a personal opinion piece. It answers: who was there, what was discussed, what was decided, and what happens next. Neutral, factual language matters more than style here.",
+              "examples": [
+                { "french": "Compte rendu de la réunion du 14 mars", "english": "Minutes of the meeting of 14 March", "note": "standard title format" },
+                { "french": "Étaient présents : cinq membres de l'équipe.", "english": "Present: five team members.", "note": "attendance list, often first section" },
+                { "french": "Le point suivant a été abordé :", "english": "The following item was discussed:", "note": "neutral transition between agenda points" }
+              ],
+              "tip": "Write in the passé composé or present for reported facts — avoid the imparfait, which sounds like a story rather than a record."
+            },
+            {
+              "heading": "Structure of a compte rendu",
+              "body": "A clear compte rendu follows the order of the ordre du jour (agenda): a heading with date, attendees and absentees; one paragraph per agenda point, stating what was discussed and what was decided; and a closing section listing follow-up actions and deadlines.",
+              "examples": [
+                { "french": "1. Ouverture de la séance", "english": "1. Opening of the session", "note": "numbered sections mirror the agenda" },
+                { "french": "Décision : le budget est validé à l'unanimité.", "english": "Decision: the budget is approved unanimously.", "note": "decisions stated in bold, simple sentences" },
+                { "french": "Actions à suivre : envoyer le devis avant vendredi.", "english": "Follow-up actions: send the quote before Friday.", "note": "closing section with responsibilities and deadlines" }
+              ]
+            },
+            {
+              "heading": "Reporting what was said, neutrally",
+              "body": "A compte rendu often needs to report other people's statements without quoting them word for word. Reported speech verbs like 'indiquer que', 'préciser que', 'souligner que', and 'proposer de' let you summarise a speaker's point while keeping a neutral, professional distance.",
+              "examples": [
+                { "french": "Le responsable a indiqué que le projet prenait du retard.", "english": "The manager indicated that the project was running late.", "note": "reported statement, neutral verb" },
+                { "french": "Elle a proposé de reporter la décision au mois prochain.", "english": "She proposed postponing the decision until next month.", "note": "proposer de + infinitive" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "compte-rendu", "french": "le compte rendu", "english": "the report, the minutes", "partOfSpeech": "noun", "gender": "m", "plural": "les comptes rendus", "pronunciation": "kont run-DEW", "example": "Le compte rendu de la réunion sera envoyé demain.", "exampleEnglish": "The minutes of the meeting will be sent tomorrow.", "level": "B2", "category": "meetings" },
+            { "id": "reunion", "french": "la réunion", "english": "the meeting", "partOfSpeech": "noun", "gender": "f", "plural": "les réunions", "pronunciation": "ray-oo-NYON", "example": "La réunion a duré une heure et demie.", "exampleEnglish": "The meeting lasted an hour and a half.", "level": "B2", "category": "meetings" },
+            { "id": "ordre-du-jour", "french": "l'ordre du jour", "english": "the agenda", "partOfSpeech": "noun", "gender": "m", "pronunciation": "ordr doo ZHOOR", "example": "Trois points figurent à l'ordre du jour.", "exampleEnglish": "Three items are on the agenda.", "level": "B2", "category": "meetings" },
+            { "id": "proces-verbal", "french": "le procès-verbal", "english": "the official minutes, the report", "partOfSpeech": "noun", "gender": "m", "plural": "les procès-verbaux", "pronunciation": "pro-say ver-BAL", "example": "Le procès-verbal doit être signé par le président.", "exampleEnglish": "The official minutes must be signed by the chair.", "level": "B2", "category": "meetings" },
+            { "id": "participant", "french": "le participant", "english": "the participant, the attendee", "partOfSpeech": "noun", "gender": "m", "plural": "les participants", "pronunciation": "par-tee-see-PAHN", "example": "Douze participants ont assisté à la réunion.", "exampleEnglish": "Twelve participants attended the meeting.", "level": "B2", "category": "meetings" },
+            { "id": "intervenant", "french": "l'intervenant", "english": "the speaker, the contributor", "partOfSpeech": "noun", "gender": "m", "plural": "les intervenants", "pronunciation": "an-tair-vuh-NAHN", "example": "Chaque intervenant disposait de cinq minutes.", "exampleEnglish": "Each speaker had five minutes.", "level": "B2", "category": "meetings" },
+            { "id": "decision", "french": "la décision", "english": "the decision", "partOfSpeech": "noun", "gender": "f", "plural": "les décisions", "pronunciation": "day-see-ZYON", "example": "La décision a été prise à la majorité.", "exampleEnglish": "The decision was taken by majority vote.", "level": "B2", "category": "meetings" },
+            { "id": "point", "french": "le point", "english": "the item, the point", "partOfSpeech": "noun", "gender": "m", "plural": "les points", "pronunciation": "pwan", "example": "Passons au deuxième point de l'ordre du jour.", "exampleEnglish": "Let's move on to the second item on the agenda.", "level": "B2", "category": "meetings" },
+            { "id": "aborder", "french": "aborder", "english": "to bring up, to address (a topic)", "partOfSpeech": "verb", "pronunciation": "ah-bor-DAY", "example": "Nous avons abordé la question du budget.", "exampleEnglish": "We addressed the question of the budget.", "level": "B2", "category": "meetings" },
+            { "id": "echanger", "french": "échanger", "english": "to exchange views, to discuss", "partOfSpeech": "verb", "pronunciation": "ay-shahn-ZHAY", "example": "Les équipes ont échangé sur les priorités du trimestre.", "exampleEnglish": "The teams discussed the priorities for the quarter.", "level": "B2", "category": "meetings" },
+            { "id": "debat", "french": "le débat", "english": "the debate, the discussion", "partOfSpeech": "noun", "gender": "m", "plural": "les débats", "pronunciation": "day-BAH", "example": "Le débat s'est prolongé au-delà de l'horaire prévu.", "exampleEnglish": "The debate went on past the scheduled time.", "level": "B2", "category": "meetings" },
+            { "id": "conclusion", "french": "la conclusion", "english": "the conclusion", "partOfSpeech": "noun", "gender": "f", "plural": "les conclusions", "pronunciation": "kon-klu-ZYON", "example": "En conclusion, le projet est reporté d'un mois.", "exampleEnglish": "In conclusion, the project is postponed by a month.", "level": "B2", "category": "meetings" },
+            { "id": "recommandation", "french": "la recommandation", "english": "the recommendation", "partOfSpeech": "noun", "gender": "f", "plural": "les recommandations", "pronunciation": "ruh-ko-mahn-dah-SYON", "example": "Le comité a formulé trois recommandations.", "exampleEnglish": "The committee made three recommendations.", "level": "B2", "category": "meetings" },
+            { "id": "present", "french": "présent", "english": "present, attending", "partOfSpeech": "adjective", "pronunciation": "pray-ZAHN", "example": "Tous les responsables étaient présents.", "exampleEnglish": "All the managers were present.", "level": "B2", "category": "meetings" },
+            { "id": "absent", "french": "absent", "english": "absent", "partOfSpeech": "adjective", "pronunciation": "ab-SAHN", "example": "Deux membres étaient absents ce jour-là.", "exampleEnglish": "Two members were absent that day.", "level": "B2", "category": "meetings" },
+            { "id": "excuse", "french": "excusé", "english": "excused (for an absence)", "partOfSpeech": "adjective", "pronunciation": "ex-kew-ZAY", "example": "Il était excusé pour raison médicale.", "exampleEnglish": "He was excused for medical reasons.", "level": "B2", "category": "meetings" },
+            { "id": "animer", "french": "animer", "english": "to lead, to facilitate (a meeting)", "partOfSpeech": "verb", "pronunciation": "ah-nee-MAY", "example": "C'est elle qui a animé la réunion.", "exampleEnglish": "She was the one who led the meeting.", "level": "B2", "category": "meetings" },
+            { "id": "presider", "french": "présider", "english": "to chair, to preside over", "partOfSpeech": "verb", "pronunciation": "pray-zee-DAY", "example": "Le directeur préside la séance.", "exampleEnglish": "The director chairs the session.", "level": "B2", "category": "meetings" },
+            { "id": "prendre-note", "french": "prendre note", "english": "to take note, to note down", "partOfSpeech": "expression", "pronunciation": "prahndr NOT", "example": "Merci de prendre note des décisions au fur et à mesure.", "exampleEnglish": "Please note down the decisions as they are made.", "level": "B2", "category": "meetings" },
+            { "id": "redaction", "french": "la rédaction", "english": "the drafting, the writing up", "partOfSpeech": "noun", "gender": "f", "pronunciation": "ray-dak-SYON", "example": "La rédaction du compte rendu lui revient.", "exampleEnglish": "Writing up the minutes is his responsibility.", "level": "B2", "category": "meetings" },
+            { "id": "objectif", "french": "l'objectif", "english": "the objective, the goal", "partOfSpeech": "noun", "gender": "m", "plural": "les objectifs", "pronunciation": "ob-zhek-TEEF", "example": "L'objectif du trimestre a été rappelé en début de réunion.", "exampleEnglish": "The goal for the quarter was recalled at the start of the meeting.", "level": "B2", "category": "meetings" },
+            { "id": "bilan", "french": "le bilan", "english": "the assessment, the review", "partOfSpeech": "noun", "gender": "m", "plural": "les bilans", "pronunciation": "bee-LAHN", "example": "Le bilan de l'année a été présenté aux participants.", "exampleEnglish": "The year's review was presented to the attendees.", "level": "B2", "category": "meetings" },
+            { "id": "avancement", "french": "l'avancement", "english": "the progress", "partOfSpeech": "noun", "gender": "m", "pronunciation": "ah-vahns-MAHN", "example": "Chaque équipe a présenté l'avancement de son projet.", "exampleEnglish": "Each team presented the progress on its project.", "level": "B2", "category": "meetings" },
+            { "id": "projet", "french": "le projet", "english": "the project", "partOfSpeech": "noun", "gender": "m", "plural": "les projets", "pronunciation": "pro-ZHEH", "example": "Le projet doit être finalisé avant l'été.", "exampleEnglish": "The project must be finalised before summer.", "level": "B2", "category": "meetings" },
+            { "id": "delai", "french": "le délai", "english": "the deadline, the time limit", "partOfSpeech": "noun", "gender": "m", "plural": "les délais", "pronunciation": "day-LAY", "example": "Le délai a été fixé au 30 avril.", "exampleEnglish": "The deadline was set for 30 April.", "level": "B2", "category": "meetings" },
+            { "id": "responsable", "french": "le responsable", "english": "the person in charge, the manager", "partOfSpeech": "noun", "gender": "m", "plural": "les responsables", "pronunciation": "res-pon-SAH-bluh", "example": "Un responsable a été désigné pour chaque action.", "exampleEnglish": "A person in charge was appointed for each action.", "level": "B2", "category": "meetings" },
+            { "id": "valider", "french": "valider", "english": "to approve, to validate", "partOfSpeech": "verb", "pronunciation": "vah-lee-DAY", "example": "Le comité a validé le nouveau calendrier.", "exampleEnglish": "The committee approved the new schedule.", "level": "B2", "category": "meetings" },
+            { "id": "approuver", "french": "approuver", "english": "to approve", "partOfSpeech": "verb", "pronunciation": "ah-proo-VAY", "example": "Tous les membres ont approuvé la proposition.", "exampleEnglish": "All members approved the proposal.", "level": "B2", "category": "meetings" },
+            { "id": "discussion", "french": "la discussion", "english": "the discussion", "partOfSpeech": "noun", "gender": "f", "plural": "les discussions", "pronunciation": "dees-koo-SYON", "example": "La discussion a permis de clarifier plusieurs points.", "exampleEnglish": "The discussion helped clarify several points.", "level": "B2", "category": "meetings" },
+            { "id": "cloturer", "french": "clôturer", "english": "to close (a meeting)", "partOfSpeech": "verb", "pronunciation": "kloh-too-RAY", "example": "Le président a clôturé la séance à midi.", "exampleEnglish": "The chair closed the session at noon.", "level": "B2", "category": "meetings" },
+            { "id": "ouvrir", "french": "ouvrir", "english": "to open (a meeting)", "partOfSpeech": "verb", "pronunciation": "oo-VREER", "example": "La directrice a ouvert la séance à neuf heures.", "exampleEnglish": "The director opened the session at nine o'clock.", "level": "B2", "category": "meetings" },
+            { "id": "seance", "french": "la séance", "english": "the session", "partOfSpeech": "noun", "gender": "f", "plural": "les séances", "pronunciation": "say-AHNS", "example": "La séance a été particulièrement productive.", "exampleEnglish": "The session was particularly productive.", "level": "B2", "category": "meetings" },
+            { "id": "synthetiser", "french": "synthétiser", "english": "to summarise, to sum up", "partOfSpeech": "verb", "pronunciation": "san-tay-tee-ZAY", "example": "Elle a synthétisé les échanges en trois phrases.", "exampleEnglish": "She summarised the exchanges in three sentences.", "level": "B2", "category": "meetings" },
+            { "id": "resumer", "french": "résumer", "english": "to sum up", "partOfSpeech": "verb", "pronunciation": "ray-zoo-MAY", "example": "Pour résumer, le budget est adopté.", "exampleEnglish": "To sum up, the budget is adopted.", "level": "B2", "category": "meetings" },
+            { "id": "suivi", "french": "le suivi", "english": "the follow-up", "partOfSpeech": "noun", "gender": "m", "pronunciation": "swee-VEE", "example": "Un suivi sera fait la semaine prochaine.", "exampleEnglish": "A follow-up will be done next week.", "level": "B2", "category": "meetings" },
+            { "id": "echeance", "french": "l'échéance", "english": "the deadline, the due date", "partOfSpeech": "noun", "gender": "f", "plural": "les échéances", "pronunciation": "ay-shay-AHNS", "example": "L'échéance approche et le dossier n'est pas prêt.", "exampleEnglish": "The deadline is approaching and the file isn't ready.", "level": "B2", "category": "meetings" },
+            { "id": "convoquer", "french": "convoquer", "english": "to convene, to call (a meeting)", "partOfSpeech": "verb", "pronunciation": "kon-voh-KAY", "example": "Le directeur a convoqué une réunion d'urgence.", "exampleEnglish": "The director convened an emergency meeting.", "level": "B2", "category": "meetings" },
+            { "id": "a-l-unanimite", "french": "à l'unanimité", "english": "unanimously", "partOfSpeech": "expression", "pronunciation": "ah lu-nah-nee-mee-TAY", "example": "La proposition a été adoptée à l'unanimité.", "exampleEnglish": "The proposal was adopted unanimously.", "level": "B2", "category": "meetings" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Reported speech (le discours indirect)",
+              "body": "A compte rendu reports what people said without quoting them directly. Direct speech 'Il a dit : « Le budget est trop juste »' becomes indirect: 'Il a indiqué que le budget était trop juste.' The tense shifts back one step (present → imparfait, futur → conditionnel) when the reporting verb is in the past.",
+              "examples": [
+                { "french": "Elle a dit : « Nous finirons à temps. » → Elle a dit que nous finirions à temps.", "english": "She said: \"We will finish on time.\" → She said that we would finish on time.", "note": "futur becomes conditionnel présent" },
+                { "french": "Il a précisé que le retard venait du fournisseur.", "english": "He specified that the delay came from the supplier.", "note": "imparfait for a reported present-tense fact" },
+                { "french": "Le président a annoncé que la réunion suivante aurait lieu en mai.", "english": "The chair announced that the next meeting would take place in May.", "note": "futur antérieur becomes conditionnel passé for anterior facts" }
+              ],
+              "tip": "Reporting verbs like 'indiquer que', 'préciser que', 'annoncer que' keep the tone neutral — avoid 'il paraît que', which sounds like gossip."
+            },
+            {
+              "heading": "The passive voice for neutral reporting",
+              "body": "A compte rendu often hides who exactly did something, focusing instead on the fact itself. The passive voice ('être' + past participle) and the impersonal 'il a été décidé que' let you report decisions and actions without naming an actor every time.",
+              "examples": [
+                { "french": "La proposition a été adoptée à l'unanimité.", "english": "The proposal was adopted unanimously.", "note": "passive voice, no need to name who voted" },
+                { "french": "Il a été décidé que le projet serait reporté.", "english": "It was decided that the project would be postponed.", "note": "impersonal decision structure" },
+                { "french": "Un nouveau responsable sera nommé la semaine prochaine.", "english": "A new person in charge will be appointed next week.", "note": "passive future for planned action" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "b2_u27_l02_li01", "type": "listenChoose", "french": "La proposition a été adoptée à l'unanimité.", "options": ["The proposal was adopted unanimously.", "The proposal was rejected.", "The vote was postponed.", "Nobody voted."], "answer": "The proposal was adopted unanimously." },
+            { "id": "b2_u27_l02_li02", "type": "listenChoose", "french": "Il a été décidé que le projet serait reporté au mois de juin.", "options": ["It was decided that the project would be postponed to June.", "The project was cancelled.", "The meeting was cancelled.", "The project started early."], "answer": "It was decided that the project would be postponed to June." },
+            { "id": "b2_u27_l02_li03", "type": "listenType", "french": "Le directeur a ouvert la séance à neuf heures précises.", "answer": "Le directeur a ouvert la séance à neuf heures précises.", "acceptedAnswers": ["le directeur a ouvert la seance a neuf heures precises"] },
+            { "id": "b2_u27_l02_li04", "type": "dictation", "french": "Un responsable a été désigné pour chaque action à mener.", "answer": "Un responsable a été désigné pour chaque action à mener.", "acceptedAnswers": ["un responsable a ete designe pour chaque action a mener"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "b2_u27_l02_sp01", "type": "speak", "french": "Le responsable a indiqué que le projet prenait du retard.", "english": "The manager indicated that the project was running late.", "prompt": "Practise reporting a statement neutrally, in the imparfait.", "tip": "Keep 'indiqué que' flat and factual, without emotional emphasis." },
+            { "id": "b2_u27_l02_sp02", "type": "speak", "french": "En conclusion, trois actions ont été validées pour le mois prochain.", "english": "In conclusion, three actions were approved for next month.", "prompt": "Practise closing a compte rendu summary aloud.", "tip": "Pause slightly after 'en conclusion' to signal the shift to a summary." },
+            { "id": "b2_u27_l02_sp03", "type": "speak", "french": "Il a été décidé que la prochaine réunion aurait lieu en visioconférence.", "english": "It was decided that the next meeting would take place by videoconference.", "prompt": "Practise the impersonal decision structure at natural speed.", "tip": "Link 'il a été décidé que' as one smooth phrase before the new clause." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Compte rendu de la réunion d'équipe",
+              "french": "Compte rendu de la réunion d'équipe – 14 mars 2026\nÉtaient présents : Nadia Belkacem, Thomas Girard, Léa Fontaine et Karim Haddad. Sophie Marchand était excusée.\nLa séance a été ouverte à 9 heures par Nadia Belkacem, qui a présidé la réunion.\nPremier point : avancement du projet « Site Vitrine ». Thomas a indiqué que le développement avait pris deux semaines de retard à cause d'un problème technique.\nIl a proposé de reporter la mise en ligne au 30 avril, ce que le groupe a approuvé à l'unanimité.\nDeuxième point : budget marketing. Léa a présenté un bilan des dépenses du trimestre et a souligné que le budget restait dans les limites prévues.\nUne discussion a suivi au sujet de la répartition du budget restant entre publicité en ligne et événements.\nIl a été décidé que Karim serait responsable de préparer une proposition détaillée avant la prochaine réunion.\nTroisième point : recrutement. Nadia a annoncé qu'un nouveau poste serait ouvert dès le mois de mai.\nActions à suivre : Thomas doit transmettre le nouveau calendrier avant vendredi ; Karim doit finaliser sa proposition budgétaire avant le 25 mars.\nLa séance a été clôturée à 10 h 15.\nProchaine réunion prévue le 11 avril.",
+              "english": "Minutes of the team meeting – 14 March 2026\nPresent: Nadia Belkacem, Thomas Girard, Léa Fontaine and Karim Haddad. Sophie Marchand was excused.\nThe session was opened at 9 a.m. by Nadia Belkacem, who chaired the meeting.\nFirst item: progress on the \"Showcase Website\" project. Thomas indicated that development had fallen two weeks behind due to a technical problem.\nHe proposed postponing the launch to 30 April, which the group approved unanimously.\nSecond item: marketing budget. Léa presented a review of the quarter's spending and pointed out that the budget remained within the planned limits.\nA discussion followed about splitting the remaining budget between online advertising and events.\nIt was decided that Karim would be responsible for preparing a detailed proposal before the next meeting.\nThird item: recruitment. Nadia announced that a new position would open as early as May.\nFollow-up actions: Thomas must forward the new schedule before Friday; Karim must finalise his budget proposal before 25 March.\nThe session was closed at 10:15 a.m.\nNext meeting scheduled for 11 April.",
+              "questions": [
+                { "id": "b2_u27_l02_rd01", "type": "multipleChoice", "prompt": "Who chaired the meeting?", "options": ["Nadia Belkacem", "Thomas Girard", "Léa Fontaine", "Sophie Marchand"], "answer": "Nadia Belkacem" },
+                { "id": "b2_u27_l02_rd02", "type": "trueFalse", "prompt": "The website launch date was moved earlier than planned.", "options": ["True", "False"], "answer": "False" },
+                { "id": "b2_u27_l02_rd03", "type": "multipleChoice", "prompt": "What is Karim responsible for after the meeting?", "options": ["Preparing a detailed budget proposal", "Hiring a new employee", "Fixing the technical problem", "Chairing the next meeting"], "answer": "Preparing a detailed budget proposal" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "b2_u27_l02_wr01", "type": "translate", "prompt": "The proposal was approved unanimously.", "english": "The proposal was approved unanimously.", "answer": "La proposition a été approuvée à l'unanimité.", "acceptedAnswers": ["la proposition a ete approuvee a l'unanimite", "la proposition a ete approuvee a l unanimite"] },
+            { "id": "b2_u27_l02_wr02", "type": "translate", "prompt": "He said that the project would be finished on time.", "english": "He said that the project would be finished on time.", "answer": "Il a dit que le projet serait terminé à temps.", "acceptedAnswers": ["il a dit que le projet serait termine a temps"] },
+            { "id": "b2_u27_l02_wr03", "type": "arrangeWords", "words": ["Il", "a", "été", "décidé", "que", "la", "réunion", "serait", "reportée."], "answer": "Il a été décidé que la réunion serait reportée.", "english": "It was decided that the meeting would be postponed." }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "b2_u27_l02_pr01", "type": "multipleChoice", "prompt": "Which tense normally reports what a speaker will do, after a past reporting verb?", "options": ["Conditionnel présent", "Présent", "Passé composé", "Imparfait"], "answer": "Conditionnel présent" },
+            { "id": "b2_u27_l02_pr02", "type": "fillBlank", "prompt": "La proposition a été ___ à l'unanimité.", "answer": "adoptée" },
+            { "id": "b2_u27_l02_pr03", "type": "trueFalse", "prompt": "A compte rendu should be written in a personal, opinionated style.", "options": ["True", "False"], "answer": "False" },
+            { "id": "b2_u27_l02_pr04", "type": "match", "pairs": [ { "french": "l'ordre du jour", "english": "the agenda" }, { "french": "à l'unanimité", "english": "unanimously" }, { "french": "clôturer", "english": "to close (a meeting)" }, { "french": "le suivi", "english": "the follow-up" } ] },
+            { "id": "b2_u27_l02_pr05", "type": "translate", "prompt": "The meeting was opened at nine o'clock.", "english": "The meeting was opened at nine o'clock.", "answer": "La séance a été ouverte à neuf heures.", "acceptedAnswers": ["la seance a ete ouverte a neuf heures"] },
+            { "id": "b2_u27_l02_pr06", "type": "multipleChoice", "prompt": "What does 'convoquer une réunion' mean?", "options": ["To convene a meeting", "To cancel a meeting", "To attend a meeting", "To postpone a meeting"], "answer": "To convene a meeting" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "b2_u27_l02_qz01", "type": "multipleChoice", "prompt": "Direct speech 'Nous finirons à temps' becomes, in indirect speech after a past verb:", "options": ["Il a dit que nous finirions à temps.", "Il a dit que nous finissons à temps.", "Il a dit que nous avons fini à temps.", "Il a dit que nous finissions à temps."], "answer": "Il a dit que nous finirions à temps." },
+            { "id": "b2_u27_l02_qz02", "type": "fillBlank", "prompt": "Il a été ___ que le projet serait reporté.", "answer": "décidé" },
+            { "id": "b2_u27_l02_qz03", "type": "trueFalse", "prompt": "A compte rendu should follow the order of the agenda.", "options": ["True", "False"], "answer": "True" },
+            { "id": "b2_u27_l02_qz04", "type": "translate", "prompt": "The meeting was closed at ten o'clock.", "english": "The meeting was closed at ten o'clock.", "answer": "La séance a été clôturée à dix heures.", "acceptedAnswers": ["la seance a ete cloturee a dix heures"] },
+            { "id": "b2_u27_l02_qz05", "type": "multipleChoice", "prompt": "What is the purpose of the 'actions à suivre' section in a compte rendu?", "options": ["To list follow-up tasks and deadlines", "To list who was absent", "To thank the participants", "To restate the agenda"], "answer": "To list follow-up tasks and deadlines" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2_u27_l03",
+      "level": "B2",
+      "unit": 27,
+      "title": "La note de synthèse",
+      "description": "Structure a synthesis note that condenses information from a source.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "What a note de synthèse does",
+              "body": "A note de synthèse condenses one or several source documents into a short, structured text that a busy reader can absorb quickly. It does not add opinion or new information — it selects, organises and reformulates what is already in the source, keeping only what is essential and relevant.",
+              "examples": [
+                { "french": "Ce document synthétise les principaux résultats de l'étude.", "english": "This document synthesises the study's main findings.", "note": "typical opening line" },
+                { "french": "L'objectif de cette note est de dégager les points clés du rapport.", "english": "The purpose of this note is to bring out the report's key points.", "note": "states the note's function directly" }
+              ],
+              "tip": "A good note de synthèse could stand alone — a reader who never sees the source should still understand the essential message."
+            },
+            {
+              "heading": "Structuring the synthesis",
+              "body": "A synthesis note typically opens with a short introduction stating the source and the problématique (the central question), develops two or three organised parts, each built around one idea supported by facts from the source, and closes with a brief conclusion — never a personal opinion.",
+              "examples": [
+                { "french": "Ce rapport soulève la problématique suivante : comment concilier croissance et environnement ?", "english": "This report raises the following question: how can growth and the environment be reconciled?", "note": "problématique stated as a question" },
+                { "french": "Dans un premier temps, le document analyse les causes économiques.", "english": "First, the document analyses the economic causes.", "note": "transition opening the first part" },
+                { "french": "En définitive, le texte met en évidence trois enjeux majeurs.", "english": "Ultimately, the text highlights three major issues.", "note": "concluding transition" }
+              ]
+            },
+            {
+              "heading": "Selecting and condensing information",
+              "body": "The hardest skill in a note de synthèse is hierarchizing: deciding what is essential and what can be dropped. Keep facts, figures, and the source's own logic; cut illustrative anecdotes, repetition, and anything that does not serve the problématique. Reformulate in your own words rather than copying sentences.",
+              "examples": [
+                { "french": "Il convient de retenir uniquement les éléments pertinents.", "english": "Only the relevant elements should be retained.", "note": "hierarchizing principle" },
+                { "french": "L'auteur souligne que la tendance s'accélère depuis 2020.", "english": "The author points out that the trend has accelerated since 2020.", "note": "reformulated, not quoted" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "note-de-synthese", "french": "la note de synthèse", "english": "the synthesis note, the summary note", "partOfSpeech": "noun", "gender": "f", "plural": "les notes de synthèse", "pronunciation": "not duh san-TEZ", "example": "La note de synthèse doit tenir sur une page.", "exampleEnglish": "The synthesis note must fit on one page.", "level": "B2", "category": "synthesis" },
+            { "id": "synthese", "french": "la synthèse", "english": "the synthesis, the summary", "partOfSpeech": "noun", "gender": "f", "plural": "les synthèses", "pronunciation": "san-TEZ", "example": "Faites une synthèse claire des trois documents.", "exampleEnglish": "Make a clear synthesis of the three documents.", "level": "B2", "category": "synthesis" },
+            { "id": "source", "french": "la source", "english": "the source", "partOfSpeech": "noun", "gender": "f", "plural": "les sources", "pronunciation": "SOORS", "example": "Chaque chiffre doit provenir d'une source fiable.", "exampleEnglish": "Every figure must come from a reliable source.", "level": "B2", "category": "synthesis" },
+            { "id": "document", "french": "le document", "english": "the document", "partOfSpeech": "noun", "gender": "m", "plural": "les documents", "pronunciation": "do-koo-MAHN", "example": "Le document source comporte dix pages.", "exampleEnglish": "The source document is ten pages long.", "level": "B2", "category": "synthesis" },
+            { "id": "analyser", "french": "analyser", "english": "to analyse", "partOfSpeech": "verb", "pronunciation": "ah-nah-lee-ZAY", "example": "Il faut d'abord analyser le document dans son ensemble.", "exampleEnglish": "You must first analyse the document as a whole.", "level": "B2", "category": "synthesis" },
+            { "id": "structurer", "french": "structurer", "english": "to structure, to organise", "partOfSpeech": "verb", "pronunciation": "strook-tu-RAY", "example": "Une bonne note se structure en parties claires.", "exampleEnglish": "A good note is structured in clear parts.", "level": "B2", "category": "synthesis" },
+            { "id": "plan", "french": "le plan", "english": "the outline, the structure", "partOfSpeech": "noun", "gender": "m", "plural": "les plans", "pronunciation": "plahn", "example": "Établissez un plan avant de rédiger.", "exampleEnglish": "Draw up an outline before you start writing.", "level": "B2", "category": "synthesis" },
+            { "id": "introduction", "french": "l'introduction", "english": "the introduction", "partOfSpeech": "noun", "gender": "f", "plural": "les introductions", "pronunciation": "an-tro-duk-SYON", "example": "L'introduction présente la problématique en deux phrases.", "exampleEnglish": "The introduction presents the central question in two sentences.", "level": "B2", "category": "synthesis" },
+            { "id": "developpement", "french": "le développement", "english": "the development, the body (of a text)", "partOfSpeech": "noun", "gender": "m", "plural": "les développements", "pronunciation": "day-vuh-lop-MAHN", "example": "Le développement s'organise en deux parties.", "exampleEnglish": "The body is organised into two parts.", "level": "B2", "category": "synthesis" },
+            { "id": "partie", "french": "la partie", "english": "the part, the section", "partOfSpeech": "noun", "gender": "f", "plural": "les parties", "pronunciation": "par-TEE", "example": "La première partie traite des causes.", "exampleEnglish": "The first part deals with the causes.", "level": "B2", "category": "synthesis" },
+            { "id": "argument", "french": "l'argument", "english": "the argument, the point", "partOfSpeech": "noun", "gender": "m", "plural": "les arguments", "pronunciation": "ar-goo-MAHN", "example": "Chaque argument doit être appuyé par un fait.", "exampleEnglish": "Each argument must be backed by a fact.", "level": "B2", "category": "synthesis" },
+            { "id": "theme", "french": "le thème", "english": "the theme, the topic", "partOfSpeech": "noun", "gender": "m", "plural": "les thèmes", "pronunciation": "TEM", "example": "Le thème central du rapport est la mobilité urbaine.", "exampleEnglish": "The central theme of the report is urban mobility.", "level": "B2", "category": "synthesis" },
+            { "id": "problematique", "french": "la problématique", "english": "the central question, the issue at stake", "partOfSpeech": "noun", "gender": "f", "plural": "les problématiques", "pronunciation": "pro-blay-mah-TEEK", "example": "La problématique doit apparaître dès l'introduction.", "exampleEnglish": "The central question must appear from the introduction.", "level": "B2", "category": "synthesis" },
+            { "id": "degager", "french": "dégager", "english": "to bring out, to identify (an idea)", "partOfSpeech": "verb", "pronunciation": "day-gah-ZHAY", "example": "Le travail consiste à dégager les idées principales.", "exampleEnglish": "The task is to bring out the main ideas.", "level": "B2", "category": "synthesis" },
+            { "id": "mettre-en-evidence", "french": "mettre en évidence", "english": "to highlight, to bring to light", "partOfSpeech": "expression", "pronunciation": "metr ahn ay-vee-DAHNS", "example": "Le rapport met en évidence un déséquilibre régional.", "exampleEnglish": "The report highlights a regional imbalance.", "level": "B2", "category": "synthesis" },
+            { "id": "souligner", "french": "souligner", "english": "to underline, to emphasise", "partOfSpeech": "verb", "pronunciation": "soo-lee-NYAY", "example": "L'auteur souligne l'urgence de la situation.", "exampleEnglish": "The author emphasises the urgency of the situation.", "level": "B2", "category": "synthesis" },
+            { "id": "citer", "french": "citer", "english": "to quote, to cite", "partOfSpeech": "verb", "pronunciation": "see-TAY", "example": "Vous pouvez citer un chiffre clé sans le déformer.", "exampleEnglish": "You may cite one key figure without distorting it.", "level": "B2", "category": "synthesis" },
+            { "id": "paragraphe", "french": "le paragraphe", "english": "the paragraph", "partOfSpeech": "noun", "gender": "m", "plural": "les paragraphes", "pronunciation": "pah-rah-GRAF", "example": "Chaque paragraphe développe une seule idée.", "exampleEnglish": "Each paragraph develops a single idea.", "level": "B2", "category": "synthesis" },
+            { "id": "transition", "french": "la transition", "english": "the transition", "partOfSpeech": "noun", "gender": "f", "plural": "les transitions", "pronunciation": "trahn-zee-SYON", "example": "Une transition claire relie les deux parties.", "exampleEnglish": "A clear transition links the two parts.", "level": "B2", "category": "synthesis" },
+            { "id": "coherence", "french": "la cohérence", "english": "the coherence, the consistency", "partOfSpeech": "noun", "gender": "f", "pronunciation": "koh-ay-RAHNS", "example": "La cohérence du plan facilite la lecture.", "exampleEnglish": "The coherence of the outline makes it easier to read.", "level": "B2", "category": "synthesis" },
+            { "id": "hierarchiser", "french": "hiérarchiser", "english": "to prioritise, to rank", "partOfSpeech": "verb", "pronunciation": "yay-rar-shee-ZAY", "example": "Il faut hiérarchiser les informations avant de rédiger.", "exampleEnglish": "You must prioritise the information before writing.", "level": "B2", "category": "synthesis" },
+            { "id": "selectionner", "french": "sélectionner", "english": "to select", "partOfSpeech": "verb", "pronunciation": "say-lek-syo-NAY", "example": "Sélectionnez uniquement les faits essentiels.", "exampleEnglish": "Select only the essential facts.", "level": "B2", "category": "synthesis" },
+            { "id": "pertinent", "french": "pertinent", "english": "relevant, pertinent", "partOfSpeech": "adjective", "pronunciation": "pehr-tee-NAHN", "example": "Ne gardez que les exemples les plus pertinents.", "exampleEnglish": "Keep only the most relevant examples.", "level": "B2", "category": "synthesis" },
+            { "id": "essentiel", "french": "essentiel", "english": "essential", "partOfSpeech": "adjective", "pronunciation": "ay-sahn-SYEL", "example": "Concentrez-vous sur l'essentiel du texte.", "exampleEnglish": "Focus on what is essential in the text.", "level": "B2", "category": "synthesis" },
+            { "id": "condenser", "french": "condenser", "english": "to condense", "partOfSpeech": "verb", "pronunciation": "kon-dahn-SAY", "example": "Il faut condenser dix pages en une seule.", "exampleEnglish": "You have to condense ten pages into one.", "level": "B2", "category": "synthesis" },
+            { "id": "reformuler", "french": "reformuler", "english": "to rephrase, to reformulate", "partOfSpeech": "verb", "pronunciation": "ruh-for-moo-LAY", "example": "Reformulez chaque idée avec vos propres mots.", "exampleEnglish": "Rephrase each idea in your own words.", "level": "B2", "category": "synthesis" },
+            { "id": "objectivite", "french": "l'objectivité", "english": "objectivity", "partOfSpeech": "noun", "gender": "f", "pronunciation": "ob-zhek-tee-vee-TAY", "example": "La note de synthèse exige une grande objectivité.", "exampleEnglish": "The synthesis note requires a high degree of objectivity.", "level": "B2", "category": "synthesis" },
+            { "id": "neutre", "french": "neutre", "english": "neutral", "partOfSpeech": "adjective", "pronunciation": "NUH-truh", "example": "Adoptez un ton neutre, sans opinion personnelle.", "exampleEnglish": "Adopt a neutral tone, with no personal opinion.", "level": "B2", "category": "synthesis" },
+            { "id": "factuel", "french": "factuel", "english": "factual", "partOfSpeech": "adjective", "pronunciation": "fak-tu-EL", "example": "Restez factuel : citez des chiffres, pas des impressions.", "exampleEnglish": "Stay factual: cite figures, not impressions.", "level": "B2", "category": "synthesis" },
+            { "id": "exhaustif", "french": "exhaustif", "english": "exhaustive, comprehensive", "partOfSpeech": "adjective", "pronunciation": "eg-zohs-TEEF", "example": "Une synthèse n'a pas besoin d'être exhaustive.", "exampleEnglish": "A synthesis does not need to be exhaustive.", "level": "B2", "category": "synthesis" },
+            { "id": "concis", "french": "concis", "english": "concise", "partOfSpeech": "adjective", "pronunciation": "kon-SEE", "example": "Un style concis rend la note plus lisible.", "exampleEnglish": "A concise style makes the note more readable.", "level": "B2", "category": "synthesis" },
+            { "id": "structure", "french": "la structure", "english": "the structure", "partOfSpeech": "noun", "gender": "f", "plural": "les structures", "pronunciation": "strook-TOOR", "example": "La structure en trois parties est classique.", "exampleEnglish": "The three-part structure is a classic choice.", "level": "B2", "category": "synthesis" },
+            { "id": "articuler", "french": "articuler", "english": "to link together, to connect", "partOfSpeech": "verb", "pronunciation": "ar-tee-koo-LAY", "example": "Articulez vos idées avec des connecteurs logiques.", "exampleEnglish": "Link your ideas together with logical connectors.", "level": "B2", "category": "synthesis" },
+            { "id": "enchainement", "french": "l'enchaînement", "english": "the sequence, the flow (of ideas)", "partOfSpeech": "noun", "gender": "m", "plural": "les enchaînements", "pronunciation": "ahn-shen-MAHN", "example": "L'enchaînement des idées manque parfois de logique.", "exampleEnglish": "The flow of ideas sometimes lacks logic.", "level": "B2", "category": "synthesis" },
+            { "id": "point-de-vue", "french": "le point de vue", "english": "the point of view, the standpoint", "partOfSpeech": "noun", "gender": "m", "plural": "les points de vue", "pronunciation": "pwan duh VOO", "example": "La synthèse ne doit refléter aucun point de vue personnel.", "exampleEnglish": "The synthesis must not reflect any personal point of view.", "level": "B2", "category": "synthesis" },
+            { "id": "exposer", "french": "exposer", "english": "to set out, to present", "partOfSpeech": "verb", "pronunciation": "eks-poh-ZAY", "example": "Le texte expose d'abord les faits, puis les conséquences.", "exampleEnglish": "The text first sets out the facts, then the consequences.", "level": "B2", "category": "synthesis" },
+            { "id": "clarte", "french": "la clarté", "english": "clarity", "partOfSpeech": "noun", "gender": "f", "pronunciation": "klar-TAY", "example": "La clarté prime sur le style dans une note de synthèse.", "exampleEnglish": "Clarity comes before style in a synthesis note.", "level": "B2", "category": "synthesis" },
+            { "id": "conclusion", "french": "la conclusion", "english": "the conclusion", "partOfSpeech": "noun", "gender": "f", "plural": "les conclusions", "pronunciation": "kon-klu-ZYON", "example": "La conclusion rappelle les enjeux sans ajouter d'idée nouvelle.", "exampleEnglish": "The conclusion recalls the issues without adding a new idea.", "level": "B2", "category": "synthesis" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "The gérondif for concise linking",
+              "body": "The gérondif ('en' + present participle) packs two ideas into one economical clause — very useful in a note de synthèse, where space is limited. It can express simultaneity, manner, or cause without a second full clause.",
+              "examples": [
+                { "french": "En soulignant ce chiffre, l'auteur insiste sur l'urgence de la situation.", "english": "By highlighting this figure, the author stresses the urgency of the situation.", "note": "gérondif expressing manner" },
+                { "french": "Tout en reconnaissant les progrès, le rapport pointe des limites.", "english": "While acknowledging the progress, the report points out limitations.", "note": "'tout en' adds a concessive nuance" },
+                { "french": "En comparant les deux études, on observe des résultats proches.", "english": "By comparing the two studies, one observes similar results.", "note": "gérondif for method" }
+              ],
+              "tip": "The subject of the gérondif must be the same as the subject of the main clause — otherwise the sentence becomes ambiguous or incorrect."
+            },
+            {
+              "heading": "Logical connectors for structuring ideas",
+              "body": "A note de synthèse relies on precise connectors to make its structure visible at a glance: 'd'une part... d'autre part' to balance two ideas, 'par ailleurs' to add a related point, 'en revanche' to contrast, and 'en définitive' or 'en somme' to conclude.",
+              "examples": [
+                { "french": "D'une part, la demande augmente ; d'autre part, l'offre reste limitée.", "english": "On the one hand, demand is rising; on the other, supply remains limited.", "note": "balances two related facts" },
+                { "french": "Par ailleurs, le rapport mentionne un enjeu environnemental.", "english": "Furthermore, the report mentions an environmental issue.", "note": "adds a related, secondary point" },
+                { "french": "En définitive, le document appelle à une réforme progressive.", "english": "Ultimately, the document calls for gradual reform.", "note": "signals the conclusion" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "b2_u27_l03_li01", "type": "listenChoose", "french": "Le rapport met en évidence un déséquilibre régional.", "options": ["The report highlights a regional imbalance.", "The report ignores regional differences.", "The report was rejected.", "The report is exhaustive."], "answer": "The report highlights a regional imbalance." },
+            { "id": "b2_u27_l03_li02", "type": "listenChoose", "french": "D'une part, la demande augmente ; d'autre part, l'offre reste limitée.", "options": ["On the one hand demand rises, on the other supply stays limited.", "Demand and supply are both falling.", "Supply exceeds demand.", "The market is stable."], "answer": "On the one hand demand rises, on the other supply stays limited." },
+            { "id": "b2_u27_l03_li03", "type": "listenType", "french": "La cohérence du plan facilite la lecture du document.", "answer": "La cohérence du plan facilite la lecture du document.", "acceptedAnswers": ["la coherence du plan facilite la lecture du document"] },
+            { "id": "b2_u27_l03_li04", "type": "dictation", "french": "En définitive, le document appelle à une réforme progressive.", "answer": "En définitive, le document appelle à une réforme progressive.", "acceptedAnswers": ["en definitive le document appelle a une reforme progressive"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "b2_u27_l03_sp01", "type": "speak", "french": "Ce document synthétise les principaux résultats de l'étude.", "english": "This document synthesises the study's main findings.", "prompt": "Practise a typical opening line for a synthesis note.", "tip": "Give equal weight to each syllable of 'synthétise' — don't rush it." },
+            { "id": "b2_u27_l03_sp02", "type": "speak", "french": "D'une part, les coûts diminuent ; d'autre part, la qualité s'améliore.", "english": "On the one hand, costs are falling; on the other, quality is improving.", "prompt": "Practise the balanced connector 'd'une part... d'autre part'.", "tip": "Pause briefly at the semicolon to mark the balance between the two clauses." },
+            { "id": "b2_u27_l03_sp03", "type": "speak", "french": "En définitive, le texte appelle à une prise de conscience collective.", "english": "Ultimately, the text calls for a collective awareness.", "prompt": "Practise closing a synthesis note aloud.", "tip": "Lower your pitch slightly on 'en définitive' to signal the final point." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Note de synthèse : le télétravail en France",
+              "french": "Ce document propose une synthèse de plusieurs rapports consacrés à l'essor du télétravail en France depuis 2020.\nLes sources principales sont une étude du ministère du Travail et une enquête menée auprès de trois cents entreprises.\nLa problématique centrale est la suivante : le télétravail transforme-t-il durablement l'organisation du travail, ou ne s'agit-il que d'un ajustement temporaire ?\nD'une part, les études montrent une hausse constante du nombre de salariés concernés, en particulier dans les grandes entreprises urbaines.\nLes employés interrogés soulignent un meilleur équilibre entre vie professionnelle et vie personnelle, ainsi qu'une réduction du temps de transport.\nD'autre part, plusieurs rapports mettent en évidence des limites : isolement social, difficulté à séparer travail et repos, et inégalités selon les métiers.\nLes cadres et les employés de bureau bénéficient largement du télétravail, tandis que les métiers manuels en restent exclus.\nPar ailleurs, certaines entreprises constatent une baisse de la cohésion d'équipe et remettent en question l'efficacité des réunions à distance.\nEn revanche, d'autres organisations ont adopté un modèle hybride qui semble concilier flexibilité et maintien du lien collectif.\nCe modèle repose généralement sur deux ou trois jours de présence au bureau, réservés aux réunions et au travail collaboratif.\nCertains experts recommandent également une formation des managers à l'encadrement à distance.\nEn définitive, les documents analysés convergent vers une conclusion nuancée : le télétravail s'installe durablement, mais son organisation reste à ajuster.\nLes entreprises devront donc structurer des règles claires pour éviter les dérives tout en préservant les bénéfices observés.",
+              "english": "This document offers a synthesis of several reports on the rise of teleworking in France since 2020.\nThe main sources are a study by the Ministry of Labour and a survey conducted among three hundred companies.\nThe central question is as follows: does teleworking durably transform the organisation of work, or is it merely a temporary adjustment?\nOn the one hand, studies show a steady rise in the number of employees affected, particularly in large urban companies.\nEmployees surveyed point to a better balance between professional and personal life, as well as reduced commuting time.\nOn the other hand, several reports highlight limitations: social isolation, difficulty separating work from rest, and inequalities depending on occupation.\nExecutives and office employees benefit widely from teleworking, while manual trades remain excluded from it.\nFurthermore, some companies note a decline in team cohesion and question the effectiveness of remote meetings.\nIn contrast, other organisations have adopted a hybrid model that seems to reconcile flexibility with maintaining a collective bond.\nThis model generally relies on two or three days of office presence, reserved for meetings and collaborative work.\nSome experts also recommend training managers in remote management.\nUltimately, the documents analysed converge on a nuanced conclusion: teleworking is settling in for the long term, but its organisation still needs adjusting.\nCompanies will therefore need to set clear rules to avoid excesses while preserving the observed benefits.",
+              "questions": [
+                { "id": "b2_u27_l03_rd01", "type": "multipleChoice", "prompt": "What is the central question (problématique) of this synthesis?", "options": ["Whether teleworking is a lasting transformation or a temporary adjustment", "Whether salaries should increase", "Whether offices should be closed permanently", "Whether commuting time is too long"], "answer": "Whether teleworking is a lasting transformation or a temporary adjustment" },
+                { "id": "b2_u27_l03_rd02", "type": "trueFalse", "prompt": "According to the synthesis, manual trades benefit from teleworking as much as office employees.", "options": ["True", "False"], "answer": "False" },
+                { "id": "b2_u27_l03_rd03", "type": "multipleChoice", "prompt": "What do some organisations adopt to balance flexibility with team cohesion?", "options": ["A hybrid model with days in the office", "A total ban on remote meetings", "A four-day work week", "An increase in business travel"], "answer": "A hybrid model with days in the office" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "b2_u27_l03_wr01", "type": "translate", "prompt": "This document highlights three major issues.", "english": "This document highlights three major issues.", "answer": "Ce document met en évidence trois enjeux majeurs.", "acceptedAnswers": ["ce document met en evidence trois enjeux majeurs"] },
+            { "id": "b2_u27_l03_wr02", "type": "translate", "prompt": "On the one hand costs are falling, on the other quality is improving.", "english": "On the one hand costs are falling, on the other quality is improving.", "answer": "D'une part les coûts diminuent, d'autre part la qualité s'améliore.", "acceptedAnswers": ["d'une part les couts diminuent d'autre part la qualite s'ameliore", "d une part les couts diminuent d autre part la qualite s ameliore"] },
+            { "id": "b2_u27_l03_wr03", "type": "arrangeWords", "words": ["En", "définitive,", "le", "texte", "appelle", "à", "une", "réforme", "progressive."], "answer": "En définitive, le texte appelle à une réforme progressive.", "english": "Ultimately, the text calls for gradual reform." }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "b2_u27_l03_pr01", "type": "multipleChoice", "prompt": "What should a note de synthèse avoid including?", "options": ["The writer's personal opinion", "Facts from the source", "A clear structure", "A short conclusion"], "answer": "The writer's personal opinion" },
+            { "id": "b2_u27_l03_pr02", "type": "fillBlank", "prompt": "D'une part... d'___ part.", "answer": "autre" },
+            { "id": "b2_u27_l03_pr03", "type": "trueFalse", "prompt": "Hierarchizing information means deciding what is essential and what can be cut.", "options": ["True", "False"], "answer": "True" },
+            { "id": "b2_u27_l03_pr04", "type": "match", "pairs": [ { "french": "la problématique", "english": "the central question" }, { "french": "hiérarchiser", "english": "to prioritise, to rank" }, { "french": "condenser", "english": "to condense" }, { "french": "en définitive", "english": "ultimately" } ] },
+            { "id": "b2_u27_l03_pr05", "type": "translate", "prompt": "Rephrase each idea in your own words.", "english": "Rephrase each idea in your own words.", "answer": "Reformulez chaque idée avec vos propres mots.", "acceptedAnswers": ["reformulez chaque idee avec vos propres mots"] },
+            { "id": "b2_u27_l03_pr06", "type": "multipleChoice", "prompt": "What does 'mettre en évidence' mean?", "options": ["To highlight, to bring to light", "To hide", "To delete", "To question"], "answer": "To highlight, to bring to light" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "b2_u27_l03_qz01", "type": "multipleChoice", "prompt": "What is the main goal of a note de synthèse?", "options": ["To condense a source into a structured, objective text", "To give a personal opinion on a topic", "To copy the source word for word", "To write a long detailed report"], "answer": "To condense a source into a structured, objective text" },
+            { "id": "b2_u27_l03_qz02", "type": "fillBlank", "prompt": "En ___, le document appelle à une réforme progressive.", "answer": "définitive" },
+            { "id": "b2_u27_l03_qz03", "type": "trueFalse", "prompt": "A note de synthèse should reflect the writer's personal point of view.", "options": ["True", "False"], "answer": "False" },
+            { "id": "b2_u27_l03_qz04", "type": "translate", "prompt": "Only the relevant elements should be retained.", "english": "Only the relevant elements should be retained.", "answer": "Il convient de retenir uniquement les éléments pertinents.", "acceptedAnswers": ["il convient de retenir uniquement les elements pertinents"] },
+            { "id": "b2_u27_l03_qz05", "type": "multipleChoice", "prompt": "Which connector introduces a contrast in French?", "options": ["En revanche", "Par ailleurs", "Ainsi", "De plus"], "answer": "En revanche" }
+          ]
+        }
+      ]
+    }
+  ]
+}

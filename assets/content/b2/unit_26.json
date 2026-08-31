@@ -1,0 +1,578 @@
+{
+  "id": "b2_u26",
+  "level": "B2",
+  "unit": 26,
+  "title": "Persuasion Techniques",
+  "subtitle": "Structure a formal argument, deploy rhetorical devices, and answer objections with tact",
+  "icon": "🗣️",
+  "lessons": [
+    {
+      "id": "b2_u26_l01",
+      "level": "B2",
+      "unit": 26,
+      "title": "Structurer un argumentaire",
+      "description": "Build a formal argument that moves cleanly from thesis to evidence, counter-argument, and conclusion.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "La thèse : annoncer sa position",
+              "body": "A formal French argument ('un argumentaire') opens by stating 'la thèse' — the single claim everything else will support. State it early, in one clear sentence, before any evidence appears; French readers expect to know your position before they read your reasons. Avoid hedging in the thesis itself ('on pourrait peut-être penser que...'); save nuance for later and let the opening sentence be direct.",
+              "examples": [
+                { "french": "Ma thèse est simple : ce projet coûte plus qu'il ne rapporte.", "english": "My thesis is simple: this project costs more than it brings in." },
+                { "french": "Je soutiens que le télétravail améliore la productivité à long terme.", "english": "I maintain that remote work improves productivity in the long run." },
+                { "french": "Cet argumentaire défend une idée centrale : la formation continue doit être obligatoire.", "english": "This argument defends one central idea: ongoing training should be mandatory." },
+                { "french": "D'entrée de jeu, précisons notre position sur cette réforme.", "english": "From the outset, let's make our position on this reform clear." },
+                { "french": "Contrairement à une idée reçue, cette mesure profite surtout aux petites entreprises.", "english": "Contrary to popular belief, this measure mainly benefits small businesses." }
+              ],
+              "tip": "Underline your thesis mentally as you write it — every later paragraph should point back to that one sentence, never wander off it."
+            },
+            {
+              "heading": "Les preuves et le contre-argument",
+              "body": "Once the thesis is stated, 'le développement' supplies 'des preuves' — facts, statistics, or examples — each introduced by a connector such as 'd'abord', 'ensuite', or 'de plus'. A B2-level argument then does something weaker writers skip: it names 'le contre-argument' honestly, using 'cependant' or 'en revanche', before showing why the thesis still stands. Conceding a real weakness briefly, then answering it, reads as more convincing than ignoring it.",
+              "examples": [
+                { "french": "D'abord, les chiffres de l'INSEE confirment cette tendance depuis dix ans.", "english": "First, INSEE figures confirm this trend over the past ten years." },
+                { "french": "De plus, plusieurs entreprises pilotes ont déjà constaté les mêmes résultats.", "english": "What is more, several pilot companies have already observed the same results." },
+                { "french": "Certains objecteront que le coût initial reste élevé.", "english": "Some will object that the initial cost remains high." },
+                { "french": "Cependant, cet investissement s'amortit en moins de deux ans.", "english": "However, this investment pays for itself in under two years." },
+                { "french": "On pourrait croire que cette mesure ne touche que les grandes villes ; en réalité, elle concerne tout le territoire.", "english": "One might think this measure only affects big cities; in reality, it concerns the whole country." }
+              ],
+              "tip": "Naming the counter-argument yourself, before an opponent does, is a classic move in French formal debate — it signals you have thought the issue through."
+            },
+            {
+              "heading": "La conclusion : boucler l'argumentaire",
+              "body": "'La conclusion' does not introduce new evidence; it restates the thesis in a fresh sentence and shows, in one or two lines, why the evidence just given supports it. French formal writing favours a closing connector — 'en conclusion', 'pour conclure', 'en somme' — so the reader hears the argument end rather than simply stop. A strong conclusion often ends on a slightly wider note: a consequence, a recommendation, or a question that lingers.",
+              "examples": [
+                { "french": "En conclusion, les avantages l'emportent nettement sur les inconvénients.", "english": "In conclusion, the advantages clearly outweigh the drawbacks." },
+                { "french": "Pour conclure, cette réforme mérite d'être testée à plus grande échelle.", "english": "To conclude, this reform deserves to be tested on a larger scale." },
+                { "french": "En somme, l'argumentaire repose sur des faits vérifiables, pas sur des impressions.", "english": "In short, the argument rests on verifiable facts, not on impressions." },
+                { "french": "Ainsi, la question n'est plus de savoir si, mais quand appliquer cette mesure.", "english": "Thus, the question is no longer whether, but when to apply this measure." },
+                { "french": "Par conséquent, il paraît raisonnable d'adopter cette proposition dès la rentrée.", "english": "Consequently, it seems reasonable to adopt this proposal starting in the autumn." }
+              ],
+              "tip": "Never end on the counter-argument — always give the thesis the last word."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "la-these", "french": "la thèse", "english": "the thesis, the main claim", "partOfSpeech": "noun", "gender": "f", "plural": "thèses", "pronunciation": "lah TEZ", "example": "Ma thèse est simple : ce projet coûte plus qu'il ne rapporte.", "exampleEnglish": "My thesis is simple: this project costs more than it brings in.", "level": "B2", "category": "argumentation" },
+            { "id": "un-argument", "french": "un argument", "english": "an argument, a supporting reason", "partOfSpeech": "noun", "gender": "m", "plural": "arguments", "pronunciation": "uhn nar-gu-MAHN", "example": "Voici mon premier argument en faveur de cette réforme.", "exampleEnglish": "Here is my first argument in favour of this reform.", "level": "B2", "category": "argumentation" },
+            { "id": "la-preuve", "french": "la preuve", "english": "the proof, the evidence", "partOfSpeech": "noun", "gender": "f", "plural": "preuves", "pronunciation": "lah PRUHV", "example": "Une bonne thèse s'appuie toujours sur des preuves solides.", "exampleEnglish": "A good thesis always rests on solid evidence.", "level": "B2", "category": "argumentation" },
+            { "id": "le-contre-argument", "french": "le contre-argument", "english": "the counter-argument", "partOfSpeech": "noun", "gender": "m", "plural": "contre-arguments", "pronunciation": "luh kohn-trar-gu-MAHN", "example": "Un bon argumentaire anticipe le contre-argument de l'adversaire.", "exampleEnglish": "A good argument anticipates the opponent's counter-argument.", "level": "B2", "category": "argumentation" },
+            { "id": "la-conclusion", "french": "la conclusion", "english": "the conclusion", "partOfSpeech": "noun", "gender": "f", "plural": "conclusions", "pronunciation": "lah kohn-kloo-ZYOHN", "example": "La conclusion doit répondre clairement à la question posée.", "exampleEnglish": "The conclusion must clearly answer the question that was asked.", "level": "B2", "category": "argumentation" },
+            { "id": "une-opinion", "french": "une opinion", "english": "an opinion", "partOfSpeech": "noun", "gender": "f", "plural": "opinions", "pronunciation": "ewn oh-pee-NYOHN", "example": "Une opinion n'est pas un argument tant qu'elle n'est pas justifiée.", "exampleEnglish": "An opinion is not an argument until it is justified.", "level": "B2", "category": "argumentation" },
+            { "id": "un-point-de-vue", "french": "un point de vue", "english": "a point of view, a viewpoint", "partOfSpeech": "noun", "gender": "m", "plural": "points de vue", "pronunciation": "uhn pwan duh VU", "example": "Le texte expose deux points de vue opposés.", "exampleEnglish": "The text presents two opposing points of view.", "level": "B2", "category": "argumentation" },
+            { "id": "convaincre", "french": "convaincre", "english": "to convince", "partOfSpeech": "verb", "pronunciation": "kohn-VANKR", "example": "Pour convaincre, il faut d'abord organiser ses idées.", "exampleEnglish": "To convince people, you must first organise your ideas.", "level": "B2", "category": "argumentation" },
+            { "id": "persuader", "french": "persuader", "english": "to persuade", "partOfSpeech": "verb", "pronunciation": "pehr-swah-DAY", "example": "Elle a réussi à persuader le jury avec un seul exemple bien choisi.", "exampleEnglish": "She managed to persuade the panel with just one well-chosen example.", "level": "B2", "category": "argumentation" },
+            { "id": "refuter", "french": "réfuter", "english": "to refute", "partOfSpeech": "verb", "pronunciation": "ray-fu-TAY", "example": "Il réfute chaque contre-argument avant même qu'on le formule.", "exampleEnglish": "He refutes every counter-argument before it is even raised.", "level": "B2", "category": "argumentation" },
+            { "id": "demontrer", "french": "démontrer", "english": "to demonstrate, to prove", "partOfSpeech": "verb", "pronunciation": "day-mohn-TRAY", "example": "Ces chiffres démontrent que la thèse initiale était fausse.", "exampleEnglish": "These figures demonstrate that the initial thesis was wrong.", "level": "B2", "category": "argumentation" },
+            { "id": "soutenir", "french": "soutenir", "english": "to support, to back (an argument)", "partOfSpeech": "verb", "pronunciation": "soot-NEER", "example": "Chaque idée doit être soutenue par un exemple précis.", "exampleEnglish": "Every idea must be supported by a specific example.", "level": "B2", "category": "argumentation" },
+            { "id": "justifier", "french": "justifier", "english": "to justify", "partOfSpeech": "verb", "pronunciation": "zhu-stee-fee-AY", "example": "Justifiez votre position avant de passer à l'idée suivante.", "exampleEnglish": "Justify your position before moving to the next idea.", "level": "B2", "category": "argumentation" },
+            { "id": "affirmer", "french": "affirmer", "english": "to assert, to state firmly", "partOfSpeech": "verb", "pronunciation": "ah-feer-MAY", "example": "L'auteur affirme sa thèse dès la première phrase.", "exampleEnglish": "The author asserts his thesis from the very first sentence.", "level": "B2", "category": "argumentation" },
+            { "id": "convaincant", "french": "convaincant", "english": "convincing", "partOfSpeech": "adjective", "pronunciation": "kohn-van-KAHN", "example": "Son argumentaire est convaincant parce qu'il est bien structuré.", "exampleEnglish": "Her argument is convincing because it is well structured.", "level": "B2", "category": "argumentation" },
+            { "id": "illustrer", "french": "illustrer", "english": "to illustrate", "partOfSpeech": "verb", "pronunciation": "ee-loos-TRAY", "example": "Illustrez chaque argument par un exemple concret.", "exampleEnglish": "Illustrate each argument with a concrete example.", "level": "B2", "category": "argumentation" },
+            { "id": "un-exemple", "french": "un exemple", "english": "an example", "partOfSpeech": "noun", "gender": "m", "plural": "exemples", "pronunciation": "uhn nek-ZAHN-pluh", "example": "Un exemple précis vaut mieux qu'une longue explication.", "exampleEnglish": "A precise example is worth more than a long explanation.", "level": "B2", "category": "argumentation" },
+            { "id": "un-fait", "french": "un fait", "english": "a fact", "partOfSpeech": "noun", "gender": "m", "plural": "faits", "pronunciation": "uhn FEH", "example": "Distinguez toujours un fait d'une simple opinion.", "exampleEnglish": "Always distinguish a fact from a mere opinion.", "level": "B2", "category": "argumentation" },
+            { "id": "une-statistique", "french": "une statistique", "english": "a statistic", "partOfSpeech": "noun", "gender": "f", "plural": "statistiques", "pronunciation": "ewn stah-tees-TEEK", "example": "Cette statistique renforce considérablement la thèse défendue.", "exampleEnglish": "This statistic considerably strengthens the thesis being defended.", "level": "B2", "category": "argumentation" },
+            { "id": "developper", "french": "développer", "english": "to develop, to expand on", "partOfSpeech": "verb", "pronunciation": "day-vlop-AY", "example": "Développez votre deuxième argument en deux ou trois phrases.", "exampleEnglish": "Develop your second argument in two or three sentences.", "level": "B2", "category": "argumentation" },
+            { "id": "introduire", "french": "introduire", "english": "to introduce", "partOfSpeech": "verb", "pronunciation": "an-tro-DWEER", "example": "Cette phrase sert à introduire le sujet du débat.", "exampleEnglish": "This sentence serves to introduce the topic of the debate.", "level": "B2", "category": "argumentation" },
+            { "id": "la-structure", "french": "la structure", "english": "the structure", "partOfSpeech": "noun", "gender": "f", "plural": "structures", "pronunciation": "lah strook-TUER", "example": "La structure d'un bon argumentaire suit toujours le même schéma.", "exampleEnglish": "The structure of a good argument always follows the same pattern.", "level": "B2", "category": "argumentation" },
+            { "id": "un-plan", "french": "un plan", "english": "an outline, a plan", "partOfSpeech": "noun", "gender": "m", "plural": "plans", "pronunciation": "uhn PLAHN", "example": "Faites un plan avant d'écrire votre argumentaire.", "exampleEnglish": "Make an outline before writing your argument.", "level": "B2", "category": "argumentation" },
+            { "id": "l-introduction", "french": "l'introduction", "english": "the introduction", "partOfSpeech": "noun", "gender": "f", "plural": "introductions", "pronunciation": "lan-tro-dük-SYON", "example": "L'introduction annonce la thèse que vous allez défendre.", "exampleEnglish": "The introduction announces the thesis you are going to defend.", "level": "B2", "category": "argumentation" },
+            { "id": "le-developpement", "french": "le développement", "english": "the development, the body (of an argument)", "partOfSpeech": "noun", "gender": "m", "plural": "développements", "pronunciation": "luh day-vlop-MAHN", "example": "Le développement présente les preuves, puis le contre-argument.", "exampleEnglish": "The body presents the evidence, then the counter-argument.", "level": "B2", "category": "argumentation" },
+            { "id": "une-etape", "french": "une étape", "english": "a stage, a step", "partOfSpeech": "noun", "gender": "f", "plural": "étapes", "pronunciation": "ewn ay-TAHP", "example": "Structurer un argumentaire, c'est suivre quatre étapes précises.", "exampleEnglish": "Structuring an argument means following four precise steps.", "level": "B2", "category": "argumentation" },
+            { "id": "cependant", "french": "cependant", "english": "however", "partOfSpeech": "conjunction", "pronunciation": "suh-pahn-DAHN", "example": "Cependant, cette preuve reste insuffisante à elle seule.", "exampleEnglish": "However, this evidence is not enough on its own.", "level": "B2", "category": "argumentation" },
+            { "id": "neanmoins", "french": "néanmoins", "english": "nevertheless", "partOfSpeech": "adverb", "pronunciation": "nay-ahn-MWAN", "example": "Néanmoins, il faut reconnaître les limites de cette étude.", "exampleEnglish": "Nevertheless, we must acknowledge the limits of this study.", "level": "B2", "category": "argumentation" },
+            { "id": "par-consequent", "french": "par conséquent", "english": "consequently", "partOfSpeech": "expression", "pronunciation": "par kohn-say-KAHN", "example": "Par conséquent, la conclusion s'impose d'elle-même.", "exampleEnglish": "Consequently, the conclusion follows naturally.", "level": "B2", "category": "argumentation" },
+            { "id": "ainsi", "french": "ainsi", "english": "thus, in this way", "partOfSpeech": "adverb", "pronunciation": "an-SEE", "example": "Ainsi, chaque partie de l'argumentaire répond à la précédente.", "exampleEnglish": "Thus, each part of the argument answers the one before it.", "level": "B2", "category": "argumentation" },
+            { "id": "en-revanche", "french": "en revanche", "english": "on the other hand", "partOfSpeech": "expression", "pronunciation": "ahn ruh-VAHNSH", "example": "En revanche, le contre-argument mérite d'être nuancé.", "exampleEnglish": "On the other hand, the counter-argument deserves to be qualified.", "level": "B2", "category": "argumentation" },
+            { "id": "en-conclusion", "french": "en conclusion", "english": "in conclusion", "partOfSpeech": "expression", "pronunciation": "ahn kohn-klu-ZYOHN", "example": "En conclusion, cet argumentaire répond point par point à l'objection.", "exampleEnglish": "In conclusion, this argument answers the objection point by point.", "level": "B2", "category": "argumentation" },
+            { "id": "d-abord", "french": "d'abord", "english": "first, first of all", "partOfSpeech": "adverb", "pronunciation": "dah-BOR", "example": "D'abord, présentez clairement votre thèse.", "exampleEnglish": "First, clearly present your thesis.", "level": "B2", "category": "argumentation" },
+            { "id": "ensuite", "french": "ensuite", "english": "then, next", "partOfSpeech": "adverb", "pronunciation": "ahn-SWEET", "example": "Ensuite, apportez une preuve pour chaque argument.", "exampleEnglish": "Next, provide evidence for each argument.", "level": "B2", "category": "argumentation" },
+            { "id": "de-plus", "french": "de plus", "english": "in addition, what is more", "partOfSpeech": "expression", "pronunciation": "duh PLUS", "example": "De plus, cet exemple illustre parfaitement mon propos.", "exampleEnglish": "What is more, this example illustrates my point perfectly.", "level": "B2", "category": "argumentation" },
+            { "id": "par-ailleurs", "french": "par ailleurs", "english": "moreover, besides", "partOfSpeech": "expression", "pronunciation": "par ah-YUHR", "example": "Par ailleurs, cette statistique confirme la tendance observée.", "exampleEnglish": "Moreover, this statistic confirms the trend observed.", "level": "B2", "category": "argumentation" },
+            { "id": "enfin", "french": "enfin", "english": "finally, lastly", "partOfSpeech": "adverb", "pronunciation": "ahn-FAN", "example": "Enfin, la conclusion reprend la thèse en une phrase forte.", "exampleEnglish": "Finally, the conclusion restates the thesis in one strong sentence.", "level": "B2", "category": "argumentation" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Les connecteurs logiques d'un argumentaire",
+              "body": "French formal argument leans on a fixed toolkit of connectors, grouped by function: sequence ('d'abord', 'ensuite', 'enfin'), addition ('de plus', 'par ailleurs'), opposition ('cependant', 'en revanche', 'néanmoins'), and consequence ('par conséquent', 'ainsi'). Using one from each group, in that rough order, is what makes a paragraph read as reasoned rather than as a list of loose sentences. Mixing an addition connector where an opposition one belongs is a common, jarring B2 mistake — check that the connector actually matches the logical move you are making.",
+              "examples": [
+                { "french": "D'abord, la mesure réduit les coûts ; ensuite, elle simplifie les démarches.", "english": "First, the measure reduces costs; then, it simplifies procedures." },
+                { "french": "De plus, elle bénéficie d'un large soutien parmi les employés.", "english": "What is more, it enjoys wide support among employees." },
+                { "french": "Cependant, sa mise en place demande une formation initiale.", "english": "However, putting it in place requires initial training." },
+                { "french": "Par conséquent, un budget de transition semble indispensable.", "english": "Consequently, a transition budget seems essential." }
+              ],
+              "tip": "Read your paragraph aloud and check each connector: does it really add, oppose, or conclude — or did you pick it just for variety?"
+            },
+            {
+              "heading": "Exprimer la nécessité : il est essentiel de / que",
+              "body": "Formal argument often states what must be done rather than what merely happens, using impersonal structures: 'il est essentiel de' + infinitive (same subject as the sentence) or 'il est essentiel que' + subjunctive (different subject introduced). The same pattern works with 'il convient de/que', 'il importe de/que', and 'il faut que'. Choosing the infinitive or the subjunctive is not free variation — it depends on whether a new subject is named after 'que'.",
+              "examples": [
+                { "french": "Il est essentiel de présenter des preuves concrètes.", "english": "It is essential to present concrete evidence." },
+                { "french": "Il est essentiel que le lecteur comprenne la thèse dès la première ligne.", "english": "It is essential that the reader understand the thesis from the first line." },
+                { "french": "Il convient de traiter le contre-argument avant de conclure.", "english": "It is fitting to address the counter-argument before concluding." },
+                { "french": "Il importe que chaque idée soit illustrée par un exemple.", "english": "It matters that every idea be illustrated with an example." }
+              ],
+              "tip": "No new subject after 'que' → use the infinitive form ('il est essentiel de + verb'); a new subject appears → switch to the subjunctive."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "b2_u26_l01_li01", "type": "listenChoose", "prompt": "Listen. What is the speaker doing?", "french": "Ma thèse est simple : ce projet coûte plus qu'il ne rapporte.", "options": ["Stating a clear thesis", "Asking a question", "Making a joke", "Reading a statistic"], "answer": "Stating a clear thesis" },
+            { "id": "b2_u26_l01_li02", "type": "listenChoose", "prompt": "Listen. What move does the speaker make first?", "french": "Certains objecteront que le coût initial reste élevé. Cependant, cet investissement s'amortit en moins de deux ans.", "options": ["Naming a counter-argument, then answering it", "Ignoring all objections", "Changing the subject", "Repeating the thesis twice"], "answer": "Naming a counter-argument, then answering it" },
+            { "id": "b2_u26_l01_li03", "type": "listenType", "prompt": "Listen and type what you hear.", "french": "En conclusion, les avantages l'emportent nettement sur les inconvénients.", "answer": "En conclusion, les avantages l'emportent nettement sur les inconvénients.", "acceptedAnswers": ["en conclusion les avantages l'emportent nettement sur les inconvenients", "en conclusion les avantages lemportent nettement sur les inconvenients"] },
+            { "id": "b2_u26_l01_li04", "type": "dictation", "prompt": "Listen carefully and write exactly what you hear.", "french": "Il est essentiel de présenter des preuves concrètes avant de tirer une conclusion.", "answer": "Il est essentiel de présenter des preuves concrètes avant de tirer une conclusion.", "acceptedAnswers": ["il est essentiel de presenter des preuves concretes avant de tirer une conclusion"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "b2_u26_l01_sp01", "type": "speak", "prompt": "State a clear thesis about remote work and productivity.", "french": "Je soutiens que le télétravail améliore la productivité à long terme.", "english": "I maintain that remote work improves productivity in the long run.", "tip": "Stress 'soutiens' — it announces that a defended position, not a fact, is coming." },
+            { "id": "b2_u26_l01_sp02", "type": "speak", "prompt": "Name a counter-argument, then dismiss it with 'cependant'.", "french": "Certains objecteront que le coût initial reste élevé. Cependant, cet investissement s'amortit en moins de deux ans.", "english": "Some will object that the initial cost remains high. However, this investment pays for itself in under two years.", "tip": "Pause slightly before 'cependant' — the silence signals the turn in your reasoning." },
+            { "id": "b2_u26_l01_sp03", "type": "speak", "prompt": "Close an argument with a conclusion connector.", "french": "En conclusion, cette réforme mérite d'être testée à plus grande échelle.", "english": "In conclusion, this reform deserves to be tested on a larger scale.", "tip": "'En conclusion' should sound final — slow your pace slightly on this closing sentence." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Le conseil municipal",
+              "french": "Le mardi soir, la salle du conseil municipal est pleine à craquer.\nCamille, étudiante en droit, prend la parole pour la première fois.\n— Ma thèse est simple : notre quartier a besoin d'une piste cyclable sécurisée.\nElle marque une pause, puis reprend d'une voix posée.\n— D'abord, le nombre d'accidents impliquant des cyclistes a doublé en trois ans.\n— Ensuite, une étude de la mairie de Lyon montre qu'une piste réduit ce chiffre de moitié.\n— De plus, les commerçants du quartier soutiennent le projet : ils espèrent plus de clients à vélo.\nUn conseiller lève la main.\n— Certains objecteront que les travaux coûteront cher et dureront plusieurs mois.\nCamille hoche la tête, sans se démonter.\n— Cependant, une subvention régionale couvrirait soixante pour cent du budget.\n— En revanche, retarder ce projet coûterait plus cher encore, en accidents évités.\nElle conclut d'une phrase ferme.\n— En conclusion, cette piste cyclable profite à tous : cyclistes, commerçants, et riverains.\nLe président du conseil la remercie chaleureusement pour cet argumentaire limpide.",
+              "english": "On Tuesday evening, the council chamber is packed.\nCamille, a law student, speaks for the first time.\n— My thesis is simple: our neighbourhood needs a safe cycle path.\nShe pauses, then continues in a steady voice.\n— First, the number of accidents involving cyclists has doubled in three years.\n— Next, a study by the city of Lyon shows that a cycle path cuts that number in half.\n— What is more, local shopkeepers support the project: they expect more customers on bikes.\nA council member raises his hand.\n— Some will object that the works will be expensive and last several months.\nCamille nods, unfazed.\n— However, a regional grant would cover sixty percent of the budget.\n— On the other hand, delaying this project would cost even more, in accidents that could have been avoided.\nShe closes with one firm sentence.\n— In conclusion, this cycle path benefits everyone: cyclists, shopkeepers, and residents alike.\nThe council chair thanks her warmly for such a clear argument.",
+              "questions": [
+                { "id": "b2_u26_l01_rd01", "type": "multipleChoice", "prompt": "Quelle est la thèse de Camille ?", "options": ["Le quartier a besoin d'une piste cyclable sécurisée", "Le conseil municipal doit être supprimé", "Les commerçants doivent fermer plus tôt", "Les accidents de vélo ont diminué"], "answer": "Le quartier a besoin d'une piste cyclable sécurisée" },
+                { "id": "b2_u26_l01_rd02", "type": "trueFalse", "prompt": "Camille ignore complètement l'objection sur le coût des travaux.", "options": ["True", "False"], "answer": "False" },
+                { "id": "b2_u26_l01_rd03", "type": "multipleChoice", "prompt": "Que répond Camille à propos de l'idée de retarder le projet ?", "options": ["Retarder le projet coûterait plus cher, en accidents évités", "Retarder le projet ne changerait rien", "Elle est d'accord pour retarder le projet", "Elle refuse de répondre à cette objection"], "answer": "Retarder le projet coûterait plus cher, en accidents évités" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "b2_u26_l01_wr01", "type": "translate", "prompt": "My thesis is simple: this measure benefits everyone.", "english": "My thesis is simple: this measure benefits everyone.", "answer": "Ma thèse est simple : cette mesure profite à tous.", "acceptedAnswers": ["ma these est simple cette mesure profite a tous"] },
+            { "id": "b2_u26_l01_wr02", "type": "fillBlank", "prompt": "___, les commerçants du quartier soutiennent le projet.", "answer": "De plus" },
+            { "id": "b2_u26_l01_wr03", "type": "translate", "prompt": "In conclusion, this cycle path benefits everyone.", "english": "In conclusion, this cycle path benefits everyone.", "answer": "En conclusion, cette piste cyclable profite à tous.", "acceptedAnswers": ["en conclusion cette piste cyclable profite a tous"] }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "b2_u26_l01_pr01", "type": "multipleChoice", "prompt": "Quel mot désigne la position centrale que défend un argumentaire ?", "options": ["la thèse", "le contre-argument", "la conclusion", "l'exemple"], "answer": "la thèse" },
+            { "id": "b2_u26_l01_pr02", "type": "fillBlank", "prompt": "Il est essentiel ___ présenter des preuves concrètes.", "answer": "de" },
+            { "id": "b2_u26_l01_pr03", "type": "trueFalse", "prompt": "Une bonne conclusion introduit toujours une preuve nouvelle.", "options": ["True", "False"], "answer": "False" },
+            { "id": "b2_u26_l01_pr04", "type": "match", "pairs": [ { "french": "d'abord", "english": "first" }, { "french": "cependant", "english": "however" }, { "french": "par conséquent", "english": "consequently" }, { "french": "en conclusion", "english": "in conclusion" } ] },
+            { "id": "b2_u26_l01_pr05", "type": "arrangeWords", "words": ["preuves", "des", "sur", "thèse", "solides", "s'appuie", "la"], "answer": "la thèse s'appuie sur des preuves solides", "english": "The thesis rests on solid evidence." },
+            { "id": "b2_u26_l01_pr06", "type": "multipleChoice", "prompt": "Quelle expression sert à introduire un contre-argument ?", "options": ["certains objecteront que", "de plus", "d'abord", "en conclusion"], "answer": "certains objecteront que" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "b2_u26_l01_qz01", "type": "multipleChoice", "prompt": "Que doit toujours faire la conclusion d'un argumentaire ?", "options": ["Redonner le dernier mot à la thèse", "Présenter une preuve nouvelle", "Introduire le contre-argument", "Poser une question sans réponse"], "answer": "Redonner le dernier mot à la thèse" },
+            { "id": "b2_u26_l01_qz02", "type": "translate", "prompt": "This investment pays for itself in under two years.", "english": "This investment pays for itself in under two years.", "answer": "Cet investissement s'amortit en moins de deux ans.", "acceptedAnswers": ["cet investissement s'amortit en moins de deux ans", "cet investissement samortit en moins de deux ans"] },
+            { "id": "b2_u26_l01_qz03", "type": "fillBlank", "prompt": "___, la conclusion s'impose d'elle-même.", "answer": "Par conséquent" },
+            { "id": "b2_u26_l01_qz04", "type": "trueFalse", "prompt": "Nommer soi-même le contre-argument avant l'adversaire est une stratégie efficace.", "options": ["True", "False"], "answer": "True" },
+            { "id": "b2_u26_l01_qz05", "type": "multipleChoice", "prompt": "Quelle partie de l'argumentaire présente les preuves et le contre-argument ?", "options": ["le développement", "l'introduction", "la thèse", "la conclusion"], "answer": "le développement" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2_u26_l02",
+      "level": "B2",
+      "unit": 26,
+      "title": "Les figures de l'argumentation",
+      "description": "Recognise and use rhetorical devices — rhetorical question, anaphora, gradation — that make a speech memorable and persuasive.",
+      "estimatedMinutes": 20,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "La question rhétorique",
+              "body": "'La question rhétorique' is asked without expecting an answer — the answer is already obvious to the audience, and the question exists to make them arrive at it themselves. In formal French speech, it usually appears at a turning point in the argument, right after the evidence, so that the audience answers 'yes, of course' in their own heads before the speaker moves on. Overusing it flattens the effect, so B2 speakers reserve it for a single decisive moment.",
+              "examples": [
+                { "french": "Qui accepterait de perdre son emploi sans réagir ?", "english": "Who would accept losing their job without reacting?" },
+                { "french": "Comment rester silencieux face à des chiffres aussi alarmants ?", "english": "How can one stay silent in the face of such alarming figures?" },
+                { "french": "Faut-il rappeler que ce projet a déjà fait ses preuves ailleurs ?", "english": "Need we recall that this project has already proven itself elsewhere?" },
+                { "french": "N'est-il pas temps d'agir, plutôt que d'attendre encore ?", "english": "Is it not time to act, rather than wait any longer?" },
+                { "french": "Qui, sincèrement, peut croire que rien ne changera ?", "english": "Who, honestly, can believe that nothing will change?" }
+              ],
+              "tip": "A rhetorical question works best right after a fact, not before it — let the evidence do the convincing, then let the question seal it."
+            },
+            {
+              "heading": "L'anaphore : répéter pour marquer les esprits",
+              "body": "'L'anaphore' repeats the same word or phrase at the start of consecutive sentences or clauses. It builds rhythm, and rhythm is what an audience remembers after the exact words are forgotten. Political and union speeches use it constantly in French; in an everyday argument, three repetitions is usually the natural limit — a fourth starts to sound like a chant rather than an argument.",
+              "examples": [
+                { "french": "Nous voulons plus de moyens. Nous voulons plus de temps. Nous voulons être entendus.", "english": "We want more resources. We want more time. We want to be heard." },
+                { "french": "Jamais nous n'avons reculé. Jamais nous n'avons cédé.", "english": "Never have we backed down. Never have we given in." },
+                { "french": "Ce projet, c'est de l'emploi. Ce projet, c'est de l'avenir.", "english": "This project means jobs. This project means the future." },
+                { "french": "Chaque jour compte. Chaque décision compte.", "english": "Every day counts. Every decision counts." }
+              ],
+              "tip": "Say the repeated word with the exact same stress each time — a flat, mechanical repetition is what gives anaphora its force."
+            },
+            {
+              "heading": "La gradation : monter en intensité",
+              "body": "'La gradation' lines up words or clauses in rising (or falling) order of intensity, so the sentence itself seems to build toward a climax. In French it often takes the form of a short list of three or four terms, each stronger than the last, sometimes without a connector between them — the accumulation does the work. It pairs naturally with the rhetorical question or the anaphora as the final push of an argument.",
+              "examples": [
+                { "french": "Difficile, puis impossible, puis absurde.", "english": "Difficult, then impossible, then absurd." },
+                { "french": "Il n'a pas seulement protesté : il a résisté, il s'est battu, il a gagné.", "english": "He didn't just protest: he resisted, he fought, he won." },
+                { "french": "Ce n'est plus un problème, c'est une crise, c'est une urgence.", "english": "This is no longer a problem, it's a crisis, it's an emergency." },
+                { "french": "Outragé, brisé, mais debout.", "english": "Outraged, broken, but still standing." }
+              ],
+              "tip": "Read a gradation with an increasing volume or pace across the list — the delivery should physically climb along with the words."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "question-rhetorique", "french": "la question rhétorique", "english": "the rhetorical question", "partOfSpeech": "expression", "pronunciation": "kess-TYOHN ray-toh-REEK", "example": "« Qui accepterait de perdre son emploi sans réagir ? » est une question rhétorique.", "exampleEnglish": "\"Who would accept losing their job without reacting?\" is a rhetorical question.", "level": "B2", "category": "rhetoric" },
+            { "id": "anaphore", "french": "l'anaphore", "english": "anaphora, repetition at the start of clauses", "partOfSpeech": "noun", "gender": "f", "plural": "anaphores", "pronunciation": "ah-nah-FOR", "example": "L'anaphore de « nous voulons » structure tout le discours.", "exampleEnglish": "The anaphora of \"we want\" structures the whole speech.", "level": "B2", "category": "rhetoric" },
+            { "id": "la-gradation", "french": "la gradation", "english": "gradation, a climactic build-up", "partOfSpeech": "noun", "gender": "f", "plural": "gradations", "pronunciation": "grah-dah-SYON", "example": "« Difficile, puis impossible, puis absurde » : voilà une gradation efficace.", "exampleEnglish": "\"Difficult, then impossible, then absurd\": that's an effective gradation.", "level": "B2", "category": "rhetoric" },
+            { "id": "la-metaphore", "french": "la métaphore", "english": "the metaphor", "partOfSpeech": "noun", "gender": "f", "plural": "métaphores", "pronunciation": "lah may-tah-FOR", "example": "La métaphore du naufrage frappe l'auditoire d'emblée.", "exampleEnglish": "The shipwreck metaphor strikes the audience immediately.", "level": "B2", "category": "rhetoric" },
+            { "id": "la-comparaison", "french": "la comparaison", "english": "the comparison", "partOfSpeech": "noun", "gender": "f", "plural": "comparaisons", "pronunciation": "lah kohm-pah-ray-ZOHN", "example": "Une comparaison bien choisie rend l'argument plus concret.", "exampleEnglish": "A well-chosen comparison makes the argument more concrete.", "level": "B2", "category": "rhetoric" },
+            { "id": "l-antithese", "french": "l'antithèse", "english": "the antithesis, an opposing image (as a device)", "partOfSpeech": "noun", "gender": "f", "plural": "antithèses", "pronunciation": "ahn-tee-TEZ", "example": "L'antithèse « riche mais seul » résume tout le portrait.", "exampleEnglish": "The antithesis \"rich but alone\" sums up the whole portrait.", "level": "B2", "category": "rhetoric" },
+            { "id": "hyperbole", "french": "l'hyperbole", "english": "hyperbole, deliberate exaggeration", "partOfSpeech": "noun", "gender": "f", "plural": "hyperboles", "pronunciation": "ee-pehr-BOL", "example": "« Un silence de mort » est une hyperbole que tout le monde comprend.", "exampleEnglish": "\"A deathly silence\" is a hyperbole everyone understands.", "level": "B2", "category": "rhetoric" },
+            { "id": "la-repetition", "french": "la répétition", "english": "the repetition", "partOfSpeech": "noun", "gender": "f", "plural": "répétitions", "pronunciation": "lah ray-pay-tee-SYON", "example": "La répétition du mot « jamais » martèle le message.", "exampleEnglish": "The repetition of the word \"never\" hammers the message home.", "level": "B2", "category": "rhetoric" },
+            { "id": "l-ironie", "french": "l'ironie", "english": "irony", "partOfSpeech": "noun", "gender": "f", "pronunciation": "lee-roh-NEE", "example": "L'ironie de l'orateur fait sourire, mais elle convainc aussi.", "exampleEnglish": "The speaker's irony makes people smile, but it also convinces.", "level": "B2", "category": "rhetoric" },
+            { "id": "euphemisme", "french": "l'euphémisme", "english": "euphemism", "partOfSpeech": "noun", "gender": "m", "plural": "euphémismes", "pronunciation": "uh-fay-MEESM", "example": "Dire « des mesures difficiles » est un euphémisme pour « des coupes ».", "exampleEnglish": "Saying \"difficult measures\" is a euphemism for \"cuts\".", "level": "B2", "category": "rhetoric" },
+            { "id": "la-personnification", "french": "la personnification", "english": "personification", "partOfSpeech": "noun", "gender": "f", "plural": "personnifications", "pronunciation": "pehr-so-nee-fee-kah-SYON", "example": "La personnification de la crise la rend plus concrète pour le public.", "exampleEnglish": "The personification of the crisis makes it more concrete for the audience.", "level": "B2", "category": "rhetoric" },
+            { "id": "l-enumeration", "french": "l'énumération", "english": "the enumeration, the list", "partOfSpeech": "noun", "gender": "f", "plural": "énumérations", "pronunciation": "lay-nü-may-rah-SYON", "example": "L'énumération des conséquences accélère le rythme du discours.", "exampleEnglish": "The list of consequences speeds up the pace of the speech.", "level": "B2", "category": "rhetoric" },
+            { "id": "l-alliteration", "french": "l'allitération", "english": "alliteration", "partOfSpeech": "noun", "gender": "f", "plural": "allitérations", "pronunciation": "ah-lee-tay-rah-SYON", "example": "L'allitération en « r » renforce la dureté du propos.", "exampleEnglish": "The alliteration in \"r\" reinforces the harshness of the statement.", "level": "B2", "category": "rhetoric" },
+            { "id": "le-parallelisme", "french": "le parallélisme", "english": "parallelism, a repeated sentence structure", "partOfSpeech": "noun", "gender": "m", "plural": "parallélismes", "pronunciation": "luh pah-rah-lay-LEESM", "example": "Le parallélisme entre les deux phrases souligne le contraste.", "exampleEnglish": "The parallelism between the two sentences underlines the contrast.", "level": "B2", "category": "rhetoric" },
+            { "id": "slogan", "french": "le slogan", "english": "the slogan", "partOfSpeech": "noun", "gender": "m", "plural": "slogans", "pronunciation": "luh sloh-GAHN", "example": "Un bon slogan tient en quelques mots faciles à retenir.", "exampleEnglish": "A good slogan fits into a few easy-to-remember words.", "level": "B2", "category": "rhetoric" },
+            { "id": "l-exclamation", "french": "l'exclamation", "english": "the exclamation", "partOfSpeech": "noun", "gender": "f", "plural": "exclamations", "pronunciation": "lek-skla-mah-SYON", "example": "L'exclamation finale relance l'attention de l'auditoire.", "exampleEnglish": "The final exclamation revives the audience's attention.", "level": "B2", "category": "rhetoric" },
+            { "id": "frapper-les-esprits", "french": "frapper les esprits", "english": "to strike people's minds, to make a strong impression", "partOfSpeech": "expression", "pronunciation": "frah-PAY lay zes-PREE", "example": "Une image forte frappe les esprits mieux qu'un long discours.", "exampleEnglish": "A strong image strikes people's minds better than a long speech.", "level": "B2", "category": "rhetoric" },
+            { "id": "marquer-les-esprits", "french": "marquer les esprits", "english": "to leave a lasting impression", "partOfSpeech": "expression", "pronunciation": "mar-KAY lay zes-PREE", "example": "Cette formule a marqué les esprits pendant des années.", "exampleEnglish": "That phrase left a lasting impression for years.", "level": "B2", "category": "rhetoric" },
+            { "id": "capter-l-attention", "french": "capter l'attention", "english": "to capture the attention", "partOfSpeech": "expression", "pronunciation": "kap-TAY lah-tahn-SYON", "example": "Une question rhétorique capte l'attention dès la première seconde.", "exampleEnglish": "A rhetorical question captures attention from the very first second.", "level": "B2", "category": "rhetoric" },
+            { "id": "l-auditoire", "french": "l'auditoire", "english": "the audience", "partOfSpeech": "noun", "gender": "m", "plural": "auditoires", "pronunciation": "oh-dee-TWAHR", "example": "L'auditoire réagit immédiatement à la gradation finale.", "exampleEnglish": "The audience reacts immediately to the final gradation.", "level": "B2", "category": "rhetoric" },
+            { "id": "le-public", "french": "le public", "english": "the audience", "partOfSpeech": "noun", "gender": "m", "plural": "publics", "pronunciation": "luh poo-BLEEK", "example": "Le public retient surtout les phrases courtes et rythmées.", "exampleEnglish": "The audience mostly remembers short, rhythmic sentences.", "level": "B2", "category": "rhetoric" },
+            { "id": "l-emotion", "french": "l'émotion", "english": "the emotion", "partOfSpeech": "noun", "gender": "f", "plural": "émotions", "pronunciation": "lay-moh-SYOHN", "example": "Ces figures de style jouent surtout sur l'émotion, pas sur la logique.", "exampleEnglish": "These rhetorical devices mainly play on emotion, not on logic.", "level": "B2", "category": "rhetoric" },
+            { "id": "emouvoir", "french": "émouvoir", "english": "to move (emotionally)", "partOfSpeech": "verb", "pronunciation": "ay-moo-VWAHR", "example": "Une bonne anaphore peut émouvoir tout un auditoire.", "exampleEnglish": "A good anaphora can move an entire audience.", "level": "B2", "category": "rhetoric" },
+            { "id": "toucher", "french": "toucher", "english": "to move, to affect (emotionally)", "partOfSpeech": "verb", "pronunciation": "too-SHAY", "example": "Cette image touche le public bien plus qu'une statistique.", "exampleEnglish": "This image moves the audience far more than a statistic.", "level": "B2", "category": "rhetoric" },
+            { "id": "souligner", "french": "souligner", "english": "to underline, to emphasise", "partOfSpeech": "verb", "pronunciation": "soo-lee-NYAY", "example": "La répétition sert à souligner l'idée principale.", "exampleEnglish": "Repetition is used to emphasise the main idea.", "level": "B2", "category": "rhetoric" },
+            { "id": "insister-sur", "french": "insister sur", "english": "to stress, to emphasise (a point)", "partOfSpeech": "expression", "pronunciation": "an-sees-TAY sur", "example": "L'orateur insiste sur le même mot à chaque phrase.", "exampleEnglish": "The speaker stresses the same word in every sentence.", "level": "B2", "category": "rhetoric" },
+            { "id": "le-ton", "french": "le ton", "english": "the tone", "partOfSpeech": "noun", "gender": "m", "plural": "tons", "pronunciation": "luh TOHN", "example": "Le ton devient plus grave à mesure que la gradation avance.", "exampleEnglish": "The tone becomes more serious as the gradation builds.", "level": "B2", "category": "rhetoric" },
+            { "id": "eloquence", "french": "l'éloquence", "english": "eloquence", "partOfSpeech": "noun", "gender": "f", "plural": "éloquences", "pronunciation": "ay-loh-KAHNSS", "example": "Son éloquence repose sur des figures simples, pas sur des mots savants.", "exampleEnglish": "Her eloquence relies on simple devices, not on fancy words.", "level": "B2", "category": "rhetoric" },
+            { "id": "le-procede", "french": "le procédé", "english": "the device, the technique", "partOfSpeech": "noun", "gender": "m", "plural": "procédés", "pronunciation": "luh proh-say-DAY", "example": "Chaque procédé rhétorique vise un effet précis sur le public.", "exampleEnglish": "Each rhetorical device aims at a specific effect on the audience.", "level": "B2", "category": "rhetoric" },
+            { "id": "l-effet", "french": "l'effet", "english": "the effect", "partOfSpeech": "noun", "gender": "m", "plural": "effets", "pronunciation": "lay-FEH", "example": "L'effet recherché ici est la surprise, puis l'adhésion.", "exampleEnglish": "The intended effect here is surprise, then agreement.", "level": "B2", "category": "rhetoric" },
+            { "id": "la-formule", "french": "la formule", "english": "the phrase, the set wording", "partOfSpeech": "noun", "gender": "f", "plural": "formules", "pronunciation": "lah for-MÜL", "example": "Une formule courte se retient bien mieux qu'une longue phrase.", "exampleEnglish": "A short phrase is remembered far better than a long sentence.", "level": "B2", "category": "rhetoric" },
+            { "id": "renforcer", "french": "renforcer", "english": "to strengthen, to reinforce", "partOfSpeech": "verb", "pronunciation": "rahn-for-SAY", "example": "La gradation renforce l'argument à chaque étape.", "exampleEnglish": "The gradation strengthens the argument at every step.", "level": "B2", "category": "rhetoric" },
+            { "id": "marteler", "french": "marteler", "english": "to hammer home (a message)", "partOfSpeech": "verb", "pronunciation": "mar-tuh-LAY", "example": "L'anaphore martèle la même idée tout au long du discours.", "exampleEnglish": "The anaphora hammers the same idea home throughout the speech.", "level": "B2", "category": "rhetoric" },
+            { "id": "saisissant", "french": "saisissant", "english": "striking, arresting", "partOfSpeech": "adjective", "pronunciation": "seh-zee-SAHN", "example": "L'image finale est saisissante : elle résume tout le discours.", "exampleEnglish": "The final image is striking: it sums up the whole speech.", "level": "B2", "category": "rhetoric" },
+            { "id": "discours", "french": "le discours", "english": "the speech, the address", "partOfSpeech": "noun", "gender": "m", "plural": "discours", "pronunciation": "luh dee-KOOR", "example": "Son discours multiplie les figures pour rester dans les mémoires.", "exampleEnglish": "His speech piles up rhetorical devices to stay memorable.", "level": "B2", "category": "rhetoric" },
+            { "id": "un-orateur", "french": "un orateur / une oratrice", "english": "a speaker, an orator", "partOfSpeech": "noun", "gender": "m", "plural": "orateurs", "pronunciation": "uhn noh-rah-TUHR", "example": "Un bon orateur choisit ses figures de style avec soin.", "exampleEnglish": "A good speaker chooses their rhetorical devices with care.", "level": "B2", "category": "rhetoric" },
+            { "id": "s-appuyer-sur", "french": "s'appuyer sur", "english": "to rely on, to draw on", "partOfSpeech": "verb", "pronunciation": "sah-pwee-YAY sur", "example": "Ce discours s'appuie sur l'émotion plus que sur les faits.", "exampleEnglish": "This speech relies on emotion more than on facts.", "level": "B2", "category": "rhetoric" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "L'inversion sujet-verbe dans la question rhétorique",
+              "body": "Formal rhetorical questions favour subject-verb inversion ('Faut-il rappeler...' rather than 'Est-ce qu'il faut rappeler...') because inversion sounds more literary and more forceful in spoken argument. With a noun subject, French keeps the noun in place and adds a pronoun after the verb: 'Le public accepte-t-il...?' A negative rhetorical question ('N'est-il pas temps...?') is especially common, since it invites the single obvious answer 'yes' even more strongly than a plain question would.",
+              "examples": [
+                { "french": "Faut-il rappeler que ce projet a déjà fait ses preuves ?", "english": "Need we recall that this project has already proven itself?" },
+                { "french": "N'est-il pas temps d'agir ?", "english": "Is it not time to act?" },
+                { "french": "Ce chiffre ne parle-t-il pas de lui-même ?", "english": "Does this figure not speak for itself?" },
+                { "french": "Le public peut-il rester indifférent devant de tels résultats ?", "english": "Can the public remain indifferent in the face of such results?" }
+              ],
+              "tip": "Add '-t-' between the verb and the pronoun when the verb ends in a vowel and the pronoun starts with one: 'parle-t-il', never 'parle-il'."
+            },
+            {
+              "heading": "Construire une gradation : l'accumulation sans connecteur",
+              "body": "A gradation usually drops the connectors a plain list would need ('d'abord', 'puis') in favour of commas alone, letting the accumulation itself carry the rising energy: 'Difficile, puis impossible, puis absurde' already climbs without 'et'. Verbs in a gradation are often repeated in the same tense and person, reinforcing the parallel structure that makes the climax land. Three steps is the classic minimum; four is common; beyond that, the device starts to lose its punch.",
+              "examples": [
+                { "french": "Il n'a pas seulement protesté : il a résisté, il s'est battu, il a gagné.", "english": "He didn't just protest: he resisted, he fought, he won." },
+                { "french": "Ce n'est plus un problème, c'est une crise, c'est une urgence.", "english": "This is no longer a problem, it's a crisis, it's an emergency." },
+                { "french": "Elle a d'abord douté, puis hésité, puis enfin agi.", "english": "She first doubted, then hesitated, then finally acted." },
+                { "french": "Outragé, brisé, mais debout.", "english": "Outraged, broken, but still standing." }
+              ],
+              "tip": "Keep every term in a gradation the same grammatical form (all verbs, all adjectives, all short clauses) — mixing forms breaks the climb."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "b2_u26_l02_li01", "type": "listenChoose", "prompt": "Listen. What kind of question is this?", "french": "N'est-il pas temps d'agir, plutôt que d'attendre encore ?", "options": ["A rhetorical question expecting no real answer", "A genuine request for information", "A question about the time", "An apology"], "answer": "A rhetorical question expecting no real answer" },
+            { "id": "b2_u26_l02_li02", "type": "listenChoose", "prompt": "Listen. Which device is being used?", "french": "Nous voulons plus de moyens. Nous voulons plus de temps. Nous voulons être entendus.", "options": ["Anaphora — repetition at the start of each sentence", "A single rhetorical question", "An antithesis", "A euphemism"], "answer": "Anaphora — repetition at the start of each sentence" },
+            { "id": "b2_u26_l02_li03", "type": "listenType", "prompt": "Listen and type what you hear.", "french": "Ce n'est plus un problème, c'est une crise, c'est une urgence.", "answer": "Ce n'est plus un problème, c'est une crise, c'est une urgence.", "acceptedAnswers": ["ce n'est plus un probleme c'est une crise c'est une urgence", "ce nest plus un probleme cest une crise cest une urgence"] },
+            { "id": "b2_u26_l02_li04", "type": "dictation", "prompt": "Listen carefully and write exactly what you hear.", "french": "Une image forte frappe les esprits mieux qu'un long discours.", "answer": "Une image forte frappe les esprits mieux qu'un long discours.", "acceptedAnswers": ["une image forte frappe les esprits mieux qu'un long discours", "une image forte frappe les esprits mieux quun long discours"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "b2_u26_l02_sp01", "type": "speak", "prompt": "Ask a rhetorical question about a project that has already proven itself.", "french": "Faut-il rappeler que ce projet a déjà fait ses preuves ailleurs ?", "english": "Need we recall that this project has already proven itself elsewhere?", "tip": "Use inversion — 'Faut-il' — and let your voice rise only slightly; the question is really a statement." },
+            { "id": "b2_u26_l02_sp02", "type": "speak", "prompt": "Build an anaphora with 'nous voulons' repeated three times.", "french": "Nous voulons plus de moyens. Nous voulons plus de temps. Nous voulons être entendus.", "english": "We want more resources. We want more time. We want to be heard.", "tip": "Stress 'nous voulons' identically each time — the repetition is the point, not variation." },
+            { "id": "b2_u26_l02_sp03", "type": "speak", "prompt": "Deliver a three-step gradation building to a climax.", "french": "Il n'a pas seulement protesté : il a résisté, il s'est battu, il a gagné.", "english": "He didn't just protest: he resisted, he fought, he won.", "tip": "Speed up and raise your pitch slightly on each verb — the delivery should climb along with the words." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "Le discours de Lina",
+              "french": "Lina répète son discours pour la troisième fois devant le miroir.\nDemain, elle doit convaincre le conseil des élèves de financer un jardin partagé.\nElle commence doucement, puis sa voix se raffermit.\n— Qui, parmi nous, n'a jamais rêvé d'un coin de verdure dans cette cour de béton ?\nSa question rhétorique reste suspendue quelques secondes.\n— Ce jardin, c'est de l'air pur. Ce jardin, c'est du lien entre les classes. Ce jardin, c'est notre fierté.\nL'anaphore résonne, et déjà certains élèves hochent la tête.\nPuis elle enchaîne sur une gradation soigneusement préparée.\n— Ce n'est plus une idée, c'est un projet, c'est une nécessité.\nSon professeur, au fond de la salle, sourit en reconnaissant la figure de style.\n— N'est-il pas temps de transformer nos discours en actes ?\nElle termine sur cette dernière question, sans laisser le silence retomber.\nLe lendemain, devant le vrai conseil, Lina reprend exactement les mêmes mots.\nCette fois, l'auditoire applaudit avant même qu'elle ait terminé.",
+              "english": "Lina rehearses her speech for the third time in front of the mirror.\nTomorrow, she has to convince the student council to fund a shared garden.\nShe starts softly, then her voice grows steadier.\n— Which of us has never dreamed of a patch of greenery in this concrete yard?\nHer rhetorical question hangs in the air for a few seconds.\n— This garden means clean air. This garden means a bond between classes. This garden means our pride.\nThe anaphora resonates, and some students are already nodding.\nThen she moves into a carefully prepared gradation.\n— This is no longer an idea, it's a project, it's a necessity.\nHer teacher, at the back of the room, smiles as he recognises the device.\n— Is it not time to turn our words into actions?\nShe ends on this final question, without letting the silence settle.\nThe next day, in front of the real council, Lina repeats the exact same words.\nThis time, the audience applauds before she has even finished.",
+              "questions": [
+                { "id": "b2_u26_l02_rd01", "type": "multipleChoice", "prompt": "Quelle figure de style Lina utilise-t-elle avec « Ce jardin, c'est... » répété trois fois ?", "options": ["L'anaphore", "L'euphémisme", "La comparaison", "L'antithèse"], "answer": "L'anaphore" },
+                { "id": "b2_u26_l02_rd02", "type": "trueFalse", "prompt": "Le professeur de Lina ne remarque pas ses figures de style.", "options": ["True", "False"], "answer": "False" },
+                { "id": "b2_u26_l02_rd03", "type": "multipleChoice", "prompt": "Comment Lina termine-t-elle son discours ?", "options": ["Sur une question rhétorique", "Sur une longue statistique", "Sur des excuses", "Sur un silence complet"], "answer": "Sur une question rhétorique" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "b2_u26_l02_wr01", "type": "translate", "prompt": "Is it not time to act?", "english": "Is it not time to act?", "answer": "N'est-il pas temps d'agir ?", "acceptedAnswers": ["n'est-il pas temps d'agir", "nest il pas temps dagir"] },
+            { "id": "b2_u26_l02_wr02", "type": "fillBlank", "prompt": "Ce n'est plus un problème, c'est une crise, c'est une ___.", "answer": "urgence" },
+            { "id": "b2_u26_l02_wr03", "type": "translate", "prompt": "A strong image strikes people's minds better than a long speech.", "english": "A strong image strikes people's minds better than a long speech.", "answer": "Une image forte frappe les esprits mieux qu'un long discours.", "acceptedAnswers": ["une image forte frappe les esprits mieux qu'un long discours", "une image forte frappe les esprits mieux quun long discours"] }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "b2_u26_l02_pr01", "type": "multipleChoice", "prompt": "Quelle figure répète le même mot en début de phrases successives ?", "options": ["l'anaphore", "l'euphémisme", "l'hyperbole", "l'antithèse"], "answer": "l'anaphore" },
+            { "id": "b2_u26_l02_pr02", "type": "fillBlank", "prompt": "Difficile, puis impossible, puis ___ : voilà une gradation efficace.", "answer": "absurde" },
+            { "id": "b2_u26_l02_pr03", "type": "trueFalse", "prompt": "Une question rhétorique attend une vraie réponse de l'auditoire.", "options": ["True", "False"], "answer": "False" },
+            { "id": "b2_u26_l02_pr04", "type": "match", "pairs": [ { "french": "la métaphore", "english": "the metaphor" }, { "french": "l'hyperbole", "english": "exaggeration" }, { "french": "l'ironie", "english": "irony" }, { "french": "l'euphémisme", "english": "the euphemism" } ] },
+            { "id": "b2_u26_l02_pr05", "type": "arrangeWords", "words": ["esprits", "les", "image", "frappe", "forte", "une"], "answer": "une image forte frappe les esprits", "english": "A strong image strikes people's minds." },
+            { "id": "b2_u26_l02_pr06", "type": "multipleChoice", "prompt": "Quel effet recherche surtout une gradation ?", "options": ["Une montée en intensité vers un point culminant", "Une comparaison discrète", "Une répétition sans variation", "Un ton neutre et calme"], "answer": "Une montée en intensité vers un point culminant" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "b2_u26_l02_qz01", "type": "multipleChoice", "prompt": "Que signifie « la question rhétorique » ?", "options": ["Une question posée sans attendre de vraie réponse", "Une question de grammaire", "Une question posée à voix basse", "Une question interdite à l'oral"], "answer": "Une question posée sans attendre de vraie réponse" },
+            { "id": "b2_u26_l02_qz02", "type": "translate", "prompt": "We want more resources. We want more time.", "english": "We want more resources. We want more time.", "answer": "Nous voulons plus de moyens. Nous voulons plus de temps.", "acceptedAnswers": ["nous voulons plus de moyens nous voulons plus de temps"] },
+            { "id": "b2_u26_l02_qz03", "type": "fillBlank", "prompt": "Une bonne anaphore doit ___ les esprits du public.", "answer": "marquer" },
+            { "id": "b2_u26_l02_qz04", "type": "trueFalse", "prompt": "Dans une gradation, les termes montent en intensité jusqu'à un sommet.", "options": ["True", "False"], "answer": "True" },
+            { "id": "b2_u26_l02_qz05", "type": "multipleChoice", "prompt": "Quelle structure grammaticale rend une question rhétorique plus littéraire ?", "options": ["L'inversion sujet-verbe", "Le passé simple", "Le subjonctif imparfait", "Le pluriel irrégulier"], "answer": "L'inversion sujet-verbe" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2_u26_l03",
+      "level": "B2",
+      "unit": 26,
+      "title": "Répondre aux objections",
+      "description": "Handle disagreement diplomatically: acknowledge an objection, concede what is fair, and steer the discussion toward common ground.",
+      "estimatedMinutes": 19,
+      "sections": [
+        {
+          "type": "learn",
+          "title": "Learn",
+          "blocks": [
+            {
+              "heading": "Accueillir l'objection avec tact",
+              "body": "In French formal exchange, the first move against an objection is not to answer it but to acknowledge it — a brief phrase showing you heard and respect the concern before you say anything else. Skipping this step, even to give a perfectly correct answer, tends to read as dismissive. 'Je comprends votre inquiétude', 'C'est une remarque intéressante', or simply 'Je vous entends' buy the goodwill needed for the rest of the response to land.",
+              "examples": [
+                { "french": "Je comprends votre inquiétude concernant le budget.", "english": "I understand your concern about the budget." },
+                { "french": "C'est une remarque tout à fait légitime.", "english": "That is a completely legitimate remark." },
+                { "french": "Merci de le souligner, c'est un point important.", "english": "Thank you for pointing that out, it's an important point." },
+                { "french": "Je vous entends, et je comprends que ce délai inquiète.", "english": "I hear you, and I understand that this deadline is worrying." },
+                { "french": "Votre objection mérite qu'on s'y arrête un instant.", "english": "Your objection deserves a moment's attention." }
+              ],
+              "tip": "Never follow an acknowledgement with 'mais' too abruptly — a short pause or a connector like 'cela dit' softens the turn toward your answer."
+            },
+            {
+              "heading": "Concéder puis répondre : certes... mais",
+              "body": "The classic diplomatic pattern is 'certes... mais' (or 'bien que'/'quoique' + subjunctive): grant that part of the objection is true, then pivot to why your position still holds. This is different from simply disagreeing — a real concession names a specific point the other person is right about, rather than a vague 'yes, but' that concedes nothing. 'Bien que' and 'quoique' both take the subjunctive and place the concession in a subordinate clause, which reads as more formal than 'certes'.",
+              "examples": [
+                { "french": "Certes, le délai est court, mais il reste réalisable.", "english": "Admittedly, the deadline is short, but it remains achievable." },
+                { "french": "Bien que votre objection soit fondée, la solution reste la même.", "english": "Although your objection is well founded, the solution remains the same." },
+                { "french": "Quoique je comprenne votre inquiétude, les chiffres sont clairs.", "english": "Although I understand your concern, the figures are clear." },
+                { "french": "Il est vrai que le coût est élevé ; cela dit, le retour sur investissement l'est aussi.", "english": "It is true that the cost is high; that said, so is the return on investment." },
+                { "french": "Je concède que votre remarque n'est pas sans fondement.", "english": "I concede that your remark is not without foundation." }
+              ],
+              "tip": "Name the exact point you are conceding — a vague concession sounds evasive, a precise one sounds honest."
+            },
+            {
+              "heading": "Désamorcer et proposer un compromis",
+              "body": "Once the objection is acknowledged and partly conceded, French diplomatic register moves toward common ground rather than toward victory: clarifying a possible misunderstanding, reformulating the disagreement in neutral terms, and proposing a concrete compromise. Ending on 'un terrain d'entente' rather than on who was right keeps the relationship intact — often more valuable, in a professional setting, than winning the specific point.",
+              "examples": [
+                { "french": "Il y a peut-être un malentendu sur ce que couvre ce budget.", "english": "There may be a misunderstanding about what this budget covers." },
+                { "french": "Précisons : parlez-vous du prix ou du délai ?", "english": "Let's clarify: are you talking about the price or the deadline?" },
+                { "french": "Que diriez-vous d'un compromis : la moitié du budget cette année, le reste l'an prochain ?", "english": "What would you say to a compromise: half the budget this year, the rest next year?" },
+                { "french": "Cherchons d'abord un terrain d'entente avant de trancher.", "english": "Let's first look for common ground before deciding." },
+                { "french": "Je propose que nous en reparlions avec des chiffres précis en main.", "english": "I suggest we discuss this again once we have precise figures in hand." }
+              ],
+              "tip": "Ending on a question ('Que diriez-vous de...?') invites the other person back into the conversation instead of closing it."
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "title": "Vocabulary",
+          "items": [
+            { "id": "une-objection", "french": "une objection", "english": "an objection", "partOfSpeech": "noun", "gender": "f", "plural": "objections", "pronunciation": "ewn ob-jek-SYOHN", "example": "Il vaut mieux anticiper l'objection que l'ignorer.", "exampleEnglish": "It is better to anticipate the objection than to ignore it.", "level": "B2", "category": "diplomacy" },
+            { "id": "s-opposer-a", "french": "s'opposer à", "english": "to oppose, to be opposed to", "partOfSpeech": "verb", "pronunciation": "soh-poh-ZAY ah", "example": "Certains collègues s'opposent à cette proposition.", "exampleEnglish": "Some colleagues are opposed to this proposal.", "level": "B2", "category": "diplomacy" },
+            { "id": "contester", "french": "contester", "english": "to dispute, to challenge", "partOfSpeech": "verb", "pronunciation": "kohn-tes-TAY", "example": "Elle conteste poliment le chiffre avancé par son interlocuteur.", "exampleEnglish": "She politely disputes the figure put forward by the other person.", "level": "B2", "category": "diplomacy" },
+            { "id": "nuancer", "french": "nuancer", "english": "to qualify, to add nuance to", "partOfSpeech": "verb", "pronunciation": "nü-ahn-SAY", "example": "Je voudrais nuancer ce point avant de répondre.", "exampleEnglish": "I'd like to qualify that point before answering.", "level": "B2", "category": "diplomacy" },
+            { "id": "conceder", "french": "concéder", "english": "to concede", "partOfSpeech": "verb", "pronunciation": "kohn-say-DAY", "example": "Je concède que votre remarque n'est pas sans fondement.", "exampleEnglish": "I concede that your remark is not without foundation.", "level": "B2", "category": "diplomacy" },
+            { "id": "la-concession", "french": "la concession", "english": "the concession", "partOfSpeech": "noun", "gender": "f", "plural": "concessions", "pronunciation": "kohn-seh-SYOHN", "example": "Faire une petite concession désamorce souvent la tension.", "exampleEnglish": "Making a small concession often defuses the tension.", "level": "B2", "category": "diplomacy" },
+            { "id": "bien-que", "french": "bien que", "english": "although (+ subjunctive)", "partOfSpeech": "conjunction", "pronunciation": "byan KUH", "example": "Bien que votre objection soit fondée, la solution reste la même.", "exampleEnglish": "Although your objection is well founded, the solution remains the same.", "level": "B2", "category": "diplomacy" },
+            { "id": "quoique", "french": "quoique", "english": "although, though (+ subjunctive)", "partOfSpeech": "conjunction", "pronunciation": "KWAH-kuh", "example": "Quoique je comprenne votre inquiétude, les chiffres sont clairs.", "exampleEnglish": "Although I understand your concern, the figures are clear.", "level": "B2", "category": "diplomacy" },
+            { "id": "reconnaitre", "french": "reconnaître", "english": "to acknowledge, to recognise", "partOfSpeech": "verb", "pronunciation": "ruh-koh-NET-truh", "example": "Reconnaître une objection valable renforce votre crédibilité.", "exampleEnglish": "Acknowledging a valid objection strengthens your credibility.", "level": "B2", "category": "diplomacy" },
+            { "id": "admettre", "french": "admettre", "english": "to admit", "partOfSpeech": "verb", "pronunciation": "ad-MET-truh", "example": "J'admets que ce point mérite d'être approfondi.", "exampleEnglish": "I admit that this point deserves to be explored further.", "level": "B2", "category": "diplomacy" },
+            { "id": "rassurer", "french": "rassurer", "english": "to reassure", "partOfSpeech": "verb", "pronunciation": "rah-soo-RAY", "example": "Il faut d'abord rassurer la personne avant de la contredire.", "exampleEnglish": "You must first reassure the person before contradicting them.", "level": "B2", "category": "diplomacy" },
+            { "id": "desamorcer", "french": "désamorcer", "english": "to defuse (an objection, a conflict)", "partOfSpeech": "verb", "pronunciation": "day-zah-mor-SAY", "example": "Une reformulation calme désamorce presque toujours l'objection.", "exampleEnglish": "A calm rephrasing almost always defuses the objection.", "level": "B2", "category": "diplomacy" },
+            { "id": "un-malentendu", "french": "un malentendu", "english": "a misunderstanding", "partOfSpeech": "noun", "gender": "m", "plural": "malentendus", "pronunciation": "uhn mah-lahn-tahn-DU", "example": "Beaucoup d'objections viennent d'un simple malentendu.", "exampleEnglish": "Many objections come from a simple misunderstanding.", "level": "B2", "category": "diplomacy" },
+            { "id": "clarifier", "french": "clarifier", "english": "to clarify", "partOfSpeech": "verb", "pronunciation": "klah-ree-FYAY", "example": "Pouvez-vous clarifier ce que vous entendez par « trop cher » ?", "exampleEnglish": "Could you clarify what you mean by \"too expensive\"?", "level": "B2", "category": "diplomacy" },
+            { "id": "b2-preciser", "french": "préciser", "english": "to specify, to clarify", "partOfSpeech": "verb", "pronunciation": "pray-see-ZAY", "example": "Précisez votre objection : parlez-vous du prix ou du délai ?", "exampleEnglish": "Specify your objection: are you talking about the price or the deadline?", "level": "B2", "category": "diplomacy" },
+            { "id": "rectifier", "french": "rectifier", "english": "to rectify, to correct", "partOfSpeech": "verb", "pronunciation": "rek-tee-FYAY", "example": "Permettez-moi de rectifier un chiffre inexact.", "exampleEnglish": "Allow me to correct an inaccurate figure.", "level": "B2", "category": "diplomacy" },
+            { "id": "diplomate", "french": "diplomate", "english": "diplomatic, tactful", "partOfSpeech": "adjective", "pronunciation": "dee-ploh-MAHT", "example": "Restez diplomate, même face à une objection agressive.", "exampleEnglish": "Stay diplomatic, even in the face of an aggressive objection.", "level": "B2", "category": "diplomacy" },
+            { "id": "diplomatique", "french": "diplomatique", "english": "diplomatic (of an approach, a response)", "partOfSpeech": "adjective", "pronunciation": "dee-ploh-mah-TEEK", "example": "Une réponse diplomatique évite d'envenimer le débat.", "exampleEnglish": "A diplomatic answer avoids inflaming the debate.", "level": "B2", "category": "diplomacy" },
+            { "id": "un-compromis", "french": "un compromis", "english": "a compromise", "partOfSpeech": "noun", "gender": "m", "plural": "compromis", "pronunciation": "uhn kohn-proh-MEE", "example": "Proposer un compromis vaut mieux que d'ignorer l'objection.", "exampleEnglish": "Proposing a compromise is better than ignoring the objection.", "level": "B2", "category": "diplomacy" },
+            { "id": "apaiser", "french": "apaiser", "english": "to calm, to soothe", "partOfSpeech": "verb", "pronunciation": "ah-peh-ZAY", "example": "Un ton posé suffit souvent à apaiser la discussion.", "exampleEnglish": "A calm tone is often enough to soothe the discussion.", "level": "B2", "category": "diplomacy" },
+            { "id": "temperer", "french": "tempérer", "english": "to temper, to moderate", "partOfSpeech": "verb", "pronunciation": "tahn-pay-RAY", "example": "Il vaut mieux tempérer une critique que la rejeter en bloc.", "exampleEnglish": "It is better to temper a criticism than to reject it outright.", "level": "B2", "category": "diplomacy" },
+            { "id": "un-desaccord", "french": "un désaccord", "english": "a disagreement", "partOfSpeech": "noun", "gender": "m", "plural": "désaccords", "pronunciation": "day-zah-KOR", "example": "Un désaccord bien géré ne détruit pas la relation.", "exampleEnglish": "A well-handled disagreement does not destroy the relationship.", "level": "B2", "category": "diplomacy" },
+            { "id": "certes", "french": "certes", "english": "admittedly, granted", "partOfSpeech": "adverb", "pronunciation": "SEHRT", "example": "Certes, le délai est court, mais il reste réalisable.", "exampleEnglish": "Admittedly, the deadline is short, but it remains achievable.", "level": "B2", "category": "diplomacy" },
+            { "id": "le-terrain-d-entente", "french": "le terrain d'entente", "english": "common ground", "partOfSpeech": "noun", "gender": "m", "plural": "terrains d'entente", "pronunciation": "teh-RAN dahn-TAHNT", "example": "Cherchons d'abord un terrain d'entente avant de trancher.", "exampleEnglish": "Let's first look for common ground before deciding.", "level": "B2", "category": "diplomacy" },
+            { "id": "la-nuance", "french": "la nuance", "english": "the nuance, the shade of meaning", "partOfSpeech": "noun", "gender": "f", "plural": "nuances", "pronunciation": "lah nu-AHNS", "example": "Répondre à une objection demande de la nuance, pas de la confrontation.", "exampleEnglish": "Answering an objection requires nuance, not confrontation.", "level": "B2", "category": "diplomacy" },
+            { "id": "l-ecoute", "french": "l'écoute", "english": "listening, attentiveness", "partOfSpeech": "noun", "gender": "f", "plural": "écoutes", "pronunciation": "lay-KOOT", "example": "L'écoute désamorce plus d'objections qu'un long discours.", "exampleEnglish": "Listening defuses more objections than a long speech.", "level": "B2", "category": "diplomacy" },
+            { "id": "le-respect", "french": "le respect", "english": "respect", "partOfSpeech": "noun", "gender": "m", "pronunciation": "luh res-PEK", "example": "Répondre avec respect, même en cas de désaccord total.", "exampleEnglish": "Answer with respect, even in the event of total disagreement.", "level": "B2", "category": "diplomacy" },
+            { "id": "en-depit-de", "french": "en dépit de", "english": "in spite of", "partOfSpeech": "expression", "pronunciation": "ahn day-PEE duh", "example": "En dépit de son objection, elle a accepté d'écouter la suite.", "exampleEnglish": "In spite of her objection, she agreed to listen to the rest.", "level": "B2", "category": "diplomacy" },
+            { "id": "malgre", "french": "malgré", "english": "despite", "partOfSpeech": "expression", "pronunciation": "mal-GRAY", "example": "Malgré leur désaccord, ils ont trouvé un compromis acceptable.", "exampleEnglish": "Despite their disagreement, they found an acceptable compromise.", "level": "B2", "category": "diplomacy" },
+            { "id": "faire-valoir", "french": "faire valoir", "english": "to put forward, to assert (a point)", "partOfSpeech": "expression", "pronunciation": "fehr vah-LWAHR", "example": "Faites valoir votre point sans hausser le ton.", "exampleEnglish": "Put forward your point without raising your voice.", "level": "B2", "category": "diplomacy" },
+            { "id": "avec-tact", "french": "avec tact", "english": "tactfully", "partOfSpeech": "expression", "pronunciation": "ah-VEK TAKT", "example": "Répondez avec tact à une objection maladroite.", "exampleEnglish": "Respond tactfully to an awkward objection.", "level": "B2", "category": "diplomacy" },
+            { "id": "attenuer", "french": "atténuer", "english": "to soften, to mitigate", "partOfSpeech": "verb", "pronunciation": "ah-tay-nyu-AY", "example": "Une formule plus douce atténue l'impact d'un refus.", "exampleEnglish": "A gentler phrase softens the impact of a refusal.", "level": "B2", "category": "diplomacy" },
+            { "id": "formuler", "french": "formuler", "english": "to formulate, to phrase", "partOfSpeech": "verb", "pronunciation": "for-mü-LAY", "example": "Formulez votre objection sans attaquer la personne.", "exampleEnglish": "Phrase your objection without attacking the person.", "level": "B2", "category": "diplomacy" },
+            { "id": "une-remarque", "french": "une remarque", "english": "a remark, a comment", "partOfSpeech": "noun", "gender": "f", "plural": "remarques", "pronunciation": "ewn ruh-MARK", "example": "Sa remarque, bien que directe, méritait une réponse posée.", "exampleEnglish": "Her remark, though direct, deserved a calm response.", "level": "B2", "category": "diplomacy" },
+            { "id": "un-reproche", "french": "un reproche", "english": "a reproach, a criticism", "partOfSpeech": "noun", "gender": "m", "plural": "reproches", "pronunciation": "uhn ruh-PROSH", "example": "Ce reproche n'est pas justifié, mais il mérite une explication.", "exampleEnglish": "That criticism is not justified, but it deserves an explanation.", "level": "B2", "category": "diplomacy" },
+            { "id": "tenir-compte-de", "french": "tenir compte de", "english": "to take into account", "partOfSpeech": "expression", "pronunciation": "tuh-neer KOHNT duh", "example": "Nous tiendrons compte de votre remarque dans la version finale.", "exampleEnglish": "We will take your remark into account in the final version.", "level": "B2", "category": "diplomacy" },
+            { "id": "courtois", "french": "courtois", "english": "courteous", "partOfSpeech": "adjective", "pronunciation": "koor-TWAH", "example": "Restez courtois même quand l'objection semble injuste.", "exampleEnglish": "Stay courteous even when the objection seems unfair.", "level": "B2", "category": "diplomacy" }
+          ]
+        },
+        {
+          "type": "grammar",
+          "title": "Grammar",
+          "blocks": [
+            {
+              "heading": "Bien que / quoique + subjonctif",
+              "body": "'Bien que' and 'quoique' both introduce a concession and both require the subjunctive in the clause that follows, even though the fact conceded is real and true — the subjunctive here signals a concession, not doubt about the fact itself. Word order is flexible: the concessive clause can open the sentence ('Bien que le délai soit court, ...') or follow the main clause. Both conjunctions are interchangeable in meaning; 'quoique' is slightly more literary.",
+              "examples": [
+                { "french": "Bien que votre objection soit fondée, la solution reste la même.", "english": "Although your objection is well founded, the solution remains the same." },
+                { "french": "Quoique je comprenne votre inquiétude, les chiffres sont clairs.", "english": "Although I understand your concern, the figures are clear." },
+                { "french": "Le projet avance, bien que certains détails restent à régler.", "english": "The project is moving forward, although some details remain to be settled." },
+                { "french": "Quoiqu'il soit tard, prenons le temps de clarifier ce malentendu.", "english": "Although it is late, let's take the time to clear up this misunderstanding." }
+              ],
+              "tip": "'Quoique' elides before a vowel ('quoiqu'il') just like 'que' — never write it as two separate words in this sense (that would be 'quoi que', meaning 'whatever')."
+            },
+            {
+              "heading": "Le conditionnel pour adoucir une réponse",
+              "body": "The conditional softens a diplomatic response by turning a flat statement into a tentative suggestion: 'je dirais que' instead of 'je dis que', 'il me semble que' instead of 'c'est', 'on pourrait envisager' instead of 'on va faire'. This is not about uncertainty — the speaker may be entirely sure — but about leaving the other person room to respond without feeling contradicted outright.",
+              "examples": [
+                { "french": "Je dirais que le délai reste un peu court.", "english": "I would say the deadline is still a little short." },
+                { "french": "Il me semble que cette objection mérite d'être creusée.", "english": "It seems to me that this objection deserves to be explored further." },
+                { "french": "On pourrait envisager un compromis sur ce point précis.", "english": "We could consider a compromise on this specific point." },
+                { "french": "Auriez-vous une minute pour clarifier ce malentendu ?", "english": "Would you have a minute to clear up this misunderstanding?" }
+              ],
+              "tip": "Swap a blunt present-tense claim for its conditional cousin whenever you want to disagree without sounding like you are contradicting someone."
+            }
+          ]
+        },
+        {
+          "type": "listening",
+          "title": "Listening",
+          "items": [
+            { "id": "b2_u26_l03_li01", "type": "listenChoose", "prompt": "Listen. What does the speaker do before answering?", "french": "Je comprends votre inquiétude concernant le budget.", "options": ["Acknowledges the objection", "Rejects the objection immediately", "Changes the subject", "Asks for more money"], "answer": "Acknowledges the objection" },
+            { "id": "b2_u26_l03_li02", "type": "listenChoose", "prompt": "Listen. What is the speaker doing here?", "french": "Certes, le délai est court, mais il reste réalisable.", "options": ["Conceding a point, then defending the original position", "Completely agreeing with the objection", "Refusing to discuss the deadline", "Asking a rhetorical question"], "answer": "Conceding a point, then defending the original position" },
+            { "id": "b2_u26_l03_li03", "type": "listenType", "prompt": "Listen and type what you hear.", "french": "Cherchons d'abord un terrain d'entente avant de trancher.", "answer": "Cherchons d'abord un terrain d'entente avant de trancher.", "acceptedAnswers": ["cherchons d'abord un terrain d'entente avant de trancher", "cherchons dabord un terrain dentente avant de trancher"] },
+            { "id": "b2_u26_l03_li04", "type": "dictation", "prompt": "Listen carefully and write exactly what you hear.", "french": "Il y a peut-être un malentendu sur ce que couvre ce budget.", "answer": "Il y a peut-être un malentendu sur ce que couvre ce budget.", "acceptedAnswers": ["il y a peut-etre un malentendu sur ce que couvre ce budget", "il y a peut etre un malentendu sur ce que couvre ce budget"] }
+          ]
+        },
+        {
+          "type": "speaking",
+          "title": "Speaking",
+          "items": [
+            { "id": "b2_u26_l03_sp01", "type": "speak", "prompt": "Acknowledge a colleague's concern about the budget.", "french": "Je comprends votre inquiétude concernant le budget.", "english": "I understand your concern about the budget.", "tip": "Keep your tone warm and unhurried — this sentence should sound like real listening, not a formality." },
+            { "id": "b2_u26_l03_sp02", "type": "speak", "prompt": "Concede a point with 'certes', then pivot with 'mais'.", "french": "Certes, le délai est court, mais il reste réalisable.", "english": "Admittedly, the deadline is short, but it remains achievable.", "tip": "Slow down on 'certes' and pause briefly before 'mais' — the pause marks the pivot." },
+            { "id": "b2_u26_l03_sp03", "type": "speak", "prompt": "Propose a compromise as a question.", "french": "Que diriez-vous d'un compromis : la moitié du budget cette année, le reste l'an prochain ?", "english": "What would you say to a compromise: half the budget this year, the rest next year?", "tip": "End on a genuine rising question tone — you are truly inviting a reply, not just being polite." }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "Reading",
+          "passages": [
+            {
+              "title": "La réunion d'équipe",
+              "french": "Le lundi matin, Sami présente son projet de nouveaux horaires devant toute l'équipe.\nÀ peine a-t-il terminé qu'Amina lève la main, visiblement contrariée.\n— Ce nouveau planning ne tient pas compte des parents qui doivent récupérer leurs enfants à seize heures.\nSami hoche la tête avant de répondre.\n— Je comprends votre inquiétude, et c'est une remarque tout à fait légitime.\n— Certes, ce planning simplifie l'organisation générale, mais il ne doit pénaliser personne.\nAmina croise les bras, un peu surprise par cette réponse posée.\n— Il y a peut-être un malentendu, ajoute Sami : le planning reste flexible pour les parents.\n— Que diriez-vous d'un compromis : les horaires fixes pour la majorité, un aménagement pour les autres ?\nUn collègue approuve doucement, puis un deuxième.\n— Bien que la proposition initiale semble imparfaite, cette solution convient à tout le monde, conclut Sami.\nAmina sourit enfin et accepte le compromis proposé.\nÀ la fin de la réunion, personne ne se sent ignoré ni mis de côté.\nSami note, satisfait, que l'écoute a évité un conflit inutile.",
+              "english": "On Monday morning, Sami presents his new schedule project to the whole team.\nHe has barely finished when Amina raises her hand, clearly annoyed.\n— This new schedule doesn't take into account parents who have to pick up their children at four o'clock.\nSami nods before answering.\n— I understand your concern, and that's a completely legitimate remark.\n— Admittedly, this schedule simplifies the overall organisation, but it must not penalise anyone.\nAmina crosses her arms, a little surprised by this calm response.\n— There may be a misunderstanding, Sami adds: the schedule remains flexible for parents.\n— What would you say to a compromise: fixed hours for the majority, an adjustment for the others?\nA colleague nods slowly in agreement, then a second one.\n— Although the initial proposal seems imperfect, this solution suits everyone, Sami concludes.\nAmina finally smiles and accepts the proposed compromise.\nBy the end of the meeting, no one feels ignored or left out.\nSami notes, satisfied, that listening avoided an unnecessary conflict.",
+              "questions": [
+                { "id": "b2_u26_l03_rd01", "type": "multipleChoice", "prompt": "Que fait Sami en premier quand Amina soulève son objection ?", "options": ["Il reconnaît son inquiétude", "Il l'ignore complètement", "Il change de sujet", "Il annule la réunion"], "answer": "Il reconnaît son inquiétude" },
+                { "id": "b2_u26_l03_rd02", "type": "trueFalse", "prompt": "Sami rejette immédiatement l'objection d'Amina sans y répondre.", "options": ["True", "False"], "answer": "False" },
+                { "id": "b2_u26_l03_rd03", "type": "multipleChoice", "prompt": "Quel compromis Sami propose-t-il ?", "options": ["Des horaires fixes pour la majorité, un aménagement pour les autres", "Annuler complètement le nouveau planning", "Imposer les mêmes horaires à tout le monde sans exception", "Reporter la décision indéfiniment"], "answer": "Des horaires fixes pour la majorité, un aménagement pour les autres" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "writing",
+          "title": "Writing",
+          "items": [
+            { "id": "b2_u26_l03_wr01", "type": "translate", "prompt": "I understand your concern, and that's a legitimate remark.", "english": "I understand your concern, and that's a legitimate remark.", "answer": "Je comprends votre inquiétude, et c'est une remarque légitime.", "acceptedAnswers": ["je comprends votre inquietude et c'est une remarque legitime", "je comprends votre inquietude et cest une remarque legitime"] },
+            { "id": "b2_u26_l03_wr02", "type": "fillBlank", "prompt": "___, le délai est court, mais il reste réalisable.", "answer": "Certes" },
+            { "id": "b2_u26_l03_wr03", "type": "translate", "prompt": "Let's first look for common ground before deciding.", "english": "Let's first look for common ground before deciding.", "answer": "Cherchons d'abord un terrain d'entente avant de trancher.", "acceptedAnswers": ["cherchons d'abord un terrain d'entente avant de trancher", "cherchons dabord un terrain dentente avant de trancher"] }
+          ]
+        },
+        {
+          "type": "practice",
+          "title": "Practice",
+          "items": [
+            { "id": "b2_u26_l03_pr01", "type": "multipleChoice", "prompt": "Que faut-il faire avant de répondre à une objection ?", "options": ["La reconnaître", "L'ignorer", "La contredire immédiatement", "Changer de sujet"], "answer": "La reconnaître" },
+            { "id": "b2_u26_l03_pr02", "type": "fillBlank", "prompt": "___ votre objection soit fondée, la solution reste la même.", "answer": "Bien que" },
+            { "id": "b2_u26_l03_pr03", "type": "trueFalse", "prompt": "'Bien que' et 'quoique' sont suivis du subjonctif.", "options": ["True", "False"], "answer": "True" },
+            { "id": "b2_u26_l03_pr04", "type": "match", "pairs": [ { "french": "désamorcer", "english": "to defuse" }, { "french": "un malentendu", "english": "a misunderstanding" }, { "french": "un compromis", "english": "a compromise" }, { "french": "concéder", "english": "to concede" } ] },
+            { "id": "b2_u26_l03_pr05", "type": "arrangeWords", "words": ["entente", "un", "terrain", "cherchons", "d'abord", "d'"], "answer": "cherchons d'abord un terrain d'entente", "english": "Let's first look for common ground." },
+            { "id": "b2_u26_l03_pr06", "type": "multipleChoice", "prompt": "Quelle expression sert à proposer un compromis poliment ?", "options": ["Que diriez-vous d'un compromis ?", "Vous avez tort.", "Ce n'est pas mon problème.", "Je refuse d'en discuter."], "answer": "Que diriez-vous d'un compromis ?" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Quiz",
+          "items": [
+            { "id": "b2_u26_l03_qz01", "type": "multipleChoice", "prompt": "Quelle est la première étape pour répondre à une objection avec tact ?", "options": ["Reconnaître l'inquiétude de l'autre personne", "Prouver immédiatement qu'elle a tort", "Ignorer la remarque", "Changer de sujet"], "answer": "Reconnaître l'inquiétude de l'autre personne" },
+            { "id": "b2_u26_l03_qz02", "type": "translate", "prompt": "Although I understand your concern, the figures are clear.", "english": "Although I understand your concern, the figures are clear.", "answer": "Quoique je comprenne votre inquiétude, les chiffres sont clairs.", "acceptedAnswers": ["quoique je comprenne votre inquietude les chiffres sont clairs"] },
+            { "id": "b2_u26_l03_qz03", "type": "fillBlank", "prompt": "Il y a peut-être un ___ sur ce que couvre ce budget.", "answer": "malentendu" },
+            { "id": "b2_u26_l03_qz04", "type": "trueFalse", "prompt": "Le conditionnel peut servir à adoucir une réponse en désaccord.", "options": ["True", "False"], "answer": "True" },
+            { "id": "b2_u26_l03_qz05", "type": "multipleChoice", "prompt": "Quel mot désigne un point d'accord recherché entre deux personnes en désaccord ?", "options": ["le terrain d'entente", "le contre-argument", "la gradation", "l'anaphore"], "answer": "le terrain d'entente" }
+          ]
+        }
+      ]
+    }
+  ]
+}
