@@ -19,6 +19,15 @@ class _FrenchlyAppState extends ConsumerState<FrenchlyApp>
   void initState() {
     super.initState();
     WidgetsBinding.instance.addObserver(this);
+    // Deferred until after the first frame: the App Tracking Transparency
+    // prompt (inside AdsService.initialize()) only shows on iOS once the
+    // app's window is actually visible/key. Requesting it any earlier (e.g.
+    // from main() before runApp()) makes iOS silently skip the dialog.
+    if (ref.read(adsEnabledProvider)) {
+      WidgetsBinding.instance.addPostFrameCallback((_) {
+        ref.read(adsServiceProvider).initialize();
+      });
+    }
   }
 
   @override

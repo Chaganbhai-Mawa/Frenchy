@@ -1,5 +1,3 @@
-import 'dart:async';
-
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
@@ -19,11 +17,12 @@ Future<void> main() async {
   final settings = await LocalSettingsRepository(store).getSettings();
   final progress = await LocalProgressRepository(store).getProgress();
 
-  // Fire-and-forget: ad SDK init + preloading runs in the background so it
-  // never delays the first frame, but starts early enough that the app-open
-  // ad is usually ready by the time the splash screen finishes.
+  // AdsService.initialize() is NOT called here: iOS silently skips the App
+  // Tracking Transparency prompt if it's requested before the app has a
+  // visible/key window, which is exactly what happens if this runs before
+  // runApp(). It's kicked off instead from FrenchlyApp's first post-frame
+  // callback (see app/app.dart), once the window is actually up.
   final ads = AdsService();
-  unawaited(ads.initialize());
 
   runApp(
     ProviderScope(
